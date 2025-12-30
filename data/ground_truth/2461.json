@@ -1,0 +1,27 @@
+{
+  "url": "https://daveverse.org/2025/12/18/inoreader-and-dynamic-opml",
+  "file_id": "2461",
+  "downloaded_at": "2025-12-20T23:15:15.662840",
+  "ground_truth": {
+    "title": "Inoreader and dynamic OPML",
+    "author": null,
+    "publish_date": "2025-12-18",
+    "main_content": "This post was updated thanks to help from Andrew Shell. I have a free account at Inoreader. I was reminded today that they support dynamic OPML subscription lists, and decided to give it a try. You can subscribe to an OPML subscription list. Exactly the same format we used for importing lists. This means I can use the same feed list in two readers. Or I could share my list with everyone who subscribes to my newsletter. I can update the list, and the flow of news to the subscribers changes too. I tried subscribing to my podcast list in Inoreader. 1. Put the URL to my podcast list on the clipboard. 2. Go to this page on the Inoreader site. 3. Click the big blue Subscribe to OPML button. 4. Paste the URL from the first step into the dialog. 5. Enter a folder name and description. 6. For synchronization I recommend the second option, full synchronization. 7. Then click Save, and if it worked, you should see the OPML file in a list. It worked. I now can see my podcast updates in Inoreader, exactly as if it was in FeedLand. And when I add new feeds they show up over there, same when I remove. It'll be very interesting to see how it changes over time. I'll let you know! 😉 Links • Listening lists, as a feature for podcasts. • This is where I was accumulating short URLs for subscription lists. Started it in Sept. The short URL for the blogroll.",
+    "with": [
+      "This post was updated thanks to help from Andrew Shell.",
+      "I have a free account at Inoreader. I was reminded today that they support dynamic OPML subscription lists, and decided to give it a try.",
+      "You can subscribe to an OPML subscription list. Exactly the same format we used for importing lists.",
+      "It worked. I now can see my podcast updates in Inoreader, exactly as if it was in FeedLand.",
+      "And when I add new feeds they show up over there, same when I remove."
+    ],
+    "without": [
+      "daveverse",
+      "Dave's WordPress home in the Fediverse :-)",
+      "Last update: 12/18/25; 4:50:04 PM.",
+      "Discover more from daveverse",
+      "Subscribe now to keep reading and get access to the full archive."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T23:15:15.662844"
+}

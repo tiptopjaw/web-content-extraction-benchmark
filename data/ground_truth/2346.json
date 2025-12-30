@@ -1,0 +1,27 @@
+{
+  "url": "https://v.redd.it/uv5isxukd98g1",
+  "file_id": "2346",
+  "downloaded_at": "2025-12-20T23:36:19.896509",
+  "ground_truth": {
+    "title": "🪶WindTunnels🪁 + Enemy Ai (WIP)",
+    "author": "HakanBacn",
+    "publish_date": "2025-12-20",
+    "main_content": "The windtunnels work as anyone would expect. Make the thing go brrrr and go have fun!\n\nOur new friend has 3 attack paterns:\n\n1. Normal close combat (can chain up to 3 different attacks, can be blocked and parried)\n\n2. Ball-mode: becomes a spikey ball and wrecks havok! (bounces towards the player and moves as well mid-air, flying against a wall will break the attack and stun the enemy)\n\n3. Beak-charge: Charges like a bullet towards the player (when hitting a wall, it will get stuck)\n\nRemaining issues/Missing features: State transitions, Beak-charge\n\nThe Enemy ai took such a long time...but after..oh it's 2am.. after 13 hours (including the visuals), I finally have some more gameplay! wohu...Imma sleep now",
+    "with": [
+      "The windtunnels work as anyone would expect. Make the thing go brrrr and go have fun!",
+      "Our new friend has 3 attack paterns:",
+      "Normal close combat (can chain up to 3 different attacks, can be blocked and parried)",
+      "Ball-mode: becomes a spikey ball and wrecks havok! (bounces towards the player and moves as well mid-air, flying against a wall will break the attack and stun the enemy)",
+      "The Enemy ai took such a long time...but after..oh it's 2am.. after 13 hours (including the visuals), I finally have some more gameplay! wohu...Imma sleep now"
+    ],
+    "without": [
+      "Skip to main content",
+      "Search in r/godot",
+      "Get the Reddit app",
+      "Log In",
+      "Reddit, Inc. © 2025. All rights reserved."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T23:36:19.896516"
+}

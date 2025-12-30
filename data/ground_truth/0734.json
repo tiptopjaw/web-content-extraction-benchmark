@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bbrown.com/us/insight/protecting-your-smart-home-balancing-physical-and-cyber-security/",
+  "file_id": "0734",
+  "downloaded_at": "2025-12-20T20:10:57.858715",
+  "ground_truth": {
+    "title": "Protecting Your Smart Home | Balancing Physical and Cyber Security",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Homeowners are increasingly investing in home security systems to protect their families and property from potentially harmful situations. While there are many different ways to secure a home, most families invest in security and doorbell cameras. Due to increasing rates of larceny theft, around 3 in 5 families spent $1,000 or more on security cameras in 2023. In major cities, larceny theft accounted for 70% of all reported U.S. crime.\n\nSecurity Systems in Your Home Could Invite Cyber Risks\n\nWhile it is important for homeowners to protect themselves, it is also crucial to be aware of the cyber and privacy concerns of having a security system in their homes. In 2024, smart home attacks increased by 124% with an estimated 10 attacks per day on some devices. Without proper safeguarding, security devices are subject to several data attacks, including malware, data breaches and more.\n\nWhat is Cyber Coverage?\n\nPersonal cyber insurance provides an additional layer of security for homes. It can help individuals recover from cyber incidents and mitigate the financial impact these incidents could have on them. Cyber coverage can be added to homeowners’ and renters’ insurance policies or purchased standalone. This coverage provides protection for…\n\n• Cyberattacks\n• Cyberbullying\n• Data Breaches\n• Cyber Extortion\n• Online Fraud\n\nScenarios\n\n• A family hosts a playdate, and the visiting children connect their devices to the home Wi-Fi. Unbeknownst to the hosts, one of the devices is infected with malware. The network is compromised within hours, exposing personal files and smart device controls. Cyber insurance can help cover the cost of breach recovery and device reprogramming.\n• Smart bulbs connected to the home Wi-Fi are only protected by the router. An attacker exploits this weak point to infiltrate the network and gain access to other smart devices. Cyber insurance can assist with forensic investigations and help secure the network against future attacks.\n• The hacker takes control of the family’s smart security cameras, monitoring their daily routines and threatening to release the footage unless they are paid. Cyber extortion coverage provides financial protection and expert negotiation support.\n\nHow Cyber Coverage Can Help\n\nCyber coverage can help homeowners protect themselves from the financial impacts of recovering from a cyberattack. Cyber coverage gives homeowners peace of mind, defending their home security systems against potential attacks. Personal cyber insurance offers a valuable safeguard, helping mitigate the risks and recover from cyber incidents. While it is impossible to prevent data attacks, obtaining full coverage can protect you from the potential effects of cyberattacks.\n\nBrown & Brown’s Personal Insurance team is dedicated to helping our customers find solutions that fit their lifestyles. We understand the complexities of protecting personal online data and managing potential cyber risks.",
+    "with": [
+      "Homeowners are increasingly investing in home security systems to protect their families and property from potentially harmful situations.",
+      "In 2024, smart home attacks increased by 124% with an estimated 10 attacks per day on some devices.",
+      "Personal cyber insurance provides an additional layer of security for homes. It can help individuals recover from cyber incidents and mitigate the financial impact these incidents could have on them.",
+      "Cyber coverage can help homeowners protect themselves from the financial impacts of recovering from a cyberattack.",
+      "Brown & Brown’s Personal Insurance team is dedicated to helping our customers find solutions that fit their lifestyles."
+    ],
+    "without": [
+      "Skip to content",
+      "About Us | Leadership | Culture | Diversity Inclusion Belonging",
+      "Download PDF",
+      "Previous | Next",
+      "Legal Notices | Your Privacy Rights | Do Not Sell/Share/Limit Disclosure | Manage Cookies"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:10:57.858721"
+}

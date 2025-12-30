@@ -1,0 +1,27 @@
+{
+  "url": "https://www.goodreads.com/shelf/show/tutorial",
+  "file_id": "1301",
+  "downloaded_at": "2025-12-20T20:31:49.338251",
+  "ground_truth": {
+    "title": "Tutorial Books",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Tutorial Books\nShowing 1-50 of 392\n\nThe Rust Programming Language (ebook) by Steve Klabnik (shelved 2 times as tutorial) avg rating 4.50 — 1,771 ratings — published \nThe New Drawing on the Right Side of the Brain (Paperback) by Betty Edwards (shelved 2 times as tutorial) avg rating 3.87 — 379,173 ratings — published 1979\nHands-On Machine Learning with Scikit-Learn and TensorFlow (ebook) by Aurélien Géron (shelved 2 times as tutorial) avg rating 4.55 — 2,782 ratings — published 2017\nThe Little Book of Big F*#k Ups: 220 of History's Most-Regrettable Moments (Paperback) by Ken Lytle (shelved 2 times as tutorial) avg rating 3.46 — 82 ratings — published 2011\nSave the Cat: The Last Book on Screenwriting You'll Ever Need (Paperback) by Blake Snyder (shelved 2 times as tutorial) avg rating 4.02 — 21,659 ratings — published 2005\nProgramming Perl (Hardcover) by Tom Christiansen (shelved 2 times as tutorial) avg rating 4.06 — 2,301 ratings — published 1991\nThe C++ Standard Library: A Tutorial and Reference (Hardcover) by Nicolai M. Josuttis (shelved 2 times as tutorial) avg rating 4.21 — 623 ratings — published 1999\nThe Turn of the Screw (Paperback) by Henry James (shelved 1 time as tutorial) avg rating 3.38 — 178,694 ratings — published 1898\nCarmilla (Paperback) by J. Sheridan Le Fanu (shelved 1 time as tutorial) avg rating 3.87 — 191,405 ratings — published 1872\nDracula (Paperback) by Bram Stoker (shelved 1 time as tutorial) avg rating 4.02 — 1,462,628 ratings — published 1897\nThe Picture of Dorian Gray (Paperback) by Oscar Wilde (shelved 1 time as tutorial) avg rating 4.13 — 1,853,402 ratings — published 1890\nFrankenstein: The 1818 Text (Paperback) by Mary Wollstonecraft Shelley (shelved 1 time as tutorial) avg rating 3.90 — 1,862,330 ratings — published 1818\nWuthering Heights (Paperback) by Emily Brontë (shelved 1 time as tutorial) avg rating 3.90 — 2,021,257 ratings — published 1847\nDr. Jekyll and Mr. Hyde (Mass Market Paperback) by Robert Louis Stevenson (shelved 1 time as tutorial) avg rating 3.83 — 660,477 ratings — published 1886\nJane Eyre (Paperback) by Charlotte Brontë (shelved 1 time as tutorial) avg rating 4.16 — 2,305,825 ratings — published 1847",
+    "with": [
+      "Tutorial Books",
+      "Showing 1-50 of 392",
+      "The Rust Programming Language (ebook) by Steve Klabnik (shelved 2 times as tutorial) avg rating 4.50 — 1,771 ratings — published",
+      "The New Drawing on the Right Side of the Brain (Paperback) by Betty Edwards (shelved 2 times as tutorial) avg rating 3.87 — 379,173 ratings — published 1979",
+      "Hands-On Machine Learning with Scikit-Learn and TensorFlow (ebook) by Aurélien Géron (shelved 2 times as tutorial) avg rating 4.55 — 2,782 ratings — published 2017"
+    ],
+    "without": [
+      "Home",
+      "My Books",
+      "Browse ▾",
+      "Discover new books on Goodreads",
+      "Sign in with Facebook"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:31:49.338258"
+}

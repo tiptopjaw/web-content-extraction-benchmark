@@ -1,0 +1,27 @@
+{
+  "url": "https://www.budget.com/en/cars/vehicles/us/a",
+  "file_id": "0160",
+  "downloaded_at": "2025-12-20T18:47:03.529253",
+  "ground_truth": {
+    "title": "Economy Car Rental [Rent a Small Car] | Budget Car Rental",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Book an Economy Car Rental\nKia Rio or Similar\nWhat is an economy car?\nThis type of vehicle usually has 4 doors and seating for 5 passengers. An economy car is the smallest of all vehicle groups. The name comes from the affordable rental price and excellent fuel economy—most economy car rentals offer a stellar 30 MPG or better. This is a great option for anyone taking a long road trip or wanting to maximize their savings while traveling. Keep reading to learn more about the various makes, models, and benefits of economy rental cars from Budget.\nFord Fiesta\nThe popular Ford Fiesta rental is an excellent value, offering great gas mileage, ease of parking, and an overall enjoyable ride.\nHyundai Accent\nWith a Hyundai Accent rental from Budget you get an affordable economy vehicle with plenty of cabin space, plus enviable handling and driving power.\nKia Rio\nThe Kia Rio rental is the perfect car for those wanting an efficient vehicle that also packs a powerful punch and has impressive safety scores.\nSmart Car\nA Smart Car rental is perfect when traveling alone or in a twosome. You’ll be able to park with ease and get incredible gas mileage anywhere you go with this small car rental.\nVolkswagen Golf\nChoose a Volkswagen Golf rental and get many perks, including easy handling, a hatchback cargo area, and roomy inside for up to 5 passengers.\nVehicle make, model, trim, features and color are not guaranteed and are subject to location and availability. Vehicles listed for this car group are subject to change at anytime. Vehicle features are subject to change based on the vehicle model-year.\nFrequently Asked Questions\nHow can I rent an economy car?\nEconomy car rental couldn’t be easier with Budget. Get started with your reservation by filling out the booking form at the top of the page. Enter your desired pickup location and date. Then book your vehicle on the following page.\nWhere can I rent an economy car from Budget?\nWe have Budget Car Rental locations across the country, including at countless airports. You’ll likely find a Budget location near your desired pickup point, or possibly close to where you are now. Pop your preferred pickup location into the form above to see what vehicles are available.\nSimilar Car Options\nExplore Compact Cars\nExplore Midsize Cars\nExplore Standard Cars\nEconomy Car Rental Benefits\nAn economy rental is perfect for small groups who don’t need a huge amount of room and are looking to save some serious money on vehicle costs. A small car like this will get you where you need to go reliably but with a fraction of the gas that a larger, flashier ride might require. You’ll also be able to maneuver easily in traffic and park in a snap, simplifying your driving experience. An economy car rental offers many additional benefits, including:\nGreat Gas Mileage\nReasonably Priced\nComfortable Interior\nReliability",
+    "with": [
+      "This type of vehicle usually has 4 doors and seating for 5 passengers.",
+      "The name comes from the affordable rental price and excellent fuel economy—most economy car rentals offer a stellar 30 MPG or better.",
+      "The Kia Rio rental is the perfect car for those wanting an efficient vehicle that also packs a powerful punch and has impressive safety scores.",
+      "Economy car rental couldn’t be easier with Budget. Get started with your reservation by filling out the booking form at the top of the page.",
+      "An economy rental is perfect for small groups who don’t need a huge amount of room and are looking to save some serious money on vehicle costs."
+    ],
+    "without": [
+      "Sign into your Budget Account",
+      "Please enter your Budget password to login",
+      "Reservations\nMake a Reservation\nView / Modify / Cancel\nBudget Truck\nGet e-Receipt\nBUDGET PRECHECK",
+      "Deals\nUS Deals\nInternational Deals\nPartner Deals",
+      "© 2024 Budget Car Rental, LLC. All rights reserved."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T18:47:03.529258"
+}

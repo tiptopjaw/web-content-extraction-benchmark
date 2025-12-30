@@ -1,0 +1,27 @@
+{
+  "url": "https://www.digitaltrends.com/home/your-ring-doorbell-now-lets-alexa-answer-the-door-for-you",
+  "file_id": "2803",
+  "downloaded_at": "2025-12-20T23:44:37.342410",
+  "ground_truth": {
+    "title": "Your Ring doorbell now lets Alexa+ answer the door for you",
+    "author": "Pranob Mehrotra",
+    "publish_date": "2025-12-19",
+    "main_content": "Following the recent launch of Alexa+ on the web, Amazon is now bringing its AI assistant to your Ring doorbell. The company has announced a new feature that lets Alexa answer the door and hold short conversations with visitors, even when you’re not at home. The feature, called Alexa+ Greetings, allows Ring doorbells to respond to people at your door using conversational AI. Amazon explains that when someone rings the bell, Alexa can now detect what’s happening using the doorbell’s camera and audio feed, and then reply accordingly. For example, it can ask a delivery driver to leave a package in a specific spot, tell a salesperson you’re not available, or greet a familiar visitor and take a message. Amazon says the system relies on a combination of Ring’s existing video summaries and Alexa’s upgraded generative AI capabilities. It’s quite flexible and lets users set up custom interactions through the Ring app, telling Alexa exactly how to respond in different situations. The conversations are recorded and saved alongside the video clip, letting users review the interaction later. Alexa+ Greetings effectively turns Ring doorbells “into an intelligent assistant capable of determining who’s at your door, understanding what they need and responding conversationally.” Instead of checking alerts or the live view from the doorbell, Alexa can handle basic interactions on your behalf, which can be useful if you’re away or busy. The feature shows how Amazon is positioning Alexa+ as a more versatile assistant that extends beyond smart speakers and displays. For Ring users already invested in Amazon’s ecosystem, it adds another layer of automation to the front door. If you’re itching to try Alexa+ Greetings, you may have to wait a while. Amazon says the feature is currently limited to Alexa+ Early Access users in the US and Canada. It only works on select wired Ring doorbell models, requires a Ring subscription, and only supports English.",
+    "with": [
+      "Following the recent launch of Alexa+ on the web, Amazon is now bringing its AI assistant to your Ring doorbell.",
+      "The feature, called Alexa+ Greetings, allows Ring doorbells to respond to people at your door using conversational AI.",
+      "Alexa+ Greetings effectively turns Ring doorbells “into an intelligent assistant capable of determining who’s at your door, understanding what they need and responding conversationally.”",
+      "The feature shows how Amazon is positioning Alexa+ as a more versatile assistant that extends beyond smart speakers and displays.",
+      "Amazon says the feature is currently limited to Alexa+ Early Access users in the US and Canada. It only works on select wired Ring doorbell models, requires a Ring subscription, and only supports English."
+    ],
+    "without": [
+      "Digital Trends may earn a commission when you buy through links on our site. Why trust us?",
+      "Recommended Videos",
+      "Save 34% on this 4K wireless outdoor security camera with solar power and 180° dual-lens coverage",
+      "Upgrade your inbox: sign-up for our newsletters",
+      "Upgrade your lifestyleDigital Trends helps readers keep tabs on the fast-paced world of tech with all the latest news, fun product reviews, insightful editorials, and one-of-a-kind sneak peeks."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T23:44:37.342416"
+}

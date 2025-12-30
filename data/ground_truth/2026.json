@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bcbs.com/explore-affordable-health-plans/individual-family-health-insurance",
+  "file_id": "2026",
+  "downloaded_at": "2025-12-20T22:00:49.698255",
+  "ground_truth": {
+    "title": "Individual & Family Health Plans",
+    "author": null,
+    "publish_date": null,
+    "main_content": "We understand choosing the right health insurance for you and your family is an important decision. Let us help you find the individual or family health insurance plan that's right for you.\n\nVisit your local Blue Cross and Blue Shield (BCBS) company website to explore your coverage options.\n\nFind the Local Health Insurance Option That Meets Your Needs\nBCBS has been a trusted provider for 90+ years. We’ve taken care of families just like yours all across the country. Enter your ZIP Code and let us help you find the insurance plan that’s right for you.\n\nDistinguished Health Care\nBlue Distinction® Specialty Care programs help connect you with high quality doctors and hospitals that provide exceptional patient care. Feel confident in your health plan choice, knowing you’re getting quality care that’s right for you.\n\nMember Discounts\nBCBS members have access to exclusive discounts on health and wellness products and services.\n\nNeed Global Coverage?\nBlue Cross Blue Shield Global Solutions℠ provides a full range of health care coverage solutions for people who live, work and travel internationally.\n\nFind out More\nLooking to find answers to your billing, claim forms and health benefits questions? Use these online resources to get the information you need.",
+    "with": [
+      "We understand choosing the right health insurance for you and your family is an important decision. Let us help you find the individual or family health insurance plan that's right for you.",
+      "Visit your local Blue Cross and Blue Shield (BCBS) company website to explore your coverage options.",
+      "BCBS has been a trusted provider for 90+ years. We’ve taken care of families just like yours all across the country. Enter your ZIP Code and let us help you find the insurance plan that’s right for you.",
+      "Blue Distinction® Specialty Care programs help connect you with high quality doctors and hospitals that provide exceptional patient care. Feel confident in your health plan choice, knowing you’re getting quality care that’s right for you.",
+      "BCBS members have access to exclusive discounts on health and wellness products and services."
+    ],
+    "without": [
+      "Members Explore Plans About Us News & Insights",
+      "Home Explore Plans",
+      "© 2025 Blue Cross Blue Shield Association. All Rights Reserved.",
+      "Privacy Policy Terms & Conditions Cookie Policy Health Care Fraud",
+      "Don't miss out: Open enrollment 2026 is here!"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:00:49.698263"
+}

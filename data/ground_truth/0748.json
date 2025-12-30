@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bayareaparent.com/best-tutoring-services-in-the-bay-area/",
+  "file_id": "0748",
+  "downloaded_at": "2025-12-20T20:16:02.173014",
+  "ground_truth": {
+    "title": "Best Tutoring or Learning Center in the Bay Area",
+    "author": "Bay Area Parent",
+    "publish_date": "2025-07-29",
+    "main_content": "These Tutoring or Learning Centers are the winners of the 2025 Best of Bay Area Parent reader poll. Read the full list of winners here.\n\nEast Bay\nGold: Brain-O-Magic. This enrichment program strives to improve students’ speed and accuracy in arithmetic and overall focus. Multiple locations. brainomagic.com.\nSilver: Athens Debate. Multiple locations. athensdebate.com.\n\nPeninsula\nGold: Workshop Education. Helps children discover their unique strengths and enjoy social connections through learning. After-school enrichment classes focus on lifelong education. Multiple locations. workshopeducation.org.\nSilver: PlayThrive Whole Child Education. Redwood City. playthrive.org.\nBronze: AJ Tutoring. Multiple locations. ajtutoring.com.\n\nSan Francisco/Marin\nGold: Alexander Tutoring. Its method instills positive emotions toward math and physics and helps students become passionate problem-solvers. Multiple locations. alexandertutoring.com.\nSilver: Sentence Center. San Francisco. sentencecenter.com.\n\nSilicon Valley\nGold: Silver Creek Academy. This award-winning tutoring and academic achievement center provides challenging curriculum, credentialed teachers and low ratios. San Jose. scaasanjose.com.\nSilver: Mathnasium. Los Gatos location. mathnasium.com/math-centers/campbell.\nBronze: Center For Developing Minds. Los Gatos. devminds.com.",
+    "with": [
+      "These Tutoring or Learning Centers are the winners of the 2025 Best of Bay Area Parent reader poll.",
+      "Gold: Brain-O-Magic. This enrichment program strives to improve students’ speed and accuracy in arithmetic and overall focus.",
+      "Gold: Workshop Education. Helps children discover their unique strengths and enjoy social connections through learning.",
+      "Gold: Alexander Tutoring. Its method instills positive emotions toward math and physics and helps students become passionate problem-solvers.",
+      "Gold: Silver Creek Academy. This award-winning tutoring and academic achievement center provides challenging curriculum, credentialed teachers and low ratios."
+    ],
+    "without": [
+      "Advertise",
+      "Subscribe",
+      "Follow us on Social Media",
+      "LATEST POSTS",
+      "© Copyright Bay Area Parent, 380 S 1st Street San Jose, CA | Terms of Use | Privacy Policy"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:16:02.173021"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.thehoopsgeek.com/shoe-reviews/",
+  "file_id": "0146",
+  "downloaded_at": "2025-12-20T18:43:14.551527",
+  "ground_truth": {
+    "title": "Basketball Shoe Reviews - 369 Shoes starting from $41.23",
+    "author": null,
+    "publish_date": "2024-03-28",
+    "main_content": "Basketball Shoe Reviews\n369 Shoes available\nSorted By: Release date\n\nAdidas AE 2\nreleased Oct. 2025\nfrom $130.00\nBuy from 3 Shops\nrating based on 8 expert reviews: 8.6\nThe Adidas AE 2 offers the same performance as the AE 1 at a lighter weight.\nThis shoe is best for quick and shifty players.\n\nUnder Armour Curry Fox 2\nreleased Sep. 2025\nfrom $120.00\nBuy from Under Armour\nrating based on 3 expert reviews: 7.7\nThe Curry Fox 2 offers excellent traction and a familiar feeling to the Curry Fox 1.\nThis shoe is best for fans of the original Curry Fox 1.\n\nPuma MB.05\nreleased Sep. 2025\nfrom $114.99 (List: $130)\nBuy from 2 Shops\nrating based on 3 expert reviews: 8.2\nThe Puma MB.05 could be LaMelo's best signature shoe thanks to the improved cushioning.\nThe shoe is best for fans of previous models who might want more cushioning.\n\nPuma Hali 1\nreleased Sep. 2025\nfrom $130.00\nBuy from 2 Shops\nrating based on 6 expert reviews: 8.4\nThe Puma Hali 1 might be one of the brand's best performance shoes. The traction, in particular, is fantastic.\nThis shoe is best for Puma basketball fans looking for something different.\n\nNike Ja 3\nreleased Aug. 2025\nrating based on 10 expert reviews: 8.2\nThe Nike Ja 3 plays fast, smooth, and low to the ground. The reliable traction is its best feature.\nThe Ja 3 is perfect for players who are fast, quick, and explosive.\n\nAdidas D.O.N. Issue 7\nreleased Aug. 2025\nfrom $95.97 (List: $120)\nBuy from 4 Shops\nrating based on 8 expert reviews: 8.7\nThe Adidas D.O.N. Issue 7 is a step up in performance thanks to its excellent cushioning and improved cushioning.\nThis shoe is suitable for all positions and play styles. It has something for everyone.\n\nNike Giannis Freak 7\nreleased Aug. 2025\nfrom $75.97 (List: $115)\nBuy from 2 Shops\nrating based on 7 expert reviews: 7.8\nThe Nike Giannis Freak 7 is a decent performance shoe at a lower price point. The traction is the highlight feature.\nThe Freak 7 is best for players who want reliable traction without excess springy cushioning.\n\nUnder Armour Curry Series 7\nreleased Aug. 2025\nfrom $160.00\nBuy from Under Armour\nrating based on 5 expert reviews: 8.5\nThe Curry Series 7 might be the best Curry shoe to date.\nThe Series 7 is best for fans of the Flow traction who also want more cushioning.\n\nNike Kobe Protro 3\nreleased Aug. 2025\nfrom $169.99 (List: $210)\nBuy from Foot Locker\nrating based on 4 expert reviews: 8.2\nThe Nike Kobe 3 Protro offers decent traction with upgraded cushioning.\nThis shoe is a great pick for players seeking a modern high-top basketball shoe.\n\nAir Jordan 40\nreleased Jul. 2025\nfrom $205.00\nBuy from 2 Shops\nrating based on 7 expert reviews: 9.0\nThe Jordan 40 is one of the best mainline performers released in a while, thanks to its cushioning and materials.\nThe Air Jordan 40 is best for players who enjoy maximum bounce and impact protection.\n\nNike Sabrina 3\nreleased Jul. 2025\nfrom $94.97 (List: $135)\nBuy from 4 Shops\nrating based on 5 expert reviews: 8.4\nThe Nike Sabrina 3 makes minor upgrades to the traction and cushioning.\nThis shoe is best for players who prefer minimal setups.\n\nConverse Shai 001\nreleased Jul. 2025\nrating based on 8 expert reviews: 8.3\nThe Converse Shai 001 combines excellent traction and support with minimal cushioning for a strong debut shoe.\nThe Shai 001 is best for players who play fast and prefer minimal setups.\n\nPuma All Pro Nitro 2\nreleased Jul. 2025\nrating based on 4 expert reviews: 8.3\nThe Puma All-Pro Nitro 2 is a solid, balanced performance shoe with excellent traction.\nThis shoe is best for players who want impact protection while still feeling quick and responsive.\n\nAdidas Dame X\nreleased Jun. 2025\nfrom $71.99 (List: $90)\nBuy from 4 Shops\nrating based on 6 expert reviews: 8.0\nThe Adidas Dame X delivers reliable traction and cushioning at a budget-friendly price.\nThis shoe is best for price-conscious players looking for a well-rounded performer.\n\nNew Balance Fresh Foam BB V3\nreleased Jun. 2025\nfrom $103.99 (List: $130)\nBuy from DICK's\nrating based on 5 expert reviews: 8.8\nThe New Balance Fresh Foam BB V3 is an excellent performer with maximum cushioning.\nThis shoe is for players who want maximum cushioning and protection.\n\nLi-Ning Wade DLo 1\nreleased Jun. 2025\nfrom $119.00 (List: $120)\nBuy from Way of Wade",
+    "with": [
+      "The Adidas AE 2 offers the same performance as the AE 1 at a lighter weight.",
+      "The Nike Ja 3 plays fast, smooth, and low to the ground. The reliable traction is its best feature.",
+      "The Jordan 40 is one of the best mainline performers released in a while, thanks to its cushioning and materials.",
+      "The Adidas Dame X delivers reliable traction and cushioning at a budget-friendly price.",
+      "The New Balance Fresh Foam BB V3 is an excellent performer with maximum cushioning."
+    ],
+    "without": [
+      "Skip to content",
+      "Main Menu",
+      "Search for:",
+      "Advertisement text",
+      "Cookie consent banner"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T18:43:14.551532"
+}

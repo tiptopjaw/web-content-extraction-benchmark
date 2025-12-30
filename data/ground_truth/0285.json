@@ -1,0 +1,32 @@
+{
+  "url": "https://www.avis.com/en/home",
+  "file_id": "0285",
+  "downloaded_at": "2025-12-20T18:31:06.117724",
+  "ground_truth": {
+    "title": "Car Rentals from Avis | Book Online & Save Now",
+    "author": null,
+    "publish_date": null,
+    "main_content": "TRAVEL BETTER\nPremium cars. Seamless service. Smarter ways to hit the road.\n\nARRIVE IN STYLE, WHATEVER THE SEASON\nNo counters. No chaos. Just a premium ride waiting for you at arrival.\nExplore our first-class collection from Mercedes, Cadillac, Genesis and more.\nNeed something mid-journey? Simply message us in the app for instant support.\n\nHANDPICKED FOR THE ROAD AHEAD\nFall-ready rides, flexible offers, and smarter travel perks, made for you.\n\nDRIVE INTO FALL WITH UP TO 35% OFF\nSave big when you Pay Now - perfect for fall weekends.\n\nBEST IN CLASS. MADE FOR FALL.\nExplore traveler-favorite SUVs - ideal for getaways, gear, and golden miles ahead.\n\nFALL FLASH SALE\nSave up to 30% in select cities - just in time for fall escapes.\n\nPICK THE PERFECT RIDE\nFrom coastlines to city streets - explore our best options for fall travel.\n\nPremium Elite SUV\nLincoln Navigator or Similar\n7 passengers, 4 carry-ons\n\nSignature Series\nCadillac XT6 or Similar\n5 passengers, 4 carry-ons\n\nStandard Elite Sport\nMercedes-Benz C300 or Similar\n5 passengers, 4 carry-ons",
+    "with": [
+      "TRAVEL BETTER\nPremium cars. Seamless service. Smarter ways to hit the road.",
+      "ARRIVE IN STYLE, WHATEVER THE SEASON\nNo counters. No chaos. Just a premium ride waiting for you at arrival.",
+      "HANDPICKED FOR THE ROAD AHEAD\nFall-ready rides, flexible offers, and smarter travel perks, made for you.",
+      "DRIVE INTO FALL WITH UP TO 35% OFF\nSave big when you Pay Now - perfect for fall weekends.",
+      "PICK THE PERFECT RIDE\nFrom coastlines to city streets - explore our best options for fall travel."
+    ],
+    "without": [
+      "Book",
+      "Manage Booking",
+      "Business Rentals",
+      "Avis Preferred",
+      "Deals",
+      "Sign in or Join",
+      "Driver's Age: 25+",
+      "Residency: US",
+      "Apply Wizard Number",
+      "Loading vehicle card"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T18:31:06.117731"
+}

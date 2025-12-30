@@ -1,0 +1,27 @@
+{
+  "url": "https://gfs.com/en-us/",
+  "file_id": "2086",
+  "downloaded_at": "2025-12-20T22:41:50.308760",
+  "ground_truth": {
+    "title": "Gordon Food Service | Food Distributor for Restaurants, Hospitals, Schools",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Your Dedicated Foodservice Partner\nWe deliver over 125 years of expertise as North America's largest family-operated food distributor, committed to your operation's success.\n\nVast Selection, Reliable Delivery\nWe provide a vast selection of products, from national brands to our own high-quality private labels, delivered reliably to your restaurant, business, or operation.\n\nInnovative Tools For Efficiency\nStreamline your operations with our user-friendly technology, including Gordon Ordering and the Gordon Now App.\n\nNow Open in Colorado. No Membership Required.\nUnlock access to chef-quality ingredients and bulk savings. Open to the public, seven days a week.\n\nSolutions to Simplify Your Business\nDiscover our innovative technology and services designed to simplify operations, reduce costs, and maximize your efficiency.\n\nSimplify Your Ordering Process\nOrder online anytime, track deliveries, and manage your inventory with ease using Gordon Ordering.\n\nOn The Go With Our App\nThe Gordon Now App lets you place orders, browse products, and manage your account right from your mobile device.\n\nOptimize Your Menu Management\nGordon Restaurant Pro helps you control costs, plan menus, and analyze sales data to maximize profitability.\n\nFind the Right Tech for Your Restaurant\nNavigate hundreds of tech options to discover the best fit for your operations—plus, access to exclusive deals.\n\nDelivering Quality & Expertise\nExplore our wide range of products and services designed to enhance your operations and delight your customers.\n\nQuality Ingredients, Delivered On Time\nWe offer a wide selection of fresh, frozen, and dry goods to meet all your menu needs.\n\nReliable Distribution Network\nOur established distribution network ensures your orders are delivered on time and ready for application.\n\nTrusted Brands, Exceptional Value\nDiscover our exclusive brands that help you cut costs without sacrificing quality.\n\nSpecialized Solutions for Your Needs\nOur specialty companies provide tailored solutions for specific foodservice tastes and operational needs.\n\nEssential Equipment & Supplies\nFind a comprehensive selection of kitchen equipment, tabletop items, and supplies.\n\nInnovative Technology Solutions\nStreamline your operations with our user-friendly online ordering, inventory management, and menu planning tools.\n\nCulinary Expertise & Support\nAccess culinary resources, trends, and expert advice to inspire your menu and enhance your offerings.\n\nCommitted to Sustainability",
+    "with": [
+      "We deliver over 125 years of expertise as North America's largest family-operated food distributor, committed to your operation's success.",
+      "We provide a vast selection of products, from national brands to our own high-quality private labels, delivered reliably to your restaurant, business, or operation.",
+      "Streamline your operations with our user-friendly technology, including Gordon Ordering and the Gordon Now App.",
+      "Discover our innovative technology and services designed to simplify operations, reduce costs, and maximize your efficiency.",
+      "Explore our wide range of products and services designed to enhance your operations and delight your customers."
+    ],
+    "without": [
+      "Sign In",
+      "Become a Customer",
+      "Store Locator",
+      "Careers",
+      "Business Solutions"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:41:50.308766"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://onemileatatime.com/reviews/hotels/",
+  "file_id": "1528",
+  "downloaded_at": "2025-12-20T21:48:06.926301",
+  "ground_truth": {
+    "title": "Hotel Reviews",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Hotel Reviews\nOMAAT independently reviews luxury properties (and tells you how to get extra perks), along with the best (and sometimes worst) points hotels, so that you can make more informed decisions for your own travel.\n\nLatest hotel reviews\n\nReview: Park Hyatt London River Thames (Solid Generic Luxury Hotel)\nSeptember 14, 2025\nBen Schlappig\n37 comments\n\nReview: Koenigshof Munich, Marriott Luxury Collection (I’d Return!)\nSeptember 9, 2025\nBen Schlappig\n15 comments\n\nReview: St. Regis Kanai Resort, Riviera Maya, Mexico (I’m Impressed!)\nAugust 27, 2025\nBen Schlappig\n52 comments\n\nReview: Hilton Dublin Airport (DUB)\nJuly 8, 2025\nBen Schlappig\n26 comments\n\nReview: InterContinental Minneapolis St. Paul Airport (MSP)\nJune 29, 2025\nBen Schlappig\n27 comments\n\nReview: The Vinoy St. Petersburg, Marriott Autograph Collection (Lovely!)\nJune 24, 2025\nBen Schlappig\n20 comments\n\nReview: St. Regis Longboat Key, Florida (Family Friendly Paradise)\nJune 21, 2025\nBen Schlappig\n37 comments\n\nReview: Courtyard Paris Charles De Gaulle Airport (CDG)\nMay 26, 2025\nBen Schlappig\n17 comments\n\nReview: Ritz-Carlton New York NoMad (Modern, With Great Dining)\nMay 18, 2025\nBen Schlappig\n35 comments\n\nReview: Ritz-Carlton Reserve Niseko Higashiyama, Japan (Underwhelming)\nMay 5, 2025\nBen Schlappig\n33 comments\n\n1 2 3 … 67 Next »\n\nNew to One Mile at a Time?\nCheck out these guides to get started earning and redeeming miles and points:\nCredit Card Points Strategy for Beginners\nTypes of Miles and Points\nTop Credit Card Offers This Month\n\nJoin the OMAAT Newsletter\nEmail Address\nDaily\nWeekly\nPromotions\nJoin Now\n\nRecent hotel deals\n\nRosewood Hotels Selling Gift Cards With 10% Bonus: Worth It?\nDecember 13, 2025\nBen Schlappig\n2 comments\n\nSave On Mandarin Oriental Hotel Stays With Amex Offers (Targeted)\nSeptember 4, 2025\nBen Schlappig\n2 comments\n\nSave At Peninsula Hotels With Amex Offers (Targeted)\nAugust 4, 2025\nBen Schlappig\n4 comments\n\nTRAVEL REVIEW\nReview: American Flagship Suite Business Class Boeing 787 (LHR-ORD)\nFor the final segment of my trip of downgrades, suspensions, and delays, I flew American Airlines’ Boeing 787-9 Flagship Suite business class on the 7hr50min flight from London (LHR) to Chicago (ORD). I couldn’t wait for this flight, as this was…\nRead More\nAll Travel Reviews\n\nMeet Ben, OMAAT Founder\n5,527,136\nMiles Traveled\nI’ve flown all of the major (and many minor) airlines, including every international first class cabin.\n39,914,500\nWords Written\nI write all my own content; no ghostwriters at OMAAT!\n42,354\nPosts Published\n15 years (and counting) of daily blogging add up.\nLearn More",
+    "with": [
+      "Hotel Reviews",
+      "OMAAT independently reviews luxury properties (and tells you how to get extra perks), along with the best (and sometimes worst) points hotels, so that you can make more informed decisions for your own travel.",
+      "Latest hotel reviews",
+      "Review: Park Hyatt London River Thames (Solid Generic Luxury Hotel)",
+      "Review: Koenigshof Munich, Marriott Luxury Collection (I’d Return!)"
+    ],
+    "without": [
+      "Advertiser Disclosure",
+      "Are you a member? Login Register",
+      "Join the OMAAT Newsletter",
+      "© 2025 - OMAAT | All rights reserved",
+      "News Reviews Deals Guides Insights Best Travel Credit Cards About"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:48:06.926307"
+}

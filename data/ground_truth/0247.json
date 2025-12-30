@@ -1,0 +1,27 @@
+{
+  "url": "https://www.dentalcare.com/en-us",
+  "file_id": "0247",
+  "downloaded_at": "2025-12-20T18:10:39.214363",
+  "ground_truth": {
+    "title": "Dental Care Information for Professionals | Dentalcare.com",
+    "author": null,
+    "publish_date": null,
+    "main_content": "TOGETHER WE CAN BUILD HEALTHIER & BRIGHTER SMILES\n150+ FREE Continuing Education Courses\nSearch Courses\nFeatured Courses\nEvidence-Based Guidelines for the Use of Over-the-Counter Oral Care Prophylactic Medicine\nCredit Hours: 1.5 Hour(s)\nPractical Panoramic Imaging\nCredit Hours: 3 Hour(s)\nIntraoral Imaging Techniques: Beyond the Textbook\nCredit Hours: 2 Hour(s)\nInterested in Crest + Oral-B Products?\nElectric\nManual\nToothpaste\nWhitening\nKids\nOther\nView All\nCrest+Oral-B iO Electric Toothbrush System - Professional Personal Use\nOrder Now\nCrest+Oral-B iO Transformational Gum Health Electric Toothbrush System\nOrder Now\nCrest + Oral-B iO Ortho Essentials Electric Rechargeable System\nOrder Now\nCrest + Oral-B iO9 Whitening & Gum Health System Black\nOrder Now\nOral-B Cross Action Compact Manual\nOrder Now\nOral-B Cross Action All-in-One Manual\nOrder Now\nOral-B Kids Graphics 6+ year manual\nOrder Now\nCROSSACTION™ Technology - Provides superior plaque removal\nOrder Now\nCrest Pro-Health Gum Detoxify\nOrder Now\nCrest Kids Color Changing Toothpaste\nOrder Now\nCrest Pro-Health Gum Detoxify Toothpaste Sample Size\nOrder Now\nClinically Proven Healthier Gums\nLearn More\nCrest 3DWhitestrips Professional White, 20 treatments\nOrder Now\nCrest 3DWhite Whitestrips with Light, Professional Exclusive\nOrder Now\nCrest Daily Whitening Serum\nOrder Now\nShop our Crest Whitening Special!\nOrder Now",
+    "with": [
+      "TOGETHER WE CAN BUILD HEALTHIER & BRIGHTER SMILES",
+      "150+ FREE Continuing Education Courses",
+      "Evidence-Based Guidelines for the Use of Over-the-Counter Oral Care Prophylactic Medicine",
+      "Practical Panoramic Imaging",
+      "Intraoral Imaging Techniques: Beyond the Textbook"
+    ],
+    "without": [
+      "REGISTER",
+      "LOGIN",
+      "Continuing Education",
+      "Professional Resources",
+      "For Your Patients"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T18:10:39.214368"
+}

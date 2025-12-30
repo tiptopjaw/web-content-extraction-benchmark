@@ -1,0 +1,27 @@
+{
+  "url": "https://developers.google.com/search",
+  "file_id": "0252",
+  "downloaded_at": "2025-12-20T18:13:07.506217",
+  "ground_truth": {
+    "title": "Google Search Central (formerly Webmasters) | Web SEO Resources",
+    "author": null,
+    "publish_date": null,
+    "main_content": "How to get your website on Google Search\nGoogle Search Central, formerly Google Webmasters, is here to help the right people view your content with resources to make your website discoverable to Google Search. New to SEO? Start by reading this introductory guide to SEO.\n\nWhy Google Search?\nBrowse SEO case studies and learn how other sites have reached more people by improving their site's presence on Google Search.\n\nCase study: Saramin increased organic Search traffic 2x\nIn addition to seeing a traffic increase, Saramin saw the quality of their traffic improve. They saw a 93% increase in the number of new sign ups and a 9% increase on the conversion.\n\nCase study: MX Player boosts organic traffic 3x\nAfter adding Video structured data and following best practices, MX Player saw over 3x growth in traffic from Google and a 100% increase of video page views per user session on their platform from organic Search traffic.\n\nCase study: ZipRecruiter grows conversion rate 4.5x\nAfter the launch of JobPosting structured data, Google organic traffic to ZipRecruiter job pages converted at a rate three times higher than organic traffic from other search engines.\n\nCheck out what's new on Google Search Central\nFind out the latest Google Search news, including recent announcements, upcoming events, changes to documentation, new videos, and podcast episodes.\n\nMonitor, debug, and optimize your site with Search Console\nSearch Console is a tool from Google that helps developers, website owners, and SEO professionals understand how their site is performing on Google Search.\n\nLooking for help?\nGet help with your site SEO, Google Search, search rankings, security issues, Search Console, and more.",
+    "with": [
+      "Google Search Central, formerly Google Webmasters, is here to help the right people view your content with resources to make your website discoverable to Google Search.",
+      "Browse SEO case studies and learn how other sites have reached more people by improving their site's presence on Google Search.",
+      "Search Console is a tool from Google that helps developers, website owners, and SEO professionals understand how their site is performing on Google Search.",
+      "New to SEO? Start by reading this introductory guide to SEO.",
+      "Find out the latest Google Search news, including recent announcements, upcoming events, changes to documentation, new videos, and podcast episodes."
+    ],
+    "without": [
+      "Skip to main content",
+      "Documentation Support Blog What's new Events Case studies",
+      "Join us on LinkedIn Watch our videos Subscribe to our RSS feed Listen to Search Off the Record Join us on X (Twitter)",
+      "Get support Resources Tools",
+      "Terms Privacy Manage cookies"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T18:13:07.506223"
+}

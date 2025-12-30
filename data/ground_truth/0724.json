@@ -1,0 +1,27 @@
+{
+  "url": "https://www.justwatch.com/us",
+  "file_id": "0724",
+  "downloaded_at": "2025-12-20T18:57:05.271353",
+  "ground_truth": {
+    "title": "Popular Movies and TV Shows – JustWatch US",
+    "author": null,
+    "publish_date": null,
+    "main_content": "With JustWatch you can easily find out where to watch your favorite movies & TV shows on streaming services in the United States. Browse through the whole catalog to see what's on services like Netflix, Disney+, Hulu, Amazon Prime Video and many more.\n\nYou can use JustWatch to see what's trending and browse through today's top movies and TV shows. Check out the list below, which includes all movies and TV shows sorted by popularity. You can also filter through all your streaming options by using the Watchbar below with filters for release year, IMDb rating, age rating and more.\n\nTo see what's coming soon, check out our guide to upcoming movies and TV shows that are about to be released on streaming services.",
+    "with": [
+      "With JustWatch you can easily find out where to watch your favorite movies & TV shows on streaming services in the United States.",
+      "Browse through the whole catalog to see what's on services like Netflix, Disney+, Hulu, Amazon Prime Video and many more.",
+      "You can use JustWatch to see what's trending and browse through today's top movies and TV shows.",
+      "Check out the list below, which includes all movies and TV shows sorted by popularity.",
+      "To see what's coming soon, check out our guide to upcoming movies and TV shows that are about to be released on streaming services."
+    ],
+    "without": [
+      "Home",
+      "New",
+      "Popular",
+      "Lists",
+      "Sign In"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T18:57:05.271359"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nytimes.com/2025/07/02/well/eat/nutrition-food-tips-2025.html",
+  "file_id": "0001",
+  "downloaded_at": "2025-12-20T17:56:26.697726",
+  "ground_truth": {
+    "title": "10 Nutrition Lessons From 2025, So Far",
+    "author": "Caroline Hopkins Legaspi",
+    "publish_date": "2025-07-02",
+    "main_content": "It’s been a big year for nutrition, and we’re only halfway through. Opinions about the proper amount of protein are all over social media; ultraprocessed foods are being thrust into the political spotlight; and we’re still coming to terms with the health risks of alcohol. How and what we eat are big topics for us at Well, and we spend a lot of time talking to nutrition experts about them. So we are looking back on some of the best food-related guidance we have received so far in 2025. Here are 10 of our favorite nutrition takeaways. 1. Healthy aging might start with your morning coffee. Researchers have long known about the health benefits of drinking coffee. It has been linked with reduced risks of heart disease, Type 2 diabetes, certain cancers and more. Now, according to a study presented at a nutrition conference in June, there could be another perk. Drinking coffee in midlife may lead to healthy aging. In the study, female nurses who consumed the most caffeine between ages 45 and 60 had higher odds of healthy aging — such as being free of cognitive impairment and chronic diseases like cancer, heart disease and multiple sclerosis — compared with those who consumed the least caffeine. What other health benefits might coffee offer? Here’s what we learned. 2. Vodka soda isn’t ‘healthier’ for you than beer or whiskey. There’s a common perception that certain alcoholic drinks, like red wines or clear liquors, are “less bad” for health than darker liquors or beer. But “alcohol is alcohol,” said Jürgen Rehm, a senior scientist at the Centre for Addiction and Mental Health in Toronto. Any kind, in any amount, can increase your risk for health conditions like cancer and heart disease.",
+    "with": [
+      "It’s been a big year for nutrition, and we’re only halfway through.",
+      "Here are 10 of our favorite nutrition takeaways.",
+      "1. Healthy aging might start with your morning coffee.",
+      "Drinking coffee in midlife may lead to healthy aging.",
+      "2. Vodka soda isn’t ‘healthier’ for you than beer or whiskey."
+    ],
+    "without": [
+      "You have a preview view of this article while we are checking your access.",
+      "Supported by",
+      "SKIP ADVERTISEMENT",
+      "Thank you for your patience while we verify access.",
+      "© 2025 The New York Times Company"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T17:56:26.697732"
+}

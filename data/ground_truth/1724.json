@@ -1,0 +1,27 @@
+{
+  "url": "http://appinventor.mit.edu/explore/ai2/beginner-videos.html",
+  "file_id": "1724",
+  "downloaded_at": "2025-12-20T22:19:04.093626",
+  "ground_truth": {
+    "title": "Beginner Tutorials",
+    "author": null,
+    "publish_date": null,
+    "main_content": "App Inventor is a free, cloud-based service that allows you to make your own mobile apps using a blocks-based programming language. You access App Inventor using a web browser (Chrome, Firefox, Safari). With these beginner-friendly tutorials, you will learn the basics of programming apps for Android and iOS phones and tablets.\n\nYou will need:\n\n- A Mac or Windows computer (see system requirements)\n- A Wi-Fi connection\n\nYou will make a mobile app, so it's fun to see it run on a phone or tablet while you build the app (and after!). Some setup is required to run your apps.\n\nChoose which way you want to connect to run your apps, and follow the links to setup instructions:\n\n- Android or iOS device (phone or tablet) and Wi-Fi\n- Chromebook\n- Android device (phone or tablet) and a USB cable\n- On-screen emulator\n\nIf you hit any snags, we're here to help!\n\nTeachers: Get support and tips for preparing for using App Inventor with your students.\n\nMaking Mobile Apps with App Inventor\n\nWe have four beginner tutorials to try out. We recommend starting with Hello Codi!, but any of the four tutorials are accessible for novice coders. They can all be completed within an hour.\n\nFor each tutorial, we have multiple ways of accessing them:\n\n- Click the tutorial link to open up a project directly in the App Inventor environment with the tutorial in the sidebar. This is our recommended way to complete the tutorials. Note that each of these can also be used for Hour of Code events.\n- If you prefer, you can click on the video links to follow the tutorial in a video. Please note, this requires you have two windows open in the browser - one to play the video and one to run App Inventor.\n- We also have links to pdf files for each tutorial for those who prefer text instructions.\n\nAfter building the starter apps, which will take around an hour, you can move on to extending them with more functionality, or you can start building apps of your own design.\n\nHello Codi!\n\nGet started by making Codi the Bee buzz when touched!\n\nTalk to Me (2 parts)\n\nText to Speech is surprisingly fun. Find out for yourself with this starter app that talks.\n\nTalk to Me (Part 2)\n\nBall Bounce\n\nFling, Flang, Flung? Whatever you call it, bouncing the ball around the screen is pure fun.\n\nDigital Doodle\n\nWho needs paper? Doodle all day on your phone's screen.\n\nIs YouTube blocked in your school? See the videos above on Vimeo instead of YouTube\n\nTrouble with the Text-To-Speech player on your phone? Get help here.\n\nWhat's Next?\n\nYou just made some pretty cool apps! But now the real fun begins: try turning TalkToMe into a Magic 8 Ball; turn BallBounce into a Mini Golf game, take DigitalDoodle to the next level by adding colors and incorporating pictures as backgrounds in PaintPot. The possibilities are endless!\n\nSee the complete collection of tutorials for more ideas.",
+    "with": [
+      "App Inventor is a free, cloud-based service that allows you to make your own mobile apps using a blocks-based programming language.",
+      "With these beginner-friendly tutorials, you will learn the basics of programming apps for Android and iOS phones and tablets.",
+      "We have four beginner tutorials to try out. We recommend starting with Hello Codi!, but any of the four tutorials are accessible for novice coders.",
+      "After building the starter apps, which will take around an hour, you can move on to extending them with more functionality, or you can start building apps of your own design.",
+      "You just made some pretty cool apps! But now the real fun begins: try turning TalkToMe into a Magic 8 Ball; turn BallBounce into a Mini Golf game, take DigitalDoodle to the next level by adding colors and incorporating pictures as backgrounds in PaintPot."
+    ],
+    "without": [
+      "Create Apps!",
+      "About Learning News & Events Get Involved Resources",
+      "Donate",
+      "© 2012-2025 Massachusetts Institute of Technology",
+      "App Inventor Support: Community Other inquiries: Email GitHub: mit-cml Accessibility: accessibility.mit.edu"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:19:04.093635"
+}

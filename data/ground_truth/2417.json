@@ -1,0 +1,27 @@
+{
+  "url": "https://www.ocregister.com/2025/12/19/when-it-comes-to-herbal-shrubs-common-myrtle-is-close-to-perfection",
+  "file_id": "2417",
+  "downloaded_at": "2025-12-21T00:20:05.151210",
+  "ground_truth": {
+    "title": "When it comes to herbal shrubs, common myrtle is close to perfection",
+    "author": "Joshua Siskin",
+    "publish_date": "2025-12-19",
+    "main_content": "Here are five things to work on in the garden this week:\n\nVegetables. An easily memorized rhyme concerning crop rotation in the vegetable garden goes like this: “beans, roots, greens, fruits.” The idea here is to plant a leguminous crop, such as bean,s that enriches the soil with nitrogen, followed by a light-feeding root crop such as carrots, to be followed by greens (lettuce or cabbage) that will pull a little more nitrogen out of the soil, and then finally to plant a heavy-feeding fruit crop such as tomato or bell pepper. When it comes to crop rotation and many other horticultural practices, for that matter, there is more than one opinion on the subject, proving that gardening is as much an art or a craft specific to every garden as it is a science. Eliot Coleman, considered the dean of vegetable growers in this country, follows his legume planting of peas or beans with a leaf crop (lettuce or cabbage), followed by a root crop and then a fruit crop. Locally, in any case, winter is the proper season to plant either a leaf or a root crop.\n\nFruits. The money tree promoted in the gift and holiday plant business is Malabar chestnut (Pachira aquatica). Its name is problematic because Malabar is a coastal area in southwest India, whereas the eponymous chestnut is native to swampy habitats from northern Brazil to southern Mexico. To provide an exotic flair, Malabar chestnut is typically grown with four seedlings in a single pot. When the seedlings are young, their flexible trunks are woven together. By the time the plant is a few years old, there is a solid braid of woody trunk supporting a distinctive canopy of compound, five-leaflet, parasol leaves. However, just because it originates in a swampy habitat does not mean it needs more water, when grown indoors, than any other houseplant.\n\nHerbs. When it comes to herbal shrubs, common myrtle (Myrtus communis) is about as close to perfection as it gets. It was not by chance that, for the ancients, its diamond-shaped, highly aromatic leaves represented the all-seeing eyes of wisdom. Myrtle is covered with bedazzling white flowers with gold stamens in early summer. The blue fruit that follows is visible through winter; it’s edible, if astringent, and is turned into a liqueur in its native Mediterranean lands. Myrtle is tolerant of all soil types, it never needs water once established, and it will handle a freeze just fine, being an appropriate selection for Antelope Valley gardens. Dwarf or compact myrtle varieties are susceptible to iron-deficiency chlorosis, which causes leaf yellowing.\n\nFlowers. Madagascar periwinkle (Catharanthus roseus) is the most misunderstood plant of the Southern California flower garden. Also known as Vinca rosea or just plant vinca, it should never be watered once it has settled into the garden and may persist as a perennial for decades, self-sowing in the process. It is native to the spiny forest referenced above where the average rainfall is the same as that of Los Angeles. Just make sure soil drainage is perfect because any excess water around the roots is deadly for this species.\n\nThe fall rain we experienced followed by unseasonably warm temperatures brought up a lot of unwanted vegetation, otherwise known as weeds. The most popular non-toxic product for control of weeds in a non-lawn or hardscape environment is Green Gobbler Total Control Weed & Grass Killer, which consists of 20% vinegar. A simple remedy for dispatching weeds, especially when young, that are growing in sidewalks and driveways is boiling water. Immediately after it boils, pour it directly over weeds and they should die within a day or two. Perennial weeds with deep roots may be difficult to kill without enlisting the assistance of toxic products.",
+    "with": [
+      "When it comes to herbal shrubs, common myrtle (Myrtus communis) is about as close to perfection as it gets.",
+      "Myrtle is covered with bedazzling white flowers with gold stamens in early summer.",
+      "Myrtle is tolerant of all soil types, it never needs water once established, and it will handle a freeze just fine.",
+      "The fall rain we experienced followed by unseasonably warm temperatures brought up a lot of unwanted vegetation, otherwise known as weeds.",
+      "A simple remedy for dispatching weeds, especially when young, that are growing in sidewalks and driveways is boiling water."
+    ],
+    "without": [
+      "Subscribe Now",
+      "Trending: OC’s 125 Most Influential People",
+      "Share this: Click to share on Facebook (Opens in new window)",
+      "Getting your Trinity Audio player ready...",
+      "Copyright © 2025 MediaNews Group"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-21T00:20:05.151216"
+}

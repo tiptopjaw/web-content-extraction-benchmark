@@ -1,0 +1,27 @@
+{
+  "url": "https://linuxiac.com/openzfs-2-4-extends-linux-kernel-support-to-6-18-and-supports-freebsd-14-16",
+  "file_id": "2561",
+  "downloaded_at": "2025-12-21T00:26:20.326699",
+  "ground_truth": {
+    "title": "OpenZFS 2.4 Extends Linux Kernel Support to 6.18 and Supports FreeBSD 14–16",
+    "author": "Bobby Borisov",
+    "publish_date": "2025-12-19",
+    "main_content": "Nearly a year after the previous 2.3 release, OpenZFS, a robust, open-source file system and volume manager that integrates advanced data protection features like snapshots, checksums, and replication, has just rolled out its latest version, 2.4. On the Linux side, OpenZFS 2.4 supports kernels ranging from 4.18 up to 6.18, covering older enterprise distributions as well as the latest stable and development kernels. FreeBSD support targets the current and upcoming major branches, specifically FreeBSD 14, 15, and 16. One of the most notable additions in this release is support for default user, group, and project quotas. Administrators can now define quota policies that automatically apply to new datasets, reducing manual configuration and helping enforce consistent storage limits across systems. Allocation behavior has also been reworked through a new unified allocation throttling algorithm designed to reduce vdev fragmentation under heavy load. Moreover, OpenZFS 2.4 includes several improvements to storage performance. Encryption performance has been enhanced through AVX2 acceleration for AES-GCM, improving throughput on modern CPUs. Unaligned Direct IO operations now fall back to a lightweight uncached IO path, improving robustness without sacrificing performance. The release also introduces the ability to place ZIL data on special vdevs when available and extends special_small_blocks handling to allow ZVOL writes on special vdevs, including support for non–power-of-two values. Data management and maintenance tools have also seen improvements. A new zfs rewrite -P option preserves logical birth times when possible, helping reduce incremental send stream sizes. Pool-wide operations are simpler with a new -a option that allows scrubbing, trimming, or initializing all imported pools at once. Administrators can also scrub specific time ranges using new zpool scrub -S -E options and prefetch block cloning tables with zpool prefetch -t brt. On the reliability side, OpenZFS can now temporarily “sit out” child vdevs that become abnormally slow, helping pools remain responsive during partial hardware issues. RAIDZ handling has been refined, ashift behavior improved, and multiple fixes landed for gang blocks, deduplication, and block cloning, all areas that affect large and heavily utilized pools. Finally, the release also introduces new feature flags, including support for physical rewrite and improvements to block cloning and dynamic gang headers. Several new module options, dataset properties, and vdev properties have been added, while several legacy module options have been removed or modified as part of ongoing cleanup and modernization. For more information, see the changelog.",
+    "with": [
+      "Nearly a year after the previous 2.3 release, OpenZFS, a robust, open-source file system and volume manager that integrates advanced data protection features like snapshots, checksums, and replication, has just rolled out its latest version, 2.4.",
+      "On the Linux side, OpenZFS 2.4 supports kernels ranging from 4.18 up to 6.18, covering older enterprise distributions as well as the latest stable and development kernels.",
+      "One of the most notable additions in this release is support for default user, group, and project quotas.",
+      "Moreover, OpenZFS 2.4 includes several improvements to storage performance.",
+      "On the reliability side, OpenZFS can now temporarily “sit out” child vdevs that become abnormally slow, helping pools remain responsive during partial hardware issues."
+    ],
+    "without": [
+      "Skip to content",
+      "Home News Linux Knowledge Linux Distributions",
+      "Tell others: Share on X (Twitter) Share on Reddit Share on Facebook Share on Threads Share on Bluesky Share on Telegram Share on LinkedIn Share on Hacker News",
+      "SUPPORT ME Enjoy the article? Just $2 and a moment of your time keep my Linux writing going 24/7. Please be kind and contribute a cup.",
+      "Copyright © 2025 Linuxiac"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-21T00:26:20.326706"
+}

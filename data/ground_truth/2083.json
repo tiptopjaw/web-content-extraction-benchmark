@@ -1,0 +1,27 @@
+{
+  "url": "https://www.myreadylink.com/lebanon-pa/business/heiseys-diner-and-catering/",
+  "file_id": "2083",
+  "downloaded_at": "2025-12-20T22:39:10.380532",
+  "ground_truth": {
+    "title": "Heisey's Diner and Catering",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Heisey's Diner, Catering, and Banquets is a family restaurant and caterer located at 1740 North Highway 72 in Lebanon PA only minutes from Myerstown and Jonestown. Enjoy home-cooked meals, homemade desserts and your favorite cocktail in their restaurant, on their outdoor patio or in their bar. You can enjoy your favorite cocktail with your meal. If you enjoy home-cooked Pennsylvania Dutch style meals in Lebanon County you’ll love Heisey’s Diner. At Heisey\"s Diner & Catering you can enjoy a meal in their diner, bar or newly enclosed patio. There is always plenty of seating available. A family owned business for over 40 years, you can enjoy a delicious meal at great prices and you're likely to run into someone you know at Heisey's Diner. Take-Out orders are always welcomed. Delivery is available on Thursday & Friday from 4pm- 8pm. Heisey's Diner Features: Lunches Include: Quick Lunch Suggestions, Wraps, French Fries with Gravy, Burgers, Salad Bowls, Sandwiches, Kids Menu, Seafood, Chicken, Beef, Pork & Veal. Breakfasts which include: Omelets, Pancakes and much, much more!! Dinners Include: Bountiful Portions, Beef, Chicken, Pork & Veal, Seafood, Any of our lunch items, Your Favorite Drinks & Cocktails from the bar. Heisey’s On & Off-Premises Catering Get delicious and affordable catering, including bar service and a special catering menu, for your wedding, special occasion, business meeting or any other upcoming event. Heisey's Catering specializes in Wedding Catering. The experienced staff at Heisey's Catering can travel within a 50-mile radius to make your event a huge success. They even offer \"liquor liability\" bar service for your wedding, serving the liquor you've purchased for your special day. You'll learn all about our catering menu options and prices during your consultation. Taste tests are also available! Just give them a bit of notice beforehand. Heisey's Catering also Features: Catered Lunches, Catered Dinners. Heisey's Banquets Feature: Homestyle Menus for Dinners, Lunch and Cold Menu Buffet Style. Please call: Heisey's Diner & Catering, Phone #: (717) 272-0891, Ask for Gary Heisey, Hours: Monday-Thursday 6:00am to 9:30pm, Friday & Saturday 6:00am to 11:00pm, Sunday 6:00am to 2:00pm.",
+    "with": [
+      "Heisey's Diner, Catering, and Banquets is a family restaurant and caterer located at 1740 North Highway 72 in Lebanon PA only minutes from Myerstown and Jonestown.",
+      "Enjoy home-cooked meals, homemade desserts and your favorite cocktail in their restaurant, on their outdoor patio or in their bar.",
+      "A family owned business for over 40 years, you can enjoy a delicious meal at great prices and you're likely to run into someone you know at Heisey's Diner.",
+      "Heisey's Catering specializes in Wedding Catering.",
+      "The experienced staff at Heisey's Catering can travel within a 50-mile radius to make your event a huge success."
+    ],
+    "without": [
+      "ReadyLink",
+      "Numbers by Category",
+      "Businesses by Category",
+      "© 2010-2025 ReadyLink, Inc. All Rights Reserved | Privacy Policy | Terms of Use",
+      "Restaurant-Food-Beverage, Services-Service Business, Caterers, Diners, Family Restaurants, Bars, Pubs & Saloons, Deck & Outdoor Dining Restaurants, Banquet Facilities & Services"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:39:10.380538"
+}

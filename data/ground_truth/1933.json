@@ -1,0 +1,26 @@
+{
+  "url": "https://amfmtreatment.com/cost/outpatient/",
+  "file_id": "1933",
+  "downloaded_at": "2025-12-20T22:25:00.534548",
+  "ground_truth": {
+    "title": "Average Cost of Outpatient Mental Health Treatment and Counseling Programs",
+    "author": null,
+    "publish_date": "2024-08-23",
+    "main_content": "AMFM Mental Health Treatment Center has mental health treatment facilities across the country, in California, Minnesota, and Virginia. At A Mission For Michael, you can access outpatient mental health therapy and counseling for various disorders, such as PTSD, anxiety, depression, panic attacks, and more. Our programs are designed to support you in managing and overcoming these challenges.\n\nWe offer multiple ways to cover the cost of your outpatient treatment expenses. You can use your health insurance, set up payment plans, or take advantage of sliding-scale fees if you’re on a limited income. To verify your insurance and discuss the average cost of outpatient mental health treatment, contact us at (866) 478-4383.\n\nWhat Is an Outpatient Mental Health Therapy Treatment Program?\n\nAn outpatient mental health counseling, psychotherapy, and treatment program provides you with professional support while allowing you to live at home and maintain your daily routine. Unlike inpatient programs, where you stay at a facility, outpatient programs offer flexibility, letting you attend sessions during the day or evening based on your schedule.\n\nThese programs are designed to help you manage diagnoses like depression, anxiety, and PTSD. You’ll engage in various therapeutic activities, like Cognitive Behavioral Therapy (CBT), Dialectical Behavior Therapy (DBT), Interpersonal Therapy (IPT), talk therapy, psychodynamic therapy, family therapy, group therapy, individual therapy, and skill-building exercises tailored to your needs. This ensures you receive the care you need while continuing to participate in your everyday life.\n\nWhat is the Average Cost of Mental Health Treatment in the US?\n\nThe average cost of mental health disorder treatment in the country varies widely, typically ranging from $100 to $500 per session for outpatient therapy. The total of your treatment charges depends on factors such as the type and duration of treatment and your location. Inpatient programs can be more expensive, often costing between $500 and $2,000 per day.\n\nInsurance coverage, payment plans, and sliding scale fees can help reduce your out-of-pocket expenses. To get a clearer idea of costs for your specific situation, it’s best to contact AMFM to discuss your insurance options. We can provide you with detailed information tailored to your needs and financial situation.",
+    "with": [
+      "AMFM Mental Health Treatment Center has mental health treatment facilities across the country, in California, Minnesota, and Virginia.",
+      "An outpatient mental health counseling, psychotherapy, and treatment program provides you with professional support while allowing you to live at home and maintain your daily routine.",
+      "The average cost of mental health disorder treatment in the country varies widely, typically ranging from $100 to $500 per session for outpatient therapy.",
+      "We offer multiple ways to cover the cost of your outpatient treatment expenses. You can use your health insurance, set up payment plans, or take advantage of sliding-scale fees if you’re on a limited income."
+    ],
+    "without": [
+      "Start Online",
+      "Call 866-478-4383",
+      "Mental Health Conditions",
+      "Our Blog",
+      "Home » Cost » Outpatient"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:25:00.534553"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://unitycouncil.org/program/vita/",
+  "file_id": "1327",
+  "downloaded_at": "2025-12-20T20:45:14.877064",
+  "ground_truth": {
+    "title": "Free Tax Services (VITA)",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The Volunteer Income Tax Assistance (VITA) program offers free tax help to people who generally make $60,000 or less, persons with disabilities, and limited English-speaking taxpayers who need assistance in preparing their own tax returns. IRS-certified volunteers provide free basic income tax return preparation with electronic filing to qualified individuals. Services are available in English and Spanish, and we can provide translation in Mam. Our VITA site operates from Monday, January 27th through Tuesday, April 15th. Business Hours: Monday & Friday 9am–6pm, Tuesday, Wednesday and Thursday 1pm-6pm Saturday from 10am-2pm Our VITA site operates starting the last week of January and stops operating on the last day the IRS requires you to submit your tax return, which is typically April 15th. Make your VITA appointment TODAY! Contact 510-306-1275 vita@unitycouncil.org",
+    "with": [
+      "The Volunteer Income Tax Assistance (VITA) program offers free tax help to people who generally make $60,000 or less, persons with disabilities, and limited English-speaking taxpayers who need assistance in preparing their own tax returns.",
+      "IRS-certified volunteers provide free basic income tax return preparation with electronic filing to qualified individuals.",
+      "Our VITA site operates from Monday, January 27th through Tuesday, April 15th.",
+      "Business Hours: Monday & Friday 9am–6pm, Tuesday, Wednesday and Thursday 1pm-6pm Saturday from 10am-2pm",
+      "Contact 510-306-1275 vita@unitycouncil.org"
+    ],
+    "without": [
+      "Skip to primary navigation",
+      "Building vibrant communities where everyone can work, learn and thrive.",
+      "See Also",
+      "Sign up to stay in touch!",
+      "Copyright © 2025 The Unity Council · Log in"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:45:14.877071"
+}

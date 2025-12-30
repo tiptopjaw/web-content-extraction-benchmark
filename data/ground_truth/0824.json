@@ -1,0 +1,27 @@
+{
+  "url": "https://www.healthline.com/reviews/vitamin-and-supplement-products",
+  "file_id": "0824",
+  "downloaded_at": "2025-12-20T21:01:30.258808",
+  "ground_truth": {
+    "title": "Vitamin & Supplement Product Reviews",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Explore reviews of top vitamins and supplements to find what you need to meet your health goals.\n\nDisclaimer: Registered dietitians write and review our supplement roundups. When choosing which products to include, we consider multiple factors and put products through testing. Our selections for the best supplements are based on the experience of our nutrition experts, and are not an indication of what might be best for every individual. Reviews are educational in nature and should not be mistaken for a medical diagnosis or treatment.\n\nTOTAL BODY\n5 Best Personalized Vitamin Subscription Services for 2025, According…\nVitamin subscription services make what to take and when easier to track.\n7 Best Fish Oil Supplements to Boost Your Omega-3s for 2025, According…\nSee our top seven picks for fish oil supplements for 2024.\nZinc Supplements: Benefits, Dosage, and Side Effects\nZinc is a mineral essential for many functions in your body. This article discusses the…\nBest Iron Supplements for 2025, According to Dietitians\nHere are the 13 top iron supplements in case you can't fulfill your needs through diet.\n\nMOOD\nHealth Benefits of Ashwagandha, Based on Research\nAshwagandha is a medicinal herb with powerful health benefits for fertility, athletic performance, sleep, and more. This…\n6 Best Evidence-Based Supplements for Brain Fog\nIf you're experiencing brain fog as a result of anxiety, depression, chronic disease, or something else, see if these…\nThe 8 Best Vitamins and Supplements for Stress, According to Dietitians\nStress may be caused by many factors, such as work, money, health, or relationships. Here are the 8 best vitamins and…\n\nHAIR AND SKIN\nThe 6 Best Collagen Supplements for Better Skin, According to a…\nA collagen supplement can be an easy and effective way to help support skin.\n8 Best Vitamins for Healthy Hair, Skin, and Nails in 2025\nHair, nails, and skin require a healthy balance of nutrients. These vitamin supplements…\n8 Best Vitamins and Supplements for Hair Growth in 2026, According to…\nDiscover 8 supplements with key nutrients that may support hair growth, strength, and…\n5 Best Probiotic Supplements for 2026, According to Dietitians\nSee our complete guide on how to choose the best probiotic supplement for you.\nDo You Need Supplements for Better Skin? Here’s What the Science Says\nSupplements like collagen, vitamin C, and multivitamins may help improve certain aspects…\nHow Much Collagen Should You Take Per Day?\nCollagen is a plentiful protein that's part of many structural and connective tissues in…\n\nATHLETIC PERFORMANCE\n9 Best Protein Powders of 2025, According to Dietitians and Testers\nThis year, we've chosen some of the best protein powders. See our picks.\n6 Best Pre-Workout Supplements for Women in 2026: A Dietitian's Picks\nBrowse Healthline’s picks for the top pre-workout supplements for women. View prices, pros…\n6 Best-Tasting Protein Powders of 2025, According to Our Editors\nWhether you're looking to ramp up your gym routine or simply fill the gaps in your diet…\n6 Best Creatine Supplements for 2026, Taste-Tested and…\nCreatine supplements are used to enhance athletic performance and reduce muscle damage…",
+    "with": [
+      "Explore reviews of top vitamins and supplements to find what you need to meet your health goals.",
+      "Registered dietitians write and review our supplement roundups.",
+      "Vitamin subscription services make what to take and when easier to track.",
+      "Ashwagandha is a medicinal herb with powerful health benefits for fertility, athletic performance, sleep, and more.",
+      "A collagen supplement can be an easy and effective way to help support skin."
+    ],
+    "without": [
+      "Health Conditions",
+      "Subscribe",
+      "© 2025 Healthline Media LLC. All rights reserved.",
+      "OUR BRANDS",
+      "Advertise with us"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:01:30.258814"
+}

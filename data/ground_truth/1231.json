@@ -1,0 +1,27 @@
+{
+  "url": "https://interiordesign.net/awards/best-of-year/",
+  "file_id": "1231",
+  "downloaded_at": "2025-12-20T21:06:57.984664",
+  "ground_truth": {
+    "title": "2025 Best of Year Award Winners - Interior Design",
+    "author": null,
+    "publish_date": "2025-12-12",
+    "main_content": "Explore Interior Design’s 2025 Best of Year Award Winners\n\nInterior Design’s 20th annual Best of Year Awards continued its proud tradition of recognizing standout projects and products across the design industry, with winners revealed by Editor-in-Chief Cindy Allen during an unforgettable ceremony in Manhattan December 11. See who took home top honors, including the special Best of the Best award, recognizing the most iconic products and projects of the past two decades.\n\n2025 Best of Year Awards Winners and Honorees\n\nProject\n\nApartment\nWinner: Boa Viagem Apartment - Architects Office\nHonorees:\nSete Apartment - Studio Arthur Casas\nCentral Park Apartment - SheltonMindel\nDigital Aesthetics Apartment - UR Bureau\nJessica Helfand House - WXY Architecture + Urban Design\n\nBar/Social Club\nWinner: Manifest - INC Architecture & Design\nHonorees:\nOrchid Room, Pier Sixty Six - Jeffrey Beers International\nClemente Bar - Allied Works and L’Observatoire International\nKI Culinary Club - NC Design & Architecture Limited\nMimi, Olia & Va!, Citizen on Jasper - Ste Marie\nMancave - Zinc Studio\n\nBeach House\nWinner: Oaxaca Residence - Meyer Davis\nHonorees:\nLulla House - I IN\nFlorida Home - Jonathan Adler\nHale Mau’u - Walker Warner and Catherine Kwong Design\nOcean Views - Workshop/APD\n\nBeauty/Spa\nWinner: Carappo Toranomon Hills - Tanseisha Co.\nHonorees:\nKeen Tachikawa - Log.Design\nWhispering Tree Spa - LW Design\nZenova Spa & Wellness, Pier Sixty Six - Jeffrey Beers International\n\nBest of the Best: Apartment\nWinner: Sky House - Ghislaine Viñas and David Hotson\n\nBest of the Best: Beach House\nWinner: Wainscott Residence - Bates Masi + Architects and David Kleinberg\n\nBest of the Best: Building Facade\nWinner: Nelson Atkins Museum of Art - Steven Holl Architects\n\nBest of the Best: City House\nWinner: House on the Park - Superkül + Pencil Design\n\nBest of the Best: Commercial Amenity Space\nWinner: The Prow - Aidlin Darling Design\n\nBest of the Best: Commercial Development\nWinner: One Vanderbilt - Kohn Pedersen Fox\n\nBest of the Best: Designer’s Own Home\nWinner: Long Island Waterside Retreat - SheltonMindel and Reed A. Morrison Architect\n\nBest of the Best: Education\nWinner: Roberts Pavilion, Claremont McKenna College - John Friedman Alice Kimm Architects\n\nBest of the Best: Entertainment\nWinner: Wuhan Wushang Mall International Cinema - One Plus Partnership\n\nBest of the Best: Environmental Impact\nWinner: Citi Wealth Hub - Ministry of Design",
+    "with": [
+      "Interior Design’s 20th annual Best of Year Awards continued its proud tradition of recognizing standout projects and products across the design industry, with winners revealed by Editor-in-Chief Cindy Allen during an unforgettable ceremony in Manhattan December 11.",
+      "See who took home top honors, including the special Best of the Best award, recognizing the most iconic products and projects of the past two decades.",
+      "Winner: Boa Viagem Apartment - Architects Office",
+      "Winner: Manifest - INC Architecture & Design",
+      "Winner: Oaxaca Residence - Meyer Davis"
+    ],
+    "without": [
+      "Skip to content",
+      "Projects Products DesignWire HOMES Showroom Showcase",
+      "Best Of Year Giants OF DESIGN Events Newsletters DesignTV Design Jobs Showroom Showcase Subscribe Contact Us",
+      "Latest Issue: November 2025 subscribe",
+      "BEST OF YEAR Awards"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:06:57.984670"
+}

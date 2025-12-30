@@ -1,0 +1,27 @@
+{
+  "url": "https://www.travelweekly.com/Travel-News/Hotel-News/Articles",
+  "file_id": "1604",
+  "downloaded_at": "2025-12-20T22:25:03.947553",
+  "ground_truth": {
+    "title": "Travel Weekly Hotel and Resort News and Feature Articles",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Hotels\n\nGuestroom remodel is completed at MGM Grand Las Vegas\nThe redesign was done to give the rooms a brighter, airier feel and added features like walk-in showers, lighted closets and...\n\nOcean Signature Resorts debuts adults-only Ocean Allure Costa Mujeres\nThe all-inclusive property features upscale suites with a wide range of dining options.\n\nWhen does Jamaica expect tourism to fully recover? Not until after 2026\nJamaica tourism officials attending a New York event said they expect visitor arrivals will rebound to approximately 80% of...\n\nExclusive Resorts is acquiring luxury vacation club Inspirato\nInspirato will be taken private in the $59 million all-cash transaction.\n\nRestored Swiss hotel Chesa Marchetta will open in January\nThe seasonal property in the Engadin Valley, not far from the Italy border, consists of 13 rooms, a three-bedroom rental house...\n\nGrand Canyon South Rim hotels reopen after water line repair\nThe National Park Service had closed the hotels on Dec. 6 due to a series of breaks in the Transcanyon Waterline.\n\nSpain fines Airbnb for advertising unlicensed rentals\nAirbnb said that it plans to challenge the fine in court.\n\nTurks and Caicos resort to be part of Hilton's LXR collection\nAmaris Grace Bay is expected to open in 2028 along Grace Bay Beach.\n\nThe Last Resort: Saffire Freycinet and Flockhill Lodge\nKaren Urosevich, founder of Well Placed Travel, offers tips on navigating off-the-beaten-path destinations and talks about...\n\nSuppliers, sellers, pavilions and pinky promises at ILTM\nAlthough she is only in her fourth year as a travel advisor, Stacy King has made an impression on luxury suppliers.",
+    "with": [
+      "Guestroom remodel is completed at MGM Grand Las Vegas",
+      "Ocean Signature Resorts debuts adults-only Ocean Allure Costa Mujeres",
+      "When does Jamaica expect tourism to fully recover? Not until after 2026",
+      "Exclusive Resorts is acquiring luxury vacation club Inspirato",
+      "Grand Canyon South Rim hotels reopen after water line repair"
+    ],
+    "without": [
+      "Subscribe To Our Free eNewsletters",
+      "Popular Today",
+      "Copyright © 2025 Northstar Travel Media, LLC. All Rights Reserved.",
+      "News & Featured Destinations",
+      "Hotel & Cruise Search"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:25:03.947559"
+}

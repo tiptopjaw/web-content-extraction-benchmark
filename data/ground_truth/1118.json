@@ -1,0 +1,25 @@
+{
+  "url": "https://ml.gatech.edu/agency",
+  "file_id": "1118",
+  "downloaded_at": "2025-12-20T21:18:02.819406",
+  "ground_truth": {
+    "title": "The Agency",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The Agency is Georgia Tech's student machine learning and artificial intelligence club. Founded in 2014 by passionate Georgia Tech students, the club has continued to grow. The club is a great resource for those interested in undergraduate research and looking to connect with others who are interested in machine learning. The Agency looks to enhance the student experience through collaborative research projects, partnering with other campus organizations, and hosting events like machine learning workshops and a graduate school interest dinner. Learn More",
+    "with": [
+      "The Agency is Georgia Tech's student machine learning and artificial intelligence club.",
+      "Founded in 2014 by passionate Georgia Tech students, the club has continued to grow.",
+      "The club is a great resource for those interested in undergraduate research and looking to connect with others who are interested in machine learning.",
+      "The Agency looks to enhance the student experience through collaborative research projects, partnering with other campus organizations, and hosting events like machine learning workshops and a graduate school interest dinner."
+    ],
+    "without": [
+      "Georgia Institute of Technology",
+      "Home | About The Center | People | Research | News & Events | Blog | PhD Program | Contact | Jobs",
+      "Georgia Tech Home | Campus Map | Directory | Offices",
+      "© Georgia Institute of Technology"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:18:02.819412"
+}

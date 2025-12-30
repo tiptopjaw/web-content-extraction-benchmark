@@ -1,0 +1,27 @@
+{
+  "url": "https://www.medparkhospital.com/en-US/lifestyles/best-way-to-take-vitamin-and-mineral-supplements",
+  "file_id": "1991",
+  "downloaded_at": "2025-12-20T21:41:57.437028",
+  "ground_truth": {
+    "title": "Best Way to Take Vitamin & Supplements, Tips for buying",
+    "author": null,
+    "publish_date": "2023-04-03",
+    "main_content": "The body needs minerals and vitamins to stay healthy, including nine water-soluble and four fat-soluble vitamins in various foods. However, some people have a specific vitamin deficiency and need supplements. Different nutrients are absorbed and stored in the body differently. You should know when and how to take each vitamin to improve its absorption.\n\nMultivitamins are usually well-absorbed with food. You can take them with breakfast, lunch, or dinner. Just avoid taking them on an empty stomach to prevent upsetting your stomach.\n\nFat-Soluble Vitamins, including vitamins A, D, E, and K, are much better absorbed when taken with fat in the food. A small amount of healthy plant-based fats like nuts or avocado works fine.\n\nWater-Soluble Vitamins are vitamin C and the B's, i.e., thiamin (B1), riboflavin (B2), niacin (B3), pantothenic acid (B5), pyridoxine (B6), biotin (B7), folic acid (B9), and cobalamin (B12). They are well absorbed with or without food. However, B12 is better absorbed with meals. Avoid taking vitamin C and B12 together because vitamin C can reduce the absorption of B12. If you need these vitamins, take them at least 2 hours apart. Our body does not store water-soluble vitamins, so we need them daily.\n\nPrenatal Vitamins such as folic acids and iron should be taken with food early in the evening before bedtime if you have morning sickness. Iron can worsen nausea.\n\nIron supplements should be taken when you haven't eaten anything. Take it with fruit juice rich in vitamin C, such as orange juice is recommended. Do not take iron supplements with high-calcium foods or calcium supplements because they inhibit iron absorption. Postmenopausal people should not take iron supplements unless prescribed by a doctor.\n\nMineral supplements, such as zinc, calcium, and magnesium, should be taken with food but at different meals. Having them all at the same time reduces the absorption of both minerals. Do not take minerals with multivitamins or antioxidants such as lycopene or beta-carotene.\n\nTips for Buying Dietary Supplements\n\nEssential abbreviations you should know\nRDA, or Recommended Daily Allowance, is the amount of a nutrient recommended for everyday consumption. It usually depends on age and sex.\n% DV, or % Daily Value, is the percentage of the nutrient amount in a single serving of a dietary supplement.\nUL, or Upper Limit, is the maximum amount of a nutrient you should receive each day.\n\nBuy supplements from a reliable company.\n\nChoose a reputable dietary supplement company or those certified by a testing organization. Some may not contain the vitamins and minerals listed on the label.\n\nBuy formulas suitable for your age and gender.\n\nVitamin supplements for seniors contain more vitamin D, B12, and calcium than younger people since they tend to have a deficiency in those nutrients. And formulas for men usually contain little amount of iron.\n\nTrack your supplement intake.\n\nMaintaining a diary of what and how many vitamins you take daily can be helpful information for your medical history.\n\nDietary supplements, though beneficial, should not replace essential foods you should eat every day. Foods are still the best source of nutrients. Eating a variety of healthy foods is an effective way to gain sufficient vitamins and minerals.",
+    "with": [
+      "The body needs minerals and vitamins to stay healthy, including nine water-soluble and four fat-soluble vitamins in various foods.",
+      "Fat-Soluble Vitamins, including vitamins A, D, E, and K, are much better absorbed when taken with fat in the food.",
+      "Avoid taking vitamin C and B12 together because vitamin C can reduce the absorption of B12.",
+      "Iron supplements should be taken when you haven't eaten anything. Take it with fruit juice rich in vitamin C, such as orange juice is recommended.",
+      "Dietary supplements, though beneficial, should not replace essential foods you should eat every day. Foods are still the best source of nutrients."
+    ],
+    "without": [
+      "Follow Us",
+      "Services",
+      "Disease & Treatment",
+      "About Us",
+      "© 2025 MedPark Hospital. All Rights Reserved."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:41:57.437034"
+}

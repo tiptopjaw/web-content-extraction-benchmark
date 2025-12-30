@@ -1,0 +1,27 @@
+{
+  "url": "https://d-e-a-n-f.github.io/saga-bus",
+  "file_id": "2455",
+  "downloaded_at": "2025-12-20T23:09:21.883178",
+  "ground_truth": {
+    "title": "Saga Orchestration for TypeScript | Saga Bus",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Open Source Saga Orchestration\nBuild Reliable Distributed\nWorkflows in TypeScript\nMassTransit-style saga orchestration for Node.js. Type-safe DSL, multiple message brokers, built-in observability.\n\nTry It Right Now\nEdit the saga definition below and watch the state machine diagram update in real-time. No setup required.\n\nWhy Saga Bus?\nEverything You Need for\nDistributed Workflows\nType-Safe DSL\nFluent builder API with full TypeScript inference. Catch errors at compile time, not runtime.\n10+ Transports\nRabbitMQ, Kafka, SQS, Azure Service Bus, GCP Pub/Sub, Redis, NATS, and in-memory for testing.\n8+ Stores\nPostgreSQL, MySQL, MongoDB, DynamoDB, Redis, SQLite, SQL Server, and in-memory.\nObservability\nBuilt-in OpenTelemetry tracing, Prometheus metrics, and structured logging middleware.\nCompensation\nHandle failures gracefully with built-in compensation patterns and retry policies.\nFramework Agnostic\nWorks with Express, Fastify, NestJS, Next.js, Hono, or standalone Node.js.\n\nSimple Setup\nUp and Running\nin Minutes\nInstall the packages, define your saga, wire up your transport and store. That's it.\n1\nInstall packages\n2\nDefine saga with DSL\n3\nStart the bus\n\nimport { createBus } from '@saga-bus/core';\nimport { RabbitMQTransport } from '@saga-bus/transport-rabbitmq';\nimport { PostgresSagaStore } from '@saga-bus/store-postgres';\nimport { orderSaga } from './sagas/order';\n\nconst bus = createBus({\n  transport: new RabbitMQTransport({\n    url: process.env.RABBITMQ_URL,\n  }),\n  store: new PostgresSagaStore({\n    connectionString: process.env.DATABASE_URL,\n  }),\n  sagas: [{ definition: orderSaga }],\n});\n\nawait bus.start();\nconsole.log('🚀 Saga worker running');\n\nReady to Build Reliable Workflows?\nJoin developers building production-grade distributed systems with Saga Bus.",
+    "with": [
+      "MassTransit-style saga orchestration for Node.js. Type-safe DSL, multiple message brokers, built-in observability.",
+      "Fluent builder API with full TypeScript inference. Catch errors at compile time, not runtime.",
+      "RabbitMQ, Kafka, SQS, Azure Service Bus, GCP Pub/Sub, Redis, NATS, and in-memory for testing.",
+      "Built-in OpenTelemetry tracing, Prometheus metrics, and structured logging middleware.",
+      "Handle failures gracefully with built-in compensation patterns and retry policies."
+    ],
+    "without": [
+      "🚀 Saga Bus is in active development. Get started today!",
+      "Skip to main content",
+      "Copyright © 2025 Saga Bus. Built with Docusaurus.",
+      "Documentation\nGetting Started\nCore Concepts\nAPI Reference",
+      "npm\nGitHub"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T23:09:21.883184"
+}

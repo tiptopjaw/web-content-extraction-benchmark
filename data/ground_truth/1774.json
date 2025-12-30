@@ -1,0 +1,27 @@
+{
+  "url": "https://www.apple.com/iphone/",
+  "file_id": "1774",
+  "downloaded_at": "2025-12-20T22:52:54.591583",
+  "ground_truth": {
+    "title": "iPhone - Apple",
+    "author": null,
+    "publish_date": null,
+    "main_content": "iPhone\nDesigned for Apple Intelligence. Discover iPhone 17 Pro, iPhone Air, and iPhone 17, along with iPhone 16 and iPhone 16e.\nSwitch to iPhone.\nGetting Started\nSwitching from Android to iPhone is simple.\nTransfer your data in a few easy steps.\nSimply download the Move to iOS app on your Android phone to securely transfer the stuff you care about most to your iPhone — contacts, messages, WhatsApp content, photos, videos, email accounts, favorite apps, call history, and more.\nContinue your conversations with friends.\nMessages lets you reply with a quick emoji, create Memoji, and pay a friend for pizza. RCS (Rich Communication Services) messaging brings richer media and delivery and read receipts for those who don’t use iMessage. And you can keep your conversations going on apps such as WhatsApp and WeChat.\nEverything just works.\nApple engineers design our hardware and software together for a totally seamless experience. Want to connect your new AirPods to your iPhone? It’s a simple one‑tap setup. Want to share photos or contacts with friends nearby? AirDrop lists their names onscreen, so you can choose with a tap.\nHelp is just a call or chat away.\nThere are lots of ways to reach someone if you have questions. Call a Specialist, chat with someone online, go into an Apple Store, or use the Apple Support app. And the Tips app will help you get the most out of your iPhone over time.\nDesigned to Last\niPhone holds its value longer than other smartphones.\nLast phone standing.\niPhone is protected by Ceramic Shield, which is tougher than any smartphone glass or glass ceramic. Our latest iPhone models have Ceramic Shield 2 on the front, with 3x better scratch resistance. Little spill? No biggie — iPhone stands up to splashes from everyday liquids like water, coffee, and soda.\nNew now. And later.\nRegular iOS updates keep your iPhone feeling new for years to come. Just turn on automatic updates, and your iPhone stays current with the latest features and security.\nSupersmart, superspeedy Apple silicon.\nThe A19 and A19 Pro chips are incredibly efficient, delivering remarkable battery life. They unlock helpful Apple Intelligence tools, power advanced camera features, enable AAA gaming, and speed up AI workflows with the new Neural Accelerators in the GPU.\nGet credit toward iPhone 17, iPhone Air, or iPhone 17 Pro when you trade in an eligible smartphone.\nOrder by 12/22 for free delivery of in‑stock items by 12/24. See checkout for specific delivery dates and options.",
+    "with": [
+      "Designed for Apple Intelligence. Discover iPhone 17 Pro, iPhone Air, and iPhone 17, along with iPhone 16 and iPhone 16e.",
+      "Switching from Android to iPhone is simple.",
+      "iPhone holds its value longer than other smartphones.",
+      "Simply download the Move to iOS app on your Android phone to securely transfer the stuff you care about most to your iPhone — contacts, messages, WhatsApp content, photos, videos, email accounts, favorite apps, call history, and more.",
+      "The A19 and A19 Pro chips are incredibly efficient, delivering remarkable battery life. They unlock helpful Apple Intelligence tools, power advanced camera features, enable AAA gaming, and speed up AI workflows with the new Neural Accelerators in the GPU."
+    ],
+    "without": [
+      "Apple Mac iPad iPhone Watch Vision AirPods TV & Home Entertainment Accessories Support",
+      "Order by 12/22 for free delivery of in‑stock items by 12/24. See checkout for specific delivery dates and options.",
+      "Get credit toward iPhone 17, iPhone Air, or iPhone 17 Pro when you trade in an eligible smartphone.",
+      "Shop iPhone Learn more about trade-in",
+      "Search apple.com Shopping Bag"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:52:54.591590"
+}

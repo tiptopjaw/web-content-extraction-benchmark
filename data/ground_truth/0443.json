@@ -1,0 +1,26 @@
+{
+  "url": "https://www.allied.com/moving-resources/tips/first-time-movers",
+  "file_id": "0443",
+  "downloaded_at": "2025-12-20T18:44:08.923498",
+  "ground_truth": {
+    "title": "Tips for First Time Movers",
+    "author": "Ryan Cox",
+    "publish_date": null,
+    "main_content": "Whether you’ve just graduated or have a job in a new city, moving for the first time is a really exciting experience! It can also seem a bit scary and overwhelming. Especially if you don’t know where to start or how to prepare. Forget the nerves and focus on the excitement by following our guide for a seamless first moving experience. Where to Start Your first move starts with a place to move into. To find the place of your dreams, you also need to consider the budget of your reality. The general rule is to budget about 30% of your salary on rent, but that doesn’t necessarily work for everyone. Use that number as a starting point before factoring in the cost-of-living for where you’re moving and whether you’re living with roommates. Once you find a few options within your budget, make sure to check out reviews by current and former tenants, drive through the area to get a good feel of the community and schedule a tour with the building’s management team. Once you’ve signed the lease agreement, it’s time to prepare for your move! Book a Moving Company While most first time movers might plan to rent a truck and pay a few friends in pizza and drinks, this type of DIY move could end up costing you as much if not more than using a professional moving company. Professional movers are quick and efficient, have the tools to keep your fragile items safe and typically have insurance to cover any damages (which are less likely to occur in their care). If you’re moving out of or into a building with multiple floors, it’s helpful to have multiple movers with the strength and care to handle heavy objects on the stairs. Before booking your movers, confirm that the company is licensed through the FMCSA, make sure that it’s part of the American Trucking Association ProMover program, and read reviews to see how customers felt about their experience. These qualifications will ensure that you get a trusted moving company and avoid any potential moving scams. Try scheduling your movers for a couple days or a week after you pick up the keys so you have ample time to check out the space and make sure everything is in order before you move in. Pre-Move Checklist You have your new place and you’ve scheduled the movers. Here are some of the last few steps to consider before moving day: Set up your utilities (electricity, internet, gas) BEFORE you move in. Most apartments require proof that your electricity has been set up before handing you the keys, and nothing is worse than moving into a stuffy, hot building without Wi-Fi. Spend the time between getting the keys and moving in making sure your new place is clean (if it’s been awhile between tenants, the space can get a little dusty) and mapping out where you want furniture to be placed. Pack! Get boxes from offices or grocery stores and use suitcases to keep packing costs low. Try not to shop for new household items before the move to reduce your packing load. Change your address on utilities, credit cards, your driver’s license and any other important accounts. Alert the post office of your new address to make sure mail gets to the right place. It’s Time to Move! By doing all the prep work ahead of time and hiring a professional moving team, you can enjoy a seamless first move and start settling into your new place, stress-free. Allied Van Lines would love to give you a great first moving experience! With 90 years of experience and a network of high quality agents nationwide, we have the expertise and skill to provide a smooth move, every time. Learn more.",
+    "with": [
+      "Whether you’ve just graduated or have a job in a new city, moving for the first time is a really exciting experience!",
+      "Professional movers are quick and efficient, have the tools to keep your fragile items safe and typically have insurance to cover any damages (which are less likely to occur in their care).",
+      "Set up your utilities (electricity, internet, gas) BEFORE you move in. Most apartments require proof that your electricity has been set up before handing you the keys, and nothing is worse than moving into a stuffy, hot building without Wi-Fi.",
+      "By doing all the prep work ahead of time and hiring a professional moving team, you can enjoy a seamless first move and start settling into your new place, stress-free."
+    ],
+    "without": [
+      "GET YOUR FREE QUOTE NOW!",
+      "Or Call 800‑689‑8684 to start your free quote!",
+      "Home > Moving Resources > Moving Tips > Tips for First Time Movers",
+      "CALL: 800.689.8684",
+      "© Copyright 2009-2023, Allied Van Lines, Inc. All Rights Reserved."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T18:44:08.923504"
+}

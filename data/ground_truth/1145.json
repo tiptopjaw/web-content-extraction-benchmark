@@ -1,0 +1,26 @@
+{
+  "url": "https://www.utpb.edu/academics/programs/computer-science/bs-computer-science-software-development",
+  "file_id": "1145",
+  "downloaded_at": "2025-12-20T21:34:38.107672",
+  "ground_truth": {
+    "title": "Software Development Degree Track - Bachelor of Science (BS) in Computer Science with Software Development Track",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Software Development Degree Track\nBachelor of Science (BS) in Computer Science with Software Development Track\nPower The Future Through Code\nThe Software Development Track prepares students for one of the most in-demand fields in today’s tech-driven world. This track emphasizes hands-on experience in software engineering, database design, web and multimedia technologies, and mobile app development—equipping graduates with the skills to create innovative, real-world solutions across platforms.\nDegree Requirements\n120 total credit hours required for graduation\n48 upper-level credit hours and a minor are required\nAll required and elective courses must be completed with a grade of C- or better\nComputer Science Core (25 hours), Software Development Track (19 hours), and Mathematics (14 hours)\nCapstone Course, Freshman Seminar, and 16 hours of General Electives\nCareers for Computer Science Majors with a Software Development Track:\nThe skills you develop here will launch you into nearly any field of including:\nSoftware Developer\nComputer Systems Analysts\nComputer Support Specialists\nComputer Network Architects\nComputer Hardware Engineers\nDatabase Administrators\nInformation Security Analysts\nDegree Roadmap\nGet all the details on our Computer Science program, including admission requirements, financial considerations, class requirements, and more.\nFAQs\nWhat is the Software Development track?\nThis specialization trains students to build robust software solutions across platforms—covering database design, multimedia/web, mobile apps, software engineering, and large-scale project development.\nHow many credits are required to graduate?\nStudents must complete 120 total semester credit hours, including 25 credits of core CS, 19 in the Software Development track, 17 in mathematics, and general education/electives. At least 48 upper-level credits and 30 final credits must be earned at UTPB.\nAre there specific grade requirements?\nYes—students must earn a minimum grade of C in all major courses and maintain an overall GPA of at least 2.0 to meet graduation requirements.\nWhat are the key courses in this track?\nMajor upper-level track courses include:\nCOSC 4415: Database Systems\nCOSC 4455: Multimedia & Web Development\nCOSC 4460: Software Engineering\nCOSC 4485: Mobile Application Development\nCOSC 4395: Research/Capstone project\nHow much math is required?\nStudents complete 17 credit hours in math, including Calculus I & II, Intro to Probability, and Mathematical Reasoning—or substitute equivalent courses.\nIs hands-on experience included in the curriculum?\nAbsolutely. Students engage in practical, lab-based projects and complete the COSC 4395 capstone, emphasizing real-world software development and portfolio-building.\nWhat career opportunities does this track support?\nGraduates are prepared for careers as Software Developers, Database Administrators, Systems Analysts, Front‑End/Web Developers, Mobile App Engineers, and more.\nMore from the Department of Computer Science\nExplore everything Computer Science has to offer at UTPB!\nContact Us\nDepartment of Computer Science\nEmail: beg_o@utpb.edu\nPhone: (432) 552-3460\nLocation: ST 1226B",
+    "with": [
+      "The Software Development Track prepares students for one of the most in-demand fields in today’s tech-driven world.",
+      "120 total credit hours required for graduation, 48 upper-level credit hours and a minor are required.",
+      "Graduates are prepared for careers as Software Developers, Database Administrators, Systems Analysts, Front‑End/Web Developers, Mobile App Engineers, and more.",
+      "Major upper-level track courses include: COSC 4415: Database Systems, COSC 4455: Multimedia & Web Development, COSC 4460: Software Engineering, COSC 4485: Mobile Application Development, COSC 4395: Research/Capstone project."
+    ],
+    "without": [
+      "Skip to Main Content",
+      "Request Info Visit Apply",
+      "Home Academics Degrees and Programs Computer Science Program",
+      "Join Us On Campus UT Permian Basin is within your reach.",
+      "Copyright © 2025 The University of Texas Permian Basin"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:34:38.107678"
+}

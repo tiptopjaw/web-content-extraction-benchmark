@@ -1,0 +1,27 @@
+{
+  "url": "https://generationtux.com/collection/shoes-and-socks",
+  "file_id": "1435",
+  "downloaded_at": "2025-12-20T20:29:59.617947",
+  "ground_truth": {
+    "title": "Dress Shoes & Socks",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Generation Tux’s carefully curated collection of dress shoes, tuxedo shoes, and socks is designed to enhance your formalwear, ensuring your ensemble is flawless from head to toe. Our shoe rentals add the perfect finishing touch to your attire.\n\nBlack Dress Shoes - $30\nBlack Patent Leather Shoes - $30\nBrown Leather Dress Shoes - $35\nStance Black Icon Socks - $14\nStance Navy Icon Socks - $14\nStance Gray Icon Socks\nStance White Icon Socks\nStance Black Stripe Socks\nStance Navy Stripe Socks\nStance Gray Stripe Socks\nStance White Stripe Socks\nStance Black Dots Socks\nStance Navy Dots Socks\nStance Gray Dots Socks\nStance White Dots Socks\nStance Black Floral Socks\nStance Navy Floral Socks\nStance Gray Floral Socks\nStance White Floral Socks\nStance Black Graphic Socks\nStance Navy Graphic Socks\nStance Gray Graphic Socks\nStance White Graphic Socks\nStance Black Argyle Socks\nStance Navy Argyle Socks\nStance Gray Argyle Socks\nStance White Argyle Socks\nStance Black Solid Socks\nStance Navy Solid Socks\nStance Gray Solid Socks\nStance White Solid Socks\nStance Tan Solid Socks\nStance Orange Solid Socks\nStance Red Solid Socks\nStance Pink Solid Socks\nStance Blue Solid Socks\nStance Green Solid Socks\nStance Brown Solid Socks",
+    "with": [
+      "Generation Tux’s carefully curated collection of dress shoes, tuxedo shoes, and socks is designed to enhance your formalwear, ensuring your ensemble is flawless from head to toe.",
+      "Our shoe rentals add the perfect finishing touch to your attire.",
+      "Black Dress Shoes - $30",
+      "Brown Leather Dress Shoes - $35",
+      "Stance Black Icon Socks - $14"
+    ],
+    "without": [
+      "Skip to Content",
+      "Our most popular suits & tuxedos - Now $119",
+      "Collection How It Works Free Home Try-On Free Swatches Showrooms Virtual Consultations Gallery",
+      "Login Sign Up",
+      "Filters Category Pattern Colors Type"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:29:59.617953"
+}

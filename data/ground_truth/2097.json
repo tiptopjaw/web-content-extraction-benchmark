@@ -1,0 +1,27 @@
+{
+  "url": "https://www.newsbreak.com/trending/top/online-learning-programs",
+  "file_id": "2097",
+  "downloaded_at": "2025-12-20T22:45:38.581784",
+  "ground_truth": {
+    "title": "The latest online learning programs news, videos & comments | NewsBreak",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Results related to \"online learning programs\"\n\nHow Online Learning Is Exploding — And Real-World Learning Platforms Are Reshaping Education in 2025\nIn 2025, the pace of change in online learning is unlike anything the education sector has ever experienced. From a flexible way for students to learn into a global standard: wherever and whenever you want to study, with us, you get the same high-quality education on online platforms designed for learning at your own pace.\n\n2026 Best Online Programs: Launch Announcement\nU.S. News will release the 2026 Best Online Programs rankings on Tuesday, Jan. 27, 2026. For those already planning, this will be one week later than the 2025 edition’s release. The rankings continue to focus on midcareer distance learners, and the same set of program areas from last year will be updated.\n\nDeveloping A Diverse Dynamic: Audiology Distance Education Students Learn Together\nOne of the hardest things in an online program is to build community, according to Shilpi Banerjee, PhD, director of the Distance Education programs in the Osborne Audiology Department on Drexel University, Elkins Park campus. But for the program’s most recent cohort, which spent two weeks on campus for face-to-face training, that wasn’t the case.\n\nBest Online Law Schools Programs 2026\nOnline and hybrid Juris Doctor (JD) programs continue to grow as more students search for flexible ways to study law. Many working professionals, parents, and career changers want accessible options that fit into their daily lives. Because of these needs, schools across the country have invested in stronger distance-learning systems. As a result, the Best Online Law Schools for 2026 now offer flexibility, accreditation, and practical training that match traditional programs.\n\nOnline Learning Program Information\nThe BCPS Online Learning Program is accepting applications from families interested in enrolling for the 2026-2027 school year. The program is only open to students who will be entering Grades 5-12 next school year. The application deadline is Friday, December 12. Visit https://elearning.bcps.org/ to learn more about the program and...",
+    "with": [
+      "In 2025, the pace of change in online learning is unlike anything the education sector has ever experienced.",
+      "U.S. News will release the 2026 Best Online Programs rankings on Tuesday, Jan. 27, 2026.",
+      "One of the hardest things in an online program is to build community, according to Shilpi Banerjee, PhD, director of the Distance Education programs in the Osborne Audiology Department on Drexel University, Elkins Park campus.",
+      "Online and hybrid Juris Doctor (JD) programs continue to grow as more students search for flexible ways to study law.",
+      "The BCPS Online Learning Program is accepting applications from families interested in enrolling for the 2026-2027 school year."
+    ],
+    "without": [
+      "Sign in",
+      "Open in NewsBreak",
+      "Choose your location",
+      "©2025 NewsBreak. All Rights Reserved.",
+      "Local News"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:45:38.581791"
+}

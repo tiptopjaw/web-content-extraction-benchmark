@@ -1,0 +1,27 @@
+{
+  "url": "https://equitashealth.com/our-services/dental-services/",
+  "file_id": "0878",
+  "downloaded_at": "2025-12-20T21:36:41.962486",
+  "ground_truth": {
+    "title": "Dentistry",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Let your smile show how good it feels to be healthy. At Equitas Health, your whole person healthcare can include quality, comfortable, and affordable dental care.\n\nNew Hours: Now open\nMON - FRI, 9 AM - 6 PM!\n\nDental care should make you smile.\nAt Equitas Health, you get quality dentistry in a full-service health center with a trained and caring staff. Our team of dentists, dental assistants, and dental hygienists works with you to explore how best to meet the needs of you and your family.\n\nWe offer:\nEmergency Dental Care\nPreventive Care\nCleanings\nExams & x-rays\nOral cancer screening\nOral hygiene training\nRestorative Care\nFillings (amalgam and composite)\nCrowns\nExtractions & root canals\nRemovable\nDentures\nPartials\nTooth whitening\nMouthguards/nightguards\nWe accept insurance\nOur dental clinics accept Medicaid and most major private insurance plans. If you do not have insurance, or your insurance does not make your dental care affordable, please apply for our sliding fee scale. You deserve a healthy mouth!\nBilling for Office Visits\nPayment will be due at the time of service. Office visits include dental exams, cleanings, and x-rays.\nPatients with dental insurance: We will contact your insurance company to check your coverage. We will also find out how much you will pay for your visit.\nPatients without dental insurance: You may apply for a reduced price through the Sliding Fee Discount. We will ask you about your income and household size to determine your payment amount.\nBilling for Procedures\nYou will get an appointment for any needed procedures after your office visits. Procedures include, but are not limited to, bonding, bridges, crowns, dentures, extractions, fillings, fluoride, and root canals. For a full list of dental procedures and costs, see the Dental Fee Schedule.\nFor procedures, you will pay half (50%) of the total cost when you make your appointment. For example, if your procedure costs $100, you would pay $50 for that procedure. The rest of your payment will be due at the time of service.\nIf you are unable to pay the balance, you can:\nMake a new appointment for your procedure, or\nGet a refund for the money you paid up front.\nPatients with dental insurance: We will contact your insurance company to check your coverage. We will also find out how much you will pay for your procedure.\nPatients without dental insurance: If you qualify for the Sliding Fee Discount program, you will get a 35% discount on the regular cost of dental procedures listed in Equitas Health’s Dental Fee Schedule. We will honor any Sliding Fee Scale approvals that were granted prior to July 1, 2024.\n\nEquitas Health Dentistry\nProviders\nCarolyn Cousins Bates, DDS\nShe/Her\nDentist",
+    "with": [
+      "Let your smile show how good it feels to be healthy. At Equitas Health, your whole person healthcare can include quality, comfortable, and affordable dental care.",
+      "At Equitas Health, you get quality dentistry in a full-service health center with a trained and caring staff.",
+      "Our dental clinics accept Medicaid and most major private insurance plans.",
+      "Payment will be due at the time of service. Office visits include dental exams, cleanings, and x-rays.",
+      "For procedures, you will pay half (50%) of the total cost when you make your appointment."
+    ],
+    "without": [
+      "Make an Appointment",
+      "We use cookies to make our website better for you. By using our site, you agree to our use of cookies.",
+      "Home // Our Services // Dentistry",
+      "© 2025 Equitas Health Site Map Privacy Policy Non-Discrimination Policy",
+      "What else can we help you with? Whole Person Healthcare"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:36:41.962492"
+}

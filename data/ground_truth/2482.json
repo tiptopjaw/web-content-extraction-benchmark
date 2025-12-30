@@ -1,0 +1,27 @@
+{
+  "url": "https://techrights.org/n/2025/12/16/When_Malformed_RSS_or_Atom_Feeds_Clog_Up_or_Even_Crash_Programs.shtml",
+  "file_id": "2482",
+  "downloaded_at": "2025-12-20T23:32:49.744264",
+  "ground_truth": {
+    "title": "When Malformed RSS or Atom Feeds Clog Up (or Even Crash) Programs",
+    "author": "Roy Schestowitz",
+    "publish_date": "2025-12-16",
+    "main_content": "In the past we used QuiteRSS extensively. It has not been maintained for years, so eventually we dumped it, however gradually. Exception handling when it comes to feeds is a prickly thing. In general, many feeds \"out there\" will be hand crafted. Some are perpetually malformed. Some are just occasionally malformed. For those of us who wrote our own RSS reading programs it means lots of debugging chores. But it pays off.\n\nOne thing to do about malformed feeds is to temporarily skip them or permanently dump them. Another option is, let the site operator/s know about the malformed file/s and preferably make constructive suggestions. They might really appreciate it, even if they don't reply (that doesn't mean they're ungrateful).\n\nNow that LLM slop is becoming scarce enough that we very seldom find any in our RSS feeds the main obstacle is feeds that are properly formed. I have had issues with some (at least two) this week.\n\nRSS readers are an excellent way to keep on top of news online. Social Control Media curated by oligarch is the worst one can get.\n\nLet's invest in RSS readers and recommend to others that they at least give it a try. █",
+    "with": [
+      "In the past we used QuiteRSS extensively. It has not been maintained for years, so eventually we dumped it, however gradually.",
+      "Exception handling when it comes to feeds is a prickly thing. In general, many feeds \"out there\" will be hand crafted.",
+      "One thing to do about malformed feeds is to temporarily skip them or permanently dump them.",
+      "RSS readers are an excellent way to keep on top of news online. Social Control Media curated by oligarch is the worst one can get.",
+      "Let's invest in RSS readers and recommend to others that they at least give it a try."
+    ],
+    "without": [
+      "Home About IRC Gemini Edition Search Feed",
+      "Publication Plans for the Coming Weeks",
+      "Other Recent Techrights' Posts",
+      "Very Shallow LLM Slop for IBM Disguised as Journalism About a \"Plan to Train 5 Million Learners in India by 2030\" (Unverified Figures With Very Distant Future Date/Year)",
+      "Home About IRC Search Feed"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T23:32:49.744270"
+}

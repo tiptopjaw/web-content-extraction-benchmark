@@ -1,0 +1,27 @@
+{
+  "url": "https://rankings.newsweek.com/americas-best-cybersecurity-companies-2025",
+  "file_id": "0867",
+  "downloaded_at": "2025-12-20T21:28:47.095033",
+  "ground_truth": {
+    "title": "America’s Best Cybersecurity Companies 2025",
+    "author": null,
+    "publish_date": null,
+    "main_content": "In today’s ever-expanding digital age, online privacy is paramount. Ensuring one's personal data is safe and secure is a primary concern for American internet users seeking to protect themselves against malware, phishing scams and other cybersecurity threats. And as generative artificial intelligence programs grow in effectiveness and accessibility, these threats are becoming even more prevalent. \n\nIn 2025, cybercrime is estimated to cost the United States over $639 billion. But some cybersecurity companies are going the extra mile to protect people against the threats posed by cybercrime. \n\nTo recognize the companies leading the way in performance and reputation, Newsweek has partnered with data analytics firm Statista to present America’s Best Cybersecurity Companies. The list recognizes 82 companies that excel in securing digital infrastructure, mitigating cyber threats and embedding cybersecurity into their core strategies. \n\nTo compile the data used in the list, Statista combined public sentiment with expert evaluations, surveying over 3,000 U.S.-based IT decision-makers to assess cybersecurity companies in five performance criteria across eight different industry categories. The criteria focus on service quality, professional quality, product satisfaction, false positive rate and threat response time. \n\nCompanies recognized in this year’s top list include Claroty, Dynatrace, Fortinet, Honeywell and SentinelOne. \n\nIf you’re looking to bolster your cybersecurity, we hope this list helps clarify which companies set the standard when it comes to maintaining digital privacy and protecting you from cyberthreats.",
+    "with": [
+      "In today’s ever-expanding digital age, online privacy is paramount.",
+      "In 2025, cybercrime is estimated to cost the United States over $639 billion.",
+      "To recognize the companies leading the way in performance and reputation, Newsweek has partnered with data analytics firm Statista to present America’s Best Cybersecurity Companies.",
+      "To compile the data used in the list, Statista combined public sentiment with expert evaluations, surveying over 3,000 U.S.-based IT decision-makers to assess cybersecurity companies in five performance criteria across eight different industry categories.",
+      "Companies recognized in this year’s top list include Claroty, Dynatrace, Fortinet, Honeywell and SentinelOne."
+    ],
+    "without": [
+      "Nation",
+      "Subscribe",
+      "Sign In",
+      "Go to Full List",
+      "© 2025 NEWSWEEK DIGITAL LLC"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:28:47.095038"
+}

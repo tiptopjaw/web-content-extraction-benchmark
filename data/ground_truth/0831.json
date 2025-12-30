@@ -1,0 +1,26 @@
+{
+  "url": "https://www.goodwin.edu/glossary/certificate-programs",
+  "file_id": "0831",
+  "downloaded_at": "2025-12-20T21:06:28.474661",
+  "ground_truth": {
+    "title": "Certificates",
+    "author": null,
+    "publish_date": null,
+    "main_content": "What is a certificate? A certificate is official documentation that certifies an individual has received specialized education or has successfully completed necessary testing in a certain subject or skill. Goodwin University offers the following certificate programs: Business Administration, Certified Addiction Counselor, CNC Machining 18-Credit Certificate, CNC Machining, Metrology and Manufacturing Technology, Licensed Practical Nurse (LPN), Medical Assisting, Medical Billing and Coding, Patient Care Technician, Violence Intervention and Advocacy, Welding. For a full list of all of our certificate program offerings, please visit our majors page. We’re ready when you are Enrollment is hassle-free, and it’s easy to get started. Financial aid is available, and we’re still accepting applications. You will find comprehensive support services that will get you through college and into a great career. We are veteran-friendly, and we understand and respect the needs of veteran students. If you want to transfer in credits, Admissions can typically review your unofficial transcripts of prior learning in less than one business day. Contact us today! Request More Information 800-889-3282 Apply Now bdaley@goodwin.edu",
+    "with": [
+      "A certificate is official documentation that certifies an individual has received specialized education or has successfully completed necessary testing in a certain subject or skill.",
+      "Goodwin University offers the following certificate programs: Business Administration, Certified Addiction Counselor, CNC Machining 18-Credit Certificate, CNC Machining, Metrology and Manufacturing Technology, Licensed Practical Nurse (LPN), Medical Assisting, Medical Billing and Coding, Patient Care Technician, Violence Intervention and Advocacy, Welding.",
+      "Enrollment is hassle-free, and it’s easy to get started.",
+      "Financial aid is available, and we’re still accepting applications.",
+      "You will find comprehensive support services that will get you through college and into a great career."
+    ],
+    "without": [
+      "Contact Us Today! 800-889-3282",
+      "Home › Glossary › Certificate Programs",
+      "Related Terms 501(c)(3) School, Academic Accommodation, Accelerated Degree Programs, Accreditation, Accuplacer®, Adult Degree Completion, Age-Friendly University, Application Process, Application Deadlines, Associate Degree, Asynchronous Classes, Bachelor’s Degree, Bridge Programs, Bursar’s Office, Career Networking, Connecticut State Colleges & Universities (CSCU), Certificate Programs, CLEP Testing, College Counseling, College Success®, College Transcript, College Tuition, Common Application, Community College, Corequisites, Central Processing System, Credentials, Dean, Degree Inflation, Diploma Program, Disability-friendly College, Distance Learning, Dual Degree, Early Action, Early College High School, Early Decision, ENet, Family Educational Rights & Protective Act (FERPA), First-Generation Students, For-Profit School, Free Community College in Connecticut, Fully Funded Nursing Programs, Gap Year, GED Classes, GED Completion, Half-time Enrollment, Hybrid Class, Independent Student, Intensive Courses, Job Placement Rate, Liberal Arts, Matriculation, Master’s Degree, NECHE, Nonprofit School, Nursing Point System, On-Campus Classes, Online Classes, Open Admissions, Placement Tests, Postsecondary Education, Prerequisite Courses, Private Colleges, Private University, Provost, Public Colleges, Rate My Professor, Registrar, Remedial Programs, SNAP E&T, SNAP Program, Snap to Skills (S2S), Social and Emotional Learning, Student Affairs, Student Engagement, Synchronous Learning, Title IV Schools, Title IX, Trade Schools, Transfer Credits, Universal Design for Learning (UDL), ZeeMee",
+      "©2025 Goodwin University"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:06:28.474667"
+}

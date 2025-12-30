@@ -1,0 +1,27 @@
+{
+  "url": "https://www.dxomark.com/cameras/",
+  "file_id": "1053",
+  "downloaded_at": "2025-12-20T20:38:03.314288",
+  "ground_truth": {
+    "title": "Camera sensor rankings",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The DXOMARK scores in the rankings below reflect the device’s performance and the quality of the user experience. These scores, trusted by the industry, are backed up by exhaustive protocols that gather hundreds of measurements run in DXOMARK’s state-of-the-art laboratories. With DXOMARK you can display the cameras with three different views - Grid, List or Graph in order for you to have the best solution to compare the filtered results. Choose the cameras you want to compare from the results below. Then in the selection box, you can check up to three cameras at a time to compare their data. OVERALL SCORE: Measures camera performance for a general-purpose use case, based on the combination of three use case scores: Portrait, Landscape and Sports. PORTRAIT: Measures in bits the number of colors that the sensor is able to distinguish. LANDSCAPE: Measures in exposure value (EV) the maximum difference between light and dark details that a sensor can record. SPORTS: Measures the highest ISO a photographer could use without compromise of image quality.",
+    "with": [
+      "The DXOMARK scores in the rankings below reflect the device’s performance and the quality of the user experience.",
+      "These scores, trusted by the industry, are backed up by exhaustive protocols that gather hundreds of measurements run in DXOMARK’s state-of-the-art laboratories.",
+      "With DXOMARK you can display the cameras with three different views - Grid, List or Graph in order for you to have the best solution to compare the filtered results.",
+      "OVERALL SCORE: Measures camera performance for a general-purpose use case, based on the combination of three use case scores: Portrait, Landscape and Sports.",
+      "PORTRAIT: Measures in bits the number of colors that the sensor is able to distinguish."
+    ],
+    "without": [
+      "Skip to content",
+      "Search for your device brand or model…",
+      "Copyright © 2008-2025 DXOMARK. All rights reserved - Terms & Conditions - Cookies Management",
+      "Follow on Facebook",
+      "Back to top"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:38:03.314294"
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://www.bbb.org/near-me/pest-control",
+  "file_id": "0907",
+  "downloaded_at": "2025-12-20T20:36:00.706614",
+  "ground_truth": {
+    "title": "Pest Control Services Near Me | Better Business Bureau",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Pest Control Services Near You\n\nPest control companies near you\nUnwanted pests are not only irritating— they can be dangerous to your health and to the safety of your home. BBB is here to help you find local exterminators to remove insects and vermin. Search this list to find an Accredited pest control service near you.\n\nProvide your location\nFind Pest Control Services near\n\nAccreditation and Ratings Overview\nSelect businesses earn BBB Accreditation by undergoing a thorough evaluation and upholding the BBB Accreditation Standards.\nBBB assigns ratings from A+ (highest) to F (lowest). In some cases, BBB will not rate the business (indicated by an NR, or \"No Rating\") for reasons that include insufficient information about a business or ongoing review/update of the business's file.",
+    "with": [
+      "Unwanted pests are not only irritating— they can be dangerous to your health and to the safety of your home.",
+      "BBB is here to help you find local exterminators to remove insects and vermin.",
+      "Search this list to find an Accredited pest control service near you.",
+      "Select businesses earn BBB Accreditation by undergoing a thorough evaluation and upholding the BBB Accreditation Standards.",
+      "BBB assigns ratings from A+ (highest) to F (lowest)."
+    ],
+    "without": [
+      "Skip to main content",
+      "For Businesses",
+      "Get a Quote",
+      "Leave a Review",
+      "File a Complaint",
+      "Report a Scam",
+      "Create an Account",
+      "Get Your Business Listed",
+      "BBB Accreditation",
+      "Apply for BBB Accreditation",
+      "Business Resources",
+      "Mission and Vision",
+      "Directory of Local BBBs",
+      "Careers",
+      "© 2025. All Rights Reserved."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:36:00.706619"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nyc.gov/site/hra/index.page",
+  "file_id": "0079",
+  "downloaded_at": "2025-12-20T19:24:58.138381",
+  "ground_truth": {
+    "title": "Welcome to the NYC Human Resources Administration - HRA",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Notice of Class Action Settlement for New Yorkers who received Consumer Directed Personal Assistance Program (CDPAP) services in March of 2025 and meet other criteria. Read the notice: English Español Other languages available through NY State Department of Health Optional Facilitator Selection Form: English HOPE 2026 Learn more and sign up: nyc.gov/hope CityFHEPS Road Map Learn more about the process for signing a lease and moving in once you have a CityFHEPS shopping letter and have found housing. Benefit Replacement Claims. Learn more Recent Announcements The OCSS Brooklyn Borough Office Relocation. Sanctions Are Coming Back! Read more Programs & Initiatives ACCESS HRA Portal Visit HRA's portal to apply and manage your SNAP and Cash benefits online. Child Support Services Help kids get support from both parents. Apply for services. Sign up for job training. Food Help NYC Locate free meals at food pantries and soup kitchens near you. Fair Fares NYC With Fair Fares NYC, eligible City residents may buy a 7-day or 30-day pass for half the price. HIV/AIDS Services Helping people living with HIV/AIDS to live independent, healthy lives. Homebase If you are about to become homeless, Homebase can help you stay out of shelter. Disability Access Learn how to request Reasonable Accommodation for HRA services. Voting.NYC Everything New Yorkers need to vote.",
+    "with": [
+      "Notice of Class Action Settlement for New Yorkers who received Consumer Directed Personal Assistance Program (CDPAP) services in March of 2025 and meet other criteria.",
+      "HOPE 2026 Learn more and sign up: nyc.gov/hope",
+      "CityFHEPS Road Map Learn more about the process for signing a lease and moving in once you have a CityFHEPS shopping letter and have found housing.",
+      "Visit HRA's portal to apply and manage your SNAP and Cash benefits online.",
+      "If you are about to become homeless, Homebase can help you stay out of shelter."
+    ],
+    "without": [
+      "Serving New Yorkers with Care & Compassion",
+      "Home About I Need Help Locations Doing Business Partners Careers",
+      "Quick Links Community Updates SNAP Centers & Other DSS/HRA Locations Child Support Services NYC Benefits Partners How to Apply for Cash Assistance Adult Protective Services Sexual Assault & Harassment Survivors Register to Vote Contact Us",
+      "nyc.gov home Services Events Your government 311 Contact NYC government Register to vote Emergency alerts Careers Website feedback Accessibility resources Privacy policy Terms of use About nyc.gov content",
+      "© City of New York. 2025 All Rights Reserved. NYC is a trademark and service mark of the City of New York."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T19:24:58.138387"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.chick-fil-a.com/catering",
+  "file_id": "1035",
+  "downloaded_at": "2025-12-20T20:28:56.852987",
+  "ground_truth": {
+    "title": "Chick-fil-A® Catering",
+    "author": null,
+    "publish_date": "2025-05-27",
+    "main_content": "Chick-fil-A® Catering\nPrice and availability may vary by location.\n\nEvery event. Every guest. All catered.\nWhether you’re feeding a crowd of coworkers or just hosting a small dinner, mealtimes are made easier with Chick-fil-A® Catering. Order party trays, packaged meals, entrées, sides and more so you can spend less time cooking and more time enjoying the conversation with catered food made for you.\n\nParty with packaged meals\nWhen your event needs an entrée, side and dessert, order a packaged meal (with an option to get an extra side). In quantities of 10, 25, 50 and more, our packaged meals – with entrée options from catered sandwiches and Chick-fil-A® Nuggets to tasty wraps – make the party.\n\nTreat them all to trays\nParty platters, finger foods, refreshments – whatever food you need to order for your party, our trays can serve it up. Order them in small, medium and large trays to feed a variety of group sizes.\n\nServe breakfast to a bunch\nMake it a good morning. Get Chicken Biscuits, Berry Parfaits, and more catered for breakfast. In quantities of 10, 25, 50 and more, have breakfast catered for all size groups.\n\nMore meals. Less work.\nGet it all — à la carte. Mix and match any of our catering menu items to create an appetizing spread for your next event. Or combine entrées, sides and desserts into a custom packaged meal for each guest. With Chick-fil-A®, you can cater with the exact food items your guests know and love.\n\nEntrées\nFrom fueling working lunches to providing the main dish for a potluck, our entrées really make the meal. Cater your next party with sandwiches, salads, nuggets and wraps in quantities of 10, 25, 50 and more.\n\nSides\nServe them sweet and savory sides, like Waffle Potato Chips, Fruit Cups, Side Salads and more, in quantities of 10, 25, 50 and more. You can pair sides with your entrées or order them alone.\n\nDesserts\nDesserts turn a party of one into a party of fun. Treat guests to Chocolate Chunk Cookies, Chocolate Fudge Brownies and more. Available in quantities of 10, 25, 50 and more.\n\nBeverages\nFrom gallons of Sunjoy® and Chick-fil-A® Lemonade to individual bottled drinks and even boxed coffee, our beverage options quench any thirst. Plus, you can keep the drinks cool with bagged ice, a bucket and scoop.\n\nWhat you’ll love about Chick-fil-A® Catering\nMost restaurants can prepare your catered food order with less than 24 hours lead time.\nNo minimum order size required for pickup in restaurant.\nGluten free options available for catering (and all the time).\nWith pickup and delivery options, our catering service is as convenient as they come.",
+    "with": [
+      "Whether you’re feeding a crowd of coworkers or just hosting a small dinner, mealtimes are made easier with Chick-fil-A® Catering.",
+      "Order party trays, packaged meals, entrées, sides and more so you can spend less time cooking and more time enjoying the conversation with catered food made for you.",
+      "Mix and match any of our catering menu items to create an appetizing spread for your next event.",
+      "Most restaurants can prepare your catered food order with less than 24 hours lead time.",
+      "With pickup and delivery options, our catering service is as convenient as they come."
+    ],
+    "without": [
+      "Find restaurants",
+      "Sign in or join for rewards",
+      "Menu",
+      "© 2025 CFA Properties, Inc. All rights reserved.",
+      "Order now"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:28:56.852992"
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.lubbockonline.com/press-release/story/111518/house-cleaning-raleigh-pros-expands-deep-cleaning-operations-with-refined-residential-procedures/",
+  "file_id": "0838",
+  "downloaded_at": "2025-12-20T21:11:05.940128",
+  "ground_truth": {
+    "title": "Lubbock Avalanche-Journal: Local News, Politics & Sports in Lubbock, TX",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Carnegie Medal awarded to Copeland posthumously\nCopeland, who helped save an Amarillo police officer but died in a later shooting, is being honored for his heroism.\n\nAround the Hub details Buns Over Texas, Goodwill, chicken news\n\nTexas Tech baseball program sets alumni game in January\n\nGetting defensive: Stephenville wins title in uniquely low-scoring game\n\nJury acquits Slaton priest charged with indecent assault\n\nFrom Jagger to Michael Jackson, new Epstein docs stir controversy\n\nCan Texas Tech basketball get it together to take down undefeated Duke?\n\nWho were Ida and Lou? Caprock Chronicles explores how 2 sisters inspired a West Texas town\n\nLandry: 'What Christmas means to me' going from 2025 to 2026\n\nHere's how much Texas gas prices slightly rose from last week\n\nWhere to watch Texas Tech basketball vs Duke today, TV channel\n\nTracking Texas Tech football's 2026 transfer portal activity\n\nTexas Tech football's Jacob Rodriguez on Heisman vote, awards circuit\n\nWhat's Luke Bamgboye's injury status for Texas Tech basketball?\n\nTexas Tech football's 2025 list of All-America honorees\n\nPredicting all 12 UIL football Texas state championship games\n\nWhat is Victory+, how to watch UIL state high school football for free\n\nHow to watch the 2025 UIL State football championships: TV, streaming",
+    "with": [
+      "Carnegie Medal awarded to Copeland posthumously",
+      "Copeland, who helped save an Amarillo police officer but died in a later shooting, is being honored for his heroism.",
+      "Who were Ida and Lou? Caprock Chronicles explores how 2 sisters inspired a West Texas town",
+      "Landry: 'What Christmas means to me' going from 2025 to 2026",
+      "Here's how much Texas gas prices slightly rose from last week"
+    ],
+    "without": [
+      "Skip to main content",
+      "Home News Sports Entertainment Lifestyle Opinion Business Obituaries Crosswords Comics eNewspaper For Subscribers Shopping Contributor Content",
+      "© Copyright Gannett 2025",
+      "Help Terms of Service Subscription Terms & Conditions Privacy Policy Site Map Accessibility Our Ethical Principles Responsible Disclosure Your Privacy Choices"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:11:05.940134"
+}

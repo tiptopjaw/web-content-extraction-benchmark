@@ -1,0 +1,34 @@
+{
+  "url": "https://www.hr-consulting-group.com/hr-outsourcing-and-consulting-services",
+  "file_id": "1138",
+  "downloaded_at": "2025-12-20T21:29:13.993481",
+  "ground_truth": {
+    "title": "HR Outsourcing Services | Human Resource Consulting Group",
+    "author": null,
+    "publish_date": null,
+    "main_content": "HR Outsourcing & Consulting Services\n\nComprehensive HR Services and Support for Your Business\n\nThe Human Resource Consulting Group provides comprehensive HR Services with a personal touch. Our team of experts can provide everything your business needs from complete HR outsourcing, to individual services like policy and procedure reviews.\n\nWe're here to become your full-time HR team, or supplement staff where needed. With our flexible services, state-of-the-art technology, and world-class client support, anything is possible.\n\nWe recognize that the needs of each business we work with are different, and we take pride in getting to understand our clients individually to create tailored and cost-effective solutions for payroll, risk management, HR administration, workforce management, and employee benefits management.\n\nHRCG has become a premier provider of human resource services by partnering with business owners and entrepreneurs to manage their most important asset – people. Our primary differentiation is a high-touch service model coupled with technology and expertise. With HRCG, you get a team of certified HR professionals who provide proactive strategies that deliver positive outcomes for your business.\n\nInterested in learning more about our full suite of services? Schedule a consultation to speak with one of our HR Service professionals about how we can address your HR and compliance needs so that you can gain the freedom to focus on growing your business.\n\nCore HR Strategy\nAlign HR strategy to objectives, and develop policies and procedures with continuing support.\n\nRecruitment/Staffing\nDevelop recruitment strategy and provide support on screening, applicant tracking, interviewing, enrollment and onboarding.\n\nMergers, Acquisition, and Divestiture Support\nEnsure HR due diligence with HR integration support and develop communication & retention strategy.\n\nEmployee Leave Administration\nProvide administrative processing, respond to employee inquiries and coordinate benefits with vendors.\n\nHR Administration\nProvide guidance on employee HR records, employee life cycle management, communication, and compliance measures.\n\nBenefits Administration\nTrack employee benefit eligibility and change of status & manage employee termination and open enrollment.\n\nEmployee Relations\nAddress and document policy related questions and respond to employee queries; investigate employee complaints.\n\nPerformance Management\nDevelop and implement performance management systems and monitor workplace investigations.\n\nInterested in learning more? Schedule a free consultation today.\n\nElevate Your Business with Comprehensive HR Outsourcing & Consulting Services\n\nHR Outsourcing Helps Your Business Thrive\nDownload our Benefits of HR Outsourcing guide to see why thousands of small-to-mid-sized companies choose to outsource their HR functions to us and how it helps grow their businesses.\n\nWhy Us? See the HRCG Difference\nDownload our Services Overview to see how our comprehensive HR services can help your business thrive.",
+    "with": [
+      "The Human Resource Consulting Group provides comprehensive HR Services with a personal touch.",
+      "We're here to become your full-time HR team, or supplement staff where needed.",
+      "HRCG has become a premier provider of human resource services by partnering with business owners and entrepreneurs to manage their most important asset – people.",
+      "Our primary differentiation is a high-touch service model coupled with technology and expertise.",
+      "With HRCG, you get a team of certified HR professionals who provide proactive strategies that deliver positive outcomes for your business."
+    ],
+    "without": [
+      "Home",
+      "About Us",
+      "Services",
+      "Markets Served",
+      "HR News",
+      "Resources",
+      "Contact",
+      "Login",
+      "Get A Quote",
+      "Access Guide",
+      "Menu",
+      "Schedule a consultation to speak with one of our HR Service professionals"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:29:13.993486"
+}

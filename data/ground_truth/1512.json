@@ -1,0 +1,27 @@
+{
+  "url": "https://jobs.us.pwc.com/deal-analytics",
+  "file_id": "1512",
+  "downloaded_at": "2025-12-20T22:56:07.567602",
+  "ground_truth": {
+    "title": "Deal Analytics",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Interested in a career in Deal Analytics? Deals Analytics is a dedicated and client-facing team focused on applying advanced analytics in Deals. Deal Analytics professionals expand client confidence related to key deal questions by delivering incremental insights - this is done by combining deal expertise, advanced technologies, analytical techniques and expanded datasets. Deal Analytics is a capability that fits within our existing delivery model to bring new insights to our clients through an integrated PwC approach. Client benefits include speed and depth of insights, greater deal confidence and data-driven perspectives (diligence and post-deal). PwC benefits include expanded scopes and revenue on each deal, provide bridge to other PwC services and greater client stickiness. Don't see a job that interests you at this time? Join our Talent Community to stay connected, learn more about PwC, career opportunities and events that interest you!",
+    "with": [
+      "Interested in a career in Deal Analytics?",
+      "Deals Analytics is a dedicated and client-facing team focused on applying advanced analytics in Deals.",
+      "Deal Analytics professionals expand client confidence related to key deal questions by delivering incremental insights - this is done by combining deal expertise, advanced technologies, analytical techniques and expanded datasets.",
+      "Client benefits include speed and depth of insights, greater deal confidence and data-driven perspectives (diligence and post-deal).",
+      "PwC benefits include expanded scopes and revenue on each deal, provide bridge to other PwC services and greater client stickiness."
+    ],
+    "without": [
+      "Search jobs",
+      "Learn with purpose, lead with heart, make a positive impact on the world.",
+      "Related Jobs",
+      "Connect with us",
+      "© 2017 - 2025 PwC. All rights reserved. PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate legal entity."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:56:07.567608"
+}

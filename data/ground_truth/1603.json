@@ -1,0 +1,27 @@
+{
+  "url": "https://www.whitelodging.com/news-events",
+  "file_id": "1603",
+  "downloaded_at": "2025-12-20T22:24:44.860166",
+  "ground_truth": {
+    "title": "The Latest White Lodging News, Events & Hotel Management Updates",
+    "author": null,
+    "publish_date": null,
+    "main_content": "News\nDamon Bell Named General Manager of the Union Club Hotel at Purdue University\nRead Article\nThe Shepherd Hotel Appoints Hospitality Veteran Vicki Wicks as General Manager\nRead Article\nthe latest\nWhite Lodging Marketing Teams Win Four HSMAI Adrian Awards\nRead Article\nWhite Lodging Names David Cirincione Regional Director of Operations\nRead Article\nWhite Lodging Awarded Management of The Shepherd Hotel at Clemson University\nRead Article\nWhite Lodging Acquires 3.5 Acres in Fort Worth Stockyards\nRead Article\nJason Druso Rejoins White Lodging as Regional Vice President\nRead Article\nNew Documentary Film Showcases the Story of Bruce White’s Entrepreneurial Journey\nRead Article\nWhite Lodging Hires Two Industry Veterans as Chief Legal Officer, Chief Financial Officer\nRead Article\nAnne Tabakian Named White Lodging’s Vice President of Food & Beverage\nRead Article\nWhite Lodging Promotes Chris Anderson to Chief Operating Officer, Joe Pagone to Senior Vice President of Operations\nRead Article\nNew Book Captures the Entrepreneurial Spirit and Values-Driven Leadership of Hospitality Industry Icon Bruce White\nRead Article\nWhite Lodging Again Named 2025 Gallup Exceptional Workplace Award Winner\nRead Article\nJean-Luc Barone Joins AHLA Board of Directors\nRead Article\nConner White Named White Lodging’s Vice Chairman and Chief Investment Officer\nRead Article\nAUSTINPLACE BECOMES LARGEST SINGLE COLLECTION OF MARRIOTT HOTELS IN TEXAS\nRead Article\nSAN ANTONIO’S NEWEST HOTELS EARN RECOGNITION FOR RENOVATION, DESIGN, AND ADAPTIVE REUSE OF HISTORICAL BUILDINGS\nRead Article\nHotel Trinity to Break Ground in Austin\nRead Article\nWhite Lodging Ranked #3 by J.D. Power in Guest Satisfaction\nRead Article\nKIMPTON SANTO HOTEL TO OPEN AUGUST 29\nRead Article\nWhite Family Foundation Commits Record $150M to Support Values-based Education in Northwest Indiana\nRead Article\nWhite Lodging Named 2024 Gallup Exceptional Workplace Award Winner\nRead Article\nNearly 20 White Lodging Hotels Recognized as “Best Hotels” by U.S. News & World Report\nRead Article\nKimpton Hotels & Restaurants Announces Kimpton Santo Hotel In San Antonio\nRead Article\nHIGHLY ANTICIPATED PLAZA SAN ANTONIO HOTEL & SPA, AUTOGRAPH COLLECTION, OPENING THIS WEEK\nRead Article\nHIGHLY ANTICIPATED PLAZA SAN ANTONIO HOTEL & SPA, AUTOGRAPH COLLECTION SHARES NEW DETAILS ON ITS RESTAURANT AND BAR\nRead Article\nDavid Meisner Rejoins White Lodging as Regional Vice President\nRead Article\nFIRST KIMPTON HOTEL IN SAN ANTONIO CELEBRATES ITS TOPPING OUT ON SCHEDULE\nRead Article\nTHE PLAZA SAN ANTONIO HOTEL & SPA NAMES GENERAL MANAGER AND DIRECTOR OF SALES AND MARKETING\nRead Article\nWhite Family Foundation commits $50 million to new Daniels School of Business at Purdue University\nRead Article\nFIRST AUTOGRAPH COLLECTION HOTEL IN SAN ANTONIO GETS NEW NAME\nRead Article\nHospitality Icon Bruce White Dies at 70\nRead Article\nWhite Lodging Names Chief Human Resources Officer and Operations Vice President\nRead Article\nWhite Lodging to Build its First Kimpton in San Antonio\nRead Article\nWhite Lodging Completes Suburban Hotel Market Exit, Progresses on $750M in New Developments\nRead Article\nWhite Lodging Exits Suburban Hotel Markets, Boosts Focus on Experiential Urban & Lifestyle Hotels\nRead Article\nThe Dean and Barbara White Family Foundation Announces $1.25M Gift to Fund Expansion of Aquinas Community School\nRead Article\nMAAC Foundation Receives $1 Million Donation From Dean and Barbara White Family Foundation to Expand Educational Opportunities for First Responders\nRead Article\nEmbracing Purdue University's Legacy and its Next Giant Leap, The Union Club Hotel Joins Autograph Collection",
+    "with": [
+      "Damon Bell Named General Manager of the Union Club Hotel at Purdue University",
+      "White Lodging Marketing Teams Win Four HSMAI Adrian Awards",
+      "White Lodging Again Named 2025 Gallup Exceptional Workplace Award Winner",
+      "White Lodging to Build its First Kimpton in San Antonio",
+      "Hospitality Icon Bruce White Dies at 70"
+    ],
+    "without": [
+      "Skip Navigation",
+      "About Culture Careers Markets Hotels Restaurants",
+      "Search Our Jobs",
+      "Return to homepage",
+      "Toggle submenu using the spacebar"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:24:44.860173"
+}

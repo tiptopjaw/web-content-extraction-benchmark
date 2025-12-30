@@ -1,0 +1,27 @@
+{
+  "url": "https://www.fastpestsolutions.com/discounts",
+  "file_id": "2109",
+  "downloaded_at": "2025-12-20T22:52:31.572688",
+  "ground_truth": {
+    "title": "Discounts | Santa Clara Pest Control Special",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Looking for a great deal on reliable pest protection? Fast Pest Solutions is proud to offer a special discount of $100.00 off when you enroll in one of our ongoing pest control service plans. Whether you're protecting your home, office, or commercial property, this offer is a great way to save money while ensuring long-term peace of mind.\n\nOur ongoing service plans are designed to keep pests away all year long with scheduled visits, preventative treatments, and responsive care whenever issues arise. From ants and spiders to rodents and roaches, we've got your pest concerns covered.\n\nGive us a call today to lock in your $100.00 savings and start your journey to a pest-free property.\n\nHow It Works\n\nCall For A Free Consultation\n\nNot sure where to start? Give us a call for a free, no-obligation consultation. One of our licensed technicians will inspect your property, identify any pest problems, and recommend the best treatment plan for your situation.\n\nSchedule Service\n\nReady to get started? Scheduling a pest control service has never been easier. Simply give us a call or book online, and we'll handle the rest. From flexible appointment times to same-day emergency response, we're here when you need us most.\n\nWe proudly serve both homes and businesses throughout the region. Learn more about our Santa Clara pest control service experts and why local residents trust us.\n\nEnjoy A Pest-Free Environment!\n\nWhen you choose Fast Pest Solutions, you're choosing safety, reliability, and long-term results. Say goodbye to stressful infestations and hello to a pest-free home or business.\n\nLooking for a dependable pest control service in Santa Clara? Let our experienced team protect what matters most—call Fast Pest Solutions today!",
+    "with": [
+      "Fast Pest Solutions is proud to offer a special discount of $100.00 off when you enroll in one of our ongoing pest control service plans.",
+      "Our ongoing service plans are designed to keep pests away all year long with scheduled visits, preventative treatments, and responsive care whenever issues arise.",
+      "Give us a call today to lock in your $100.00 savings and start your journey to a pest-free property.",
+      "When you choose Fast Pest Solutions, you're choosing safety, reliability, and long-term results.",
+      "Looking for a dependable pest control service in Santa Clara? Let our experienced team protect what matters most—call Fast Pest Solutions today!"
+    ],
+    "without": [
+      "Home About+ Pest Control Services+ Projects Contact",
+      "Bringing Professional Services To Your Door",
+      "Protect Your Home & Family Book a Pest Control Service in Santa Clara Now",
+      "Business Info Fast Pest Solutions 408-213-7450 San Jose, CA 95126",
+      "© Fast Pest Solutions. All rights reserved"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:52:31.572695"
+}

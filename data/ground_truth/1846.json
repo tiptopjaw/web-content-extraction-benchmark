@@ -1,0 +1,27 @@
+{
+  "url": "https://foundfitpt.com/studios/fairfax-va/",
+  "file_id": "1846",
+  "downloaded_at": "2025-12-20T22:17:19.835850",
+  "ground_truth": {
+    "title": "Fairfax VA - Best Personal Training - Foundation Fitness",
+    "author": null,
+    "publish_date": null,
+    "main_content": "BEST RATED PERSONAL TRAINING STUDIO IN FAIRFAX\n\nWith over 3,000 satisfied clients, 2,000+ five-star Google reviews, and 15 years of excellence across twelve DMV locations, we are dedicated to inspiring you to be your best!\n\nTraining\nWe design personal training programs specific to your goals, abilities and lifestyle.\n\nNutrition\nWe create nutrition plans according to what you like to eat and your dietary restrictions.\n\nCommunity\nTogether, we support and uplift each other, helping you achieve your health goals.\n\nPERSONAL TRAINING RESULTS YOU CAN ATTAIN & MAINTAIN\n\nWE CREATE A TAILORED WELLNESS STRATEGY TO HELP YOU LOSE STUBBORN FAT, BUILD YOUR IDEAL PHYSIQUE, OR OVERCOME CHRONIC PAIN AND INJURY, FOCUSING ON YOUR SPECIFIC NEEDS, GOALS, AND CIRCUMSTANCES.\n\nBook Your free consultation!\n\nOur Address\n10387 MAIN STREET, LL2\nFAIRFAX, VA 22030\n\nPhone Number\n(703) 273-8251\n\nEmail Address\njoin_the_movement@foundfit.com\n\nOr Cancel at\nptfairfax@foundfit.com\n\n3000+\nHAPPY CLIENTS\n\n15 Years\nFOUNDED IN 2009\n\n2000+\n5-STAR GOOGLE REVIEWS\n\n12\nLOCATIONS IN THE DMV\n\nWe've Got You Covered\n\nPERSONAL TRAINING SERVICES IN FAIRFAX VA\n\nRESULTS FOCUSED\nPERSONAL TRAINING\n\nNUTRITIONAL\nGUIDANCE\n\nSTRETCHING\n& MOBILITY\n\nPRENATAL\nPERSONAL TRAINING\n\nPOST PHYSICAL THERAPY\n& SPORTS REHAB\n\nWEIGHT LOSS\nPERSONAL TRAINING\n\n15 YEARS OF EXCELLENCE, ONE CLIENT AT A TIME",
+    "with": [
+      "With over 3,000 satisfied clients, 2,000+ five-star Google reviews, and 15 years of excellence across twelve DMV locations, we are dedicated to inspiring you to be your best!",
+      "We design personal training programs specific to your goals, abilities and lifestyle.",
+      "We create nutrition plans according to what you like to eat and your dietary restrictions.",
+      "WE CREATE A TAILORED WELLNESS STRATEGY TO HELP YOU LOSE STUBBORN FAT, BUILD YOUR IDEAL PHYSIQUE, OR OVERCOME CHRONIC PAIN AND INJURY, FOCUSING ON YOUR SPECIFIC NEEDS, GOALS, AND CIRCUMSTANCES.",
+      "PERSONAL TRAINING SERVICES IN FAIRFAX VA"
+    ],
+    "without": [
+      "Find Location Near Me",
+      "About Us\nBlog\nJoin Our Team",
+      "GYMS\nAnnapolis MD\nCambridge MD\nCleveland Park DC",
+      "PT Studios\nAnnandale VA\nAnnapolis MD\nAshburn VA\nBethesda MD\nCambridge MD\nCleveland Park DC\nDelray Alexandria\nFairfax VA\nPalisades DC\nSeverna Park MD\nTysons Corner VA\nOld Town Alexandria",
+      "Shop\nMerchandise\nMeals\nOnline Training\nNutrition Coaching"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:17:19.835857"
+}

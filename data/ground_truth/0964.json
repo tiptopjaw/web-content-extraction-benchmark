@@ -1,0 +1,27 @@
+{
+  "url": "https://www.brooklynyogaproject.com/pricing",
+  "file_id": "0964",
+  "downloaded_at": "2025-12-20T21:01:34.465969",
+  "ground_truth": {
+    "title": "Brooklyn Yoga Project | Pricing",
+    "author": null,
+    "publish_date": null,
+    "main_content": "PACKAGE OPTIONS\n\nClass packages outside of new student specials do not expire. NO REFUNDS on classes or packages.\n\nNew Student In Person 3-Class Pass\n$60\n\n*First time students can purchase a 3 Class pass for $60.Valid for ONE MONTH.\n\nNew Student In Person Week Unlimited\n$70\n\n*First time students only.\n\nIn Person Drop In Class\n$30\n\n5 Class Pass\n$130\n\n10 Class Pass\n$250\n\n20 Class Pass\n$400\n\n100 Class Pass\n$1800\n\nMonthly Unlimited Package*\n$200\n\n3 Month Unlimited Package*\n$525\n\n6 Months Unlimited Package *\n$1050\n\n1 Year Unlimited Package *\n$2000\n\nSingle Zoom Class\n$14\n\n*Student/Teacher Discounted Class Passes & Monthly Unlimited available. Please email us for pricing.\n*monthly packages can only be frozen for 7 days a month.",
+    "with": [
+      "Class packages outside of new student specials do not expire. NO REFUNDS on classes or packages.",
+      "New Student In Person 3-Class Pass $60",
+      "Monthly Unlimited Package* $200",
+      "Single Zoom Class $14",
+      "*Student/Teacher Discounted Class Passes & Monthly Unlimited available. Please email us for pricing."
+    ],
+    "without": [
+      "Cart",
+      "Search",
+      "Brooklyn Yoga Project 185 Sackett St, Brooklyn, NY, 11231, United States",
+      "Heart Opening Workshop February 1st @ 2PM with Thai James",
+      "FAQ      CONTACT"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:01:34.465974"
+}

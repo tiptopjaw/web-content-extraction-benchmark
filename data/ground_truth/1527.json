@@ -1,0 +1,26 @@
+{
+  "url": "https://www.thewalkingcritic.com/hotel-reviews/usa-hotel-reviews/",
+  "file_id": "1527",
+  "downloaded_at": "2025-12-20T21:47:21.330031",
+  "ground_truth": {
+    "title": "USA Hotel Reviews",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Welcome to the USA Hotel Reviews page, where The Walking Critic takes you on a journey through the land of the free and the home of the brave... and sometimes questionable hotel choices. From the neon lights of Las Vegas to the historic charm of New Orleans, The Walking Critic has braved it all—sleeping in beds that may or may not have been previously occupied by a circus performer (we're looking at you, clown-themed motel in Florida). But fear not! Every review is seasoned with wit and seasoned with a dash of sarcasm. Whether you're planning a trip to the Big Apple or seeking solace in a cozy mountain lodge, let The Walking Critic be your guide. After all, why settle for a standard hotel review when you can have one that makes you laugh, cry, and question your life choices all at once? So, pack your bags (and maybe some disinfectant) and dive into the reviews that have made travelers chuckle and hoteliers sweat. Happy reading! The Walking Critic lived in the US of A, for over 12 years, so look out for more to come in the USA Hotel Reviews section!",
+    "with": [
+      "Welcome to the USA Hotel Reviews page, where The Walking Critic takes you on a journey through the land of the free and the home of the brave... and sometimes questionable hotel choices.",
+      "From the neon lights of Las Vegas to the historic charm of New Orleans, The Walking Critic has braved it all—sleeping in beds that may or may not have been previously occupied by a circus performer (we're looking at you, clown-themed motel in Florida).",
+      "Whether you're planning a trip to the Big Apple or seeking solace in a cozy mountain lodge, let The Walking Critic be your guide.",
+      "The Walking Critic lived in the US of A, for over 12 years, so look out for more to come in the USA Hotel Reviews section!"
+    ],
+    "without": [
+      "TRAVEL CRUISES DESTINATIONS HOTEL REVIEWS RAIL REVIEWS TRAVEL INSURANCE FOOD & DRINKS PRODUCTS MY THOUGHTS ABOUT ME",
+      "© 2025. All rights reserved by The Walking Critic. Designed & brought to life by Coconut Smash.",
+      "CONTACT ME AND SAY HELLO! Please fill out the boxes and I promise I'll get back to you as soon as I can.",
+      "You might be interested in these USA hotel reviews too",
+      "INTERCONTINENTAL-SAN-FRANCISCO-HOTEL-REVIEW-box W-SAN-FRANCISCO-HOTEL-review-image"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:47:21.330037"
+}

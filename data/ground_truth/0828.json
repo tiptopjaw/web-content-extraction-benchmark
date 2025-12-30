@@ -1,0 +1,27 @@
+{
+  "url": "https://www.scps.virginia.edu/whats-difference-between-certificate-and-certification",
+  "file_id": "0828",
+  "downloaded_at": "2025-12-20T21:03:44.423134",
+  "ground_truth": {
+    "title": "What's the Difference Between a Certificate and a Certification?",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Earning a certificate is a way for you to earn credits in a structured, discipline-specific way. A certificate can prepare you to advance in your career, or to gain the extra knowledge needed to stay competitive and up-to-date in your field. Completion of the certificate demonstrates evidence of specialized education achievement. It is recognized on a University of Virginia transcript.\n\nThere are many fields, however, that have professional certifications that may be recommended or required (teaching, project management, accounting). A certificate program does not lead to a professional certification. Yes, the courses you take in a certificate program could help you prepare to earn a professional field-specific certification, but earning a certificate is not the same as becoming certified.\n\nCertificate\tCertification\nResult of an educational process\tResult of an assessment process\nFor newcomers and experienced professionals\tTypically requires experience\nIndicates completion of a course or series of courses with a particular focus\tIndicates mastery/competency measured against a standard – usually by exam\nCourse content set through academic process\tStandards set through an industry-wide process\nUsually listed on a resume detailing education\tTypically results in a designation to use after one’s name (CPA, SPHR, PMP)\nDemonstrates knowledge of course content\tOften has ongoing training requirement (C.E.U.s)\nGateway to a degree\tNo relationship to attaining higher education/degree",
+    "with": [
+      "Earning a certificate is a way for you to earn credits in a structured, discipline-specific way.",
+      "A certificate can prepare you to advance in your career, or to gain the extra knowledge needed to stay competitive and up-to-date in your field.",
+      "A certificate program does not lead to a professional certification.",
+      "Certificate: Result of an educational process. Certification: Result of an assessment process.",
+      "Certificate: Indicates completion of a course or series of courses with a particular focus. Certification: Indicates mastery/competency measured against a standard – usually by exam."
+    ],
+    "without": [
+      "Skip to main content",
+      "Business Government Healthcare Public Safety Technology",
+      "Take the next step Advancing your career and skill set has never been more achievable. Request more information about UVA SCPS degrees and certificates.",
+      "2420 Old Ivy Road P.O. Box 400764 Charlottesville, VA 22903",
+      "© 2025 By The Rector And Visitors Of The University Of Virginia"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:03:44.423141"
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nps.gov/yose/learn/photosmultimedia/webcams.htm",
+  "file_id": "2131",
+  "downloaded_at": "2025-12-20T22:23:54.417388",
+  "ground_truth": {
+    "title": "Webcams - Yosemite National Park (U.S. National Park Service)",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Webcams\n\nWebcam\nYosemite Falls\nYosemite Falls, a combination of Upper Yosemite Fall, Middle Cascades, and Lower Yosemite Fall, has a total height of 2,425 feet. In May, you may see Pacific dogwood in bloom just below the waterfall.\nThis webcam image is provided courtesy of Yosemite Conservancy. For permission to feature Yosemite Conservancy webcams, fill out our webcam usage agreement.\nYou can provide for Yosemite’s future—and support this webcam—by making a gift to Yosemite Conservancy.\nView Webcam\n\nWebcam\nHalf Dome\nThis view of Yosemite Valley from just east of Yosemite Village gives a sense of conditions of the floor of Yosemite Valley.\nThis webcam image is provided courtesy of Yosemite Conservancy. For permission to feature Yosemite Conservancy webcams, fill out our webcam usage agreement.\nYou can provide for Yosemite’s future—and support this webcam—by making a gift to Yosemite Conservancy.\nView Webcam\n\nYosemite High Sierra\nThis webcam, located at about 8,000 feet in elevation, shows Half Dome and the surrounding high country.\nThis webcam image is provided courtesy of Yosemite Conservancy. For permission to feature Yosemite Conservancy webcams, fill out our webcam usage agreement.\nYou can provide for Yosemite’s future—and support this webcam—by making a gift to Yosemite Conservancy.\nView Webcam\n\nEl Capitan\nLocated on a dome near the Wawona Tunnel, this webcam provides a nice view of Yosemite Valley.\nThis webcam image is provided courtesy of Yosemite Conservancy. For permission to feature Yosemite Conservancy webcams, fill out our webcam usage agreement.\nYou can provide for Yosemite’s future—and support this webcam—by making a gift to Yosemite Conservancy.\n\nTuolumne Meadows (summer only)\nYosemite Hospitality operates a webcam at the Tuolumne Meadows Store, giving you a glimpse into the high country during the summer. The prominent dome in the distance is Fairview Dome.\nView Webcam\nStatus: In service approximately June through September\n\nTurtleback Dome & Air Quality\nThis air quality camera shows the view to the west from near Yosemite Valley and also displays current air quality and weather data.\nView Webcam\n\nBadger Pass Ski Area\nYosemite Hospitality operates a webcam at the Badger Pass Ski Area so you can check current conditions and activity.\nView Webcam\n\nMerced River at Happy Isles\nFrom here, you can see the Merced River as it flows past Yosemite Valley's Happy Isles Gaging Station, which the US Geological Survey has maintained for over 100 years.\nView Webcam\n\nLast updated: November 13, 2025",
+    "with": [
+      "Yosemite Falls, a combination of Upper Yosemite Fall, Middle Cascades, and Lower Yosemite Fall, has a total height of 2,425 feet.",
+      "This view of Yosemite Valley from just east of Yosemite Village gives a sense of conditions of the floor of Yosemite Valley.",
+      "This webcam, located at about 8,000 feet in elevation, shows Half Dome and the surrounding high country.",
+      "Yosemite Hospitality operates a webcam at the Tuolumne Meadows Store, giving you a glimpse into the high country during the summer."
+    ],
+    "without": [
+      "An official website of the United States government",
+      "Skip to global NPS navigation",
+      "National Park Service",
+      "Contact Info Phone: 209/372-0200",
+      "Experience Your America. Download the NPS app to navigate the parks on the go."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:23:54.417394"
+}

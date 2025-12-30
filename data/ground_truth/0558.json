@@ -1,0 +1,27 @@
+{
+  "url": "https://cynomi.com/guides/getting-to-yes/",
+  "file_id": "0558",
+  "downloaded_at": "2025-12-20T18:34:10.169518",
+  "ground_truth": {
+    "title": "Getting to YES: The Anti-Sales Guide to Closing New Cybersecurity Deals",
+    "author": null,
+    "publish_date": "2025-12-02",
+    "main_content": "Most businesses recognize the importance of cybersecurity. Yet when it comes time to invest, they pause, not out of apathy, but uncertainty. Cybersecurity still feels complex and disconnected from business goals. That’s where most sales efforts stall. And when MSPs respond by pushing harder, they often face more resistance. The key to closing more deals is trust. This guide shows you how to shift from selling services to leading strategic conversations that resonate. Inside, you’ll find proven frameworks and tools to help you: Understand the root causes behind “no” and turn them into real conversations, Lead like a cyber advisor, not a salesperson, Use discovery questions to elevate sales from transactional to strategic, Respond to objections with empathy, clarity, and confidence, Create value-driven conversations that convert. You’ll also see how platforms like Cynomi help MSPs scale a trust-first approach with AI-powered vCISO capabilities that accelerate discovery and deepen client impact. Use this guide to build trust, close more cybersecurity deals, and grow your MSP with confidence.",
+    "with": [
+      "Most businesses recognize the importance of cybersecurity. Yet when it comes time to invest, they pause, not out of apathy, but uncertainty.",
+      "The key to closing more deals is trust. This guide shows you how to shift from selling services to leading strategic conversations that resonate.",
+      "Inside, you’ll find proven frameworks and tools to help you: Understand the root causes behind “no” and turn them into real conversations, Lead like a cyber advisor, not a salesperson, Use discovery questions to elevate sales from transactional to strategic, Respond to objections with empathy, clarity, and confidence, Create value-driven conversations that convert.",
+      "You’ll also see how platforms like Cynomi help MSPs scale a trust-first approach with AI-powered vCISO capabilities that accelerate discovery and deepen client impact.",
+      "Use this guide to build trust, close more cybersecurity deals, and grow your MSP with confidence."
+    ],
+    "without": [
+      "Getting to YES: The Anti-Sales Guide to Closing New Cybersecurity Deals",
+      "Download Guide",
+      "Redefine your cybersecurity and compliance services with Cynomi vCISO Platform",
+      "Book a Demo",
+      "© Cynomi Ltd All rights reserved 2025"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T18:34:10.169524"
+}

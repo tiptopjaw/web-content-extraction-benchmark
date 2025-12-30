@@ -1,0 +1,27 @@
+{
+  "url": "https://www.gallup.com/home.aspx",
+  "file_id": "1267",
+  "downloaded_at": "2025-12-20T21:26:44.945837",
+  "ground_truth": {
+    "title": "Gallup - Workplace Consulting & Global Research",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Gallup is more than management consulting. Learn how our understanding of the human experience helps clients and the billions they serve thrive. AI Use at Work Rises. New Gallup data show a continued rise in AI adoption rates across the U.S. workforce from Q2 to Q3 2025. Tracking the World's Emotional Health. Gallup's new report on emotional health shows negative emotions remain far above levels from a decade ago, with implications for global peace and health. Trump's Approval Rating Drops to 36%, New Second-Term Low. President Donald Trump's job approval rating has slipped to a new second-term low point and is approaching his all-time low of 34%. How to Inspire Creativity With Diane Hoskins. A visionary and hands-on leader, Diane Hoskins champions organizational excellence and innovation, spearheading Gensler's industry-leading Research Institute and innovations like the firm's Experience Index. More Americans Say Political Rhetoric Has Gone Too Far. Larger majorities than in 2011 say Republicans (69%) and Democrats (60%) go too far in using inflammatory language to criticize their opponents. Cost Leads Americans' Top-of-Mind Healthcare Concerns. Concerns about and dissatisfaction with healthcare costs in the U.S. underscore Americans' belief that the nation's healthcare system is highly flawed. Trending Insights: U.S. Mental Health Ratings Continue to Worsen. Growing Worry Over Medicare, Social Security. Independents Drive Approval of ACA to New High of 57%. Economic Confidence Slips; Holiday Spending Plans Plummet. Most Lebanese Say Only Army Should Have Weapons. Global Indicators: Measuring progress on what matters most to workplaces and societies at large. Employee Engagement. Economic Performance & Financial Security. Hybrid Work. Employee Retention & Attraction. Life Evaluation Index. Employee Wellbeing. Leadership & Management. Leadership Approval & Trust in Institutions. Organizational Culture. Emotional Wellbeing. Featured Research: West Health-Gallup Center on Healthcare. The West Health-Gallup Center on Healthcare in America delivers rigorous research and data-driven insights to elevate public voices and drive meaningful conversations about the nation's healthcare system. New State Rankings Expose Cracks in America’s Healthcare System. A first-of-its-kind West Health-Gallup study shows that America’s healthcare system is not working for everyone, offering a state-by-state look at how people experience cost, quality and access to care across all 50 states and the District of Columbia. How Do Americans Experience Healthcare in Their State? More Reports: State of the Global Workplace Report. State of the World's Emotional Health. World Happiness Report. Global Leadership Report: What Followers Want. Global Safety Report. Rating World Leaders Report. The State of Higher Education 2025. Teaching for Tomorrow: How Supporting Teachers Today Shapes Classrooms Tomorrow. About Gallup: Analytics & Advice That Empower Leaders. We provide data no one else has, to help you make decisions no one else can. And we go beyond research to help your organization maximize human potential. Our Experience: 90+ years of public opinion survey research expertise. Our Scale: 98%+ of the world's population is represented by Gallup's World Poll. Our Clients: 4,000+ organizations use our workplace performance platform. Our Impact: 36M+ people have discovered their CliftonStrengths. Connect With Us: Learn how we can help you solve your most important challenges.",
+    "with": [
+      "Gallup is more than management consulting. Learn how our understanding of the human experience helps clients and the billions they serve thrive.",
+      "New Gallup data show a continued rise in AI adoption rates across the U.S. workforce from Q2 to Q3 2025.",
+      "Gallup's new report on emotional health shows negative emotions remain far above levels from a decade ago, with implications for global peace and health.",
+      "We provide data no one else has, to help you make decisions no one else can. And we go beyond research to help your organization maximize human potential.",
+      "The West Health-Gallup Center on Healthcare in America delivers rigorous research and data-driven insights to elevate public voices and drive meaningful conversations about the nation's healthcare system."
+    ],
+    "without": [
+      "About Us Careers Contact Us Subscribe",
+      "Workplace Advisory CliftonStrengths Research & Polling Courses & Events News & Insights",
+      "Shop Sign in",
+      "Copyright © 2025 Gallup, Inc. All rights reserved.",
+      "Cookie Preferences Privacy Statement Legal Do Not Sell or Share My Personal Information California Collection Notice"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:26:44.945840"
+}

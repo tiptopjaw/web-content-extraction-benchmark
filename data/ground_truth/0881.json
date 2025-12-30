@@ -1,0 +1,27 @@
+{
+  "url": "https://music.uni.edu/cms/music-lessons",
+  "file_id": "0881",
+  "downloaded_at": "2025-12-20T21:39:09.473280",
+  "ground_truth": {
+    "title": "Music Lessons",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Music lessons usually involve a one-on-one interaction with student and teacher, or instruction taught to a group of students.  Private lessons and classes typically meet once a week to review past material and learn new skills.  \n\n* Do you want to learn to play every Christmas song ever written?  Great!\n* Are you looking for guidance on how to play in your church's praise band? We got you!\n* Are you wanting to become involved in area ensembles, like The Metropolitan Chorale?  Your teacher can help guide you!  \n\nDiscovering music is a lifelong adventure!\n\n* Our teachers are passionate about teaching and music!  We believe that music should be accessible to everyone and work their best to meet each student where they are on their musical journey.\n* CMS teachers enjoy working with each of their students, regardless of what musical path a student is pursuing.\n* CMS employs a combination of teachers who are professional performers and educators, as well as student teachers who are currently pursuing a degree in music at the University of Northern Iowa School of Music.\n* All CMS teachers, directors, and staff that work students and participants under the age of 18 are required to successfully pass a criminal background check annually.\n* Payment for Community Outreach Programs should be registered and paid for through their respective program. This is the only way to ensure that you are taking lessons with a qualified instructor who has been approved by the University of Northern Iowa School of Music. Please note that teaching privately within UNI School of Music facilities, outside a UNI Community Outreach Program violates university policy.\n\nQuick Lesson Links\n\nAnswers to the most asked questions about lessons are found here!\n\nIndividual Lessons\n\n* Individual lessons for woodwinds, brass, percussion, voice, and piano are offered on an individual basis for beginning to advanced students.\n* Lessons are given year-round and students may start at any time during the year.\n* Students have the opportunity to sign up for weekly 30-minute, 45-minute, or 60- minute lessons.  Recitals and performance classes are available to students throughout the year.\n* All lessons are taught on the UNI campus or through virtual instruction.\n* Convenient parking is available, as well as waiting areas for students and families.\n\nLearn More and Register for Academic Year\n\nLearn More and Register for Summer\n\nPiano for the Beginning Adult Student\n\nHave you ever wished that you took piano lessons as a child?\nDo you wish that you had never quit taking piano lessons?\n\nNow's your chance to make your piano playing dreams come true in a fun, no pressure adult group class!\n\n* Classes meet for 12 weeks.\n* All classes are taught on the UNI campus.\n* Convenient parking is available, as well as waiting areas for students and families.\n\nLearn More and Register\n\nMusic for Little Mozarts\n\n* Music for Little Mozarts offers a fun-focused blend of piano playing, basic rhythm/aural training, elementary music-reading, and music appreciation.\n* This group class is an excellent option for the beginner student who is not yet taking private lessons, but is certainly not exclusive to first-time students!\n* All students within the first year of study are encouraged to take part.\n* The Music for Little Mozarts classes meets weekly for 12 weeks with a Piano Party! during the last class.\n* All lessons are taught on the UNI campus.\n* Convenient parking is available, as well as waiting areas for students and families.\n\nLearn More and Register",
+    "with": [
+      "Music lessons usually involve a one-on-one interaction with student and teacher, or instruction taught to a group of students.",
+      "Discovering music is a lifelong adventure!",
+      "Individual lessons for woodwinds, brass, percussion, voice, and piano are offered on an individual basis for beginning to advanced students.",
+      "All CMS teachers, directors, and staff that work students and participants under the age of 18 are required to successfully pass a criminal background check annually.",
+      "Music for Little Mozarts offers a fun-focused blend of piano playing, basic rhythm/aural training, elementary music-reading, and music appreciation."
+    ],
+    "without": [
+      "Skip to main content",
+      "Request Info Visit Apply",
+      "Search University of Northern Iowa",
+      "Copyright 2025 Maintained by IT-Client Services",
+      "Equal Opportunity/Non-Discrimination Statement Privacy Policy Accessibility Consumer Information"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:39:09.473287"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://github.blog/news-insights/",
+  "file_id": "2181",
+  "downloaded_at": "2025-12-20T23:18:30.084674",
+  "ground_truth": {
+    "title": "News & insights",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Resources for developers seeking to stay informed about the latest industry trends, research, and updates from GitHub. Explore research and surveys that delve into various aspects of software development and open source communities—and Octoverse, which provides detailed annual analyses of open source and public projects across GitHub. \n\nFeatured articles:\n\nThe future of AI-powered software optimization (and how it can help your team) - We envision the future of AI-enabled tooling to look like near-effortless engineering for sustainability. We call it Continuous Efficiency. By Paull Young, December 12, 2025.\n\nLet’s talk about GitHub Actions - A look at how we rebuilt GitHub Actions’ core architecture and shipped long-requested upgrades to improve performance, workflow flexibility, reliability, and everyday developer experience. By Ben De St Paer-Gotch, December 11, 2025.\n\nThe new identity of a developer: What changes and what doesn’t in the AI era - Discover how advanced AI users are redefining software development—shifting from code producers to strategic orchestrators—through delegation, verification, and a new era of AI-fluent engineering. By Eirini Kalliamvakou, December 8, 2025.\n\nYour stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security - Use partner-built Copilot agents to debug, secure, and automate engineering workflows across your terminal, editor, and github.com. By Griffin Ashe, December 3, 2025.\n\nLatest articles:\n\nGitHub Availability Report: November 2025 - In November, we experienced three incidents that resulted in degraded performance across GitHub services. By Jakub Oleksy, December 11, 2025.\n\n“The local-first rebellion”: How Home Assistant became the most important project in your house - Learn how one of GitHub’s fastest-growing open source projects is redefining smart homes without the cloud. By Andrea Griffiths, December 2, 2025.",
+    "with": [
+      "Resources for developers seeking to stay informed about the latest industry trends, research, and updates from GitHub.",
+      "Explore research and surveys that delve into various aspects of software development and open source communities—and Octoverse, which provides detailed annual analyses of open source and public projects across GitHub.",
+      "We envision the future of AI-enabled tooling to look like near-effortless engineering for sustainability. We call it Continuous Efficiency.",
+      "A look at how we rebuilt GitHub Actions’ core architecture and shipped long-requested upgrades to improve performance, workflow flexibility, reliability, and everyday developer experience.",
+      "Discover how advanced AI users are redefining software development—shifting from code producers to strategic orchestrators—through delegation, verification, and a new era of AI-fluent engineering."
+    ],
+    "without": [
+      "Skip to content",
+      "Changelog Docs Customer stories",
+      "Try GitHub Copilot See what's new",
+      "We do newsletters, too Discover tips, technical guides, and best practices in our biweekly newsletter just for devs.",
+      "Yes please, I’d like GitHub and affiliates to use my information for personalized communications, targeted advertising and campaign effectiveness."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T23:18:30.084680"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.gabrielcybersecurity.com/exploring-usb-commands",
+  "file_id": "2612",
+  "downloaded_at": "2025-12-20T23:37:38.185626",
+  "ground_truth": {
+    "title": "Exploring USB Commands",
+    "author": "Gabriel Gonzalez",
+    "publish_date": "2025-12-19",
+    "main_content": "If you’ve ever had to explore the interfaces of a USB-enabled device, you know how opaque and undocumented many of them can be. While working on this problem, I put together a small tool I now routinely use to discover commands and better understand how these devices behave. Like most tools born out of real needs, this one is very much a work in progress. So far, I’ve focused on what has proven most useful in practice: brute-force and random command scanning, solid logging, and structured exploration of anything that looks like a valid or interesting command. To make experimentation safer and more effective, the tool also supports adding known command prefixes and filtering out patterns that tend to trigger unwanted or disruptive behavior on the device. If you’re interested in USB protocol exploration, reverse engineering, or device fuzzing, you can find the project here: https://github.com/ggonzalez/CyberSecurity-KnowledgeBase/tree/main/USBScanner",
+    "with": [
+      "If you’ve ever had to explore the interfaces of a USB-enabled device, you know how opaque and undocumented many of them can be.",
+      "While working on this problem, I put together a small tool I now routinely use to discover commands and better understand how these devices behave.",
+      "Like most tools born out of real needs, this one is very much a work in progress.",
+      "So far, I’ve focused on what has proven most useful in practice: brute-force and random command scanning, solid logging, and structured exploration of anything that looks like a valid or interesting command.",
+      "If you’re interested in USB protocol exploration, reverse engineering, or device fuzzing, you can find the project here: https://github.com/ggonzalez/CyberSecurity-KnowledgeBase/tree/main/USBScanner"
+    ],
+    "without": [
+      "Gabriel Gonzalez – Cyber Security",
+      "Would you like to receive notifications about new posts?",
+      "I accept the privacy policy",
+      "Previous: IDA Pro String Heuristics",
+      "Blending Embedded Security and Development"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T23:37:38.185632"
+}

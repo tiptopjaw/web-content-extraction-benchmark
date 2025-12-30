@@ -1,0 +1,25 @@
+{
+  "url": "https://treadwayevents.com/service-areas/corporate-event-planner-seattle/",
+  "file_id": "1685",
+  "downloaded_at": "2025-12-20T21:57:25.733284",
+  "ground_truth": {
+    "title": "Corporate Event Planning Seattle",
+    "author": null,
+    "publish_date": "2025-04-17",
+    "main_content": "PLANNING CORPORATE EVENTS IN SEATTLE WA\n\nBring your corporate vision to life with a full-service event management agency behind the scenes. At Treadway Events, we can organize an event you and your guests won’t want to miss. When you work with our world-class team of event planners, you can feel confident achieving your event goals — and throwing a great party in the meantime.\n\nWe can bring guests closer to your brand with an outstanding experience. We’ve created real business results through strategic event preparation for more than a decade. Choose our Seattle event planners for an unforgettable night!\n\nTypes of Corporate Events\n\nEvery client’s goals are unique. We serve all types of corporate events with years of expertise at our fingertips. Our local connections, problem-solving skills and budget-friendly resources contribute to an extraordinary experience.\n\nIf you need event planning assistance in Seattle, we carry out our services from conceptualization to implementation. Our repertoire includes various types of corporate events:\n\n- Employee celebrations\n- Stock launches\n- Grand openings\n- Conventions\n- Internal retreats\n- Sales or tech conferences\n- Holiday celebrations\n- Luxury events\n- Fundraisers\n- Community galas\n- Marketing campaigns\n- Themed celebrations\n\nEvent Planning Services\n\nWe maximize your budget and time in every aspect of planning. Our comprehensive services cover all your needs before, during and after the event. Though large-scale corporate events may be a hassle for your team, they are our bread and butter. Our specialty is creating an exciting experience with tangible business outcomes. All you need to do is show up for a great night.",
+    "with": [
+      "Bring your corporate vision to life with a full-service event management agency behind the scenes.",
+      "We can bring guests closer to your brand with an outstanding experience.",
+      "Every client’s goals are unique. We serve all types of corporate events with years of expertise at our fingertips.",
+      "Our specialty is creating an exciting experience with tangible business outcomes."
+    ],
+    "without": [
+      "Services Rentals Portfolio Sponsorship Types of Events About Service Areas Inquire",
+      "Mailing Address: 465 NE 181st Ave. #158 Portland, OR 97230 (No Walk-In’s) P: (971) 266-1781 E: Info@TreadwayEvents.com",
+      "Receive special offers, event news, and email updates about exciting events we're planning and producing.",
+      "© 2025 Treadway Events & Entertainment Co. LLC. All Rights Reserved. Website by Fighting Fifth Web"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:57:25.733289"
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://controller-academy.com/courses/entry-level-accountant-academy-cpe",
+  "file_id": "1285",
+  "downloaded_at": "2025-12-20T20:22:48.271028",
+  "ground_truth": {
+    "title": "Entry Level Accountant Academy (7 CPE Credits)",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Entry Level Accountant Academy (7 CPE Credits)\n\nLearn How To Perform The Essential Tasks\n\nEntry-Level Accountant Academy - Learn How To Perform The Essential Tasks is a practical online course for anyone starting a career in accounting. In just 4.5 hours of video lessons across 3 modules, you'll learn to apply the Accounting equation, record revenues and expenses under US GAAP, and make end-of-period adjustments with confidence.\n\nYou'll also master the Accounts Payable process—from invoice approval to payments—and get hands-on with QuickBooks and automation tools to streamline workflows.\n\nBy the end of the course, you'll be equipped with real-world, job-ready accounting skills that employers value—perfect for students, new hires, or career changers.\n\nAfter completing this course, the learner should be able to:\n\n• Define the Accounting Equation and apply it to the various types of business transactions\n• Apply US GAAP principles to revenues and expenses recording\n• Identify revenue and costs adjustments at the end of the financial period\n• Distinguish between all tasks in Accounts Payable – including vendor invoice recording, approval, and payment processes in an accounts payable system.\n• Apply Accounting rules in the implementation of systems (QuickBooks) to streamline the financial processes\n\nCourse Details\n\nDuration: 4.5 hours\nAccess Duration: Lifetime\nField of Study: Accounting\nCPE Credits - NASBA: 7\nKnowledge Level: Basic\nDelivery Method: QAS Self-Study (on-demand video lectures)\nPrerequisites: High school degree or equivalent\nAdvanced Prep: None\n\nController Academy LLC is registered with the National Association of State Boards of Accountancy (NASBA) as a sponsor of continuing professional education on the National Registry of CPE Sponsors. State boards of accountancy have final authority on the acceptance of individual courses for CPE credit. Complaints regarding registered sponsors may be submitted to the National Registry of CPE Sponsors through its web site: www.nasbaregistry.org\n\nCourse Structure\n\nModule 1: The Basics of Accounting\n35 Minutes, 9 lectures, 3 quizzes\nCovers the basics of accounting, double-entry system, debits and credits using DEALER and equation methods, the flow of accounting data, creation of financial statements, and ethics in accounting.\n\nModule 2: Recording Revenue & Expense Transactions\n2 hours, 20 lectures, 6 Excel templates, 3 quizzes\nFocuses on practical setup and recording of transactions—billing, invoicing, payroll, vendor payments, and expense tracking—with real-world tools and accounting impact for each step.\n\nThis course includes:\n• 4.5 hours of bit-size video lectures by Bill Hanna\n• Excel Templates to practice what you see in the lectures.\n• 25+ Quizzes to practice your learning along the way.\n• 7 CPE Credits of completion when you finish the course, which is a downloadable PDF you can share on Linkedin.\n• 14 days Money back guarantee if you are not 100% satisfied!",
+    "with": [
+      "Entry-Level Accountant Academy - Learn How To Perform The Essential Tasks is a practical online course for anyone starting a career in accounting.",
+      "In just 4.5 hours of video lessons across 3 modules, you'll learn to apply the Accounting equation, record revenues and expenses under US GAAP, and make end-of-period adjustments with confidence.",
+      "You'll also master the Accounts Payable process—from invoice approval to payments—and get hands-on with QuickBooks and automation tools to streamline workflows.",
+      "By the end of the course, you'll be equipped with real-world, job-ready accounting skills that employers value—perfect for students, new hires, or career changers.",
+      "Controller Academy LLC is registered with the National Association of State Boards of Accountancy (NASBA) as a sponsor of continuing professional education on the National Registry of CPE Sponsors."
+    ],
+    "without": [
+      "Home",
+      "Courses",
+      "About",
+      "Blog",
+      "Contact",
+      "Login",
+      "Limited Time Offer - Use Code \"20off\" to get 20% off.",
+      "$239",
+      "$299",
+      "Buy Now",
+      "Every 10 minutes someone joins the Controller Academy",
+      "285,000+ Subscribers on YouTube",
+      "4.9/5 Average Reviews ⭐",
+      "10,000+ Happy Students 😃"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:22:48.271034"
+}

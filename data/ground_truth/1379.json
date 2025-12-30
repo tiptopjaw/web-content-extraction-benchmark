@@ -1,0 +1,44 @@
+{
+  "url": "https://www.thepath.com/event-registration/p/fourseasons",
+  "file_id": "1379",
+  "downloaded_at": "2025-12-20T21:13:45.492776",
+  "ground_truth": {
+    "title": "Private Meditation Sessions with The Path: March 23",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Private Meditation Sessions with The Path: March 23\n\nPrice: $1,000.00\n\nCertified Meditation Teacher, DC: $500\nLocation Sourcing, NYC: $600\nPrivate Meditation Session in NYC with Founder: $1000\nPrivate Meditation Session in NYC with Founder: $1000\nPrivate Meditation Session in NYC with Founder: $1000\n\nTotal Cost: $4100.\n\nThis is a product listing for private meditation sessions offered by The Path. The page shows a product titled \"Private Meditation Sessions with The Path: March 23\" with a price of $1,000.00. The description lists various service components and their individual costs, culminating in a total cost of $4100 for the complete package. The page includes an add-to-cart interface with quantity selection and a purchase button.",
+    "with": [
+      "Private Meditation Sessions with The Path: March 23",
+      "Price: $1,000.00",
+      "Certified Meditation Teacher, DC: $500",
+      "Location Sourcing, NYC: $600",
+      "Private Meditation Session in NYC with Founder: $1000",
+      "Total Cost: $4100."
+    ],
+    "without": [
+      "Meditation Teacher Training",
+      "Corporate",
+      "Mindfulness Coaching",
+      "Courses",
+      "Deepening into Awareness",
+      "30 Days to Meditator",
+      "Business of Meditation",
+      "Sangha",
+      "Other",
+      "About The Path & Team",
+      "Certified Meditation Teachers",
+      "Our Teachers",
+      "Our Founder (Dina Kaplan)",
+      "Shop",
+      "Blog",
+      "Press",
+      "Contact Us",
+      "Your path to happiness.",
+      "Enjoy a short (3:26) video with three non-obvious tips to feel happier now!",
+      "Contact Us   Privacy Policy",
+      "Skip to Content"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:13:45.492782"
+}

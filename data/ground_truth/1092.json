@@ -1,0 +1,27 @@
+{
+  "url": "https://skinsignal.com/compare",
+  "file_id": "1092",
+  "downloaded_at": "2025-12-20T20:58:33.768186",
+  "ground_truth": {
+    "title": "Compare Products",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Selecting between multiple beauty products is a difficult task. Our website makes this task much easier. Use our Product Comparison Tool to put ingredients of two skincare products face to face. You will see how different the products are, and you will be able to choose the best one. Our Comparison Tool is unique! It allows to compare two products, a product and ingredient list, or two ingredient lists. You can manually paste two ingredient lists and see the result. There is no other website in the world offering this feature. We provide this tool for free. We have spent a lot of time collecting all the data but we don't want users to pay for this. No restrictions. You can use it without registration and without usage limits. This is what makes us different from competitors. Our team wants to provide you with the best skincare tools. How to use? Step 1. Visit the categories and find the products you are looking for. Add them to comparison. Step 2. Return to this page and you will see the result. If you wnat to remove the product, find a red round button next to the product title. Click this button and you are done. Frequently Asked Questions Why do I need this tool? Analyzing ingredients without the help of special websites is a very difficult and time consuming task. You will have to dig through a lot of information. Comparing products is even more difficult. You can try to do it yourself, but it will take many hours of your time and you will hardly miss a lot of facts. Our tool makes this process easy and fast. You can compare beauty products within seconds. The tool uses all the power of our database and you receive an in-depth report as a result. You save time and get all the information you need to make a choice. Where do you take the information about components? All the information comes from trusted sources like The Environmental Working Group, PubChem, CIR reports, scientific researches and common information about ingredients. We use only reliable sources of information and update the database regularly. Is this service really free? Yes, you don't have to pay for using our website. All the services we provide are free and don't have usage limits. We hate the concept of different restrictions and popup windows asking user to register before he can continue using the website. But registered users get access to some more features that can't be provided for guests.",
+    "with": [
+      "Selecting between multiple beauty products is a difficult task. Our website makes this task much easier.",
+      "Use our Product Comparison Tool to put ingredients of two skincare products face to face.",
+      "Our Comparison Tool is unique! It allows to compare two products, a product and ingredient list, or two ingredient lists.",
+      "We provide this tool for free. We have spent a lot of time collecting all the data but we don't want users to pay for this.",
+      "Our tool makes this process easy and fast. You can compare beauty products within seconds."
+    ],
+    "without": [
+      "Ingredient Checker Compare Products Brands Search",
+      "Submit",
+      "Essential tools for skincare lovers. Take a look \"inside\" the products you use every day.",
+      "Disclaimer: All the information on the website is not a medical advice. Visit a doctor if you have problems.",
+      "Tizo Am Replenish Non-tinted SPF 40 vs. Elta MD UV Elements Broad-Spectrum SPF 44 Tinted Sunscreen"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:58:33.768193"
+}

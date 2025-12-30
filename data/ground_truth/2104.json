@@ -1,0 +1,27 @@
+{
+  "url": "https://www.nypl.org/spotlight/best-books-2025",
+  "file_id": "2104",
+  "downloaded_at": "2025-12-20T22:49:38.898444",
+  "ground_truth": {
+    "title": "NYPL's Best Books of 2025",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The New York Public Library is proud to present our Best Books of 2025. Our annual recommendations of the best books for adults, kids, and teens—curated by our expert staff and librarians—encompass fiction, nonfiction, graphic novels, poetry, kids’ books in Spanish, and much more. All of these books are in the Library’s catalog and many are available in multiple formats, including e-books, audiobooks, and accessible editions. Happy reading!\n\nStart Reading Now: Select Titles\nThrough December 31, the Library is making a selection of 26 e-book titles available to NYPL cardholders with no wait times! Audiobooks are also available for select titles. Get a library card!\nPlus! While supplies last, we're giving away a selection of our Best Books of 2025 for you to keep at the Bronx Library Center, the Stavros Niarchos Foundation Library (SNFL), and St. George Library Center.\n\nBest Books for Adults: Explore the List\n\nBest Books for Teens: Explore the List\n\nBest Books for Kids: Explore the List\n\nLos mejores libros para pequeños: explore la lista\n\nAvailable in Accessible Formats\nFind out which of our Best Books are currently available in digital talking book, braille, and Bookshare editions.\n\nDiscover Our Top 10 Picks for Kids & Teens\nNot sure where to start? Check out our top 10 overall picks for kids and teens.\n\nDownload the Lists\nPrint and check off the titles as you read them!\n• Best New Books for Adults\n• Best New Books for Kids\n• Best New Books for Teens\n• Los mejores libros para pequeños\n\nJoin Events with Best Books Authors!\nAttend special author events featuring the creators of this year’s Best Books including Lili Taylor, Kayla E., Neil Sharpson, Dr. Haleh Massey, and Ben Passmore—as well as a special panel event featuring Sebastian Castillo, Angela Flournoy, and Katie Kitamura!\n\nAbout Best Books at NYPL\nEvery year the librarians and staff on our Best Books committees read thousands of titles to select noteworthy new books for readers of all ages. Find out more—and check out the highlights of previous years!\n\nGet a Library Card Today!\nIf you don’t already have a library card, you can sign up for one for free online today and start reading the Best Books of 2025! Access everything the Library has to offer, from free one-on-one tutoring to music and movies, with your library card.\n\nTry Shelf Help\nDiscover the Library’s personalized book selection service! Tell us your reading interests and we’ll handpick five books just for you. Available for patrons of all ages!\n\nDaily Book Recommendations\nSign up for our Book of the Day emails for fresh ideas for your to-be-read pile!\n\nNYPL Locations Near You\nThe New York Public Library has 92 locations across the Bronx, Manhattan, and Staten Island. Find your nearest location now—plus, discover our Bookmobile services!\n• NYPL Locations\n• NYPL Bookmobile\n\nDownload the App\nGet the power of The New York Public Library, anytime, anywhere. With the NYPL app, you can access everything the Library has to offer from home or while you’re on the go.\n\nShop the Library\nShop gifts for the book lovers in your life and discover a range of contemporary classics at the Library Shop. Library cardholders get 10% off in-store at the all-new Library Shop & Café on the first Saturday of every month! Plus, shop online and get things delivered direct to your home.\n\nDedicate a Library Book\nThe perfect gift for book lovers! When you make a gift of $35 or more, we'll print your loved one's name and a personalized message inside a book in our circulating collection.",
+    "with": [
+      "The New York Public Library is proud to present our Best Books of 2025.",
+      "Our annual recommendations of the best books for adults, kids, and teens—curated by our expert staff and librarians—encompass fiction, nonfiction, graphic novels, poetry, kids’ books in Spanish, and much more.",
+      "All of these books are in the Library’s catalog and many are available in multiple formats, including e-books, audiobooks, and accessible editions.",
+      "Every year the librarians and staff on our Best Books committees read thousands of titles to select noteworthy new books for readers of all ages.",
+      "Through December 31, the Library is making a selection of 26 e-book titles available to NYPL cardholders with no wait times!"
+    ],
+    "without": [
+      "Home / Spotlight / NYPL's Best Books of 2025",
+      "arrow icon",
+      "The New York Public Library Best Books of 2025.",
+      "Get a library card!",
+      "Learn More"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:49:38.898449"
+}

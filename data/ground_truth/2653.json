@@ -1,0 +1,27 @@
+{
+  "url": "https://ciphermysteries.com/2025/12/19/fun-modern-italian-cipher-mystery",
+  "file_id": "2653",
+  "downloaded_at": "2025-12-21T00:13:28.949204",
+  "ground_truth": {
+    "title": "Fun modern Italian cipher mystery",
+    "author": "nickpelling",
+    "publish_date": "2025-12-19",
+    "main_content": "Here’s a fun modern-looking enciphered document for you, of the kind that Klaus Schmeh used to like so much. I found it via a post by Richard Brisson (www.ultrasecret.ca) on cryptocollectors: note that this “Manoscritto misterioso” sold for 250 Euros. Here’s how the eBay seller described it (translated from Italian):\n\nA manuscript book of unknown, non-ancient origin, written entirely in an indecipherable language composed of symbols, signs, and words. The pages feature colorful illustrations, diagrams, and visually striking figures.\n\nThe volume comprises 108 pages, 21×21 cm in size, traditionally bound. Each page is different, densely detailed, and rich with elements that seem to belong to an unknown language or culture. The work has an ancient and mysterious aura, difficult to place, and retains a special charm that invites exploration. Ideal for collectors, artists, scholars, or lovers of mystery, secret codes, and extraordinary manuscripts. A rare, fascinating, and one-of-a-kind object.\n\n(Some photos show examples of the inside pages. Tracked shipping, careful packaging.)\n\nWell, obviously there’s a bit of a Voynich influence going on (the castle is a bit of a giveaway), but – unless you know better? – it looks more like a fun art project (kind of a poor man’s Codex Seraphinianus) than some kind of Rosicrucian secret. More simulacrum than simulation, let’s say. So I’m guessing its cipher can’t actually be broken, but I could easily be wrong.\n\nHere are the pictures the seller (and I suspect the item’s creator) uploaded. Enjoy!",
+    "with": [
+      "Here’s a fun modern-looking enciphered document for you, of the kind that Klaus Schmeh used to like so much.",
+      "I found it via a post by Richard Brisson (www.ultrasecret.ca) on cryptocollectors: note that this “Manoscritto misterioso” sold for 250 Euros.",
+      "A manuscript book of unknown, non-ancient origin, written entirely in an indecipherable language composed of symbols, signs, and words.",
+      "Well, obviously there’s a bit of a Voynich influence going on (the castle is a bit of a giveaway), but – unless you know better? – it looks more like a fun art project (kind of a poor man’s Codex Seraphinianus) than some kind of Rosicrucian secret.",
+      "So I’m guessing its cipher can’t actually be broken, but I could easily be wrong."
+    ],
+    "without": [
+      "About Voynich Manuscript Tamam Shud / Somerton Man Masonic Ciphers Other Ciphers The Secret History of the Rosicrucians Juan Roget Mona Lisa, but made of… Misc Stuff",
+      "Get new posts by email: Enter your email Subscribe",
+      "Recent Comments Steve H on The Somerton Man / Jim Beaumont connection…",
+      "© Copyright 2025 - Cipher Mysteries",
+      "Contango Theme ⋅ Powered by WordPress"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-21T00:13:28.949210"
+}

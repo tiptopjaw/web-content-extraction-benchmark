@@ -1,0 +1,27 @@
+{
+  "url": "https://juuls.tech/a-rest-api-without-writing-a-single-line-of-code",
+  "file_id": "2834",
+  "downloaded_at": "2025-12-21T00:07:21.395835",
+  "ground_truth": {
+    "title": "A REST API without writing a single line of code",
+    "author": "Juul Hobert",
+    "publish_date": "2025-12-14",
+    "main_content": "Imagine you are building a full-text search solution for a client. Almost everything is there, except for one small but annoying gap: you need a simple way to manage synonyms. Adding this to an existing SaaS product is cumbersome, and you are understandably hesitant to introduce custom code that tightly couples you to that SaaS platform.\n\nI run into this type of scenario more often than you would expect. Building a full-blown admin panel feels like overkill, especially when it requires setting up a backend, authentication, CRUD endpoints, and all the usual plumbing.\n\nIn this post I will show how you can use Data API Builder to spin up a REST API with minimal effort. No application code, just configuration. This will already provide you a backend solution, after which only the frontend needs to be created next.\n\nInstalling Data API Builder\n\nThe first step is installing the Data API Builder tool. I am going to assume you already have dotnet installed on your machine.\n\nChoosing a database\n\nFor the database I deliberately choose an open source solution. That gives freedom. No vendor that can suddenly decide to increase licensing costs next year. PostgreSQL is a solid choice here.\n\nTo keep things simple, I start by adding a docker-compose file so I can run Postgres locally. Make sure your firewall is enabled. I should not have to explain why these default credentials are unsafe outside of a local setup.\n\nDatabase first, again\n\nChoosing Data API Builder gives me some old-school vibes. We are back to a database-first approach. These days, when writing application code, we almost always start code-first. Here it is the other way around.\n\nFor this blog I keep the table deliberately simple. I skip aspects like indexing to keep the focus on the API itself. In a real-world scenario, especially when the table starts to grow, you should absolutely think about indexes.\n\nThe following SQL statement defines a table to store synonyms.\n\nInitializing Data API Builder\n\nNow it is time to initialize Data API Builder using the dab tool. Run the following command:\n\nThis creates a new file called dab-config.json. With that in place, we can start adding entities. The next command adds our synonym table as an entity and exposes it as a REST endpoint.\n\nAuthentication setup\n\nNext up is authentication. My original plan was to use Keycloak and configure the provider as a Custom provider. Unfortunately, at the time of writing there are still issues with this approach (see #2820).\n\nFor now, I switch the provider to Simulator. This allows me to pass a header that defines the security role. Not production-ready, but good enough to demonstrate the flow.\n\nStarting the API\n\nThat is all that is needed to get things running. With the following command, the API starts up and becomes available on localhost:5000.\n\nOpen a browser and navigate to http://localhost:5000/swagger. Expand the POST endpoint and set the X-MS-API-ROLE header to authenticated. Then send the following request body:\n\nAt this point the API accepts the request and stores the synonym. A quick check in the database confirms that the record is indeed there.\n\nConclusion\n\nIn this post I walked through using Data API Builder to create a REST API with nothing more than configuration. For scenarios like admin panels, this can be surprisingly effective. You get CRUD endpoints out of the box, including filtering capabilities that feel very similar to OData.\n\nThat said, the tool does not feel fully finished yet to me. The Custom authentication provider is currently having issues, and PostgreSQL support is more limited compared to Azure SQL. If you decide to use Data API Builder, it is probably wiser to stay within the Microsoft ecosystem, think about using Entra and Azure SQL.\n\nStill, I see real value here. It is an easy way to setup an API quickly, without committing to a full backend implementation. Given its association with Fabric, I expect this tool to mature further and become more interesting over time.",
+    "with": [
+      "Imagine you are building a full-text search solution for a client. Almost everything is there, except for one small but annoying gap: you need a simple way to manage synonyms.",
+      "In this post I will show how you can use Data API Builder to spin up a REST API with minimal effort. No application code, just configuration.",
+      "Choosing Data API Builder gives me some old-school vibes. We are back to a database-first approach.",
+      "In this post I walked through using Data API Builder to create a REST API with nothing more than configuration.",
+      "Still, I see real value here. It is an easy way to setup an API quickly, without committing to a full backend implementation."
+    ],
+    "without": [
+      "Juul Hobert",
+      "published with write.as",
+      "Views",
+      "December 14, 2025",
+      "A REST API without writing a single line of code — Juul Hobert"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-21T00:07:21.395841"
+}

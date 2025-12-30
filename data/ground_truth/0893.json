@@ -1,0 +1,27 @@
+{
+  "url": "https://communityimpact.com/dallas-fort-worth/frisco/government/2025/11/21/a-215-acre-development-and-new-restaurants-5-trending-stories-from-dallas-fort-worth/",
+  "file_id": "0893",
+  "downloaded_at": "2025-12-20T20:27:45.351952",
+  "ground_truth": {
+    "title": "A 215-acre development and new restaurants: 5 trending stories from Dallas-Fort Worth",
+    "author": "Hannah Johnson",
+    "publish_date": "2025-11-21",
+    "main_content": "A new 215-acre development in east Plano is close to final approval, while several new housing developments are underway in Grapevine, Colleyville and Southlake.\n\nSee details on these stories and more in a list of the top five most-read stories from Community Impact's Dallas-Fort Worth coverage areas from Nov. 17-21.\n\n1. 215-acre Lavon Farms development in east Plano moves forward\n\nA project that would develop an east Plano dairy farm into 215 acres of homes, apartments, parks and more is one step away from final approval. Lavon Farms would feature 626 single-family residential units, 1,052 multifamily units and 37 acres of open space. The open space would include 10 acres of parks and a “Rural Preserve,” which will allow a section of the development to function as a micro farm and ranch.\n\nFind key details from Editor Michael Crouchley.\n\n2. New 6,400-square-foot shopping center on Plano, Richardson border to be anchored by Dunkin’\n\nA new retail development is currently under construction in south Plano near the Richardson border across Renner Road from Methodist Richardson Medical Center, Suzy Murff, Stonewood Investments project leasing and sales representative, said. The development will be anchored by Dunkin’, Murff said.\n\nRead here from Reporter Karen Chaney.\n\n3. Check out 6 restaurants newly opened in the Dallas-Fort Worth area\n\nNew restaurants from around the Dallas-Fort Worth area include a tea shop in Denton, a new Frisco noodle restaurant and new pizzerias in Plano and Roanoke.\n\nSee details for these and more from Reporter Karen Chaney.\n\n4. Bread Zeppelin expands footprint, all-you-can-eat sushi coming soon: 6 Dallas-Fort Worth restaurant updates\n\nCheck out more food updates in the area, including an all-you-can-eat sushi concept and a restaurant featuring warm toasted baguettes filled with fresh salad.\n\nRead here from Reporter Hannah Johnson.\n\n5. 5 housing developments updates in Grapevine, Colleyville and Southlake\n\nTake a look at some of the newest housing developments in the Grapevine, Colleyville and Southlake areas that are under construction or were recently approved by respective city councils.\n\nTake a closer look from Senior Reporter Cody Thorn.",
+    "with": [
+      "A new 215-acre development in east Plano is close to final approval, while several new housing developments are underway in Grapevine, Colleyville and Southlake.",
+      "A project that would develop an east Plano dairy farm into 215 acres of homes, apartments, parks and more is one step away from final approval.",
+      "Lavon Farms would feature 626 single-family residential units, 1,052 multifamily units and 37 acres of open space.",
+      "New restaurants from around the Dallas-Fort Worth area include a tea shop in Denton, a new Frisco noodle restaurant and new pizzerias in Plano and Roanoke.",
+      "Take a look at some of the newest housing developments in the Grapevine, Colleyville and Southlake areas that are under construction or were recently approved by respective city councils."
+    ],
+    "without": [
+      "Advertise | Careers | About | Become an InCIder",
+      "Trending now - H-E-B set to build 51,599 square-foot electronic fulfillment center in Frisco",
+      "Thanks for reading! Daily news about your community is free, and your support is invaluable.",
+      "Austin Metro | Houston Metro | Dallas | Fort Worth Metro | San Antonio Metro",
+      "© 2005-2025 Community Impact Newspaper Co. All rights reserved."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:27:45.351957"
+}

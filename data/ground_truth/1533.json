@@ -1,0 +1,27 @@
+{
+  "url": "https://www.hrsa.gov/oral-health",
+  "file_id": "1533",
+  "downloaded_at": "2025-12-20T21:51:44.642152",
+  "ground_truth": {
+    "title": "How To Take Care of Your Oral Health",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Problems with your teeth, gums, or other parts of the mouth can increase your risk of having some diseases or health conditions. Small steps, like seeing a dentist regularly for checkups, can help you protect your mouth and teeth and live well at any age.\n\nThe A Healthy Mouth for Every Body campaign offers a variety of materials to help you and your family take good care of your oral health.\n\nOral health topics\n\nOral health for adults\nMaintaining good oral health affects your well-being and quality of life.\nExplore ways to maintain good oral health.\n\nOral health for young children\nHaving good oral health early in life sets your child up for good oral health as they grow.\nLearn best practices for caring for your child's oral health.\n\nDry mouth\nHaving dry mouth all or most of the time is not only uncomfortable—it can lead to serious health problems.\nExplore causes of dry mouth and treatment options.\n\nPeople with HIV\nGood oral health is an important part of managing HIV and your overall health. Make oral health care a regular part of taking care of yourself.\nLearn ways to care for your oral health if you're living with HIV.\n\nOral health and nutrition\nConsuming healthy foods and drinks can help you maintain good oral health.\nFind out how nutrition affects your oral health and overall health.\n\nOral health and pregnancy\nMaintaining good oral health is important during pregnancy or if you're planning a pregnancy.\nLearn how to take care of your oral health while pregnant.\n\nEducational and promotional resources\nView educational resources on the important ways to maintain good oral health. Use these free outreach tools to help spread the word.\nExplore and download free materials and outreach tools.\n\nFacts\nPeriodontal (gum) disease is the most common cause of tooth loss among adults. It affects about 46% of adults ages 30 or older; about 9% of adults have severe periodontal disease.1\n\nBetween 2015 and 2018, 13% of children ages 5 to 19 in the United States had untreated cavities in their teeth.\n1 in 4 adults ages 20 to 64 currently has cavities.2\nIn 2020, more than 54,000 new cases of oral cancer were diagnosed in the United States, and oral cancer led to nearly 11,000 deaths.3\n\n1. National Institute of Dental and Craniofacial Research (n.d.). Periodontal (Gum) Disease.\n2. Centers for Disease Control and Prevention (2019). Adult Oral Health.\n3. American Cancer Society (2021). Key Statistics for Oral Cavity and Oropharyngeal Cancers.\n\nDate Last Reviewed: April 2025",
+    "with": [
+      "Problems with your teeth, gums, or other parts of the mouth can increase your risk of having some diseases or health conditions.",
+      "The A Healthy Mouth for Every Body campaign offers a variety of materials to help you and your family take good care of your oral health.",
+      "Periodontal (gum) disease is the most common cause of tooth loss among adults. It affects about 46% of adults ages 30 or older; about 9% of adults have severe periodontal disease.",
+      "Between 2015 and 2018, 13% of children ages 5 to 19 in the United States had untreated cavities in their teeth.",
+      "In 2020, more than 54,000 new cases of oral cancer were diagnosed in the United States, and oral cancer led to nearly 11,000 deaths."
+    ],
+    "without": [
+      "Call or Text the Maternal Mental Health Hotline",
+      "Home | Services | Grants | Loans & Scholarships | Data Warehouse | About HRSA | HRSA en español",
+      "Sign up for email updates.",
+      "Find a Medically Underserved Area",
+      "Accessibility | Disclaimers | Freedom of Information Act | Health and Human Services | No FEAR Act | Privacy Policy | USA.gov | Viewers & Players | Vulnerability Disclosure Policy | WhiteHouse.gov"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:51:44.642157"
+}

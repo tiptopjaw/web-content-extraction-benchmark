@@ -1,0 +1,27 @@
+{
+  "url": "https://beconnected.esafety.gov.au/topic-library/computer-basics-for-beginners/what-is-a-smartphone",
+  "file_id": "2157",
+  "downloaded_at": "2025-12-20T23:01:42.659916",
+  "ground_truth": {
+    "title": "What is a smartphone?",
+    "author": null,
+    "publish_date": null,
+    "main_content": "This course will teach you what a smartphone is and how to use one. It is designed for those who are new to using a smartphone. Welcome to \"What is a smartphone?\". In this video, we'll explore smartphones, and what you can do with them. A smartphone is a lot like a tablet computer, but small enough to fit in your pocket and able to make or receive calls. There are two main types of smartphone: Android and Apple iPhone. They look similar and do the same things, just a bit differently. Like a tablet, a smartphone has a battery inside. It can last several hours before running out of power. Connecting the smartphone to mains power lets you recharge the battery. There'll be a power switch for turning the screen on and off, and a small microphone that picks up your voice when on a phone call. Smartphones often have a large screen. Like a tablet, this is a touchscreen, and you do most things, including making phone calls, by tapping it with your finger. The main screen of a smartphone is called the home screen, just like on a tablet. It has a lot of small symbols called applications, or apps for short. Apps are small computer programs that let you do a range of things on your smartphone. There are apps for games, the weather or listening to the radio. But you don't need any apps to make or receive calls. To make a call, tap the phone button. A number pad will appear. Tap in the number with your finger, then press the call button. Activities 1 Get to know your smartphone 6 min 2 Using your smartphone 6 min 3 Selecting a mobile plan that’s right for you 5 min Print the guide What is a smartphone? Print or save these short guides for a helpful reference tool. You can use them to refresh your knowledge or practise what you have learnt. Our new printable guides are easier to read on a small screen and they use less toner to print at home. You can also still save them as a PDF. Find out more in our quick step-by-step instructions.",
+    "with": [
+      "This course will teach you what a smartphone is and how to use one. It is designed for those who are new to using a smartphone.",
+      "A smartphone is a lot like a tablet computer, but small enough to fit in your pocket and able to make or receive calls.",
+      "There are two main types of smartphone: Android and Apple iPhone. They look similar and do the same things, just a bit differently.",
+      "The main screen of a smartphone is called the home screen, just like on a tablet. It has a lot of small symbols called applications, or apps for short.",
+      "To make a call, tap the phone button. A number pad will appear. Tap in the number with your finger, then press the call button."
+    ],
+    "without": [
+      "Skip to main content",
+      "Join / Sign in",
+      "Browse content",
+      "Recommended content",
+      "Subscribe to the Be Connected newsletter"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T23:01:42.659923"
+}

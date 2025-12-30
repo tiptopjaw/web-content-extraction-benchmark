@@ -1,0 +1,26 @@
+{
+  "url": "https://www.nevada211.org/legal-services/legal-aid/",
+  "file_id": "1556",
+  "downloaded_at": "2025-12-20T22:03:30.473565",
+  "ground_truth": {
+    "title": "Legal Aid - Nevada 211",
+    "author": null,
+    "publish_date": "2016-03-16",
+    "main_content": "Nevada 211 services that provide low-cost and/or free legal aid for people who need counseling in legal matters, such as bankruptcy, housing, public benefits, family law, elder law or immigration/naturalization.\n\nWebsite visitors using an Edge browser may be unable to see some resources. Use Chrome, Safari, Firefox, or a different browser instead.\n\nSearch Using Zip Code:\nSearching with your zip code is the best way to find services in your area.\n\nSearch Using County and City:\nYou can also search by county and city, but the results may not be as accurate as using a zip code.\n\nStart a New Search:\nEnter keyword(s) in the box below and click \"Search\" to start a new, unrelated search.\n\nReady to search\nUse the filters on the left to find resources",
+    "with": [
+      "Nevada 211 services that provide low-cost and/or free legal aid for people who need counseling in legal matters, such as bankruptcy, housing, public benefits, family law, elder law or immigration/naturalization.",
+      "Searching with your zip code is the best way to find services in your area.",
+      "You can also search by county and city, but the results may not be as accurate as using a zip code.",
+      "Enter keyword(s) in the box below and click \"Search\" to start a new, unrelated search."
+    ],
+    "without": [
+      "Call 2-1-1 or 1-866-535-5654",
+      "Download the Nevada 211 APP",
+      "Copyright 2023 Website Design by OptiWebDesign.com",
+      "Safety Exit",
+      "Nevada 211, a program of the Nevada Department of Health and Human Services, is committed to helping Nevadans connect with the services they need."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:03:30.473571"
+}

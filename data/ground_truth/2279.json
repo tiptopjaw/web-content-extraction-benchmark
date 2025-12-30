@@ -1,0 +1,47 @@
+{
+  "url": "https://www.councilofnonprofits.org/running-nonprofit/nonprofit-audit-guidec/what-review-or-compilation",
+  "file_id": "2279",
+  "downloaded_at": "2025-12-21T00:25:41.603665",
+  "ground_truth": {
+    "title": "What is a Review or Compilation?",
+    "author": null,
+    "publish_date": null,
+    "main_content": "What is a review?\nThe objective of a financial \"review\" conducted by an independent auditor is to examine the nonprofit's financial statements and determine whether the financial statements are consistent with generally accepted accounting principles. A review shares the goals of an audit, however, a review is not conducted with the same level of investigation or analysis as an independent audit.\nDuring a review, the auditor examines the financial statements but does not conduct an examination of the nonprofit’s internal controls (which is normally included in the scope of an independent audit). Instead the review provides a limited level of assurance that the financial statements are free of misrepresentations. The auditor’s report after a review will note whether the auditor is aware of any “material modifications” that should be made to the financial statements. The report after a review is not considered to provide a professional opinion about the nonprofit’s financial statements as a whole.\nThe key difference between an audit and a review is that conducting an audit requires the auditor to obtain independent confirmation or verification of the financial information examined. Here is how the accounting professionals at Jitasa describe the distinction between a financial review and an audit: \"The CPA doesn't perform in-depth 'testing' as they do in an audit. They review for material issues and obvious deviations from GAAP. But they won't go in and test unique individual transactions in the same way as in an audit. A review provides some assurance, but does not independently validate transactions.\"\nView an example of a review.\nWhat is a compilation?\nA compilation differs signiﬁcantly from a review or an independent audit of ﬁnancial statements. A compilation is literally a compilation of financial records into a format required by accounting standards. When this work is performed by an auditor it is referred to as a “compilation” and accounting standards require the auditor to assess whether the records are free from obvious errors.\nHere are the major differences between a compilation and a financial review or an audit:\n1. During a compilation the auditor does not examine the internal controls that are used to manage the risks of embezzlement or fraud (which is part of an independent audit);\n2. During a compilation the auditor will not collect and examine source documents (e.g. canceled checks or bank statements) to test the accuracy of the nonprofit’s accounting records (which would be part of the \"testing\" during an audit);\n3. When conducting a compilation the auditor reformats the financial statements but does not make any determination of whether the account balances are reasonable by comparing them to his or her expectations (which is part of a review).\n4. In the report after conducting a compilation, the auditor will not provide any opinion or assurance that the financial statements accurately reflect the financial position of the organization - which is a normal outcome of an independent audit.\nWhy conduct a compilation?\nA compilation offers the advantage of engaging a set of trained eyes to review the financial records of the nonprofit. The scope of a compilation can be a month, a quarter, or an entire year's financial records. This can be useful because the auditor organizes the nonprofit’s financial information into the format for financial statements required by GAAP (the same as that used for audits) and may also provide explanatory notes that can clarify financial statements. So, if a nonprofit does not have the internal capacity to put its financial records into a “professional” format, a compilation can accomplish that. Also, the CPA conducting the compilation may raise questions about certain records that can be helpful to spot irregularities. Another outcome from a compilation is that afterwards the nonprofit’s financial records are formatted in a standard manner that can easily be reviewed by third parties, such as a bank that might be considering making a loan to the nonprofit. And last but not least, a compilation can be conducted by a CPA at a substantially lower cost than either a review or an independent audit.\nAdditional Resources\nDoes your nonprofit really need an audit? Here are the alternatives (501c Services)",
+    "with": [
+      "The objective of a financial \"review\" conducted by an independent auditor is to examine the nonprofit's financial statements and determine whether the financial statements are consistent with generally accepted accounting principles.",
+      "A compilation differs signiﬁcantly from a review or an independent audit of ﬁnancial statements. A compilation is literally a compilation of financial records into a format required by accounting standards.",
+      "The key difference between an audit and a review is that conducting an audit requires the auditor to obtain independent confirmation or verification of the financial information examined.",
+      "A compilation offers the advantage of engaging a set of trained eyes to review the financial records of the nonprofit.",
+      "And last but not least, a compilation can be conducted by a CPA at a substantially lower cost than either a review or an independent audit."
+    ],
+    "without": [
+      "Skip to main content",
+      "Insights & Analysis",
+      "Press Room",
+      "Nonprofit Jobs",
+      "Donate",
+      "Member Login",
+      "Trends and Policy Issues",
+      "Everyday Advocacy",
+      "Running a Nonprofit",
+      "About America's Nonprofits",
+      "About Us",
+      "Home > Running a Nonprofit > Nonprofit Audit Guide",
+      "Print this page",
+      "Sign up for updates",
+      "Find your state's contact",
+      "Cookies UI",
+      "Twitter",
+      "Youtube",
+      "LinkedIn",
+      "Contact Us",
+      "Sponsorship & Advertising Opportunities",
+      "Terms & Privacy Policy",
+      "Help us connect, champion, and inform charitable nonprofits.",
+      "Support Our Work",
+      "©2025 National Council of Nonprofits. The National Council of Nonprofits is a proud 501(c)(3) charitable nonprofit. EIN 52-1689643"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-21T00:25:41.603671"
+}

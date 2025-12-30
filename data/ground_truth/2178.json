@@ -1,0 +1,27 @@
+{
+  "url": "http://www.msha.gov/news-and-updates/alerts-hazards/filter/electrical-safety",
+  "file_id": "2178",
+  "downloaded_at": "2025-12-20T23:16:27.227797",
+  "ground_truth": {
+    "title": "Electrical Safety",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Safety Alert\n\nELECTRICAL SAFETY\n\nSince 2015, 289 arc flash or electrical shock accidents have occurred.  Fifteen of these accidents resulted in a fatality; an average of three miners every two years.  Proper Lock Out – Tag Out (LOTO) procedures protect miners from the dangers of uncontrolled and unplanned releases of energy.\n\nBest Practices\n\nDo not begin any electrical work until the circuit has been fully de-energized and a visual disconnect has been properly locked and tagged out.  Always follow the “Lock Out, Tag Out, Try Out” procedure, and be aware that electrical circuits may be energized from multiple sources.\nMaintain a thorough understanding of the hazards associated with electricity and avoid touching any electrical component until you have verified that it is completely de-energized.\nDevelop and adhere to a comprehensive and safe work plan or troubleshooting procedure to ensure the safety of all personnel involved.\nAlways wear properly rated and well-maintained personal protective equipment (PPE) to safeguard against electrical shock, arc blast, and arc flash hazards, in accordance with the NFPA 70E Standard for Electrical Safety in the Workplace.",
+    "with": [
+      "Since 2015, 289 arc flash or electrical shock accidents have occurred.",
+      "Fifteen of these accidents resulted in a fatality; an average of three miners every two years.",
+      "Proper Lock Out – Tag Out (LOTO) procedures protect miners from the dangers of uncontrolled and unplanned releases of energy.",
+      "Do not begin any electrical work until the circuit has been fully de-energized and a visual disconnect has been properly locked and tagged out.",
+      "Always wear properly rated and well-maintained personal protective equipment (PPE) to safeguard against electrical shock, arc blast, and arc flash hazards, in accordance with the NFPA 70E Standard for Electrical Safety in the Workplace."
+    ],
+    "without": [
+      "An official website of the United States government.",
+      "SAFETY & HEALTH TRAINING COMPLIANCE & ENFORCEMENT REGULATIONS NEWS & UPDATES DATA & REPORTS ABOUT CONTACT",
+      "U.S. Department of Labor Mine Safety and Health Administration 200 Constitution Ave NW Suite C3522 Washington, DC 20210 www.msha.gov 202-693-9400",
+      "Connect With MSHA",
+      "Site Map Important Website Notices Privacy & Security Statement"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T23:16:27.227803"
+}

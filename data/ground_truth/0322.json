@@ -1,0 +1,27 @@
+{
+  "url": "https://wanderlog.com/list/geoCategory/75069/where-to-eat-best-restaurants-in-oklahoma-city",
+  "file_id": "0322",
+  "downloaded_at": "2025-12-20T18:52:34.579736",
+  "ground_truth": {
+    "title": "Where to eat: the 50 best restaurants in Oklahoma City",
+    "author": "Wanderlog staff",
+    "publish_date": "2025-09-04",
+    "main_content": "Oklahoma City is a vibrant culinary landscape where flavors from around the world come together to create a unique dining experience. From upscale steakhouses to cozy cafes, this city has something for everyone. Whether you're in the mood for a classic grilled cheese at The Mule or a gourmet meal at Ludivine, you'll find that Oklahoma City's food scene is as diverse as its culture. The city's rich history and warm hospitality make it a delightful place to explore, especially when it comes to satisfying your taste buds.\n\nAs you wander through the streets of Oklahoma City, you'll discover a mix of beloved local institutions and exciting new hotspots. Indulge in the elevated comfort fare at Kitchen No. 324 or savor the stunning views and Southern-inspired dishes at Vast. For those seeking a vegan-friendly option, The Loaded Bowl offers creative and delicious meals that even non-vegetarians will love. With so many incredible restaurants to choose from, it's time to dive into the flavors of Oklahoma City and find your next favorite dining spot!\n\nWhy trust us\nWe scoured through the internet and read through 12 reputable sites and blogs like Time Out and TripSavvy. We gathered all the results in one place and ranked them by how many times they were mentioned so you know you're getting the best of the best. Just look for the \"mentioned by\" tags on each place like these: \n\nCurious about the sites we referenced? See the list of all 12 sites we checked out.\n\nVisiting Oklahoma City? See our Oklahoma City Trip Planner.",
+    "with": [
+      "Oklahoma City is a vibrant culinary landscape where flavors from around the world come together to create a unique dining experience.",
+      "Whether you're in the mood for a classic grilled cheese at The Mule or a gourmet meal at Ludivine, you'll find that Oklahoma City's food scene is as diverse as its culture.",
+      "As you wander through the streets of Oklahoma City, you'll discover a mix of beloved local institutions and exciting new hotspots.",
+      "We scoured through the internet and read through 12 reputable sites and blogs like Time Out and TripSavvy.",
+      "We gathered all the results in one place and ranked them by how many times they were mentioned so you know you're getting the best of the best."
+    ],
+    "without": [
+      "Log in",
+      "Sign up",
+      "Your itinerary and your map in one view",
+      "Love love love! ❤️ Planning travel has actually been fun instead of tedious because of this app.",
+      "Other best of categories in Oklahoma City"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T18:52:34.579742"
+}

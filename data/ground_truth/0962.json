@@ -1,0 +1,27 @@
+{
+  "url": "https://centerforyogala.com/pricing/",
+  "file_id": "0962",
+  "downloaded_at": "2025-12-20T20:59:36.530836",
+  "ground_truth": {
+    "title": "Pricing & Memberships",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Pricing & Memberships\nNew Membership offers\nIf you have questions about our membership options, please contact our staff by email or phone.\n\nIn Studio Pricing\nMonthly\n$180 / mo\nPracticing 2x/week or more\nMember Benefits\n3 month commitment\nUnlimited access to 75+ weekly classes\nRetail Discounts\n14 yearly guest passes\nReferral Discounts\nWorkshop Discounts\nOptional Mat & Towel Add Ons\n\nAnnual Membership\n$2,040 / yr\nCommit to your practice for 1 year\nMember Benefits\nUnlimited access to 75+ weekly classes\nRetail Discounts\n14 yearly guest passes\nReferral Discounts\nOptional Mat & Towel Add Ons\n\nFitness Room Membership\n$75 / mo\nWhere strength meets serenity\nBenefits\nUnlimited access\nRetail Discounts\nOptional Mat & Towel Add Ons\nContact Studio for\nAdd ons:\nDiscounted Buddy Rates\nDay Passes\nHybrid Fitness Room + Yoga Memberships\n\nFitness Annual Membership\n$799 / yr\nCommit to your fitness for 1 year\nMember Benefits\nUnlimited access\nRetail Discounts\nOptional Mat & Towel Add Ons\nContact Studio for\nAdd Ons:\nDiscounted Buddy Rates\nDay Passes\nHybrid Fitness Room + Yoga Memberships\n\nLivestream Pricing\nMonthly\n$108 / mo\nCFYLA Livestream Membership\nMember Benefits\nFree access to over 100 Interactive classes a month via Zoom\nCancel any time after the initial three-month commitment\nEasily Manage Your Booking Online or Over the Phone\n\nÀ la carte\n$119 / 30 days\nCFYLA Livestream Membership (30 Days)\nMember Benefits\nFree access to over 160 Interactive classes a month via Zoom\nExpires 30 days after you take your first class\nActivated when you take your first class\n\n10 Class Pack\n$149 / for 10 classes\nCFYLA Livestream Class Pack\nPack Benefits\nFree access to over 160 Interactive classes a month via Zoom\nExpires 3 months after you take your first class\nBooking uses a credit. The recording sent to you is available for 48 hours.\n\nClass Packs\nSingle Class\n$35 / per class\nSingle Class Pack\nDropping in\nAccess to all in-studio yoga and fitness classes\nNon-Transferable\nNever expires\n\nClass Packs\nMultiple Options\nThe more classes you buy, the lower your per-class rate.\nPracticing 1x or less\n5 Class Pack\n10 Class Pack\n15 Class Pack\n20 Class Pack\nNever expires\nActive for 6 months. Reactivate anytime for a small fee.\n\nNo Commitment\nNo Commitment Monthly Membership\nOne Month – No Commitment\n$300 / mo\nNo Commitment Membership\nMember Benefits",
+    "with": [
+      "Pricing & Memberships",
+      "If you have questions about our membership options, please contact our staff by email or phone.",
+      "Monthly: $180 / mo - Practicing 2x/week or more - Member Benefits: 3 month commitment, Unlimited access to 75+ weekly classes, Retail Discounts, 14 yearly guest passes, Referral Discounts, Workshop Discounts, Optional Mat & Towel Add Ons",
+      "Annual Membership: $2,040 / yr - Commit to your practice for 1 year - Member Benefits: Unlimited access to 75+ weekly classes, Retail Discounts, 14 yearly guest passes, Referral Discounts, Optional Mat & Towel Add Ons",
+      "Livestream Pricing: Monthly $108 / mo - CFYLA Livestream Membership - Member Benefits: Free access to over 100 Interactive classes a month via Zoom, Cancel any time after the initial three-month commitment, Easily Manage Your Booking Online or Over the Phone"
+    ],
+    "without": [
+      "Skip to content",
+      "About Yoga Gym Pricing Reviews Contact",
+      "CALL US TODAY",
+      "The latest workshops & events here!",
+      "Login / My Account"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:59:36.530842"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://continuing-ed.hunter.cuny.edu/certificate-in-accounting/",
+  "file_id": "1881",
+  "downloaded_at": "2025-12-20T22:00:09.753228",
+  "ground_truth": {
+    "title": "Certificate in Accounting - Hunter College Continuing Education",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Certificates in New York City for Accounting Professionals\n\nCertificate in Accounting\n\nThe Accounting Certificate Program develops students’ abilities to understand business transactions and financial statements and to determine the most appropriate financial measures for those events. Choose from a range of courses tailored to meet your specific professional goals. Earn professional credentials and accelerate your career with the critical skills you need to succeed in the industry. This program is approved by the National Association of Certified Public Bookkeepers (NACPB).\n\nProgram Information\n\nJoin us for an Open House for the Accounting Certificate on Wednesday, February 11, at 6:00 pm. Click here to sign up.\nDuration of the program: The program consists of 4 courses and can be completed in 2 or 3 semesters, depending on scheduling.\nTuition: $2,650 plus a one-time $25 registration fee\nPayment Plan: Down payment of $1,455 + 2 payments of $610\nBrochure: Schedule and Books\n\nProgram Information and Schedule\n\nCourses and Program Details\n\nBookkeeping and Accounting I\nThis course introduces the fundamental principles of accounting and bookkeeping. Students will learn how to record financial transactions, prepare financial statements, and understand the accounting cycle. Topics include the accounting equation, double-entry bookkeeping, journal entries, ledgers, trial balances, and the preparation of basic financial statements (income statement, balance sheet, and statement of cash flows). Emphasis is placed on practical application through hands-on exercises and real-world examples.\n\nBookkeeping and Accounting II\nBuilding on the foundations of Bookkeeping and Accounting I, this course delves deeper into advanced bookkeeping techniques and accounting principles. Students will explore topics such as adjusting entries, closing entries, payroll accounting, inventory valuation, and depreciation methods. The course also covers the preparation of more complex financial statements and introduces basic financial analysis. Practical exercises and case studies are used to reinforce concepts and develop proficiency in accounting software applications.\n\nQuickBooks Online\nThis hands-on course provides comprehensive training in QuickBooks Online, a leading cloud-based accounting software. Students will learn how to set up a company file, manage chart of accounts, record transactions, generate invoices, process payments, reconcile bank accounts, and produce financial reports. The course covers both basic and advanced features of QuickBooks Online, including payroll processing, inventory management, and budgeting. By the end of the course, students will be proficient in using QuickBooks Online to manage the financial operations of a small business.\n\nPayroll Accounting\nThis course focuses on the principles and practices of payroll accounting. Students will learn how to calculate gross pay, deductions, and net pay for employees. Topics include federal and state payroll tax regulations, Social Security and Medicare taxes, unemployment taxes, and wage and hour laws. The course also covers payroll recordkeeping, reporting requirements, and the use of payroll software. Emphasis is placed on compliance with legal requirements and accurate payroll processing.\n\nBusiness & Finance\n\nGeneral Info\nAccounting Certificate\nPersonal Financial Planning\nBusiness Courses\nReal Estate Certificate\nTaxation Courses\n\nAttend an Open House\n\nAttend an Open House\n\nLearn English at Hunter CE\n\nLearn English at Hunter",
+    "with": [
+      "The Accounting Certificate Program develops students’ abilities to understand business transactions and financial statements and to determine the most appropriate financial measures for those events.",
+      "Choose from a range of courses tailored to meet your specific professional goals. Earn professional credentials and accelerate your career with the critical skills you need to succeed in the industry.",
+      "This program is approved by the National Association of Certified Public Bookkeepers (NACPB).",
+      "Duration of the program: The program consists of 4 courses and can be completed in 2 or 3 semesters, depending on scheduling.",
+      "Tuition: $2,650 plus a one-time $25 registration fee"
+    ],
+    "without": [
+      "About Hunter",
+      "Login",
+      "RSVP for upcoming online or in-person Open House Events at Continuing Education at Hunter College.",
+      "Continuing Education Programs& Professional Development",
+      "Policies & Forms"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:00:09.753236"
+}

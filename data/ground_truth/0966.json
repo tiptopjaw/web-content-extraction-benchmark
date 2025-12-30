@@ -1,0 +1,40 @@
+{
+  "url": "https://career.seo-usa.org/seo-hire/",
+  "file_id": "0966",
+  "downloaded_at": "2025-12-20T21:02:49.066725",
+  "ground_truth": {
+    "title": "SEO Hire | SEO Career",
+    "author": null,
+    "publish_date": null,
+    "main_content": "SEO Hire is a new program initiative that connects SEO Career participants and alumni with hiring companies to fill their entry-level full-time roles.\n\nEligibility\n\nSEO Hire is currently only open to SEO Career participants who are either graduating seniors or recent alumni with 1-2 years’ work experience.\n\nHow It Works\n\n1. Speak with your Career Development Advisor\n2. Complete your Welcome Call and access the SEO Hire self-paced online training course\n3. Schedule time to meet with your SEO coach and practice interviews with industry specialists.\n4. Easily apply to full-time roles in Thrive. SEO will share qualified candidates directly with hiring managers.\n\nStudent FAQ\n\nHow can I be successful?\nSEO Hire provides resources to help you land your full-time professional role. After you complete your welcome call, take advantage of the coaching, interview practice, and self-study materials. We ask for your dedication and commitment to yourself and to SEO as you prepare for interviews and become desk ready.\n\nWhat is the deadline to join SEO Hire?\nFor the 2025-26 program, the application deadline is Friday, January 31, 2026. Full-time roles will be posted throughout the year on an ongoing basis. Check in with your SEO coach and/or industry specialist, along with the job portal and email communications for the latest full-time opportunities.\n\nWhat type of roles are available?\nEntry-level roles that require 0-2 years’ work experience such as analyst or rotational programs, across various industries/functions including Finance, Investment Banking, Marketing, Real Estate, Sales, Operations, HR and IT.\n\nSEO Hire builds on our 40+ year track record of helping recruit, train, and coach students to be successful in summer internships at partner companies, aiming to convert those interns into full-time hires.\n\nNow we’re expanding beyond the internship and preparing students to become desk-ready for their first full-time entry level role.\n\nSimply complete the form via button below to learn more and we will follow up with you!\n\nPartner Benefits\n\nFull-time hiring services whenever you need them\nAccess to Desk-Ready applicants who have been trained by SEO\nEntry-level roles in various tracks: Alternative Investments, Investment Banking, Real Estate, Portfolio, Finance, Corporate Services, Technology\nStreamlined hiring process",
+    "with": [
+      "SEO Hire is a new program initiative that connects SEO Career participants and alumni with hiring companies to fill their entry-level full-time roles.",
+      "SEO Hire is currently only open to SEO Career participants who are either graduating seniors or recent alumni with 1-2 years’ work experience.",
+      "For the 2025-26 program, the application deadline is Friday, January 31, 2026.",
+      "Entry-level roles that require 0-2 years’ work experience such as analyst or rotational programs, across various industries/functions including Finance, Investment Banking, Marketing, Real Estate, Sales, Operations, HR and IT.",
+      "SEO Hire builds on our 40+ year track record of helping recruit, train, and coach students to be successful in summer internships at partner companies, aiming to convert those interns into full-time hires."
+    ],
+    "without": [
+      "Skip to content",
+      "Donate Now",
+      "Search...",
+      "Home",
+      "Our Program",
+      "Partners",
+      "Apply & FAQ",
+      "Alumni",
+      "Contact Us",
+      "View 990 Form",
+      "View Audited Financial Statement",
+      "View Terms of Use and Privacy Policy",
+      "EIN: 13-2578670",
+      "Facebook-f",
+      "Linkedin-in",
+      "Twitter",
+      "Instagram",
+      "Youtube"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:02:49.066732"
+}

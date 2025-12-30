@@ -1,0 +1,27 @@
+{
+  "url": "https://www.utrecsports.org/fitness-and-wellness/personal-training",
+  "file_id": "0416",
+  "downloaded_at": "2025-12-20T18:28:00.759715",
+  "ground_truth": {
+    "title": "Personal Training",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Maximize your workouts with the help of a certified personal trainer who will design a custom plan to help you achieve your fitness goals. Personal training sessions are available for UT students and RecSports members.\n\nFor groups, visit the Bring Fitness to Your Group page for programming options.\n\nGeneral Information\n\nAll personal trainers maintain a nationally recognized personal training certification.\nSessions can take place at any of the seven RecSports facilities.\nCurrently enrolled UT students and RecSports members are eligible to purchase personal training sessions.\n\nTraining Packages\n\nYou may choose to purchase a package to train one-on-one or with a buddy. \nAll sessions are 60 minutes in length.\nAll packages include a complimentary initial 30-minute consultation.\nSessions expire 365 days from the date of purchase.\nYou may only purchase the Get Started with Personal Training package once.\n\nOne-on-One Training\n\nPackage\tFee\nGet Started with Personal Training\nDesigned for participants who are new to personal training. Includes a fitness assessment, space orientation, and 2 personal training sessions\tStudent: $80\nRecSports Member: $130\n2 personal training sessions\tStudent: $80\nRecSports Member: $130\n5 personal training sessions\tStudent: $190\nRecSports Member: $240\n10 personal training sessions\tStudent: $345\nRecSports Member: $450\n20 personal training sessions\tStudent: $630\nRecSports Member: $800\n\nBuddy Training\n\nPrices listed below are per participant.\n\nPackage\tFee\nGet Started with Personal Training\nDesigned for participants who are new to personal training. Includes a fitness assessment, space orientation, and 2 personal training sessions\tStudent: $55\nRecSports Member: $110\n2 personal training sessions\tStudent: $55\nRecSports Member: $110\n5 personal training sessions\tStudent: $145\nRecSports Member: $185\n10 personal training sessions\tStudent: $265\nRecSports Member: $330\n20 personal training sessions\tStudent: $450\nRecSports Member: $565\n\nHow to Register\n\nPurchase your desired package/number of sessions on RecSports Online Store.\nComplete the required Participant Information Packet (UT EID login required).\nYour personal trainer will contact you to schedule your first appointment. Please allow up to 14 days to be assigned a trainer.\n\nRegister",
+    "with": [
+      "Maximize your workouts with the help of a certified personal trainer who will design a custom plan to help you achieve your fitness goals.",
+      "All personal trainers maintain a nationally recognized personal training certification.",
+      "Sessions can take place at any of the seven RecSports facilities.",
+      "Currently enrolled UT students and RecSports members are eligible to purchase personal training sessions.",
+      "Purchase your desired package/number of sessions on RecSports Online Store."
+    ],
+    "without": [
+      "Skip to Content",
+      "About Sports & Adventure Fitness & Wellness Classes Services Facilities Memberships",
+      "Call Us: (512) 471-3116",
+      "© 2025 The University of Texas at Austin. All rights reserved.",
+      "Web Privacy Policy | Web Accessibility Policy | Site Map"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T18:28:00.759721"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.skylinewebcams.com/en/webcam/united-states/california.html",
+  "file_id": "2128",
+  "downloaded_at": "2025-12-20T22:22:07.105967",
+  "ground_truth": {
+    "title": "Live Cams in California - SkylineWebcams",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Live Cams in California - SkylineWebcams\n\nLive Cams in United States\nEncinitas\nLaguna Beach\nSanta Barbara\n\nLaguna Beach - California\nView of the Californian coast from The Cliff Restaurant\n\nSanta Barbara\nView of Santa Barbara's Stearns Wharf, beach and harbor entrance from Dive Santa Barbara\n\nEncinitas - California\nPanoramic view of the Encinitas' beach, California\n\nA selection of the best Live Cams in California from the web\n\nVenice Beach - Los Angeles\nView of the famous Venice Beach in Los Angeles\n\nSan Francisco\nView over the Golden Bridge in San Francisco\n\nSan Francisco Bay - California\nView from San Francisco Bay in California\n\nSan Francisco - Bay Bridge\nView over the Bay Bridge in San Francisco\n\nSan Francisco Skyline\nView of the San Francisco skyline and the Golden Bridge\n\nHermosa Beach\nView of the Hermosa Beach boardwalk in California\n\nOrange - California\nView from Orange in California\n\nSan Francisco - Treasure Island\nView from Treasure Island in San Francisco\n\nPacifica Pier - California\nView over the Pacifica Pier and beach in California\n\nSanta Rosa - Courthouse Square\nView of Courthouse Square in Santa Rosa, California\n\nManhattan Beach - California\nView from Manhattan Beach in California\n\nPacifica Pier - California\nView of Pacifica Pier in California\n\nHummingbird Nest - California\nView of the California hummingbird nest\n\nSan Fernando Valley - California\nPanoramic view over the San Fernando Valley, California\n\nSan Diego - Rail Cam\nView of the railroad area of San Diego, California\n\nFresno - California\nView from Fresno in California\n\nPalm Springs Air Museum\nView of the Air Museum in Palm Springs, California\n\nMammoth Mountain Ski Area - California\nView over the Mammoth Mountain Ski Area in California\n\nHummingbird Feeder - California\nView of the hummingbird feeder in Studio City, California\n\nSouth Lake Tahoe - Airport\nView over the South Lake Tahoe Airport in California\n\nRedding Eagles - California\nView of the Eagles Nest in Redding, California\n\nMammoth Mountain - McCoy Station\nView of McCoy Station at Mammoth Mountain\n\nPine Cove-Idyllwild - California\nView from Pine Cove-Idyllwild in California\n\nSan Diego - Ocean Beach\nView from Ocean Beach in San Diego\n\nTehachapi Railroad\nView of Tehachapi Railroad in California\n\nSan Diego - Cabrillo National Monument\nView of Cabrillo National Monument and San Diego Bay\n\nLee Vining - California\nPanoramic view from Lee Vining, California\n\nSan Juan Capistrano - California\nView of the train station in San Juan Capistrano, California\n\nSan Diego - Harbor Island\nView over San Diego from Harbor Island\n\nSan Luis Obispo Train Station - California\nView from the San Luis Obispo's train station in California\n\nTrinitad - California\nPanoramic view over Trinitad Bay, California\n\nSan Diego - Lake Otay\nView over the Lake Otay in San Diego, California\n\nMendota - Illinois\nView from the train's depot in Mendota, Illinois",
+    "with": [
+      "Live Cams in California - SkylineWebcams",
+      "Laguna Beach - California\nView of the Californian coast from The Cliff Restaurant",
+      "Santa Barbara\nView of Santa Barbara's Stearns Wharf, beach and harbor entrance from Dive Santa Barbara",
+      "Encinitas - California\nPanoramic view of the Encinitas' beach, California",
+      "A selection of the best Live Cams in California from the web"
+    ],
+    "without": [
+      "Advertisement",
+      "Live Cams by category",
+      "AMERICAS\nArgentina\nBarbados\nBelize\nBermuda\nBolivia\nBrazil\nCanada\nCaribbean Netherlands\nChile\nCosta Rica\nDominican Republic\nEcuador\nEl Salvador",
+      "Copyright 2011 - 2025",
+      "LOGIN\nPREMIUM"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:22:07.105974"
+}

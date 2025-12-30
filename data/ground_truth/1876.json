@@ -1,0 +1,27 @@
+{
+  "url": "https://locations.rentacenter.com/florida/marianna/4464-market-st/",
+  "file_id": "1876",
+  "downloaded_at": "2025-12-20T21:56:33.866868",
+  "ground_truth": {
+    "title": "Rent-A-Center Furniture & Appliances at 4464 Market St",
+    "author": null,
+    "publish_date": null,
+    "main_content": "You can have the newest furniture, tech, and appliances when you shop at Rent-A-Center on Market St. Stop by your nearest store at 4464 Market St to learn more about the benefits of rent-to-own. Rent-A-Center at 4464 Market St gives you the power to shop worry-free, with our no-credit option. Take your pick from your favorite furniture, appliance and electronics brands such as Ashley Furniture, Whirlpool, Samsung, Maytag, LG and HP. Choose the payment schedule that works best for your budget: weekly, bi-weekly (every two weeks), semi-monthly or monthly. Then choose your delivery date. We’ll professionally deliver and set up your product at no extra cost and also offer curbside pickup on some products where available.** It’s easy to get approved. Complete and submit your order online or visit your nearest Rent-A-Center store on Market St, all with no obligation. Learn more about how Rent-A-Center works. Are you ready to upgrade your home with better furniture, appliances, computers, and electronics? In search of new electronics and computers like televisions, sound systems or laptops, but are concerned about staying within your budget? Or maybe you need an upgrade in your home or kitchen appliances? Don't worry about spending too much for new furniture, appliances, computers, or electronics. Rent-A-Center has payment plans that are flexible to meet your needs. Maybe you're in need of new furniture in your family room, living room, or media room. Whatever you're searching for, we have you covered. Shop worry-free with us, and you'll see how easy it is to rent-to-own the new appliances, computers, furniture, and electronics you want. Delivery, set-up, and service are all included, so you don't have to worry about extra or hidden charges when it comes to our products.** Furthermore, there are so many methods of payment to choose from that you can easily find your perfect plan. You can pay any number of ways, including paying in installments. And should you change your mind, you can stop payment and return the product at any time.** Your nearby Rent-A-Center at 4464 Market St offers affordable solutions for you to bring home the things you want. Visit your local store to discover the variety of rent-to-own computers, electronics, furniture, and appliances that are at your fingertips! Our store carries all the appliances you could want for your home from major, trusted brands like Whirlpool. All kinds of televisions are waiting for you! We also carry cutting-edge computers from brands like HP and Acer. We also proudly carry home decor and furniture from all kinds of major brands to ensure you have the best selection to choose from. With Rent-A-Center, owning your own furniture, appliances, computers, and electronics is easier than ever. To get started, shop online, call our store, or stop by your local store at 4464 Market St! See how products from your local Rent-A-Center can change the way you look at your home!",
+    "with": [
+      "You can have the newest furniture, tech, and appliances when you shop at Rent-A-Center on Market St.",
+      "Rent-A-Center at 4464 Market St gives you the power to shop worry-free, with our no-credit option.",
+      "Take your pick from your favorite furniture, appliance and electronics brands such as Ashley Furniture, Whirlpool, Samsung, Maytag, LG and HP.",
+      "Your nearby Rent-A-Center at 4464 Market St offers affordable solutions for you to bring home the things you want.",
+      "With Rent-A-Center, owning your own furniture, appliances, computers, and electronics is easier than ever."
+    ],
+    "without": [
+      "Furniture Appliances Computers Electronics Deals",
+      "Manage your account, make payments and more with our mobile app.",
+      "Never miss a deal: Enter email address SIGN UP",
+      "Careers Start Here Creating opportunities to make a difference. Join our talent team.",
+      "©2025 Rent-A-Center. All rights reserved."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:56:33.866873"
+}

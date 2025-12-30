@@ -1,0 +1,27 @@
+{
+  "url": "https://onehealthohio.org/dental-care/",
+  "file_id": "0879",
+  "downloaded_at": "2025-12-20T21:37:21.890242",
+  "ground_truth": {
+    "title": "Dental Care",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Dental Care \n\nYou’ll find state-of-the-art treatment facilities at ONE Health Ohio, along with caring, compassionate Dentists, Dental Assistants and Dental Hygienists. Dental services are available for adults and children at ONE Health Ohio centers in Trumbull and Mahoning Counties.\n\nProcedures and Services\n\nScreening Exams\nCleanings\nExtractions\nX-rays\nTooth-Colored Fillings\nPreventive Care\nOrthodontic Evaluations\nRoot Canals on Select Teeth\nDigital Radiographic Analysis\nDental Emergency\n\nONE Health Ohio Centers that Offer Dental\n\nYoungstown Community Health Center\nLloyd McCoy Community Health Center\nWarren West Community Health Center\nFalls Family Care\n\nWalk In Center at Lloyd McCoy\n\nDo you have a dental emergency? We have a walk in center available most saturdays from 1 – 4 pm. You can also reach us by phone for any questions or concerns at 330-747-9551.",
+    "with": [
+      "You’ll find state-of-the-art treatment facilities at ONE Health Ohio, along with caring, compassionate Dentists, Dental Assistants and Dental Hygienists.",
+      "Dental services are available for adults and children at ONE Health Ohio centers in Trumbull and Mahoning Counties.",
+      "Procedures and Services include Screening Exams, Cleanings, Extractions, X-rays, Tooth-Colored Fillings, Preventive Care, Orthodontic Evaluations, Root Canals on Select Teeth, Digital Radiographic Analysis, and Dental Emergency.",
+      "ONE Health Ohio Centers that Offer Dental: Youngstown Community Health Center, Lloyd McCoy Community Health Center, Warren West Community Health Center, Falls Family Care.",
+      "Do you have a dental emergency? We have a walk in center available most saturdays from 1 – 4 pm. You can also reach us by phone for any questions or concerns at 330-747-9551."
+    ],
+    "without": [
+      "Important Update: Premier Care Pediatrics is not affiliated with Insight Hospital and Medical Center. Rest assured, we are OPEN and ready to serve you!",
+      "877-722-3303 (ONE Health) | 844-652-8219 (RISE Recovery)",
+      "Home | Patient Tools | About Us | Health Centers | Medical Care | Dental Care | Behavioral Health | Pharmacy | RISE Recovery | Speciality Services",
+      "About ONE Health Ohio | ONE Health Ohio Mission | CEO’s Message | FTCA Deemed Facility",
+      "Facebook | X | Instagram"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:37:21.890250"
+}

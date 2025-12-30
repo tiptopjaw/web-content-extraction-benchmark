@@ -1,0 +1,27 @@
+{
+  "url": "https://www.scrapehero.com/location-reports/10-largest-car-rentals-in-the-usa/",
+  "file_id": "0593",
+  "downloaded_at": "2025-12-20T19:00:05.313797",
+  "ground_truth": {
+    "title": "10 Largest car rentals in the United States in 2025",
+    "author": null,
+    "publish_date": "2025-11-04",
+    "main_content": "What is the largest car rental in the United States? Enterprise Rent a Car is the largest car rental the United States in 2025. What are the largest car rentals in the United States in 2025? Enterprise Rent a Car, Hertz and Avis Car Rental are the largest car rentals in the United States in 2025 based on the number of locations. Enterprise Rent a Car has the most number of locations with 4,304 locations across 52 states and territories. Hertz has 2,523 and Avis Car Rental has 1,401 locations in the US. These three together make 71.66% of the largest 10 car rentals in the US. Learn more about 10 Largest car rentals in the United States in 2025. There are 4,304 Enterprise Rentals locations in the United States as of October 16, 2025. The state and territory with the most number of Enterprise Rentals locations in the US is California, with 424 locations, which is about 10% of all Enterprise Rentals locations in the US. There are 2,523 Hertz stores in the United States as of October 15, 2025. The state and territory with the most number of Hertz locations in the US is California, with 322 stores, which is about 13% of all Hertz stores in the US. There are 1,401 Avis Rentals locations in the United States as of November 04, 2025. The state and territory with the most number of Avis Rentals locations in the US is California, with 174 locations, which is about 12% of all Avis Rentals locations in the US. There are 1,312 Budget stores in the United States as of October 08, 2025. The state and territory with the most number of Budget locations in the US is California, with 173 stores, which is about 13% of all Budget stores in the US. There are 825 Budget Truck Rental locations in the United States as of July 04, 2025. The state and territory with the most number of Budget Truck Rental locations in the US is California, with 87 locations, which is about 11% of all Budget Truck Rental locations in the US. There are 308 National Car Rental locations in the United States as of October 22, 2025. The state and territory with the most number of National Car Rental locations in the US is Florida, with 32 locations, which is about 10% of all National Car Rental locations in the US. There are 290 Thrifty Car Rental dealers in the United States as of April 11, 2024. The state and territory with the most number of Thrifty Car Rental locations in the US is Florida, with 53 dealers, which is about 18% of all Thrifty Car Rental dealers in the US. There are 246 Alamo Rent a Car locations in the United States as of November 03, 2025. The state and territory with the most number of Alamo Rent a Car locations in the US is Florida, with 30 locations, which is about 12% of all Alamo Rent a Car locations in the US. There are 228 Dollar Rent A Car locations in the United States as of March 23, 2024. The state and territory with the most number of Dollar Rent A Car locations in the US is California, with 30 locations, which is about 13% of all Dollar Rent A Car locations in the US. There are 45 Rent-A-Wreck locations in the United States as of June 07, 2024. The state and territory with the most number of Rent-A-Wreck locations in the US is New Jersey, with 12 locations, which is about 27% of all Rent-A-Wreck locations in the US. Note: To ensure accurate industry categorization, we utilize NAICS codes, which classify businesses by their main economic activity. As a result, companies may appear in different industry location reports based on their primary NAICS classification. For instance, Walmart is classified as a department store under NAICS.",
+    "with": [
+      "Enterprise Rent a Car is the largest car rental the United States in 2025.",
+      "Enterprise Rent a Car, Hertz and Avis Car Rental are the largest car rentals in the United States in 2025 based on the number of locations.",
+      "Enterprise Rent a Car has the most number of locations with 4,304 locations across 52 states and territories.",
+      "There are 4,304 Enterprise Rentals locations in the United States as of October 16, 2025. The state and territory with the most number of Enterprise Rentals locations in the US is California, with 424 locations, which is about 10% of all Enterprise Rentals locations in the US.",
+      "These three together make 71.66% of the largest 10 car rentals in the US."
+    ],
+    "without": [
+      "Home Services Insights Reports Data Store",
+      "All Reports USA Canada UK Australia India Spain Germany France New Zealand UAE Mexico",
+      "Disclaimer: Brand logos are used for visual representation only and do not imply endorsement or affiliation.",
+      "Download this data in any format We provide all of our data sets as an Excel / CSV file.",
+      "Legal Disclaimer: ScrapeHero is an equal opportunity data service provider, a conduit, just like an ISP."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T19:00:05.313803"
+}

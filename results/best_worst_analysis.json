@@ -1,0 +1,79 @@
+{
+  "trafilatura": {
+    "extractor": "Trafilatura",
+    "best": [
+      {
+        "file_id": "0002",
+        "url": "https://scratchculinary.com/2025/09/04/top-nutrition-trends-for-fall-2025-what-fitness-experts-are-eating-and-how-scratch-makes-it-easy/",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "file_id": "0005",
+        "url": "https://www.linkedin.com/pulse/5-trends-from-nutrition-2025-dylan-bailey-ms-rd-fand-8n6xe",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "file_id": "0008",
+        "url": "https://www.prevention.com/weight-loss/diets/a63515464/diet-trends-2025/",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "file_id": "0014",
+        "url": "https://www.cbsnews.com/news/raskin-bill-require-white-house-renovation-plans-review/",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0
+      },
+      {
+        "file_id": "0016",
+        "url": "https://www.ap.org/news-highlights/spotlights/2025/homeowners-spend-on-renovations-and-repairs-despite-the-uncertain-economy-and-higher-prices/",
+        "f1": 1.0,
+        "precision": 1.0,
+        "recall": 1.0
+      }
+    ],
+    "worst": [
+      {
+        "file_id": "1471",
+        "url": "https://www.plumbingsupply.com/index.html",
+        "f1": 0.025157232704402514,
+        "precision": 0.029850746268656716,
+        "recall": 0.021739130434782608
+      },
+      {
+        "file_id": "1404",
+        "url": "https://youtu.be/guJxs2iFQ1c",
+        "f1": 0.024691358024691357,
+        "precision": 0.043478260869565216,
+        "recall": 0.017241379310344827
+      },
+      {
+        "file_id": "2195",
+        "url": "https://greenstocknews.com/stocks/blockchain-stocks",
+        "f1": 0.0045662100456621,
+        "precision": 0.020833333333333332,
+        "recall": 0.002564102564102564
+      },
+      {
+        "file_id": "0232",
+        "url": "https://www.simplilearn.com/tutorials/cyber-security-tutorial/cyber-security-for-beginners",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      },
+      {
+        "file_id": "1158",
+        "url": "https://artificialanalysis.ai/models",
+        "f1": 0.0,
+        "precision": 0.0,
+        "recall": 0.0
+      }
+    ]
+  }
+}

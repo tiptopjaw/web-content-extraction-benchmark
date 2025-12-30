@@ -1,0 +1,26 @@
+{
+  "url": "https://www.turnerconstruction.com/approach/project-management",
+  "file_id": "2284",
+  "downloaded_at": "2025-12-21T00:27:14.655291",
+  "ground_truth": {
+    "title": "Project Management",
+    "author": null,
+    "publish_date": null,
+    "main_content": "We are uniquely positioned to leverage our extensive experience to deliver comprehensive project management services. Unsurpassed Value and Integrity: Trusted Client Representation. As your trusted partner and advocate, we draw on our network of local and global resources, while applying practical know-how to ensure your project is successfully managed from concept to completion and turnover. We have successfully realized some of the world’s most iconic structures and developments for clients that include public and private developers, companies, and institutions. Contact your local office today. Turner delivers tailored services that enhance your project’s operations. Whether we are sourcing the most capable and competitive contractors and design and engineering consultants, or managing design changes to meet budgetary goals, we are committed to your ultimate success. Project management services include: Project Team Assembly, Master Project Schedule, Project Controls & Documentation, Design Team Selection, Design Management, Constructability Reviews & Value Engineering, Budget Management, Procurement & Packaging Strategy, Risk Management, Construction Logistics Planning, Contractor Prequalification, Safety Management, Quality Management, Contract Drafting & Tender Management, Contract Administration & Cost Management, Site Management, Handover and Closeout, Stakeholder Management. Your Partner. Contact your nearest Turner office for information about project management services.",
+    "with": [
+      "We are uniquely positioned to leverage our extensive experience to deliver comprehensive project management services.",
+      "As your trusted partner and advocate, we draw on our network of local and global resources, while applying practical know-how to ensure your project is successfully managed from concept to completion and turnover.",
+      "Turner delivers tailored services that enhance your project’s operations. Whether we are sourcing the most capable and competitive contractors and design and engineering consultants, or managing design changes to meet budgetary goals, we are committed to your ultimate success.",
+      "Project management services include: Project Team Assembly, Master Project Schedule, Project Controls & Documentation, Design Team Selection, Design Management, Constructability Reviews & Value Engineering, Budget Management, Procurement & Packaging Strategy, Risk Management, Construction Logistics Planning, Contractor Prequalification, Safety Management, Quality Management, Contract Drafting & Tender Management, Contract Administration & Cost Management, Site Management, Handover and Closeout, Stakeholder Management."
+    ],
+    "without": [
+      "Our Company, Our Services, Our Projects, News & Insights, Careers",
+      "Turner is a North America-based, international construction services company and is a leading builder in diverse market segments.",
+      "© 2025 Turner Construction Company All rights reserved",
+      "Turner is an Equal Opportunity Employer - race, color, religion, sex, sexual orientation, gender identity, national origin, disability, status as a protected veteran, or other characteristics protected by applicable law.",
+      "Facebook, Instagram, LinkedIn, Twitter, YouTube"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-21T00:27:14.655297"
+}

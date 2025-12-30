@@ -1,0 +1,27 @@
+{
+  "url": "https://www.uclaextension.edu/design-arts/uxgraphic-design",
+  "file_id": "2115",
+  "downloaded_at": "2025-12-20T22:56:01.909509",
+  "ground_truth": {
+    "title": "UX/Graphic Design",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Design your dream career. We live in a visual society, where images and design have never been more important. If you want a design career you can get excited about, every day, we can help. From virtual reality to user experience, strategy to launch; if it can be designed, our expert instructors will show you how it's done. Choose from courses and certificates in Design Communication Arts and User Experience to get the exact amount of preparation you need for a new career, career advancement, or personal fulfillment. We even offer boot camps for fast, focused training in a specific area. Design creates impact, inspires action, and helps people better understand the world around them. Take your career to the next level—and leave your visual mark on the world. Programs A certificate offers an in-depth study of a professional field. A specialization is a short series of courses to quickly gain knowledge in a focused area of study. Design Communication Arts certificate Ignite your creativity and prepare for a career in graphic design. Learn how to think like a designer while developing the visual literacy needed to thrive in a professional setting. Feel confident in your skills through portfolio reviews, a capstone course, mentorship and internship opportunities. User Experience certificate Get hands-on training in user experience (UX), user interface (UI), product design and AI. Take a deep dive into product strategy and deployment with top industry experts. Courses Advanced Typography DESMA X 479.4B Expand your typographic skills by exploring increasingly complex typographic systems, and solving design problems that demand conceptual and experimental approaches to accommodate multiple layers of information. Advertising Design DESMA X 479.6D Work in an agency-inspired environment to develop concepts and strategies to deliver information, products, and brands that engage the consumer. After Effects: Motion Graphics with AI Integrated Toolset DESMA X 481.99QT Learn animation fundamentals, AI-generated imagery, text-to-video, and conversational AI in this course that explores motion graphics in After Effects. AI Evolution: How Conversational AI & AI-Generated Imagery are Transforming the Digital World DESMA 710.30 Explore the profound impact of Artificial Intelligence on our digital world, with a particular emphasis on conversational AI and AI-generated imagery. Big Ideas Workshop: Crafting your TED-style Talk, your Next Design Pitch, or Stage Presentation DESMA 865.10 Gain presentation skills that will serve you the rest of your career and beyond. See More Courses Invested In Your Success Have questions or need guidance? Visit the Help Center",
+    "with": [
+      "Design your dream career.",
+      "We live in a visual society, where images and design have never been more important.",
+      "Choose from courses and certificates in Design Communication Arts and User Experience to get the exact amount of preparation you need for a new career, career advancement, or personal fulfillment.",
+      "Design creates impact, inspires action, and helps people better understand the world around them.",
+      "Take your career to the next level—and leave your visual mark on the world."
+    ],
+    "without": [
+      "Winter Closure: Dec 24–Jan 4. Enrollment open through Jan 11, 2026. See Holiday Closure and Academic Term Calendar for more.",
+      "Student Login Instructor Login Canvas Login",
+      "World-class learning lives in Los Angeles No matter where on the globe you’re learning from, no matter your background, age, or current occupation, you can change your career,  your life, and your world at UCLA Extension—where blue skies meet  golden opportunities.",
+      "© 2025 The Regents of the University of California",
+      "How to Enroll Contact Us Course Catalog Teaching Opportunities Transcripts Locations About Us Request Information Accessibility Newsroom Policies Digital Magazine"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:56:01.909515"
+}

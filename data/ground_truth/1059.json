@@ -1,0 +1,27 @@
+{
+  "url": "https://www.protiviti.com/us-en/data-and-analytics-services",
+  "file_id": "1059",
+  "downloaded_at": "2025-12-20T20:43:01.371562",
+  "ground_truth": {
+    "title": "Data and Analytics Services",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Data is the lifeblood of the digital era. The data volume created and consumed continues to grow at a rapid pace with no signs of slowing. But how do you protect, access and leverage it for meaningful business insights? Our enterprise data and analytics services help companies not only manage the data, but also break down data silos to identify untapped opportunities and expose hidden risks. The end result — a competitive advantage that enables clients to make intelligent business decisions that drive performance and growth while managing risks. Protiviti partners with organizations to provide data and analytics services that support the creation of modern data foundations, optimize data governance and implement advanced analytics strategies — from AI and machine learning to real-time reporting. Our holistic approach ensures data is trusted, accessible and aligned to business objectives, empowering leaders to act with confidence in an increasingly data-driven world. Whether you're modernizing legacy systems or scaling new analytics capabilities, we help turn data into a strategic asset that drives lasting impact. Protect, access and leverage your data for business growth. Data and Analytics Strategy: A data and analytics strategy is critical to maximizing business value. Our experts work in collaboration with you to deliver a robust strategy that aligns business goals, challenges and aspires to build an insights-driven organization. Data Architecture and Engineering: Insights-driven companies require a secure, flexible and a scalable enterprise data architecture foundation. We work to understand your unique business goals and existing IT investments to deliver and operate modern architecture solutions. Enterprise Data Governance: Data governance is the foundation of a successful data and analytics program. We help you establish a data governance framework that ensures data is trusted, accessible and secure. Advanced Analytics and AI: We help you harness the power of advanced analytics and AI to uncover insights, predict outcomes and automate decisions. Our services range from machine learning and natural language processing to robotic process automation. Data Visualization and Reporting: Transform complex data into clear, actionable insights with interactive dashboards and reports. We help you communicate data-driven stories that drive business decisions. Data Privacy and Protection: In a world of increasing regulation and cyber threats, protecting data is non-negotiable. We help you implement robust data privacy and security measures to safeguard sensitive information. Our solutions range from data strategy and governance through the development, design and implementation of advanced analytics and digitalization.",
+    "with": [
+      "Data is the lifeblood of the digital era.",
+      "Our enterprise data and analytics services help companies not only manage the data, but also break down data silos to identify untapped opportunities and expose hidden risks.",
+      "Protiviti partners with organizations to provide data and analytics services that support the creation of modern data foundations, optimize data governance and implement advanced analytics strategies — from AI and machine learning to real-time reporting.",
+      "Our holistic approach ensures data is trusted, accessible and aligned to business objectives, empowering leaders to act with confidence in an increasingly data-driven world.",
+      "Our solutions range from data strategy and governance through the development, design and implementation of advanced analytics and digitalization."
+    ],
+    "without": [
+      "Skip to main content",
+      "Protiviti Global Buisiness Consulting in English",
+      "Search in Protiviti.com",
+      "Solutions | Industries | Insights | About Us | Careers",
+      "© 2025 Protiviti Inc. All Rights Reserved."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:43:01.371568"
+}

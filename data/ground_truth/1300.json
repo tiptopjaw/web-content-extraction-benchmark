@@ -1,0 +1,27 @@
+{
+  "url": "https://bookscouter.com/publisher/tutorial-books",
+  "file_id": "1300",
+  "downloaded_at": "2025-12-20T20:30:48.091464",
+  "ground_truth": {
+    "title": "Books by Tutorial Books",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Books by Tutorial Books\nSee the best price to sell, buy or rent books by the Tutorial Books publisher. BookScouter helps to compare book prices from 25+ online bookstores and 30+ buyback vendors with a single search.\n\nIntroduction to AutoCAD Plant 3D 2021\nAuthor(s): Books, Tutorial\nISBN-13: 9781386729013\nPublisher: Tutorial Books\nReleased: Oct 15, 2020\nFormat: Paperback, 162 pages\nSEE PRICES\n\nAutoCAD 2019 For Architectural Design\nAuthor(s): Books, Tutorial\nISBN-13: 9781393016724\nPublisher: Tutorial Books\nReleased: Jul 05, 2018\nFormat: Paperback, 246 pages\nSEE PRICES\n\nAutodesk Fusion 360 CAM Overview\nAuthor(s): Books, Tutorial\nISBN-13: 9781393192084\nPublisher: Tutorial Books\nReleased: Dec 11, 2020\nFormat: Paperback, 126 pages\nSEE PRICES\n\nLibreCAD Basics Tutorial\nAuthor(s): Books, Tutorial\nISBN-13: 9781393242116\nPublisher: Tutorial Books\nReleased: Jul 24, 2020\nFormat: Paperback, 136 pages\nSEE PRICES\n\nAutoCAD 2020 A Project-Based Tutorial\nAuthor(s): Books, Tutorial\nISBN-13: 9781393377085\nPublisher: Tutorial Books\nReleased: Jun 06, 2019\nFormat: Paperback, 248 pages\nSEE PRICES\n\nAutoCAD 2021 A Project Based Tutorial\nAuthor(s): Books, Tutorial\nISBN-13: 9781393444268\nPublisher: Tutorial Books\nReleased: Oct 15, 2020\nFormat: Paperback, 242 pages\nSEE PRICES\n\nIntroduction to AutoCAD Plant 3D 2019\nAuthor(s): Books, Tutorial\nISBN-13: 9781393472148\nPublisher: Tutorial Books\nReleased: Dec 03, 2018\nFormat: Paperback, 162 pages\nSEE PRICES\n\nAutodesk Inventor 2021 For Beginners\nAuthor(s): Books, Tutorial\nISBN-13: 9781393575450\nPublisher: Tutorial Books\nReleased: Oct 15, 2020\nFormat: Paperback, 424 pages\nSEE PRICES\n\nTurboCAD 2019 For Beginners\nAuthor(s): Books, Tutorial\nISBN-13: 9781393607991\nPublisher: Tutorial Books\nReleased: Jun 16, 2020\nFormat: Paperback, 170 pages\nSEE PRICES\n\nOpenSCAD Basics Tutorial\nAuthor(s): Books, Tutorial\nISBN-13: 9781393988809\nPublisher: Tutorial Books\nReleased: Aug 15, 2020\nFormat: Paperback, 80 pages\nSEE PRICES",
+    "with": [
+      "Books by Tutorial Books",
+      "See the best price to sell, buy or rent books by the Tutorial Books publisher.",
+      "BookScouter helps to compare book prices from 25+ online bookstores and 30+ buyback vendors with a single search.",
+      "Introduction to AutoCAD Plant 3D 2021\nAuthor(s): Books, Tutorial\nISBN-13: 9781386729013\nPublisher: Tutorial Books\nReleased: Oct 15, 2020\nFormat: Paperback, 162 pages",
+      "AutoCAD 2019 For Architectural Design\nAuthor(s): Books, Tutorial\nISBN-13: 9781393016724\nPublisher: Tutorial Books\nReleased: Jul 05, 2018\nFormat: Paperback, 246 pages"
+    ],
+    "without": [
+      "Sell Buy Rent",
+      "Search for ISBN number... SCOUT",
+      "Pro Tools Log In Sign Up",
+      "Publishers / Tutorial Books",
+      "Copyright © 2007-2025 BOOKSCOUTER LLC"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:30:48.091471"
+}

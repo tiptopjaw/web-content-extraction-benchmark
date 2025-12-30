@@ -1,0 +1,26 @@
+{
+  "url": "https://thedermdigest.com/u-s-news-these-are-the-best-otc-skincare-products-for-2025-2026/",
+  "file_id": "1340",
+  "downloaded_at": "2025-12-20T20:48:29.889402",
+  "ground_truth": {
+    "title": "U.S. News: These Are the Best OTC Skincare Products for 2025-2026",
+    "author": "Denise Mann",
+    "publish_date": "2025-05-14",
+    "main_content": "U.S. News & World Report’s third-annual list of the Best OTC Medicine & Health Products is out, and CeraVe and Neutrogena are among the brands with the most No. 1 products in the 2025-2026 rankings. Kenvue Inc., Prestige Consumer Healthcare Inc., The Procter & Gamble Company, and L’Oreal Usa, Inc. are the brands with the with the most No. 1 products in this year’s rankings. Some popular product category winners evaluated by dermatologists among the 2025-2026 edition, ranked No. 1, include: Face Moisturizers: La Roche-Posay, Face Washes and Cleansers for Sensitive Skin: CeraVe, Lip Balms: Aquaphor, Retinol Creams and Serums: Neutrogena, Stretch Mark Treatments: Mederma, Sunscreen for Face: La Roche-Posay, Vitamins for Hair Growth: Nutrafol, Wrinkle Creams: Neutrogena. In a continued partnership with global market research firm The Harris Poll, U.S. News surveyed 357 pharmacists and 134 dermatologists practicing in the United States in March 2025 regarding 133 categories. To determine the rankings, panelists selected their top three recommended brands within each category assigned to them. The brands that were highly ranked most often were ranked No. 1 for the corresponding product categories. U.S. News awarded the designations of Best OTC Medicine & Health Products only to those brands that satisfy U.S. News’ statistical assessment of performance on the survey. Based on U.S. News’ analysis, some product categories were awarded more than one winner. Visit U.S. News’ Best OTC Medicine & Health Products for the full rankings.",
+    "with": [
+      "U.S. News & World Report’s third-annual list of the Best OTC Medicine & Health Products is out, and CeraVe and Neutrogena are among the brands with the most No. 1 products in the 2025-2026 rankings.",
+      "Some popular product category winners evaluated by dermatologists among the 2025-2026 edition, ranked No. 1, include: Face Moisturizers: La Roche-Posay, Face Washes and Cleansers for Sensitive Skin: CeraVe, Lip Balms: Aquaphor, Retinol Creams and Serums: Neutrogena, Stretch Mark Treatments: Mederma, Sunscreen for Face: La Roche-Posay, Vitamins for Hair Growth: Nutrafol, Wrinkle Creams: Neutrogena.",
+      "In a continued partnership with global market research firm The Harris Poll, U.S. News surveyed 357 pharmacists and 134 dermatologists practicing in the United States in March 2025 regarding 133 categories.",
+      "To determine the rankings, panelists selected their top three recommended brands within each category assigned to them. The brands that were highly ranked most often were ranked No. 1 for the corresponding product categories."
+    ],
+    "without": [
+      "Home | News | Videos | Conference Coverage | Podcasts | Resource Centers",
+      "Subscribe",
+      "Search...",
+      "Previous | Next",
+      "© 2025 All Rights Reserved."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:48:29.889408"
+}

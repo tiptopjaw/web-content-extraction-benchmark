@@ -1,0 +1,27 @@
+{
+  "url": "https://www.healthcare.gov/apply-and-enroll/how-to-apply/",
+  "file_id": "1659",
+  "downloaded_at": "2025-12-20T21:43:04.687010",
+  "ground_truth": {
+    "title": "How to apply & enroll",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Ways to apply for health insurance\n\nTime's running out — Enroll for 2026 now\nFill out an application, compare plans, and enroll in health coverage for 2026. Open Enrollment ends January 15.\n\nLog in or create an account to start your application.\n\nThere are several ways to apply for and enroll in Marketplace health coverage:\n\nUse HealthCare.gov to apply online\nFastest way to apply. We’re the official source for the Marketplace. Log in (or create an account) to get started.\n\nCreate account\n\nEnroll over the phone\nWe can help you fill out an application, review your choices, and enroll. Get free, non-biased personal help, and help is available in other languages.\n\nContact us\n\nFind help in your area\nSearch by your city and state or ZIP code for a list of local people and organizations that can help you apply for coverage. Some offer help in languages other than English and in-person assistance.\n\nFind local help\n\nUse a certified enrollment partner\nApply for and enroll in a Marketplace plan through an approved enrollment partner, like an insurance company or online health insurance seller.\n\nFind a partner\n\nFill out and mail in a paper application\nYou’ll get eligibility results in the mail within 2 weeks. Find instructions (PDF, 151 KB) and get extra pages (PDF, 230 KB) if you have more than 2 people to include in your application.\n\nStart paper application (PDF, 1.26 MB)\n\nView information in other languages.\n\nLearn more about:\n\nWhen you can enroll\nCost savings\nPicking a plan",
+    "with": [
+      "There are several ways to apply for and enroll in Marketplace health coverage:",
+      "Fastest way to apply. We’re the official source for the Marketplace. Log in (or create an account) to get started.",
+      "We can help you fill out an application, review your choices, and enroll. Get free, non-biased personal help, and help is available in other languages.",
+      "Search by your city and state or ZIP code for a list of local people and organizations that can help you apply for coverage.",
+      "You’ll get eligibility results in the mail within 2 weeks."
+    ],
+    "without": [
+      "An official website of the United States government",
+      "Here's how you know",
+      "Official websites use .gov",
+      "HealthCare.gov",
+      "Health Insurance Marketplace® is a registered trademark of the Department of Health & Human Services."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:43:04.687017"
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://charlottecommunityhealth.org/en/what-we-do/dentistry/",
+  "file_id": "1335",
+  "downloaded_at": "2025-12-20T20:46:41.471006",
+  "ground_truth": {
+    "title": "Dentistry",
+    "author": null,
+    "publish_date": null,
+    "main_content": "We provide...\nRegular teeth cleanings for children and adults\nDeep teeth cleanings for children and adults\nTreatment of gum disease\nX-rays\nCavity fillings and restorations\nTooth extractions*\nRoot canals*\n*Some cases may be referred to a specialist\n\nWe do not provide...\nOrthodontia or braces\nComplicated oral surgeries\nDenture Services\n\nWhole-person health care includes dental care. That’s why we added a dental clinic to our West location to offer preventative, restorative, and urgent dental services. Our skilled team aims to make your experience as comfortable as possible.\n\nWe recommend that you visit the dentist twice a year for routine teeth cleanings. Regular cleanings help build good habits, prevent future dental issues, and keep you smiling!\n\nSchool-Based Oral Health\nTooth pain can make it difficult for children to eat, sleep, and learn. Dental issues in childhood can also cause permanent damage. That’s why it’s so important to catch dental decay early, and, even more importantly, teach good brushing habits to stop problems before they happen.\n\nIn the coming months, we’re partnering with Sugar Creek Charter School to help more children access dental care. Our team will provide screenings and education at the school, and refer children who need additional treatment back to our dental clinic. In the future, we hope to expand this program to more schools. We believe that all children in Charlotte deserve the dental screenings, education, and treatment they need to grow up healthy and strong.\n\nLearn more about this program or sign up here!",
+    "with": [
+      "Whole-person health care includes dental care. That’s why we added a dental clinic to our West location to offer preventative, restorative, and urgent dental services.",
+      "We recommend that you visit the dentist twice a year for routine teeth cleanings. Regular cleanings help build good habits, prevent future dental issues, and keep you smiling!",
+      "Tooth pain can make it difficult for children to eat, sleep, and learn. Dental issues in childhood can also cause permanent damage.",
+      "In the coming months, we’re partnering with Sugar Creek Charter School to help more children access dental care. Our team will provide screenings and education at the school, and refer children who need additional treatment back to our dental clinic."
+    ],
+    "without": [
+      "Virtual Visits Now Available",
+      "Charlotte Community Health Clinic is a 501(c)3 non-profit organization.",
+      "Copyright © 2025 Charlotte Community Health Clinic. All rights reserved.",
+      "We are currently upgrading our phone system to better serve you.",
+      "704-316-6561"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:46:41.471011"
+}

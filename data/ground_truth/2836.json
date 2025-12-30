@@ -1,0 +1,27 @@
+{
+  "url": "https://www.popsci.com/science/3d-printed-christmas-tree-ice",
+  "file_id": "2836",
+  "downloaded_at": "2025-12-21T00:08:47.978763",
+  "ground_truth": {
+    "title": "Physicists 3D-printed a Christmas tree made of ice particles",
+    "author": "Andrew Paul",
+    "publish_date": "2025-12-18",
+    "main_content": "To get in the holiday spirit, a group of physicists in the Netherlands recently crafted a tiny, 3D-printed Christmas tree from ice particles. The novel method isn’t only good for decorative projects, however. According to their explainer in Nature, the approach could be useful across a range of industries—both here and far beyond Earth.\n\nTo build the tree, they harnessed the power of evaporative cooling. It’s a straightforward process in physics that appears both in your daily life and inside advanced scientific laboratories. At its most basic level, the evaporative cooling occurs when ambient air temperature converts a liquid to vapor. Examples include the steam rising from a hot cup of coffee and evaporating sweat, as well as the Nobel Prize-winning method of using laser light to cool and trap individual atoms.\n\nResearchers at the University of Amsterdam recently discovered another instance of evaporative cooling while spraying water to eliminate air drag inside a vacuum container. Once the vacuum’s air pressure dropped low enough, water molecules on the liquid’s surface began constantly escaping as vapor. However, as these vapor molecules left, their latent heat cooled the water jet itself. With a jet measuring only 16-micrometers, its high surface-to-volume ratio made it extremely efficient at heat extraction. This allows the liquid to cool quickly in the vacuum, lowering 10s of degrees Fahrenheit in under a second and freezing right after impacting a surface.\n\nAfter watching the physics in action, the team realized they could swap a 3D printer’s nozzle with their water jet to build structures from pure ice. While ice-printing already exists, it requires special, often costly additives.\n\n“Previous ice-printing methods relied on cooled substrates or cryogenic infrastructure (liquid nitrogen, helium),” the physicists wrote. “Our approach integrates the jet into a commercial 3D printer housed inside a transparent vacuum chamber.”\n\nOnce a design was entered into the printer, its motion control guided the water jet exactly as it would a resin extruder.\n\n“This is where the freezing delay becomes critical: the deposited water remains liquid for approximately 0.5 seconds before fully solidifying,” they explained. “During this half-second window, multiple droplets that have formed from the jet converge into a coherent line. Surface tension holds them together. Then, suddenly, crystallization begins and propagates through the entire layer.”\n\nTheir proof-of-concept ice Christmas tree stands at only about 3.14 inches tall, but its implications go beyond a novelty decoration. 3D-printed ice formations could be cast while building resin or polymer structures, then melted to leave behind clean, hollow channels. The same principles could also apply to tissue engineering for surgeries. And thanks to physics, no additives are required.\n\n“Once the print is complete and the vacuum is released, the ice melts cleanly to water—no residue, no post-processing waste,” the team wrote.\n\nThere are also possibilities for use far away from Earth. The surface pressure on Mars is well within their vacuum printer’s operating range. In theory, astronauts could even 3D-print structures from local ice deposits without the need to haul expensive, bulky cryogenic tools from home. It’s not a Christmas miracle—it’s physics.",
+    "with": [
+      "To get in the holiday spirit, a group of physicists in the Netherlands recently crafted a tiny, 3D-printed Christmas tree from ice particles.",
+      "To build the tree, they harnessed the power of evaporative cooling.",
+      "After watching the physics in action, the team realized they could swap a 3D printer’s nozzle with their water jet to build structures from pure ice.",
+      "Their proof-of-concept ice Christmas tree stands at only about 3.14 inches tall, but its implications go beyond a novelty decoration.",
+      "There are also possibilities for use far away from Earth. The surface pressure on Mars is well within their vacuum printer’s operating range."
+    ],
+    "without": [
+      "Get the Popular Science daily newsletter💡 Breakthroughs, discoveries, and DIY tips sent every weekday.",
+      "Terms of Service and Privacy Policy.",
+      "During WWII, a dress-wearing squirrel sold war bonds alongside FDR",
+      "Famous phallic tapestry may have entertained monks during meals",
+      "Like science, tech, and DIY projects? Breakthroughs, discoveries, and DIY tips sent every weekday."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-21T00:08:47.978769"
+}

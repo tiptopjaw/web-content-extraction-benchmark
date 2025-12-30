@@ -1,0 +1,27 @@
+{
+  "url": "https://eliminateem.com/coupon/",
+  "file_id": "2112",
+  "downloaded_at": "2025-12-20T22:54:14.550254",
+  "ground_truth": {
+    "title": "Extermination Specials | Pest Control Deals",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Extermination Specials\nLicensed Technicians Available 24/7\nStop Pests Now!\n(866) 802-7378\nGet A Free Estimate Or Contact Us To Schedule An Inspection\n\nTake $40 Off!\nAny – Pest Control or Rodent Elimination Service\nUse this special coupon to save on the extermination of all insects and the elimination of rodents!\nGuaranteed pest elimination and removal of all pests & wildlife. Call us to request service and mention this coupon!\n*Coupon is redeemable for $40 off your new service with Eliminate ‘Em Pest Control Services. \nNot to be used for reoccurring services. Not to be combined with any other offer. Does not apply to inspections. Valid ONLY at time of service. Not valid on inspections, new services only. Expires December 25th, 2025.\nWE ACCEPT VISA / MC / AMEX / DISCOVER / Cash and Personal Checks\nCALL NOW FOR THIS SPECIAL COUPON! (866) 802-7378\nPrint Coupon\n\nTake $40 Off!\nAny Seasonal Service\nBe proactive, be safe…treat early for ticks and mosquitos!\nNot valid on inspections, new services only – includes ticks and mosquitos. Not to be combined with any other offer. Does not apply to inspections. Valid ONLY at time of service. Expires December 25th, 2025.\nWE ACCEPT VISA / MC / AMEX / DISCOVER / Cash and Personal Checks\nCALL NOW FOR THIS SPECIAL COUPON! (866) 802-7378\nPrint Coupon\n\nTake $100 Off!\nTermite Elimination, Rodent Sealing or Bat Exclusion\nWE CLEAN OUT & SANITIZE BASEMENTS, ATTICS, GARAGES & SEAL ALL OPENINGS!\nUse this special coupon to save!\nWe service home and business owners round the clock to help control pest infestations. Call us to request service and mention this offer.\n*Termite/Rodent/Bat coupon is for entire premises work with Eliminate ‘Em Pest Control Services. \nNot to be used for reoccurring services. Not to be combined with any other offer. Does not apply to inspections. Valid ONLY at time of service. Not valid on inspections, new services only. Expires December 25th, 2025.\nWE ACCEPT VISA / MC / AMEX / DISCOVER / Cash and Personal Checks\nCALL NOW FOR THIS SPECIAL COUPON! (866) 802-7378\nPrint Coupon",
+    "with": [
+      "Take $40 Off! Any – Pest Control or Rodent Elimination Service",
+      "Take $40 Off! Any Seasonal Service",
+      "Take $100 Off! Termite Elimination, Rodent Sealing or Bat Exclusion",
+      "Guaranteed pest elimination and removal of all pests & wildlife.",
+      "We service home and business owners round the clock to help control pest infestations."
+    ],
+    "without": [
+      "Home About Blog Careers Contact",
+      "Pest Control Wildlife Control Prevention & Maintenance",
+      "First Name* Last Name* Email* Phone* Select Pest* Zip Code*",
+      "© Copyright 2025 | Eliminate 'Em Pest Control Services, LLC |",
+      "Call for Immediate Service (866) 802-7378 24/7 Same-Day Pest Control"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:54:14.550259"
+}

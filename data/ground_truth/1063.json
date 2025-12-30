@@ -1,0 +1,27 @@
+{
+  "url": "https://searchengineland.com/library/seo",
+  "file_id": "1063",
+  "downloaded_at": "2025-12-20T20:45:11.372369",
+  "ground_truth": {
+    "title": "SEO",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Search Engine Land is your ultimate source for the latest SEO news, strategies, and content. You’ll find a variety of up-to-date and authoritative resources to help you work smarter and make better decisions.\n\nComprehensive industry coverage\n\nWe provide the latest industry updates, ensuring you’re always informed about changes that could impact your SEO efforts. From major algorithm shifts to minor tweaks, we keep you in the loop.\n\nOur resources cover everything from the basics of SEO to advanced analysis of Google rankings.\n\nData-driven insights\n\nWe offer the latest data and insights to support your SEO initiatives.\n\nOur resources are carefully curated to provide you with the information you need to make informed decisions and improve your search performance.\n\nExpert knowledge\n\nOur content is written by an experienced in-house team, and subject matter experts from leading brands and agencies. This diverse group of contributors ensures you get well-rounded, expert perspectives on SEO topics.\n\nWe explore industry trends like the evolution of high-performance agency models and the future of SEO’s oldest tactics.\n\nStay ahead of the curve\n\nThe search industry is constantly evolving, and we’re here to help you keep pace. Stay ahead of algorithm updates, emerging trends, and best practices in the ever-evolving search industry.\n\nWe even cover cutting-edge topics like using ChatGPT prompts for SEO.\n\nDaily newsletter\n\nDon’t miss out on any important updates or insights. Get Search Engine Land newsletter delivered daily to your inbox. Subscribe for free and stay informed about the latest in the search industry.",
+    "with": [
+      "Search Engine Land is your ultimate source for the latest SEO news, strategies, and content.",
+      "We provide the latest industry updates, ensuring you’re always informed about changes that could impact your SEO efforts.",
+      "Our content is written by an experienced in-house team, and subject matter experts from leading brands and agencies.",
+      "The search industry is constantly evolving, and we’re here to help you keep pace.",
+      "Get Search Engine Land newsletter delivered daily to your inbox. Subscribe for free and stay informed about the latest in the search industry."
+    ],
+    "without": [
+      "Is your organic traffic disappearing?",
+      "Check my site's SEO",
+      "Chat with SearchBot",
+      "Google sues SerpApi over scraping and reselling Search data",
+      "Dig deeper into SEO:"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:45:11.372374"
+}

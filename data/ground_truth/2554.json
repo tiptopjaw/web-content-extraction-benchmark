@@ -1,0 +1,27 @@
+{
+  "url": "https://riscv.org/blog/announcing-the-2025-ai-risc-v-gemini-credit-recipients",
+  "file_id": "2554",
+  "downloaded_at": "2025-12-21T00:22:33.028080",
+  "ground_truth": {
+    "title": "Announcing the 2025 AI & RISC-V Gemini Credit Recipients",
+    "author": "RISC-V International Staff",
+    "publish_date": "2025-12-18",
+    "main_content": "And the winners are…\n\nIn September we sent out a call for proposals, looking for researchers and academics that would leverage AI to speed up the RISC-V software ecosystem. Grant recipients would receive Gemini compute credits up to $50k USD and the opportunity to collaborate with the RISC-V Software Ecosystem Project (RISE) and RISC-V International on their research to drive positive impact for the ecosystem. \n\nAfter careful consideration and review of all applicants by a panel of experts at RISC-V International, we’re excited to announce a series of grant recipients. We strongly believe each will help further the AI ecosystem in a new and compelling way, helping AI and RISC-V grow in one or all of the following areas:\n\nInnovative Research: Create new AI-driven methods to speed up software porting, from new algorithms and fine-tuned models to agentic approaches.\nEssential Tooling: Build generalizable tools and infrastructure like test suite generators, simulators, or formal verification systems that accelerate the RISC-V porting process.\nCritical Progress: Directly port key software, especially for server use cases, to make a significant, immediate impact on the RISC-V ecosystem.\n\nWithout further ado, let’s congratulate our winners:\n\nAli Jannesari (Iowa State University)\nLeonidas Kosmidis (Barcelona Supercomputing Center)\nAbdulrahman Mahmoud (Mohamed bin Zayed University of Artificial Intelligence)\nDaniel Mueller-Gritschneder (TU Wien)\nSophia Shao and Alvin Cheung (University of California, Berkeley)\n\nWe are proud to support these researchers as they help unlock new possibilities for the RISC-V ecosystem and AI. Hurrah!",
+    "with": [
+      "In September we sent out a call for proposals, looking for researchers and academics that would leverage AI to speed up the RISC-V software ecosystem.",
+      "After careful consideration and review of all applicants by a panel of experts at RISC-V International, we’re excited to announce a series of grant recipients.",
+      "We strongly believe each will help further the AI ecosystem in a new and compelling way, helping AI and RISC-V grow in one or all of the following areas:",
+      "Without further ado, let’s congratulate our winners:",
+      "We are proud to support these researchers as they help unlock new possibilities for the RISC-V ecosystem and AI. Hurrah!"
+    ],
+    "without": [
+      "Thank You For Attending RISC-V Summit North America! | Missed the event? Watch Now.",
+      "Blog Home News Viewpoints Featured Work In the Media",
+      "About Specifications Developers Industries Community Membership",
+      "Related Posts A Hands-On Look at RISC-V Verification for Next-Gen Designs Using Synopsys’ Flow",
+      "Copyright © RISC-V International®. All rights reserved. RISC-V, RISC-V International, and the RISC-V logos are trademarks of RISC-V International."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-21T00:22:33.028086"
+}

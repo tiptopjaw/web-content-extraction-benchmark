@@ -1,0 +1,27 @@
+{
+  "url": "https://tuition.fsu.edu/tuition-and-fees",
+  "file_id": "0181",
+  "downloaded_at": "2025-12-20T18:59:07.481020",
+  "ground_truth": {
+    "title": "Tuition and Fees",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Tuition is set annually by the Florida Legislature, with additional local and university fees set by the Florida State University Board of Trustees and the Florida Board of Governors. You can find regulatory references for tuition and fee assessment through:\n\n* Title XLVIII, Chapter 1009, Part II of Florida's Statutes\n* BOG Regulation 7.001 and 7.003 of the State University System of Florida Board of Governors\n* Chapter FSU-2.02421 Tuition and Fee Assessment and Refunds of Florida State University Regulations\n\nThe following rate tables apply to the 2025-2026 academic year and are subject to change based on legislative and internal policy changes.\n\nSome courses are assessed additional costs for online fees, labs, materials and supplies, and general cost recovery. For a full list of these courses and costs, download the Additional Cost File here.\n\nTuition Rates\n\nTraditional Academic Programs\n\nCampus/Program\tCareer\tIn-State Rate per credit hour\tOut-of-State Rate per credit hour\tTuition Breakdown PDF\nMain Campus\tUndergraduate\t$215.55\t$771.66\tDownload PDF\nMain Campus\tGraduate\t$479.32\t$1,173.86\tDownload PDF\nPanama City Campus\tUndergraduate\t$180.49\t$736.60\tDownload PDF\nPanama City Campus\tGraduate\t$444.26\t$1,138.80\tDownload PDF\nSarasota Campus\tUndergraduate\t$182.30\t$738.41\tDownload PDF\nSarasota Campus\tGraduate\t$446.07\t$1,140.61\tDownload PDF\nDistance Learning*\tUndergraduate\t$180.49\t$736.60\tDownload PDF\nDistance Learning*\tGraduate\t$444.26\t$1,138.80\tDownload PDF\nCollege of Law - Main\tJ.D./LL.M./J.M.\t$688.11\t$1,421.89\tDownload PDF\nCollege of Law - Online\tJ.M. / LL.M.\t$653.05\t$1,386.83\tDownload PDF\nRepublic of Panama\tUndergraduate\t$300.00\t$300.00\tFee Breakdown\nRepublic of Panama\tGraduate\t$400.00\t$400.00\tFee Breakdown\n\n*Distance Learning academic programs are offered through academic departments as fully-online programs of study. These rates are unique to programs offered fully online through the Office of Distance Learning, not programs which are generally offered online separate from a distance learning academic program. These rates do not include pricing for courses coded non-fundable or market rate, which are variable based on academic program of study.\n\nFor more information on Distance Learning Academic Programs, please visit the Distance Learning webpage.\n\nTo learn more about graduate admissions and graduate funding opportunities, please visit the Graduate Admissions webpage.\n\nSpecial Medical Programs\n\nCampus/Program\tCohort\tIn-State Rate per semester\tOut-of-State Rate per semester\tTuition Breakdown PDF\nNurse Anesthesia - Panama City\tAll Cohorts\t$9,500.44\t$9,500.44\tDownload PDF\nCampus/Program\tCohort\tIn-State Rate Per Year\tOut-of-State Rate Per Year\tTuition Breakdown PDF\nPhysician Assistant - Main Campus\tAll Cohorts\t$31,463.04\t$43,013.04\tDownload PDF\n\nCollege of Medicine\n\nCampus/Program\tCohort\tIn-State Rate\tOut-of-State Rate\tTuition Breakdown PDF\nMedicine - Main\tYear 1 (>6 Hours)\t$8,536.86 per semester\t$21,205.63 per semester\tDownload PDF\nMedicine - Main\tYear 2 (>6 Hours)\t$12,805.30 per semester\t$31,808.45 per semester\tDownload PDF\nMedicine - Main\tYear 3&4 (>6 Hours)\t$8,536.87 per semester\t$21,205.63 per semester\tDownload PDF\nMedicine - Main\tAll Years (<6 Hours)\t$479.32 per credit hour\t$1,173.86 per credit hour\tDownload PDF\n\nAcademic Program Specific Fees\n\nProgram\tFee Description\tPer Semester Rate\nAll Media Production Majors\tMedia Production Equipment Fee\t$113.00\nAll Medical Students\tMedical Equipment Fee\t$345.00\nAll Music Majors\tMusic Equipment Fee\t$350.00\nAll College of Motion Picture Arts Majors\tFilm Equipment Fee\t$350.00\nUndergraduate Nursing Majors\tNursing Equipment Fee\t$310.00\nDNP Psychiatric/Mental Health Majors\tNursing Equipment Fee\t$25.00\nDNP Family Nurse Practitioner Majors\tNursing Equipment Fee\t$100.00\nDNP Acute Care Majors\tNursing Equipment Fee\t$200.00\nAll Art Majors\tArt Equipment Fee\t$125.00\nAll Art History Majors\tArt History Equipment Fee\t$80.00\nAll Undergraduate Dance Majors\tDance Equipment Fee\t$125.00\nAll Interior Design Majors\tInterior Design Equipment Fee\t$135.00\nAll Theatre Majors\tTheatre Equipment Fee\t$115.00",
+    "with": [
+      "Tuition is set annually by the Florida Legislature, with additional local and university fees set by the Florida State University Board of Trustees and the Florida Board of Governors.",
+      "The following rate tables apply to the 2025-2026 academic year and are subject to change based on legislative and internal policy changes.",
+      "Main Campus Undergraduate: In-State Rate per credit hour $215.55, Out-of-State Rate per credit hour $771.66",
+      "Some courses are assessed additional costs for online fees, labs, materials and supplies, and general cost recovery.",
+      "All Media Production Majors: Media Production Equipment Fee $113.00 per semester"
+    ],
+    "without": [
+      "FSU | Tuition and Estimated Costs",
+      "Skip to main content",
+      "Webmail",
+      "Search FSU",
+      "© Florida State University Tallahassee, FL 32306"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T18:59:07.481025"
+}

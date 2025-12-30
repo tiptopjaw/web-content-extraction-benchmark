@@ -1,0 +1,27 @@
+{
+  "url": "https://discussions.unity.com/t/yoga-layout-engine-version-update/1556536",
+  "file_id": "0023",
+  "downloaded_at": "2025-12-20T20:13:11.103373",
+  "ground_truth": {
+    "title": "Yoga layout engine version update?",
+    "author": null,
+    "publish_date": "2024-11-20",
+    "main_content": "Are there any plans to update to the latest Yoga version as part of Unity 6 (or Unity 7?) It would be great to get support for things like gap or align-content: space-evenly\n\nHi @Sebioff, thank you for the question.\n\nWe have considered it but decided not to go ahead with it. Our Yoga implementation diverged significantly, and updating it might be risky.\n\nThat said, we could still implement gap and other properties on top of it. Are there other CSS properties you would like to see?\n\nThe main ones I can think of right now:\n- z-index\n- being able to set picking mode from USS (and maybe a variant of it that propagates down to children so you don’t have to set it on a dozen elements?)\n- align-content: space-between/space-around\n- row-gap, column-gap\n\nNoted, thanks for sharing.\n\n+infinity to add gap support\n\nShame about the divergence. What sort of divergences? Will this end up locking unity/us out of modern improvements for half a decade or a decade to come…?\n\nOne more: aspect-ratio would be quite useful too\n\nYeah, I have a comment somewhere in our codebase that goes “the code below would be a lot less horrible if aspect-ratio was supported”\n\nProbably yes.\n\nAlso one more vote for gap.",
+    "with": [
+      "Are there any plans to update to the latest Yoga version as part of Unity 6 (or Unity 7?) It would be great to get support for things like gap or align-content: space-evenly",
+      "We have considered it but decided not to go ahead with it. Our Yoga implementation diverged significantly, and updating it might be risky.",
+      "That said, we could still implement gap and other properties on top of it. Are there other CSS properties you would like to see?",
+      "The main ones I can think of right now: z-index, being able to set picking mode from USS, align-content: space-between/space-around, row-gap, column-gap",
+      "One more: aspect-ratio would be quite useful too"
+    ],
+    "without": [
+      "Unity Discussions",
+      "Discourse 2025.12.0-latest - https://github.com/discourse/discourse version f3d4568b5b3ec4c4bce70dea3bb7fc704cebca56",
+      "Reading time 1 mins 🕑",
+      "Likes 11 ❤",
+      "Filter topics tagged with #6-0."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:13:11.103378"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.imdb.com/whats-on-tv/",
+  "file_id": "0721",
+  "downloaded_at": "2025-12-20T18:54:15.164953",
+  "ground_truth": {
+    "title": "What's on TV and Streaming",
+    "author": null,
+    "publish_date": null,
+    "main_content": "WHAT'S ON TV AND STREAMING\n\nWhat's New on Paramount+\nWhat's New on Netflix\nWhat's New on Prime Video\n\nFamily-Friendly Picks on Paramount+\nCheck out our family-friendly picks on Paramount+ over the holidays, from animated adventures to heartwarming classics perfect for all ages!\nSee the full list\n\nStaff Picks: What to Watch in December\nTake a look at the IMDb staff picks for the best movies and series coming in December.\nSee our picks\n\n\"Landman\" Stars Through the Years\nFrom Ocean's Twelve and Resident Evil: Afterlife to Bad Santa, check out the TV and movie roles of Andy Garcia, Ali Larter, Billy Bob Thornton, and more stars of \"Landman.\"\nSee the full gallery\n\nDecember 2025 TV and Streaming Premiere Dates\nCheck out our December calendar to see when \"Spartacus: House of Ashur\" premieres, \"Midsomer Murders\" returns, and more.\nSee the list",
+    "with": [
+      "WHAT'S ON TV AND STREAMING",
+      "Check out our family-friendly picks on Paramount+ over the holidays, from animated adventures to heartwarming classics perfect for all ages!",
+      "Take a look at the IMDb staff picks for the best movies and series coming in December.",
+      "From Ocean's Twelve and Resident Evil: Afterlife to Bad Santa, check out the TV and movie roles of Andy Garcia, Ali Larter, Billy Bob Thornton, and more stars of \"Landman.\"",
+      "Check out our December calendar to see when \"Spartacus: House of Ashur\" premieres, \"Midsomer Murders\" returns, and more."
+    ],
+    "without": [
+      "Menu",
+      "Sign in",
+      "Use app",
+      "Watchlist",
+      "For industry professionals"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T18:54:15.164959"
+}

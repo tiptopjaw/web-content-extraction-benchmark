@@ -1,0 +1,27 @@
+{
+  "url": "https://www.portmansmusic.com/p-40713-private-music-lesson-package.aspx",
+  "file_id": "0560",
+  "downloaded_at": "2025-12-20T18:34:56.392189",
+  "ground_truth": {
+    "title": "Private Music Lesson Package",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Music Lessons - 4 lesson package\n\nWe offer private lessons for the following instruments: Saxophone • Flute • Trumpet • Clarinet • Trombone • Piano • Drums • Guitar • Bass • Violin • Folk and Bluegrass Instruments • Voice • All Reeds and Low Brass • And we are adding more every week!\n\nWe offer private lessons Weekdays, Evenings, and Saturdays!\n\nAfter purchase, Portman's Music Academy staff will contact you to set up your lessons:\n\nTell us your musical goals.\nWe'll help you choose the teacher most appropriate for you.\nWe'll help you choose a convenient time for you and your child.\nSchedule all family members simultaneously, and save on gas money and time!\n\nWe have professional, well-equipped studios and a waiting area for parents and siblings.\n\nRegister today for the best choice of lesson times!\n\nIncludes annual registration fee plus 4 half-hour lessons.",
+    "with": [
+      "We offer private lessons for the following instruments: Saxophone • Flute • Trumpet • Clarinet • Trombone • Piano • Drums • Guitar • Bass • Violin • Folk and Bluegrass Instruments • Voice • All Reeds and Low Brass • And we are adding more every week!",
+      "We offer private lessons Weekdays, Evenings, and Saturdays!",
+      "After purchase, Portman's Music Academy staff will contact you to set up your lessons:",
+      "We have professional, well-equipped studios and a waiting area for parents and siblings.",
+      "Includes annual registration fee plus 4 half-hour lessons."
+    ],
+    "without": [
+      "SAVANNAH AUGUSTA ALBANY BRUNSWICK 800.241.0101",
+      "CART 🛒 BILL PAYMENT",
+      "About Us Shop By Category Rentals Lessons Services Financing Contact Us NAMM Top 100 Award",
+      "Customer Service Contact Us Rental / Lesson Payments Your Account Careers",
+      "© 2025. All Rights Reserved. Powered by AspDotNetStorefront"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T18:34:56.392195"
+}

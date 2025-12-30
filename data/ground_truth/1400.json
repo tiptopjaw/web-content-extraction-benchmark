@@ -1,0 +1,27 @@
+{
+  "url": "https://www.northamerican.com/local/erie-pa-moving-company",
+  "file_id": "1400",
+  "downloaded_at": "2025-12-20T21:26:35.566540",
+  "ground_truth": {
+    "title": "Erie, PA Long Distance Movers | North American Van Lines",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Erie Movers: Long Distance & Local\nFounded in 1905, B. F Fields Moving & Storage started out as a residential moving company with a vision to provide great customer service and moving solutions to those throughout the Erie, PA area. Since then, the company has continued to grow and now offers a wide range of moving services, including industrial moves and storage options. With a 110 years of moving experience, we have the knowledge and essentials you need to complete any move.  Call us today to get started!\n\nServices Provided:\nLong Distance Movers\nInternational Moving Services\nHousehold Moving Services\nNational Moving Services\nCorporate Relocation Services\nResidential Moving\nInterstate Movers\nIntrastate Movers\nFull Service Moving Services\nPacking & Crating\nMoving Supplies\nFree Moving Quotes\nCompetitive Pricing\nLocal Movers\nCross Country Movers\n\nCustomer Reviews\nOverall Rating:  4.85 / 5\nBENES       F.: The overall professionalism of the move. The move was in a timely manner. The crew did their job. The crew's communication was excellent. The crew deserves a raise.\nBELFIGLIO P.: The pricing was good and the overall move was good all the way around. That is why I used this company a second time.\nDAVID V.: The quality of the crew, Scott's ability to answer my questions and follow through with everything. If I had to move again I would like to have to same crew which is Scott and Kurt.\nGERMAN D.: The quality of service, the responsiveness of the owner and the communication of the crew. The same crew that loaded the items unloaded the items.\nDEE P.: The driver was great. There was a little confusion with getting back to us and returning phone calls.",
+    "with": [
+      "Erie Movers: Long Distance & Local",
+      "Founded in 1905, B. F Fields Moving & Storage started out as a residential moving company with a vision to provide great customer service and moving solutions to those throughout the Erie, PA area.",
+      "With a 110 years of moving experience, we have the knowledge and essentials you need to complete any move.",
+      "Overall Rating:  4.85 / 5",
+      "The overall professionalism of the move. The move was in a timely manner. The crew did their job. The crew's communication was excellent. The crew deserves a raise."
+    ],
+    "without": [
+      "About North American",
+      "Start your free quote now!",
+      "Moving From",
+      "Moving To",
+      "North American Van Lines, Inc.  MC 107012  U.S. DOT No.070851"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:26:35.566545"
+}

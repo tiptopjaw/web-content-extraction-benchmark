@@ -1,0 +1,2 @@
+Extractor,Precision,Recall,F1 Score,With Snippets,Without Snippets,Title Match,Errors,Files
+Trafilatura,0.8071301446889434,0.8171531603750852,0.7748230314049651,0.682923405211141,0.07096563653972632,0.0,0,1696

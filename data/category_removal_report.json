@@ -1,0 +1,476 @@
+{
+  "total_original": 1307,
+  "total_removed": 114,
+  "total_kept": 1193,
+  "removed_by_category": {
+    "News Category": 80,
+    "Shopping/Store": 23,
+    "YouTube": 0,
+    "Directory/Listings": 11
+  },
+  "removed_files": {
+    "News Category": [
+      {
+        "file_id": "0643",
+        "url": "https://www.northcentralcollege.edu/news/2022/02/18/computer-engineering-vs-electrical-engineering"
+      },
+      {
+        "file_id": "0254",
+        "url": "https://accme.org/news/accme-launches-new-certificate-programs/"
+      },
+      {
+        "file_id": "0661",
+        "url": "https://www.urmc.rochester.edu/news/story/nutrition-on-a-budget-cheap-and-easy-ways-for-students-to-eat-well"
+      },
+      {
+        "file_id": "0260",
+        "url": "https://www.americanfenceassociation.com/news/new_law_is_a_win_for_education_certification_programs/"
+      },
+      {
+        "file_id": "0105",
+        "url": "https://www.techgearlab.com/topics/kitchen/best-kitchen-appliances"
+      },
+      {
+        "file_id": "0410",
+        "url": "https://www.opm.gov/news/news-releases/one-hr-system-for-the-entire-federal-government-opm-and-omb-announce-major-reform/"
+      },
+      {
+        "file_id": "0679",
+        "url": "https://www.thetaxadviser.com/news/"
+      },
+      {
+        "file_id": "0551",
+        "url": "https://www.crn.com/news/security/2025/10-big-cybersecurity-acquisition-deals-in-2025"
+      },
+      {
+        "file_id": "0681",
+        "url": "https://www.journalofaccountancy.com/topics/tax/"
+      },
+      {
+        "file_id": "0553",
+        "url": "https://www.infosecurity-magazine.com/news/cyber-deals-november-2025/"
+      },
+      {
+        "file_id": "0127",
+        "url": "https://www.usf.edu/education/about-us/news/2020/tips-success-online-classes.aspx"
+      },
+      {
+        "file_id": "0564",
+        "url": "https://www.heart.org/en/news/2025/09/09/yoga-isnt-just-for-flexibility-it-may-also-protect-brain-health"
+      },
+      {
+        "file_id": "0701",
+        "url": "https://www.dudamelfoundation.org/news/10-tips-for-teaching-music-through-distance-learning"
+      },
+      {
+        "file_id": "0301",
+        "url": "https://electricalalliance.org/news/"
+      },
+      {
+        "file_id": "0302",
+        "url": "https://ieci.org/news/"
+      },
+      {
+        "file_id": "0708",
+        "url": "https://penntoday.upenn.edu/news/penn-gse-how-children-learn-foreign-language"
+      },
+      {
+        "file_id": "0574",
+        "url": "https://about.netflix.com/news/netflix-to-acquire-warner-bros"
+      },
+      {
+        "file_id": "0014",
+        "url": "https://www.cbsnews.com/news/raskin-bill-require-white-house-renovation-plans-review/"
+      },
+      {
+        "file_id": "0015",
+        "url": "https://www.hel.news/category/remodel/"
+      },
+      {
+        "file_id": "0587",
+        "url": "https://www.onelifefitness.com/news/demystifying-gym-equipment-comprehensive-guide-for-beginners"
+      },
+      {
+        "file_id": "0461",
+        "url": "https://www.plasticsurgery.org/news/articles/2025s-weight-loss-revolution-new-medications-are-changing-the-scale"
+      },
+      {
+        "file_id": "0469",
+        "url": "https://wholesalesupply.us/news/"
+      },
+      {
+        "file_id": "0472",
+        "url": "https://www.worldplumbing.org/media/"
+      },
+      {
+        "file_id": "0481",
+        "url": "https://www.footlocker.com/category/new-arrivals.html"
+      },
+      {
+        "file_id": "0486",
+        "url": "https://www.bostonbrandmedia.com/news/13-best-shoe-brands-in-the-world"
+      },
+      {
+        "file_id": "0636",
+        "url": "https://www.bisnow.com/national/news/commercial-real-estate/netflix-disney-streaming-wars-real-estate-101273"
+      },
+      {
+        "file_id": "0094",
+        "url": "https://bonmatch.com/blogs/news/2026-photography-trends-key-shifts-from-2025"
+      },
+      {
+        "file_id": "0115",
+        "url": "https://www.outdoorgearlab.com/topics/fitness/best-exercise-equipment"
+      },
+      {
+        "file_id": "0732",
+        "url": "https://saicom.io/news/the-pillars-of-cybersecurity-a-home-construction-analogy/"
+      },
+      {
+        "file_id": "0742",
+        "url": "https://www.storyblocks.com/resources/news/video-production-trends"
+      },
+      {
+        "file_id": "0744",
+        "url": "https://vidico.com/news/types-of-video-production/"
+      },
+      {
+        "file_id": "0896",
+        "url": "https://www.pnj.com/story/news/local/2025/05/26/new-restaurants-liquor-store-beulah-commercial-center-development-escambia-county/83788767007/"
+      },
+      {
+        "file_id": "1439",
+        "url": "https://www.paho.org/en/topics/mental-health"
+      },
+      {
+        "file_id": "1306",
+        "url": "https://yoursourcenews.com/category/appliance/"
+      },
+      {
+        "file_id": "1051",
+        "url": "https://www.openpr.com/news/4320106/coding-bootcamp-market-trends-investment-opportunities"
+      },
+      {
+        "file_id": "1188",
+        "url": "https://www.nationalacademies.org/news/mental-and-behavioral-health-disorders-are-increasing-in-u-s-effective-preventive-interventions-should-be-expanded-report-says"
+      },
+      {
+        "file_id": "0936",
+        "url": "https://www.mydental.org/news/"
+      },
+      {
+        "file_id": "1067",
+        "url": "https://officersclub.mcclellanpark.com/news/event-catering-tips"
+      },
+      {
+        "file_id": "0940",
+        "url": "https://www.theconsultingreport.com/category/latest-news/"
+      },
+      {
+        "file_id": "1071",
+        "url": "https://www.businessoffashion.com/news/"
+      },
+      {
+        "file_id": "0834",
+        "url": "https://www.morningstar.com/news/accesswire/1113686msn/softwash-nation-south-floridas-original-soft-wash-experts-sets-new-standard-for-roof-exterior-cleaning"
+      },
+      {
+        "file_id": "0856",
+        "url": "https://www.foxnews.com/category/health/nutrition-and-fitness/weight-loss"
+      },
+      {
+        "file_id": "0795",
+        "url": "https://www.buddhistdoor.net/news/united-nations-highlights-meditations-role-in-global-health-peace-and-well-being-ahead-of-world-meditation-day/"
+      },
+      {
+        "file_id": "1127",
+        "url": "https://poetsandquantsforexecs.com/news/report-business-education-is-transforming-not-declining-as-mba-enrollment-slips-specialized-programs-surge/"
+      },
+      {
+        "file_id": "1129",
+        "url": "https://mbagradschools.com/category/mba-rankings"
+      },
+      {
+        "file_id": "0858",
+        "url": "https://www.bestcolleges.com/news/rise-and-fall-of-coding-bootcamps/"
+      },
+      {
+        "file_id": "0802",
+        "url": "https://www.audiophileon.com/news/best-headphones-under-50"
+      },
+      {
+        "file_id": "1277",
+        "url": "https://www.insidehighered.com/news/student-success/academic-life/2024/02/27/best-practices-online-course-design-college-students"
+      },
+      {
+        "file_id": "1794",
+        "url": "https://www.breakingtravelnews.com/news/category/car-rental/"
+      },
+      {
+        "file_id": "1796",
+        "url": "https://www.acraorg.com/news/"
+      },
+      {
+        "file_id": "2031",
+        "url": "https://www.globalbroadcastindustry.news/category/video-production-news/"
+      },
+      {
+        "file_id": "1456",
+        "url": "https://cleaningcoalition.org/latest-news/"
+      },
+      {
+        "file_id": "1942",
+        "url": "https://swgfl.org.uk/topics/gaming/the-language-of-gaming-a-dictionary-of-terms/"
+      },
+      {
+        "file_id": "1615",
+        "url": "https://www.gamespot.com/news/"
+      },
+      {
+        "file_id": "1951",
+        "url": "https://www.comidor.com/news/industry-news/machine-learning-platforms/"
+      },
+      {
+        "file_id": "1956",
+        "url": "https://www.pulmonologyadvisor.com/news/oral-orforglipron-maintains-weight-loss-after-switch-from-injectable-therapies/"
+      },
+      {
+        "file_id": "1957",
+        "url": "https://www.clinicaltrialsarena.com/news/eli-lilly-orforglipron-phase-iii-obesity-weight-maintenance-trial/"
+      },
+      {
+        "file_id": "2087",
+        "url": "https://www.sriboga.com/news/all-about-restaurant-service:-definition-types-and-tips"
+      },
+      {
+        "file_id": "2692",
+        "url": "https://www.constructiondive.com/news/project-decisions-personal-productivity-ai-focus/808297"
+      },
+      {
+        "file_id": "2448",
+        "url": "https://www.brainerddispatch.com/news/local/ask-the-master-gardener-think-summer-thoughts-by-planning-for-a-potager-now"
+      },
+      {
+        "file_id": "2452",
+        "url": "https://wegotthiscovered.com/news/mechanic-investigates-transmission-leak-on-nearly-new-chevrolet-then-makes-a-shocking-discovery-after-checking-the-bolts"
+      },
+      {
+        "file_id": "2698",
+        "url": "https://healthcare-digital.com/news/johnson-johnson-transforming-medicine-with-nlp"
+      },
+      {
+        "file_id": "2769",
+        "url": "https://www.soundonsound.com/news/lofi-distort-join-ujams-ufx-series"
+      },
+      {
+        "file_id": "2177",
+        "url": "https://safetyculture.com/topics/electrical-hazards/10-electrical-safety-rules"
+      },
+      {
+        "file_id": "2771",
+        "url": "https://comicbook.com/movies/news/5-underrated-70s-sci-fi-movies-youve-never-seen-but-really-should"
+      },
+      {
+        "file_id": "2184",
+        "url": "https://www.rocknrollrentals.com/category/475/headphones-in-ear-monitors"
+      },
+      {
+        "file_id": "2470",
+        "url": "https://insideevs.com/news/782062/ford-e-transit-no-replacement"
+      },
+      {
+        "file_id": "2779",
+        "url": "https://ethz.ch/en/news-and-events/eth-news/news/2025/12/getting-a-grip-ai-and-robotic.html"
+      },
+      {
+        "file_id": "2331",
+        "url": "https://www.businessbecause.com/news/mba-rankings/5039/15-best-business-schools-for-return-on-investment"
+      },
+      {
+        "file_id": "2798",
+        "url": "https://www.cepro.com/news/iot-connected-product-awards-we-unveil-our-2025-winners/624293"
+      },
+      {
+        "file_id": "2734",
+        "url": "https://www.i-programmer.info/news/105-artificial-intelligence/18534-turn-claude-into-your-personal-research-assistant.html"
+      },
+      {
+        "file_id": "2355",
+        "url": "https://www.prokerala.com/news/articles/a1709651.html"
+      },
+      {
+        "file_id": "2508",
+        "url": "https://jina.ai/news/embeddings-are-ais-red-headed-stepchild"
+      },
+      {
+        "file_id": "2822",
+        "url": "https://foxsanantonio.com/news/local/texas-am-students-unveil-ai-robotic-dog-designed-to-navigate-disaster-zones"
+      },
+      {
+        "file_id": "2826",
+        "url": "https://www.just-auto.com/news/renesas-rolls-out-r%E2%80%91car-soc"
+      },
+      {
+        "file_id": "2251",
+        "url": "https://trendia.co/blogs/news/best-womens-clothing-brands"
+      },
+      {
+        "file_id": "2263",
+        "url": "https://ep.jhu.edu/news/advancements-in-ai-and-machine-learning/"
+      },
+      {
+        "file_id": "2431",
+        "url": "https://www.lockhaven.com/news/garden/2025/12/creating-a-simple-garden-sanctuary-for-year-round-relaxation"
+      },
+      {
+        "file_id": "2435",
+        "url": "https://www.walesonline.co.uk/news/uk-news/lots-robins-blackbirds-your-garden-33061558"
+      },
+      {
+        "file_id": "2437",
+        "url": "https://www.autoblog.com/news/mercedes-benz-is-redesigning-cars-to-be-easier-to-repair"
+      }
+    ],
+    "Shopping/Store": [
+      {
+        "file_id": "0652",
+        "url": "https://www.sap.com/products/artificial-intelligence/what-is-machine-learning.html"
+      },
+      {
+        "file_id": "0100",
+        "url": "https://trovatrip.com/blog/buying-flights-101"
+      },
+      {
+        "file_id": "0534",
+        "url": "https://dealstream.com/tutoring-businesses-for-sale"
+      },
+      {
+        "file_id": "0676",
+        "url": "https://globaledge.msu.edu/blog/post/57427/shopping-on-social-media--platforms-are-transforming-the-way-we-buy-"
+      },
+      {
+        "file_id": "0420",
+        "url": "https://nypost.com/shopping/best-nyc-moving-companies/"
+      },
+      {
+        "file_id": "0282",
+        "url": "https://pro.sony/ue_US/products/professional-cameras"
+      },
+      {
+        "file_id": "0561",
+        "url": "https://www.martymusic.com/store"
+      },
+      {
+        "file_id": "0317",
+        "url": "https://www.codecademy.com/catalog/subject/artificial-intelligence"
+      },
+      {
+        "file_id": "0613",
+        "url": "https://www.johnsonfinancialgroup.com/resources/blogs/buying-or-building-a-home/should-you-move-or-should-you-improve/"
+      },
+      {
+        "file_id": "1192",
+        "url": "https://training.certstaff.com/catalog/294/AI/478/Richmond-Virginia"
+      },
+      {
+        "file_id": "0818",
+        "url": "https://accounting.drakesoftware.com/purchase/buy-drake-accounting/"
+      },
+      {
+        "file_id": "1017",
+        "url": "https://www.lseg.com/en/data-analytics/financial-data/deals-data"
+      },
+      {
+        "file_id": "1014",
+        "url": "https://www.pwc.com/it/it/services/deals/deal-analytics.html"
+      },
+      {
+        "file_id": "1860",
+        "url": "https://www.sharonsalzberg.com/store/p/meditation-package"
+      },
+      {
+        "file_id": "1542",
+        "url": "https://klettwl.com/store/"
+      },
+      {
+        "file_id": "2028",
+        "url": "https://www.cigna.com/individuals-families/shop-plans/health-insurance-plans/"
+      },
+      {
+        "file_id": "1598",
+        "url": "http://g.co/shopping/mike"
+      },
+      {
+        "file_id": "2075",
+        "url": "https://www.businessinsider.com/guides/deals/best-streaming-deals-bundles"
+      },
+      {
+        "file_id": "1987",
+        "url": "https://shop.askthebuilder.com/best-plumbing-practices-for-installing-pvc-drain-vent-piping/"
+      },
+      {
+        "file_id": "2752",
+        "url": "https://www.roboticstomorrow.com/products/model-tr1-tru-trac%7D/3"
+      },
+      {
+        "file_id": "2442",
+        "url": "https://meh.com/deals/2-pack-high-road-40-expand-to-fit-car-and-suv-trunk-organizers"
+      },
+      {
+        "file_id": "2189",
+        "url": "https://www.hollywoodreporter.com/lifestyle/shopping/best-streaming-service-deals-right-now-1236228979/"
+      },
+      {
+        "file_id": "2228",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve/"
+      }
+    ],
+    "YouTube": [],
+    "Directory/Listings": [
+      {
+        "file_id": "0363",
+        "url": "https://www.searshomeservices.com/locations/fl/orlando/sears-appliance-repair/8001-s-orange-blossom-trail"
+      },
+      {
+        "file_id": "0776",
+        "url": "https://advisorlegacy.com/blog/find-a-financial-advisor-practice-for-sale"
+      },
+      {
+        "file_id": "0873",
+        "url": "https://www.webfx.com/locations/atlanta-ga/web-design/"
+      },
+      {
+        "file_id": "1836",
+        "url": "https://www.gentlegiant.com/locations/ca/san-francisco/moving-company.html"
+      },
+      {
+        "file_id": "1920",
+        "url": "https://us.businessesforsale.com/us/search/commercial-cleaning-businesses-for-sale-in-north-carolina"
+      },
+      {
+        "file_id": "2073",
+        "url": "https://www.goarmstrong.com/locations/new-jersey/"
+      },
+      {
+        "file_id": "1748",
+        "url": "https://www.einsteinmoving.com/locations/texas-movers/fort-worth-movers/"
+      },
+      {
+        "file_id": "1652",
+        "url": "https://silentevents.com/locations/silent-disco-events-headphone-rentals-provider-west-palm-beach-florida/"
+      },
+      {
+        "file_id": "2159",
+        "url": "https://www.goodwinrecruiting.com/locations/accounting-recruiters-baltimore-md"
+      },
+      {
+        "file_id": "2242",
+        "url": "https://eventsolutions.com/locations/las-vegas/"
+      },
+      {
+        "file_id": "2283",
+        "url": "https://www.spireconsultinggroup.com/about-spire-construction-consulting/locations/san-francisco/"
+      }
+    ]
+  }
+}

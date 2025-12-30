@@ -1,0 +1,26 @@
+{
+  "url": "https://imp.i384100.net/c/1147758/3134978/14726",
+  "file_id": "1892",
+  "downloaded_at": "2025-12-20T22:05:00.125963",
+  "ground_truth": {
+    "title": "Coursera Plus | Unlimited Access to 10,000+ Online Courses",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Get Coursera Plus for 40% OFF\n\nYou can save 40% on 3 months of unlimited access to thousands of top-rated learning programs with a Coursera Plus monthly subscription. That’s over $70 in savings—and more than a month of free learning! \n\nMake this the start of something new for your career. Build in-demand skills, discover new career paths, and earn multiple job-ready certificates through expert-led instruction from leaders at Google, IBM, and more at a special low price.\n\n$35.40 per month, for 3 consecutive months (regularly $59 per month)\n\nOffer ends March 12, 2026, see our Offer Terms.\n\nLearn from 350+ top universities and companies\n\nInvest in your career\n\nExplore new skills\nAccess 10,000+ courses in AI, business, technology, and more.\n\nEarn valuable credentials\nGet certificates for every course you finish and boost your chances of getting hired after your trial ends at no additional cost.\n\nLearn from the best\nTake your skills to the next level with expert-led courses and Coursera Coach, your AI-powered guide.\n\n77% of learners report career benefits, like landing a new job, earning a promotion, gaining applicable skills, and more.¹",
+    "with": [
+      "You can save 40% on 3 months of unlimited access to thousands of top-rated learning programs with a Coursera Plus monthly subscription.",
+      "Make this the start of something new for your career. Build in-demand skills, discover new career paths, and earn multiple job-ready certificates through expert-led instruction from leaders at Google, IBM, and more at a special low price.",
+      "$35.40 per month, for 3 consecutive months (regularly $59 per month)",
+      "Access 10,000+ courses in AI, business, technology, and more.",
+      "77% of learners report career benefits, like landing a new job, earning a promotion, gaining applicable skills, and more.¹"
+    ],
+    "without": [
+      "Coursera Footer",
+      "Skills\nArtificial Intelligence (AI)\nCybersecurity\nData Analytics\nDigital Marketing\nEnglish Speaking\nGenerative AI (GenAI)\nMicrosoft Excel\nMicrosoft Power BI\nProject Management\nPython",
+      "Certificates & Programs\nGoogle Cybersecurity Certificate\nGoogle Data Analytics Certificate\nGoogle IT Support Certificate\nGoogle Project Management Certificate\nGoogle UX Design Certificate\nIBM Data Analyst Certificate\nIBM Data Science Certificate\nMachine Learning Certificate\nMicrosoft Power BI Data Analyst Certificate\nUI / UX Design Certificate",
+      "Coursera\nAbout\nWhat We Offer\nLeadership\nCareers\nCatalog\nCoursera Plus\nProfessional Certificates\nMasterTrack® Certificates\nDegrees\nFor Enterprise\nFor Government\nFor Campus\nBecome a Partner\nSocial Impact\nFree Courses\nShare your Coursera learning story"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:05:00.125969"
+}

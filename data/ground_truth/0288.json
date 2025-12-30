@@ -1,0 +1,27 @@
+{
+  "url": "https://wellrec.dasa.ncsu.edu/certifications/",
+  "file_id": "0288",
+  "downloaded_at": "2025-12-20T20:07:18.270230",
+  "ground_truth": {
+    "title": "Certification and Training Programs",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Learn to inspire the Pack with one of our certification and training programs. Participants will gain hands-on experience in a supportive and inclusive environment led by our team of fitness and wellness experts.\n\nGroup Fitness Instructor\nOur in-house Fitness Instructor Training Program consists of online self-study modules coupled with format-specific workshops to prepare you for obtaining the certification of your choice.\nStudents | $150\nMembers | $250\nAlready certified? Contact wellrec-fitness@ncsu.edu\n\nPersonal Trainer\nEarn your NASM™ Personal Trainer certification to gain the skills and knowledge to safely and effectively instruct clients as they work to reach fitness goals through one-on-one training.\nStudents | $575\nMembers | $650\nAlready certified? Contact wellrec-fitness@ncsu.edu\n\nHealth Coach\nThrough the ACE® Health Coach certification course, participants will obtain the knowledge and skills to assist people in adopting a long-term state of improved well-being.\nStudents | $500\nMembers | $575\n\nFitWell Award\nWellness and Recreation is committed to creating high-impact opportunities for all students. The FitWell Award is application-based with a holistic review of each student’s experience and interest in the course(s). This award only applies to courses offered by Wellness and Recreation during any given semester and may include the following courses: Fitness Instructor Training Program, ACE Health Coach and NASM Personal Trainer. Please see course-specific information above.\nAward applications are available for submission each academic year and are meant to further the mission and philosophy of Wellness and Recreation. Applications will be reviewed on a rolling basis as space is available.\nYou will be contacted directly via email if you are selected.\n\nPartners\nWellness and Recreation is able to offer these nationally-recognized fitness and health workshops and certification courses through our partnerships with the American Council on Exercise®, the National Academy of Sports Medicine™ and LesMills International™.\n\nContact\nFor questions regarding the Fitness Instructor Training Program, please contact: wellrec-fitness@ncsu.edu\nFor questions regarding the NASM Personal Trainer course, please contact: wellrec-personaltraining@ncsu.edu\nFor questions regarding the ACE Health Coach course, please contact: wellrec-wellnessoutreach@ncsu.edu",
+    "with": [
+      "Learn to inspire the Pack with one of our certification and training programs.",
+      "Our in-house Fitness Instructor Training Program consists of online self-study modules coupled with format-specific workshops to prepare you for obtaining the certification of your choice.",
+      "Earn your NASM™ Personal Trainer certification to gain the skills and knowledge to safely and effectively instruct clients as they work to reach fitness goals through one-on-one training.",
+      "Through the ACE® Health Coach certification course, participants will obtain the knowledge and skills to assist people in adopting a long-term state of improved well-being.",
+      "Wellness and Recreation is committed to creating high-impact opportunities for all students. The FitWell Award is application-based with a holistic review of each student’s experience and interest in the course(s)."
+    ],
+    "without": [
+      "Division of Academic and Student Affairs",
+      "About Facilities Fitness Memberships Outdoor Adventures Sports ThriveWell MyWellRec Portal Give Now",
+      "2611 Cates Avenue Suite 1601 Campus Box 8111 Raleigh, NC 27695",
+      "© 2025 NC State University. All rights reserved.",
+      "Accessibility Compliments & Complaints Facility Hours MyWellRec Portal Website Feedback Wolfpack Wellness"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:07:18.270236"
+}

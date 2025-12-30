@@ -1,0 +1,27 @@
+{
+  "url": "https://roomtodo.com/en/",
+  "file_id": "0112",
+  "downloaded_at": "2025-12-20T20:06:51.206346",
+  "ground_truth": {
+    "title": "Free interior and decorating home design in 3D Online - Roomtodo",
+    "author": null,
+    "publish_date": null,
+    "main_content": "DESIGN YOUR HOME IN 3D\nPlan, design and decorate your home in 3D without any special skills\n\nWhat is Roomtodo?\nSimple and playful Interior design software.\nOnline based software with an intuitive interface and powerful tools. Plan, design and decorate your apartment, house, office, and more. Get professional results without any professional skills. Roomtodo lets you visualize your projects clearly, realistically, and quickly, providing you with powerful tools to design and experiment with your interiors.\n\nWhat you can do in Roomtodo\nCreate stunning renders\nWith just a click of a button, our cutting-edge technology can transform your ideas into stunning, realistic visuals that will take your project to the next level.\n\nPanoramas\nCreate an even greater experience with 360-degree panoramas that take your breath away and give you a fully immersive experience.\n\nORDER FLOOR PLAN\nWe draw for you!\nWe’ll do all tedious work and you could start directly with a design and have fun.\nStarts from: $10 / floor plan\nCreated: within 24 hours\n\nFeedbacks\nAbsolutely love the product\nIt was surprisingly accessible. I came into it having not so much experience in interior design and was able to figure it out easily. Simply love it!\nYana Ringenvald\nVery convenient tool\nWith great visualization, Roomtodo helped me to bring my dream house to life. It has all functions I needed allowing me to add furniture, change colors and visit it in 3D. It’s very convenient tool! I absolutely love it!\nJames Sherman\nBest of all I tried\nI tried several online planning tools to create a plan and put some furniture inside and this I like most of all. You can \"walk\" in your creation in 3D and it's a cool feature.\nSteve Regan\nGood software\nThis software is good – clean, easy to use and provides exceptional visual aid. I really like it!\nMaria Velaskes\nIt’s just amazing\nGreat app for planning everything home-related (kitchen, bathroom, living, etc.). Easy enough and gives a great idea and feel for different designs and color schemes.\nHelen Steinberg\nGreat Product\nOne of my favourite tools when it comes to planning and decorating. It has clean and simple interface and tons of features.\nJenny Lind\n\nLet’s start\nThis is the right time to implement your ideas\n\nProgram features\nDraw a 2D plan of the apartment\nOriginal drawing tools, which are not available in other online programs, allow you to create complex configuration plans, including angled walls and walls of uneven thickness.\nLook what makes Roomtodo better than other floor planning software.\n\nDraw on top of the blueprint\nUpload your apartment plan, draw the outline of the rooms and your apartment is ready for design in 3D.\n\nAdd windows and doors\nA lot of models of windows, doors, as well as arches, columns, and other structural components.\n\nSelect finishing materials\nExperiment with thousands of wall, floor and ceiling finishes. Use wallpaper, laminate, tiles, mosaics, wood and stones – everything you can think of.\n\nArrange furniture and decorative objects\nHundreds of various pieces of furniture and decorative objects with the possibility of customization. Resize, combine finishing materials. A large number of combinations are available and the initial version can be changed beyond recognition.\n\nDifferent view modes in 3D\nSwitch between different view modes\n- Drawings - for building walls\n- 2D and 3D - for placement of furniture and decoration\n- First-person view - for walking around the room and evaluating the result\n\nSave the project and share the result\nSave as many versions of the project as you need - without any restrictions. Send a link to the project to your friends or post it on Facebook.",
+    "with": [
+      "DESIGN YOUR HOME IN 3D\nPlan, design and decorate your home in 3D without any special skills",
+      "What is Roomtodo?\nSimple and playful Interior design software.\nOnline based software with an intuitive interface and powerful tools.",
+      "What you can do in Roomtodo\nCreate stunning renders\nWith just a click of a button, our cutting-edge technology can transform your ideas into stunning, realistic visuals that will take your project to the next level.",
+      "Program features\nDraw a 2D plan of the apartment\nOriginal drawing tools, which are not available in other online programs, allow you to create complex configuration plans, including angled walls and walls of uneven thickness.",
+      "Feedbacks\nAbsolutely love the product\nIt was surprisingly accessible. I came into it having not so much experience in interior design and was able to figure it out easily. Simply love it!\nYana Ringenvald"
+    ],
+    "without": [
+      "Sign in for help",
+      "About Prices For business Blog Contact us",
+      "©2025 Roomtodo. All rights reserved",
+      "Welcome to Roomtodo. This site uses cookies.",
+      "My profile My projects My renders My tours Sign out"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T20:06:51.206352"
+}

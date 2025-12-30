@@ -1,0 +1,27 @@
+{
+  "url": "https://www.merceddoulaservices.com/home",
+  "file_id": "1730",
+  "downloaded_at": "2025-12-20T22:23:28.001588",
+  "ground_truth": {
+    "title": "Home",
+    "author": "Clarissa Hernandez-Hidalgo",
+    "publish_date": null,
+    "main_content": "Merced's Local Full Spectrum Doula Since 2020\n\nMerced Doula Services LLC.\n\nSpecializing in YOUR doula & yoga needs\nMerced County Registered Yoga Teacher and Full Spectrum Doula\n\nAsk about our Payment Options Today!\nMerced County Medi-Cal Contracted Provider\n\nMerced Doula Services is a partnership between Merced Doula Services LLC and Clarissa Hidalgo Yoga. Owned and operated by Clarissa Hernandez-Hidalgo, we strive to provide you with the highest quality of services in both the yoga and doula worlds. Photos by Dawn Kelly Photography and Shawn Overton of Blue Road Photography",
+    "with": [
+      "Merced's Local Full Spectrum Doula Since 2020",
+      "Merced Doula Services LLC.",
+      "Specializing in YOUR doula & yoga needs",
+      "Merced County Registered Yoga Teacher and Full Spectrum Doula",
+      "Merced Doula Services is a partnership between Merced Doula Services LLC and Clarissa Hidalgo Yoga. Owned and operated by Clarissa Hernandez-Hidalgo, we strive to provide you with the highest quality of services in both the yoga and doula worlds."
+    ],
+    "without": [
+      "Skip to main content",
+      "Home About Contact Me Birth Doula Services Private Yoga Sessions Community Yoga Classes FAQs",
+      "This site uses cookies from Google to deliver its services and to analyze traffic.",
+      "Google Sites Report abuse Page details",
+      "Embedded Files"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:23:28.001593"
+}

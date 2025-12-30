@@ -1,0 +1,27 @@
+{
+  "url": "https://visualstudio.microsoft.com/vs/community/",
+  "file_id": "1142",
+  "downloaded_at": "2025-12-20T21:32:41.245910",
+  "ground_truth": {
+    "title": "Visual Studio Community | Download Latest Free Version",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Visual Studio Community\nA fully-featured, extensible, free IDE for creating modern applications for Android, iOS, Windows, as well as web applications and cloud services.\n\nEverything you need all in one place\nFlexibility\nBuild apps for any platform\nProductivity\nDesigners, editors, debuggers, profilers, in one single tool\nEcosystem\nAccess to thousands of extensions\nLanguages\nCode in C#, Visual Basic, F#, C++, HTML, JavaScript, TypeScript, Python, and more\n\nLightweight and modular installation\nCraft your ideal development environment\nA brand-new workload-based installer optimizes your installation to make sure you have everything you need and nothing you don’t.\n\nCloud-connected\nStay up to date & in the know\nCode more efficiently with built-in and downloaded features\nCollaborate seamlessly without leaving the editor\nLearn more about cloud-connected features\n\nPowerful coding tools\nWrite code, navigate, and fix issues\nCode with confidence in your language, find and fix code issues quickly, and refactor with ease.\nLearn more about editing with Visual Studio\n\nAdvanced debugging\nDebug, profile, and diagnose\nDebug to quickly find and fix bugs. Find and diagnose performance issues with the profiling tools.\nLearn more about editing with Visual Studio\n\nVersion Control integration\nCollaborate on code with Git\nUse Git as the default source control experience in Visual Studio right out of the box. From the new Git menu, you can create or clone repositories from GitHub or Azure DevOps. Use the integrated Git tool windows to commit and push changes to your code, manage branches, sync with your remote repositories, and resolve merge conflicts.\nLearn more about Git in Visual Studio\n\nMulti-platform development\nBuild native, cross-platform desktop and mobile apps all in one framework.\nLearn more about .NET MAUI\n\nWeb development\nCreate and deploy modern web applications\nDevelop for the web with ASP.NET, Node.js, Python, and JavaScript. Use with powerful web frameworks such as AngularJS, jQuery, Bootstrap, Django, and Backbone.js.\nLearn more about web development\n\nGame Development\nTurn the latest Visual Studio into a powerful Unity development environment.\nLearn more about Unity\n\nWindows development\nBuild windows apps with WinUI 3 and the Windows App SDK, Windows Forms, Windows Presentation Foundation (WPF), or .NET MAUI.\nLearn more about WinUI 3\n\nExciting benefits\nAccess to free tools and resources\nWhen you sign into Visual Studio Community, you get access to a broad set of free developer tools, selected Xamarin University courses on-demand, Pluralsight training, Azure credits, and more as part of Visual Studio Dev Essentials.\nLearn about Visual Studio Dev Essentials\n\nUsage\nFor more information, see the Visual Studio Community license terms.\nFor individuals\nAny individual developer can use Visual Studio Community to create their own free or paid apps.\nFor organizations\nAn unlimited number of users within an organization can use Visual Studio Community for the following scenarios: in a classroom learning environment, for academic research, or for contributing to open source projects.\nFor all other usage scenarios:\nIn non-enterprise organizations, up to five users can use Visual Studio Community. In enterprise organizations (meaning those with >250 PCs or >$1 Million US Dollars in annual revenue), no use is permitted beyond the open source, academic research, and classroom learning environment scenarios described above.\n\nVisual Studio Community\nFree, fully-featured IDE for students, open-source and individual developers.\nLearn more\nFree download",
+    "with": [
+      "A fully-featured, extensible, free IDE for creating modern applications for Android, iOS, Windows, as well as web applications and cloud services.",
+      "Everything you need all in one place: Flexibility, Productivity, Ecosystem, and Languages.",
+      "A brand-new workload-based installer optimizes your installation to make sure you have everything you need and nothing you don’t.",
+      "Any individual developer can use Visual Studio Community to create their own free or paid apps.",
+      "For more information, see the Visual Studio Community license terms."
+    ],
+    "without": [
+      "Skip to main content",
+      "Microsoft",
+      "Home Developer Tools Downloads Buy Subscriptions Visual Studio Hub More Free Visual Studio",
+      "All Microsoft Microsoft Security Azure Dynamics 365 Microsoft 365 Microsoft Teams Windows 365",
+      "Sign in"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:32:41.245916"
+}

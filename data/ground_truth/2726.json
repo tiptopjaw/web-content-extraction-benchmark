@@ -1,0 +1,26 @@
+{
+  "url": "https://kill-the-newsletter.com/feeds/5ncy5p8slckb9a7cmw4x/entries/ujfb125tjzxi56y9qfpd.html",
+  "file_id": "2726",
+  "downloaded_at": "2025-12-20T23:32:07.257314",
+  "ground_truth": {
+    "title": "How AI Can Cut Your Planning Cycle From Two Weeks to Two Days",
+    "author": "Austin Tedesco",
+    "publish_date": null,
+    "main_content": "Quarterly and annual planning is a painful process that many of you have likely experienced. Every's head of growth Austin Tedesco describes how the intentional use of AI can cut the process from weeks to hours, leaving you and your team with more energy and focus. If you're already seeing your annual planning spilling over into January, this one's for you.—Kate Lee\n\nWas this newsletter forwarded to you? Sign up to get it in your inbox.\n\nThe quarter is closing. You've spent hours compiling data about your team's performance. Your calendar is filling up with planning meetings, but your team is messaging you for help on the final push to meet this year's targets. You feel pulled in a million directions. \n\nI've seen organizations struggle with this tension throughout my career in media and startups. Focus too much on the day-to-day of the business at yearly and quarterly junctures, and you lose the chance to extract lessons from previous work. Focus too much on strategy, and growth stalls. \n\nThis doesn't mean that you need to bypass formal cycle planning, as many startups do. Taking time to align on goals and build a focused roadmap is necessary to drive growth. The problem is how long the process takes—finding yourself in mid-January without your annual goals finalized. \n\nInnovative companies are now solving this conundrum with AI, and it's something we are also rolling out at Every. Bringing AI into the process saves time, leads to more refined goals, and preserves energy for the work that matters. \n\nThe tech stack\n\nIt's helpful to start with a standard framework for the planning itself. In the past, I've used the W Framework. Outlined by Lenny Rachitsky and Nels Gilbreth, previously at Airbnb and Eventbrite, respectively, this approach to quarterly and yearly planning involves four steps:\n\n1. Context: Leadership shares a high-level strategy with teams.\n2. Plans: Teams respond with proposed plans.\n3. Integration: Leadership integrates into a single plan and shares it with teams.\n4. Buy-in: Teams make final tweaks, confirm buy-in, and get rolling.\n\nWhen done well, these documents are immensely valuable. They outline what each department will and won't do, who owns those projects, and a standard for success in a concise and data-driven way. Call it what you will—OKR, KPI, or DRI—but the most important thing is driving focus and alignment on the few things that matter most.\n\nI've worked at companies where each of these steps takes multiple days—sometimes entire weeks. Here are three tools I've used to shrink that down to just a couple of hours...\n\nBecome a paid subscriber to Every to unlock this piece and learn about:\n\n1. The knowledge hub setup that means never starting a planning doc from scratch\n2. Why your next quarterly plan should start with a voice memo\n3. What happens when you let AI probe the gaps in your strategy",
+    "with": [
+      "Quarterly and annual planning is a painful process that many of you have likely experienced.",
+      "Innovative companies are now solving this conundrum with AI, and it's something we are also rolling out at Every.",
+      "Bringing AI into the process saves time, leads to more refined goals, and preserves energy for the work that matters.",
+      "I've worked at companies where each of these steps takes multiple days—sometimes entire weeks. Here are three tools I've used to shrink that down to just a couple of hours..."
+    ],
+    "without": [
+      "Three simple tools will save you hours—plus, the seven-step process for implementation",
+      "Midjourney/Every illustration.",
+      "Was this newsletter forwarded to you? Sign up to get it in your inbox.",
+      "Become a paid subscriber to Every to unlock this piece and learn about:",
+      "You received this email because you signed up for emails from Every. No longer interested in receiving emails from us? Click here to unsubscribe."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T23:32:07.257320"
+}

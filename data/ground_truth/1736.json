@@ -1,0 +1,27 @@
+{
+  "url": "https://employers.org/services/outsourced-human-resources/",
+  "file_id": "1736",
+  "downloaded_at": "2025-12-20T22:26:19.167699",
+  "ground_truth": {
+    "title": "Outsourced Human Resources",
+    "author": null,
+    "publish_date": null,
+    "main_content": "HR Assist Services\nFor CEA members who want dedicated HR assistance from our experienced team of HR Business Partners.\nContact Us to Learn More\nOur HR Business Partners are skilled at meeting employers where they are; helping to find solutions in creative and proactive ways:\nAct as your HR department so business owners can focus on day-to-day operations\nProvide training and onboarding for a new HR employee\nEmployee out for FMLA or Parental Leave? A CEA HR Business Partner can step in without missing a beat, no messy temporary recruiting needed.\nReady to expand your business? Our HR Business Partners can establish an HR department for your growing company.\nDownload the HR Assist flyer to learn more >>\nWhat can HR Assist do for my business?\nCreate California & Federally compliant employment policies\nHandle employee onboarding & terminations\nComprehensive HR check-ups\nCheck local ordinances for laws that supersede state guidelines like minimum wage\nEnsure compliance with remote employees based in California\nWith the backing of CEA’s full HR Support team, we bring over 240 years of experience to your company for a fraction of the cost of a full-time employee. These services are also available in Spanish.\nHR Assist is a member-only benefit. Join now to get the human resource support you need.\nPackage Options\nLet us lighten your load so you can focus on driving your business!\nNot sure what plan will work best for you? Take our short, 6 question assessment to help determine your needs.\nHR Assist Plan 1\n32 Hours of HR assistance per month with a dedicated Human Resources Professional. Perfect to cover an HR team member's leave of absence, or to establish an HR department for a growing company.\nHR Assist Plan 2\n24 Hours of HR Assistance per month Dedicated Human Resources Professional. Keep your dedicated CEA HR Business Partner as a sounding board or to work on a project, once your team has a good handle on things.\nHR Assist Plan 3\n16 hours of HR assistance per month with a dedicated Human Resources Professional. A great way to stay on top of HR trends and ahead of employment law changes.\nWhat People are Saying About HR Assist\n\"From providing stellar HR services to leadership training, CEA has delivered valuable learnings for our team. Their superb HR service support has kept us up to date on CA labor laws and provided us with sound advice on many HR issues.\" - Amy D., Dairy Council\n\"We have been working to get our company 100% compliant and CEA has been invaluable in helping us to find all the issues in our company as well as supplying all the resources we needed to fix those issues. They have been informative, helpful, and easy to work with for all our HR needs.\" - Bill W., Bee International Inc.\nRead more testimonials here\nContact Us",
+    "with": [
+      "HR Assist Services For CEA members who want dedicated HR assistance from our experienced team of HR Business Partners.",
+      "Our HR Business Partners are skilled at meeting employers where they are; helping to find solutions in creative and proactive ways: Act as your HR department so business owners can focus on day-to-day operations.",
+      "With the backing of CEA’s full HR Support team, we bring over 240 years of experience to your company for a fraction of the cost of a full-time employee.",
+      "HR Assist is a member-only benefit. Join now to get the human resource support you need.",
+      "Not sure what plan will work best for you? Take our short, 6 question assessment to help determine your needs."
+    ],
+    "without": [
+      "Skip to content",
+      "Membership | HR Support | Services | HR Forms | Training & Events | About Us | Store | Blog & Newsletter | Contact Us",
+      "© 2025 California Employers Association | Site by GrowthZone",
+      "Get valuable insights delivered right to your inbox! Subscribe",
+      "CEA does not discriminate on the basis of disability and we provide reasonable accommodations to individuals with disabilities."
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T22:26:19.167706"
+}

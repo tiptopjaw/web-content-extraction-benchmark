@@ -1,0 +1,33 @@
+{
+  "url": "https://www.australianfrequentflyer.com.au/community/threads/why-you-should-not-book-flights-with-booking-com-or-gotogate-com.111478/",
+  "file_id": "1674",
+  "downloaded_at": "2025-12-20T21:50:21.842065",
+  "ground_truth": {
+    "title": "Why You Should NOT Book flights with Booking.com or GoToGate.com",
+    "author": "latawiec",
+    "publish_date": "2023-10-28",
+    "main_content": "Why NOT to book flights with the Booking.com or the GoToGate.com\n\nBooking.com has been our number one for booking service for many years. I have booked accommodation multiple times using this site and have never had an issue until this year.\n\n\nIn April 2023 we purchased a cruise starting from London, UK in June 2023. Therefore, as previously in 2019 we booked 2 days accommodation in London via Booking.com to ensure that we will not be late for our cruise.\nSo, I thought I could trust them also for flight booking too. It was late evening and I didn't check any reviews about their flight service.\n\n\nThe purchased cruise was in June and I used Booking.com to purchase Malaysian Airlines flights for me and my wife from Australia to London and also return flights in the late August back to Australia.\n\n\nThe booking process was quite simple; select flights, ensure correct luggage allowance, select seats, and finally get all details with charges on the \"check and pay\" screen before paying. As per good practice I saved the \"check and pay\" screen page (save the screenshot) for my reference.\n\n\nAfter paying by credit card we soon get an email from Booking.com confirming the flight with the airline booking reference number. It seems that all needed was well done.\n\n\nHowever, this is the first time we have encountered problems at the airport at check-in time because the Malaysian Airline personnel refused to process our two suitcases. I was showing them our \"check and pay\" ticket information.\n\n\nThey checked our tickets on their airline system and informed us that they have a different version of tickets on their system, which includes only the \"Light economy luggage allowance\" without the checked bags although our \"check and pay\" screenshot showed two 20kg checked bags allowance.\n\n\nMy wife and I were surprised,  shocked and also devastated at this time.\n\n\nThe airline personnel indicated that I am not the first customer with such a problem.\n\n\nTrying to help us, they advise us to repack our suitcases and pay over 1500 AUD for the excess luggage in order to continue our flight to London.\n\n\nThe Booking.com didn't deliver us the flight tickets as per details of our \"check and pay\" order and also refused to compensate us for the incurred cost of over 1500 AUD paid for the excess luggage because deficiency in their service system (probably software problem because other customers experience similar events).\n\n\nWhen booking flights through Booking.com\nI did not realise they use a subsidiary company called GOTOGATE.\n\n\nThe Booking.com uses their partner services of the GotoGate.com for flights and\nit is one of the worst online flight agencies.\n\n\nNow the Booking.com includes many other partners and therefore service quality is deteriorating.\n\n\nHence, based on my experience and also other customers included in the productreview.com.au I will not recommend their flight services even to my enemies.\n\nPlease be aware that the Booking Holdings owns the following brands: Booking.com, Priceline, Agoda, Rentalcars.com, KAYAK and OpenTable, as well as through a network of subsidiary brands including Rocketmiles, Fareharbor, HotelsCombined, Cheapflights and Momondo and also GoToGate.\n\nAfter repacking we had only 2 suitcases 10 kg each and the excess luggage charge was 1522 AUD for flight from Perth, Australia to London, UK via Kuala Lumpur. So it is quite expensive.\n\nCredit Card provider doesn't support the chargeback as the transaction was legal and consider such event as a civil case on the service deficiency. \nI am not waisting my time on reporting to ACCC but by this post spreading awareness about risk to other potential customers. \n\nAvoid the Booking.com for flights....",
+    "with": [
+      "Booking.com has been our number one for booking service for many years.",
+      "The Booking.com didn't deliver us the flight tickets as per details of our \"check and pay\" order and also refused to compensate us for the incurred cost of over 1500 AUD paid for the excess luggage because deficiency in their service system.",
+      "When booking flights through Booking.com I did not realise they use a subsidiary company called GOTOGATE.",
+      "The Booking.com uses their partner services of the GotoGate.com for flights and it is one of the worst online flight agencies.",
+      "Hence, based on my experience and also other customers included in the productreview.com.au I will not recommend their flight services even to my enemies."
+    ],
+    "without": [
+      "Home",
+      "Forums",
+      "Log in",
+      "Register",
+      "Search",
+      "You are using an out of date browser. It may not display this or other websites correctly.",
+      "New posts",
+      "Search forums",
+      "Calendar",
+      "Members",
+      "Reactions: iflyineconomy, DC3, Ade and 9 others"
+    ]
+  },
+  "model": "deepseek-chat",
+  "annotated_at": "2025-12-20T21:50:21.842070"
+}

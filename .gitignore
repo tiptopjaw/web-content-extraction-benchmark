@@ -1,0 +1,42 @@
+# HTML files (raw - use compressed archive instead)
+data/html_files/
+
+# Keep the compressed archive
+!data/html_files.7z
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# API keys and secrets
+.env
+secrets.json
+*_api_key.txt
+
+# Large result files (keep small summary files)
+results/*_results.json
+results/rust_vs_go*.json
+results/problematic_files.json
+
+# Logs
+logs/
+*.log
+*_log.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
