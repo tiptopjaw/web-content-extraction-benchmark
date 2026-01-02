@@ -1,0 +1,3 @@
+[submodule "rs-trafilatura"]
+	path = rs-trafilatura
+	url = https://github.com/Murrough-Foley/rs-trafilatura-private.git
