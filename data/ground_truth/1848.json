@@ -1,0 +1,61 @@
+{
+  "schema_version": "2.0",
+  "url": "https://blog.turbotax.intuit.com/tax-planning-2/guide-filing-taxes-2024-tax-law-changes-61904/",
+  "file_id": "1848",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "tax",
+        "finance",
+        "guide",
+        "news"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Tax Law Changes and Your Guide to Filing Taxes in 2026 - Intuit TurboTax Blog",
+    "author": "Lisa Greene-Lewis",
+    "publish_date": "2023-10-10",
+    "main_content": "Tax laws change often, but your confidence when filing shouldn't budge. The key is knowledge. As you head into this year's tax return prep, we're here to crystalize and simplify everything you need to know. This guide explains when to file, how to prepare, and what to expect in light of many new and major tax changes. On July 4, 2025, the legislation known as the 'One Big Beautiful Bill' was signed into law and contains significant tax law changes. The 2026 tax season brings changes that impact all taxpayers, due to the One Big Beautiful Bill Act - many of which will reshape how you prepare your own 2025 tax returns. Nearly 90% of taxpayers use the standard deduction. For 2025 and 2026 tax returns, the inflation-adjusted standard deductions are: Single $15,750 for 2025, $16,100 for 2026; Married Filing Jointly $31,500 for 2025, $32,200 for 2026; Head of Household $23,625 for 2025, $24,150 for 2026. The OBBBA introduces major changes including new car loan interest deductions, increased standard deductions, permanency for income bracket rate freezes, revised SALT deduction limits up to $40,000, no tax on qualified tips and overtime for many workers up to $25,000 deduction, $6,000 deduction for seniors, larger child tax credit of $2,200 per child, and partially refundable adoption credits. The deadline to file your 2025 federal tax returns is Wednesday, April 15, 2026.",
+    "with": [
+      "The 2026 tax season brings changes that impact all taxpayers, due to the One Big Beautiful Bill Act.",
+      "Nearly 90% of taxpayers use the standard deduction, according to the most recent IRS data.",
+      "The OBBBA introduces major changes starting in 2025 including new car loan interest deductions.",
+      "For tax years 2025-2028, many workers can deduct up to $25,000 in qualified tips and premium overtime pay.",
+      "People ages 65+ enjoy an expanded benefit: an additional $6,000 per person deduction for their 2025 tax returns."
+    ],
+    "without": [
+      "Switch to TurboTax and file with Do It Yourself for Free in the app by 2/28",
+      "Start for Free | Sign in",
+      "Share this: Facebook X LinkedIn Pinterest Print",
+      "Browse Related Articles",
+      "About | Online Software Products | Desktop Products | Tax Tips | Help and Support"
+    ],
+    "images": {
+      "total_in_content": 13,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://blog.turbotax.intuit.com/wp-content/uploads/2023/10/Your-Guide-to-Filing-Taxes-in-2024-1440-x-600-px.png?w=1440&h=600&crop=1",
+          "filename": "Your-Guide-to-Filing-Taxes-in-2024-1440-x-600-px.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://i0.wp.com/blog.turbotax.intuit.com/wp-content/uploads/2022/07/48fda397defc01628230bf241d7559c5.png?resize=256%2C256&ssl=1",
+          "filename": "48fda397defc01628230bf241d7559c5.png",
+          "alt": "Lisa Greene-Lewis",
+          "caption": "Lisa Greene-Lewis",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:37:32.043244"
+}

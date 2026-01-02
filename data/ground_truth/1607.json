@@ -1,0 +1,81 @@
+{
+  "schema_version": "2.0",
+  "url": "https://mindesigns.com.au/blog/comparison-of-social-media-platforms/",
+  "file_id": "1607",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "marketing",
+        "social-media",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Detailed Comparison of Social Media Platforms",
+    "author": "Santiago Parra",
+    "publish_date": "2023-01-19",
+    "main_content": "A thoughtful comparison of social media platforms lays the groundwork for a successful digital marketing plan. Not every social media platform suits every industry, and making the wrong choice could cost you dearly. Therefore, conducting a comparison is a vital step that will equip you with the knowledge you need to make a sound choice. Understanding the key platforms that dominate your industry can offer valuable insight when selecting the right one for your business. The table below highlights the popularity of top social media platforms across various industries, providing a visual guide to help you identify the platforms that are most likely to drive meaningful engagement and conversions for your specific business needs.",
+    "with": [
+      "A thoughtful comparison of social media platforms lays the groundwork for a successful digital marketing plan.",
+      "Not every social media platform suits every industry, and making the wrong choice could cost you dearly.",
+      "Therefore, conducting a comparison is a vital step that will equip you with the knowledge you need to make a sound choice.",
+      "Understanding the key platforms that dominate your industry can offer valuable insight when selecting the right one for your business.",
+      "The table below highlights the popularity of top social media platforms across various industries."
+    ],
+    "without": [
+      "Services menu navigation",
+      "Subscribe to newsletter form",
+      "Social media share buttons",
+      "Footer links and copyright",
+      "Table of contents widget"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://mindesigns.com.au/wp-content/uploads/2023/01/Frame-102.png",
+          "filename": "Frame-102.png",
+          "alt": "Key statistics of social media platforms",
+          "caption": "Key statistics of social media platforms",
+          "is_hero": true
+        },
+        {
+          "src": "https://mindesigns.com.au/wp-content/uploads/2023/01/Blog-Social-Media-Comparisons-2.png",
+          "filename": "Blog-Social-Media-Comparisons-2.png",
+          "alt": "Blog Social Media Comparisons (",
+          "caption": "Blog Social Media Comparisons",
+          "is_hero": false
+        },
+        {
+          "src": "https://mindesigns.com.au/wp-content/uploads/2023/01/Social-Media-Platforms-by-Gender-1.png",
+          "filename": "Social-Media-Platforms-by-Gender-1.png",
+          "alt": "Social Media Platforms by Gender",
+          "caption": "Social Media Platforms by Gender",
+          "is_hero": false
+        },
+        {
+          "src": "https://mindesigns.com.au/wp-content/uploads/2023/01/Blog-Social-Media-Comparison.png",
+          "filename": "Blog-Social-Media-Comparison.png",
+          "alt": "Social media use world map",
+          "caption": "Social media use world map",
+          "is_hero": false
+        },
+        {
+          "src": "https://mindesigns.com.au/wp-content/uploads/2023/01/Best-Time-to-Post-on-Each-Social-Media-Platform.png",
+          "filename": "Best-Time-to-Post-on-Each-Social-Media-Platform.png",
+          "alt": "Best Time to Post on Each Social Media Platform",
+          "caption": "Best Time to Post on Each Social Media Platform",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:29:34.172594"
+}

@@ -1,27 +1,117 @@
 {
+  "schema_version": "2.0",
   "url": "https://explodingtopics.com/blog/future-of-seo",
   "file_id": "0353",
-  "downloaded_at": "2025-12-20T20:18:19.759471",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "seo",
+        "marketing",
+        "guide"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Future of SEO: 5 Key SEO Trends (2025 & 2026)",
     "author": "Keri Engel",
     "publish_date": "2025-01-07",
-    "main_content": "Nearly every business that uses SEO as a marketing channel is adapting its strategies as AI changes the industry.\n\nThe future of SEO prioritizes the user experience, meaning professionals in the industry must learn how to adapt quickly to stay ahead.\n\nWith that, here is a look at what lies ahead and the most important SEO trends to watch over the next 12-24 months.\n\n1. AI Overviews Will Dominate the SERP\n\nAI Overviews (formerly Search Generative Experience) is Google’s way of integrating generative AI features into the search experience.\n\nFor many search queries, Google provides an AI-generated response, similar to a chatbot like ChatGPT, at the top of the search engine results page.\n\nThese summaries compile information from the SERP, including sources, quick-to-digest information, and comprehensive answers without the need to click through various websites.\n\nInterest in \"AI overview\" is exploding, as searches have increased by 99x over the past five years.\n\nAs AI overviews become more mainstream, how users get their information from search engines will certainly change. This will also cause publishers, SEOs, and content creators to change their strategies to adjust.\n\nThe biggest concern is whether Google’s AI Overviews will lower click-through rates. And if CTR does decline, by how much?\n\nExploding Topics research has found that only 8% of people will always click through from a link in an AI Overview to the original material.\n\nHere's an example of AI Overviews in action:\n\nBacklinko’s analysis estimates the #1 result has an average CTR of 27.6%. Additionally, the top 3 SERP results get 54.4% of all clicks.\n\nWith the rise of AI Overviews, the expectation is that these rates will drop. While they are still new to the search engine results page, early signs show that they can lead to an 18-64% decrease in organic clicks for affected queries.\n\nToday, approximately 15% of SERPs are estimated to feature an AI overview. But this number is expected to grow in the next few years.\n\nTo adjust, businesses and publishers can shift their focus to position their content to be included in AI-generated summaries rather than focusing solely on ranking for blue links.\n\nFor example, when the shift to mobile search started, there was widespread concern that a smaller screen would result in fewer clicks for publishers.\n\nHowever, the opposite was true. While clicks may have declined initially, more people started searching in general, which resulted in more overall clicks.\n\nThe same thing also happened when Google introduced featured snippets. At first, publishers believed they would lose clicks because the searcher could get the answer right on the SERP.\n\nBut once again, the change was minimal, and publishers still thrived. It only became another factor to optimize when creating new content: we are entering the era of generative engine optimization (GEO).\n\nSo, while AI Overviews could significantly change the search experience, AI is likely to become something to include in an SEO strategy rather than something that wipes out your website’s traffic and SEO performance.\n\n2. LLM Adoption Continues to Steal Market Share from Google\n\nMore and more consumers are searching Google alternatives to get faster answers to their questions.\n\nIn fact, October 2024 is the first time Google’s market share has dropped below 90% since March 2015.\n\nAnd this data does not include chatbots and LLMs like Perplexity AI, ChatGPT, and Claude AI.\n\nSearch interest in \"LLMs\" is up by 4,850% over the past five years.\n\nLLMs have become a growing AI trend and offer some advantages over Google, specifically:\n\n1. Conversational Interactions: Users can ask questions in natural language and receive coherent, contextual responses.\n2. Direct Answers: Instead of reading through multiple web pages, users often get immediate, synthesized responses.\n3. Multitasking Capabilities: Many LLMs can perform tasks like writing, coding, and analysis alongside information retrieval.\n\nI spoke with Brian Dean about LLMs and their impact on SEO. He's a big believer in LLMs and even gave me the perfect example that emphasizes how the average search experience could look in the future.\n\nWhen he heard about how tart cherry juice can help with exercise recovery, he turned to an LLM instead of Google to avoid sifting through lengthy articles with thousands of words.\n\nThe LLM gave him a quick, concise answer about the juice's benefits and effectiveness for exercise recovery.\n\nGoogle’s shift towards AI Overviews is one way the platform is hoping to keep up with LLM alternatives to create this conversational search experience. LLM search is expected to dominate traffic share within the next 3 years.\n\nHowever, the ability to ask follow-up questions and get quick results with no ads gives platforms like ChatGPT and Perplexity AI the edge today.\n\n3. Search Engines Will Reward User-Generated Content\n\nBrands are relying on user-generated content to drive organic traffic and increase sales more than ever.\n\nSearch interest in “user-generated content” has increased by 575% in the last 5 years.\n\nUGC is reshaping how brands connect with their audience, and it's become a trend to watch for SEO.\n\nBut what many businesses have yet to unlock is the power of UGC in SEO.\n\nConsidering that UGC is projected to drive 80% of SEO-enhancing content by 2030, it’s an important strategy to consider moving forward.\n\nAnd platforms like Reddit and Quora have been cashing in on Google’s ongoing effort to rank content that best serves user intent, relevance, and authenticity.\n\nFor example, Reddit’s organic search traffic has grown 603.41% since June 2023.\n\nReddit’s organic traffic has grown from 175.9 million to 1.23 billion since June 2023.\n\nSimilarly, Quora traffic has surged by 379.33% since June 2023.\n\nQuora has seen traffic increase from 95.07 million to 455.74 million since June 2023.\n\nThe increase of AI-generated content in the search results is one of the reasons why platforms like these are seeing traffic growth.\n\nPeople want to read content from other people. Reddit, Quora, and other niche forums are where humans can go to get real-life insights and recommendations.\n\nWe expect this trend to continue into 2025 and beyond. And it has been a hot topic in many of our favorite SEO newsletters for the past 12 months.\n\nBut the question is: how can you use UGC for SEO to increase organic traffic?\n\nFirst, you can join these platforms, build a presence, and generate traffic directly from a forum like Reddit or Quora.\n\nWithout a community, there is no place for users of your product or service to have open discussions.\n\nBut Reddit bridges the gap and allows users to discuss what they like, their experiences, problems, etc.\n\nAnd we're starting to see bigger brands add Reddit to their SEO strategy.\n\nFor example, ChatGPT is bringing in hundreds of thousands of visits directly from Reddit from only two posts within their r/ChatGPT subreddit.\n\nThe ChatGPT subreddit generates 480,000 organic monthly visits.\n\n4. AI Tools Will Change Existing SEO Workflows\n\nThe use of AI in SEO has officially become mainstream, as 86% of SEO professionals use AI in their workflows.\n\nSearch interest for \"AI SEO\" has risen by 1,900% over the past 5 years.\n\nNot only are SEOs using AI to work, but they are seeing positive results from it.\n\nAmong companies with 200+ employees, 83% of them have reported improvements in SEO performance since they started using AI.\n\nThose using AI are also saving an average of 12.5 hours per week.\n\nWhile the concerns that AI will replace jobs are real, it’s more likely that AI will only completely replace tasks rather than an entire full-time job, such as generating summaries or transcripts.\n\nInstead, SEOs and marketers will only become more efficient with the help of AI. High performing SEO teams are now relying on AI co-pilots in different areas of their workflows.\n\nFor example, creating a stats-based post for Exploding Topics requires lots of manual research. (Take our recent list of 130 SEO statistics.)\n\nWith the help of an AI co-pilot like Perplexity, aspects of the research phase can be automated.\n\nThis is how Brian Dean and his team quickly compile stats before putting these posts together or generate keyword lists for new posts that traditional keyword tools would not include.\n\nThere's also an opportunity for AI tools to function as SEO advisors. Many tools are capable of analyzing market trends, identifying potential threats, and spotting opportunities.\n\nSemrush Market Overview, for instance, uses AI to provide in-depth insights into market dynamics, competitor strategies, and audience behavior.\n\nSign-up for a free Semrush account today to unlock these market research features.\n\nOn top of that, content creation is another way SEO professionals are using AI to improve efficiency and output. Semrush’s ContentShake AI is a writing tool that creates high-ranking content 12x faster.\n\nBut there are plenty of people wondering if AI-generated content can rank on Google. Semrush analyzed over 20,000 articles and gathered survey responses from 700+ marketers to find out that AI content performs almost identically to human-written content.\n\nAccording to the study, 57% of AI text and 58% of human text ended up ranking in Google's top 10 results. While we're not at a stage where 100% AI content ranks, AI-assisted content can compete on SERPs when paired with human editing.\n\nHere are the top search positions for AI and human content:\n\n57% of AI text and 58% of human text rank in the top 10 of Google.\n\nAI tools will become the norm for every SEO. While AI is transforming SEO workflows, it's not entirely replacing human expertise.\n\nInstead, it's augmenting human capabilities, allowing SEO professionals to work more efficiently and focus on higher-level strategic tasks.\n\n5. Publishers Will Need E-E-A-T & Brand Signals More Than Ever\n\nGoogle is continuously updating its algorithms and ranking factors, but two elements that have remained true for years now are E-E-A-T (Experience, Expertise, Authoritativeness, and Trustworthiness) and brand signals.\n\nSearch volume for \"eeat\" has increased by 344% over the past five years.\n\nAs search engines and AI models become more sophisticated, the importance of E-E-A-T and strong brand signals is only set to increase.\n\nThis is how Google sorts out trusted sources from just anybody. It works as, in a way, their last layer of defense to ensure the SERP is full of quality results for a searcher.\n\nFor example, Brian Dean mentioned that in his experience, Google updates have most impacted sites with high organic traffic but little to no brand traffic.\n\nThis is an indicator that a specific publisher is not a big brand.\n\nThat’s where building a brand off of Google can be helpful for SEO.\n\nHaving a presence on platforms like YouTube, Facebook, and Instagram or hosting live events, such as SEO conferences, as a real brand will help you rank better.\n\nSpecifically, this factors into how brands will score featured snippets and get featured as a source in the AI Overviews at the top of the SERP.\n\nHere’s an example of Google’s AI Overview sources for the query “What is an LLM.”\n\nAs AI Overviews expand, it’s likely that more sources will be included in this panel.\n\nCurrently, Google is rewarding real brands that the internet would miss if they lost their search traffic with source links and AI Overview real estate.\n\nConclusion\n\nThat concludes our list of notable SEO trends.\n\nThe impact of AI and machine learning on how search engines understand and rank content is only expected to grow. At the same time, the role of E-E-A-T signals and user experience remains equally as important.\n\nThe most successful SEO strategies in the coming years will strike a balance between AI and a human touch.",
+    "main_content": "Nearly every business that uses SEO as a marketing channel is adapting its strategies as AI changes the industry. The future of SEO prioritizes the user experience, meaning professionals in the industry must learn how to adapt quickly to stay ahead. With that, here is a look at what lies ahead and the most important SEO trends to watch over the next 12-24 months.\n\n1. AI Overviews Will Dominate the SERP: AI Overviews (formerly Search Generative Experience) is Google's way of integrating generative AI features into the search experience. For many search queries, Google provides an AI-generated response at the top of the search engine results page. These summaries compile information from the SERP, including sources, quick-to-digest information, and comprehensive answers without the need to click through various websites. Interest in \"AI overview\" has exploded, with searches increasing by 99x over the past five years. Exploding Topics research found that only 8% of people will always click through from a link in an AI Overview to the original material. Early signs show that AI Overviews can lead to an 18-64% decrease in organic clicks for affected queries. Today, approximately 15% of SERPs are estimated to feature an AI overview, but this number is expected to grow.\n\n2. LLM Adoption Continues to Steal Market Share from Google: More consumers are searching Google alternatives to get faster answers. October 2024 is the first time Google's market share has dropped below 90% since March 2015. LLMs offer advantages over Google including conversational interactions, direct answers, and multitasking capabilities. Search interest in \"LLMs\" is up by 4,850% over the past five years. LLM search is expected to dominate traffic share within the next 3 years.\n\n3. Search Engines Will Reward User-Generated Content: UGC is reshaping how brands connect with their audience. Search interest in \"user-generated content\" has increased by 575% in the last 5 years. Reddit's organic search traffic has grown 603.41% since June 2023, from 175.9 million to 1.23 billion visits. Similarly, Quora traffic has surged by 379.33%. People want to read content from other people, and platforms like Reddit, Quora, and niche forums are where humans can get real-life insights and recommendations.\n\n4. AI Tools Will Change Existing SEO Workflows: The use of AI in SEO has officially become mainstream, as 86% of SEO professionals use AI in their workflows. Among companies with 200+ employees, 83% have reported improvements in SEO performance since starting to use AI. Those using AI are also saving an average of 12.5 hours per week. According to Semrush research, 57% of AI text and 58% of human text rank in the top 10 of Google. AI content can compete on SERPs when paired with human editing.\n\n5. Publishers Will Need E-E-A-T & Brand Signals More Than Ever: Google is continuously updating its algorithms, but E-E-A-T (Experience, Expertise, Authoritativeness, and Trustworthiness) and brand signals have remained true for years. Search volume for \"eeat\" has increased by 344% over the past five years. As search engines and AI models become more sophisticated, the importance of E-E-A-T and strong brand signals is only set to increase. Google is rewarding real brands with source links and AI Overview real estate.",
     "with": [
       "Nearly every business that uses SEO as a marketing channel is adapting its strategies as AI changes the industry.",
-      "In fact, October 2024 is the first time Google’s market share has dropped below 90% since March 2015.",
-      "Exploding Topics research has found that only 8% of people will always click through from a link in an AI Overview to the original material.",
-      "The use of AI in SEO has officially become mainstream, as 86% of SEO professionals use AI in their workflows.",
-      "According to the study, 57% of AI text and 58% of human text ended up ranking in Google's top 10 results."
+      "AI Overviews (formerly Search Generative Experience) is Google's way of integrating generative AI features into the search experience.",
+      "October 2024 is the first time Google's market share has dropped below 90% since March 2015.",
+      "Search interest in \"user-generated content\" has increased by 575% in the last 5 years.",
+      "As search engines and AI models become more sophisticated, the importance of E-E-A-T and strong brand signals is only set to increase."
     ],
     "without": [
-      "Want to Make Google Love Your Site? 🔎",
-      "Get More Search Traffic",
-      "Stop Guessing, Start Growing 🚀",
-      "Find Thousands of Trending Topics With Our Platform",
-      "Reveal More Competitor Secrets for Free"
-    ]
+      "Subscribe to newsletter",
+      "Copyright 2025",
+      "Privacy Policy",
+      "Footer navigation links",
+      "Cookie notice"
+    ],
+    "images": {
+      "total_in_content": 19,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://cdn.buttercms.com/output=f:webp/RH5p6S3XRrqeQoAwLive",
+          "filename": "RH5p6S3XRrqeQoAwLive",
+          "alt": "Interest in \"AI overview\" is exploding, as searches have increased by 99x over the past five years.",
+          "caption": "Interest in \"AI overview\" is exploding, as searches have increased by 99x over the past five years.",
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn.buttercms.com/output=f:webp/vMFr1SrTSHaCmujSemrQ",
+          "filename": "vMFr1SrTSHaCmujSemrQ",
+          "alt": "Example of an AI overview in a search result",
+          "caption": "Example of an AI overview in a search result",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.buttercms.com/output=f:webp/McW7wNTiR7y68H3dubRO",
+          "filename": "McW7wNTiR7y68H3dubRO",
+          "alt": "Search interest in \"LLMs\" is up by 4,850% over the past five years.",
+          "caption": "Search interest in \"LLMs\" is up by 4,850% over the past five years.",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.buttercms.com/output=f:webp/Tf9gBAQRLCmjbNGh49ZP",
+          "filename": "Tf9gBAQRLCmjbNGh49ZP",
+          "alt": "Search interest in “user-generated content” has increased by 575% in the last 5 years.",
+          "caption": "Search interest in \"user-generated content\" has increased by 575% in the last 5 years.",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.buttercms.com/output=f:webp/FfUgq5G9RlOlUeJa8GMs",
+          "filename": "FfUgq5G9RlOlUeJa8GMs",
+          "alt": "Semrush data showing growth in Reddit traffic",
+          "caption": "Reddit's organic traffic has grown from 175.9 million to 1.23 billion since June 2023.",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.buttercms.com/output=f:webp/Gaqo61OdTV6QTDtZG3F7",
+          "filename": "Gaqo61OdTV6QTDtZG3F7",
+          "alt": "Semrush data showing growth in Quora traffic",
+          "caption": "Quora has seen traffic increase from 95.07 million to 455.74 million since June 2023.",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.buttercms.com/output=f:webp/qL7EYYHVQdqaajfY0yPQ",
+          "filename": "qL7EYYHVQdqaajfY0yPQ",
+          "alt": "Semrush organic research chart showing r/ChatGPT data",
+          "caption": "The ChatGPT subreddit generates 480,000 organic monthly visits.",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.buttercms.com/output=f:webp/euBespGaT0Wa0vg1k4sf",
+          "filename": "euBespGaT0Wa0vg1k4sf",
+          "alt": "Search interest for \"AI SEO\" has risen by 1,900% over the past 5 years.",
+          "caption": "Search interest for \"AI SEO\" has risen by 1,900% over the past 5 years.",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.buttercms.com/output=f:webp/o6P6MZT4QLeCNCaFBpDG",
+          "filename": "o6P6MZT4QLeCNCaFBpDG",
+          "alt": "Semrush Market Explorer",
+          "caption": "Semrush Market Explorer",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.buttercms.com/output=f:webp/v723lknZTOGHJaSAwXoW",
+          "filename": "v723lknZTOGHJaSAwXoW",
+          "alt": "57% of AI text and 58% of human text rank in the top 10 of Google.",
+          "caption": "57% of AI text and 58% of human text rank in the top 10 of Google.",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:18:19.759477"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:02:06.040936"
 }

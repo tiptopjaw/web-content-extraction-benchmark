@@ -1,44 +1,45 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.thepath.com/event-registration/p/fourseasons",
   "file_id": "1379",
-  "downloaded_at": "2025-12-20T21:13:45.492776",
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "meditation",
+        "event-registration",
+        "wellness"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Private Meditation Sessions with The Path: March 23",
+    "title": "Private Meditation Sessions with The Path: March 23 — The Path",
     "author": null,
     "publish_date": null,
-    "main_content": "Private Meditation Sessions with The Path: March 23\n\nPrice: $1,000.00\n\nCertified Meditation Teacher, DC: $500\nLocation Sourcing, NYC: $600\nPrivate Meditation Session in NYC with Founder: $1000\nPrivate Meditation Session in NYC with Founder: $1000\nPrivate Meditation Session in NYC with Founder: $1000\n\nTotal Cost: $4100.\n\nThis is a product listing for private meditation sessions offered by The Path. The page shows a product titled \"Private Meditation Sessions with The Path: March 23\" with a price of $1,000.00. The description lists various service components and their individual costs, culminating in a total cost of $4100 for the complete package. The page includes an add-to-cart interface with quantity selection and a purchase button.",
+    "main_content": "Private Meditation Sessions with The Path: March 23. Price: $1,000.00. Description: Certified Meditation Teacher, DC: $500. Location Sourcing, NYC: $600. Private Meditation Session in NYC with Founder: $1000. Private Meditation Session in NYC with Founder: $1000. Private Meditation Session in NYC with Founder: $1000. Total Cost: $4100.",
     "with": [
       "Private Meditation Sessions with The Path: March 23",
-      "Price: $1,000.00",
       "Certified Meditation Teacher, DC: $500",
-      "Location Sourcing, NYC: $600",
       "Private Meditation Session in NYC with Founder: $1000",
-      "Total Cost: $4100."
+      "Total Cost: $4100",
+      "Purchase button with quantity selector"
     ],
     "without": [
-      "Meditation Teacher Training",
-      "Corporate",
-      "Mindfulness Coaching",
-      "Courses",
-      "Deepening into Awareness",
-      "30 Days to Meditator",
-      "Business of Meditation",
-      "Sangha",
-      "Other",
-      "About The Path & Team",
-      "Certified Meditation Teachers",
-      "Our Teachers",
-      "Our Founder (Dina Kaplan)",
-      "Shop",
-      "Blog",
-      "Press",
-      "Contact Us",
-      "Your path to happiness.",
-      "Enjoy a short (3:26) video with three non-obvious tips to feel happier now!",
-      "Contact Us   Privacy Policy",
-      "Skip to Content"
-    ]
+      "Meditation Teacher Training navigation link",
+      "Corporate navigation link",
+      "Courses dropdown menu",
+      "Instagram social media icon in footer",
+      "Privacy Policy and Contact Us links"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:13:45.492782"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:59:35.889620"
 }

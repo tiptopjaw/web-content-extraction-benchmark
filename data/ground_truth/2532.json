@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.sitanchen.com/cs224/f23/index.html",
+  "file_id": "2532",
+  "_internal": {
+    "page_type": {
+      "primary": "other",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "course",
+        "computer-science",
+        "harvard"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "CS 224 Fall 23",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Algorithms for Data Science CS 224, Fall 2023. This is a graduate-level topics class on algorithmic challenges arising in modern machine learning and data science more broadly. The course will touch upon a number of well-studied problems (generative modeling, deep learning theory, adversarial robustness, inverse problems, inference) and frameworks for algorithm design (gradient descent, spectral methods, tensor/moment methods, message passing, convex programming hierarchies, Markov chains). Time/Location: MW 2:15-3:30, SEC LL2-224. Instructor: Sitan Chen (sitan@seas.harvard.edu). Office hours: SEC 3.325, Thursday 4-5. Teaching Fellows: David Brewster, Depen Morwani, Rosie Zhao with their respective office hours. Course covers topics including Tensors, Sum-of-squares, Robust statistics, Supervised learning, Computational complexity, and Statistical physics with associated lecture notes and resources. Student projects include work on latent variable models, algebraic circuit reconstruction, diffusion models, and mean-field approximation. Assignments include problem sets with PDF downloads and a scribing template.",
+    "with": [
+      "This is a graduate-level topics class on algorithmic challenges arising in modern machine learning and data science more broadly.",
+      "The course will touch upon a number of well-studied problems (generative modeling, deep learning theory, adversarial robustness, inverse problems, inference).",
+      "Time/Location: MW 2:15-3:30, SEC LL2-224.",
+      "Teaching Fellows: David Brewster (dbrewster@g.harvard.edu), Depen Morwani (dmorwani@g.harvard.edu), Rosie Zhao (rosiezhao@g.harvard.edu).",
+      "This lecture covers tensor decomposition, sum-of-squares methods, and associated algorithmic techniques."
+    ],
+    "without": [
+      "Subscribe to newsletter",
+      "Copyright 2025",
+      "Privacy Policy",
+      "Navigation item",
+      "Cookie notice"
+    ],
+    "images": {
+      "total_in_content": 2,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:41:40.981151"
+}

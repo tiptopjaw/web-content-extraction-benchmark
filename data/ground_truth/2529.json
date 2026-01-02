@@ -1,0 +1,84 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.a1k0n.net/2025/12/19/tiny-tapeout-demo.html",
+  "file_id": "2529",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "hardware",
+        "asic",
+        "demoscene",
+        "verilog",
+        "engineering"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Tiny Tapeout 8 demo competition entries",
+    "author": null,
+    "publish_date": "2025-12-19",
+    "main_content": "In addition to the VGA donut, I submitted two other entries in the Tiny Tapeout 8 demo competition, where you submit a \"tiny\" ASIC design (room for about 4000 logic gates) that outputs 2-bit RGB to a VGA port and 1-bit audio to a speaker. One was an old school C64/Amiga intro type of thing, and the other was a nyan cat. The intro features a background starfield, a panning 3D checkerboard with colorful tiles, and wavy scrolling text which casts a shadow onto the checkerboard. I was inspired by lft's first AVR demo Craft to add a little cyan oscilloscope to the side of the screen as well. The size limit was two Tiny Tapeout tiles which is not a lot of space for music, effects, and data; this is a very constrained platform for a demo: you get no ROM, no RAM, and every bit of state is a flipflop which takes up a decent chunk of space compared to combinational logic. Traditional \"sizecoding\" tricks don't apply here -- data compression doesn't help you if you can't actually store a ROM; you have no frame buffer so you must produce a pixel every clock cycle. There's no CPU to exploit, just your own state machine. This design ended up using 3374 total cells and filling just about every square nanometer. The sort of largish bluish areas are mostly flip-flops, each representing a bit of state held by the circuit. Flip-flops are relatively big, so minimizing state bits turned out to be essential. I still ended up with 293 total flip-flops. The checkerboard is created by picking out bits of this (u,v) coordinate frame and XORing them, and the RGB color is some mix of those bits too. It's subtle, but the kick drum in the song adds to the plane y0 offset, so you can see it \"jumping\" on every drum hit. And at certain points in the song, random checkers start lighting up, before finally turning white in diagonal stripes to the beat, panning the plane_y starting coordinate all the way to the top of the screen, turning the entire screen white before fading to black and looping. To do the horizontal scrolling starfield, I essentially needed a constant random number sequence per scanline, so naturally I used an LFSR that resets at the top of the screen and updates at the start of each row; then bits of the LFSR state are used to specify a star's horizontal offset and speed, and then the global frame counter is added on, multiplied by speed. The stars also have longer streaks in time with the snare drum in the music track. Keeping in mind the constraints on how data is stored, and using some simple music composition ideas, I decided to structure each section of music in an \"ABAC\" pattern. This works well with our logic gate based encoding: The reduced logic will have something like \"if measure bit 0 is 0, then use pattern A\". And B is just a variation of A, so it can find a lot of redundancies, etc. There are three total channels: noise w/ exponential envelope (snare), square wave with two-note arpeggio, exponential envelope (chords/melody), and constant-volume triangle w/ exponential pitch decay (kick). I also needed some very simple-to-code instruments; a square wave arpeggio was a given for this genre of intro, but for percussion I wanted to generate a nice sounding kick drum and I settled on using a triangle wave synthesizer with an exponentially decaying frequency. Then I could multiplex a smooth bassline with the kick drum -- after the kick drum decays, just set the frequency back to the current bassline. For a hihat/snare, add some LFSR noise modulated by an exponential envelope for a hihat/snare kind of sound. A couple days before the Tiny Tapeout 8 deadline, Uri threw down a challenge in the Discord to make a Nyan Cat, and so I decided to take everything I learned from making the TT08 intro and the donut and put together a design using ripped art and music. I'd reuse some code, avoid previous mistakes, use 640x480 VGA, audio synced to video (31.5kHz sample rate, 60Hz tempo ticks), simpler dithering. Ideally, get it all to fit in one tile. Well, it turns out the design I came up with worked and all the cells fit into one tile -- but it was too crowded like that for detailed routing to succeed. Without any workable ideas to cut down on space and without much time left before the deadline, I just grew the design to two tiles and added a \"deal with it\" sunglasses easter egg to consume some tiny portion of the expanded space. Tiny Tapeout 8 began manufacturing in September 2024, completing production of wafers and dies. And then, in March 2025, we received the devastating news that Efabless, the company supporting Tiny Tapeout, abruptly shut down, leaving its assets, which included mid-production TT08 and TT09 chips, in an uncertain state. TT08 was just being packaged at the time of the shutdown. This was kind of a crushing blow for me, since I had put so much effort into the designs on this chip in particular. And then, out of nowhere, the #tt08-silicon channel showed up on the Tiny Tapeout discord server in late September 2025. It seems the chips were acquired by a new company and turned over to the Tiny Tapeout team. In fact all of my designs worked perfectly -- except it turns out I had relaxed the timing on the donut a bit in order to reduce gate area (lower clock rates require lower drive strength which means smaller transistors), so the donut needs to run at 45MHz instead of 48MHz to avoid some glitches. Needless to say, I was elated when I saw my designs running perfectly on my desk after a long year of waiting and expecting the worst.",
+    "with": [
+      "The intro features a background starfield, a panning 3D checkerboard with colorful tiles, and wavy scrolling text which casts a shadow onto the checkerboard.",
+      "The size limit was two Tiny Tapeout tiles which is not a lot of space for music, effects, and data; this is a very constrained platform for a demo.",
+      "The design ended up using 3374 total cells and filling just about every square nanometer.",
+      "I also needed some very simple-to-code instruments; a square wave arpeggio was a given for this genre of intro, but for percussion I wanted to generate a nice sounding kick drum.",
+      "Tiny Tapeout 8 began manufacturing in September 2024, completing production of wafers and dies."
+    ],
+    "without": [
+      "a1k0n.net",
+      "Dec 19, 2025",
+      "SVG logo path data",
+      "Share on Twitter",
+      "Related posts navigation"
+    ],
+    "images": {
+      "total_in_content": 9,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "/img/tt08-vgademo-fpgapcb.jpg",
+          "filename": "tt08-vgademo-fpgapcb.jpg",
+          "alt": "prototype VGA FPGA board",
+          "caption": "orangecrab FPGA and my RGB222 VGA connector",
+          "is_hero": false
+        },
+        {
+          "src": "/img/tt08-vgademo-layout.png",
+          "filename": "tt08-vgademo-layout.png",
+          "alt": "ASIC layout",
+          "caption": "The design ended up using 3374 total cells and filling just about every square nanometer",
+          "is_hero": false
+        },
+        {
+          "src": "/img/tt08-nyan-gds.png",
+          "filename": "tt08-nyan-gds.png",
+          "alt": "nyan GDS",
+          "caption": "The layout. The red cells throughout the bottom half are actually just filler capacitors, essentially unused space. Alas, it didn't fit into one tile though.",
+          "is_hero": false
+        },
+        {
+          "src": "/img/tt08-devboard.jpg",
+          "filename": "tt08-devboard.jpg",
+          "alt": "TT08 development board",
+          "caption": "Tiny Tapeout 8 development board, with audio and VGA Pmods attached",
+          "is_hero": true
+        },
+        {
+          "src": "/img/tt08-running.jpg",
+          "filename": "tt08-running.jpg",
+          "alt": "TT08 running nyan cat",
+          "caption": "Tiny Tapeout 8 running Nyan Cat on my LCD and a guitar amp for audio",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:40:45.172692"
+}

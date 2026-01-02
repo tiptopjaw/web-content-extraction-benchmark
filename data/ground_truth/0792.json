@@ -1,26 +1,76 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.indeed.com/hire/c/info/small-business-accounting",
   "file_id": "0792",
-  "downloaded_at": "2025-12-20T21:20:59.153914",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "accounting",
+        "small-business",
+        "guide",
+        "how-to",
+        "finance"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Small Business Accounting: Best Practices",
     "author": "Indeed Employer Content Team",
     "publish_date": null,
-    "main_content": "Accounting is an important part of running a business, allowing new and growing companies to keep track of their finances while being legally compliant with finance and tax law. There are several best practices specific to accounting for small business owners that can help them stay organized.\n\nWhat is accounting?\nAccounting is the process of recording, measuring, interpreting and reporting financial information. Financial transactions, income, expenses, inventory costs, assets, loans and other key financial figures are all a part of accurate accounting. Business owners need to be able to review transactions based on when they occurred and accounting creates a detailed trail of documents that explain their current financial situation.\n\nAccounting allows business owners, managers and investors to have an up-to-date overview of their company’s financial health and resources. Businesses need to meet certain local and federal standards when it comes to reporting their finances, so accurate accounting is essential for the success of a small business. Other benefits of careful accounting include:\n\n- Demonstrating success: When pursuing outside financing from a bank or an investor, having detailed accounting records that demonstrate your financial health can help you secure a loan or partnership.\n- Protecting assets: Knowing where all of your money is coming and going can help you avoid mismanagement, fraud and losses as a result of human error.\n- Creating projections: Business owners can review their accounting records to find ways to cut expenses and project future earnings or expenses.\n- Identifying tax deductions: During tax season, having an accountant analyze your records can help you find potential tax deductions to save your business money.\n\nBookkeeping vs. accounting\nBookkeeping and accounting both work with financial data, but they serve different purposes for business owners. Bookkeeping refers to the process of identifying and keeping track of financial documents, while accounting focuses on using financial information to analyze a company’s financial situation. Accounting uses specialized critical thinking and analytical skills and accountants hold certification or titles (CPA) or a degree in accounting. Bookkeeping doesn’t require advanced education or skills as it focuses more on the ability to be organized and accurate.\n\nAccounting methods\nThere are two methods of accounting: accrual and cash. Accrual accounting involves recording transactions immediately after they are completed. Businesses that use accrual accounting can record invoices and bills on their ledger even before the payment deposits in their account. The Financial Accounting Standards Board requires businesses that have an inventory to use accrual-based accounting because it more accurately reflects the value of their assets at any given moment.\n\nCash accounting is the simplest form of accounting and consists of recording transactions when the actual cash is exchanged. Small businesses that sell services instead of products can use cash accounting. Regardless of which method you use for your business, be consistent about how and when transactions are recorded.\n\nBest accounting practices for small businesses\nConsider these best practices when establishing your accounting policies for your business:\n\nInvest in accounting software\nBookkeeping and accounting involve keeping track of many important numbers, a task you can simplify by using accounting software to automate tasks. Paying employees, processing invoices and other bookkeeping duties can all be completed using software programs that keep track of your data and generate reports. Using software to simplify your accounting can also make it easier to record transactions and account changes.\n\nSeparate personal and business finances\nHaving distinct accounts for your business expenses is important for having a clear understanding of your company’s finances. Tracking your income, expenses and tax payments is easier if you do not have personal purchases mixed in with business expenses. Separating your personal and business accounts also protects you from being personally liable for business issues.\n\nSchedule regular reviews\nRegularly review your accounting records to make sure you are on track to meet budgeting goals. Small businesses should look over accounting reports at least once a month, but you may want to have bi-weekly or weekly reviews to have a better understanding of your expenses and income. During your review, reconcile your books with your bank account, making sure that the balance matches what you have in your records.\n\nCreate backups\nWhether you use a paper ledger or digitized accounting software, keep backup records just in case something happens to your original documents. Print out and file digital reports, and consider scanning paper documents to create a database of backup files on your computer.\n\nRecord everything\nIf you’re not sure if a receipt or invoice is important, it’s better to keep it rather than toss it. You should keep track of all expenses and income for your accountant to analyze, paying special attention to these categories:\n\n- Sales\n- Purchases\n- Payroll costs\n- Accounts receivable\n- Accounts payable\n- Loans payable\n- Inventory\n\nSigns you need an accountant\nHiring an accountant can simplify your small business’s finances, especially if your company is growing. If you feel like you’re spending too much time organizing and tracking your business accounts, it may be worthwhile to outsource accounting to a professional. Accountants can give you advice on the legal structure of a new business, file your company’s taxes each year and consult on your business plan. Your small business should consider hiring an accountant if:\n\n- You plan to expand your payroll\n- You have questions about deductions\n- You don’t understand where your business income is going\n- Accounting and record-keeping is distracting you from other management duties\n\nRelated: 7 Accountant Interview Questions and Answer\n\nFrequently asked questions about accounting for small businesses\nWhat does an accountant do for a small business?\nAccountants can streamline a small business’s financial records and provide strategic guidance for financial decisions. They can also support business owners as they apply for financing from banks.\n\nHow much does an accountant cost for a small business?\nHiring an accountant for a specific service where you can pay them hourly usually costs less than paying a yearly salary to an on-staff accountant, but if you have complex finances it may make financial sense to have an accountant as a permanent part of your business. The cost of an accountant can range from a couple of hundred dollars a month for a few hours of advice to thousands of dollars for a yearly salary.\n\nWhat is the easiest accounting software to use?\nQuickBooks, Freshbooks and Xero are three popular accounting software programs for small businesses due to their simple interface and user-friendly features.",
+    "main_content": "Accounting is an important part of running a business, allowing new and growing companies to keep track of their finances while being legally compliant with finance and tax law. There are several best practices specific to accounting for small business owners that can help them stay organized.\n\nWhat is accounting? Accounting is the process of recording, measuring, interpreting and reporting financial information. Financial transactions, income, expenses, inventory costs, assets, loans and other key financial figures are all a part of accurate accounting. Business owners need to be able to review transactions based on when they occurred and accounting creates a detailed trail of documents that explain their current financial situation. Accounting allows business owners, managers and investors to have an up-to-date overview of their company's financial health and resources. Businesses need to meet certain local and federal standards when it comes to reporting their finances, so accurate accounting is essential for the success of a small business.\n\nBookkeeping and accounting both work with financial data, but they serve different purposes for business owners. Bookkeeping refers to the process of identifying and keeping track of financial documents, while accounting focuses on using financial information to analyze a company's financial situation. Accounting uses specialized critical thinking and analytical skills and accountants hold certification or titles (CPA) or a degree in accounting.\n\nThere are two methods of accounting: accrual and cash. Accrual accounting involves recording transactions immediately after they are completed. Businesses that use accrual accounting can record invoices and bills on their ledger even before the payment deposits in their account. The Financial Accounting Standards Board requires businesses that have an inventory to use accrual-based accounting because it more accurately reflects the value of their assets at any given moment. Cash accounting is the simplest form of accounting and consists of recording transactions when the actual cash is exchanged.\n\nBest accounting practices for small businesses: Invest in accounting software to simplify bookkeeping and automate tasks. Separate personal and business finances for clearer understanding. Schedule regular reviews of accounting records at least monthly. Create backups of all financial documents. Record everything including sales, purchases, payroll costs, accounts receivable, accounts payable, loans payable, and inventory.\n\nSigns you need an accountant: You plan to expand your payroll, have questions about deductions, don't understand where your business income is going, or accounting and record-keeping is distracting you from other management duties.\n\nFrequently asked questions: Accountants can streamline a small business's financial records and provide strategic guidance. The cost of an accountant ranges from a couple hundred dollars a month for advice to thousands for a yearly salary. Popular accounting software programs include QuickBooks, Freshbooks and Xero.",
     "with": [
+      "Accounting is an important part of running a business, allowing new and growing companies to keep track of their finances while being legally compliant with finance and tax law.",
       "Accounting is the process of recording, measuring, interpreting and reporting financial information.",
       "There are two methods of accounting: accrual and cash.",
-      "Consider these best practices when establishing your accounting policies for your business: Invest in accounting software, Separate personal and business finances, Schedule regular reviews, Create backups, Record everything.",
-      "Hiring an accountant can simplify your small business’s finances, especially if your company is growing."
+      "Bookkeeping refers to the process of identifying and keeping track of financial documents, while accounting focuses on using financial information to analyze a company's financial situation.",
+      "Hiring an accountant can simplify your small business's finances, especially if your company is growing."
     ],
     "without": [
-      "Indeed Home - For employers",
-      "Features Resources Pricing Help Sign in Post a job For jobseekers",
-      "Ready to get started? Post a Job",
-      "Our mission Indeed’s Employer Guide helps businesses grow and manage their workforce.",
-      "© 2025 • Indeed"
-    ]
+      "Features Resources Pricing Help Sign in Post a job",
+      "Employer-Guide-Stacked logo",
+      "GDPR compliant badge ISO 9001 certified badge ISO 27001 certified badge",
+      "Indeed provides this information as a courtesy to users of this site",
+      "© 2025 Indeed"
+    ],
+    "images": {
+      "total_in_content": 9,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "//d341ezm4iqaae0.cloudfront.net/assets/2020/04/26163937/Rich-CTA-retail-e1730135277158.jpeg",
+          "filename": "Rich-CTA-retail-e1730135277158.jpeg",
+          "alt": "Two chefs, one wearing a red headband, review a laptop and take notes at a wooden table in a kitchen setting.",
+          "caption": "Two chefs, one wearing a red headband, review a laptop and take notes at a wooden table in a kitchen setting",
+          "is_hero": true
+        },
+        {
+          "src": "//d341ezm4iqaae0.cloudfront.net/assets/2020/03/29170044/hiring-resources31-300x200.webp",
+          "filename": "hiring-resources31-300x200.webp",
+          "alt": null,
+          "caption": "Accounting Skills: Key Duties & Responsibilities of Accountants",
+          "is_hero": false
+        },
+        {
+          "src": "//d341ezm4iqaae0.cloudfront.net/assets/2020/03/30193756/hiring-resources84-300x200.webp",
+          "filename": "hiring-resources84-300x200.webp",
+          "alt": null,
+          "caption": "Changing Your Accounting Method? A Guide to IRS Form 3115",
+          "is_hero": false
+        },
+        {
+          "src": "//d341ezm4iqaae0.cloudfront.net/assets/2020/08/27215641/scott-graham-5fNmWej4tAA-unsplash-2-300x200.webp",
+          "filename": "scott-graham-5fNmWej4tAA-unsplash-2-300x200.webp",
+          "alt": null,
+          "caption": "What Is the Accounting Equation? Equity, Assets and Liabilities",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:20:59.153919"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:23:10.720194"
 }

@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.greenhousestudio.co/home-garden/how-to-design-room",
+  "file_id": "0110",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "interior-design",
+        "how-to",
+        "home-decor",
+        "DIY"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "How To Design A Room Like An Interior Designer [Step By Step]",
+    "author": "Tina Flint Huffman",
+    "publish_date": "2020-04-12",
+    "main_content": "Does overwhelm and paralysis set in at the thought of how to even start decorating your space? A living room, bedroom, let alone your entire home? I feel you and I'm here to help with a methodical, step by step process that will break down how to design your room into doable parts. Even though it's my design process, the whole point is to make it adaptable so it serves YOU, your home, and your loved ones. If you follow these guidelines, you will create a room that is comfortable, cohesive, functional for you and yours, and reflects your own personal style. It also doesn't need to cost a fortune. The 9 steps are: 1. Make A Budget - Decide up front what you can spend on your project. Prioritize expenditures into 'must haves,' 'nice to haves,' and 'not a priority.' Always add in an additional 10% for cost overruns. Get 3 bids for any work that needs to be done. 2. Create A Mood board - Before spending any money, create a mood board to see what common threads emerge. A mood board can help you avoid ending up with a piecemeal look and making costly mistakes. Questions to ponder: What's the purpose of the space? What do you want the overall feel to be? What styles, themes, colors are you drawn to? My favorite quick way is to make a Pinterest board. 3. Choose Your 'Springboard' Object - Select an object, artwork or decor piece that helps organize and propel the direction of your design project. A painting or rug might inform your color scheme. It could set the tone, style, or mood for your entire room. 4. Make A Room Layout Plan - You MUST take measurements and make a simple drawing of your space and layout your proposed furniture before purchasing. You can use graph paper or free floor planner apps like Roomstyler. 5. Choose Foundation Furniture - Select your major furniture pieces first as they typically represent the largest investment. 6. Pick Paint Colors - Choose colors after selecting furniture so you can coordinate with what you've chosen. 7. Scale Up - Add accessories and secondary pieces that complement your foundation pieces. 8. Don't Over-Source Any Single Source - Avoid buying everything from one store to create a more collected, curated look. 9. Inject Your Own Style And Individuality - Make the space uniquely yours with personal touches.",
+    "with": [
+      "Even though it's my design process, the whole point is to make it adaptable so it serves YOU, your home, and your loved ones.",
+      "A budget is a must if you want to keep your remodel/redesign under control. Decide up front what you can spend on your project.",
+      "Before you spend any of your hard-earned money, the first step in the design process is to create a mood board, and then take a step back to see what the common threads are.",
+      "A 'springboard object' is a term I came up with that evolved from my own design process to help organize and propel the direction of your design project.",
+      "You MUST take measurements and make a simple drawing of your space and layout your proposed furniture before purchasing."
+    ],
+    "without": [
+      "Subscribe to the newsletter popup",
+      "Copyright footer and privacy policy links",
+      "Social media icon buttons in header",
+      "Cart icon and shopping cart functionality",
+      "Join button and call-to-action forms"
+    ],
+    "images": {
+      "total_in_content": 30,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5dd86eda07db674ed859c949/1586050234935-IK2Q72L6ZG7UCWZAMEI8/Fletcher-Rhodes-how-design-decorate-room.jpg",
+          "filename": "Fletcher-Rhodes-how-design-decorate-room.jpg",
+          "alt": null,
+          "caption": "Interior design by Fletcher Rhodes, Sonoma CA. Photo: Thomas Kuoh",
+          "is_hero": true
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5dd86eda07db674ed859c949/1586051201314-HB592KT6IBQ4OLVDQ7AZ/Milivoj-Kuhar-Unsplash-how-design-room-budget-remodel.jpg",
+          "filename": "Milivoj-Kuhar-Unsplash-how-design-room-budget-remodel.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5dd86eda07db674ed859c949/1614444544389-PR9I8TCNGKV6O7S6E5BH/how-design-room-budget-remodel-project.jpg",
+          "filename": "how-design-room-budget-remodel-project.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5dd86eda07db674ed859c949/1586052700492-M6FRD5SRGOOA4DYCI5C6/deVol-kitchen-how-design-room-guide.jpg",
+          "filename": "deVol-kitchen-how-design-room-guide.jpg",
+          "alt": null,
+          "caption": "Kitchen design and source: deVOL Kitchens",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5dd86eda07db674ed859c949/1586052954419-GK2PM6EE57QJQ31VJ2UG/mood-board-how-to-design-room.jpg",
+          "filename": "mood-board-how-to-design-room.jpg",
+          "alt": null,
+          "caption": "Mood-project board image by The Home Index, Napa CA.",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5dd86eda07db674ed859c949/1586053240399-QPCI3OF4BL2BHE5LBTAO/greenhouse-studio-home-office-pinterest-mood-board.jpg",
+          "filename": "greenhouse-studio-home-office-pinterest-mood-board.jpg",
+          "alt": null,
+          "caption": "A collection of imagery inspiration as well as specific objects, furniture, and paint for my home office remodel project.",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5dd86eda07db674ed859c949/1584763989614-Q8RGYDZCXK3VL7V6XE51/greenhouse-studio-home-office-mood-board.jpg",
+          "filename": "greenhouse-studio-home-office-mood-board.jpg",
+          "alt": null,
+          "caption": "Greenhouse Studio home office mood board. Photo credits - upper left inspirationsdeco.blogspot.com, bottom left @melissamlo via Instagram, bottom right Margo Hupert - margohupert.pl.",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5dd86eda07db674ed859c949/1586057524995-4VZJQKQTGAVSYCFZ8ZEL/deVol-kitchen-how-design-room-springboard-object-painting.jpg",
+          "filename": "deVol-kitchen-how-design-room-springboard-object-painting.jpg",
+          "alt": null,
+          "caption": "The quirky painting as the springboard object in this beautifully moody deVOL Kitchen design.",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5dd86eda07db674ed859c949/1586054748386-E4FQ1OZ7657MR04G1B8O/margo-hupert-springboard-how-design-room.jpg",
+          "filename": "margo-hupert-springboard-how-design-room.jpg",
+          "alt": null,
+          "caption": "My 'springboard' image for the Greenhouse Studio home office redesign. Source & Photography: Margot Hupert",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5dd86eda07db674ed859c949/1596574783665-OW0P1A2D7DCG511X1VQS/ideas-design-room-floor-plan-layout-app.jpg",
+          "filename": "ideas-design-room-floor-plan-layout-app.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:31:30.615563"
+}

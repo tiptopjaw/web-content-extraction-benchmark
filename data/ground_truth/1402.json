@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.muscleandstrength.com/workout-routines",
+  "file_id": "1402",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "workouts",
+        "fitness",
+        "database",
+        "exercise",
+        "training"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Workout Routines Database: 1000+ Free Workout Plans",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Free Workout Plans - The most comprehensive database of free workout routines anywhere! Download workout plans for any goal or experience level. Statistics show 1000+ Workouts, 401M Downloads, and 120+ Contributors.\n\nWORKOUT CATEGORIES: Choose a category that best suits your workout search. Categories include Workouts For Men, Workouts For Women, Muscle Building, Fat Loss, Increase Strength, Ab Workouts, Full Body, Sports Performance, Bodyweight, Beginner, At Home, Celebrity, Cardio, Chest Workouts, Back Workouts, Bicep Workouts, Shoulder Workouts, Leg Workouts, Tricep Workouts, and Glute Workouts.\n\nBEST WORKOUTS: Top downloaded workouts including 10 Week Mass Building Program for Hardgainers, Muscle & Strength's 12 Week Women's Workout Program, 12 Week Fat Destroyer Complete Fat Loss Program, Power Hypertrophy Upper Lower (P.H.U.L.) Workout, 30 Day Workout Plan For Women, and Dumbbell Only Home Or Gym Full Body Workout.\n\nNEW WORKOUTS: Recently added programs include 2-Week Deload Workout Program, 5-Day Deadlift Workout Program for Max Strength, The Complete Squat Program, 8-Week Muscle Building Program for Adults 40+, Boost Your Bench Press workout plan, and The Best Forearm Workout for Strength and Size.\n\nWORKOUT TIPS & ADVICE: Comprehensive FAQ covering workout routines, training schedules, exercise selection, beginner guidance, building muscle, cardio recommendations, and workout frequency. Topics include best exercises, workout scheduling, progressive overload principles, and nutrition guidance.",
+    "with": [
+      "The most comprehensive database of free workout routines anywhere! Download workout plans for any goal or experience level.",
+      "This workout is designed to increase your muscle mass as much as possible in 10 weeks. Works each muscle group hard once per week using mostly heavy compound exercises.",
+      "This 12 week women's specific training program is perfect for any healthy woman who is looking to transform her body through a good weight lifting program.",
+      "Build both size and strength in this 4 day split based around basic compound movements. Get the best of both worlds with bodybuilding and powerlifting.",
+      "The best thing a beginner can do at the gym is seek out the help of a trained professional to assist them with learning the proper form of each exercise."
+    ],
+    "without": [
+      "Subscribe to our weekly newsletter",
+      "© 2006-2025, Muscle & Strength, LLC",
+      "1-800-537-9910",
+      "Customer Service menu items",
+      "Social media links and icons"
+    ],
+    "images": {
+      "total_in_content": 45,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://cdn.muscleandstrength.com/sites/default/files/styles/400x250/public/taxonomy/image/workouts/workoutsformen.jpg?itok=jALf6fyP",
+          "filename": "workoutsformen.jpg",
+          "alt": "Lean muscular man doing bicep curls in the gym",
+          "caption": "Lean muscular man doing bicep curls in the gym",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.muscleandstrength.com/sites/default/files/styles/400x250/public/taxonomy/image/workouts/workoutsforwomen.jpg?itok=G4rsV_4R",
+          "filename": "workoutsforwomen.jpg",
+          "alt": "Fit woman holding barbell in back rack position.",
+          "caption": "Fit woman holding barbell in back rack position",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.muscleandstrength.com/sites/default/files/styles/400x250/public/taxonomy/image/workouts/musclebuilding.jpg?itok=7ajNGjpw",
+          "filename": "musclebuilding.jpg",
+          "alt": "Muscular man doing heavy leg presses in the gym",
+          "caption": "Muscular man doing heavy leg presses in the gym",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.muscleandstrength.com/sites/default/files/styles/400x250/public/taxonomy/image/workouts/fatloss.jpg?itok=FegmOZtr",
+          "filename": "fatloss.jpg",
+          "alt": "Lean athletic woman lying on the floor doing abdominal workout.",
+          "caption": "Lean athletic woman lying on the floor doing abdominal workout",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.muscleandstrength.com/sites/default/files/styles/400x250/public/taxonomy/image/workouts/increasestrength.jpg?itok=kVvW71is",
+          "filename": "increasestrength.jpg",
+          "alt": "Frontal shot of a strong muscular man doing a barbell back squat.",
+          "caption": "Strong muscular man doing a barbell back squat",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.muscleandstrength.com/sites/default/files/styles/800x500/public/10_week_mass_building_program_-_1200x630.jpg?itok=l2JIA-mt",
+          "filename": "10_week_mass_building_program_-_1200x630.jpg",
+          "alt": "10 Week Mass Building Program For Hardgainers",
+          "caption": "10 Week Mass Building Program For Hardgainers",
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn.muscleandstrength.com/sites/default/files/styles/800x500/public/womens_12_week_workout_-_1200x630.jpg?itok=h85OGviC",
+          "filename": "womens_12_week_workout_-_1200x630.jpg",
+          "alt": "Muscle & Strength’s 12 Week Women’s Workout Program",
+          "caption": "Muscle & Strength's 12 Week Women's Workout Program",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.muscleandstrength.com/sites/default/files/styles/800x500/public/12_week_fat_destroyer_-_1200x630.jpg?itok=ki1i9dcq",
+          "filename": "12_week_fat_destroyer_-_1200x630.jpg",
+          "alt": "12 Week Fat Destroyer: Complete Fat Loss Workout & Diet Program",
+          "caption": "12 Week Fat Destroyer: Complete Fat Loss Workout & Diet Program",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.muscleandstrength.com/sites/default/files/styles/800x500/public/phul_-_1200x630.jpg?itok=LRC9qayO",
+          "filename": "phul_-_1200x630.jpg",
+          "alt": "Power Hypertrophy Upper Lower (P.H.U.L.) Workout",
+          "caption": "Power Hypertrophy Upper Lower (P.H.U.L.) Workout",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.muscleandstrength.com/sites/default/files/styles/800x500/public/muscular_man_doing_a_bench_press.jpg?itok=S1rdHWLd",
+          "filename": "muscular_man_doing_a_bench_press.jpg",
+          "alt": "Shirtless muscular man doing a barbell bench press in the gym.",
+          "caption": "Shirtless muscular man doing a barbell bench press in the gym",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:09:16.604456"
+}

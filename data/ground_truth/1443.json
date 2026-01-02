@@ -1,0 +1,89 @@
+{
+  "schema_version": "2.0",
+  "url": "https://shakuro.com/blog/how-apps-are-made-guide-to-mobile-app-development",
+  "file_id": "1443",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "guide",
+        "mobile-development",
+        "software"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "How Are Mobile Apps Created? A Complete 2025 Guide to Mobile Apps Development, Design, and Launch",
+    "author": "Moses Kim and Kate Shokurova",
+    "publish_date": "2024-04-08",
+    "main_content": "Building a mobile app can be overwhelming for startup founders and product owners due to technical jargon, multiple development approaches, and platform-specific requirements. From native and hybrid apps to low-code and no-code solutions, each method offers unique advantages depending on the project's goals, budget, and timeline. A well-structured development process involves research and planning, UX/UI design, coding, testing, launch, and ongoing maintenance. The right team—including project leads, designers, developers, and QA engineers—ensures that an app meets quality standards, performs smoothly across devices, and delivers an engaging user experience.\n\nMobile apps are software specially designed for gadgets like phones, tablets, or smartwatches. The purpose of an application can be very diverse: shopping, entertainment, assistance, and more. A responsive website is a must for any business, but it has one particular drawback: a comparatively low level of user engagement and interaction. Whereas a mobile application's functionality and design are tailored to the capabilities of mobile platforms, and considering that a person nowadays is 9 times likelier to spend time using mobile apps rather than browsers, the engagement rate of applications is much higher.\n\nThere are three main types of mobile development: Native App Development creates projects for a particular mobile OS using original programming languages and tools like Swift or Objective-C for iOS and Java or Kotlin for Android. Hybrid App Development creates applications compatible with multiple mobile operating systems using a single code base with technologies like HTML, CSS, and JavaScript. Cross Platform App Development encompasses various approaches for building applications that can work on multiple platforms, reaching a wider audience with a single app using frameworks like Xamarin, Flutter, or React Native.\n\nA mobile app development project requires a project manager, UI/UX designer, developer, and QA engineer. The guru or project lead oversees project direction and scope, balances business goals, design, and technology, manages the team and deadlines, and understands how mobile apps are created from all perspectives. The UI/UX designer conducts UX research and competitor analysis, plans user flows, screen architecture, and navigation, and designs the visual style, layout, and interactions. The developer writes code using native or cross-platform frameworks, ensures performance across multiple devices, and integrates backend systems if required. The QA engineer tests app functionality on various devices, identifies and reports bugs or issues, and validates that user expectations are met.\n\nTo create a mobile application, suitable programming languages must be used. An Android developer is typically proficient in Java, Kotlin, Xamarin, and React Native. An iOS developer uses Objective-C, C, and Swift. A cross-platform developer works with JavaScript, HTML, CSS, Cordova, C#, and React Native.\n\nThe app development process includes several stages. Research and planning involves studying market and competitors, analyzing monetization methods, and deciding between low code or custom development. UX and UI design creates information architecture, wireframes, style guides, mockups, and interactive prototypes. The development stage involves coding the application, including back-end/server side, API integration, and front-end development. Testing and launch ensures the app is stable, usable, and secure. Support and maintenance keeps the project healthy and up-to-date after launch.\n\nPublishing an app requires creating a developer account on the respective store. For the App Store, an Apple Developer account with a one-time fee is needed. For Google Play, a Google Play Developer account with a one-time registration fee is required. The process involves filling in app details, uploading builds or APK files, providing screenshots and descriptions, and submitting for review.\n\nProgressive Web Apps are web-based applications accessed through a browser without downloading from a store. They require HTTPS security, a web app manifest, service worker registration, and promotion through web channels.",
+    "with": [
+      "Building a mobile app can be overwhelming for startup founders and product owners due to technical jargon, multiple development approaches, and platform-specific requirements.",
+      "Native App Development creates projects for a particular mobile OS using original programming languages and tools.",
+      "Cross Platform App Development encompasses various approaches for building applications that can work on multiple platforms using frameworks like Xamarin, Flutter, or React Native.",
+      "The UI/UX designer conducts UX research and competitor analysis, plans user flows, screen architecture, and navigation, and designs the visual style, layout, and interactions.",
+      "A well-structured development process involves research and planning, UX/UI design, coding, testing, launch, and ongoing maintenance."
+    ],
+    "without": [
+      "Subscribe to our blog",
+      "Start your project",
+      "Copyright 2025 Shakuro",
+      "Navigation menu items",
+      "Cookie consent notice"
+    ],
+    "images": {
+      "total_in_content": 11,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "/_next/image?url=https%3A%2F%2Fshakuro.com%2F__blog%2Fwp-content%2Fuploads%2F2020%2F04%2Foriginal-ff71bd3acb0e63acb3579fbf03d3c291-min.jpg&w=2560&q=98",
+          "filename": "image",
+          "alt": "How to Make an App: Your 2024 Guide to Mobile App Development Mastery",
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://blog.cgify.com/wp-content/uploads/2020/04/original-6d84e7e97285c4632393d0ec794b64e7-min.jpg",
+          "filename": "original-6d84e7e97285c4632393d0ec794b64e7-min.jpg",
+          "alt": "Mobile App Development",
+          "caption": "Mobile Banking App Design by Conceptzilla",
+          "is_hero": false
+        },
+        {
+          "src": "https://blog.cgify.com/wp-content/uploads/2024/03/original-549ee4f15d4cb3b6d5353e5a27b25c62-min.jpg",
+          "filename": "original-549ee4f15d4cb3b6d5353e5a27b25c62-min.jpg",
+          "alt": "Choose iOS app development services wisely",
+          "caption": "Mobile Sport App by Shakuro",
+          "is_hero": false
+        },
+        {
+          "src": "https://blog.cgify.com/wp-content/uploads/2020/04/original-6ba19d2f1757ae9dfcdb1a83a233c4af-min.png",
+          "filename": "original-6ba19d2f1757ae9dfcdb1a83a233c4af-min.png",
+          "alt": "Cross Platform App Development",
+          "caption": "E-Commerce Mobile App by Shakuro",
+          "is_hero": false
+        },
+        {
+          "src": "https://blog.cgify.com/wp-content/uploads/2024/03/original-f2d501a19c1d64b02bc4857638ee5466-min.png",
+          "filename": "original-f2d501a19c1d64b02bc4857638ee5466-min.png",
+          "alt": "Minimizing the cost of app maintenance",
+          "caption": "Barber Booking Mobile App Concept by Conceptzilla",
+          "is_hero": false
+        },
+        {
+          "src": "https://blog.cgify.com/wp-content/uploads/2020/04/original-0707390f9635c57a68aa06fcc9320777-min.jpg",
+          "filename": "original-0707390f9635c57a68aa06fcc9320777-min.jpg",
+          "alt": "Low Code App Development",
+          "caption": "Booking App by Shakuro",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:25:01.998411"
+}

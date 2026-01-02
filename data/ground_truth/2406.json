@@ -1,27 +1,54 @@
 {
+  "schema_version": "2.0",
   "url": "https://elizlaraki.substack.com/p/holding-space",
   "file_id": "2406",
-  "downloaded_at": "2025-12-21T00:13:39.475676",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "personal",
+        "philosophy",
+        "ai",
+        "mindfulness"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Holding Space.",
     "author": "Elizabeth Laraki",
     "publish_date": "2025-12-20",
-    "main_content": "Today, there is so much focus on automating and offloading tasks to AI. But it seems the more we do, the more we feel compelled to take on. It’s like a video game where we keep leveling up and the game keeps getting faster and harder. We may not die, but we also never win. \n\nThis afternoon, I exhaled for what felt like the first time since sometime before Thanksgiving. As my flight lifted off, I felt my whole body relax. And as it did, my mind suddenly lit up, like the first peek of sunshine after a storm. \n\nSuddenly, I wasn’t juggling my 100 item to-do list. I wasn’t mentally scanning my 50+ different projects, triangulating what had to be done next. I wasn’t laying in bed wide-eyed, trying to create a memory loop in my brain so I wouldn’t forget some stupid task in the morning. \n\nLooking back, it feels cruel, unrelenting. For weeks, I have been in full-on sprint mode with no mental cycles for anything but reactive, tactical thinking. With every breath, I was calculating what was the next most urgent thing I had to do. \n\nSomewhere in the mix of way too many year-end gatherings, I found myself talking with a parent of one of my eldest son’s classmates. I learned that in the mornings, she teaches advanced middle school math and on Wednesday afternoons, she volunteers as a chaplain in a hospital. \n\nShe described her chaplain role as checking in with people and connecting them to faith-based leaders when appropriate. But she said the heart of her job (and the best part) was just sitting with people, listening to them, acknowledging all they were going through, and just being present with them. \n\nI was floored. Amazed. I mean these days, I often find it a struggle to be present even with the people who I love the most, let alone with complete strangers… I told her how extraordinary, how counter-cultural this was. \n\nShe was routinely making time for one of the simplest but rarest acts in today’s world — being present and patiently holding space for others. And maybe this is what makes us most human. Maybe it’s not maximizing our efficiency through various AI tools, like some optimized humanoid algorithm. \n\nInstead, maybe it’s creating the space in our days, our weeks, our lives, to truly see another person, to hold space for them. Maybe this is all as simple as the generosity of giving our presence without wanting anything in return beyond the reminder of how amazing it feels to be human.",
+    "main_content": "Today, there is so much focus on automating and offloading tasks to AI. But it seems the more we do, the more we feel compelled to take on. It's like a video game where we keep leveling up and the game keeps getting faster and harder. We may not die, but we also never win. This afternoon, I exhaled for what felt like the first time since sometime before Thanksgiving. As my flight lifted off, I felt my whole body relax. And as it did, my mind suddenly lit up, like the first peek of sunshine after a storm. Suddenly, I wasn't juggling my 100 item to-do list. I wasn't mentally scanning my 50+ different projects, triangulating what had to be done next. I wasn't laying in bed wide-eyed, trying to create a memory loop in my brain so I wouldn't forget some stupid task in the morning. Looking back, it feels cruel, unrelenting. For weeks, I have been in full-on sprint mode with no mental cycles for anything but reactive, tactical thinking. With every breath, I was calculating what was the next most urgent thing I had to do. Somewhere in the mix of way too many year-end gatherings, I found myself talking with a parent of one of my eldest son's classmates. I learned that in the mornings, she teaches advanced middle school math and on Wednesday afternoons, she volunteers as a chaplain in a hospital. She described her chaplain role as checking in with people and connecting them to faith-based leaders when appropriate. But she said the heart of her job (and the best part) was just sitting with people, listening to them, acknowledging all they were going through, and just being present with them. I was floored. Amazed. I mean these days, I often find it a struggle to be present even with the people who I love the most, let alone with complete strangers... I told her how extraordinary, how counter-cultural this was. She was routinely making time for one of the simplest but rarest acts in today's world — being present and patiently holding space for others. And maybe this is what makes us most human. Maybe it's not maximizing our efficiency through various AI tools, like some optimized humanoid algorithm. Instead, maybe it's creating the space in our days, our weeks, our lives, to truly see another person, to hold space for them. Maybe this is all as simple as the generosity of giving our presence without wanting anything in return beyond the reminder of how amazing it feels to be human.",
     "with": [
-      "Today, there is so much focus on automating and offloading tasks to AI. But it seems the more we do, the more we feel compelled to take on.",
-      "She was routinely making time for one of the simplest but rarest acts in today’s world — being present and patiently holding space for others.",
-      "And maybe this is what makes us most human. Maybe it’s not maximizing our efficiency through various AI tools, like some optimized humanoid algorithm.",
-      "Instead, maybe it’s creating the space in our days, our weeks, our lives, to truly see another person, to hold space for them."
+      "This afternoon, I exhaled for what felt like the first time since sometime before Thanksgiving.",
+      "She described her chaplain role as checking in with people and connecting them to faith-based leaders when appropriate.",
+      "But she said the heart of her job (and the best part) was just sitting with people, listening to them, acknowledging all they were going through, and just being present with them.",
+      "She was routinely making time for one of the simplest but rarest acts in today's world — being present and patiently holding space for others.",
+      "Maybe it's creating the space in our days, our weeks, our lives, to truly see another person, to hold space for them."
     ],
     "without": [
-      "For more reflections on life in the age of AI and how to design for humans, subscribe for free.",
-      "Type your email...",
-      "Subscribe",
-      "Discussion about this post",
-      "Write a comment...",
-      "© 2025 Elizabeth Laraki · Privacy ∙ Terms ∙ Collection notice"
-    ]
+      "Subscribe for free.",
+      "Dec 20, 2025",
+      "Sign in",
+      "Like (6)",
+      "Share"
+    ],
+    "images": {
+      "total_in_content": 2,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!q57Q!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaf28087-5c1c-4c1c-a403-dcfb48cd7aa2_818x1129.jpeg",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaf28087-5c1c-4c1c-a403-dcfb48cd7aa2_818x1129.jpeg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-21T00:13:39.475681"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:07:12.702061"
 }

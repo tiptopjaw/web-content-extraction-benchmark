@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.0",
+  "url": "https://westbelldentalcare.com/best-oral-hygiene-products/",
+  "file_id": "0916",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "dental",
+        "health",
+        "oral hygiene",
+        "guide",
+        "products"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Top 10 Best Oral Hygiene Products for a Healthy Smile",
+    "author": "West Bell Dental Care",
+    "publish_date": "2025-07-27",
+    "main_content": "Navigating the dental care aisle can feel overwhelming. With countless options promising whiter teeth and healthier gums, how do you know which products actually deliver on their claims? A stellar at-home oral care routine is the cornerstone of lifelong dental health, complementing the professional cleanings and check-ups you receive at your dentist's office. The American Dental Association (ADA) emphasizes that daily oral hygiene is crucial for preventing cavities and gum disease. In fact, according to the Centers for Disease Control and Prevention (CDC), nearly half of all adults aged 30 and older show signs of gum disease. This guide is designed to cut through the marketing noise and simplify your choices. We've curated a comprehensive list of the top oral hygiene products available today, from innovative electric toothbrushes to specialized mouthwashes, helping you build the perfect toolkit for your needs. The guide covers 12 platforms including Amazon for sheer volume and variety, TheraBreath for targeted bad breath solutions, Quip for minimalist electric toothbrushes with subscription service, Best Buy for high-tech oral care devices, Spotlight Oral Care for sustainable dentist-developed products, Oclean for smart app-connected toothbrushes, Terra & Co. for natural eco-friendly options, AuraGlow for at-home teeth whitening, LovelySkin for premium curated oral care, World of Dentistry for professional-grade supplies, SurgiMac Dental Supply for dental professional tools, and Randalls for integrated grocery shopping. Choosing the right oral hygiene products is a crucial step toward a healthy smile, but it works best in partnership with professional dental care. At West Bell Dental Care, we take a personalized approach to assess your specific needs and recommend products that deliver the best results for you. The article concludes with frequently asked questions about essential products, toothbrush replacement timing, electric vs manual toothbrushes, sensitive teeth solutions, and appointment availability for surrounding communities.",
+    "with": [
+      "Navigating the dental care aisle can feel overwhelming with countless options promising whiter teeth and healthier gums.",
+      "A stellar at-home oral care routine is the cornerstone of lifelong dental health, complementing professional cleanings.",
+      "The American Dental Association emphasizes that daily oral hygiene is crucial for preventing cavities and gum disease.",
+      "Choosing the right oral hygiene products is a crucial step toward a healthy smile, but it works best in partnership with professional dental care.",
+      "At West Bell Dental Care, we take a personalized approach to assess your specific needs and recommend products that deliver the best results."
+    ],
+    "without": [
+      "West Bell Dental Office Hours",
+      "480-795-2420",
+      "16581 W. Bell Rd. Suite 108, Surprise, AZ 85374",
+      "©2025 West Bell Dental Care. All rights reserved.",
+      "Social Media icons and links"
+    ],
+    "images": {
+      "total_in_content": 12,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://westbelldentalcare.com/wp-content/uploads/2025/07/thumbnail-18.jpg",
+          "filename": "thumbnail-18.jpg",
+          "alt": null,
+          "caption": "Featured image for Top 10 Best Oral Hygiene Products article",
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn.outrank.so/2cc13dec-bac6-4c8a-8b1c-c3d8875ce757/screenshots/83fb35a4-3a61-4d60-b7bd-7f055043e720.jpg",
+          "filename": "83fb35a4-3a61-4d60-b7bd-7f055043e720.jpg",
+          "alt": null,
+          "caption": "Amazon platform showing oral care products selection",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.outrank.so/2cc13dec-bac6-4c8a-8b1c-c3d8875ce757/screenshots/8213a3af-a104-4529-a9e0-75a76284f7ae.jpg",
+          "filename": "8213a3af-a104-4529-a9e0-75a76284f7ae.jpg",
+          "alt": null,
+          "caption": "TheraBreath product presentation",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.outrank.so/2cc13dec-bac6-4c8a-8b1c-c3d8875ce757/screenshots/9f52c38b-fef9-4223-aaeb-3b78eb9136f2.jpg",
+          "filename": "9f52c38b-fef9-4223-aaeb-3b78eb9136f2.jpg",
+          "alt": null,
+          "caption": "Quip electric toothbrush and subscription service",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.outrank.so/2cc13dec-bac6-4c8a-8b1c-c3d8875ce757/screenshots/1972b4ac-b1b1-4ad3-b6c0-b651b5e06b01.jpg",
+          "filename": "1972b4ac-b1b1-4ad3-b6c0-b651b5e06b01.jpg",
+          "alt": null,
+          "caption": "Best Buy oral hygiene products section",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.outrank.so/2cc13dec-bac6-4c8a-8b1c-c3d8875ce757/screenshots/1a737165-753d-489f-b0c1-0487375c4c64.jpg",
+          "filename": "1a737165-753d-489f-b0c1-0487375c4c64.jpg",
+          "alt": null,
+          "caption": "Oclean smart toothbrush app interface",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.outrank.so/2cc13dec-bac6-4c8a-8b1c-c3d8875ce757/screenshots/c5910719-127d-481b-a5f8-4ca48ecbc7e7.jpg",
+          "filename": "c5910719-127d-481b-a5f8-4ca48ecbc7e7.jpg",
+          "alt": null,
+          "caption": "Terra & Co. sustainable oral care products",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.outrank.so/2cc13dec-bac6-4c8a-8b1c-c3d8875ce757/screenshots/bfe49097-8263-4b76-9f24-89937822bac5.jpg",
+          "filename": "bfe49097-8263-4b76-9f24-89937822bac5.jpg",
+          "alt": null,
+          "caption": "AuraGlow teeth whitening products",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.outrank.so/2cc13dec-bac6-4c8a-8b1c-c3d8875ce757/screenshots/4cb9934c-3dab-46f2-8213-54a8ca10a25f.jpg",
+          "filename": "4cb9934c-3dab-46f2-8213-54a8ca10a25f.jpg",
+          "alt": null,
+          "caption": "LovelySkin oral care selection",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.outrank.so/2cc13dec-bac6-4c8a-8b1c-c3d8875ce757/screenshots/d4510acd-a7f1-42d8-b3c2-c1e9ede65765.jpg",
+          "filename": "d4510acd-a7f1-42d8-b3c2-c1e9ede65765.jpg",
+          "alt": null,
+          "caption": "World of Dentistry professional products",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:08:32.532464"
+}

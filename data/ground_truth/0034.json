@@ -1,0 +1,67 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.oracle.com/cloud/what-is-cloud-computing/",
+  "file_id": "0034",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "cloud-computing",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "What Is Cloud Computing?",
+    "author": "Alan Zeichick",
+    "publish_date": "2025-04-10",
+    "main_content": "Cloud computing is a model for delivering computing services, including infrastructure, software, storage, databases, development platforms and more, over the internet. The remote data centers where these services run are referred to as 'the cloud,' while the companies that maintain them are called cloud service providers, or CSPs. Instead of owning their own IT infrastructure or systems, companies access the resources they need from these providers, typically paying only for what they use. Providers may keep costs lower by leveraging economies of scale. The cloud model offers benefits including scalability, lower capital costs, and reduced operational overhead.\n\nCloud computing allows you to rent instead of buy your back-end IT systems. Rather than spending your capital on application software, database software, management tools, servers, storage arrays, and data center infrastructure such as networking, computer racks, power supplies, and cooling systems, the cloud provider makes those investments. You, as the customer, rent those resources to run your business; with cloud computing, you pay only for what you use, and you can scale up and down as needed.\n\nThe four main categories of cloud computing are public, private, hybrid, and multicloud. Each type requires a different level of management from the customer and calls for different security practices. The three main types of cloud services are software as a service (SaaS), platform as a service (PaaS), and infrastructure as a service (IaaS).\n\nBenefits include lower costs shifted from capital expenses to operational expenses, faster resource provisioning, global scale, increased productivity, better performance, optimization, and improved reliability. Organizations are realizing these benefits through cloud-based applications accessible from anywhere, cost savings from eliminating data center hardware, enhanced security through provider monitoring, and improved business continuity.\n\nAdvanced technologies like artificial intelligence, generative AI, GenAI agents, blockchain, and the Internet of Things are being integrated into cloud computing. Cloud computing provides many opportunities for businesses to become more efficient while lowering the capital outlay and ongoing costs of IT.",
+    "with": [
+      "Cloud computing is a model for delivering computing services, including infrastructure, software, storage, databases, development platforms and more, over the internet.",
+      "Instead of owning their own IT infrastructure or systems, companies access the resources they need from these providers, typically paying only for what they use.",
+      "The cloud model offers benefits including scalability, lower capital costs, and reduced operational overhead.",
+      "Instead of spending your capital on application software, database software, management tools, servers, storage arrays, and data center infrastructure, the cloud provider makes those investments.",
+      "The three main types of cloud services are software as a service (SaaS), platform as a service (PaaS), and infrastructure as a service (IaaS)."
+    ],
+    "without": [
+      "Skip to content",
+      "© 2025 Oracle",
+      "Privacy Policy",
+      "Search Oracle.com",
+      "Country/Region"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "/a/ocom/img/rc24-bsa-cloud-computing.jpg",
+          "filename": "rc24-bsa-cloud-computing.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "/a/ocom/img/yt-video-thumbnail-ioosg6w9wqq.jpg",
+          "filename": "yt-video-thumbnail-ioosg6w9wqq.jpg",
+          "alt": null,
+          "caption": "What is Cloud Computing video",
+          "is_hero": false
+        },
+        {
+          "src": "/a/ocom/img/rc58-cio-data-and-ai-success-ebook-cover.png",
+          "filename": "rc58-cio-data-and-ai-success-ebook-cover.png",
+          "alt": null,
+          "caption": "Data and AI: A CIO's Guide to Success",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:35:03.509883"
+}

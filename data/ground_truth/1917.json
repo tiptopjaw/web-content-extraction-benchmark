@@ -1,0 +1,76 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.nature.com/articles/s41580-021-00407-0",
+  "file_id": "1917",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "review",
+        "machine-learning",
+        "biology",
+        "bioinformatics",
+        "computational-biology"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "A guide to machine learning for biologists",
+    "author": "Joe G. Greener",
+    "publish_date": "2021-09-13",
+    "main_content": "The expanding scale and inherent complexity of biological data have encouraged a growing use of machine learning in biology to build informative and predictive models of the underlying biological processes. All machine learning techniques fit models to data; however, the specific methods are quite varied and can at first glance seem bewildering. In this Review, we aim to provide readers with a gentle introduction to a few key machine learning techniques, including the most recently developed and widely used techniques involving deep neural networks. We describe how different techniques may be suited to specific types of biological data, and also discuss some best practices and points to consider when one is embarking on experiments involving machine learning. Some emerging directions in machine learning methodology are also discussed. Machine learning is becoming a widely used tool for the analysis of biological data. However, for experimentalists, proper use of machine learning methods can be challenging. This Review provides an overview of machine learning techniques and provides guidance on their applications in biology.",
+    "with": [
+      "The expanding scale and inherent complexity of biological data have encouraged a growing use of machine learning in biology to build informative and predictive models of the underlying biological processes.",
+      "In this Review, we aim to provide readers with a gentle introduction to a few key machine learning techniques, including the most recently developed and widely used techniques involving deep neural networks.",
+      "We describe how different techniques may be suited to specific types of biological data, and also discuss some best practices and points to consider when one is embarking on experiments involving machine learning.",
+      "Some emerging directions in machine learning methodology are also discussed.",
+      "Machine learning is becoming a widely used tool for the analysis of biological data."
+    ],
+    "without": [
+      "Subscribe to this journal",
+      "Access Nature and 54 other Nature Portfolio journals",
+      "Buy this article",
+      "Access through your institution",
+      "Login to your account"
+    ],
+    "images": {
+      "total_in_content": 10,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "//media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41580-021-00407-0/MediaObjects/41580_2021_407_Fig1_HTML.png",
+          "filename": "41580_2021_407_Fig1_HTML.png",
+          "alt": null,
+          "caption": "Fig. 1: Choosing and training a machine learning method.",
+          "is_hero": true
+        },
+        {
+          "src": "//media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41580-021-00407-0/MediaObjects/41580_2021_407_Fig2_HTML.png",
+          "filename": "41580_2021_407_Fig2_HTML.png",
+          "alt": null,
+          "caption": "Fig. 2: Training machine learning methods.",
+          "is_hero": false
+        },
+        {
+          "src": "//media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41580-021-00407-0/MediaObjects/41580_2021_407_Fig3_HTML.png",
+          "filename": "41580_2021_407_Fig3_HTML.png",
+          "alt": null,
+          "caption": "Fig. 3: Traditional machine learning methods.",
+          "is_hero": false
+        },
+        {
+          "src": "//media.springernature.com/m312/springer-static/image/art%3A10.1038%2Fs41580-021-00407-0/MediaObjects/41580_2021_407_Fig4_HTML.png",
+          "filename": "41580_2021_407_Fig4_HTML.png",
+          "alt": null,
+          "caption": "Fig. 4: Neural network methods.",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:03:31.413270"
+}

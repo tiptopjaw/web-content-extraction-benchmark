@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.crowdreviews.com/best-social-media-marketing-services",
+  "file_id": "1398",
+  "_internal": {
+    "page_type": {
+      "primary": "directory",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "business directory",
+        "rankings",
+        "social media marketing",
+        "reviews"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Best Social Media Marketing Companies Rankings Based on Client Reviews | December 2025",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Best Social Media Marketing Services - Rankings based on client reviews. This list of the best social media marketing companies was determined by the feedback of clients, employees, competitors, potential clients, and other audiences. The ranking table displays 23 companies ranked by Crowd Score, showing for each: company name, Crowd Score (75.4 to 16.9), review status with star ratings, verification status (Verified/Unverified), founding year (1996-2019), revenue ($250k to $100m+), employees (1-10 to 100+), pricing tier (L/M/H), active clients count, other services offered (PPC, SEO, Local SEO, Content Marketing, Reputation Management, Web Design, etc.), and more info links. The ranking can be filtered by location, community ratings (1-5 stars), number of reviews (<10 to >1000), verified status, employees, and revenue.",
+    "with": [
+      "Best Social Media Marketing Services - Rankings based on client reviews",
+      "This list of the best social media marketing companies was determined by the feedback of clients, employees, competitors, potential clients, and other audiences",
+      "Digital Marketing Agency provides specialized digital marketing solutions for small to medium businesses with aspirations to grow",
+      "Crowd Score, REVIEW STATUS, VERIFIED, Founded, Revenue, Employees, Pricing, Active Clients, Other Services Offered",
+      "Unbiased. Community Driven. Transparent."
+    ],
+    "without": [
+      "Register Your Business",
+      "Sign In",
+      "How Do We Rank",
+      "United States, Australia, Brazil, Canada, Germany, India",
+      "CrowdReviews.com"
+    ],
+    "images": {
+      "total_in_content": 11,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:06:53.183118"
+}

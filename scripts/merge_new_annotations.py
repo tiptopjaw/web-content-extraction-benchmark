@@ -9,7 +9,7 @@ from collections import Counter
 BASE_DIR = Path(__file__).parent.parent
 DATA_DIR = BASE_DIR / "data"
 GROUND_TRUTH_DIR = DATA_DIR / "ground_truth"
-CLEAN_DIR = DATA_DIR / "ground_truth_clean"
+CLEAN_DIR = DATA_DIR / "ground_truth"
 MERGED_DIR = DATA_DIR / "ground_truth_merged"
 REMOVED_DIR = DATA_DIR / "ground_truth_removed"
 

@@ -1,27 +1,83 @@
 {
+  "schema_version": "2.0",
   "url": "https://bittere.substack.com/p/accidentally-training-a-dog-cat-autoencoder",
   "file_id": "2365",
-  "downloaded_at": "2025-12-20T23:48:46.257675",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "machine-learning",
+        "autoencoder",
+        "deep-learning",
+        "tutorial"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "(Accidentally) Training a Dog → Cat Autoencoder",
     "author": "bittere",
     "publish_date": "2025-12-19",
-    "main_content": "Imagine setting out to build something great; putting your blood, sweat and (computational) tears into building an image autoencoder, from scratch. Spending hours and hours tuning hyperparameters until everything fits in perfectly and the loss just keeps going down and down and down.\n\nAnd after 12+ hours or arduous training, you realize you built a model that just replaces dog features with cat features.\n\nTL;DR\n1. The results are at the bottom of the page. Feel free to skip to them, the rest of the article is more of a story of how I got here.\n2. Only slight dog features eg. the nose were converted into more cat-like features.\n\nThe reason for this is most likely because the model was trained solely on cat images; while it did learn some general image compression, it also got good at compressing feline-specific features such as the nose, ears, etc. These two compressions (general purpose and feline-specific) compete and caused this dog’s nose to turn out a little different in the reconstruction.\n\nPrelude\nHere’s a short story about how I ended up needing ~30,000GB VRAM for a hobby project. Not kidding.\nIt was a different time back then: ChatGPT wasn’t half as popular as it is now, and most companies hadn’t even heard of the acronym “AI”, much less worried that it might destroy their business model.\nI remember thinking: there’s no way a computer program could talk in natural language more than predefined conversation paths. No way this “AI” could ever understand or make decisions or even just execute npm run dev on it’s own.\nRight?\nThen I saw this Veritasium video. And I built one of those rectangle-or-circle classifiers.\nAnd it blew my mind.\nFast forward a couple of months. I learnt about backpropagation and convolution and attention. I read about diffusion models for image generation. Looked up a guide. Copy-pasted the code. Got a dataset of Forza Horizon 5 images. Hooked everything up. Whoops! Got an error. What is it? Let’s have a look…\nRuntimeError: CUDA out of memory. Tried to allocate 29.06 TiB (...)\nI don’t know about you, but I usually don’t have 30TB of VRAM lying around on my desk.\nNaturally, I Googled the error. I did the usual torch.cuda.empty_cache() and that obviously didn’t work. After hours of finagling, I finally realized my mistake.\nI needed an autoencoder.\nAutoencodexperiments\nIf you don’t already know, diffusion models are really resource-intensive for large images. Virtually all diffusion models available today, including Stable Diffusion and FLUX, are trained on a compressed latent space instead of normal pixel space.\nThis latent space is constructed by training a specialized model called an autoencoder. You train a network to reconstruct an image, and over thousands of images, it learns to compress information into a smaller latent space. Instead of encoding specifics of the pixels, the latent space encodes general information and structure (or at least, that’s the goal). The Stable Diffusion autoencoder acheives 48x compression — that’s a 48x decrease in resources required to train the diffusion model!\nI got right to work on that: building my own autoencoder. This went on and off over the last couple of years: I’d learn something new, try to implement it, fail horribly and then give up. I’d usually end up with a horrible mangled mess.\nThen, a couple of weeks ago, I tried to actually understand what was going on instead of just copy-pasting: what all the loss functions did, what worked with what, what had to be thrown out the window. And a little more than 12 hours of training gave me (drumroll please)…\nThe autoencoder was trained solely on cat images from this Kaggle dataset.\nNaturally, my first question was: how would it perform on images different from what it had seen during training?\nWhile I do intend to share some secrets regarding autoencoder training shortly (subscribe to know when that comes out), here are some results for now. Originals on the left, reconstructions on the right.",
+    "main_content": "The author describes their journey of building an image autoencoder from scratch, only to discover that after 12+ hours of training, the model had inadvertently learned to transform dog features into cat-like features. This happened because the autoencoder was trained solely on cat images from a Kaggle dataset. The article explains how autoencoders work, their role in enabling diffusion models like Stable Diffusion to achieve 48x compression, and the technical challenges the author faced. The author presents various test results showing original images alongside their reconstructions, demonstrating how the model performs on images outside its training distribution - including dogs, text, and other subjects. The dog images particularly show interesting transformations where features like noses become more triangular (cat-like), while the model struggles with details like eyes and text. The author concludes that the autoencoder has learned both general-purpose image compression and feline-specific features, with these two learning objectives competing and causing interesting artifacts in non-cat images.",
     "with": [
       "Imagine setting out to build something great; putting your blood, sweat and (computational) tears into building an image autoencoder, from scratch.",
       "And after 12+ hours or arduous training, you realize you built a model that just replaces dog features with cat features.",
       "The reason for this is most likely because the model was trained solely on cat images; while it did learn some general image compression, it also got good at compressing feline-specific features such as the nose, ears, etc.",
-      "This latent space is constructed by training a specialized model called an autoencoder. You train a network to reconstruct an image, and over thousands of images, it learns to compress information into a smaller latent space.",
+      "Diffusion models are really resource-intensive for large images. Virtually all diffusion models available today, including Stable Diffusion and FLUX, are trained on a compressed latent space instead of normal pixel space.",
       "The autoencoder was trained solely on cat images from this Kaggle dataset."
     ],
     "without": [
-      "bittereblog",
-      "Subscribe",
-      "Sign in",
-      "Type your email here, press the button and my autoencoder becomes 10x better!(definitely true and not clickbait)",
-      "Like"
-    ]
+      "Subscribe to the newsletter",
+      "Sign in button",
+      "Navigation menu with logo and site links",
+      "Footer with copyright information",
+      "Social media share buttons and like/comment controls"
+    ],
+    "images": {
+      "total_in_content": 17,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!1YVy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94703c4e-19dc-42b8-86f1-585d915dcd3a_1413x993.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94703c4e-19dc-42b8-86f1-585d915dcd3a_1413x993.png",
+          "alt": null,
+          "caption": "Bonus points to anyone who can guess the LR scheduler",
+          "is_hero": true
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!YtGD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0798e6ab-e8be-4f81-a4d4-b22b16af4d64_2400x1260.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0798e6ab-e8be-4f81-a4d4-b22b16af4d64_2400x1260.png",
+          "alt": null,
+          "caption": "The original has a more rounded nose, while the reconstruction has a more triangular nose (image search 'cat noses' to see what I'm talking about).",
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!UAwS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b746178-477b-44cd-8aa8-78f2664a449f_1814x973.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b746178-477b-44cd-8aa8-78f2664a449f_1814x973.png",
+          "alt": null,
+          "caption": "Slightly blurry, not the sharpest details, but on the whole: pretty good!",
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!0M6Z!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F946119e8-68f8-40dd-a9a4-1cc762055bde_1024x512.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F946119e8-68f8-40dd-a9a4-1cc762055bde_1024x512.png",
+          "alt": null,
+          "caption": "This one's an image from the test dataset.",
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!dyR4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c43cc8a-c31a-4b9a-87f5-0ab9144a310a_1024x512.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c43cc8a-c31a-4b9a-87f5-0ab9144a310a_1024x512.png",
+          "alt": null,
+          "caption": "This one shows that the model has learnt some general-purpose tricks for image compression.",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:48:46.257679"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:50:42.787629"
 }

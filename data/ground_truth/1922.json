@@ -1,0 +1,62 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.wusf.org/health-news-florida/2025-12-19/floridas-oral-health-crisis-can-dental-therapists-expand-access-care",
+  "file_id": "1922",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "health",
+        "dental-care",
+        "florida",
+        "policy",
+        "healthcare-access"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Florida's 'oral health crisis': Can dental therapists expand access care?",
+    "author": "Sarah Marks, Emma Blystone, Andrew Sheridan",
+    "publish_date": "2025-12-19",
+    "main_content": "Florida is facing what some are calling an oral health crisis, with many residents lacking access to dental care. Supporters argue that dental therapists – midlevel providers similar to physician's assistants in medicine – could help extend services to underserved communities across the state. Dental therapists are trained to perform common procedures like fillings and extractions under the supervision of dentists. Opponents, including the Florida Dental Association, question training standards and adequate oversight for these providers. Florida currently does not license dental therapists, though legislation has been proposed to create such a category of oral health provider. The debate centers on whether allowing dental therapists to practice could improve access to dental care in rural and low-income areas where dentists are scarce. Critics raise concerns about patient safety and whether therapists would actually serve underserved communities or simply supplement existing dental practices in well-served areas.",
+    "with": [
+      "Supporters say these midlevel providers – like physician's assistants – could help extend services to underserved communities",
+      "While opponents question training standards and oversight",
+      "Florida is facing what some are calling an oral health crisis",
+      "The debate centers on whether allowing dental therapists to practice could improve access to dental care in rural and low-income areas",
+      "Florida currently does not license dental therapists, though legislation has been proposed to create such a category of oral health provider"
+    ],
+    "without": [
+      "Donate to WUSF public media",
+      "Subscribe to our Newsletters",
+      "Copyright 2025 All Rights reserved WUSF",
+      "WUSF Network navigation menu",
+      "Social media sharing buttons"
+    ],
+    "images": {
+      "total_in_content": 20,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://npr.brightspotcdn.com/dims4/default/c5eb3a6/2147483647/strip/true/crop/5184x3456+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F94%2Fb1%2Ffe0dbae64257a2e288b706a79f9c%2Fimg-3483.JPG",
+          "filename": "",
+          "alt": "A dental hygienist at Family & Cosmetic Dentistry, located at 316 SW 16th Ave, begins working on a patient after her lunch break.",
+          "caption": "A dental hygienist at Family & Cosmetic Dentistry, located at 316 SW 16th Ave, begins working on a patient after her lunch break.",
+          "is_hero": true
+        },
+        {
+          "src": "https://npr.brightspotcdn.com/dims4/default/f2377ad/2147483647/strip/true/crop/5184x3456+0+0/resize/880x587!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F97%2Fbe%2Fc19f3e884a38a09cac88781a7f68%2Fimg-3486.JPG",
+          "filename": "",
+          "alt": "Dr. Bertram Hughes holds a plush animal, known as StarSmilez, which are hand puppets used to help children learn about dental care.",
+          "caption": "Dr. Bertram Hughes holds a plush animal, known as StarSmilez, which are hand puppets used for children's dental education.",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:04:32.302491"
+}

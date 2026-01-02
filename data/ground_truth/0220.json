@@ -1,25 +1,75 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.walgreens.com/topic/promotion/vitamin1.jsp",
   "file_id": "0220",
-  "downloaded_at": "2025-12-20T19:19:05.149423",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "e-commerce",
+        "promotional",
+        "category-page",
+        "deals"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Vitamins and Supplements - Weekly Deals",
     "author": null,
     "publish_date": null,
-    "main_content": "Vitamins and Supplements - Weekly Deals\n\nVitamins & Supplements\nFuel your active lifestyle for less.\n\nBuy one, get one free select vitamins and supplements\n\nselect Walgreens Brand\nselect Nature Made\nselect Nature's Bounty\nselect Osteo Bi Flex\nShop all\n\nBuy 1, Get 1 50% OFF select same brand vitamins & supplements\n\nselect Nature Made\nselect Natrol\nselect Walgreens Brand\nselect Airborne\nShop all\n\nTop Deals on Fitness & Nutrition\n\n$5 off select Alani Nu\n$5 off Six Star Protein\n2/$12.75 Nuun Hydration\nBuy 1 Get 1 50% off select Boost Nutritional Drinks\nShop All",
+    "main_content": "Vitamins & Supplements - Fuel your active lifestyle for less.\n\nBuy one, get one free select vitamins and supplements:\n- select Walgreens Brand\n- select Nature Made\n- select Nature's Bounty\n- select Osteo Bi Flex\n- Shop all BOGO free vitamins and supplements\n\nBuy 1, Get 1 50% OFF select same brand vitamins & supplements:\n- select Nature Made\n- select Natrol\n- select Walgreens Brand\n- select Airborne\n- Shop all BOGO 50% off vitamins and supplements\n\nTop Deals on Fitness & Nutrition:\n- $5 off select Alani Nu\n- $5 off Six Star Protein\n- 2/$12.75 Nuun Hydration\n- Buy 1 Get 1 50% off select Boost Nutritional Drinks\n- Shop All Fitness & Nutrition deals",
     "with": [
-      "Vitamins & Supplements\nFuel your active lifestyle for less.",
+      "Vitamins & Supplements - Fuel your active lifestyle for less.",
       "Buy one, get one free select vitamins and supplements",
       "Buy 1, Get 1 50% OFF select same brand vitamins & supplements",
-      "Top Deals on Fitness & Nutrition"
+      "Top Deals on Fitness & Nutrition",
+      "select Walgreens Brand select Nature Made select Nature's Bounty select Osteo Bi Flex"
     ],
     "without": [
-      "30% OFF select Holiday items*",
-      "Sign up for deals and offers!",
-      "© 2025 Walgreen Co. All rights reserved.",
-      "Skip to main content"
-    ]
+      "Sign in",
+      "Create an account",
+      "30% OFF select Holiday items",
+      "20% OFF $50+ sitewide",
+      "© 2025 Walgreen Co. All rights reserved"
+    ],
+    "images": {
+      "total_in_content": 18,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "/images/adaptive/sp25/5177974_121425_DOLP_M_Vitamins_344x228.jpg",
+          "filename": "5177974_121425_DOLP_M_Vitamins_344x228.jpg",
+          "alt": "Shop vitamins & supplements deals",
+          "caption": "Shop vitamins & supplements deals",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.walgreens.com/images/adaptive/lp/BOGO_Free.png",
+          "filename": "BOGO_Free.png",
+          "alt": null,
+          "caption": "BOGO Free vitamins and supplements",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.walgreens.com/images/adaptive/lp/BOGO_50.png",
+          "filename": "BOGO_50.png",
+          "alt": null,
+          "caption": "Buy 1, Get 1 50% OFF select vitamins & supplements",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.walgreens.com/images/adaptive/sp1/2486628_Sale_DMI_Slot.jpg ",
+          "filename": "2486628_Sale_DMI_Slot.jpg ",
+          "alt": null,
+          "caption": "Shop All Fitness & Nutrition deals",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T19:19:05.149428"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:26:33.584959"
 }

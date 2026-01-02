@@ -1,0 +1,104 @@
+{
+  "schema_version": "2.0",
+  "url": "https://blog.codingconfessions.com/p/how-pytorch-generates-random-numbers",
+  "file_id": "2571",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "programming",
+        "deep-learning",
+        "pytorch",
+        "gpu"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "How PyTorch Generates Random Numbers in Parallel on the GPU",
+    "author": "Abhinav Upadhyay",
+    "publish_date": "2025-12-18",
+    "main_content": "GPUs power modern deep learning models because these models rely on tensor operations, which can be efficiently parallelized on GPUs with their thousands of cores. However, apart from tensor computations, these models also rely on random numbers. For example, to initialize the model weights, during dropout, data sampling, stochastic gradient descent, etc. So, the question arises: how do frameworks like PyTorch generate random numbers in parallel on GPU devices? The answer lies in a clever algorithm called Philox, a counter-based parallel random number generator.\n\nTraditional pseudo random number generators (PRNGs) are sequential and not suitable for parallel hardware. A PRNG needs to reproduce the same sequence of random numbers when initialized with a specific seed. A natural way of achieving this is through a state transformation function that takes the current state as input and produces a new state. This is a sequential model where you can't jump ahead arbitrarily without computing all the previous states, and you can't shard the generation of the random numbers by distributing the work across threads.\n\nTo parallelize the generation of random numbers, we need a different model where we can directly generate the nth random number without having to go through the generation of all the previous n-1 numbers. Philox, short for \"Product HI, LOw, with XOR\", is a counter-based PRNG designed specifically for parallel computation. The key insight is that we can use a cryptographic-like construction to transform a counter into a pseudorandom number. The counter acts like the plaintext, the seed acts like the encryption key, and the output is our pseudorandom number.\n\nPhilox-4x32 operates on four 32-bit integers at a time, taking a 128-bit counter and producing a 128-bit output. The algorithm applies multiple rounds of transformation, where each round performs multiplication and splitting, XOR with keys, and permutation. The multiplication constants M0=0xD2511F53 and M1=0xCD9E8D57 were chosen through careful analysis to ensure good statistical properties. When two 32-bit numbers are multiplied, the 64-bit result is split into high and low parts.\n\nThe Philox algorithm achieves good randomness through several mechanisms: multiplication is a non-linear operation that mixes bits effectively, high-low splitting ensures all 64 bits are used, XOR operations combine different data streams in an invertible but unpredictable way, permutation ensures mixing effect propagates to all output positions, and multiple rounds compound these effects.\n\nKey properties that make Philox attractive include: it is parallel-friendly allowing thousands of cores to generate random numbers simultaneously with different counter values; it is deterministic given the same seed and counter; it has a long period with a 128-bit counter generating 2^128 random numbers; it is fast as operations are primitive and efficient on modern CPUs and GPUs; and it is memory efficient requiring minimal storage per thread.\n\nPyTorch uses Philox-4x32-10 as its primary PRNG for CUDA operations. The implementation maintains four pieces of state: a 128-bit counter divided into offset (lower 64 bits) and subsequence (upper 64 bits), a 64-bit key derived from the seed, cached output from the last round, and a state tracker. Each thread is assigned a unique subsequence number and starts at offset 0 within its subsequence. This design allows massive parallelism where threads can independently compute their random numbers without any coordination.",
+    "with": [
+      "GPUs power modern deep learning models because these models rely on tensor operations, which can be efficiently parallelized on GPUs with their thousands of cores.",
+      "The answer lies in a clever algorithm called Philox, a counter-based parallel random number generator.",
+      "Philox, short for \"Product HI, LOw, with XOR\", is a counter-based PRNG that was designed specifically for parallel computation.",
+      "The key insight behind Philox is that we can use a cryptographic-like construction to transform a counter into a pseudorandom number.",
+      "PyTorch uses Philox-4x32-10 as its primary PRNG for CUDA operations."
+    ],
+    "without": [
+      "Subscribe",
+      "Sign in",
+      "Confessions of a Code Addict",
+      "Share",
+      "Like"
+    ],
+    "images": {
+      "total_in_content": 17,
+      "annotated_count": 8,
+      "items": [
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!nW92!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4dec8f6-3909-4efb-b2b4-9d232bc7de59_1600x800.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4dec8f6-3909-4efb-b2b4-9d232bc7de59_1600x800.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!67va!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64290860-d8d0-4060-8f8a-c82c3a586563_559x220.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64290860-d8d0-4060-8f8a-c82c3a586563_559x220.png",
+          "alt": "Philox takes a counter and a key (derived from the seed) as its input and produces a random number as its output",
+          "caption": "Philox takes a counter and a key (derived from the seed) as its input and produces a random number as its output",
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!esaX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06cdfa72-4c2f-4d77-b65b-81226f1aaecf_223x420.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06cdfa72-4c2f-4d77-b65b-81226f1aaecf_223x420.png",
+          "alt": "The multiplication of two 32-bit values c0 and M0 produces a 64-bit result which is split into hi and lo parts",
+          "caption": "The multiplication of two 32-bit values c0 and M0 produces a 64-bit result which is split into hi and lo parts",
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!WoQ6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F83e565a9-aa32-4665-980d-09e524512bf3_515x980.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F83e565a9-aa32-4665-980d-09e524512bf3_515x980.png",
+          "alt": "The complete Philox transformation across multiple rounds producing four 32-bit random integers",
+          "caption": "The complete Philox transformation across multiple rounds producing four 32-bit random integers",
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!Tizd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b98853b-f9b0-4e54-9d41-0b8c01ca24f6_888x220.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3b98853b-f9b0-4e54-9d41-0b8c01ca24f6_888x220.png",
+          "alt": "The philox_engine constructor definition",
+          "caption": "The philox_engine constructor definition",
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!Us5U!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1a2d726-2b10-4d76-aacc-d1d764a78467_1302x245.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1a2d726-2b10-4d76-aacc-d1d764a78467_1302x245.png",
+          "alt": "The reset_state function that resets the state of the philox_engine",
+          "caption": "The reset_state function that resets the state of the philox_engine",
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!VusU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3bd1ca64-b049-4283-a360-82fd0bd2bc36_1031x320.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3bd1ca64-b049-4283-a360-82fd0bd2bc36_1031x320.png",
+          "alt": "The single_round function that implements one round of Philox",
+          "caption": "The single_round function that implements one round of Philox",
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!9Tmh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2715325-738d-4d65-b2cc-0b77958801b2_679x595.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2715325-738d-4d65-b2cc-0b77958801b2_679x595.png",
+          "alt": "Visualization of the operations performed during a single round of Philox",
+          "caption": "Visualization of the operations performed during a single round of Philox",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:00:40.812352"
+}

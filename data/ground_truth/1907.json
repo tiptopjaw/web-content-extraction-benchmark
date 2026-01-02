@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://hopper.com/hotels",
+  "file_id": "1907",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "travel",
+        "hotels",
+        "booking",
+        "e-commerce"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Hotels | Cheap Hotel Deals & Discounts",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Find the best deals on Hotels. See the latest deals and prices. Search form with fields for destination (Search destination placeholder), dates (Add dates placeholder), and guests (2 guests). Featured destinations section. Popular destinations list including: Las Vegas, Paradise, New York City, Orlando, Chicago, Houston, Miami Beach, Kissimmee, San Diego, Los Angeles, San Antonio, Atlanta, Atlantic City, Nashville, New Orleans, Fort Lauderdale, San Francisco, Dallas, Tampa, Charlotte, Austin, Denver, Washington, Phoenix, Anaheim, Myrtle Beach.",
+    "with": [
+      "Find the best deals on Hotels",
+      "See the latest deals and prices",
+      "Search destination",
+      "Add dates",
+      "Popular destinations"
+    ],
+    "without": [
+      "This site is protected by reCAPTCHA",
+      "Privacy Policy",
+      "Terms and Conditions",
+      "Facebook",
+      "Copyright"
+    ],
+    "images": {
+      "total_in_content": 2,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "/_next/static/media/hotels-hero.d13abf69.jpeg",
+          "filename": "hotels-hero.d13abf69.jpeg",
+          "alt": "hotel hero splash",
+          "caption": "Hotel hero splash",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:00:47.775197"
+}

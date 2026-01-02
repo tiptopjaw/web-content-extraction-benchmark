@@ -1,27 +1,103 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.nal.usda.gov/plant-production-gardening/vegetable-gardening",
   "file_id": "1679",
-  "downloaded_at": "2025-12-20T21:53:38.028335",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "gardening",
+        "agriculture",
+        "how-to",
+        "resource-guide"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Vegetable Gardening",
+    "title": "Vegetable Gardening | National Agricultural Library",
     "author": null,
     "publish_date": null,
-    "main_content": "Grow Veggies at Home\n\"A well-kept vegetable garden is a source not only of profit to the gardener but of pleasure to the entire family.\" (Farmers' Bulletin 934, Home Gardening in the South. 1931)\nNew to vegetable gardening, or looking for ways to update your growing system? Learn about vegetable gardening through NAL collection items and selected external links to information.\n\n\nGardening Guides\nEasy Gardening\nTexas A&M AgriLife Extension\nThese gardening factsheets help homeowners plan a garden and grow vegetables. Available in English and Espanol.\nStarting Seeds Indoors\nUniversity of Minnesota Extension\nThis guide to starting garden plants from seeds indoors covers planning, planting and growing seeds, and moving seedlings outdoors.\nGardening at Home\nCornell University\nGrowing guides offer detailed descriptions and growing instructions, site and soil requirements, varieties, and more.\nGardening History and Heirlooms\nRemember that special plant from your grandparents' garden that you wish you could grow now? Those heirloom fruits and vegetables were valued, saved and passed down through generations.\nSearch our Archive\nPlan a Garden\nLearn about starting a garden, container gardening, and companion planting.\nStart a Garden\nThe basics of starting or planting a vegetable garden can be achieved in six simple steps: Planning; site selection; soil preparation; planting your seeds; maintaining your garden; and harvesting.\nIdentify nutrition and food safety education [usda.gov] for elementary students including School Garden Center Curriculum Resources.\nAsk an Extension Service Agent [nifa.usda.gov/] about veggie gardening!\nContainer Gardening\nWindow sills [archive.org], kitchens [archive.org], patios, balconies, wall gardens, and doorsteps can be ideal for vegetable container gardening. Containers provide a way to grow food and add color to smaller spaces. Learn everything you’ll need to create successful container gardens [illinois.edu] and harvest your bounty before you know it!\nThe Library of Congress' minibibliography on container gardening provides access to titles in braille and audio. [loc.gov]\nCompanion Planting\nCompanion planting takes advantage of the natural \"relationships\" between different vegetable crops and other plants. Utilizing companion planting in the garden improves productivity and also helps to deter harmful pests. Combination planting also aids in weed suppression and attracts beneficial insects and pollinators. [usda.gov]\nWhich plants and vegetables are companions? Check the Friend or Foe Companion Planting Chart [wvu.edu].\n\nBooks on Vegetable Gardening\nContact your local library to borrow books.\n1. All-new illustrated guide to gardening: planning, selection, propagation, organic solutions. Bradley, Fern Marshall and Trevor Cole, eds. NAL call number: SB453.A615 2009.\n2. Building raised beds: easy, accessible garden space for vegetables and flowers. Bradley, Fern Marshall. NAL call number: SB423.7.B73 2015.\n3. Find-it-fast answers for your vegetable garden: 1,251 ways to outsmart insects, diseases, and weeds and keep your plants healthy all season long. Bradley, Fern Marshall. NAL call number: SB608.V4 B73 2007.\n4. Food grown right, in your backyard: a beginner's guide to growing crops at home. McCrate, Colin, Brad Halm, and Hilary Dahl. NAL call number: S494.5.U72M33 2012.\n5. Gardener to gardener: 1,001 greatest gardening tips ever: the best hints and techniques from the pages of Organic gardening magazine. Bradley, Fern Marshall, ed. NAL call number: SB453.5.G328 2002.\n6. Resourceful gardener's guide: garden solutions, hints, and homemade gadgets from gardeners across the country. Bucks, Christine and Fern Marshall Bradley, eds.\n7. Rodale's ultimate encyclopedia of organic gardening: the indispensable green resource for every gardener. Bradley, Fern Marshall, Barbara W. Ellis, and Ellen Phillips, eds. NAL call number: SB453.5.R65 2009.\n8. Vegetable gardening: from planting to picking: the complete guide to creating a bountiful garden. Bradley, Fern Marshall and Jane Courtier. NAL call number: SB321.C823 2006.\n9. Saving vegetable seeds. Bradley, Fern Marshall. NAL call number: SB324.75.B73 2014.\nSearch the NAL Collection\nThe vegetable garden problem solver handbook : identify and manage diseases and…\nThe healthy vegetable garden : a natural, chemical-free approach to soil, biodi…\nThe modern homestead garden : growing self-sufficiency in any size backyard.\nA home gardening intervention to improve vegetable consumption among urban poor…\nSee all 7,160 results\nAsk an Expert\nUSDA. National Institute of Food and Agriculture\nAsk your local Extension Service Agent [usda.gov] about veggie gardening! Learn how to start a vegetable garden, select and grow plants, identify and control garden pests, and more.\n\nExternal Resources\nAmerican Horticultural Society\nNational Herb Garden\nNational Gardening Association\nPage Content Curated By\nAlternative Farming Systems Information Center (AFSIC)\nSpecial Collections",
+    "main_content": "A well-kept vegetable garden is a source not only of profit to the gardener but of pleasure to the entire family. New to vegetable gardening, or looking for ways to update your growing system? Learn about vegetable gardening through NAL collection items and selected external links to information. Easy Gardening resources from Texas A&M AgriLife Extension help homeowners plan a garden and grow vegetables, available in English and Spanish. The University of Minnesota Extension provides a guide to starting garden plants from seeds indoors, covering planning, planting and growing seeds, and moving seedlings outdoors. Cornell University offers growing guides with detailed descriptions and instructions, site and soil requirements, varieties, and more. Gardening History and Heirlooms section features historical documents including The Home Vegetable Garden (1906), The Small Vegetable Garden (1917), The City Home Garden (1924), and Diseases and Insects of Garden Vegetables (1931). Starting a vegetable garden can be achieved in six simple steps: Planning; site selection; soil preparation; planting your seeds; maintaining your garden; and harvesting. Container gardening enables growing food in window sills, kitchens, patios, balconies, wall gardens, and doorsteps. Companion planting takes advantage of natural relationships between different vegetable crops and other plants, improving productivity, deterring harmful pests, suppressing weeds, and attracting beneficial insects and pollinators. Recommended books on vegetable gardening include titles on garden planning, raised beds, pest management, and organic gardening methods. Ask your local Extension Service Agent about veggie gardening to learn how to start a vegetable garden, select and grow plants, identify and control garden pests, and more.",
     "with": [
-      "\"A well-kept vegetable garden is a source not only of profit to the gardener but of pleasure to the entire family.\" (Farmers' Bulletin 934, Home Gardening in the South. 1931)",
-      "New to vegetable gardening, or looking for ways to update your growing system? Learn about vegetable gardening through NAL collection items and selected external links to information.",
-      "The basics of starting or planting a vegetable garden can be achieved in six simple steps: Planning; site selection; soil preparation; planting your seeds; maintaining your garden; and harvesting.",
-      "Companion planting takes advantage of the natural \"relationships\" between different vegetable crops and other plants. Utilizing companion planting in the garden improves productivity and also helps to deter harmful pests.",
-      "Contact your local library to borrow books."
+      "A well-kept vegetable garden is a source not only of profit to the gardener but of pleasure to the entire family.",
+      "Starting a vegetable garden can be achieved in six simple steps: Planning; site selection; soil preparation; planting your seeds; maintaining your garden; and harvesting.",
+      "Container gardening enables growing food in window sills, kitchens, patios, balconies, wall gardens, and doorsteps.",
+      "Companion planting takes advantage of natural relationships between different vegetable crops and other plants.",
+      "Ask your local Extension Service Agent about veggie gardening to learn how to start a vegetable garden."
     ],
     "without": [
-      "An official website of the United States government",
-      "Menu",
-      "Ask A Question",
-      "What would you like to find?",
-      "Policies and Links"
-    ]
+      "Official website of the United States government",
+      "Here's how you know",
+      "National Agricultural Library",
+      "Skip to main content",
+      "USDA.gov"
+    ],
+    "images": {
+      "total_in_content": 10,
+      "annotated_count": 8,
+      "items": [
+        {
+          "src": "/sites/default/files/styles/card/public/feature-image/Cucumber%20and%20tomato%20plants%20pixabay%206614241.jpg?h=80557b9b&itok=vR9_Jgv2",
+          "filename": "Cucumber%20and%20tomato%20plants%20pixabay%206614241.jpg",
+          "alt": null,
+          "caption": "Cucumber and tomato plants",
+          "is_hero": true
+        },
+        {
+          "src": "/sites/default/files/styles/portrait/public/dc-doc-cover-image/farmbul0255_0001.jpg?h=521f3d2a&itok=nKHqgW9e",
+          "filename": "farmbul0255_0001.jpg",
+          "alt": null,
+          "caption": "The Home Vegetable Garden, 1906",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/styles/portrait/public/dc-doc-cover-image/farmbul0818_0001.jpg?h=d4950b57&itok=rrB140PH",
+          "filename": "farmbul0818_0001.jpg",
+          "alt": null,
+          "caption": "The Small Vegetable Garden, 1917",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/styles/portrait/public/dc-doc-cover-image/farmbul1044rev1924_0001.jpg?h=9fd403d9&itok=Z2RftnOd",
+          "filename": "farmbul1044rev1924_0001.jpg",
+          "alt": null,
+          "caption": "The City Home Garden, 1924",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/styles/portrait/public/dc-doc-cover-image/farmbul1371rev1931_0001.jpg?h=2951a5f2&itok=La1I4FwA",
+          "filename": "farmbul1371rev1931_0001.jpg",
+          "alt": null,
+          "caption": "Diseases and Insects of Garden Vegetables, 1931",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/styles/card/public/media/image/Peppers_USDA_Bauer_1.jpg?h=53f45f9d&itok=QD999BET",
+          "filename": "Peppers_USDA_Bauer_1.jpg",
+          "alt": "yellow pepper",
+          "caption": "yellow pepper",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/styles/card/public/media/image/Container_Gardening_AlabamaExtension_Flicr.jpg?h=53f45f9d&itok=y98sKYtQ",
+          "filename": "Container_Gardening_AlabamaExtension_Flicr.jpg",
+          "alt": "blue planting container",
+          "caption": "blue planting container",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/styles/card/public/media/image/pumpkincornpepper_d1267-2.jpg?h=53f45f9d&itok=kd-6Wpoz",
+          "filename": "pumpkincornpepper_d1267-2.jpg",
+          "alt": "pumpkin corn pepper",
+          "caption": "pumpkin corn pepper",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:53:38.028341"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:46:24.646466"
 }

@@ -1,0 +1,69 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.nhlbi.nih.gov/education/dash-eating-plan",
+  "file_id": "0513",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "health",
+        "nutrition",
+        "diet",
+        "guide",
+        "hypertension"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "DASH Eating Plan | NHLBI, NIH",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The DASH eating plan requires no special foods and instead provides daily and weekly nutritional goals. This plan recommends eating vegetables, fruits, and whole grains; including fat-free or low-fat dairy products, fish, poultry, beans, nuts, and vegetable oils; limiting foods that are high in saturated fat, such as fatty meats, full-fat dairy products, and tropical oils such as coconut, palm kernel, and palm oils; and limiting sugar-sweetened beverages and sweets. Based on these recommendations, the following table shows examples of daily and weekly servings that meet DASH eating plan targets for a 2,000-calorie-a-day diet. Daily servings include: Grains 6-8, Meats/poultry/fish 6 or less, Vegetables 4-5, Fruit 4-5, Low-fat/fat-free dairy 2-3, Fats and oils 2-3, Sodium 2,300 mg. Weekly servings include: Nuts/seeds/dry beans/peas 4-5, Sweets 5 or less. When following the DASH eating plan, it is important to choose foods that are low in saturated and trans fats, rich in potassium, calcium, magnesium, fiber, and protein, and lower in sodium.",
+    "with": [
+      "DASH (Dietary Approaches to Stop Hypertension) is a flexible and balanced eating plan that helps create a heart-healthy eating style for life.",
+      "The DASH eating plan requires no special foods and instead provides daily and weekly nutritional goals.",
+      "Eating vegetables, fruits, and whole grains and including fat-free or low-fat dairy products, fish, poultry, beans, nuts, and vegetable oils.",
+      "Limiting foods that are high in saturated fat, such as fatty meats, full-fat dairy products, and tropical oils.",
+      "When following the DASH eating plan, it is important to choose foods that are low in saturated and trans fats and rich in potassium, calcium, magnesium, fiber, and protein."
+    ],
+    "without": [
+      "Skip to main content",
+      "An official website of the United States government",
+      "Share this page",
+      "Live Chat with us, Monday through Friday",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 12,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "/sites/default/files/styles/component_banner_small_image_wide_phone/public/2021-12/ChickenQuesadillasWithRedAndGreenSalsa_resize.jpg?h=9adaab0f&itok=qfbmZBRE",
+          "filename": "ChickenQuesadillasWithRedAndGreenSalsa_resize.jpg",
+          "alt": "healthy chicken quesadilla with brown rice and tomatoes",
+          "caption": "healthy chicken quesadilla with brown rice and tomatoes",
+          "is_hero": true
+        },
+        {
+          "src": "/sites/default/files/inline-images/DASH%20Easting%20Plan%20Pinterest_V3.jpg",
+          "filename": "DASH%20Easting%20Plan%20Pinterest_V3.jpg",
+          "alt": "Infographic with list of healthy DASH food, and food to avoid. See description.",
+          "caption": "Eat this: vegetables, fruits, whole grains, fat-free or low-fat dairy, fish, poultry, beans, nuts and seeds, vegetable oils. Limit this: fatty meats, full-fat dairy, sugar sweetened beverages, sweets, sodium intake.",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/styles/16x9_crop/public/2024-12/shutterstock_243483301_r.jpg?h=20141435&itok=zr5BFX0n",
+          "filename": "shutterstock_243483301_r.jpg",
+          "alt": " A fresh assortment of colorful fruits and vegetables forms a heart on a cutting board.",
+          "caption": "A fresh assortment of colorful fruits and vegetables forms a heart on a cutting board.",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:14:44.872065"
+}

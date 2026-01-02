@@ -1,27 +1,117 @@
 {
+  "schema_version": "2.0",
   "url": "https://domainstorytelling.org/quick-start-guide",
   "file_id": "2479",
-  "downloaded_at": "2025-12-20T23:30:47.388960",
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "guide",
+        "tutorial",
+        "methodology",
+        "domain-driven-design"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Quick-Start Guide - Domain Storytelling",
     "author": null,
     "publish_date": null,
-    "main_content": "What you need to know about Domain Storytelling to get started.\n\nYour First Domain Story\nMatthew runs a small movie theater for arthouse films—called Metropolis—that enjoys an excellent reputation among cineastes. One day Matthew meets his school friend Anna. When he learns that Anna has been developing apps for almost ten years, he gets an idea.\n\nMovie theater manager Matthew: “My customers like the old-fashioned charm of my cinema. But they do not like my old-fashioned box office. Today’s moviegoers are not used to buying tickets in person at the box office anymore. Customers have been asking me to sell tickets online. Can you develop an app for me?”\n\nApp developer Anna: “You run just one cinema, and there’s only a handful of movies per week, two or three shows a day. Sounds easy.”\n\nMatthew: “Great! But one small thing: We also show international movies in foreign languages in our program. Also, in addition to the online sales through the app, I still need the box office for less tech-savvy moviegoers. And I’d like users of the app to be able to sign up for a yearly subscription.”\n\nAnna: “Subscriptions? Online and offline sales? Shows in foreign languages? That’s more complicated than I thought….”\n\nThe Workshop Begins\nThe next day they meet again in Matthew’s office. They are standing in front of a whiteboard, and Anna is holding a marker in her hand.\n\nApp developer Anna: “Yesterday you said that the app essentially has three use cases: One: selling standard tickets; two: selling special tickets for foreign-language movies; and three: signing up for a yearly subscription.”\n\nMovie theater manager Matthew: “Uh, yes, that’s right.”\n\nAnna: “I would like to understand how Metropolis operates today. That will help me to develop an app that meets your requirements. Could you please explain to me how you sell tickets at the box office?”\n\nMatthew: “Sure. You sell the tickets and mark the seat in the seating plan and…”\n\nAnna: “Wait a minute. Who sells the tickets?”\n\nMatthew: “A cashier.”\n\nAnna draws a stick figure on the whiteboard and writes “cashier” underneath.\n\nAnna: “Who buys the tickets?”\n\nMatthew: “A moviegoer. One without a subscription.”\n\nAnna draws a second stick figure and calls it “moviegoer.” Next to it, she writes down that the moviegoer has no subscription.\n\nAnna: “What does a moviegoer have to do to buy a ticket?”\n\nMatthew: “They tell the cashier which show they want to see.”\n\nAnna: “I will draw a speech bubble as an icon for the show here, because the two of them talk to each other.”\n\nAnna continues drawing and numbers the arrow.\n\nOne Sentence After the Other\nAnna: “And then?”\n\nMatthew: “Usually the cashier suggests the best seat available.”\n\nAnna: “Ah, so the moviegoer picks a seat in advance! How does the cashier suggest seats?”\n\nMatthew: “I take the seating plan for the show and search for available seats. In the seating plan, I can see which seats have already been sold and which are still available.”\n\nAnna draws and explains the icons.\n\nAnna: “Here, I’m using a film icon instead of the speech bubble to symbolize the show.”\n\nMatthew: “The seating plan is a grid. Can you draw a grid?”\n\nThen, Anna reads back what she has understood.\n\nAnna: “Second, the cashier gets the seating plan for the show. Third, they search for available seats. Is that ok?”\n\nMatthew nods in agreement.\n\nAnna: “And now the cashier suggests the available seats to the moviegoer?”\n\nMatthew: “Exactly.”\n\nRetelling and Finishing the Story\nWithin a few minutes, the whiteboard is filled with a story about a moviegoer who buys tickets from a cashier at the box office. Icons and arrows are rearranged during the session. Finally, Anna retells the story from the beginning.\n\nMatthew: “Yes, that’s right. But I forgot about the international movies.”\n\nAnna: “You mean the shows in a foreign language? I thought you sell special tickets for those.”\n\nMatthew: “No, you only have to point out to the moviegoers which language the movie will be shown in.”\n\nAnna: “When does the cashier do that?”\n\nMatthew: “Here.”\n\nMatthew points to the arrow with the number 4. Anna adds a comment “and mentions language.”\n\nAnna: “It seems we are finished with our little ‘Going to the movies’ story. Of course, we have looked only at the best possible outcome; I call this the ‘happy path.’ I will ask you about other cases later.”\n\nAfter a few more Metropolis domain stories, Anna has gained a good insight into the cinema domain. She knows terms like “seating plan,” “show,” “cashier,” “to search for available seats,” and “to mark seats.” She has an initial understanding of the most important processes. With this knowledge about the purpose of the app and its context, she can think about how the app will work and how the processes will change.\n\nThe Pictographic Language\nTo record domain stories visually, you need a set of building blocks and rules for combining them. The building blocks consist of icons, arrows, and text. In the examples on this website, we use Google’s Material icons that represent typical office work. You should compile your own set of pictograms that fits to your domain.\n\nActors\nDomain stories are told from an actor’s’ perspective. An actor can be a person, a group of people, or a software system. We use different icons to represent those different kinds of actors. What actors have in common is that they play an active role in the domain story.\n\nWork Objects\nActors create, work with, and exchange work objects such as documents, physical things, and digital objects. They also exchange information about work objects. Like actors, the work objects are labeled with a term from the domain language (like “showtimes,” “movie ticket,” etc.).\n\nNote that a work object can have different icons within the same domain story if the medium changes. For example, a moviegoer could receive their movie ticket via email and print it at home—the same ticket is represented with two different icons.\n\nActivities\nThe actors’ activities are shown as arrows and labeled with verbs from the domain language (e.g., “offers,” “buys,” “recommends”). Note: Actors and work objects are nouns, and activities are verbs.\n\nSequence Numbers\nTo tell a story, you need more than one sentence. Since stories are told one sentence after the other, the sentences can be brought into an order by numbering them. We usually number the sentences by adding a sequence number to the origin of the arrow that represents an activity (the predicate of a sentence).\n\nAnnotations\nThe pictographic sentences are complemented by textual annotations. Where necessary, we annotate information about variations (other cases, optional activities, possible errors). We use annotations to explain terms from the domain language, and to document assumptions or anything else that is noteworthy.\n\nGroups\nA group is represented as an outline that clusters parts of a story that somehow belong together. The group can take any form, for example a rectangle, a circle, or a free-form shape. To describe the meaning of a group, label it accordingly. Here are some examples of what can be expressed by groups:\n\nActivities that are repeated\nActivities that are optional\nParts of the story taking place in different locations\nOrganizational boundaries\nSubdomains\n\nPutting It All Together\nActivities connect actors and work objects to form sentences. Every sentence starts with an actor who initiates an activity:\n\nDomain stories visualize who (actor) does what (activity) with what (work objects) with whom (other actors).\n\nThe basic syntax is: subject – predicate – object. More complex syntax is allowed as well:\n\nEvery actor appears only once in the domain story. But for every activity, we draw a separate work object (even if the same work object already exists in a previous sentence). If you follow that rule, arranging work objects and arrows becomes a lot easier. There is another good reason for this. As the story evolves, a work object may change its status or representation.\n\nChapter 2 of the Domain Storytelling book covers the pictographic language in more detail, including recommendations for good language style and compiling your own icon sets.\n\nScenario-based Modeling\nAvoid Premature Abstractions\nMost business process modeling approaches show what can possibly happen in a process:\n\nOf course, there is value in “algorithmic” descriptions of business processes, and one cannot develop software without thinking about conditionals. But premature abstractions are often wrong and not useful for understanding a domain.\n\nFirst establish a sound understanding of typical cases—tell stories. Only then discuss what else could happen—collect rules.\n\nScenarios in Domain Storytelling\nA domain story is a concrete, meaningful examples of a business process. The pictographic language gets by without symbols for conditionals, variations, or alternatives. With Domain Storytelling, you model just the most important alternatives—each one as an individual domain story.\n\nWhen we model a business process, every possible instance could be described in the form a domain story. How do we narrow down the vast number of instances?\n\nWe recommend you start with modeling the default case—the “80% case”—and the “happy path” first.\n\nWe will take another look at the cinema example to illustrate our approach:\n\nThe movie theater Metropolis sells (a) tickets for single shows and (b) yearly subscriptions. This means app developer Anna cannot simply ask movie theater manager Matthew to tell her a story about a moviegoer who approaches the cashier. Instead, she asks him which case is more common, and he tells her that selling tickets for single shows makes up 75% of his revenue. Therefore, Anna asks Matthew to tell her about this case.\n\nWhile she is recording the story additional assumptions are made, to avoid drifting off to different story lines: “Assuming that there are still seats available, what do you do next?” Anna writes all these assumptions down as annotations.\n\nUsually, a few domain stories are sufficient to understand a business process. Small variations in a business process such as optional activities are simply not worth the effort of modeling them separately. Instead, you should use annotations.\n\nChapter 3 of the Domain Storytelling book gives you more guidance on which scenarios to explore and how to keep an overview.\n\nScope\nDomain Storytelling is not a “one-size-fits-all” approach. Depending on the purpose, the modeler chooses a fitting scope for the domain story:\n\nThe granularity determines the level of detail: Are you interested in the overview or the details? Domain stories can be coarse-grainer, fine-grained, and everything in between.\nDomain Stories take place at a point in time. They either describe a process as it currently is (as-is) or how it will (possibly) look in the future (to-be).\nWhen modeling domain stories, you either include or omit (existing or yet to be built) software. This scope factor is called domain purity. We call domain stories without software systems pure, and those with software systems digitalized.\n\nAs an example, the above “selling tickets at the box office” domain story is fine-grained, as-is, and pure.\n\nChapter 4 of the Domain Storytelling book describes the scope factors in more detail. A short case study describes typical scopes of domain stories and how you can “travel” from one scope to the next.\n\nThe Workshop Format\nYou can use Domain Storytelling just as a graphical notation. But it is much more than that. It is a method for having meaningful conversations about business processes.\n\nDomain Storytelling is a conversation technique.\n\nWorkshop participants include domain experts (often from several departments), IT experts and a moderator. All participants contribute to the story. The moderator needs to steer the storytellers in the right direction to ensure that their contributions serve the overall purpose.The moderator keeps the participants’ story going by asking questions like these:\n\n“What happens next?”\n“Where do you get this information?”\n“How do you determine what to do next?”\n“How do you do that?”\n\nEngage the participants without imposing your opinion on them. Use the language of the participants, not your own!\n\nAs the participants tell their story, the moderator records it graphically—step-by-step, thus determining the pace of the storytelling. The story needs to be visible for all participants (e.g. on a whiteboard or projected on a screen). The participants see what gets recorded and give feedback immediately. Note, however, that the visualization of a domain story was not intended to be a stand-alone document. First and foremost, the picture is for the people who are telling the story while they are telling it. Later, it will serve as a memory aid for those who participated in the workshop and for telling the story to other people.\n\nWhen the story seems to be finished, tell the story from the beginning and try to get agreement: Did we miss something? Is something obviously wrong? Do all domain experts agree with the story? Revisit the annotations for possible alternative stories. Let the participants decide which ones are minor variations and which deserve their own domain story.\n\nOther artifacts of the software development process will crystallize and grow around the domain stories as well, for example context maps and requirements. You can also continue the conversation about the domain with the help of other modeling techniques, such as Example Mapping and EventStorming.\n\nChapter 6 of the Domain Storytelling book explains in much more depth what happens before, during, and after a workshop. It also covers remote workshops, sizing of domain stories, and how to deal with difficult situations.\n\nChapter 7 of the Domain Storytelling book covers the relationships between Domain Storytelling an other collaborative modeling techniques, including when to use which method and how to combine them.\n\nTools\nOften a whiteboard and some sticky notes are all you need.\n\nBut since drawing the icons can be tedious, we have developed a whiteboard kit to speed up the recording process. You can download this template and make your own kit.\n\nOften, you want to model several Domain Stories in one workshop. But modeling space on whiteboards, flip charts and walls is limited. Digital modeling tools are an alternative. Use a projector to share the computer screen so that everyone can see how the Domain Story evolves. You can visualize Domain Stories with tools like Miro or diagrams.net. However, such general-purpose tools have limitations.\n\nWith Egon.io—The Domain Story Modeler, we at WPS – Workplace Solutions built a modeling tool that is specifically designed for Domain Stories.\n\nEgon.io is open source and runs in your browser. No set-up and no registration required. Try it online!\n\nChapter 5 of the Domain Storytelling book explains the pros and cons of several analog and digital tools, including tips for choosing a tool.",
+    "main_content": "Your First Domain Story: Matthew runs a small movie theater called Metropolis. His friend Anna is an app developer. Matthew asks Anna to develop an online ticketing app because customers don't want to buy tickets in person anymore. Anna realizes she needs to understand how the cinema operates today. They conduct a workshop where Anna draws on a whiteboard, starting with actors: a cashier and a moviegoer. They work through the process step by step, with Anna drawing icons and numbering activities. The story shows how a moviegoer buys a ticket at the box office. Matthew later remembers to mention that international movies need to indicate the language. After several domain stories, Anna gains understanding of terms like 'seating plan,' 'show,' and 'to mark seats.'\n\nThe Pictographic Language: Domain stories use building blocks consisting of icons, arrows, and text. Actors are persons, groups of people, or software systems with an active role. Work objects are documents, physical things, or digital objects that actors create and exchange. Activities are shown as arrows labeled with verbs. Sequence numbers order sentences since stories are told one after another. Annotations provide textual context about variations, assumptions, and domain terms. Groups cluster related parts of a story, such as repeated activities, optional activities, or organizational boundaries.\n\nActivities connect actors and work objects to form sentences with syntax: subject-predicate-object. Every actor appears only once, but each activity has a separate work object. This allows work objects to change status as the story evolves.\n\nScenario-based Modeling: Most process modeling shows what can possibly happen using conditionals and variations. However, premature abstractions are often wrong. Domain Storytelling recommends first establishing understanding of typical cases—the '80% case' or 'happy path'—before discussing alternatives. Each alternative becomes its own domain story. Small variations are handled with annotations rather than separate stories.\n\nScope: Domain Storytelling adapts to different purposes. Granularity determines detail level: coarse-grained overview or fine-grained details. Time scope describes processes as they currently are (as-is) or how they will be (to-be). Domain purity includes or omits software systems. Pure stories exclude software; digitalized stories include it.\n\nThe Workshop Format: Domain Storytelling is a conversation technique, not just notation. Participants include domain experts, IT experts, and a moderator. The moderator records the story graphically while asking questions like 'What happens next?' and 'How do you determine what to do next?' The story must be visible to all participants. When finished, the moderator retells the story from the beginning to confirm accuracy and check for missing elements.\n\nTools: Simple whiteboards with sticky notes work well. The Whiteboard Kit speeds up recording with pre-made icon templates. Digital tools like Miro or diagrams.net offer alternatives. Egon.io is an open-source browser-based tool specifically designed for Domain Stories.",
     "with": [
       "Domain stories visualize who (actor) does what (activity) with what (work objects) with whom (other actors).",
-      "Domain Storytelling is a conversation technique.",
-      "First establish a sound understanding of typical cases—tell stories. Only then discuss what else could happen—collect rules.",
-      "We recommend you start with modeling the default case—the “80% case”—and the “happy path” first.",
-      "To record domain stories visually, you need a set of building blocks and rules for combining them."
+      "The basic syntax is: subject - predicate - object.",
+      "Every actor appears only once in the domain story. But for every activity, we draw a separate work object (even if the same work object already exists in a previous sentence).",
+      "We recommend you start with modeling the default case—the '80% case'—and the 'happy path' first.",
+      "Domain Storytelling is a conversation technique."
     ],
     "without": [
-      "Quick Start DDD Requirements Training Book Articles Contact",
       "© 2025 Domain Storytelling. Powered by Jekyll & Minimal Mistakes.",
-      "Follow: Improve this page Licensed CC-BY-4.0 Imprint Privacy Contact",
-      "Skip to primary navigation Skip to content Skip to footer",
-      "Spark a fire. Tell a story. Paint a picture"
-    ]
+      "Skip to primary navigation",
+      "https://github.com/WPS/domainstorytelling.org",
+      "Privacy Policy",
+      "Follow:"
+    ],
+    "images": {
+      "total_in_content": 19,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "/assets/images/quick-start-guide/01fig01-first-actor.svg",
+          "filename": "01fig01-first-actor.svg",
+          "alt": "The first actor",
+          "caption": "The first actor",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/images/quick-start-guide/01fig02-second-actor-gray.svg",
+          "filename": "01fig02-second-actor-gray.svg",
+          "alt": "The second actor and the first annotation",
+          "caption": "The second actor and the first annotation",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/images/quick-start-guide/01fig03-first-activity-gray.svg",
+          "filename": "01fig03-first-activity-gray.svg",
+          "alt": "The first activity",
+          "caption": "The first activity",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/images/quick-start-guide/01fig04-second-activity-gray.svg",
+          "filename": "01fig04-second-activity-gray.svg",
+          "alt": "The second activity",
+          "caption": "The second activity",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/images/quick-start-guide/01fig05-third-activity-gray.svg",
+          "filename": "01fig05-third-activity-gray.svg",
+          "alt": "The third activity",
+          "caption": "The third activity",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/images/quick-start-guide/01fig07-whole-story.egn.svg",
+          "filename": "01fig07-whole-story.egn.svg",
+          "alt": "The whole story",
+          "caption": "The whole story",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/images/quick-start-guide/01fig08-another-annotation-gray.svg",
+          "filename": "01fig08-another-annotation-gray.svg",
+          "alt": "Adding another annotation",
+          "caption": "Adding another annotation",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/images/quick-start-guide/02fig01-buildingblocks-actors.svg",
+          "filename": "02fig01-buildingblocks-actors.svg",
+          "alt": "Typical actors",
+          "caption": "Typical actors",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/images/quick-start-guide/02fig02-buildingblocks-workobjects.svg",
+          "filename": "02fig02-buildingblocks-workobjects.svg",
+          "alt": "Typical work objects. Note: “movie ticket” and “price” each appear twice with different icons.",
+          "caption": "Typical work objects. Note: \"movie ticket\" and \"price\" each appear twice with different icons.",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/images/quick-start-guide/02fig04-buildingblocks-activities.svg",
+          "filename": "02fig04-buildingblocks-activities.svg",
+          "alt": "Typical activities",
+          "caption": "Typical activities",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:30:47.388967"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:34:39.781452"
 }

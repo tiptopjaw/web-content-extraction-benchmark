@@ -1,25 +1,68 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.ijcsa.org/page-852782",
   "file_id": "1459",
-  "downloaded_at": "2025-12-20T22:25:19.021644",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "news",
+        "blog",
+        "cleaning-industry",
+        "association"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "IJCSA Updates & Industry News",
-    "author": "IJCSA - (Administrator)",
+    "title": "International Janitorial Cleaning Services Association",
+    "author": null,
     "publish_date": null,
-    "main_content": "Mother Creates Fake News Broadcast Of Messy Rooms\n16 Dec 2025 9:49 AM | IJCSA - (Administrator)\nMother creates fake AI news broadcast to scare kids into cleaning rooms\nThe mother used AI-powered video editing tools—reportedly including Adobe After Effects or Synthesia—to overlay footage of her children's toy-strewn rooms onto a mock news segment.\nThe Content: The \"breaking news\" report featured a serious-looking AI news anchor (often identified as \"Maria\" or \"Samantha\") describing the chaotic state of the rooms as a developing national crisis.\nThe Threat: The newscast warned that if the children, often identified as twins named Elon and Lux or Vivian and Francesca, did not clean immediately, a \"special service\" or a \"giant bug\" would arrive to remove all their toys.\nThe Result: The children were captured on camera watching the broadcast in shock and disbelief before frantically rushing to clean their rooms.\nMore at source: India Times\nWatch The Video Here\nFind A Home Cleaning Service Here\nMore Cleaning & Janitorial News Here\n\nBay Area care-home employee who left pitcher of cleaning fluid unattended, leading to deaths of two residents, sentenced to 40 days\n26 Nov 2025 8:27 AM | IJCSA - (Administrator)\nBay Area care-home employee who left pitcher of cleaning fluid unattended, leading to deaths of two residents, sentenced to 40 days\nAn East Palo Alto woman was sentenced to 40 days in county jail for accidentally killing two and hospitalizing one Atria Assisted Living Facility resident by serving them toxic cleaning fluid instead of juice for breakfast, San Mateo County District Attorney Steve Wagstaffe said.\nMendoza — who worked at the facility — poured the toxic cleaning fluid into a pitcher, intending to use it to clean the kitchen after breakfast. However, another employee took the pitcher and poured it into the three residents’ glasses, the DA’s office said. The San Mateo Fire Department and 911 was called at the time of the ingestion.\nMore at source: Daily Journal\nDiscuss This Article Here\nFind A Green Cleaning Service Here\nMore Cleaning & Janitorial News Here\n\nVeterans Day - Office Closed\n11 Nov 2025 8:31 AM | IJCSA - (Administrator)\nPlease be advised the office will be closed today in observance and remembrance of Veterans Day.\n\nHomeaglow’s $19 house cleaning service traps customers in hard-to-cancel subscriptions, watchdog group says\n24 Oct 2025 9:18 AM | IJCSA - (Administrator)\nHomeaglow’s $19 house cleaning service traps customers in hard-to-cancel subscriptions, watchdog group says\nMany consumers complained the one-time $19 cleaning came with an automatic enrollment in a six-month cleaning subscription, called ForeverClean. The subscription’s monthly fees were $49 to $59. But Homeaglow’s independent contractors also charge their own cleaning fees on top of Homeaglow’s fees, with prices varied by job.\nSome consumers who tried to cancel were told they’d owe hefty early termination fees, in some cases $150 to $210.\nTruth in Advertising has sent letters to the FTC and attorneys general in 12 states, including Illinois, and the District of Columbia asking them to investigate.\nThe nonprofit organization says the automatic subscription model, which it contends is not clearly disclosed, violates state consumer protection laws and the federal Restore Online Shoppers’ Confidence Act of 2010, which protects consumers against so-called “negative option” marketing that employs automatic subscriptions without clear disclosures of the terms.\nThe setup is “especially egregious” and “deceptive,” says Laura Smith, legal director for Truth in Advertising.\nHomeaglow agreed to pay $30,000 to settle a lawsuit filed last year by Pennsylvania, and it promised to clearly and conspicuously disclose its membership terms on its websites.\nMore at source: WBEZ Chicago\nFind A Cleaning Service Here\nDiscuss This Article Here\nMore Cleaning & Janitorial News Here\n\nCleaning Up Crimes Scenes Takes A Strong Stomach And Stronger Mind\n13 Oct 2025 9:37 AM | IJCSA - (Administrator)\nCleaning Up Crimes Scenes Takes A Strong Stomach And Stronger Mind\nMurder, suicide and fatal workplace accidents leave emotional and psychological scars for colleagues who have to continue working in offices that became crime scenes.",
+    "main_content": "IJCSA Updates & Industry News\n\nMother Creates Fake News Broadcast Of Messy Rooms (16 Dec 2025)\n\nA mother used AI-powered video editing tools to create a fake news broadcast to scare her children into cleaning their rooms. The 'breaking news' report featured a serious-looking AI news anchor describing the chaotic state of the rooms as a developing national crisis. The newscast warned that if the children did not clean immediately, a 'special service' or a 'giant bug' would arrive to remove all their toys. The children were captured on camera watching the broadcast in shock and disbelief before frantically rushing to clean their rooms. More at source: India Times\n\nBay Area care-home employee who left pitcher of cleaning fluid unattended, leading to deaths of two residents, sentenced to 40 days (26 Nov 2025)\n\nAn East Palo Alto woman was sentenced to 40 days in county jail for accidentally killing two and hospitalizing one Atria Assisted Living Facility resident by serving them toxic cleaning fluid instead of juice for breakfast. The woman, Alisia Rivera Mendoza, 36, previously pleaded no contest to felony elder abuse. In addition to her jail sentence, she received 350 hours of community service, two years of supervised probation and is banned from working in nursing homes and care facilities. More at source: Daily Journal\n\nVeterans Day - Office Closed (11 Nov 2025)\n\nPlease be advised the office will be closed today in observance and remembrance of Veterans Day.\n\nHomeaglow's $19 house cleaning service traps customers in hard-to-cancel subscriptions, watchdog group says (24 Oct 2025)\n\nMany consumers complained the one-time $19 cleaning came with an automatic enrollment in a six-month cleaning subscription, called ForeverClean. The subscription's monthly fees were $49 to $59. But Homeaglow's independent contractors also charge their own cleaning fees on top of Homeaglow's fees, with prices varied by job. Some consumers who tried to cancel were told they'd owe hefty early termination fees, in some cases $150 to $210. Truth in Advertising has sent letters to the FTC and attorneys general in 12 states, including Illinois, and the District of Columbia asking them to investigate.\n\nCleaning Up Crimes Scenes Takes A Strong Stomach And Stronger Mind (13 Oct 2025)\n\nMurder, suicide and fatal workplace accidents leave emotional and psychological scars for colleagues who have to continue working in offices that became crime scenes. Crime scene cleanup technicians require specialized training to handle these traumatic situations while restoring spaces to their original condition.",
     "with": [
-      "Mother creates fake AI news broadcast to scare kids into cleaning rooms",
-      "Bay Area care-home employee who left pitcher of cleaning fluid unattended, leading to deaths of two residents, sentenced to 40 days",
-      "Homeaglow’s $19 house cleaning service traps customers in hard-to-cancel subscriptions, watchdog group says",
-      "Cleaning Up Crimes Scenes Takes A Strong Stomach And Stronger Mind"
+      "A mother used AI-powered video editing tools to create a fake news broadcast to scare her children into cleaning their rooms.",
+      "An East Palo Alto woman was sentenced to 40 days in county jail for accidentally killing two and hospitalizing one Atria Assisted Living Facility resident by serving them toxic cleaning fluid instead of juice for breakfast.",
+      "Please be advised the office will be closed today in observance and remembrance of Veterans Day.",
+      "Many consumers complained the one-time $19 cleaning came with an automatic enrollment in a six-month cleaning subscription, called ForeverClean.",
+      "Murder, suicide and fatal workplace accidents leave emotional and psychological scars for colleagues who have to continue working in offices that became crime scenes."
     ],
     "without": [
-      "Home | Join | Find Service | Courses | Log-In | Help",
+      "Blog RSS feed",
+      "Log in",
       "IJCSA POWER SEARCH",
-      "Storm Damage Update 12/20/25 - We are experiencing high call volume. To find a certified water damage restoration service near you please click here.",
-      "Featured member"
-    ]
+      "First | Prev",
+      "Add comment"
+    ],
+    "images": {
+      "total_in_content": 12,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "/resources/Pictures/75439282_2480925265521477_2901271041470889984_o_2480925258854811.jpg",
+          "filename": "75439282_2480925265521477_2901271041470889984_o_2480925258854811.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "/resources/Pictures/IJCSA%20Green%20Cleaning%20Certification.jpg",
+          "filename": "IJCSA%20Green%20Cleaning%20Certification.jpg",
+          "alt": null,
+          "caption": "IJCSA Green Cleaning Certification",
+          "is_hero": false
+        },
+        {
+          "src": "https://cowboystatedaily.imgix.net/Crime-scene-GettyImages-1337341833-10.12.25.jpg?ixlib=js-3.8.0&q=75&auto=format%2Ccompress",
+          "filename": "Crime-scene-GettyImages-1337341833-10.12.25.jpg",
+          "alt": "A Casper-based company does more than clean carpets and ducts. It's also called to crime scenes where “it is challenging work psychologically,” the firm’s general manager says. Those jobs require tact, empathy and special gear.",
+          "caption": "A Casper-based company does more than clean carpets and ducts. It's also called to crime scenes where \"it is challenging work psychologic",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:25:19.021651"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:28:01.820817"
 }

@@ -1,0 +1,67 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.cleanandclear.com/the-spot/skincare-basics",
+  "file_id": "1900",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "skincare",
+        "guide",
+        "education"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Skin Care 101: Your All-in-One Crash Course | Clean & Clear®",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Everything you need to know about the basics of skin care, from skin health to product types, all in one place. Explore our comprehensive crash course.",
+    "with": [
+      "Everything you need to know about the basics of skin care, from skin health to product types, all in one place.",
+      "Explore our comprehensive crash course.",
+      "Skin Care 101: Your All-in-One Crash Course",
+      "Your skin is your body's largest organ, and it deserves the best care possible.",
+      "Understanding your skin type is the first step to building an effective skincare routine."
+    ],
+    "without": [
+      "Products",
+      "Skin Concern",
+      "About Us",
+      "Skip to main content",
+      "Email Sign Up"
+    ],
+    "images": {
+      "total_in_content": 6,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://images.ctfassets.net/t975yazu1avh/1vtR4IacxtSdXMrLeZTMD0/1b3bc9e2d27a578e287383845acfa419/skincareblog_hero2x_thumb.webp?fm=webp&w=3840",
+          "filename": "skincareblog_hero2x_thumb.webp",
+          "alt": "A person holds a blue object against their cheek, set against a background of pink and red gradient shapes.",
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://images.ctfassets.net/t975yazu1avh/71rL9FhRvNqBnxHMRDvZhN/bbdece956c75a38934c7d4640851f4bb/Skin_Care_Basics_-_Image_5_-_Clean___Clear__.webp",
+          "filename": "Skin_Care_Basics_-_Image_5_-_Clean___Clear__.webp",
+          "alt": "Three people apply facial cream, smiling and gently massaging their cheeks. The background is a warm gradient of orange and peach, creating a bright, cheerful atmosphere.",
+          "caption": "Three people apply facial cream, smiling and gently massaging their cheeks",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.ctfassets.net/t975yazu1avh/4CeNHDZnkbrFzOIHKg4mWL/641aaa2d0dc6546dcccb6b6261542de1/Skin_Care_Basics_-_Image_11_-_Clean___Clear_.webp",
+          "filename": "Skin_Care_Basics_-_Image_11_-_Clean___Clear_.webp",
+          "alt": "Left side shows two white cream dots on brown skin; right side features a hand applying a white pad on facial skin, suggesting a skincare routine. Black background.",
+          "caption": "Left side shows two white cream dots on brown skin; right side features a hand applying cream",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:57:32.290719"
+}

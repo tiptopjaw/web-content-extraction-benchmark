@@ -1,0 +1,69 @@
+{
+  "schema_version": "2.0",
+  "url": "https://vercel.com/blog/our-million-dollar-hacker-challenge-for-react2shell",
+  "file_id": "2644",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "security",
+        "waf",
+        "bug-bounty",
+        "vercel",
+        "react2shell"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Our $1 million hacker challenge for React2Shell",
+    "author": "Malte (Twitter: @cramforce)",
+    "publish_date": null,
+    "main_content": "We paid $1M to security researchers to break our WAF. Here's what we learned defending against React2Shell. The challenge focused on blocking exploit attempts in the first 72 hours after public disclosure, showing significant spike in blocked requests. Vercel's Web Application Firewall successfully defended against attack attempts over the following week. The security team conducted extensive testing to validate their WAF protection capabilities.",
+    "with": [
+      "We paid $1M to security researchers to break our WAF.",
+      "Here's what we learned defending against React2Shell.",
+      "Blocked exploit attempts in the first 72 hours after public disclosure.",
+      "The challenge focused on testing WAF protection capabilities.",
+      "Vercel's Web Application Firewall successfully defended against attack attempts."
+    ],
+    "without": [
+      "Products and Features navigation menu",
+      "Enterprise and Pricing links",
+      "Cookie notice and privacy policy",
+      "Footer with social media links",
+      "Newsletter subscription form"
+    ],
+    "images": {
+      "total_in_content": 12,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4wQNMiLXcf4Aidh3XQQ9eT/e44fed52a15045513f278993b40b0610/react2shell_blocked_requests_spike_graph--light.svg",
+          "filename": "react2shell_blocked_requests_spike_graph--light.svg",
+          "alt": "Blocked exploit attempts in the first 72 hours after public disclosure",
+          "caption": "Blocked exploit attempts in the first 72 hours after public disclosure",
+          "is_hero": true
+        },
+        {
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/xw1xQzrbgsoFv8em7efND/486f7af8bee9d8b5c59a8daddb32821e/react2shell_longer_view_graph2--light.svg",
+          "filename": "react2shell_longer_view_graph2--light.svg",
+          "alt": "Blocked exploit attempts over the following week",
+          "caption": "Blocked exploit attempts over the following week",
+          "is_hero": false
+        },
+        {
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3rGobyTlY6MPiEFU7D6NUY/10db278c1c8ec8786967201d8e5ef52b/react2shell--light.svg",
+          "filename": "react2shell--light.svg",
+          "alt": null,
+          "caption": "React2Shell vulnerability defense visualization",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:37:46.200964"
+}

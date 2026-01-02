@@ -1,0 +1,75 @@
+{
+  "schema_version": "2.0",
+  "url": "https://beinsure.com/ranking/largest-us-property-casualty-insurance-companies/",
+  "file_id": "1747",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "insurance",
+        "rankings",
+        "p&c-insurance",
+        "financial-data"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "TOP 100 Property & Casualty Insurance Companies in the U.S. in 2025 - P&C Insurers",
+    "author": "Oleg Parashchak",
+    "publish_date": null,
+    "main_content": "Largest Property & Casualty Insurance Companies in the United State. P&C Insurers in the U.S. wrote more than $938 bn (+8.5%) in premiums. The Top 200 insurers accounted for approximately 96.15% of the total U.S. P&C industry premium, while others made up about 3.85%. The America's 10 Largest P&C insurance companies command almost half (47%) of the market, with the top 25 insurers accounting for two-thirds of the overall share. Direct written premiums (DWP) from these insurance providers reached almost $550 bn at the end of last year, while earned premiums slightly exceeded ~$500 bn. US property and casualty insurance companies had a median price-to-estimated full-year 2024 earnings multiple of 12.1x, according to Beinsure Data by AM Best's Review. The U.S. P&C insurance industry is a significant segment of the insurance market, providing coverage for risks associated with property loss (like fire, theft, or natural disasters) and liability exposures (such as automobile accidents or professional liability). State Farm once again topped the Top 200 US Property/Casualty Writers, with $107.76 bn in 2024 net premiums written, $27.44 bn ahead of second-place Berkshire Hathaway. Progressive Insurance Group jumped 21% with net premiums rising to $74.41 bn. Tesla Insurance Group showed the biggest increase, jumping to No. 191 from No. 304 on a 188.2% increase in net premiums written. The article includes a comprehensive ranking table of the top 100 P&C insurers, financial indicators for 2024, combined ratio components, policyholders' surplus data, top insurance categories ranked by premiums (private passenger auto leads with $260.7 bn), trends and challenges including climate change and cyber risks, and opportunities for P&C insurers around product innovation, market expansion, and technology adoption.",
+    "with": [
+      "State Farm once again topped the Top 200 US Property/Casualty Writers, with $107.76 bn in 2024 net premiums written, $27.44 bn ahead of second-place Berkshire Hathaway.",
+      "The top 10 largest P&C insurers control about 48% of the market, with the top 25 insurers covering approximately two-thirds.",
+      "P&C Insurers in the U.S. wrote more than $938 bn (+8.5%) in premiums.",
+      "Private passenger auto insurance leads with $260.7 bn, followed by homeowners multiple peril ($118.9 bn) and other liability lines ($109.8 bn).",
+      "The US insurance industry employed 2.9 mn people, with 665,900 workers for P&C insurers."
+    ],
+    "without": [
+      "Beinsure - Insurance, Reinsurance, InsurTech Insights",
+      "© 2006-2025 Beinsure Media",
+      "RANKINGS menu navigation item",
+      "Facebook social media link",
+      "7 min reading time"
+    ],
+    "images": {
+      "total_in_content": 10,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://beinsure.com/wp-content/uploads/2022/12/1-47.jpg",
+          "filename": "1-47.jpg",
+          "alt": "TOP 50 Property & Casualty (P&C) Insurance Companies in U.S.",
+          "caption": "TOP 50 Property & Casualty (P&C) Insurance Companies in U.S.",
+          "is_hero": true
+        },
+        {
+          "src": "https://beinsure.com/wp-content/uploads/2023/02/1-48.jpg",
+          "filename": "1-48.jpg",
+          "alt": "P&C insurance industry’s premiums",
+          "caption": "P&C insurance industry's premiums",
+          "is_hero": false
+        },
+        {
+          "src": "https://beinsure.com/wp-content/uploads/2024/02/1-43.jpg",
+          "filename": "1-43.jpg",
+          "alt": "TOP 50 Largest P&C Insurers in the United States",
+          "caption": "TOP 50 Largest P&C Insurers in the United States",
+          "is_hero": false
+        },
+        {
+          "src": "https://beinsure.com/wp-content/uploads/2024/02/1-5.png",
+          "filename": "1-5.png",
+          "alt": "Value of gross premiums written by leading reinsurers in the United States",
+          "caption": "Value of gross premiums written by leading reinsurers in the United States",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:08:01.872759"
+}

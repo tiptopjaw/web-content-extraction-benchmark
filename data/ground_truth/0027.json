@@ -1,27 +1,82 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.massageenvy.com/skin-care-treatments",
   "file_id": "0027",
-  "downloaded_at": "2025-12-20T18:58:58.268436",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "service-listing",
+        "skin-care",
+        "spa-services",
+        "category-page"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Skin Care Treatments",
     "author": null,
     "publish_date": null,
-    "main_content": "Skin Care Services\nTAKE YOUR SKIN CARE GAME TO THE NEXT LEVEL\nWhen your skin needs more specialized care, advanced skin care services can get you even closer to achieving your skin goals.\nBook a skin care service now\nYOU KNOW YOUR SKIN. WE KNOW SKIN CARE.\nYou know your skin better than anyone, and we know skin care. Share your skin goals with your esthetician and together you can map out a personalized skin care journey to achieve them. Based on your specific skin concerns, they can suggest the appropriate mix of skin care services and products to add to your at-home routine. Your best skin awaits, so let’s get glowing!\nTake the skin care quiz\nMicroderm Infusion\nWith each pass, an innovative diamond-tipped wand exfoliates, extracts debris, and infuses a choice of serums so you can show off brighter, smoother skin. With minimal downtime, it’s the perfect way to get glowing before a special event!\nSee service details Book now\nDermaplaning\nYou may have heard all the buzz surrounding dermaplaning and what it can do for your skin. GREAT NEWS: You can now experience it for yourself at participating Massage Envy franchised locations!\nSee service details Book now\nChemical Peel\nDuring your session, experienced estheticians utilize PCA SKIN advanced treatments for deep exfoliation, resulting in a refreshed, more radiant-looking you.\nSee service details Book now\nZero Downtime Peel\nThis innovative peel offers no expected visible peeling or redness, so you can get glowing and get going! It’s the perfect way to prep your skin for a special occasion.\nSee service details Book now\nWe put the ‘care’ in skin care\nThe sheer volume of information available on the internet about skin care can be overwhelming. How do you know which trends are worth adopting and which you should skip? With a minimum of 500 hours of education and 20 hours of ongoing specialty training, the estheticians employed by franchised locations are skin-savvy, experienced professionals you can trust to guide you towards achieving your best skin.\nAbout our providers\nUse the products the pros do\nThe skin care services offered at select Massage Envy franchised locations feature innovative, efficacious products from industry-leading skin care brands. Those same products are available for you to purchase and use at home, to keep you on track to achieving your skin goals.\nExplore skin care products\nFeatured Articles\nNew at Massage Envy: Oxygenating Treatment\nEver notice how your face feels dull and tired after a long flight or a busy week? That’s your skin crying out for oxygen. Now, you can breathe new life into your skin with Massage ...\nHow often should you get a facial?\nFacials paired with targeted home-care products can deliver impressive results.\nBeat the Heat: Summer Skin Care Tips You Need to Know\nDon’t sweat your skin care routine this summer. Make the most of it with these expert-backed tips.\nRead more articles\nSKIN CARE THAT PUTS THE FOCUS WHERE IT BELONGS: ON YOU\nThe best skin care services aren’t one-size-fits-all solutions... They’re targeted to address your specific skin concerns and goals. Because your ME Time is all about YOU.\nExplore concern-focused skin care\nIndividual results may vary based on user, skin care regimen, and services provided.",
+    "main_content": "Skin Care Services at Massage Envy: TAKE YOUR SKIN CARE GAME TO THE NEXT LEVEL. When your skin needs more specialized care, advanced skin care services can get you even closer to achieving your skin goals. You know your skin better than anyone, and we know skin care. Share your skin goals with your esthetician and together you can map out a personalized skin care journey to achieve them. Based on your specific skin concerns, they can suggest the appropriate mix of skin care services and products to add to your at-home routine. Your best skin awaits, so let's get glowing!\n\nAdvanced Skin Care Services:\n\nMicroderm Infusion: With each pass, an innovative diamond-tipped wand exfoliates, extracts debris, and infuses a choice of serums so you can show off brighter, smoother skin. With minimal downtime, it's the perfect way to get glowing before a special event!\n\nDermaplaning: You may have heard all the buzz surrounding dermaplaning and what it can do for your skin. GREAT NEWS: You can now experience it for yourself at participating Massage Envy franchised locations!\n\nChemical Peel: During your session, experienced estheticians utilize PCA SKIN advanced treatments for deep exfoliation, resulting in a refreshed, more radiant-looking you.\n\nZero Downtime Peel: This innovative peel offers no expected visible peeling or redness, so you can get glowing and get going! It's the perfect way to prep your skin for a special occasion.\n\nWe put the 'care' in skin care: The sheer volume of information available on the internet about skin care can be overwhelming. How do you know which trends are worth adopting and which you should skip? With a minimum of 500 hours of education and 20 hours of ongoing specialty training, the estheticians employed by franchised locations are skin-savvy, experienced professionals you can trust to guide you towards achieving your best skin.\n\nUse the products the pros do: The skin care services offered at select Massage Envy franchised locations feature innovative, efficacious products from industry-leading skin care brands. Those same products are available for you to purchase and use at home, to keep you on track to achieving your skin goals. Featured products include Marini SkinSolutions C-ESTA Face Serum and PCA SKIN Smoothing Serum.\n\nSKIN CARE THAT PUTS THE FOCUS WHERE IT BELONGS: ON YOU. The best skin care services aren't one-size-fits-all solutions... They're targeted to address your specific skin concerns and goals. Because your ME Time is all about YOU.",
     "with": [
-      "When your skin needs more specialized care, advanced skin care services can get you even closer to achieving your skin goals.",
-      "You know your skin better than anyone, and we know skin care. Share your skin goals with your esthetician and together you can map out a personalized skin care journey to achieve them.",
-      "With a minimum of 500 hours of education and 20 hours of ongoing specialty training, the estheticians employed by franchised locations are skin-savvy, experienced professionals you can trust to guide you towards achieving your best skin.",
-      "The skin care services offered at select Massage Envy franchised locations feature innovative, efficacious products from industry-leading skin care brands.",
-      "The best skin care services aren’t one-size-fits-all solutions... They’re targeted to address your specific skin concerns and goals."
+      "TAKE YOUR SKIN CARE GAME TO THE NEXT LEVEL",
+      "When your skin needs more specialized care, advanced skin care services can get you even closer to achieving your skin goals",
+      "You know your skin better than anyone, and we know skin care",
+      "With a minimum of 500 hours of education and 20 hours of ongoing specialty training, the estheticians employed by franchised locations are skin-savvy, experienced professionals",
+      "The best skin care services aren't one-size-fits-all solutions... They're targeted to address your specific skin concerns and goals"
     ],
     "without": [
-      "Gift Cards Locations Become a member Blog Careers Own a franchise",
-      "Book an appointment",
-      "Download the app Book, view appointments, and more!",
-      "©2025 ME SPE Franchising, LLC. All Rights Reserved.",
-      "Massage Envy on facebook Massage Envy on Twitter Massage Envy on Instagram Massage Envy on TikTok"
-    ]
+      "Book an appointment now",
+      "Explore by concern",
+      "Gift Cards locations memberships",
+      "Massage Envy home page footer logo",
+      "Social media icons Facebook Instagram TikTok Twitter"
+    ],
+    "images": {
+      "total_in_content": 35,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "/siteassets/facials/facials-quiz-mobile.jpg",
+          "filename": "facials-quiz-mobile.jpg",
+          "alt": "Massage Envy Facials",
+          "caption": "Massage Envy Facials",
+          "is_hero": false
+        },
+        {
+          "src": "/siteassets/facials/facials-quiz.jpg",
+          "filename": "facials-quiz.jpg",
+          "alt": "Massage Envy Facials",
+          "caption": "Massage Envy Facials",
+          "is_hero": false
+        },
+        {
+          "src": "/siteassets/promos/oxygenating-treatment/23-206-oxygenating-treatment-launch_hero_marquee_700x470.png",
+          "filename": "23-206-oxygenating-treatment-launch_hero_marquee_700x470.png",
+          "alt": null,
+          "caption": "New at Massage Envy: Oxygenating Treatment",
+          "is_hero": false
+        },
+        {
+          "src": "/siteassets/about-us/articles/woman-relaxing-during-facial.png",
+          "filename": "woman-relaxing-during-facial.png",
+          "alt": null,
+          "caption": "Woman relaxing during facial",
+          "is_hero": false
+        },
+        {
+          "src": "/siteassets/about-us/articles/me-5-ways-effective-at-home-wellness2.jpg",
+          "filename": "me-5-ways-effective-at-home-wellness2.jpg",
+          "alt": null,
+          "caption": "Summer skin care tips",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:58:58.268442"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:32:28.626903"
 }

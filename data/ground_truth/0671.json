@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.buzzfeed.com/hannahdobro/we-tried-clothing-subscription-boxes",
+  "file_id": "0671",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "lifestyle",
+        "fashion",
+        "shopping",
+        "reviews"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "We Tried Different Clothing Subscription Boxes",
+    "author": "Hannah Dobrogosz, Kayla Harrington",
+    "publish_date": "2021-06-30",
+    "main_content": "We Tried Different Clothing Subscription Boxes So You Don't Have To — Here's What We Learned. Hannah Dobrogosz and Kayla Harrington tried multiple clothing subscription services including Stitch Fix, thredUP, and others to help readers decide if these services are worth it. They share their honest experiences, what they received in their boxes, pricing details, and whether they would recommend each service.",
+    "with": [
+      "We Tried Different Clothing Subscription Boxes So You Don't Have To — Here's What We Learned.",
+      "Hannah Dobrogosz and Kayla Harrington tried multiple clothing subscription services including Stitch Fix, thredUP, and others.",
+      "They share their honest experiences, what they received in their boxes, and pricing details.",
+      "The article provides recommendations on whether each subscription service is worth it.",
+      "Two women tested various clothing subscription boxes to help readers make informed decisions."
+    ],
+    "without": [
+      "Sign In",
+      "Quizzes",
+      "Shopping",
+      "Trending News",
+      "Privacy Settings"
+    ],
+    "images": {
+      "total_in_content": 42,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://img.buzzfeed.com/buzzfeed-static/static/user_images/6r1oxXOpC_large.jpg?downsize=120:*&output-format=jpg&output-quality=auto",
+          "filename": "6r1oxXOpC_large.jpg",
+          "alt": "Hannah Dobrogosz",
+          "caption": "Hannah Dobrogosz",
+          "is_hero": true
+        },
+        {
+          "src": "https://img.buzzfeed.com/buzzfeed-static/static/user_images/iw4W1SvLO_large.jpg?crop=329%253A329%253B79%252C136&downsize=120:*&output-format=jpg&output-quality=auto",
+          "filename": "iw4W1SvLO_large.jpg",
+          "alt": "Kayla Harrington",
+          "caption": "Kayla Harrington",
+          "is_hero": false
+        },
+        {
+          "src": "https://img.buzzfeed.com/buzzfeed-static/static/2021-05/3/17/asset/c7a1477c03cb/sub-buzz-5241-1620063677-61.jpg",
+          "filename": "sub-buzz-5241-1620063677-61.jpg",
+          "alt": "Pair of printed pants, next to a woman wearing the pants and a t-shirt",
+          "caption": "Pair of printed pants",
+          "is_hero": false
+        },
+        {
+          "src": "https://img.buzzfeed.com/buzzfeed-static/static/2021-05/3/17/asset/13ec16e38007/sub-buzz-5249-1620063766-28.jpg",
+          "filename": "sub-buzz-5249-1620063766-28.jpg",
+          "alt": "Striped sweater, next to a woman wearing the sweater and leggings",
+          "caption": "Striped sweater",
+          "is_hero": false
+        },
+        {
+          "src": "https://img.buzzfeed.com/buzzfeed-static/static/2021-06/22/18/asset/815a5287257c/sub-buzz-904-1624388067-35.png?crop=870%3A870%3B217%2C0&resize=720%3A720",
+          "filename": "sub-buzz-904-1624388067-35.png",
+          "alt": "blue blouse with floral print",
+          "caption": "Blue blouse with floral print",
+          "is_hero": false
+        },
+        {
+          "src": "https://img.buzzfeed.com/buzzfeed-static/static/2021-06/22/18/asset/c380d7051ecb/sub-buzz-902-1624388074-10.png?crop=902%3A902%3B0%2C225&resize=720%3A720",
+          "filename": "sub-buzz-902-1624388074-10.png",
+          "alt": "a woman modeling the floral top",
+          "caption": "Woman modeling the floral top",
+          "is_hero": false
+        },
+        {
+          "src": "https://img.buzzfeed.com/buzzfeed-static/static/2021-06/30/6/asset/b573aabc3096/sub-buzz-1509-1625032881-3.png",
+          "filename": "sub-buzz-1509-1625032881-3.png",
+          "alt": "A pair of light wash jeans",
+          "caption": "Light wash jeans",
+          "is_hero": false
+        },
+        {
+          "src": "https://img.buzzfeed.com/buzzfeed-static/static/2021-05/13/17/asset/efe24817cd46/sub-buzz-492-1620925830-53.jpg",
+          "filename": "sub-buzz-492-1620925830-53.jpg",
+          "alt": "Green dress and a black and white polka dotted dress",
+          "caption": "Green dress and polka dotted dress",
+          "is_hero": false
+        },
+        {
+          "src": "https://img.buzzfeed.com/buzzfeed-static/static/2021-06/30/5/asset/ddeaa8cc12df/sub-buzz-1469-1625032722-1.png",
+          "filename": "sub-buzz-1469-1625032722-1.png",
+          "alt": "A short sleeve long green dress",
+          "caption": "Short sleeve long green dress",
+          "is_hero": false
+        },
+        {
+          "src": "https://img.buzzfeed.com/buzzfeed-static/static/2021-06/30/6/asset/0d082927bd45/sub-buzz-1498-1625033599-5.png",
+          "filename": "sub-buzz-1498-1625033599-5.png",
+          "alt": "A pair of flared jeans",
+          "caption": "Flared jeans",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:50:24.463967"
+}

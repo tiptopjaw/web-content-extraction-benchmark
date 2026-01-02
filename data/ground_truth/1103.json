@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.frommers.com/tips/airfare/the-10-best-and-cheapest-airfare-search-sites-for-2026/",
+  "file_id": "1103",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "travel",
+        "guide",
+        "airfare",
+        "budget"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "The 10 Best (and Cheapest) Airfare Search Sites for 2026",
+    "author": "Reid Bramblett",
+    "publish_date": "2025-11-24",
+    "main_content": "It's been a decade since Frommer's started pitting the biggest airfare search engines, aggregators, and booking engines against one another. Our 10th anniversary tests resulted in some pretty big shake-ups in the top 10. Tripadvisor, which had held the #5 spot for years, announced it would end its booking features in November 2025. The biggest change of all: Most sites now canvass Southwest Airlines. We put 18 sites through the paces on 32 itineraries, testing each on both last-minute flights and APEX fares. We covered major gateways and secondary ones, throwing in a curve ball to see how well each handled Europe's wilderness of low-cost carriers. We applied a rigorous, weighted scoring system that rewarded three points to any airfare search site that found the best fares, two points for second-best, and so on. Some airfare websites are online travel agencies (OTAs), which sell tickets directly. Other sites are aggregators that trawling dozens of OTAs, booking engines, and airline sites to compile the results in one place. This year we nervously tested AI results against our human research, asking six major chatbots to find the cheapest fare. Nearly all AI results went straight to Expedia and/or Google Flights. No AI services would commit to providing an answer for our precise dates, and most of the sample answers were wildly inaccurate. For now at least, our imminent robot overlords make for terrible travel agents. The rankings: #10 Agoda, #9 Priceline, #8 Booking.com, #7 Expedia, #6 Hotwire, #5 Flight Network, #4 Google Flights, #3 Skiplagged, #2 Skyscanner, #1 Momondo. Momondo is the only site that never found a bum fare during testing. It did the best on last-minute trips and won on advance-purchase fares. Momondo's best exclusive feature: It includes checked baggage fees. Most airlines charge $35–$40, but the range can start as low as $15 on some Hawaiian Airlines flights and go up to $100 on some Frontier ones.",
+    "with": [
+      "It's been a decade since Frommer's started pitting the biggest airfare search engines, aggregators, and booking engines against one another.",
+      "We put 18 sites through the paces on 32 itineraries, testing each on both last-minute flights and APEX fares.",
+      "Nearly all AI results went straight to Expedia and/or Google Flights. No AI services would commit to providing an answer for our precise dates.",
+      "Momondo is the only site that never found a bum fare during testing. Not once.",
+      "Momondo's best exclusive feature: It includes checked baggage fees."
+    ],
+    "without": [
+      "Travel news, reviews, and inspiration since 1957.",
+      "Explore the world with the most trusted name in travel.",
+      "Subscribe to our Newsletter",
+      "Add us on Google",
+      "Click here to make Frommer's a preferred source on Google"
+    ],
+    "images": {
+      "total_in_content": 27,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://cdn.craft.cloud/101e4579-0e19-46b6-95c6-7eb27e4afc41/assets/uploads/Articles/Cheap-Airfare-Search.jpg?width=360&height=400&quality=70&format=webp&fit=contain&s=8E78vAILfkHQBqlNjrNJdlWFOzz17Xv1Yvdoqeiu91c",
+          "filename": "Cheap-Airfare-Search.jpg",
+          "alt": "Cheap Airfare Search",
+          "caption": "Cheap Airfare Search",
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn.craft.cloud/101e4579-0e19-46b6-95c6-7eb27e4afc41/assets/uploads/Articles/American-Delta-United.jpg?width=800&height=800&quality=80&format=webp&fit=contain&s=u7oL5oBt_ybbcfEYVOjwnW8uObYO5UZ83ZwlOkrOoho",
+          "filename": "American-Delta-United.jpg",
+          "alt": null,
+          "caption": "Phoenix Sky Harbor International Airport",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.craft.cloud/101e4579-0e19-46b6-95c6-7eb27e4afc41/assets/uploads/Articles/AI-Chatbot-Icons.jpg?width=800&height=800&quality=80&format=webp&fit=contain&s=P-VphYV1XV8JS8PPjs30QFccjBbs83NWivjyo_1jd0s",
+          "filename": "AI-Chatbot-Icons.jpg",
+          "alt": null,
+          "caption": "AI Chatbot Icons",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.craft.cloud/101e4579-0e19-46b6-95c6-7eb27e4afc41/assets/uploads/Articles/Agoda.png?width=800&height=800&quality=80&format=webp&fit=contain&s=69hXQWTJdez4IA3Cmn-03bCM5j2tHxhNn7TIsRgCkP4",
+          "filename": "Agoda.png",
+          "alt": null,
+          "caption": "Agoda",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.craft.cloud/101e4579-0e19-46b6-95c6-7eb27e4afc41/assets/uploads/Articles/Priceline-LAX%E2%80%93HK.png?width=800&height=800&quality=80&format=webp&fit=contain&s=rSzIopro_sjhdAslhsWkC8aQFUXTlMDSY-hkz7i8G88",
+          "filename": "Priceline-LAX%E2%80%93HK.png",
+          "alt": null,
+          "caption": "Priceline",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.craft.cloud/101e4579-0e19-46b6-95c6-7eb27e4afc41/assets/uploads/Articles/Booking.com-Chicago%E2%80%93Rome.png?width=800&height=800&quality=80&format=webp&fit=contain&s=FIukj1mjYxnsxNLa2Bbq5tRPz15g50bBwS75YQhYXQY",
+          "filename": "Booking.com-Chicago%E2%80%93Rome.png",
+          "alt": null,
+          "caption": "Booking.com",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.craft.cloud/101e4579-0e19-46b6-95c6-7eb27e4afc41/assets/uploads/Articles/Expedia.png?width=800&height=800&quality=80&format=webp&fit=contain&s=L5IvNcm45Be7LrQ-z6aMaRpN3JP3CP83aMp2FaeXoQ0",
+          "filename": "Expedia.png",
+          "alt": null,
+          "caption": "Expedia",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.craft.cloud/101e4579-0e19-46b6-95c6-7eb27e4afc41/assets/uploads/Articles/Hotwire-NYC%E2%80%93LAX.png?width=800&height=800&quality=80&format=webp&fit=contain&s=qOYkDixEeZjlC6tB0nbHcejWSAe9hvi6q-gJx3aANxw",
+          "filename": "Hotwire-NYC%E2%80%93LAX.png",
+          "alt": null,
+          "caption": "Hotwire",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.craft.cloud/101e4579-0e19-46b6-95c6-7eb27e4afc41/assets/uploads/Articles/Flight-Network.png?width=800&height=800&quality=80&format=webp&fit=contain&s=pW6cMurCIswD3sZoUKl0JGKgYYrvrq01tn0IJR9sQjc",
+          "filename": "Flight-Network.png",
+          "alt": null,
+          "caption": "Flight Network",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.craft.cloud/101e4579-0e19-46b6-95c6-7eb27e4afc41/assets/uploads/Articles/Google-Flights-LA%E2%80%93HK.png?width=800&height=800&quality=80&format=webp&fit=contain&s=SDIyCoxpA9AZrfzoBlG26Bws7kUhzCQxvJ6TEnPKRuY",
+          "filename": "Google-Flights-LA%E2%80%93HK.png",
+          "alt": null,
+          "caption": "Google Flights",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:39:04.341842"
+}

@@ -1,27 +1,54 @@
 {
+  "schema_version": "2.0",
   "url": "https://docorthopaedic.com/best-practices-at-the-gym/",
   "file_id": "1408",
-  "downloaded_at": "2025-12-20T21:34:15.815389",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "health",
+        "fitness",
+        "orthopedics",
+        "wellness"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Best practices at the gym",
     "author": "Parker Moore",
     "publish_date": "2024-04-05",
-    "main_content": "Things you should never do at the gym… and what you should do instead Weight training – also known as strength or resistance training – offers significant benefits regardless of age. For example, weight training can improve or maintain balance and mobility for seniors, help athletes improve performance, and even enhance joint stability and bone density. In fact, a recent study by the director of preventive cardiology at Cedars Sinai in Los Angeles finds women who do strength training exercises two to three days a week are more likely to live longer and have a lower risk of death from heart disease, compared to women who do none. But what you do while you’re at the gym can mean the difference between improving your health and potentially injuring yourself. With so many “quick fix” workout programs on social media – plus the ever-increasing number of unstaffed gyms – it’s important to understand the best way for you to achieve your own goals without taking unnecessary risks.   No matter what your training goals, here are few things you should never do when weight training: Don’t skip the warmup. Cold muscles are more prone to injury, so be sure you warm up with five to 10 minutes of brisk walking or other aerobic activity. If the equipment is available, stationary bicycle, elliptical, or treadmill are all good options to start your workout. This type of dynamic warmup is more effective than static stretching. Don’t rush. As you’re lifting, be sure to move the weight in an unhurried, controlled fashion. Take it slowly and isolate the muscles you want to work and try not to rely on momentum to lift the weight. Rest for about one minute between each exercise. Don’t overdo it. For most people, completing one set of exercises to the point of muscle fatigue is usually enough. Additional sets may increase the chance of an overload injury, but you’ll want to determine the number of sets that suit your condition and your fitness goals. Don’t ignore pain. If an exercise ever causes you any pain, stop. Try the exercise again in a few days or try it with less weight. Also be sure to check your form to ensure you’re performing it correctly. Sometimes a small adjustment can make a big difference.  Don’t forget your shoes. Make sure to choose shoes substantial enough to protect your feet. You’ll also want good traction to avoid slipping or injuring your feet while you’re lifting weights. Now that you know what to avoid, here’s where you should concentrate your efforts:   Do lift an appropriate amount of weight. Start with a weight you can lift comfortably 12 to 15 times. For most people, a single set of 12 to 15 repetitions with a weight that fatigues the muscles can be enough to build strength. As you get stronger, gradually increase the amount of weight. Do use proper form. Learn to do each exercise correctly before you get started. Consider scheduling a few sessions with a personal trainer to get you started if you’re not sure about where to begin. Choose the weight that allows you to execute each exercise properly and complete all the repetitions correctly.   Do be sure to breathe. You might be tempted to hold your breath while you’re lifting weights, but don’t. Instead, breathe out as you lift the weight and breathe in as you lower the weight. Do take a break. Avoid exercising the same muscles two days in a row. You might work all of your major muscle groups at a single session two or three times a week or plan daily sessions for specific muscle groups. On resting days, you can choose an “active recovery” activity such as walking to maintain flexibility. Do train for function. While it’s great to lose weight or hit a new personal record, it’s important to train so you can function in all stages of life. As we age, we lose strength and mobility, which makes movements like walking or sitting down more difficult. We can prevent that loss of ability by training the muscles that complete those movements, particularly core muscles. Before you begin… If it’s been a while since you’ve exercised regularly, you may want to visit an orthopaedist before you start. Discuss any problem areas or past injuries, along with your anticipated workout plan, to identify any possible issues and how to avoid them. The specialists at DOC Orthopaedics and Sports Medicine can help set parameters and expectations for your workouts and help you pursue your training goals in a way that keeps you healthy and pain free.   Since 1972, the specialists at DOC Orthopaedics have been committed to providing exceptional orthopaedic care through innovative techniques, quality services, patient communication, and education. With specialties ranging from general orthopaedics and physical therapy to sports medicine and more, the doctors at DOC Orthopaedics and Sports Medicine can provide local expert guidance to avoid injury, as well as any necessary care for any orthopaedic disorder or injury. Click here to schedule an appointment today.",
+    "main_content": "Weight training – also known as strength or resistance training – offers significant benefits regardless of age. For example, weight training can improve or maintain balance and mobility for seniors, help athletes improve performance, and even enhance joint stability and bone density. In fact, a recent study by the director of preventive cardiology at Cedars Sinai in Los Angeles finds women who do strength training exercises two to three days a week are more likely to live longer and have a lower risk of death from heart disease, compared to women who do none. But what you do while you're at the gym can mean the difference between improving your health and potentially injuring yourself. With so many 'quick fix' workout programs on social media – plus the ever-increasing number of unstaffed gyms – it's important to understand the best way for you to achieve your own goals without taking unnecessary risks. No matter what your training goals, here are few things you should never do when weight training: Don't skip the warmup. Cold muscles are more prone to injury, so be sure you warm up with five to 10 minutes of brisk walking or other aerobic activity. Don't rush. As you're lifting, be sure to move the weight in an unhurried, controlled fashion. Take it slowly and isolate the muscles you want to work and try not to rely on momentum to lift the weight. Rest for about one minute between each exercise. Don't overdo it. For most people, completing one set of exercises to the point of muscle fatigue is usually enough. Additional sets may increase the chance of an overload injury, but you'll want to determine the number of sets that suit your condition and your fitness goals. Don't ignore pain. If an exercise ever causes you any pain, stop. Try the exercise again in a few days or try it with less weight. Also be sure to check your form to ensure you're performing it correctly. Sometimes a small adjustment can make a big difference. Don't forget your shoes. Make sure to choose shoes substantial enough to protect your feet. You'll also want good traction to avoid slipping or injuring your feet while you're lifting weights. Do lift an appropriate amount of weight. Start with a weight you can lift comfortably 12 to 15 times. For most people, a single set of 12 to 15 repetitions with a weight that fatigues the muscles can be enough to build strength. As you get stronger, gradually increase the amount of weight. Do use proper form. Learn to do each exercise correctly before you get started. Consider scheduling a few sessions with a personal trainer to get you started if you're not sure about where to begin. Choose the weight that allows you to execute each exercise properly and complete all the repetitions correctly. Do be sure to breathe. You might be tempted to hold your breath while you're lifting weights, but don't. Instead, breathe out as you lift the weight and breathe in as you lower the weight. Do take a break. Avoid exercising the same muscles two days in a row. You might work all of your major muscle groups at a single session two or three times a week or plan daily sessions for specific muscle groups. On resting days, you can choose an 'active recovery' activity such as walking to maintain flexibility. Do train for function. While it's great to lose weight or hit a new personal record, it's important to train so you can function in all stages of life. As we age, we lose strength and mobility, which makes movements like walking or sitting down more difficult. We can prevent that loss of ability by training the muscles that complete those movements, particularly core muscles. If it's been a while since you've exercised regularly, you may want to visit an orthopaedist before you start. Discuss any problem areas or past injuries, along with your anticipated workout plan, to identify any possible issues and how to avoid them. The specialists at DOC Orthopaedics and Sports Medicine can help set parameters and expectations for your workouts and help you pursue your training goals in a way that keeps you healthy and pain free. Since 1972, the specialists at DOC Orthopaedics have been committed to providing exceptional orthopaedic care through innovative techniques, quality services, patient communication, and education.",
     "with": [
       "Weight training – also known as strength or resistance training – offers significant benefits regardless of age.",
-      "Don’t skip the warmup. Cold muscles are more prone to injury, so be sure you warm up with five to 10 minutes of brisk walking or other aerobic activity.",
-      "Do lift an appropriate amount of weight. Start with a weight you can lift comfortably 12 to 15 times.",
-      "If it’s been a while since you’ve exercised regularly, you may want to visit an orthopaedist before you start.",
-      "Since 1972, the specialists at DOC Orthopaedics have been committed to providing exceptional orthopaedic care through innovative techniques, quality services, patient communication, and education."
+      "Cold muscles are more prone to injury, so be sure you warm up with five to 10 minutes of brisk walking or other aerobic activity.",
+      "For most people, completing one set of exercises to the point of muscle fatigue is usually enough.",
+      "If an exercise ever causes you any pain, stop. Try the exercise again in a few days or try it with less weight.",
+      "The specialists at DOC Orthopaedics and Sports Medicine can help set parameters and expectations for your workouts."
     ],
     "without": [
-      "Skip to main content",
       "CALL TODAY 256-350-0362",
-      "MAKE AN APPOINTMENT VISIT PATIENT PORTAL PAY A BILL",
-      "© DOC Orthopaedics & Sports Medicine  |   Site Map",
-      "Share This"
-    ]
+      "MAKE AN APPOINTMENT",
+      "VISIT PATIENT PORTAL",
+      "PAY A BILL",
+      "© DOC Orthopaedics & Sports Medicine"
+    ],
+    "images": {
+      "total_in_content": 4,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "/wp-content/themes/yootheme/cache/9b/1080x1080_Best-Practices-at-the-Gym-Ap_A1987305-010105-NEW_3-9b9e8ca6.jpeg",
+          "filename": "1080x1080_Best-Practices-at-the-Gym-Ap_A1987305-010105-NEW_3-9b9e8ca6.jpeg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:34:15.815395"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:12:55.974586"
 }

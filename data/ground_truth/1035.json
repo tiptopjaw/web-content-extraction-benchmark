@@ -1,27 +1,117 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.chick-fil-a.com/catering",
   "file_id": "1035",
-  "downloaded_at": "2025-12-20T20:28:56.852987",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "catering",
+        "food-service",
+        "landing-page",
+        "restaurant"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Chick-fil-A® Catering",
+    "title": "Cater Sandwiches, Breakfast, Platters & More | Chick-fil-A",
     "author": null,
     "publish_date": "2025-05-27",
-    "main_content": "Chick-fil-A® Catering\nPrice and availability may vary by location.\n\nEvery event. Every guest. All catered.\nWhether you’re feeding a crowd of coworkers or just hosting a small dinner, mealtimes are made easier with Chick-fil-A® Catering. Order party trays, packaged meals, entrées, sides and more so you can spend less time cooking and more time enjoying the conversation with catered food made for you.\n\nParty with packaged meals\nWhen your event needs an entrée, side and dessert, order a packaged meal (with an option to get an extra side). In quantities of 10, 25, 50 and more, our packaged meals – with entrée options from catered sandwiches and Chick-fil-A® Nuggets to tasty wraps – make the party.\n\nTreat them all to trays\nParty platters, finger foods, refreshments – whatever food you need to order for your party, our trays can serve it up. Order them in small, medium and large trays to feed a variety of group sizes.\n\nServe breakfast to a bunch\nMake it a good morning. Get Chicken Biscuits, Berry Parfaits, and more catered for breakfast. In quantities of 10, 25, 50 and more, have breakfast catered for all size groups.\n\nMore meals. Less work.\nGet it all — à la carte. Mix and match any of our catering menu items to create an appetizing spread for your next event. Or combine entrées, sides and desserts into a custom packaged meal for each guest. With Chick-fil-A®, you can cater with the exact food items your guests know and love.\n\nEntrées\nFrom fueling working lunches to providing the main dish for a potluck, our entrées really make the meal. Cater your next party with sandwiches, salads, nuggets and wraps in quantities of 10, 25, 50 and more.\n\nSides\nServe them sweet and savory sides, like Waffle Potato Chips, Fruit Cups, Side Salads and more, in quantities of 10, 25, 50 and more. You can pair sides with your entrées or order them alone.\n\nDesserts\nDesserts turn a party of one into a party of fun. Treat guests to Chocolate Chunk Cookies, Chocolate Fudge Brownies and more. Available in quantities of 10, 25, 50 and more.\n\nBeverages\nFrom gallons of Sunjoy® and Chick-fil-A® Lemonade to individual bottled drinks and even boxed coffee, our beverage options quench any thirst. Plus, you can keep the drinks cool with bagged ice, a bucket and scoop.\n\nWhat you’ll love about Chick-fil-A® Catering\nMost restaurants can prepare your catered food order with less than 24 hours lead time.\nNo minimum order size required for pickup in restaurant.\nGluten free options available for catering (and all the time).\nWith pickup and delivery options, our catering service is as convenient as they come.",
+    "main_content": "Chick-fil-A Catering offers comprehensive catering solutions for events of all sizes. Whether you're feeding a crowd of coworkers or hosting a small dinner, mealtimes are made easier with Chick-fil-A Catering. Order party trays, packaged meals, entrées, sides and more so you can spend less time cooking and more time enjoying the conversation. Packaged meals include entrée options from catered sandwiches and Chick-fil-A Nuggets to tasty wraps, available in quantities of 10, 25, 50 and more. Trays come in small, medium and large sizes to serve various group sizes. Breakfast catering features Chicken Biscuits, Berry Parfaits, and Chick-n-Minis in quantities of 10, 25, 50 and more. Additional menu categories include entrées (sandwiches, salads, nuggets, wraps), sides (Waffle Potato Chips, Fruit Cups, Side Salads), desserts (Chocolate Chunk Cookies, Chocolate Fudge Brownies), and beverages (Sunjoy, Lemonade, Iced Tea, bottled drinks, boxed coffee). Most restaurants can prepare catering orders with less than 24 hours lead time. No minimum order size required for pickup. Gluten free options are available. Pickup and delivery options are available. Members of Chick-fil-A One receive points on qualifying catering purchases.",
     "with": [
-      "Whether you’re feeding a crowd of coworkers or just hosting a small dinner, mealtimes are made easier with Chick-fil-A® Catering.",
-      "Order party trays, packaged meals, entrées, sides and more so you can spend less time cooking and more time enjoying the conversation with catered food made for you.",
-      "Mix and match any of our catering menu items to create an appetizing spread for your next event.",
-      "Most restaurants can prepare your catered food order with less than 24 hours lead time.",
-      "With pickup and delivery options, our catering service is as convenient as they come."
+      "Chick-fil-A® Catering offers comprehensive catering solutions for events of all sizes.",
+      "Order party trays, packaged meals, entrées, sides and more so you can spend less time cooking and more time enjoying the conversation.",
+      "Most restaurants can prepare catering orders with less than 24 hours lead time.",
+      "No minimum order size required for pickup in restaurant.",
+      "Members of Chick-fil-A One receive points on qualifying catering purchases."
     ],
     "without": [
-      "Find restaurants",
       "Sign in or join for rewards",
-      "Menu",
+      "Find restaurants",
+      "Order now",
       "© 2025 CFA Properties, Inc. All rights reserved.",
-      "Order now"
-    ]
+      "Privacy policy"
+    ],
+    "images": {
+      "total_in_content": 35,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://www.chick-fil-a.com/wp-content/uploads/sites/2/2025/06/Catering_landing_page_desktop_11zon.png",
+          "filename": "Catering_landing_page_desktop_11zon.png",
+          "alt": "Catering items including nuggets, fruit salad and dipping sauce",
+          "caption": "Catering items including nuggets, fruit salad and dipping sauce",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.chick-fil-a.com/wp-content/uploads/sites/2/2025/06/nuggetTray_md_PDP.png?w=300",
+          "filename": "nuggetTray_md_PDP.png",
+          "alt": "Chick-fil-A® Nugget Tray",
+          "caption": "Chick-fil-A® Nugget Tray",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.chick-fil-a.com/wp-content/uploads/sites/2/2025/08/CFA-Chicken-Sandwich-Packaged_Sea-Salt-Chips_Desktop.png?w=300",
+          "filename": "CFA-Chicken-Sandwich-Packaged_Sea-Salt-Chips_Desktop.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.chick-fil-a.com/wp-content/uploads/sites/2/2025/08/Catering-packaged-meals.jpg",
+          "filename": "Catering-packaged-meals.jpg",
+          "alt": "Various boxed meals in branded boxes",
+          "caption": "Various boxed meals in branded boxes",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.chick-fil-a.com/wp-content/uploads/sites/2/2025/06/treat_them_all_to_trays.jpg",
+          "filename": "treat_them_all_to_trays.jpg",
+          "alt": "A tray of nuggets with dipping sauce and a tray of fruit salad.",
+          "caption": "A tray of nuggets with dipping sauce and a tray of fruit salad.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.chick-fil-a.com/wp-content/uploads/sites/2/2025/06/minisTray_lg_PDP_Desk.png?w=300",
+          "filename": "minisTray_lg_PDP_Desk.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.chick-fil-a.com/wp-content/uploads/sites/2/2025/06/0000s0000_stack6200000_cfa160560_biscuit_chicken_prod21551240px.png?w=300",
+          "filename": "0000s0000_stack6200000_cfa160560_biscuit_chicken_prod21551240px.png",
+          "alt": "Chick-fil-A Chicken Biscuit",
+          "caption": "Chick-fil-A Chicken Biscuit",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.chick-fil-a.com/wp-content/uploads/sites/2/2025/06/serve_breakfast_to_a_bunch.jpg",
+          "filename": "serve_breakfast_to_a_bunch.jpg",
+          "alt": "A Chick-fil-A branded tabletop breakfast spread featuring a tray of chicken biscuit sandwiches, cups of hot coffee labeled “Great day ahead,” a platter of fruit, sticky notes, markers, and notebooks.",
+          "caption": "A Chick-fil-A branded tabletop breakfast spread featuring a tray of chicken biscuit sandwiches, cups of hot coffee, a platter of fruit, sticky notes, markers, and notebooks.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.chick-fil-a.com/wp-content/uploads/sites/2/2025/06/entrees.png",
+          "filename": "entrees.png",
+          "alt": "Chick-fil-A® Chicken Sandwich atop of wrapper.",
+          "caption": "Chick-fil-A® Chicken Sandwich atop of wrapper.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.chick-fil-a.com/wp-content/uploads/sites/2/2025/08/Catering-sides.jpg",
+          "filename": "Catering-sides.jpg",
+          "alt": "Side including Waffle Potato Chips and cookies.",
+          "caption": "Side including Waffle Potato Chips and cookies.",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:28:56.852992"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:06:12.541416"
 }

@@ -1,0 +1,90 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ewg.org/foodscores/",
+  "file_id": "1419",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "food",
+        "database",
+        "health",
+        "nutrition",
+        "consumer-guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "EWG's Food Scores",
+    "author": "EWG - Environmental Working Group",
+    "publish_date": null,
+    "main_content": "EWG's Food Scores helps you make informed choices about what's in your food and how it's produced and processed. Every bite you take is connected to something bigger. The database rates more than 150,000+ food products using a simple scoring system based on three factors: Nutrition Concerns, Ingredient Concerns, and Processing Concerns. Calories, sugar, fiber, and fat are weighed most heavily to help you quickly spot healthier options. Product labels don't always tell the whole story - EWG flags ingredients linked to health or environmental risks like additives and pesticides. Not all processed foods are bad but some are more concerning than others; the system looks at how far a product strays from whole ingredients and the additives used. Ultra-processed foods have been tied to 32 different health concerns, are 52% cheaper than less processed alternatives, and 67% of foods eaten by children are ultra-processed. Data provided by LabelINSIGHT®.",
+    "with": [
+      "EWG's Food Scores helps you make informed choices about what's in your food and how it's produced and processed.",
+      "EWG's Food Scores rates more than 150,000+ food products using a simple scoring system based on three factors.",
+      "Calories, sugar, fiber, fat — Food Scores starts here with an algorithm based on global nutrition science.",
+      "EWG flags ingredients linked to health or environmental risks, like additives and pesticides.",
+      "67% of foods eaten by children are ultra-processed and 32 different health concerns have been tied to ultra-processed food."
+    ],
+    "without": [
+      "Search more than 150,000 foods",
+      "Copyright © 2025 Environmental Working Group",
+      "Privacy Policy",
+      "Donate button and support links",
+      "Social media icons and links"
+    ],
+    "images": {
+      "total_in_content": 30,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "https://www.ewg.org/cdn-cgi/image/fit=cover,gravity=auto,width=452,height=652,quality=60/https://static.ewg.org/foodscores/images/ewg-foodscores-explainer-image.png",
+          "filename": "ewg-foodscores-explainer-image.png",
+          "alt": null,
+          "caption": "EWG Food Scores explainer image showing how the scoring system works",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.ewg.org/cdn-cgi/image/fit=cover,gravity=auto,width=566,height=95,quality=60/https://static.ewg.org/foodscores/images/ewg-foodscores-hazard-scale.png",
+          "filename": "ewg-foodscores-hazard-scale.png",
+          "alt": null,
+          "caption": "Hazard scale from 1-10 showing green to red scoring range",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ewg.org/cdn-cgi/image/fit=cover,gravity=auto,width=341,height=598,quality=60/https://static.ewg.org/foodscores/images/ewg-foodscores-upf-side-image-2.png",
+          "filename": "ewg-foodscores-upf-side-image-2.png",
+          "alt": null,
+          "caption": "Illustration related to ultra-processed food section",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ewg.org/cdn-cgi/image/fit=cover,gravity=auto,width=510,height=340,quality=60/https://www.ewg.org/sites/default/files/styles/max_1300x1300/public/2023-10/UltraprocessedShare.jpg?itok=dvgn-hIT",
+          "filename": "UltraprocessedShare.jpg",
+          "alt": "Bag of potato chips",
+          "caption": "Bag of potato chips",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ewg.org/cdn-cgi/image/fit=cover,gravity=auto,width=510,height=340,quality=60/https://www.ewg.org/sites/default/files/styles/max_1300x1300/public/2022-04/FoodNewsRebuttalBlog.jpg?itok=7qoQz2Nt",
+          "filename": "FoodNewsRebuttalBlog.jpg",
+          "alt": "Child eating apple",
+          "caption": "Child eating apple",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ewg.org/cdn-cgi/image/fit=cover,gravity=auto,width=510,height=340,quality=60/https://www.ewg.org/sites/default/files/styles/max_1300x1300/public/2021-04/FoodDyeBlog.jpg?itok=qETI9Ied",
+          "filename": "FoodDyeBlog.jpg",
+          "alt": "Child looking at cereal",
+          "caption": "Child looking at cereal",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:18:07.253230"
+}

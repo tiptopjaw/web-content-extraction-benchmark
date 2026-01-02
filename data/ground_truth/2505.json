@@ -1,0 +1,82 @@
+{
+  "schema_version": "2.0",
+  "url": "https://daily.bandcamp.com/best-of-2025/the-best-electronic-music-of-2025",
+  "file_id": "2505",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "music",
+        "electronic",
+        "best-of",
+        "year-end-list"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "The Best Electronic Music of 2025",
+    "author": null,
+    "publish_date": "2025-12-09",
+    "main_content": "Bandcamp Daily's guide to the year's crucial electronic LPs. The collection features standout releases including SHERELLE's 'WITH A VENGEANCE' showcasing jungle, drum & bass, and high-speed elevated dance music; Charles Webster's 'From The Hill' a collaborative album with South African artists exploring house and soulful compositions; Matthew Herbert's 'Clay' marking his return to piano house; Bell Curve's 'Magick' featuring smooth, sample-heavy productions; and The Bug vs Ghost Dubs' 'Implosion' capturing live dub techno recorded in London club spaces. Additional notable releases include works by DJ Python, Machine Girl, and offerings from labels like Dark Entries and Phantom.",
+    "with": [
+      "Bandcamp Daily's guide to the year's crucial electronic LPs.",
+      "SHERELLE's 'WITH A VENGEANCE' is the year's most essential dance record.",
+      "Charles Webster's 'From The Hill' finds the UK legend working with South African artists.",
+      "Matthew Herbert's 'Clay' marks his return to piano house.",
+      "The Bug vs Ghost Dubs' 'Implosion' captures the best of London's dub techno scene."
+    ],
+    "without": [
+      "Bandcamp Daily navigation and menu",
+      "Search the Bandcamp Daily",
+      "Copyright 2025 Bandcamp",
+      "Subscribe to Bandcamp Daily newsletter",
+      "Best of 2025 navigation links"
+    ],
+    "images": {
+      "total_in_content": 49,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://f4.bcbits.com/img/0041920872_0",
+          "filename": "0041920872_0",
+          "alt": null,
+          "caption": "Cover art for The Best Electronic Music of 2025",
+          "is_hero": true
+        },
+        {
+          "src": "https://f4.bcbits.com/img/0039264897_2.jpg",
+          "filename": "0039264897_2.jpg",
+          "alt": null,
+          "caption": "SHERELLE band photo",
+          "is_hero": false
+        },
+        {
+          "src": "https://f4.bcbits.com/img/0014923229_2.jpg",
+          "filename": "0014923229_2.jpg",
+          "alt": null,
+          "caption": "Charles Webster band photo",
+          "is_hero": false
+        },
+        {
+          "src": "https://f4.bcbits.com/img/0041984364_2.jpg",
+          "filename": "0041984364_2.jpg",
+          "alt": null,
+          "caption": "Bell Curve album artwork",
+          "is_hero": false
+        },
+        {
+          "src": "https://f4.bcbits.com/img/0040800605_2.jpg",
+          "filename": "0040800605_2.jpg",
+          "alt": null,
+          "caption": "The Bug vs Ghost Dubs band photo",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:32:32.692156"
+}

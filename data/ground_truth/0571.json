@@ -1,27 +1,104 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.edchoice.org/2025-a-kaleidoscope-view-of-k12-tutoring-in-america/",
   "file_id": "0571",
-  "downloaded_at": "2025-12-20T18:43:45.935293",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "research",
+        "tutoring",
+        "k-12",
+        "policy"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "A Kaleidoscope View of K–12 Tutoring in America",
     "author": "Paul DiPerna",
     "publish_date": "2025-11-17",
-    "main_content": "What do national surveys tell us about demand, usage, and access? Next week, I’ll share an email-based Q&A I had the privilege of exchanging with Liz Cohen of 50CAN about her new book The Future of Tutoring: Lessons from 10,000 School District Tutoring Initiatives. Her work examines what happened when many school districts launched tutoring programs within a single year, an unprecedented expansion. Before turning to that interview, let’s look at what the numbers show where tutoring stands today. What has happened to tutoring since the COVID pandemic? Who’s using tutoring in 2025, who has access to it, and what do the latest data tell us about how it’s being delivered in K-12 education? Tutoring is a topic I’ve written about before. Those earlier, pandemic-driven pieces considered the potential of tutoring for learning recovery and the challenges families and schools faced in trying to meet students’ needs. This post steps back to reflect what the more recent national data suggest about the state of tutoring today. What follows is a brief look at some indicators of K-12 tutoring demand, usage, and access. Depending on the measure we can see stability, changes, or gaps. 1. Parent interest in tutoring is substantial and generally stable. Nationwide parent interest in tutoring is palpable. In the EdChoice-Morning Consult polling, roughly 35–45% of school parents each month report they have a child either currently tutoring or that they are actively seeking tutoring. Our estimates show 15–20% of students receive any tutoring in a typical month. Usage peaked briefly in April 2021 at 24%, during the height of pandemic-related disruptions. More recently in October 2025, 19% of parents said their child was receiving tutoring and another 24% were looking or planning to look soon. This pattern, consistent since the pandemic, suggests enduring levels of unmet demand. 2. Parents show significant willingness to pay for tutoring. When asked how much they would be willing to pay for tutoring a child, school parents reported an average $357 per month in July 2025. That estimate highlights the premium parents place on supporting individualized academic learning. The stability of these averages across earlier waves suggests that the financial value parents assign to tutoring is both substantial and durable. 3. Interest is even higher among certain groups. Combined May–July 2025 survey waves show tutoring interest exceeding 55% among private school parents and special education families, compared with less than one-third of rural and small-town parents. These subgroup differences have been consistent over multiple years of polling. The highest interest appears among families with identified learning needs, while rural, small-town, and lower-income families report less or more constrained interest. 4. Roughly 1 out of 5 U.S students currently receive tutoring in a given month. In 50CAN’s The State of Educational Opportunity in America, a 2024 national survey of more than 20,000 parents, shows wide variation across states. In several states – such as California, Arizona, New Mexico, Texas, Florida, Georgia, and North Carolina – 22% or more of students received tutoring in the previous school year. Many states fall in the 17–21% range, while parts of the Midwest, Plains, and Mountain West fall below 13%. Overall, tutoring participation remains highly uneven across states and regions. Source: 50CAN. Education Opportunity Survey: The State of Educational Opportunity in America. 5. School-based tutoring expanded in the pandemic, but overall has declined in the past two years. NCES School Pulse Panel data show that 51% of public schools offered at least one type of tutoring in December 2022, a level that held steady through October 2023 (50%) and October 2024 (49%) before falling to 43% by June 2025. This decline appears across all regions: in the South, availability fell from 56% to 45%, and in the Midwest from 50% to 42%. These shifts closely track the end of federal ESSER funding and ongoing staffing shortages and ongoing staffing constraints cited by school leaders, suggesting that sustaining tutoring programs may surface competing priorities. Source: NCES, School Pulse Panel—Tutoring Results, June 2025. 6. Schools attempt to prioritize struggling students, but capacity is limited. The 50CAN Education Opportunity Survey underscores the need-access gap. Parents of lower-performing students – those earning mostly C’s and D’s or mostly D’s and F’s – show the strongest interest in tutoring when their child does not already have a tutor, with 40% and 38% respectively saying they are very interested. Yet participation among these groups remains more modest, at 17–19%, only slightly higher than among families of students earning mostly A’s or B’s. Interest is high where academic need is greatest, but access doesn’t look like it’s keeping pace. Source: 50CAN. Education Opportunity Survey: The State of Educational Opportunity in America. When we look specifically at high-dosage tutoring, the NCES data show a modest national increase over the past three school years. The share of public schools offering high-dosage tutoring has risen from 37% in 2022 to 42% by spring 2025. Regional patterns are similar but not identical: in the South, high-dosage tutoring is most common, increasing +6 points; in the Northeast, an even more dramatic jump by +10 points. The Midwest and West show smaller gains, +3 points and +1 point respectively. High-dosage tutoring seems to be more available than a few years ago, especially in the South and Northeast, but still less than half of public schools across the country have such tutoring to offer students. 7. States with education savings account (ESA) programs illustrate what expanded access can look like outside of the traditional school building and school day. Education savings accounts (ESAs) are another way for families to access tutoring beyond school-based programs. There are 21 ESA programs operating in 18 states. Last school year more than 480,000 students enrolled in a state ESA program. A closer look at state programs offers a clearer picture of how families are using ESAs to access tutoring. In Arizona, the first state to launch an ESA program in 2011, families regularly use allocated funds for tutoring, instructional coaching, and other educational services, according to recent spending analyses by Susan Pendergrass. Last month Arkansas published its 2025 annual report that shows families directing funds toward tutoring and other specialized services. In states where all students are eligible to enroll in an ESA – Arizona, Florida, Arkansas, Iowa, Utah, and Texas – families can pursue tutoring after school, on weekends, online, and through direct providers, creating access points not constrained by school-based schedules, staffing, or local program availability. Looking Ahead Taken together, these patterns and recent trends point to several broader implications. Demand for tutoring remains high, yet access and usage lag behind. School-based high-dosage tutoring has expanded, but overall tutoring availability has declined. And gaps in tutoring access – at least by academic need and location – persist across the country. Such themes also run through Liz Cohen’s new book documenting district-led tutoring programs. In the next post, we’ll learn more from Liz’s research and insights and consider what they might suggest for the future of tutoring in American schools. This was originally published to our Substack.",
+    "main_content": "What has happened to tutoring since the COVID pandemic? Who's using tutoring in 2025, who has access to it, and what do the latest data tell us about how it's being delivered in K-12 education? Nationwide parent interest in tutoring is substantial and generally stable. In the EdChoice-Morning Consult polling, roughly 35-45% of school parents each month report they have a child either currently tutoring or that they are actively seeking tutoring. Our estimates show 15-20% of students receive any tutoring in a typical month. Usage peaked briefly in April 2021 at 24%, during the height of pandemic-related disruptions. More recently in October 2025, 19% of parents said their child was receiving tutoring and another 24% were looking or planning to look soon. When asked how much they would be willing to pay for tutoring a child, school parents reported an average $357 per month in July 2025. That estimate highlights the premium parents place on supporting individualized academic learning. Combined May-July 2025 survey waves show tutoring interest exceeding 55% among private school parents and special education families, compared with less than one-third of rural and small-town parents. In 50CAN's The State of Educational Opportunity in America, a 2024 national survey of more than 20,000 parents, shows wide variation across states. In several states – such as California, Arizona, New Mexico, Texas, Florida, Georgia, and North Carolina – 22% or more of students received tutoring in the previous school year. NCES School Pulse Panel data show that 51% of public schools offered at least one type of tutoring in December 2022, a level that held steady through October 2023 (50%) and October 2024 (49%) before falling to 43% by June 2025. The 50CAN Education Opportunity Survey underscores the need-access gap. Parents of lower-performing students – those earning mostly C's and D's or mostly D's and F's – show the strongest interest in tutoring when their child does not already have a tutor, with 40% and 38% respectively saying they are very interested. Yet participation among these groups remains more modest, at 17-19%, only slightly higher than among families of students earning mostly A's or B's. The share of public schools offering high-dosage tutoring has risen from 37% in 2022 to 42% by spring 2025. Education savings accounts (ESAs) are another way for families to access tutoring beyond school-based programs. There are 21 ESA programs operating in 18 states. Last school year more than 480,000 students enrolled in a state ESA program. Taken together, these patterns and recent trends point to several broader implications. Demand for tutoring remains high, yet access and usage lag behind. School-based high-dosage tutoring has expanded, but overall tutoring availability has declined. And gaps in tutoring access – at least by academic need and location – persist across the country.",
     "with": [
-      "What has happened to tutoring since the COVID pandemic? Who’s using tutoring in 2025, who has access to it, and what do the latest data tell us about how it’s being delivered in K-12 education?",
-      "In the EdChoice-Morning Consult polling, roughly 35–45% of school parents each month report they have a child either currently tutoring or that they are actively seeking tutoring.",
-      "When asked how much they would be willing to pay for tutoring a child, school parents reported an average $357 per month in July 2025.",
-      "NCES School Pulse Panel data show that 51% of public schools offered at least one type of tutoring in December 2022, a level that held steady through October 2023 (50%) and October 2024 (49%) before falling to 43% by June 2025.",
-      "Demand for tutoring remains high, yet access and usage lag behind. School-based high-dosage tutoring has expanded, but overall tutoring availability has declined."
+      "Nationwide parent interest in tutoring is substantial and generally stable.",
+      "Roughly 35-45% of school parents each month report they have a child either currently tutoring or that they are actively seeking tutoring.",
+      "School parents reported an average $357 per month they would be willing to pay for tutoring a child.",
+      "Tutoring interest exceeding 55% among private school parents and special education families.",
+      "Demand for tutoring remains high, yet access and usage lag behind."
     ],
     "without": [
-      "What is School Choice?",
-      "Latest from the Blog",
-      "Support Educational Choice in America",
-      "Get updates straight to your inbox",
-      "© 2025 EdChoice"
-    ]
+      "Subscribe to our newsletter",
+      "Donate to EdChoice",
+      "Copyright 2025 EdChoice",
+      "Navigation menu items",
+      "Related blog posts in sidebar"
+    ],
+    "images": {
+      "total_in_content": 13,
+      "annotated_count": 8,
+      "items": [
+        {
+          "src": "https://www.edchoice.org/wp-content/uploads/2025/11/pexels-katerina-holmes-5905709-1150x575.jpg",
+          "filename": "pexels-katerina-holmes-5905709-1150x575.jpg",
+          "alt": "A Kaleidoscope View of K–12 Tutoring in America",
+          "caption": "A Kaleidoscope View of K–12 Tutoring in America",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.edchoice.org/wp-content/uploads/2025/11/3f1685de-a62c-4cfc-bf5d-4455fe0248b7_1724x834-1520x735.jpg",
+          "filename": "3f1685de-a62c-4cfc-bf5d-4455fe0248b7_1724x834-1520x735.jpg",
+          "alt": null,
+          "caption": "Parent interest in tutoring chart showing 35-45% seeking or using tutoring",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.edchoice.org/wp-content/uploads/2025/11/eae34968-05c6-4176-a452-58344dc84962_1692x852-1520x765.jpg",
+          "filename": "eae34968-05c6-4176-a452-58344dc84962_1692x852-1520x765.jpg",
+          "alt": null,
+          "caption": "Parents willing to pay average $357 per month for tutoring",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.edchoice.org/wp-content/uploads/2025/11/c3dba52b-c6c9-457a-8456-473d6ead86bf_2102x933-1520x675.png",
+          "filename": "c3dba52b-c6c9-457a-8456-473d6ead86bf_2102x933-1520x675.png",
+          "alt": null,
+          "caption": "Chart showing tutoring interest exceeding 55% among private school and special education families",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.edchoice.org/wp-content/uploads/2025/11/c36df76d-6097-454a-bfe9-e02c5531659a_1685x967-1520x872.jpg",
+          "filename": "c36df76d-6097-454a-bfe9-e02c5531659a_1685x967-1520x872.jpg",
+          "alt": null,
+          "caption": "State-by-state tutoring participation variation map",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.edchoice.org/wp-content/uploads/2025/11/352743c2-4b61-4f4e-9b9c-31c66d10a4a0_1900x1112-1520x890.png",
+          "filename": "352743c2-4b61-4f4e-9b9c-31c66d10a4a0_1900x1112-1520x890.png",
+          "alt": null,
+          "caption": "Source: 50CAN Education Opportunity Survey",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.edchoice.org/wp-content/uploads/2025/11/0d07fbec-9ee0-45a4-8640-f7d5a16f72d3_1623x1179-1520x1104.png",
+          "filename": "0d07fbec-9ee0-45a4-8640-f7d5a16f72d3_1623x1179-1520x1104.png",
+          "alt": null,
+          "caption": "Source: NCES School Pulse Panel Tutoring Results June 2025",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.edchoice.org/wp-content/uploads/2025/11/a9140a51-ce14-40e5-bd12-3e8f2d732f52_1720x604-1520x534.png",
+          "filename": "a9140a51-ce14-40e5-bd12-3e8f2d732f52_1720x604-1520x534.png",
+          "alt": null,
+          "caption": "Source: 50CAN Education Opportunity Survey",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:43:45.935298"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:28:02.816486"
 }

@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.owner.com/blog/seo-for-restaurants",
+  "file_id": "0683",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "marketing",
+        "seo",
+        "restaurant",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Restaurant SEO is Easier Than You Think (3 Big Wins)",
+    "author": "Adam Guild",
+    "publish_date": "2025-05-06",
+    "main_content": "Restaurant SEO drives more online orders than every other type of marketing. Way more than social media, direct mail, billboards, or flyers - combined. SEO takes way less effort too. With Instagram, you have to post every day. But when you do restaurant SEO correctly, it's set it and forget it. The article reveals 3 big wins for restaurant SEO that owners can implement without being marketing experts. Big Win #1 is making your Google Business Profile absolutely perfect by adding accurate contact info, uploading photos, filling out attributes, adding your menu, and getting more reviews on Google. Big Win #2 is adding cuisine phrases to your homepage by including keywords like 'best tacos in Miramar' or 'best Italian in Lakeside' in your page title and main headline. Big Win #3 is adding website features that customers are looking for, specifically online reservations and online ordering, to keep visitors engaged on your site. The article also covers critical SEO mistakes to avoid, including linking to online ordering on a different domain, having too many large images that slow down page loading, and using PDF or JPG menus instead of text-based menus. Advanced tips include building backlinks, adding alt text to images, and adding more pages to your website beyond just a homepage. SEO is the biggest opportunity for most restaurants, and the key is to start ASAP as it can take time to see results.",
+    "with": [
+      "Restaurant SEO drives more online orders than every other type of marketing.",
+      "Google Search is the #1 most important source of new customers for restaurants.",
+      "The simplest way to get Google to recommend you more often is to give Google as much information as you can in your Google Business Profile.",
+      "Big Win #2 is adding relevant phrases and keywords on your homepage, such as 'best tacos in Miramar' or 'best Italian in Lakeside'.",
+      "One of the worst SEO mistakes is to send your website visitors to an online ordering system on a different website like DoorDash."
+    ],
+    "without": [
+      "Navigation menu with Product, Company, and Resources dropdown links",
+      "Subscribe to newsletter or get a free demo CTA buttons",
+      "Footer with copyright 2025 and legal links",
+      "Related articles section with other blog posts",
+      "Login button and mobile navigation menu"
+    ],
+    "images": {
+      "total_in_content": 28,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://cdn.prod.website-files.com/666eec3edcc552b5eecc7fcd/668966ecbd62250ed5efb13a_65cdd9ebce2cb290e2a61191_seo-for-restaurants-thumbnail.jpeg",
+          "filename": "668966ecbd62250ed5efb13a_65cdd9ebce2cb290e2a61191_seo-for-restaurants-thumbnail.jpeg",
+          "alt": null,
+          "caption": "Restaurant SEO guide thumbnail showing the article's main visual",
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6345c20d6b42a523ecf89891/6635056d6c1638cb306938e4_chicken-and-waffles-google-local-pack-mobile.jpg",
+          "filename": "6635056d6c1638cb306938e4_chicken-and-waffles-google-local-pack-mobile.jpg",
+          "alt": "Screenshot of a Google search for chicken and waffles chicago.",
+          "caption": "Screenshot of a Google search for chicken and waffles chicago",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6345c20d6b42a523ecf89891/66350644142155d9f5b2383e_seo-driven-growth-mobile%20(1).png",
+          "filename": "66350644142155d9f5b2383e_seo-driven-growth-mobile%20(1).png",
+          "alt": "Bar graph compares new customer sources with Google leading as a top named source.",
+          "caption": "Bar graph compares new customer sources with Google leading as a top named source",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/63355f061512f71caf6ee3de/663a81db30d74f8ff3dc6553_example-of-a-good-and-bad-gbp-mobile.jpg",
+          "filename": "663a81db30d74f8ff3dc6553_example-of-a-good-and-bad-gbp-mobile.jpg",
+          "alt": "Screenshots of 2 Google business profiles represent best and worst practices.",
+          "caption": "Screenshots of 2 Google business profiles represent best and worst practices",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6345c20d6b42a523ecf89891/66350980e43754a9b5a2efef_google-business-profile-attributes%20(1).png",
+          "filename": "66350980e43754a9b5a2efef_google-business-profile-attributes%20(1).png",
+          "alt": "Screenshot of a Google Maps restaurant marker highlights key information.",
+          "caption": "Screenshot of a Google Maps restaurant marker highlights key information",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6345c20d6b42a523ecf89891/663509fd206d409c9722cd8d_google-business-profile-menu%20(1).png",
+          "filename": "663509fd206d409c9722cd8d_google-business-profile-menu%20(1).png",
+          "alt": "Screenshot of a Google My Business restaurant menu.",
+          "caption": "Screenshot of a Google My Business restaurant menu",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6345c20d6b42a523ecf89891/66350e1e8d44714fcb167c98_google-search-mobile.jpg",
+          "filename": "66350e1e8d44714fcb167c98_google-search-mobile.jpg",
+          "alt": "Screenshot of Google Search with an unfinished search — pizza in hudson y.",
+          "caption": "Screenshot of Google Search with an unfinished search — pizza in hudson y",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6345c20d6b42a523ecf89891/6635158f2b921780bb900ee3_google-rewards-websites-that-give-visitors-what-they%20want_mobile.png",
+          "filename": "6635158f2b921780bb900ee3_google-rewards-websites-that-give-visitors-what-they%20want_mobile.png",
+          "alt": "Screenshots of 2 websites highlighting that Google rewards sites with online ordering.",
+          "caption": "Screenshots of 2 websites highlighting that Google rewards sites with online ordering",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6345c20d6b42a523ecf89891/663516318bf010ac1e1cf7b8_restaurant-seo-checklist-1.png",
+          "filename": "663516318bf010ac1e1cf7b8_restaurant-seo-checklist-1.png",
+          "alt": "Restaurant SEO checklist highlights items to do ASAP.",
+          "caption": "Restaurant SEO checklist highlights items to do ASAP",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6345c20d6b42a523ecf89891/66351caa17b5ab164997fb1f_restaurant-seo-checklist-3.png",
+          "filename": "66351caa17b5ab164997fb1f_restaurant-seo-checklist-3.png",
+          "alt": "Full restaurant SEO checklist includes priority to-dos, mistakes to avoid, and advanced tips.",
+          "caption": "Full restaurant SEO checklist includes priority to-dos, mistakes to avoid, and advanced tips",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:53:19.118090"
+}

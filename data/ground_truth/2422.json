@@ -1,68 +1,61 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.irishtimes.com/life-style/gardening/2025/12/20/the-10-best-gardening-books-of-2025",
   "file_id": "2422",
-  "downloaded_at": "2025-12-21T00:21:55.648504",
+  "_internal": {
+    "page_type": {
+      "primary": "review",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "gardening",
+        "books",
+        "reviews",
+        "lifestyle"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "The 10 best gardening books of 2025",
     "author": "Fionnuala Fallon",
     "publish_date": "2025-12-20",
-    "main_content": "As another gardening year comes to an end, here’s a look at ten of the best gardening books of 2025.\n\nDiary of a Keen Gardener\nby Mary Keen (Hachette)\nThe hugely respected British writer, columnist, lecturer and designer Mary Keen has created gardens all over the world as well as written about them, but it’s the story of a year’s turning in her own plot in Somerset that’s the subject of her latest book. Insightful, instructive, inspiring, and filled with pearls of wisdom born of a lifetime’s expert, thoughtful gardening, this is one to keep by the bedside.\n\nWonderlands: British Garden Designers at Home\nby Clare Coulson (Hardie Grant Books)\nIt’s one thing to make a living from designing other people’s gardens, but quite another to design your own, something that Clare Coulson explores in British Garden Designers at Home. Featuring the private gardens of 18 of the UK’s most successful designers including Sara Price, the Bannermans, Arabella Lennox-Boyd, Miranda Brooks, Dan Pearson, Tom Stuart-Smith and Arne Maynard, it acts as a fascinating and beautifully illustrated garden tour with Coulson serving as the reader’s expert guide, ably assisted by Éva Németh’s richly atmospheric photography.\n\nThe New Romantic Garden\nby Jo Thompson (Rizzoli)\nA British garden designer, broadcaster and writer whose name will be familiar to many, both as an award-winning exhibitor at numerous previous RHS Chelsea Flower Shows as well as for her popular podcast and active presence on Substack, Thompson is known for her lush, romantic, densely-planted, quintessentially English garden designs as well as her expert use of colour.\nA plants-person to her core, in her latest book she offers readers a fascinating and instructive insight into her work, breaking each photograph (and there are many) down into an explanation of the particular challenges of the site as well her expert analysis of how the design and planting overcame them.\n\nLife with Flowers: Inspiration and Lessons from the Garden\nby Frances Palmer (Hachette/Artisan)\nThe celebrated American ceramic artist, photographer and gardener Frances Palmer is known for her exquisite flower arrangements, using her own handmade vessels with home-grown blooms picked from her garden.\nIn her latest book, she shares how her love of flowers feeds her art and vice versa, describing them as “two halves of my earthly paradise”. Palmer’s fondness for bearded irises, for example, was inspired both by a tour of the gardens of Provence and an exhibition of the work of the artist and iris breeder Cedris Morris, while a love of 17th-century Dutch still life paintings led her to grow a wide variety of tulips in her Connecticut garden.\nAuriculas are another favourite, prompted by an exhibition of the work of the 18th-century artist Mary Delaney. Along with tips on choosing the best varieties for flower arranging plus recipes using flowers from the garden, this beautiful book is also packed full of practical tips inspired by Palmer’s love of flower gardening.\n\nHow to Design a Garden: Create and Maintain Your Dream Garden\nby Pollyanna Wilkinson (DK Books)\nAward-winning garden designer Pollyanna Wilkinson belongs to a new generation of young British gardeners and designers with a large presence on social media, where she shares her professional expertise generously. A great choice for new garden owners who dream big but don’t yet have the practical know-how, her first book is a no-nonsense, hands-on, step-by-step guide to designing, making and managing a garden, from creating a to-scale plan on paper and the practicalities of selecting the most suitable materials to a monthly guide to essential maintenance jobs.\n\nGardens Illustrated: The New Beautiful: Inspiring Gardens for a Resilient Future\n(Rizzoli)\nOften described as the Vogue of the gardening world, the UK’s Gardens Illustrated has forged a reputation as one of the world’s most beautiful gardening magazines as well as its most inspiring, combining top-notch writing by a wide range of expert contributors with exquisite imagery. Building on that reputation for excellence under the stewardship of its Irish-born editor Stephanie Mahon, its first book takes an expert look at 52 outstanding gardens created by some of the world’s most talented garden designers including Tom Stuart-Smith, Urquhart & Hunt, Dan Pearson and Peter Korn. Far more than just a beautiful coffee table book, it offers oodles of practical advice on the nuts and bolts of modern garden making, with the emphasis on sustainability and nurturing a sense of place.\n\nWhat Grows Together: Planting Recipes for Every Garden\nby Jamie Butterworth (DK Books)\nCreating pleasing, enduring plant combinations is an art form that all creative gardeners strive to master, requiring an in-depth knowledge of plants’ individual characteristics and growing preferences as well as a cultivated eye for beauty. A Sunday Times bestseller, professional horticulturist, plantsperson and nursery owner Jamie Butterworth’s What Grows Together is akin to a classic cookery book in this regard, sharing more than 60 tried-and-tested recipes for winning plant partnerships designed for a wide range of different growing conditions, along with tips on their care and cultivation. Both new and experienced gardeners will find plenty among its pages to inspire and inform.\n\nThe Contemporary Garden\n(Phaidon)\nServing as powerful testimony to the endlessly creative spirit of contemporary garden design, this is a book to feast on. British garden designer, lecturer, teacher, writer and podcaster Annie Gulfoyle’s insightful introduction kicks it off wonderfully, followed by an expert and lushly illustrated look at the designs of 300 of the world’s most innovative modern gardens across more than 40 countries, from the groundbreaking High Line and Anna Wintour’s chic city plot in New York and the Bosco Verticale in Milan, to Arjan Boekels’ dreamy rooftop garden in Rotterdam, the futuristic Changi Airport Garden in Singapore and – much closer to home – Hunting Brook in Co Wicklow.\n\nThe Kindest Garden: A Practical Guide to Regenerative Gardening by Marian Boswall (Frances Lincoln)\nAuthor Marian Boswall has created a cracker of a book that draws on her extensive experience as a professional landscape architect as well as her expert knowledge of sustainable garden design and deep-rooted interest in gardens as healing, nurturing spaces, or sanctuaries as she describes them. The worthy winner of this year’s Garden Media Guild Gardening Book of the Year award, it’s an illuminating and humbling read that reminds us how we’re just one species among countless others dependent on Planet Earth as well as each other for our wellbeing and survival.\n\nThe Permaculture Garden: A Practical Approach to Year-round Harvests\nby Huw Richards (DK Books)\nIn his latest book, the Welsh kitchen gardener and well-known YouTuber Huw Richards shares a wealth of practical tips and dirt-under-the-fingernails advice on how to create a healthy, productive, biodiverse garden using tried and trusted permaculture techniques that sustain soil health and protect wildlife. Covering everything from the no-dig approach, diverse composting methods and perennial vegetable plantings to rain harvesting and the benefits of biochar, this is a very accessible, clearly laid-out, handsomely illustrated guide to growing food in harmony with nature.",
+    "main_content": "As another gardening year comes to an end, here's a look at ten of the best gardening books of 2025. Diary of a Keen Gardener by Mary Keen is the hugely respected British writer's latest book about the story of a year's turning in her own plot in Somerset, insightful, instructive, inspiring, and filled with pearls of wisdom born of a lifetime's expert, thoughtful gardening. Wonderlands: British Garden Designers at Home by Clare Coulson explores how 18 of the UK's most successful designers have approached their own private gardens, featuring designers like Dan Pearson, Tom Stuart-Smith and Arne Maynard. The New Romantic Garden by Jo Thompson offers readers a fascinating and instructive insight into her work as an award-winning garden designer known for her lush, romantic, densely-planted designs. Life with Flowers: Inspiration and Lessons from the Garden by Frances Palmer shares how her love of flowers feeds her art, with tips on choosing the best varieties for flower arranging plus recipes using flowers from the garden. How to Design a Garden by Pollyanna Wilkinson is a no-nonsense, hands-on, step-by-step guide to designing, making and managing a garden for new garden owners. Gardens Illustrated: The New Beautiful takes an expert look at 52 outstanding gardens created by some of the world's most talented garden designers with emphasis on sustainability. What Grows Together by Jamie Butterworth shares more than 60 tried-and-tested recipes for winning plant partnerships designed for different growing conditions. The Contemporary Garden by Phaidon examines 300 of the world's most innovative modern gardens across more than 40 countries. The Kindest Garden by Marian Boswall draws on her extensive experience as a professional landscape architect with expert knowledge of sustainable garden design, winner of this year's Garden Media Guild Gardening Book of the Year award. The Permaculture Garden by Huw Richards shares practical tips on how to create a healthy, productive, biodiverse garden using permaculture techniques.",
     "with": [
-      "As another gardening year comes to an end, here’s a look at ten of the best gardening books of 2025.",
-      "The hugely respected British writer, columnist, lecturer and designer Mary Keen has created gardens all over the world as well as written about them, but it’s the story of a year’s turning in her own plot in Somerset that’s the subject of her latest book.",
-      "It’s one thing to make a living from designing other people’s gardens, but quite another to design your own, something that Clare Coulson explores in British Garden Designers at Home.",
-      "In his latest book, the Welsh kitchen gardener and well-known YouTuber Huw Richards shares a wealth of practical tips and dirt-under-the-fingernails advice on how to create a healthy, productive, biodiverse garden using tried and trusted permaculture techniques that sustain soil health and protect wildlife."
+      "The hugely respected British writer, columnist, lecturer and designer Mary Keen has created gardens all over the world as well as written about them, but it's the story of a year's turning in her own plot in Somerset that's the subject of her latest book.",
+      "A plants-person to her core, in her latest book she offers readers a fascinating and instructive insight into her work, breaking each photograph down into an explanation of the particular challenges of the site as well her expert analysis of how the design and planting overcame them.",
+      "Often described as the Vogue of the gardening world, the UK's Gardens Illustrated has forged a reputation as one of the world's most beautiful gardening magazines as well as its most inspiring.",
+      "Creating pleasing, enduring plant combinations is an art form that all creative gardeners strive to master, requiring an in-depth knowledge of plants' individual characteristics and growing preferences as well as a cultivated eye for beauty.",
+      "Serving as powerful testimony to the endlessly creative spirit of contemporary garden design, this is a book to feast on."
     ],
     "without": [
       "Subscribe",
-      "Sections",
-      "Home",
-      "Latest",
-      "Subscriber Only",
-      "Crosswords & Puzzles",
-      "Ireland",
-      "Politics",
-      "Opinion",
-      "Business",
-      "World",
-      "Sport",
-      "Your Money",
-      "Crime & Law",
-      "Property",
-      "Food",
-      "Health",
-      "Life & Style",
-      "Culture",
-      "Environment",
-      "Technology",
-      "Science",
-      "Media",
-      "Abroad",
-      "Obituaries",
-      "Transport",
-      "Motors",
-      "Listen",
-      "Podcasts",
-      "Video",
-      "Photography",
-      "Gaeilge",
-      "History",
-      "Student Hub",
-      "Offbeat",
-      "Family Notices",
-      "Sponsored",
-      "Subscriber Rewards",
-      "Competitions",
-      "Newsletters",
-      "Weather Forecast",
-      "READ MORE",
-      "‘I think I see Japanese knotweed growing next door. What should I do?’",
-      "Bring your garden indoors: Christmas garlands and centrepieces with wow factor",
-      "How can I stop squirrels digging up my bulbs?",
-      "How to deck the halls with home-grown Christmas greenery",
-      "IN THIS SECTION"
-    ]
+      "The Irish Times",
+      "IN THIS SECTION",
+      "Social share buttons",
+      "Download The Irish Times iOS App"
+    ],
+    "images": {
+      "total_in_content": 24,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://www.irishtimes.com/resizer/v2/WIRLMBYNNZBIFIG44DIRKQQ2XE.jpg?auth=f80817ee3e0250a5a8f6f8ccaaa3d023411e35a805a3ec2c01e1b69995f871a5&smart=true&width=1024&height=714",
+          "filename": "WIRLMBYNNZBIFIG44DIRKQQ2XE.jpg",
+          "alt": "From the no-dig approach to recipes using flowers from the garden, these books offer a range of tips and green perspectives. Photograph: Getty Images",
+          "caption": "From the no-dig approach to recipes using flowers from the garden, these books offer a range of tips and green perspectives. Photograph: Getty Images",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.irishtimes.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Firishtimes%2F16c73468-a8ad-41f8-ae74-102a10eb7410.png?auth=3015df5d67a4959600365795286af641f2b48c8abb4b7369cce70e34c6d241a0&width=118",
+          "filename": "https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Firishtimes%2F16c73468-a8ad-41f8-ae74-102a10eb7410.png",
+          "alt": "Fionnuala Fallon's picture ",
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-21T00:21:55.648511"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:17:08.083363"
 }

@@ -1,27 +1,89 @@
 {
+  "schema_version": "2.0",
   "url": "https://searchengineland.com/library/seo",
   "file_id": "1063",
-  "downloaded_at": "2025-12-20T20:45:11.372369",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "seo",
+        "search-engine-optimization",
+        "category-page",
+        "industry-news"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "SEO",
+    "title": "SEO: news, trends & guides | Search Engine Land",
     "author": null,
     "publish_date": null,
-    "main_content": "Search Engine Land is your ultimate source for the latest SEO news, strategies, and content. You’ll find a variety of up-to-date and authoritative resources to help you work smarter and make better decisions.\n\nComprehensive industry coverage\n\nWe provide the latest industry updates, ensuring you’re always informed about changes that could impact your SEO efforts. From major algorithm shifts to minor tweaks, we keep you in the loop.\n\nOur resources cover everything from the basics of SEO to advanced analysis of Google rankings.\n\nData-driven insights\n\nWe offer the latest data and insights to support your SEO initiatives.\n\nOur resources are carefully curated to provide you with the information you need to make informed decisions and improve your search performance.\n\nExpert knowledge\n\nOur content is written by an experienced in-house team, and subject matter experts from leading brands and agencies. This diverse group of contributors ensures you get well-rounded, expert perspectives on SEO topics.\n\nWe explore industry trends like the evolution of high-performance agency models and the future of SEO’s oldest tactics.\n\nStay ahead of the curve\n\nThe search industry is constantly evolving, and we’re here to help you keep pace. Stay ahead of algorithm updates, emerging trends, and best practices in the ever-evolving search industry.\n\nWe even cover cutting-edge topics like using ChatGPT prompts for SEO.\n\nDaily newsletter\n\nDon’t miss out on any important updates or insights. Get Search Engine Land newsletter delivered daily to your inbox. Subscribe for free and stay informed about the latest in the search industry.",
+    "main_content": "Search Engine Land is your ultimate source for the latest SEO news, strategies, and content. You'll find a variety of up-to-date and authoritative resources to help you work smarter and make better decisions.\n\nComprehensive industry coverage: We provide the latest industry updates, ensuring you're always informed about changes that could impact your SEO efforts. From major algorithm shifts to minor tweaks, we keep you in the loop. Our resources cover everything from the basics of SEO to advanced analysis of Google rankings.\n\nData-driven insights: We offer the latest data and insights to support your SEO initiatives. Our resources are carefully curated to provide you with the information you need to make informed decisions and improve your search performance.\n\nExpert knowledge: Our content is written by an experienced in-house team, and subject matter experts from leading brands and agencies. This diverse group of contributors ensures you get well-rounded, expert perspectives on SEO topics.\n\nStay ahead of the curve: The search industry is constantly evolving, and we're here to help you keep pace. Stay ahead of algorithm updates, emerging trends, and best practices in the ever-evolving search industry.\n\nDaily newsletter: Don't miss out on any important updates or insights. Get Search Engine Land newsletter delivered daily to your inbox.",
     "with": [
       "Search Engine Land is your ultimate source for the latest SEO news, strategies, and content.",
-      "We provide the latest industry updates, ensuring you’re always informed about changes that could impact your SEO efforts.",
+      "We provide the latest industry updates, ensuring you're always informed about changes that could impact your SEO efforts.",
       "Our content is written by an experienced in-house team, and subject matter experts from leading brands and agencies.",
-      "The search industry is constantly evolving, and we’re here to help you keep pace.",
-      "Get Search Engine Land newsletter delivered daily to your inbox. Subscribe for free and stay informed about the latest in the search industry."
+      "The search industry is constantly evolving, and we're here to help you keep pace.",
+      "Get Search Engine Land newsletter delivered daily to your inbox."
     ],
     "without": [
-      "Is your organic traffic disappearing?",
-      "Check my site's SEO",
-      "Chat with SearchBot",
-      "Google sues SerpApi over scraping and reselling Search data",
-      "Dig deeper into SEO:"
-    ]
+      "Subscribe to our newsletter",
+      "Copyright 2025 Search Engine Land",
+      "Privacy Policy link",
+      "Navigation menu dropdown items",
+      "ShareThis social media buttons"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "https://searchengineland.com/wp-content/seloads/2024/12/Try_Semrush_1120x230.png.webp",
+          "filename": "Try_Semrush_1120x230.png.webp",
+          "alt": "Clickable graphic leading to a free 14 day trial offer on Semrush Tools",
+          "caption": "Clickable graphic leading to a free 14 day trial offer on Semrush Tools",
+          "is_hero": true
+        },
+        {
+          "src": "https://searchengineland.com/wp-content/seloads/2023/02/what-is-seo-search-engine-optimization-600x338.jpg.webp",
+          "filename": "what-is-seo-search-engine-optimization-600x338.jpg.webp",
+          "alt": "what-is-seo-search-engine-optimization",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://searchengineland.com/wp-content/seloads/2025/01/search-engine-land-seo-600x338.png.webp",
+          "filename": "search-engine-land-seo-600x338.png.webp",
+          "alt": "search-engine-land-seo",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://searchengineland.com/wp-content/seloads/2024/05/google-logo-leak-1920-592x338.jpg.webp",
+          "filename": "google-logo-leak-1920-592x338.jpg.webp",
+          "alt": "google-logo-leak-1920",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://searchengineland.com/wp-content/seloads/2022/09/Advanced-Google-search-operators-600x338.png.webp",
+          "filename": "Advanced-Google-search-operators-600x338.png.webp",
+          "alt": "Advanced-Google-search-operators",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://searchengineland.com/wp-content/seloads/2023/04/google-ninja-robot-crawler-1920-586x338.jpg.webp",
+          "filename": "google-ninja-robot-crawler-1920-586x338.jpg.webp",
+          "alt": "google-ninja-robot-crawler-1920",
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:45:11.372374"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:14:43.217750"
 }

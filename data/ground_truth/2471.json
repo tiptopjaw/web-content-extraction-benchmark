@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.theartsdesk.com/new-music/theartsdesk-vinyl-93-led-zeppelin-blawan-sylvester-zaho-de-sagazan-sabres-paradise-hot-chip-and",
+  "file_id": "2471",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "music",
+        "vinyl",
+        "reviews",
+        "new-music"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "theartsdesk on Vinyl 93: Led Zeppelin, Blawan, Sylvester, Zaho de Sagazan, Sabres of Paradise, Hot Chip and more",
+    "author": "Thomas H. Green",
+    "publish_date": "2025-11-06",
+    "main_content": "VINYL OF THE MONTH: Martel Zaire (Evil Ideas) - Montenegro-born, Cyprus-based producer Martel Vladimiroff is a hard man to find out about. His meagre online imprint and extensive global travels make him seem more like \"an asset in the field\" than a musician. Whoever he is, his new EP, four tracks drawn from his second album of the same name, is a unique idea, well-executed. Inspired by the imperial ravaging of Africa and the ongoing horrors of its modern equivalent, with the Congo as prime exemplar, it's a conceptual head-trip. A dense gumbo of African field recordings and tribal drums play off dark-ambient atmospherics and an earnest techno pulse.\n\nVINYL REVIEWS: Snowapple Collective Utopia - For at least a decade Snowapple were a female trio who dabbled in everything from indie to acoustic pop to dancey Latin business. Now the Dutch unit have expanded into a collective and their latest album opulently combines baroque pop with surrounding cotton wool cover of synthesizer bubblings.\n\nVarious When the 2000s Clashed: Machine Music for a New Millennium - This three-record set represents the electroclash era well; from indie-sleaze classics such as Peaches' \"Fuck the Pain Away\" to the Big Apple snark of LCD Soundsystem's \"Daft Punk is Playing at My House\" to the retro electropop of The Droyds' \"Girls on Pills\".\n\nJørgen Træen & Stein Urheim Galant Galakse + Hekate Evigheten Forestår + Kenneth Lien Norwegian Electronic Folk Music - Three slices of appealingly oddball fare from Norway. Hekate's album is an exploration of Slåttetralling, a Norwegian tradition of folk singing improvisation. It brings to mind a fusion of children's TV singalongs, drunken burbling and witchy folk horror.\n\nLed Zeppelin Physical Graffiti: 50th Anniversary Deluxe Edition - Led Zeppelin's sixth album, released in 1975, was made by a band reconvening after a break, some more burnt-out than others by the well-documented excesses of their life on the road. Unusually, the sessions were often creatively led by drummer John Bonham. For those unfamiliar, the advice would be to start by dropping the needle first on the funky, Doors-ish \"Trampled Under Foot\" and the timeless, much-sampled \"Kashmir\".\n\nChantal Acda The Whale - Belgian-based Dutch singer Chantal Acda has been around for a good while and has fired out a bunch of albums, but this is the first time theartsdesk on Vinyl has come across her. She combines a quiet quavering voice with a band who don't overplay their hand.\n\nSabres of Paradise Sabresonic + Haunted Dancehall - After giving it a go with a couple of singles as Bocca Juniors, Sabres of Paradise was a second band-style project for DJ-producer Andrew Weatherall. Their music is murky, full of echoing synth pulses, a dank yet druggily MEANINGFUL vibe.\n\nSleaze Daffodils/Push Tuck - A tasty little 7\" single from a Warmduscher-adjacent south London outfit. Two indie-rockin' songs that, if now was 1978-1980, or even 2003-2005, might have made the Top 20.\n\nEric Burdon & War The Very Best of Eric Burdon & War - Of all those Sixties big cats, one of the most under-celebrated is Eric Burdon. Solely for The Animals' definitive interpretation of \"We Gotta Get Out of This Place\" they should be in the A-league.\n\nSnorkel Past Still Present Tense + Blawan Sick Elixir - Two very different forays into experimental electronica. Snorkel aren't, in fact, a purely electronic outfit, but their vibe is. Yorkshire producer Jamie Roberts made his name taking techno back to its harshest incarnation.\n\nZaho de Sagazan La Symphonie des Éclairs - In 2023 French singer-producer Zaho de Sagazan released her debut album in her home country. It received almost universal acclaim and sold bundles. Sagazan combines analogue synthesizer warmth with beautifully enunciated French language singing.\n\nAgriculture The Spiritual Sound - Los Angeles black metallers Agriculture are not messing about. While the requisite blast beats are present alongside \"singing\" from frontwoman Leah B Levinson, there are melodies swimming around within the stop-start organized mayhem.\n\nVarious 2015-2025 Les Disques Bongo Joe: 10 Years of Sonic Explorations - This is a fantastic collection that celebrates a decade of the fab Geneva label Bongo Joe. It makes me want to go to the Swiss capital and see what's in the water, explore the subterranean networks of weirdos!\n\nAnd many more reviews including Hot Chip, Parliament, Sylvester, Queen, Evidence, and additional recommendations.",
+    "with": [
+      "Montenegro-born, Cyprus-based producer Martel Vladimiroff is a hard man to find out about.",
+      "Led Zeppelin's sixth album, released in 1975, was made by a band reconvening after a break, some more burnt-out than others by the well-documented excesses of their life on the road.",
+      "This is a fantastic collection that celebrates a decade of the fab Geneva label Bongo Joe.",
+      "Sagazan combines analogue synthesizer warmth with beautifully enunciated French language singing.",
+      "Their music is murky, full of echoing synth pulses, a dank yet druggily MEANINGFUL vibe."
+    ],
+    "without": [
+      "Subscribe to theartsdesk.com",
+      "We urgently need financing to survive",
+      "Please contribute here",
+      "Share this article",
+      "the future of arts journalism"
+    ],
+    "images": {
+      "total_in_content": 41,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "/sites/default/files/styles/840_wide/public/mastimages/ron%20lach.jpg?itok=hRI21wzU",
+          "filename": "ron%20lach.jpg",
+          "alt": null,
+          "caption": "Lo-fi, all fine",
+          "is_hero": true
+        },
+        {
+          "src": "/sites/default/files/images/stories/NEW_MUSIC/thomas_h_green/martel.jpeg",
+          "filename": "martel.jpeg",
+          "alt": "martel",
+          "caption": "Martel Zaire (Evil Ideas)",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/images/stories/NEW_MUSIC/thomas_h_green/snowapple25.jpg",
+          "filename": "snowapple25.jpg",
+          "alt": "snow",
+          "caption": "Snowapple Collective Utopia",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/images/stories/NEW_MUSIC/thomas_h_green/clash.jpg",
+          "filename": "clash.jpg",
+          "alt": "clash",
+          "caption": "When the 2000s Clashed: Machine Music for a New Millennium",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/images/stories/NEW_MUSIC/thomas_h_green/Jorgen.jpg",
+          "filename": "Jorgen.jpg",
+          "alt": "jorg",
+          "caption": "Jørgen Træen & Stein Urheim Galant Galakse",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/images/stories/NEW_MUSIC/thomas_h_green/hekate.jpg",
+          "filename": "hekate.jpg",
+          "alt": "hekate",
+          "caption": "Hekate Evigheten Forestår",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/images/stories/NEW_MUSIC/thomas_h_green/lien.jpg",
+          "filename": "lien.jpg",
+          "alt": "lien",
+          "caption": "Kenneth Lien Norwegian Electronic Folk Music",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/images/stories/NEW_MUSIC/thomas_h_green/led.png",
+          "filename": "led.png",
+          "alt": "led",
+          "caption": "Led Zeppelin Physical Graffiti: 50th Anniversary Deluxe Edition",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/images/stories/NEW_MUSIC/thomas_h_green/led2.png",
+          "filename": "led2.png",
+          "alt": "led2",
+          "caption": "Led Zeppelin Physical Graffiti",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/images/stories/NEW_MUSIC/thomas_h_green/chantal.jpg",
+          "filename": "chantal.jpg",
+          "alt": "chantal",
+          "caption": "Chantal Acda The Whale",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:32:20.414843"
+}

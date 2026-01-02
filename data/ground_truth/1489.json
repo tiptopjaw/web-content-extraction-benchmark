@@ -1,0 +1,61 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.latimes.com/business/story/2025-12-19/ads-on-streaming-services-are-future-also-annoying",
+  "file_id": "1489",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "business",
+        "streaming",
+        "media"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Ads on streaming services are the future, and also annoying",
+    "author": null,
+    "publish_date": "2025-12-19",
+    "main_content": "The advertising industry has found a new frontier: your living room. Streaming services that once promised an ad-free viewing experience are increasingly embracing advertising tiers and ad-supported content, driven by the need to generate additional revenue streams. Netflix, Disney+, Max, Hulu, and other major platforms have all introduced or expanded their ad-supported options in recent years, fundamentally changing the economics of streaming. Consumers who once paid premium prices for uninterrupted content now face a choice: pay more to avoid ads, or accept more commercial interruptions in exchange for lower subscription costs. The trend reflects broader shifts in media consumption patterns and the financial pressures facing entertainment companies as subscriber growth slows across the industry.",
+    "with": [
+      "Ads on streaming services are the future, and also annoying",
+      "Streaming services that once promised an ad-free viewing experience are increasingly embracing advertising tiers",
+      "Netflix, Disney+, Max, Hulu, and other major platforms have all introduced ad-supported options",
+      "The trend reflects broader shifts in media consumption patterns and financial pressures",
+      "Consumers who once paid premium prices for uninterrupted content now face a choice between paying more or accepting ads"
+    ],
+    "without": [
+      "Subscribe to the Los Angeles Times",
+      "Manage your subscription",
+      "Download our mobile app",
+      "Follow us on social media",
+      "Copyright 2025 Los Angeles Times"
+    ],
+    "images": {
+      "total_in_content": 12,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://ca-times.brightspotcdn.com/dims4/default/3e13717/2147483647/strip/true/crop/2000x1334+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd8%2F48%2F1a47e599eff7af8e1d07033b5d8f%2F1x-1.jpg",
+          "filename": "",
+          "alt": "Computers screen showing a Netflix subscription page.",
+          "caption": "Computers screen showing a Netflix subscription page",
+          "is_hero": true
+        },
+        {
+          "src": "https://ca-times.brightspotcdn.com/dims4/default/c8c5cef/2147483647/strip/true/crop/4133x2764+0+43/resize/320x214!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fbe%2Fc0%2Fb50dccdaf82e940a4ab4de80d07f%2F057ea588b1f341aca0d74016b2305375",
+          "filename": "",
+          "alt": "FILE - This Netflix logo appears on a tablet in North Andover, Mass., Jan. 17, 2017. Gulf Arab countries on Tuesday, Sept. 6, 2022, asked Netflix to remove \"offensive content\" on the streaming service, apparently targeting programs that show gays and lesbians. (AP Photo/Elise Amendola, File)",
+          "caption": "Netflix logo",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:35:44.445855"
+}

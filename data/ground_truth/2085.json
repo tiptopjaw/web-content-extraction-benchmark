@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://cca.lvchamber.org/Restaurants-__5005430_category.aspx",
+  "file_id": "2085",
+  "_internal": {
+    "page_type": {
+      "primary": "directory",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "business",
+        "member-directory",
+        "chamber-of-commerce",
+        "restaurants"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Restaurants - Lebanon, PA",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Member directory listing of restaurants in the Lebanon, PA area. The directory includes the following businesses: Ancestor Coffeehouse & Crêperie - 119 Springwood Dr., Suite 500, Lebanon, PA 17042 - Phone: 717-675-7527 - Website: ancestorcoffee.com - Passionate about providing friendly service and creating high quality drinks and crêpes. They prefer to source their ingredients locally when possible and make all drinks and crêpes to order. Owner: Rick Stammel. Categories: Restaurants, Coffeehouse. Blue Bird Inn - 2387 Cornwall Rd, Lebanon, PA 17042-8835 - Phone: 717-273-3000 - Website: www.bluebirdinn.com - Historical dining in a casual atmosphere. Award winning soups, distinctive sandwich and entree selections. Seasonal deck with extensive micro and European beer selections. President: Andrew Arnold. Categories: Restaurants, Taverns/Lounge. Chick-fil-A Lebanon Plaza - 1147 Quentin Rd, Lebanon, PA 17042 - Phone: 717-769-4040 - Website: https://www.chick-fil-a.com/locations/pa/lebanon-plaza. Categories: Restaurants - Fast Food or Pizza, Restaurants, Caterers. Country Fare Restaurant - 498 E Lincoln Ave, Myerstown, PA 17067-2213 - Phone: 717-866-9043 - Website: www.countryfarerestaurant.com. Owner: Eric Hoover. Categories: Restaurants, Bakeries, Banquet & Meeting Facilities, Fundraising. Gin Mill - 324 E Cumberland St, Lebanon, PA 17042-8128 - Phone: 717-273-2729 - Website: www.lebanonginmill.com. Categories: Restaurants, Taverns/Lounge, Caterers. Holiday Inn Harrisburg-Hershey - 604 Station Rd, Grantville, PA 17028-9155 - Phone: 717-469-0661 - Website: www.stayholiday.com. Categories: Hotels/Motels/Lodging, Restaurants, Conference Centers, Wedding Venue, Event Venue. Hollywood Casino at Penn National Race Course - 777 Hollywood Blvd, Grantville, PA 17028-9237 - Phone: 717-469-2211 - Website: www.hcpn.com. HCPN is the only place in Central PA combining the excitement of gaming and thoroughbred racing with dining entertainment, and accommodating service in a magnificent Hollywood setting. Categories: Casino, Horse Racing, Restaurants. LongHorn Steakhouse - 2125 Cumberland St, Lebanon, PA 17042 - Phone: 717-279-8370 - Website: www.longhousesteakhouse.com. Mick's All American Pub - Lebanon, PA area restaurant.",
+    "with": [
+      "Ancestor Coffeehouse & Crêperie is passionate about providing friendly service and creating high quality drinks and crêpes.",
+      "Blue Bird Inn offers historical dining in a casual atmosphere with award winning soups and distinctive sandwich selections.",
+      "Hollywood Casino at Penn National Race Course combines gaming and thoroughbred racing with dining entertainment.",
+      "The directory includes restaurants such as Chick-fil-A Lebanon Plaza, Country Fare Restaurant, and Gin Mill.",
+      "Each listing provides contact information including phone number, address, and website for member businesses."
+    ],
+    "without": [
+      "New Search Prev 1 Next - pagination controls",
+      "Upcoming Events sidebar widget with calendar listings",
+      "New Members spotlight sidebar section",
+      "Join Member Login navigation menu items",
+      "Footer contact information and E-News Signup"
+    ],
+    "images": {
+      "total_in_content": 2,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:35:51.448457"
+}

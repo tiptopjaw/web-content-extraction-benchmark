@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.uforocks.com/blog/why-cheap-seo-doesnt-work/",
+  "file_id": "1362",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "seo",
+        "digital marketing",
+        "business"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Why Cheap SEO Doesn't Work",
+    "author": "John Crenshaw",
+    "publish_date": null,
+    "main_content": "In 2006, I accepted a job offer with a mortgage company in Southern California where guys were making $80,000 a month. The company was hiring anyone with confidence, and after about a month I realized they were scamming people. When the mortgage industry collapsed in 2007, I moved on. A year later, one of my old co-workers called me about recruiting me for SEO work. Those same guys who were scamming 70-year old ladies out of their homes were now working in SEO. SEO is a great business for these guys because companies all over the country need SEO work, but many don't have a clue how SEO works or how much it should cost. They get calls from companies selling SEO for a couple hundred bucks a month and it's too good an offer to pass up. They spend the money for 6 months, see no results, then hire another company. This is why around 80% of all non-referral clients come to us after working with another company. Half the companies I speak with that got burned could have avoided all that wasted time and money had they remembered one simple life lesson: If it's too good to be true then it probably is. SEO is quite a bit more than just getting ranked in Google for a set of keywords. It involves on-site technical audit, customer research, keyword research and mapping, content, link/citation building and PR, and reporting. Low-cost providers can't do these effectively because a thorough site audit on a small, simple website takes at least 10-15 hours, and they have to take shortcuts. Additionally, the low cost approach completely misses the more specific, longer keywords that make up 70% of all search traffic. If you're paying a company a few hundred dollars a month for SEO, at typical hourly rates ($100-150 per hour), you'll get about 2 hours of work. At that rate, it would take 5-8 months just to do the site audit on a simple site. Google is now actively penalizing websites that were taking shortcuts before. The next time you get a call from someone offering front page rankings for $200 a month, ask yourself, Does this even make sense?",
+    "with": [
+      "SEO is a great business for these guys because companies all over the country have realized they need, at least to some extent, SEO work.",
+      "Half the companies I speak with that got burned could have avoided all that wasted time and money had they remembered one simple life lesson: If it's too good to be true then it probably is.",
+      "SEO is quite a bit more than just getting ranked in Google for a set of keywords.",
+      "Additionally, the low cost approach completely misses the more specific, longer keywords that make up 70% of all search traffic.",
+      "Google is now actively penalizing websites. They never did this in the past."
+    ],
+    "without": [
+      "Subscribe to newsletter",
+      "© Copyright 2025 UFO Marketing. All rights reserved.",
+      "Privacy Policy | Terms of Use",
+      "Home Services Case Studies About Partners Blog Careers Contact Us",
+      "Ready to talk? We're listening."
+    ],
+    "images": {
+      "total_in_content": 11,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://www.uforocks.com/wp-content/uploads/5ea1e5cf2fca7b406a279b89_not-bloody-likely.jpeg",
+          "filename": "5ea1e5cf2fca7b406a279b89_not-bloody-likely.jpeg",
+          "alt": "not-bloody-likely",
+          "caption": "not-bloody-likely",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.uforocks.com/wp-content/uploads/5ea1e5ceb910a331dccbe613_most-search-traffic-is-long-tail-keywords.png",
+          "filename": "5ea1e5ceb910a331dccbe613_most-search-traffic-is-long-tail-keywords.png",
+          "alt": "Most search traffic comes from long tail keywords",
+          "caption": "Most search traffic comes from long tail keywords",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:55:19.433000"
+}

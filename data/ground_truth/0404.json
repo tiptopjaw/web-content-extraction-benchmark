@@ -1,0 +1,44 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.instagram.com/p/DOn7Cn_CL40/",
+  "file_id": "0404",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "This is the initial HTML shell of Instagram with no main content visible. Content is likely loaded dynamically via JavaScript after page load.",
+      "tags": [
+        "social-media",
+        "login-page"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Instagram",
+    "author": null,
+    "publish_date": null,
+    "main_content": "This HTML contains only the initial page shell for Instagram with no visible main content. The page includes a splash screen with the Instagram logo and loads resources dynamically. The actual page content (feeds, posts, navigation) is rendered client-side via JavaScript after the initial page load.",
+    "with": [
+      "This is the initial HTML page shell for Instagram.",
+      "The page contains a splash screen with loading indicators.",
+      "Resources are loaded from static.cdninstagram.com CDN.",
+      "The page uses React for client-side rendering.",
+      "Actual content is rendered dynamically after page load."
+    ],
+    "without": [
+      "Navigation menus",
+      "User posts or feed content",
+      "Article text or body content",
+      "Product listings",
+      "Footer links or legal notices"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:23:59.235859"
+}

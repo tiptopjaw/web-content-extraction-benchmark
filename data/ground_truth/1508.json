@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://rtslabs.com/top-machine-learning-consulting-companies",
+  "file_id": "1508",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "consulting",
+        "machine-learning",
+        "ai"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Top 10 Machine Learning Consulting Companies Revolutionizing AI",
+    "author": "Ryan Conrad",
+    "publish_date": "2025-02-11",
+    "main_content": "Read about the top 10 Machine Learning consulting companies transforming industries with innovative AI solutions. Machine learning has become an essential driver of business transformation across industries, enabling organizations to extract valuable insights from data, automate complex processes, and make more informed decisions. As companies increasingly recognize the strategic importance of AI and machine learning, the demand for specialized consulting services has grown dramatically. These consulting firms bring expertise in developing and implementing machine learning solutions tailored to specific business needs, helping organizations navigate the complexities of AI adoption and stay competitive in their respective markets.",
+    "with": [
+      "Top 10 Machine Learning Consulting Companies Revolutionizing AI Implementation",
+      "Machine learning has become an essential driver of business transformation across industries",
+      "These consulting firms bring expertise in developing and implementing machine learning solutions",
+      "Helping organizations navigate the complexities of AI adoption and stay competitive",
+      "Read about the top 10 Machine Learning consulting companies transforming industries"
+    ],
+    "without": [
+      "Skip to content",
+      "Talk to an AI Expert",
+      "Subscribe to newsletter",
+      "© 2025 RTS Labs",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 26,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://rtslabs.com/wp-content/uploads/2025/01/Top-10-Machine-Learning-Consulting-Companies-Revolutionizing-AI-Implementation.jpg",
+          "filename": "Top-10-Machine-Learning-Consulting-Companies-Revolutionizing-AI-Implementation.jpg",
+          "alt": "Top 10 Machine Learning Consulting Companies Revolutionizing AI Implementation",
+          "caption": "Top 10 Machine Learning Consulting Companies Revolutionizing AI Implementation",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:05:25.273758"
+}

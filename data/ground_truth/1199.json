@@ -1,27 +1,82 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.gymprovisions.com/gym-equipment-rental",
   "file_id": "1199",
-  "downloaded_at": "2025-12-20T20:49:47.187947",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "equipment-rental",
+        "gym-fitness",
+        "commercial",
+        "southern-california"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Professional Gym Equipment Rental",
-    "author": null,
+    "title": "Gym Equipment Rental | Movie Studios, Private Clients & Events | Gym Provisions",
+    "author": "Gym Provisions",
     "publish_date": null,
-    "main_content": "Professional Gym Equipment Rental\nFlexible equipment rental solutions for private clients, movie studios, productions, and events. Quality equipment with delivery, setup, and pickup included.\n\nFlexible Rental Solutions for Every Need\nWhether you need equipment for a day, a month, or longer, we provide quality fitness equipment with professional delivery and setup throughout Southern California.\n\nPrivate Client Rentals\nPerfect for home trials, temporary fitness solutions, or trying before you buy. Flexible terms for individuals and families.\n• Try before you buy\n• Temporary home gyms\n• Renovation solutions\n• Flexible rental periods\n\nMovie Studio & Production Rentals\nProduction-ready gym equipment for film, TV, and commercial shoots. Quick turnaround and authentic equipment for realistic sets.\n• Fast delivery\n• Authentic equipment\n• Flexible shoot schedules\n• Professional setup\n\nEvent & Corporate Rentals\nEquipment rental for corporate wellness events, fitness expos, health fairs, and promotional activities.\n• Event planning support\n• Multiple equipment types\n• On-site coordination\n• Easy returns\n\nEquipment Available for Rent\nWide selection of commercial-grade fitness equipment from leading manufacturers\n\nCardio Equipment\n• Treadmills\n• Ellipticals\n• Exercise Bikes\n• Rowing Machines\n• Stair Climbers\n\nStrength Equipment\n• Multi-Stations\n• Cable Machines\n• Smith Machines\n• Power Racks\n• Functional Trainers\n\nFree Weights\n• Dumbbell Sets\n• Barbell Sets\n• Weight Benches\n• Olympic Plates\n• Storage Racks\n\nSpecialized Equipment\n• Pilates Reformers\n• Suspension Systems\n• Battle Ropes\n• Plyometric Boxes\n• Yoga Props\n\nSimple Rental Process\nFrom consultation to pickup, we make equipment rental easy and hassle-free\n\n1. Consultation\nDiscuss your rental needs, timeline, and equipment preferences with our team.\n\n2. Equipment Selection\nChoose from our extensive inventory of commercial-grade fitness equipment.\n\n3. Delivery & Setup\nProfessional delivery and installation at your location on your schedule.\n\n4. Flexible Terms\nRent for days, weeks, months, or longer with flexible extension options.\n\n5. Easy Return\nSimple pickup process when your rental period ends or extend as needed.\n\nWhy Rent From Gym Provisions?\n\nFlexible Rental Terms\nDaily, weekly, monthly, or custom rental periods to fit your exact needs. Easy extensions available.\n\nFull-Service Delivery\nProfessional delivery, setup, and pickup included. We handle all the heavy lifting and installation.\n\nQuality Equipment\nWell-maintained, commercial-grade equipment from leading brands. Clean, safe, and ready to use.\n\nService Areas\nProfessional gym equipment rental services throughout Southern California\n\nLos Angeles County\n• Beverly Hills\n• Santa Monica\n• Pasadena\n• Burbank\n• Glendale\nService: Same Day - 2 business days\n\nOrange County\n• Newport Beach\n• Irvine\n• Anaheim\n• Huntington Beach\n• Costa Mesa\nService: Same Day - 2 business days\n\nVentura County\n• Thousand Oaks\n• Simi Valley\n• Oxnard\n• Camarillo\n• Ventura\nService: Same Day - 2 business days\n\nSanta Barbara County\n• Santa Barbara\n• Montecito\n• Goleta\n• Carpinteria\n• Lompoc\nService: Same Day - 2 business days\n\nEquipment Rental FAQ\nCommon questions about our rental services\n\nHow long can I rent equipment for?\nDo you deliver and set up rental equipment?\nWhat types of equipment are available for rent?\nDo you rent to movie productions and studios?\nIs insurance included with rentals?\nCan I extend my rental period?\nWhat if the equipment needs service during my rental?\n\nReady to rent gym equipment?\nGet flexible, professional gym equipment rental with delivery and setup included throughout Southern California.",
+    "main_content": "Professional Gym Equipment Rental Services. Flexible equipment rental solutions for private clients, movie studios, productions, and events. Quality equipment with delivery, setup, and pickup included throughout Southern California. Whether you need equipment for a day, a month, or longer, we provide quality fitness equipment with professional delivery and setup throughout Southern California. Private Client Rentals: Perfect for home trials, temporary fitness solutions, or trying before you buy. Flexible terms for individuals and families. Movie Studio & Production Rentals: Production-ready gym equipment for film, TV, and commercial shoots. Quick turnaround and authentic equipment for realistic sets. Event & Corporate Rentals: Equipment rental for corporate wellness events, fitness expos, health fairs, and promotional activities. Equipment Available for Rent includes Cardio Equipment (Treadmills, Ellipticals, Exercise Bikes, Rowing Machines, Stair Climbers), Strength Equipment (Multi-Stations, Cable Machines, Smith Machines, Power Racks, Functional Trainers), Free Weights (Dumbbell Sets, Barbell Sets, Weight Benches, Olympic Plates, Storage Racks), and Specialized Equipment (Pilates Reformers, Suspension Systems, Battle Ropes, Plyometric Boxes, Yoga Props). Simple Rental Process: Consultation, Equipment Selection, Delivery & Setup, Flexible Terms, and Easy Return. Why Rent From Gym Provisions: Flexible Rental Terms, Full-Service Delivery, and Quality Equipment. Service Areas throughout Southern California including Los Angeles County, Orange County, Ventura County, and Santa Barbara County.",
     "with": [
-      "Professional Gym Equipment Rental: Flexible equipment rental solutions for private clients, movie studios, productions, and events.",
-      "Whether you need equipment for a day, a month, or longer, we provide quality fitness equipment with professional delivery and setup throughout Southern California.",
-      "Production-ready gym equipment for film, TV, and commercial shoots. Quick turnaround and authentic equipment for realistic sets.",
-      "Wide selection of commercial-grade fitness equipment from leading manufacturers including cardio equipment, strength equipment, free weights, and specialized equipment.",
-      "Professional delivery, setup, and pickup included. We handle all the heavy lifting and installation."
+      "Professional gym equipment rental in Southern California. Serving private clients, movie studios, productions, and events.",
+      "Flexible equipment rental solutions for private clients, movie studios, productions, and events.",
+      "Production-ready gym equipment for film, TV, and commercial shoots.",
+      "Well-maintained, commercial-grade equipment from leading brands.",
+      "Professional delivery, setup, and pickup included throughout Southern California."
     ],
     "without": [
-      "About Us Services Contact Us (888) 981-6893 REQUEST A QUOTE",
-      "Proud Service Provider for the Los Angeles Dodgers",
-      "Equipment Sales Equipment Installation Gym Detailing Equipment Repair Preventive Maintenance",
-      "© 2025 Gym Provisions. All rights reserved. Built by Vital Logik",
-      "Los Angeles Dodgers and related trademarks are property of Los Angeles Dodgers LLC. Use of these marks does not imply endorsement."
-    ]
+      "Gym Provisions - Southern California's trusted fitness equipment specialists",
+      "© 2025 Gym Provisions. All rights reserved",
+      "Privacy Policy | Terms of Service",
+      "REQUEST A QUOTE",
+      "(888) 981-6893"
+    ],
+    "images": {
+      "total_in_content": 6,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "/commercial-gym-installation.png",
+          "filename": "commercial-gym-installation.png",
+          "alt": "Professional gym equipment rental service",
+          "caption": "Professional gym equipment rental service",
+          "is_hero": true
+        },
+        {
+          "src": "/equipment-sales-warehouse.jpg",
+          "filename": "equipment-sales-warehouse.jpg",
+          "alt": "Equipment Sales",
+          "caption": "Equipment Sales - Quality new and refurbished equipment",
+          "is_hero": false
+        },
+        {
+          "src": "/clean-modern-gym-cleaning.png",
+          "filename": "clean-modern-gym-cleaning.png",
+          "alt": "Gym Detailing",
+          "caption": "Gym Detailing - Deep cleaning and sanitization services",
+          "is_hero": false
+        },
+        {
+          "src": "/repair-equipment-hero.jpeg",
+          "filename": "repair-equipment-hero.jpeg",
+          "alt": "Equipment Repair",
+          "caption": "Equipment Repair - Expert repair for all major fitness equipment brands",
+          "is_hero": false
+        },
+        {
+          "src": "/gym-equipment-technician.png",
+          "filename": "gym-equipment-technician.png",
+          "alt": "Preventive Maintenance",
+          "caption": "Preventive Maintenance - Keep your equipment running smoothly with scheduled maintenance",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:49:47.187952"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:04:50.299790"
 }

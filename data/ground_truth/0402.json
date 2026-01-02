@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.zuddl.com/blog/top-event-marketing-planning-conferences",
+  "file_id": "0402",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "HTML content is truncated, cannot verify complete article content",
+      "tags": [
+        "event-planning",
+        "conferences",
+        "marketing",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "The 8 Must-Attend Event Marketing & Planning Conferences in 2025",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Unable to extract full content - HTML was truncated",
+    "with": [
+      "Discover the 8 must-attend conferences for event marketers and planners in 2025",
+      "Packed with insights, strategy, tech trends, and high-impact networking",
+      "Event Marketing & Planning Conferences in 2025",
+      "Must-attend conferences for event marketers",
+      "High-impact networking opportunities"
+    ],
+    "without": [
+      "Platform navigation menu items",
+      "Subscribe to newsletter signup forms",
+      "Footer copyright and legal links",
+      "Cookie consent banners",
+      "Social media share buttons"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:23:13.126190"
+}

@@ -1,27 +1,89 @@
 {
+  "schema_version": "2.0",
   "url": "https://ayushmaanbhav.github.io/Product-FARM",
   "file_id": "2564",
-  "downloaded_at": "2025-12-21T00:28:18.088819",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "software",
+        "landing-page",
+        "open-source",
+        "rule-engine"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Home | Product-FARM",
+    "title": "Product-FARM - High-Performance Domain-Agnostic Rule Engine",
     "author": null,
     "publish_date": null,
-    "main_content": "Enterprise-Grade • Production-Ready Open Source Rule Engine Build Complex Business Logic Horizontally Scalable Immutable & Versioned Sub-microsecond Fast Visually Configured AI-Powered A high-performance, domain-agnostic rule engine with visual configuration, AI-powered assistance, and sub-microsecond evaluation. Clone products, experiment safely with immutable versioning, and scale horizontally with DGraph persistence. Tech Stack: Rust Backend, React 19, TypeScript, GraphQL + gRPC. Key Differentiators: What Makes Product-FARM Unique Enterprise-grade features designed for scalability, reliability, and developer experience. Immutable Product Versioning: Products remain immutable. Clone to experiment, roll back instantly. Full audit trail of every change with complete traceability. Powerful Template Cloning: Clone entire products with deep copy. Introduce new features, rule changes, functionality additions while keeping originals intact. Horizontally Scalable: Built on DGraph graph database. Distributed by design. Scale to millions of rules and evaluations with strong durability. Intelligent Caching: LRU cache for frequently evaluated rules. Configurable sizes: Products (100), Attributes (10K), Rules (10K), Compiled (10K). Fine-Grained Access Control: Control at component and template level. Give required control to required people. Ownership boundaries respected throughout. Microservice-Ready: Engine owns product integrity and logic. Functionalities served by respective microservices. Clean separation of concerns. Tiered Compilation Engine: AST interpretation for initial runs, bytecode compilation for hot paths. 3.5x speedup from 1.15µs to 330ns per evaluation. DAG-Based Parallelism: Rules form a directed acyclic graph. Independent rules execute in parallel. Automatic dependency resolution and cycle detection. No-Code Visual Builder: Build complex business logic with drag-and-drop. Real-time validation, instant feedback, no coding required. JSON Logic under the hood. AI-Powered Configuration: Create rules from natural language. AI explains complex logic, suggests optimizations, helps debug issues. Your intelligent assistant. REST + gRPC APIs: REST API for management operations, gRPC for high-performance evaluation. Stream processing for real-time data pipelines. DGraph Persistence: Purpose-built for complex relationships. Native graph queries, strong durability, configurable backups. Data integrity guaranteed. Industries: Domain-Agnostic by Design Power complex business logic across any industry with a flexible, extensible rule engine. Insurance: Premium calculations, risk assessment, underwriting rules, and claims processing. Financial Services: Loan eligibility, trading signals, credit scoring, and fraud detection. E-commerce: Dynamic pricing, inventory rules, promotions, and recommendation engines. Healthcare: Risk scoring, eligibility checks, care protocols, and compliance rules. Manufacturing: Quality control, process automation, compliance, and supply chain rules. Logistics: Shipping calculations, route optimization, capacity planning, and SLA rules. Process: How It Works From product definition to rule evaluation in five simple steps. 1. Define Product: Create your product structure. 2. Create Attributes: Define inputs, outputs, and types. 3. Write Rules: Build logic visually or via API. 4. Build DAG: Auto dependency resolution. 5. Evaluate: Sub-microsecond execution. Architecture at a Glance: Frontend: React 19 + TypeScript → API Layer: REST + gRPC → Rule Engine: Rust + Bytecode VM → Storage: DGraph + LRU Cache. AI-Powered: Your Intelligent Rule Assistant Create, explain, and optimize rules using natural language. The AI understands your business logic. Natural Language Rule Creation: Describe your rules in plain English. The AI translates them into optimized JSON Logic expressions. Example: \"Create a rule: if age > 60, add 20% to premium\" → AI generates the complete rule with inputs, outputs, and JSON Logic expression. AI Capabilities: Explain Rules & DAG: Don't understand a complex rule? Ask AI to explain it in plain language, including dependencies. Impact Analysis: Before changes, understand ripple effects. AI shows which rules and attributes will be affected. Optimization Hints: Get intelligent recommendations to improve rules, find redundancies, and boost performance. Quick Actions: One-click access: Create Rule, Explain Rule, Optimize, and Impact Analysis buttons always ready. Interface: See It in Action A modern, intuitive interface designed for managing complex business logic at scale. Screenshots: AI Assistant Panel, Interactive Rule DAG Visualization, Visual Expression Builder, Attribute Management System. Example: Simple Yet Powerful JSON Logic expressions make complex business rules readable and maintainable. Code Example: premium_calculation.json { \"rule_type\": \"CALCULATION\", \"display_expression\": \"final_premium = base_premium * age_factor * smoker_factor\", \"expression\": { \"*\": [ {\"var\": \"base_premium\"}, {\"var\": \"age_factor\"}, {\"var\": \"smoker_factor\"} ] }, \"inputs\": [\"base_premium\", \"age_factor\", \"smoker_factor\"], \"outputs\": [\"final_premium\"] }. Stats: Rule Evaluation (Bytecode): ~330ns, Evals/sec (Single Thread): 3M+, Evals/sec (Parallel): 22M+, Test Coverage: 85%, Backend Tests: 234+, Bytecode Speedup: 3.5x, Rules per Product: 10K+, Graph Persistence: DGraph. Ready to Transform Your Business Logic? Get started with Product-FARM in under 5 minutes. Open source, free forever.",
+    "main_content": "Product-FARM is a high-performance, domain-agnostic rule engine with visual configuration, AI-powered assistance, and sub-microsecond evaluation. It features immutable product versioning, template cloning, horizontal scalability through DGraph, intelligent LRU caching, fine-grained RBAC, microservice-ready architecture, tiered compilation engine with bytecode optimization, DAG-based parallel execution, no-code visual builder, and REST + gRPC APIs. The engine achieves ~330ns rule evaluation, 3M+ evals/sec single-threaded, 22M+ evals/sec parallel, with 85% test coverage supporting 10K+ rules per product. Industries served include insurance, financial services, e-commerce, healthcare, manufacturing, and logistics.",
     "with": [
-      "A high-performance, domain-agnostic rule engine with visual configuration, AI-powered assistance, and sub-microsecond evaluation.",
-      "Products remain immutable. Clone to experiment, roll back instantly. Full audit trail of every change with complete traceability.",
-      "Create rules from natural language. AI explains complex logic, suggests optimizations, helps debug issues. Your intelligent assistant.",
-      "Rules form a directed acyclic graph. Independent rules execute in parallel. Automatic dependency resolution and cycle detection.",
-      "JSON Logic expressions make complex business rules readable and maintainable."
+      "Build Complex Business Logic with Product-FARM, an enterprise-grade rule engine with AI-powered configuration",
+      "Sub-microsecond evaluation at ~330ns per rule with 3.5x bytecode speedup and parallel DAG execution",
+      "Immutable Product Versioning enables cloning products for experimentation with full audit trail and instant rollback",
+      "AI-Powered Configuration creates rules from natural language and explains complex logic with optimization suggestions",
+      "Domain-agnostic rule engine serving insurance, finance, e-commerce, healthcare, manufacturing, and logistics industries"
     ],
     "without": [
-      "Home | Why | Quick Start | Features | Benchmarks | Architecture | FAQ | GitHub",
-      "Released under the MIT License | Built with Rust & React",
-      "Documentation: Why Product-FARM, Quick Start, Core Concepts, How It Works, Architecture, API Reference",
-      "Resources: GitHub Repository, Report Issues, Discussions",
-      "Built With: Rust, React, DGraph, gRPC"
-    ]
+      "Subscribe to newsletter",
+      "Privacy Policy link",
+      "Copyright footer text",
+      "Navigation menu items",
+      "Social media share buttons"
+    ],
+    "images": {
+      "total_in_content": 9,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "/Product-FARM/screenshots/dashboard-populated.png",
+          "filename": "dashboard-populated.png",
+          "alt": "Product-FARM Dashboard",
+          "caption": "Product-FARM Dashboard showing rule management interface",
+          "is_hero": true
+        },
+        {
+          "src": "/Product-FARM/screenshots/ai-rule-generation.png",
+          "filename": "ai-rule-generation.png",
+          "alt": "AI Rule Generation",
+          "caption": "AI Rule Generation - natural language to JSON Logic translation",
+          "is_hero": false
+        },
+        {
+          "src": "/Product-FARM/screenshots/ai-assistant-panel.png",
+          "filename": "ai-assistant-panel.png",
+          "alt": "AI Assistant Panel",
+          "caption": "AI Assistant Panel for intelligent rule configuration",
+          "is_hero": false
+        },
+        {
+          "src": "/Product-FARM/screenshots/rules-dag-full-view.png",
+          "filename": "rules-dag-full-view.png",
+          "alt": "Rule DAG Visualization",
+          "caption": "Interactive Rule DAG Visualization showing dependencies",
+          "is_hero": false
+        },
+        {
+          "src": "/Product-FARM/screenshots/rule-builder-expression.png",
+          "filename": "rule-builder-expression.png",
+          "alt": "Visual Rule Builder",
+          "caption": "Visual Expression Builder for drag-and-drop rule creation",
+          "is_hero": false
+        },
+        {
+          "src": "/Product-FARM/screenshots/attributes-populated.png",
+          "filename": "attributes-populated.png",
+          "alt": "Attribute Management",
+          "caption": "Attribute Management System for defining inputs and outputs",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-21T00:28:18.088823"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:57:01.491783"
 }

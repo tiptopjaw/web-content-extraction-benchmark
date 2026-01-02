@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "url": "https://thefocus.ai/reports/coding-agent",
+  "file_id": "2337",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "tutorial",
+        "guide",
+        "coding",
+        "AI"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Weekend Coding Agent | TheFocus.AI Labs",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Ever wonder exactly how vibe coding works?  Lets learn how to build a coding agent without writing a single line of code. This tutorial will get you right into the core loop of how software agents work.  All you need is a terminal (available free with your computer) and an openrouter api access key to get access to a model. By the end of this tutorial, you'll have a fully functional AI coding assistant that can navigate and understand your codebase, edit files with precision, support custom skills, self monitor quality, generate images and videos, search the web, spawn sub-agents, track costs, and log sessions. The trick here is that we are going to use this agent to build itself, and we'll go through all of the commands you'll copy and paste over to direct its development. No frameworks, no magic, just the primitives you need to understand how tools like Cursor and Claude Code work under the hood. The model is powerful but blind—it can't see your filesystem or run code. Tools give it capabilities. Prompts tell it how to use them wisely. What makes a good agent? The model.  99% the model. The differences are in the harness, and how cleverly you can manage context. By the end of this tutorial, you won't just have working code—you'll have mental models. Agents are loops: The core pattern is simple. Complexity comes from handling edge cases well. Tools are the interface: Good tool design is the difference between helpful and dangerous. Context is the constraint: Everything in agent design traces back to managing finite context.",
+    "with": [
+      "Ever wonder exactly how vibe coding works?  Lets learn how to build a coding agent without writing a single line of code.",
+      "It's a loop.  You say something, the LLM responses, if it asks for a tool you run it, and the loop goes around and around.",
+      "What we are building here is called a harness.  This is a combination of a prompt, tools, and a model.",
+      "The model is powerful but blind—it can't see your filesystem or run code. Tools give it capabilities. Prompts tell it how to use them wisely.",
+      "By the end of this tutorial, you won't just have working code—you'll have mental models."
+    ],
+    "without": [
+      "DOC. NO: WCA-2025",
+      "TheFocus.AI Labs",
+      "Subscribe to Focus.AI",
+      "Build More With AI",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "/images/ai_newspaper.png",
+          "filename": "ai_newspaper.png",
+          "alt": "wage slaves",
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:42:16.207464"
+}

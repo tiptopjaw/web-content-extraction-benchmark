@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.shopify.com/blog/ecommerce-accounting",
+  "file_id": "0814",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "business",
+        "finance",
+        "guide",
+        "ecommerce"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Ecommerce Accounting: A Beginner's Guide (2024) - Shopify",
+    "author": "Shopify Staff",
+    "publish_date": "2024-06-25",
+    "main_content": "Ecommerce accounting is the practice of recording, organizing, and managing all of the financial data and business transactions relevant to the operation of an ecommerce company. At its most fundamental, accounting is the practice of tracking and recording transactions and categorizing each one as either income or expense. Like all business accounting, ecommerce accounting includes basic bookkeeping functions like managing invoicing, payroll, and balance sheets, as well as more sophisticated planning and reporting functions like preparing financial statements and creating a strategic tax plan. Tax management, bookkeeping, and growth planning are often three major areas of emphasis. Ecommerce accounting can help you analyze what products or services are most profitable for your company, your change in profit over time, your largest expenses and liabilities, and opportunities to increase your profit margins. There are two accounting methods: cash accounting and accrual accounting. Cash accounting measures the transfer of cash, while accrual accounting measures a transaction when funds are earned or expenses are incurred, not when payment changes hands. Accurate bookkeeping is a baseline requirement for all business planning and operations. This includes tracking and categorizing income and expenses, inventory management, and reviewing balance sheets. Business accounting requires keeping track of all of a company's transactions, inventory, and financial data, including metrics like cash flow and gross profits, balance sheets, and profit and loss statements. Cash flow is the movement of money into and out of your business, and cash flow management can help you meet all of your obligations and avoid incurring unintended debt.",
+    "with": [
+      "Ecommerce accounting is the practice of recording, organizing, and managing all of the financial data and business transactions relevant to the operation of an ecommerce company.",
+      "At its most fundamental, accounting is the practice of tracking and recording transactions and categorizing each one as either income or expense.",
+      "Like all business accounting, ecommerce accounting includes basic bookkeeping functions like managing invoicing, payroll, and balance sheets, as well as more sophisticated planning and reporting functions.",
+      "Ecommerce accounting can help you analyze what products or services are most profitable for your company and your change in profit over time.",
+      "The two accounting methods are cash accounting and accrual accounting, measuring transactions at different points in the payment process."
+    ],
+    "without": [
+      "Start your free trial with Shopify today",
+      "Shopify logo",
+      "Copyright 2024 Shopify Inc",
+      "Subscribe to our newsletter",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 9,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0070/7032/articles/ecommerce_accounting_338aac7e-22df-4be1-a8bf-66f3129bfc17.jpg?v=1729254270&originalWidth=1848&originalHeight=782",
+          "filename": "ecommerce_accounting_338aac7e-22df-4be1-a8bf-66f3129bfc17.jpg",
+          "alt": "ecommerce accounting",
+          "caption": "ecommerce accounting",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:30:46.304753"
+}

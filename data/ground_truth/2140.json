@@ -1,0 +1,69 @@
+{
+  "schema_version": "2.0",
+  "url": "https://fitsmallbusiness.com/best-social-media-agency-small-businesses/",
+  "file_id": "2140",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "marketing",
+        "guide",
+        "social media",
+        "small business",
+        "buyer's guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "6 Social Media Management Companies for Small Businesses: My Top Picks",
+    "author": "Audrey Rawnie Rico",
+    "publish_date": "2025-06-27",
+    "main_content": "Anytime I've gone out looking for the best social media management company for small businesses, I've always zeroed in on the scope of the services they cover and the quality they provide. Having been a social media manager myself, I'm well aware that social media marketing entails a myriad of tasks, from planning and creating content to monitoring results to setting up ad campaigns. It's certainly not a one-person operation, which is why, for businesses that don't have an in-house social media team, I always recommend hiring a social media marketing agency instead. The good news is there are a good number of agencies specifically for small businesses, and I looked for the best of the best that balance a wide scope of services covering various industries, reasonable pricing, and results to back up their claims. Review my top picks for the best social media services for small businesses: LYFE Marketing (Overall best), WebFX (Best for getting leads), Thrive Agency (Best for building a reputation), SEO Discovery (Best for building a presence from scratch), Fiverr Pro (Best for individual projects), and $99Social (Best for organic content).",
+    "with": [
+      "Having been a social media manager myself, I'm well aware that social media marketing entails a myriad of tasks, from planning and creating content to monitoring results to setting up ad campaigns.",
+      "The good news is there are a good number of agencies specifically for small businesses, and I looked for the best of the best that balance a wide scope of services covering various industries, reasonable pricing, and results to back up their claims.",
+      "LYFE Marketing's long been a favorite of mine and is still my best overall social media management company for small businesses.",
+      "As you may already know, Fiverr Pro isn't technically a social media management company for small businesses but a freelancer hiring platform.",
+      "When looking for the best social media agency for your business, start with those that include the social media strategies you need most."
+    ],
+    "without": [
+      "Sign Up For Our Marketing Newsletter!",
+      "Fit Small Business offers unbiased, editorially independent content and reviews.",
+      "Marketing | Buyer's Guide",
+      "Copyright 2025 Fit Small Business",
+      "BE A PARTNER | WORK AT FSB | About"
+    ],
+    "images": {
+      "total_in_content": 17,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://fitsmallbusiness.com/wp-content/uploads/2024/06/lyfe-marketing.jpg",
+          "filename": "lyfe-marketing.jpg",
+          "alt": "A sample Instagram Reel made by LYFE Marketing for a client.",
+          "caption": "LYFE Marketing creates social media content tailored to your target audience. (Source: WebFX)",
+          "is_hero": false
+        },
+        {
+          "src": "https://fitsmallbusiness.com/wp-content/uploads/2024/06/fiverr-pro.jpg",
+          "filename": "fiverr-pro.jpg",
+          "alt": "Various social media freelancer profiless on Fiverr Pro.",
+          "caption": "Hundreds of social media freelancers are available for hire on Fiverr Pro. (Source: Fiverr)",
+          "is_hero": false
+        },
+        {
+          "src": "https://fitsmallbusiness.com/wp-content/uploads/2025/06/unnamed-2025-06-27T144832.621-1-1024x884.png",
+          "filename": "unnamed-2025-06-27T144832.621-1-1024x884.png",
+          "alt": "Sample social media images created by $99Social for different brands.",
+          "caption": "$99Social's biggest expertise is creating social media content, both image and video. (Source: $99Social)",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:47:57.896831"
+}

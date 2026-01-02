@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ouraynews.com/2025/12/17/county-pauses-4-h-center-events",
+  "file_id": "2402",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "news",
+        "local",
+        "county-government",
+        "events"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "County pauses most 4-H Center events",
+    "author": "Lia Salvatierra",
+    "publish_date": "2025-12-17",
+    "main_content": "Ouray County leaders decided Tuesday to cancel most 4-H Event Center and Fairgrounds events after San Juan Skijoring in January, until the county comes up with a plan to manage the space. Budget cuts eliminated staff; work session planned with new manager.",
+    "with": [
+      "Ouray County leaders decided Tuesday to cancel most 4-H Event Center and Fairgrounds events after San Juan Skijoring in January",
+      "The county came up with a plan to manage the space",
+      "Budget cuts eliminated staff from the 4-H Event Center and Fairgrounds",
+      "A work session is planned with a new manager",
+      "Most events will be paused until further notice"
+    ],
+    "without": [
+      "Login and Subscribe buttons",
+      "Navigation menu items (News, Features, Opinion, Obituaries)",
+      "E-paper and mobile app download buttons",
+      "Footer copyright notice and address",
+      "Social media share buttons"
+    ],
+    "images": {
+      "total_in_content": 6,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:05:12.291898"
+}

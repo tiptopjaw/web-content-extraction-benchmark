@@ -1,0 +1,53 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.easy-lms.com/knowledge-center/online-course-center/what-is-an-online-course/item12708",
+  "file_id": "0759",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "knowledge-base",
+        "online-learning"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "What is an Online Course? Definition Explained",
+    "author": "Eliz",
+    "publish_date": "2018-11-21",
+    "main_content": "An online course can be defined as a virtual learning experience organized into a course format. Courses can vary in their type, from informal to formal, and cover many different topics. Plus, they can be used as preparation for an online exam or simply for fun! Online courses can be instructor-led or self-paced, short and focused or in-depth and comprehensive, text-based, video-based, or interactive, or part of a broader training program. Online courses are commonly delivered via a Learning Management System (LMS), which stores content and tracks learner progress. Types of online courses include self-paced courses, instructor-led courses, blended courses, microlearning-based courses, and certification courses. To create an effective online course, one should start with clear learning objectives, know the audience, structure content logically, use engaging learning materials, add assessments, ensure accessibility, and use the right tools. Common examples include HR consultancy courses, compliance training, professional skills, and language learning. Benefits include self-paced learning, improved engagement through multimedia, and improved efficiency. Easy LMS provides tools for creating engaging, scalable online courses with features like course building, academies, exams, certificates, and analytics.",
+    "with": [
+      "An online course can be defined as a virtual learning experience organized into a course format.",
+      "Online courses can be: Instructor-led or self-paced, Short and focused or in-depth and comprehensive, Text-based, video-based, or interactive, Part of a broader training program.",
+      "Online courses are commonly delivered via a Learning Management System (LMS), which stores content and tracks learner progress.",
+      "A simple structure works well: introduction → modules → activities → assessment → completion.",
+      "Companies that include online courses gain 26% higher revenue per employee."
+    ],
+    "without": [
+      "Start free trial",
+      "© 2025 Easy LMS B.V.",
+      "Privacy policy",
+      "Features navigation link",
+      "Cookie notice"
+    ],
+    "images": {
+      "total_in_content": 8,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "/assets/Advantages-and-disadvantages-of-online-courses.svg",
+          "filename": "Advantages-and-disadvantages-of-online-courses.svg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:14:11.977496"
+}

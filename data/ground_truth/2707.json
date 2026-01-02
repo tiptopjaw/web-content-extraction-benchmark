@@ -1,0 +1,75 @@
+{
+  "schema_version": "2.0",
+  "url": "https://uibakery.io/on-premise-ui-bakery",
+  "file_id": "2707",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "software",
+        "self-hosted",
+        "internal-tools",
+        "landing-page"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Full control of things with on-premise UI Bakery",
+    "author": null,
+    "publish_date": null,
+    "main_content": "UI Bakery On-Premise allows self-hosting in your private network, locally or in cloud platforms like AWS, Google Cloud, and Microsoft Azure. Copy and run the command below in terminal to start: curl -k -L -o install.sh https://raw.githubusercontent.com/uibakery/self-hosted/main/install.sh && bash ./install.sh. The on-premises solution is air-gapped, ensuring no analytics collection and meeting compliance standards like HIPAA, SOC2, and PCI. You have full control over performance by managing your infrastructure and deployment environment. Deploy your UI Bakery app locally, connect to your database or APIs. Start building your internal tool, invite team members and other users. Set up SSO with Google or SAML providers to improve security. Allow users to log into your app using only one set of credentials. Sign in with SAML-based identity providers like Google, Okta, and others. Import groups to use them in UI Bakery. Deploy your app on a custom domain to ship and host on a custom domain. Control all the activities happening inside UI Bakery. Store your data on your VPS without worrying about security. Use a corporate domain to let your users recognize the organization. Limit access to your domain based on defined firewall settings. Features include App and data source Environments, Community support, Public and Private Apps, User Roles, AI usage credits, Unlimited apps & data source connections, Git version control, Custom themes, Audit Logs, and more. Docker-based deployment with built-in MySQL database or connect to cloud database for enhanced flexibility.",
+    "with": [
+      "Self-host UI Bakery in your private network, locally or in cloud platforms like AWS, Google Cloud, and Microsoft Azure.",
+      "The on-premises solution is air-gapped, ensuring no analytics collection and meeting compliance standards like HIPAA, SOC2, and PCI.",
+      "Set up SSO with Google or SAML providers. Allow your users to log into your app using only one set of credentials.",
+      "Deploy your app on a custom domain. Control all the activities happening inside UI Bakery. Store your data on your VPS without worrying about security.",
+      "Very good low code platform with real data in edit/developer mode. The vendor is willing to improve the platform every day."
+    ],
+    "without": [
+      "©2015-2025 UI Bakery, Inc. All rights reserved",
+      "Log in | Sign up navigation buttons",
+      "Product | Solutions | Resources | Clients | Pricing | Contact menu items",
+      "Privacy Policy | Terms of Service footer links",
+      "Social media icons (Facebook, Twitter, LinkedIn, YouTube, GitHub)"
+    ],
+    "images": {
+      "total_in_content": 19,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://cdn.prod.website-files.com/653a8b0e56e4a44a90d64931/656f45db5527817d6a0e506e_sign-up-min%20(2).png",
+          "filename": "656f45db5527817d6a0e506e_sign-up-min%20(2).png",
+          "alt": "SSO",
+          "caption": "SSO setup interface showing sign-in options",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/653a8b0e56e4a44a90d64931/656f55a31b37e80a884e59ec_Group%201942-min.png",
+          "filename": "656f55a31b37e80a884e59ec_Group%201942-min.png",
+          "alt": "Domain identity",
+          "caption": "Domain identity feature showing corporate domain setup",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/653a8b0e56e4a44a90d64931/656f55a2cc2e18629c5bd7d1_Group%201941-min%20(1).png",
+          "filename": "656f55a2cc2e18629c5bd7d1_Group%201941-min%20(1).png",
+          "alt": "Access сontrol",
+          "caption": "Access control panel for firewall settings",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6542d8f9e468531067fe9978/672b380de1e7bfbaa40cb38a_da.svg",
+          "filename": "672b380de1e7bfbaa40cb38a_da.svg",
+          "alt": "Dominik Amman / Solution Architect",
+          "caption": "Dominik Amman / Solution Architect - Very good low code platform with real data in edit/developer mode",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:19:01.370562"
+}

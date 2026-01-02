@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.reventals.com/los-angeles-ca/event-services-more-rentals/physical-fitness-equipment-rentals",
+  "file_id": "1198",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "rental",
+        "fitness-equipment",
+        "event-services",
+        "los-angeles",
+        "e-commerce"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Physical Fitness Equipment Rentals in Los Angeles, CA",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Physical Fitness Equipment. Find all Physical Fitness Equipment Rentals in Los Angeles, CA in one place. If you're looking for a treadmill rental or spin bike rental, you're in the right place. We also have recumbent bike rentals, weight bench rentals, dumbbell rentals, weight machine rentals and you can rent a rowing machine. The Reventals Promise: On Time Delivery - You don't have to worry about late arrivals or no shows. High Quality Products - You don't have to worry about receiving damaged or discolored products. Satisfaction Guarantee - We pride ourselves on excellent customer service. Don't Let a Vendor Ruin Your Event: At Reventals, we know if you are planning a party, festival or corporate event that you want it to be representative of your professionalism. In order to have the event you envision, you need the rentals to be high quality and be delivered and picked up on time. The problem is that it's extremely time consuming to call around, send emails. We believe it should be easy and you shouldn't have to overpay for convenience! That's why we have vetted independent, locally owned and operated rental companies to find you the best vendors, unique rentals and great prices. How Reventals Works: Plan The Perfect Party - Find what you need to rent, nearby. No credit card required! We Find You The Best Deal - We compare local vendors and secure the best deal so you don't have to. Pay & Celebrate - Planning an event used to be such a headache! Not anymore. Helpful Resources: Party Drink Calculator - How much alcohol do I need? Seating Calculator - Does a 60 inch round table seat 8 or 10? Tent Size Calculator - What size tent do I need? Air Conditioned Party Tents - How much does it cost to rent an air conditioned party tent? Table Place Settings - How much does it cost to rent table place settings? Tablecloth Size Calculator - What size tablecloth do I need? Tools & Calculators: Seating Capacity for Tables, How to Set a Table, What Size Tablecloth do I Need?, What Size Tent do I Need?, What Size Dance Floor do I Need?, What Size Generator do I Need?, Party Drink Calculator, How to use a Margarita Machine, How to use a Popcorn Machine. Contact: (888) 857-0071, orders@reventals.com, 444 South Flower St., 13th Floor, Los Angeles, CA 90071. Showroom By Appointment Only.",
+    "with": [
+      "Physical Fitness Equipment Rentals in Los Angeles, CA in one place",
+      "If you're looking for a treadmill rental or spin bike rental, you're in the right place",
+      "Don't Let a Vendor Ruin Your Event - At Reventals, we know if you are planning a party, festival or corporate event",
+      "Plan The Perfect Party - Find what you need to rent, nearby",
+      "Satisfaction Guarantee - We pride ourselves on excellent customer service"
+    ],
+    "without": [
+      "Physical Fitness Equipment icon",
+      "On Time Delivery icon",
+      "Copyright 2025",
+      "Privacy Policy",
+      "Sign In"
+    ],
+    "images": {
+      "total_in_content": 20,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "/assets/event-planner-setting-table-191f29d9eacb5bdf1bcf197108dc191d19647c90871cd6c39f1f5d52a2e1c2e3.png",
+          "filename": "event-planner-setting-table-191f29d9eacb5bdf1bcf197108dc191d19647c90871cd6c39f1f5d52a2e1c2e3.png",
+          "alt": "Event planner setting table",
+          "caption": "Event planner setting table",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/how_reventals_works/how_reventals_works_video-acad9316ac2b827f7407acd6564f351ed410ec7674d7f910aaa084e0f022bc3d.png",
+          "filename": "how_reventals_works_video-acad9316ac2b827f7407acd6564f351ed410ec7674d7f910aaa084e0f022bc3d.png",
+          "alt": "How Reventals Works",
+          "caption": "How Reventals Works",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/party-drink-calculator-how-much-alcohol-b70c1e78b8dba1093e52f67c34cb5d40dda8bea32e83368e51afb92f5488f4f2.jpg",
+          "filename": "party-drink-calculator-how-much-alcohol-b70c1e78b8dba1093e52f67c34cb5d40dda8bea32e83368e51afb92f5488f4f2.jpg",
+          "alt": "Party Drink Calculator",
+          "caption": "Party Drink Calculator - How much alcohol do I need?",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/table-sizes-and-seating-425a7cebcb2ae707b699e6f6ae78a70adc37b7cfe6da966e6cc9e9990524df11.jpg",
+          "filename": "table-sizes-and-seating-425a7cebcb2ae707b699e6f6ae78a70adc37b7cfe6da966e6cc9e9990524df11.jpg",
+          "alt": "Seating Calculator",
+          "caption": "Seating Calculator - Does a 60 inch round table seat 8 or 10?",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/tent-size-calculator-what-size-tent-e0cf871d607870880f8580d07de0bb7fc09caaf48138aa71988a554215aa91ad.jpg",
+          "filename": "tent-size-calculator-what-size-tent-e0cf871d607870880f8580d07de0bb7fc09caaf48138aa71988a554215aa91ad.jpg",
+          "alt": "Tent Size Calculator",
+          "caption": "Tent Size Calculator - What size tent do I need?",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/air-conditioned-party-tent-d50769c52eeb1a27bc397c6fd157d32f30377429482b6dae36557f1d0f724ab9.jpg",
+          "filename": "air-conditioned-party-tent-d50769c52eeb1a27bc397c6fd157d32f30377429482b6dae36557f1d0f724ab9.jpg",
+          "alt": "Air Conditioned Party Tents",
+          "caption": "Air Conditioned Party Tents - How much does it cost to rent an air conditioned party tent?",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/cost-to-rent-table-place-settings-5c508d5d06ba77b6e1eb3c448380d644827f53086e634e893225163d5564ee74.jpg",
+          "filename": "cost-to-rent-table-place-settings-5c508d5d06ba77b6e1eb3c448380d644827f53086e634e893225163d5564ee74.jpg",
+          "alt": "Table Place Settings",
+          "caption": "Table Place Settings - How much does it cost to rent table place settings?",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/what-size-tablecloth-do-i-need-2b8434280c81e600e05d069111e69ef689a6868dd85d6170b770160810e8f795.jpg",
+          "filename": "what-size-tablecloth-do-i-need-2b8434280c81e600e05d069111e69ef689a6868dd85d6170b770160810e8f795.jpg",
+          "alt": "Tablecloth Size Calculator",
+          "caption": "Tablecloth Size Calculator - What size tablecloth do I need?",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/plates-and-silverware-rentals-9132c2e0cec1f37d224bf5211788fef7680646dff9cfe1b9197ea5938dbee8c3.png",
+          "filename": "plates-and-silverware-rentals-9132c2e0cec1f37d224bf5211788fef7680646dff9cfe1b9197ea5938dbee8c3.png",
+          "alt": "Plates and silverware rentals",
+          "caption": "Plates and silverware rentals",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/evie_prompt_wedding_100_guests-c3749fd3ca15c1dd08c68f5a3fd0a362a6e9ec3f419713b84af16eaa5d17d50b.png",
+          "filename": "evie_prompt_wedding_100_guests-c3749fd3ca15c1dd08c68f5a3fd0a362a6e9ec3f419713b84af16eaa5d17d50b.png",
+          "alt": null,
+          "caption": "I'm planning an outdoor wedding with 100 guests.",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:04:27.093454"
+}

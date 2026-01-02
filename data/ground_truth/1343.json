@@ -1,0 +1,111 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.thegoodtrade.com/features/natural-and-organic-skincare-brands/",
+  "file_id": "1343",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "skincare",
+        "organic",
+        "beauty",
+        "guide",
+        "brands"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "11 Best Organic Skincare Brands For 2025",
+    "author": "Our Editors",
+    "publish_date": "2025-11-10",
+    "main_content": "A daily skincare regimen is one of the easiest ways to ensure both long-term skin health and a glowing complexion. Natural and organic skincare products, in particular, combine essential vitamins, botanicals, and minerals that heal and restore our skin — without harming our bodies or the earth. Natural skincare products are great if you're looking to boost your skin's health with fewer artificial ingredients, chemicals, and fragrances. Unfortunately many skincare products include harmful chemicals which can compromise our skin and our health (like parabens, sulfates, and synthetic fragrances, which can mess with your skin's natural balance or cause irritation). Rather, natural skincare harnesses the power of ingredients like plant extracts and oils that are typically gentler on the skin, with fewer chances of adverse effects. When choosing skincare, it's just as important to know what to avoid as it is to know what to look for. Steer clear of harsh ingredients like parabens, which are preservatives that can disrupt hormones, and phthalates, often used in fragrances, as they may harm your health. Our editors have tested, researched, and read through thousands of customer reviews to determine the very best clean skincare brands that are safe, use thoughtful ingredients, and are accessible for different types of skin and budgets. The brands featured include cocokind (Best Overall, Budget-friendly), Ursa Major (Gender & skin inclusive), Annmarie Skin Care (Activated skincare with wildcrafted ingredients), True Botanicals (Holistic approach), OSEA (Sea-based ingredients), Herbivore Botanicals (Clean formulations), Attitude (Eco-conscious), One Love Organics (Botanical expertise), Junk Theory (Minimalist approach), Matrescence (Postpartum-focused), and 100% Pure (Fruit-pigmented colors).",
+    "with": [
+      "A daily skincare regimen is one of the easiest ways to ensure both long-term skin health and a glowing complexion.",
+      "Natural and organic skincare products combine essential vitamins, botanicals, and minerals that heal and restore our skin.",
+      "Steer clear of harsh ingredients like parabens, which are preservatives that can disrupt hormones.",
+      "Our editors have tested, researched, and read through thousands of customer reviews to determine the very best clean skincare brands.",
+      "When you want your skin to feel catered to, check out the ultra-affordable cocokind."
+    ],
+    "without": [
+      "Start each day gently with our 30-second daily newsletter",
+      "Join 250,00 readers for free",
+      "Shop Now",
+      "Follow us on social media",
+      "Privacy Policy | Terms of Service"
+    ],
+    "images": {
+      "total_in_content": 30,
+      "annotated_count": 9,
+      "items": [
+        {
+          "src": "https://www.thegoodtrade.com/wp-content/uploads/2025/01/10-natural-and-organic-skincare-brands-423x635.jpg",
+          "filename": "10-natural-and-organic-skincare-brands-423x635.jpg",
+          "alt": "Person with wet hair gently pressing a textured cloth to their cheek, wearing a beige robe, against a pale background.",
+          "caption": "Person with wet hair gently pressing a textured cloth to their cheek, wearing a beige robe",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.thegoodtrade.com/wp-content/uploads/2025/01/organic-skincare-cocokind.png",
+          "filename": "organic-skincare-cocokind.png",
+          "alt": "A tattooed hand holds two Cocokind serum bottles in front of a plant. A red badge reads \"Reader Favorite: The Good Trade 2023 Award Winner.",
+          "caption": "A tattooed hand holds two Cocokind serum bottles in front of a plant with a Reader Favorite badge",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.thegoodtrade.com/wp-content/uploads/2025/01/organic-skincare-ursa-major-1-edited.jpeg",
+          "filename": "organic-skincare-ursa-major-1-edited.jpeg",
+          "alt": "A bottle of Ursa Major Making Moves Milky Cleanser surrounded by dried plants and bark on a white background.",
+          "caption": "A bottle of Ursa Major Making Moves Milky Cleanser surrounded by dried plants and bark",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.thegoodtrade.com/wp-content/uploads/2025/10/thegoodtrade_wildalchemy_groupedproducts-scaled.jpg",
+          "filename": "thegoodtrade_wildalchemy_groupedproducts-scaled.jpg",
+          "alt": "Four Annmarie skincare products—face cream, cleanser, mask, and night serum—are arranged on a wooden surface outdoors with greenery in the background.",
+          "caption": "Four Annmarie skincare products—face cream, cleanser, mask, and night serum—are grouped together",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.thegoodtrade.com/wp-content/uploads/2025/01/organic-skincare-osea.png",
+          "filename": "organic-skincare-osea.png",
+          "alt": "A hand holding a bottle of OSEA Ocean Cleanser is in focus. In the background, there are other skincare items and a plant. A red badge on the top right corner reads: \"The Good Trade 2023 Award Winner.",
+          "caption": "A hand holding a bottle of OSEA Ocean Cleanser in focus with ocean background",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.thegoodtrade.com/wp-content/uploads/2025/01/organic-skincare-herbivore-2-edited.jpeg",
+          "filename": "organic-skincare-herbivore-2-edited.jpeg",
+          "alt": "A clear bottle with a pink liquid, labeled \"Herbivore Cloud Jelly,\" featuring a white pump top, standing on a solid surface casting a shadow.",
+          "caption": "A clear bottle with a pink liquid, labeled Herbivore Cloud Jelly",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.thegoodtrade.com/wp-content/uploads/2025/01/organic-skincare-one-love-organics-1-edited.jpeg",
+          "filename": "organic-skincare-one-love-organics-1-edited.jpeg",
+          "alt": "A jar of One Love Organics Skin Savior balm surrounded by vibrant pink orchids, ferns, and orange peels. Sunlight highlights the product against the lush greenery backdrop.",
+          "caption": "A jar of One Love Organics Skin Savior balm surrounded by vibrant pink orchids",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.thegoodtrade.com/wp-content/uploads/2025/01/organic-skincare-matrescence-2jpg-edited.jpg",
+          "filename": "organic-skincare-matrescence-2jpg-edited.jpg",
+          "alt": "A person holds a dark brown bottle labeled \"matrescence Brightening Essence\" with a hand pump, next to a white towel.",
+          "caption": "A person holds a dark brown bottle labeled matrescence Brightening Essence",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.thegoodtrade.com/wp-content/uploads/2025/01/organic-skincare-100-percent-pure-1-edited.jpeg",
+          "filename": "organic-skincare-100-percent-pure-1-edited.jpeg",
+          "alt": "A person in a white top and jeans holds a jar of cleansing balm, using their fingers to scoop some out.",
+          "caption": "A person in a white top and jeans holds a jar of 100% Pure cleansing balm",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:45:50.165911"
+}

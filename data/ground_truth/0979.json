@@ -1,0 +1,110 @@
+{
+  "schema_version": "2.0",
+  "url": "https://makeitright.ca/holmes-advice/home-renovation/your-guide-to-renovating-it-right-room-by-room/",
+  "file_id": "0979",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "renovation",
+        "home-improvement",
+        "guide",
+        "how-to"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Your Ultimate Renovation Guide – Room By Room",
+    "author": "Mike Holmes",
+    "publish_date": "2025-03-18",
+    "main_content": "Your home is the biggest investment you'll ever make, so when planning a remodel there are a lot of items to consider. I like hearing from homeowners with their questions because it means they're committed to doing it right. In lieu of answering every question individually, I am publishing the ULTIMATE home renovation guide, Holmes style. So are you planning to renovate your kitchen? Your bathroom? Basement? Click or scroll down to the relevant section and start reading my renovation tips for every room in your home. Home renovations can increase the value of your home, and the most popular rooms are kitchens, bathrooms, interior/exterior painting, and creating more livable space in your basement or outdoors. Consider the age of the house, the size of the project, and the complexity of the project. I always suggest adding 20% to your budget for the unexpected. The first renovation tip is making sure you pick the right team. You want a contractor who will do the job right – including pulling the permits, hiring the right sub-trades, and working WITH you to design a renovation that suits your needs. I always say to fix your home starting from the outside in. If your home's building envelope is in bad shape – the elements will enter, wreaking havoc with your interior systems and leading to mould, rot, and a whole host of other problems. Your first renovation priority is to ensure that the home's exterior is in good shape. Once you've taken care of the outside of your home, your first indoor task should be ensuring that the main systems of your house are safe, secure, and strong. I'm talking about things like your furnace, as well as ensuring your electrical setup is safe. For most renovations, you're going to be opening up your walls – and that's a great opportunity for you to take a look at your electrical and ensure everything is in good shape. A kitchen renovation is a big-ticket item that can seriously raise the value of your home – if it's done right. Bathroom remodelling projects are also going to increase the value of your home. Bathrooms are a tricky renovation because you're dealing with a room that gets a lot of water. You have to take steps to ensure that everything is protected against potential mold growth. Like your bathrooms, basements are a place where moisture can be prevalent, so your renovation efforts here need to focus on creating a warm space free from water intrusion. The pandemic changed the way we interact with our homes, and many of us had to design home offices on the fly, carved out of space from our main living areas. Building a beautiful backyard oasis can take on many forms.",
+    "with": [
+      "Your home is the biggest investment you'll ever make, so when planning a remodel there are a lot of items to consider.",
+      "I always suggest adding 20% to your budget for the unexpected.",
+      "The first renovation tip I like to always start with is making sure you pick the right team.",
+      "I always say to fix your home starting from the outside in.",
+      "Bathrooms are a tricky renovation because you're dealing with a room that gets a lot of water."
+    ],
+    "without": [
+      "Subscribe to get the best home reno and maintenance tips",
+      "Facebook Twitter social sharing buttons",
+      "Back to top navigation links",
+      "Newsletter signup form",
+      "Copyright 2025 Make It Right"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 9,
+      "items": [
+        {
+          "src": "//makeitright.ca/wp-content/uploads/2023/06/unnamed-1.jpeg",
+          "filename": "unnamed-1.jpeg",
+          "alt": "Mike Holmes and Sherry Holmes with professional roofer.",
+          "caption": "Mike Holmes and Sherry Holmes with professional roofer.",
+          "is_hero": false
+        },
+        {
+          "src": "https://makeitright.ca/wp-content/uploads/2021/09/SH-Digging-in-Garden_1600-683x1024.jpg",
+          "filename": "SH-Digging-in-Garden_1600-683x1024.jpg",
+          "alt": "Sherry Holmes Landscaping",
+          "caption": "Sherry Holmes Landscaping",
+          "is_hero": false
+        },
+        {
+          "src": "//makeitright.ca/wp-content/uploads/2023/06/MikeHolmes-Atlas-Shingles.jpeg",
+          "filename": "MikeHolmes-Atlas-Shingles.jpeg",
+          "alt": "Mike Holmes holding Atlas Pinnacle Sun Roofing Shingle",
+          "caption": "Mike Holmes holding Atlas Pinnacle Sun Roofing Shingle",
+          "is_hero": false
+        },
+        {
+          "src": "https://makeitright.ca/wp-content/uploads/2021/03/HRV-LQ-1024x683.jpg",
+          "filename": "HRV-LQ-1024x683.jpg",
+          "alt": "Heat Recovery Ventilation System",
+          "caption": "Heat Recovery Ventilation System",
+          "is_hero": false
+        },
+        {
+          "src": "https://makeitright.ca/wp-content/uploads/2022/06/HFR_DAY103_05.jpg",
+          "filename": "HFR_DAY103_05.jpg",
+          "alt": "Mini-Split Bosch Heat Pump System Installed In Sunroom in Frank Cozzolino’s Home, in Holmes Family Rescue",
+          "caption": "Mini-Split Bosch Heat Pump System Installed In Sunroom",
+          "is_hero": false
+        },
+        {
+          "src": "https://makeitright.ca/wp-content/uploads/2021/03/Spare-Tiles-LQ-2-1-scaled.jpg",
+          "filename": "Spare-Tiles-LQ-2-1-scaled.jpg",
+          "alt": "Sherry Holmes tiling all the way down the wall, so that when you move appliances out, everything is uniform and easy to clean.",
+          "caption": "Sherry Holmes tiling all the way down the wall, so that when you move appliances out, everything is uniform and easy to clean.",
+          "is_hero": false
+        },
+        {
+          "src": "https://makeitright.ca/wp-content/uploads/2018/08/SCHLUTER.jpg",
+          "filename": "SCHLUTER.jpg",
+          "alt": "SCHLUTER",
+          "caption": "Schluter Systems products at work",
+          "is_hero": false
+        },
+        {
+          "src": "https://makeitright.ca/wp-content/uploads/2020/06/Duvanco_basement.jpg",
+          "filename": "Duvanco_basement.jpg",
+          "alt": "Basement renovation by Duvanco Homes",
+          "caption": "Basement renovation by Duvanco Homes",
+          "is_hero": false
+        },
+        {
+          "src": "https://makeitright.ca/wp-content/uploads/2022/07/8.jpg",
+          "filename": "8.jpg",
+          "alt": "Mike Install Hot Tub from Leisure Pools installed on Holmes Family Rescue Season 1.",
+          "caption": "Mike Install Hot Tub from Leisure Pools installed on Holmes Family Rescue Season",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:29:08.042199"
+}

@@ -1,0 +1,62 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.allconnect.com/blog/beginners-guide-to-tv-streaming",
+  "file_id": "0541",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "streaming",
+        "guide",
+        "television",
+        "technology",
+        "beginner"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Beginner's Guide for Streaming TV | Allconnect.com",
+    "author": "Camryn Smith",
+    "publish_date": "2025-07-31",
+    "main_content": "Streaming is the process of delivering audio and video content over the internet in real-time, allowing you to watch shows and movies without downloading files. To stream TV, you'll need a reliable internet connection, a streaming device or smart TV, and a subscription to a streaming service. The average American household now subscribes to three streaming services, spending significantly on monthly entertainment costs. Common streaming issues include buffering, poor video quality, and service outages, which can often be resolved with a faster internet connection or troubleshooting your device. Most streaming services recommend minimum internet speeds of 5-25 Mbps for HD streaming, with 4K content requiring at least 25 Mbps for optimal viewing.",
+    "with": [
+      "Streaming is the process of delivering audio and video content over the internet in real-time, allowing you to watch shows and movies without downloading files to your device.",
+      "To stream TV, you'll need a reliable internet connection, a streaming device or smart TV, and a subscription to a streaming service like Netflix, Hulu or Disney+.",
+      "The average American household now subscribes to three streaming services, spending significantly on monthly entertainment costs.",
+      "Common streaming issues include buffering, poor video quality, and service outages, which can often be resolved with a faster internet connection or troubleshooting your device.",
+      "Most streaming services recommend minimum internet speeds of 5-25 Mbps for HD streaming, with 4K content requiring at least 25 Mbps for optimal viewing."
+    ],
+    "without": [
+      "Subscribe to our newsletter for the latest deals and updates",
+      "Copyright 2025 Allconnect LLC. All rights reserved.",
+      "Privacy Policy",
+      "Internet",
+      "Cookie Notice"
+    ],
+    "images": {
+      "total_in_content": 37,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://www.allconnect.com/wp-content/uploads/2019/08/beginners-guide-to-tv-streaming-hero-517370128.jpg",
+          "filename": "beginners-guide-to-tv-streaming-hero-517370128.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://www.allconnect.com/wp-content/uploads/2023/07/AC-Streaming-Guide-Refresh_0630_full.png",
+          "filename": "AC-Streaming-Guide-Refresh_0630_full.png",
+          "alt": "troubleshooting common streaming issues",
+          "caption": "troubleshooting common streaming issues",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:22:14.291876"
+}

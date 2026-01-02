@@ -1,27 +1,47 @@
 {
+  "schema_version": "2.0",
   "url": "http://pierrezemb.fr/posts/specs-are-back",
   "file_id": "2802",
-  "downloaded_at": "2025-12-20T23:43:33.669543",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "software-engineering",
+        "llm",
+        "specifications",
+        "formal-methods"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Specs Are Back, But We're Missing the Tools",
     "author": "Pierre Zemb",
     "publish_date": "2025-12-19",
-    "main_content": "I truly think LLMs are changing how we write software. For me, it's been a massive productivity boost. I can ask Claude to read some piece of code and explain it to me, or make a quick PoC of something, or refactor stuff that would take me hours. I even used it to help me backport features from FoundationDB in Rust, and it worked surprisingly well 🤯\n\nJoão Alves made a great point recently: code is becoming like fast food. Cheap, fast, everywhere. You ask an LLM to generate something, it compiles, the tests pass, and you ship it. For critical systems, simulation testing can validate that code actually survives production chaos.\n\nBut here's what I keep running into: we're still using natural language to prompt, correct, and guide LLMs. Vague instructions produce vague code. The bottleneck isn't writing code anymore, it's knowing what to write in the first place.\n\nWhy specs died in the first place\n\nAsk any engineering team \"where's the spec for this service?\" and you'll probably get one of three answers: blank stares, a link to some 3-year-old Google doc that's completely outdated, or my personal favorite, \"the code is the spec.\"\n\nI think the problem was simple: specs had no feedback loop. Code compiles, tests pass, but specs? They just sit there. Nobody validates them, nobody updates them. Six months later, the spec has become archaeology, and new team members learn to ignore it because they can't trust it anyway.\n\nWhat changed is that LLMs can actually read specifications now. And suddenly, specs aren't dead documents anymore. They're instructions that can be executed. I've found two modes that actually work:\n\n• Generation: you give an LLM a structured spec, and it gives you an implementation\n• Validation: you give an LLM some existing code and a spec, and ask \"does this implementation actually respect the specification?\"\n\nspec-kit and the right prompt chain\n\nI tried spec-kit a while ago and found it pretty useful. What it does well is guide you through a structured chain of prompts: you start with a Constitution (your project principles), then you write Specifications (requirements with acceptance criteria), then Technical Plans, then Tasks, and finally Implementation.\n\nIt sounds obvious when I write it like that, but it's surprisingly effective. This isn't scattered TODO comments. It's a queryable structure that builds context progressively, and the LLM can use all of it.\n\nThe generated code was actually good, because spec-kit forced me to build the right context first. And here's what surprised me: the LLM kept challenging my vague requirements. Every time I wrote something like \"handle edge cases,\" it would ask \"what happens when X? what about Y?\" until the spec was actually implementable.\n\nI think that's the trick. Context is everything. Build the right context, and the LLM produces the right code.\n\nThe limits of English\n\nHere's where I hit a wall though. English-based specs work great for user stories and acceptance criteria, the kind of stuff product managers care about. But for algorithms and system behavior? Natural language gets ambiguous really fast.\n\n\"Handle concurrent access\" means different things to different people. \"Ensure consistency\" is even worse. When you're designing distributed algorithms with subtle timing constraints, you need precision. English just doesn't cut it.\n\nI needed something more engineering-driven. Not formal verification for academic purposes, but practical precision that the whole team could read and reason about.\n\nFinding an engineering-driven approach\n\nI started looking at formal methods. TLA+ is the classic choice, but the notation felt like another language to maintain. I didn't want to be the only one on the team who could read the specs. I've been there before with other technologies, and it's not a great place to be 😅\n\nThen a friend suggested Fizzbee. It's based on Starlark, a Python dialect. Model checking without the TLA+ notation. The whole team can contribute.\n\nLearning new languages with LLMs works well. The trick is to find or generate a spec of the language first, then ask for a tutorial tailored to your specific problem. I asked Claude to write a Starlark reference and a Fizzbee concepts recap. Now we share vocabulary, and the conversations are productive.\n\nWhat we're still missing\n\nFizzbee is great for what it does. For algorithms and concurrency, model checking feels like the Rust compiler but for higher-level design. It explores all possible states and finds bugs before any code exists. Here's what an invariant looks like:\n\n# Safety: no duplicate completions\nalways assertion NoDuplicateCompletions:\n    return len(completed) == len(set(completed))\n\nReadable by anyone who knows Python.\n\nBut most software isn't distributed algorithms. Most of what we build is about storing data in databases, sending messages to queues, calling other services, transforming inputs into outputs.\n\nAnd we describe this behavior in a dozen different places: C4 diagrams for architecture, OpenAPI for HTTP endpoints, protobuf for message schemas, ADRs for decisions, markdown for everything else. No single notation captures the full picture.\n\nI keep thinking about what this tool would need to be. It should be compact, short enough to fit in an LLM's context window without eating thousands of tokens. It should work at both levels: service interactions (\"UserService stores in Postgres, publishes to Kafka\") and function behavior (\"validateUser checks format, queries DB, returns DTO\"). It should be the common language that both the team and the LLM can read, write, and reason about.\n\nMost importantly, it should be verifiable. Not just documentation that sits there, but something that can actually validate whether an implementation matches what we said it would do. The feedback loop that specs never had.\n\nOpenAPI gets close for HTTP APIs. You can validate requests, generate clients, catch breaking changes. But for the rest? For business logic, for service contracts that aren't just endpoints, for the behavior that actually matters? The tooling doesn't exist yet.\n\nAs the old joke goes, a spec precise enough to generate code is just called code. But there has to be something in between prose and implementation. And yes, I'm aware that proposing a new format makes me the 15th competing standard. But if you've found something that fills this gap, or have ideas about what it should look like, I'd love to hear about it.\n\nFeel free to reach out to share your thoughts on spec tooling. You can find me on Twitter, Bluesky or through my website.",
+    "main_content": "I truly think LLMs are changing how we write software. For me, it's been a massive productivity boost. I can ask Claude to read some piece of code and explain it to me, or make a quick PoC of something, or refactor stuff that would take me hours. But here's what I keep running into: we're still using natural language to prompt, correct, and guide LLMs. Vague instructions produce vague code. The bottleneck isn't writing code anymore, it's knowing what to write in the first place. What changed is that LLMs can actually read specifications now. And suddenly, specs aren't dead documents anymore. They're instructions that can be executed. I've found two modes that actually work: Generation and Validation. I tried spec-kit a while ago and found it pretty useful. What it does well is guide you through a structured chain of prompts. The generated code was actually good, because spec-kit forced me to build the right context first. Here's where I hit a wall though. English-based specs work great for user stories and acceptance criteria, but for algorithms and system behavior? Natural language gets ambiguous really fast. I started looking at formal methods. TLA+ is the classic choice, but the notation felt like another language to maintain. Then a friend suggested Fizzbee. It's based on Starlark, a Python dialect. Model checking without the TLA+ notation. Fizzbee is great for what it does. For algorithms and concurrency, model checking feels like the Rust compiler but for higher-level design. But most software isn't distributed algorithms. Most of what we build is about storing data in databases, sending messages to queues, calling other services, transforming inputs into outputs. I keep thinking about what this tool would need to be. It should be compact, short enough to fit in an LLM's context window without eating thousands of tokens. It should work at both levels: service interactions and function behavior. It should be the common language that both the team and the LLM can read, write, and reason about. Most importantly, it should be verifiable. Not just documentation that sits there, but something that can actually validate whether an implementation matches what we said it would do. The feedback loop that specs never had.",
     "with": [
-      "I truly think LLMs are changing how we write software.",
-      "What changed is that LLMs can actually read specifications now.",
-      "I think that's the trick. Context is everything. Build the right context, and the LLM produces the right code.",
-      "But most software isn't distributed algorithms. Most of what we build is about storing data in databases, sending messages to queues, calling other services, transforming inputs into outputs.",
-      "OpenAPI gets close for HTTP APIs. You can validate requests, generate clients, catch breaking changes. But for the rest? For business logic, for service contracts that aren't just endpoints, for the behavior that actually matters? The tooling doesn't exist yet."
+      "I truly think LLMs are changing how we write software. For me, it's been a massive productivity boost.",
+      "But here's what I keep running into: we're still using natural language to prompt, correct, and guide LLMs.",
+      "What changed is that LLMs can actually read specifications now. And suddenly, specs aren't dead documents anymore.",
+      "I tried spec-kit a while ago and found it pretty useful. What it does well is guide you through a structured chain of prompts.",
+      "Most importantly, it should be verifiable. Not just documentation that sits there, but something that can actually validate whether an implementation matches what said it would do."
     ],
     "without": [
-      "Pierre Zemb's Blog",
-      "Home Blog Tags Talks Podcasts Contact",
-      "Table of contents",
-      "Tags: #software-engineering #llm #specifications #formal-methods #model-checking #fizzbee",
-      "© 2025 Pierre Zemb"
-    ]
+      "Navigation item: Home, Blog, Tags, Talks, Podcasts, Contact",
+      "Copyright footer © 2025 Pierre Zemb",
+      "Social media links: GitHub, Twitter, Bluesky, RSS",
+      "RSS and Atom feed links in head",
+      "Table of contents navigation structure"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:43:33.669549"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:01:16.523995"
 }

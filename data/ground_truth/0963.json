@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://soukstudio.com/pricing",
+  "file_id": "0963",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "pricing",
+        "yoga",
+        "membership",
+        "subscription"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Pricing: yoga classes in New York from $18 - SOUK Studio",
+    "author": null,
+    "publish_date": null,
+    "main_content": "SOUK Studio offers yoga classes in New York City with pricing starting from $18. All-Access Membership provides unlimited in-person and livestream classes for $280/month or $2,958/year. In-Person only options include drop-in classes at $30, 4-packs for $112, 8-packs for $208, and 20-packs for $500. A Tourist Pack is available at $150 for one week unlimited. Livestream only plans start at $98/month or $998/year, with single class log-in at $20. Gift cards and WellHub mat rentals at $3 are also available. Membership includes guest passes, discounts on workshops and merch, and free towels. Classes can be cancelled up to 12 hours before start time.",
+    "with": [
+      "All-Access Membership provides unlimited in-person and livestream classes for $280/month or $2,958/year.",
+      "In-Person only options include drop-in classes at $30, 4-packs for $112, 8-packs for $208, and 20-packs for $500.",
+      "Livestream only plans start at $98/month or $998/year, with single class log-in at $20.",
+      "Membership includes guest passes, discounts on workshops and merch, and free towels.",
+      "Classes can be cancelled up to 12 hours before start time."
+    ],
+    "without": [
+      "Subscribe to newsletter form",
+      "Copyright 2024 SOUK",
+      "Privacy Policy link",
+      "Main navigation menu items",
+      "Footer social media links"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:24:20.293972"
+}

@@ -1,0 +1,69 @@
+{
+  "schema_version": "2.0",
+  "url": "https://jessicatalisman.substack.com/p/process-knowledge-management-part-63a",
+  "file_id": "2676",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "knowledge-management",
+        "ontology",
+        "industrial-processes",
+        "AI"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Process Knowledge Management, Part IV",
+    "author": "Jessica Talisman",
+    "publish_date": "2025-12-19",
+    "main_content": "The first three essays in this series established the theoretical and methodological foundations for process knowledge management. This final essay moves from theory to practice, examining the Procedural Knowledge Ontology (PKO), developed by researchers at Cefriel in collaboration with industrial partners including Beko Europe, Fagor Automation, and Siemens. PKO addresses the challenge of capturing both tacit and explicit process knowledge in industrial settings. The ontology provides a formal framework for representing procedures and their executions, distinguishing between abstract procedure specifications and concrete instances of those procedures being performed. Built on requirements collected from three heterogeneous industrial scenarios—safety procedures in manufacturing plants, CNC machine commissioning processes, and mixed human-machine activities in grid management—PKO offers a shared, interoperable representation that supports the governance of procedural knowledge throughout its entire life cycle. The implementation at Beko Europe demonstrates how PKO transforms Lockout/Tagout (LOTO) safety procedures from tacit knowledge held by experienced workers into explicit, structured, and computationally accessible representations. A web-based elicitation tool guides domain experts through documenting procedures, while a chatbot powered by knowledge graph-empowered Retrieval Augmented Generation provides industrial operators with quick access to relevant procedural information. Research across industrial knowledge graph deployments provides compelling evidence for the approach's effectiveness, with Bosch demonstrating a 70% improvement in data analysis efficiency. Organizations that invest in procedural knowledge infrastructure will find themselves better positioned for an AI-augmented future, as ontologies like PKO enable the rich, structured, semantically grounded knowledge that effective AI systems require.",
+    "with": [
+      "PKO addresses this challenge by providing a formal ontology for explicitly modeling and representing procedures, their executions, and related resources.",
+      "The ontology distinguishes between procedures (abstract specifications of how to accomplish something) and executions (concrete instances of those procedures being performed).",
+      "A chatbot has been implemented that uses the PKO-based knowledge graph to answer questions about procedures, providing industrial operators with quick access to relevant procedural information.",
+      "Organizations that invest in procedural knowledge infrastructure will find themselves better positioned for an AI-augmented future.",
+      "The Procedural Knowledge Ontology (PKO) is defined to support the holistic governance of procedural knowledge in its entire life cycle, from elicitation to management, from access to exploitation of explicit PK."
+    ],
+    "without": [
+      "Subscribe to newsletter",
+      "Copyright 2025 Intentional Arrangement",
+      "Type your email...",
+      "Sign in",
+      "Share"
+    ],
+    "images": {
+      "total_in_content": 5,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!M45C!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3bb03d62-1bed-47b1-b6ba-1ea227e6d077_13644x16384.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3bb03d62-1bed-47b1-b6ba-1ea227e6d077_13644x16384.png",
+          "alt": null,
+          "caption": "PKO Ontology",
+          "is_hero": true
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!5Div!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0208bf68-bfbf-45b8-b3a2-764460db8457_3208x1772.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0208bf68-bfbf-45b8-b3a2-764460db8457_3208x1772.png",
+          "alt": null,
+          "caption": "PKO Concept Model",
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!-tja!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5458d8fc-c9a1-478a-899a-5d9874dca80d_450x447.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5458d8fc-c9a1-478a-899a-5d9874dca80d_450x447.png",
+          "alt": null,
+          "caption": "PKO LICENSE: Creative Commons Attribution",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:10:09.709587"
+}

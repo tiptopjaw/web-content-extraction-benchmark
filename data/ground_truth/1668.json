@@ -1,37 +1,118 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.carreducker.com/product-category/shoemaking-classes/shoe-making-videos/",
   "file_id": "1668",
-  "downloaded_at": "2025-12-20T21:47:03.949278",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "ecommerce",
+        "woocommerce",
+        "online-courses",
+        "shoe-making",
+        "video-tutorials"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Online Courses & Tutorials",
+    "title": "Online Shoe Making Courses | learn to make shoes | Carreducker",
     "author": null,
     "publish_date": null,
-    "main_content": "Online Courses & Tutorials\n\nOnline handsewn shoemaking videos and tutorials.\nStudy, practice & build a strong foundation in handsewn shoe making\n\n“This is so exciting!!! I’m enjoying your shoe making videos! Progress is being made!!! It’s working! This is truly a game changer, learning these techniques for construction…this is a far superior system. Even though it takes longer. Totally worth the effort.” Gitty Duncan\n\nShowing all 16 results\n\nTutorials (6)\nHandsewn Shoe Making Video – Taking Foot Measurements – Download\n£150.00\nHandsewn Shoe Making Videos – 6 Modules to download\n£450.00\nHandsewn Shoe Making Videos – Module 1: Preparation – Download\n£85.00\nHandsewn Shoe Making Videos – Module 2: Hand Lasting – Download\n£85.00\nHandsewn Shoe Making Videos – Module 3: Welting Download\n£85.00\nHandsewn Shoe Making Videos – Module 4: Soling – Download\n£85.00\nHandsewn Shoe Making Videos – Module 5: Heel Building – Download\n£85.00\nHandsewn Shoe Making Videos – Module 6: Finishing – Parts I, II & III\n£85.00\nShoe Pattern Making Course – Oxford & Brogue\n£545.00\nShoe Pattern Making Video & Course – Derby & Derby Boot\n£799.00\nZOOM Shoe Making Support\n£40.00\nDerby Shoe Pattern Making Video – Module 1 – Designing on the Last\n£99.00\nDerby Shoe Pattern Making Video – Module 2 – The Standard\n£99.00\nDerby Shoe Pattern Making Video – Module 3 – The Pattern Pieces\n£99.00\nDerby Shoe Pattern Making Video – Modules 1, 2 & 3\n£275.00\nPattern Making for Shoes – The Loafer – 1-to-1 training\n£525.00\n\nShowing all 16 results",
+    "main_content": "Online Courses & Tutorials. Online handsewn shoemaking videos and tutorials. Study, practice & build a strong foundation in handsewn shoe making. Testimonial from Gitty Duncan: \"This is so exciting!!! I'm enjoying your shoe making videos! Progress is being made!!! It's working! This is truly a game changer, learning these techniques for construction...this is a far superior system. Even though it takes longer. Totally worth the effort.\" Products available: Tutorials category (6 items); Handsewn Shoe Making Video – Taking Foot Measurements – Download (£150); Handsewn Shoe Making Videos – 6 Modules to download (£450); Module 1: Preparation (£85); Module 2: Hand Lasting (£85); Module 3: Welting (£85); Module 4: Soling (£85); Module 5: Heel Building (£85); Module 6: Finishing – Parts I, II & III (£85); Shoe Pattern Making Course – Oxford & Brogue (£545); Shoe Pattern Making Video & Course – Derby & Derby Boot (£799); ZOOM Shoe Making Support (£40); Derby Shoe Pattern Making Video – Module 1: Designing on the Last (£99); Module 2: The Standard (£99); Module 3: The Pattern Pieces (£99); Modules 1, 2 & 3 (£275); Pattern Making for Shoes – The Loafer – 1-to-1 training (£525).",
     "with": [
       "Online handsewn shoemaking videos and tutorials.",
-      "Study, practice & build a strong foundation in handsewn shoe making",
-      "“This is so exciting!!! I’m enjoying your shoe making videos! Progress is being made!!! It’s working! This is truly a game changer, learning these techniques for construction…this is a far superior system. Even though it takes longer. Totally worth the effort.” Gitty Duncan",
-      "Showing all 16 results",
-      "Handsewn Shoe Making Videos – 6 Modules to download £450.00"
+      "Study, practice & build a strong foundation in handsewn shoe making.",
+      "Handsewn Shoe Making Video – Taking Foot Measurements – Download",
+      "Shoe Pattern Making Course – Oxford & Brogue",
+      "Derby Shoe Pattern Making Video – Module 1 – Designing on the Last"
     ],
     "without": [
       "Skip to navigation",
       "Login / Register",
-      "Search",
-      "Bespoke",
-      "Classes",
-      "Supplies",
-      "Accessories",
-      "NEWS",
-      "Heritage",
-      "Interiors",
-      "Home / Shop / Classes / Online Courses & Tutorials",
-      "Add to Wishlist",
-      "Registered Address: Carréducker London Limited, Unit 1.20 OXO Tower Wharf, Bargehouse Street, London SE1 9PH",
-      "Studio: 020 3051 2285 | [email protected] | VAT No. 971750110 | Company No: 9462657",
-      "Terms & Conditions | Web Services By Colour Rich"
-    ]
+      "View your shopping basket",
+      "Skip to content",
+      "Add to Wishlist"
+    ],
+    "images": {
+      "total_in_content": 23,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://www.carreducker.com/wp-content/uploads/2020/06/Shoe-Making-stills013-324x324.jpg",
+          "filename": "Shoe-Making-stills013-324x324.jpg",
+          "alt": "Tutorials",
+          "caption": "Tutorials",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.carreducker.com/wp-content/uploads/2023/06/Carreducker-taking-bespoke-measures-4x3-photographed-by-Onur-Pinar-324x324.jpg",
+          "filename": "Carreducker-taking-bespoke-measures-4x3-photographed-by-Onur-Pinar-324x324.jpg",
+          "alt": "Carreducker bespoke shoe service",
+          "caption": "Carreducker bespoke shoe service - taking measurements",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.carreducker.com/wp-content/uploads/2020/11/Carreducker-student-shoes-finished_edited-1-324x324.jpg",
+          "filename": "Carreducker-student-shoes-finished_edited-1-324x324.jpg",
+          "alt": null,
+          "caption": "Carreducker student shoes finished",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.carreducker.com/wp-content/uploads/2020/06/Shoe-Making-stills006-324x324.jpg",
+          "filename": "Shoe-Making-stills006-324x324.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.carreducker.com/wp-content/uploads/2020/06/Shoe-Making-stills011-324x324.jpg",
+          "filename": "Shoe-Making-stills011-324x324.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.carreducker.com/wp-content/uploads/2020/06/Shoe-Making-stills014-324x324.jpg",
+          "filename": "Shoe-Making-stills014-324x324.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.carreducker.com/wp-content/uploads/2020/06/Shoe-Making-stills017-324x324.jpg",
+          "filename": "Shoe-Making-stills017-324x324.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.carreducker.com/wp-content/uploads/2020/06/Shoe-Making-stills020-324x324.jpg",
+          "filename": "Shoe-Making-stills020-324x324.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.carreducker.com/wp-content/uploads/2020/06/Shoe-Making-stills037-324x324.jpg",
+          "filename": "Shoe-Making-stills037-324x324.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.carreducker.com/wp-content/uploads/2021/10/Oxford-shoes-2-scaled-e1634564483317-324x324.jpg",
+          "filename": "Oxford-shoes-2-scaled-e1634564483317-324x324.jpg",
+          "alt": "Carreducker bespoke Oxford shoes",
+          "caption": "Carreducker bespoke Oxford shoes",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:47:03.949286"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:42:56.389308"
 }

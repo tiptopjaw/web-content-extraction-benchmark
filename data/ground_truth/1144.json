@@ -1,0 +1,68 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.fullstack.com/labs/resources/blog/software-development-price-guide-hourly-rate-comparison",
+  "file_id": "1144",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "pricing-guide",
+        "software-development",
+        "business"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "2025 Software Development Price Guide & Hourly Rate | FullStack Blog",
+    "author": "David Jackson",
+    "publish_date": "2025-10-01",
+    "main_content": "To stay competitive in today's marketplace, companies of all sizes are investing in custom software solutions to increase efficiency and productivity, launch new business units, and drive innovation. But how much does custom software cost to develop, and can your company afford it? Should you hire a freelancer or a small, local consultancy? Or maybe you should take the 'safe' route and hire one of the giants. Understanding software development hourly rates in 2025 is crucial for budgeting software projects effectively. Enterprise-class consultancies are the largest and most established software development firms, often working with Fortune 500 companies, major government entities, and multinational corporations, with 2025 software development hourly rates of $400+ per hour. Mid-market consultancies provide the best balance between cost and quality, making them a strong choice for small-to-medium businesses and startups looking for scalable, high-performance software solutions, with hourly rates of $120 to $250 per hour. Offshore development rates can range from $27 to $55 an hour, while Nearshore software development tends to be slightly more expensive, with rates ranging from $44 to $82 an hour. The software development industry continues to evolve, with new trends shaping pricing, hiring, and project execution, including AI and automation in development, the rise of low-code/no-code solutions, cloud-native development, cybersecurity costs, and nearshoring growth. AI-powered tools are assisting developers, automating repetitive coding tasks, and improving productivity, allowing businesses to leverage AI-driven development environments to reduce costs and enhance efficiency.",
+    "with": [
+      "To stay competitive in today's marketplace, companies of all sizes are investing in custom software solutions to increase efficiency and productivity, launch new business units, and drive innovation.",
+      "Enterprise-class consultancies are the largest and most established software development firms, often working with Fortune 500 companies, major government entities, and multinational corporations, with 2025 software development hourly rates of $400+ per hour.",
+      "Mid-market consultancies provide the best balance between cost and quality, making them a strong choice for small-to-medium businesses and startups looking for scalable, high-performance software solutions, with hourly rates of $120 to $250 per hour.",
+      "Offshore development rates can range from $27 to $55 an hour, while Nearshore software development tends to be slightly more expensive, with rates ranging from $44 to $82 an hour.",
+      "The software development industry continues to evolve, with new trends shaping pricing, hiring, and project execution, including AI and automation in development, the rise of low-code/no-code solutions, cloud-native development, cybersecurity costs, and nearshoring growth."
+    ],
+    "without": [
+      "Enjoyed the article? Get new content delivered to your inbox.",
+      "Subscribe below and stay updated with the latest developer guides and industry insights.",
+      "FullStack Labs",
+      "Cookies Consent",
+      "Databricks Consulting Partner"
+    ],
+    "images": {
+      "total_in_content": 11,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://cdn.prod.website-files.com/63ea859d3ade034a987e65c8/6861a01451a916cdb1617aad_soft-dev-guide.webp",
+          "filename": "6861a01451a916cdb1617aad_soft-dev-guide.webp",
+          "alt": null,
+          "caption": "Software development guide featuring developers at work",
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/63ea859d3ade034a987e65c8/6861a02dff9273e1b519b9cb_global%20teams%20outsourcing.webp",
+          "filename": "6861a02dff9273e1b519b9cb_global%20teams%20outsourcing.webp",
+          "alt": "A split image with a female software developer in New York on the left, and a male software developer in Brazil on the right. They represent a comparison of software development hourly rates in 2025 by region.",
+          "caption": "A split image with a female software developer in New York on the left, and a male software developer in Brazil on the right. They represent a comparison of software development hourly rates in 2025 by region.",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/63ea859d3ade034a987e65c8/6861a05369081ac9a0d76967_aishakesun.webp",
+          "filename": "6861a05369081ac9a0d76967_aishakesun.webp",
+          "alt": "A CEO shakes hands with a software developer as they discuss market salary trends for 2025.",
+          "caption": "A CEO shakes hands with a software developer as they discuss market salary trends for 2025.",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:46:13.230446"
+}

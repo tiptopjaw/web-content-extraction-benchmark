@@ -1,0 +1,53 @@
+{
+  "schema_version": "2.0",
+  "url": "https://nutritionfacts.org/audio/keeping-it-clean-and-healthy/",
+  "file_id": "1873",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "health",
+        "podcast",
+        "household-safety"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Keeping It Clean and Healthy",
+    "author": null,
+    "publish_date": "2021-09-09",
+    "main_content": "Everybody does it. Or should. On a regular basis. But what's the best and healthiest way to clean? This episode features audio from three videos about natural cleaning products, the effects of cleaning products on lung function, and household products with scents. Household cleaning products can be hazardous, landing hundreds of thousands of children in U.S. emergency rooms. The product most-commonly associated with injury was bleach, which can be toxic even if used as directed. Those with asthma who work with cleaning products day in and day out can suffer adverse respiratory effects, a worsening of symptoms, decline in lung function, and inflamed airways. Even cleaning workers without asthma can be affected, with substantial decrease in lung function below so-called acceptable exposure levels. Bleach use was significantly associated with nearly five times the odds of non-allergic adult-onset asthma, as well as ongoing lower respiratory symptoms such as chronic cough. More than three-quarters of population studies have found increased risk of asthma or nasal inflammation from cleaning products. Natural, environmentally friendly cleaning products may offer a safer alternative. Research tested bleach versus a natural disinfectant based on thymol from thyme essential oil versus a DIY recipe of half club soda, half white vinegar with tea tree oil. The bleach killed 99.9999% of germs, and the expensive natural stuff worked just as well, but the DIY mix allowed a few percent of staph bugs to thrive. The environmentally preferable product is an effective alternative to conventional bleach, and even better since bleach is a respiratory irritant and corrosive. Common household cleaning spray use accounts for as many as one in seven adult asthma cases. More than one third of Americans suffer adverse health effects such as respiratory difficulties and migraine headaches from exposure to fragranced products. The CDC prohibits scented or fragranced products in its buildings, not only smoking. Even products advertised as green, natural, or organic emitted as many hazardous chemicals as standard ones. When it comes to consumer products, the best smell is no smell.",
+    "with": [
+      "Household cleaning products can be hazardous, landing hundreds of thousands of children in U.S. emergency rooms.",
+      "Bleach use was significantly associated with nearly five times the odds of non-allergic adult-onset asthma.",
+      "The environmentally preferable product is an effective alternative to conventional bleach.",
+      "Common household cleaning spray use accounts for as many as one in seven adult asthma cases.",
+      "When it comes to consumer products, the best smell is no smell."
+    ],
+    "without": [
+      "Subscribe to Podcast",
+      "Previous Podcast",
+      "Next Podcast",
+      "Privacy Policy",
+      "Donate"
+    ],
+    "images": {
+      "total_in_content": 9,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://nutritionfacts.org/app/uploads/2021/08/248-960x960.png",
+          "filename": "248-960x960.png",
+          "alt": "Keeping It Clean and Healthy",
+          "caption": "Keeping It Clean and Healthy",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:46:42.447671"
+}

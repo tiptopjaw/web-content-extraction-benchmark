@@ -1,26 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://dentallifeline.org/our-state-programs/",
   "file_id": "0877",
-  "downloaded_at": "2025-12-20T21:35:26.799333",
+  "_internal": {
+    "page_type": {
+      "primary": "directory",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "nonprofit",
+        "healthcare",
+        "state-programs",
+        "directory"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Our Donated Dental Services Across The States",
+    "title": "Dental Care For Qualified Applicants Nationwide | DLN",
     "author": null,
     "publish_date": null,
-    "main_content": "Dental Lifeline Network provides comprehensive dental care to vulnerable adults across the United States. These patients receive this care through the generosity of a network of volunteer dentists and laboratories. Get to know more about us! For information on how to apply or to find out if you qualify for donated dental care, click on your state on the map or list below. YOU MAY VISIT THE FREQUENTLY ASKED QUESTIONS SECTION FOR FURTHER INFORMATION. Help Restore Smiles Through Volunteering: Make a difference by volunteering your dental expertise to help patients in need. Whether you're a general dentist, specialist or lab, your skills can change lives through our Donated Dental Services (DDS) program. Volunteer Today. Support Dental Lifeline Network: Honor loved ones, become a corporate sponsor, or give monthly to make a lasting impact. You can even celebrate special occasions by hosting an online campaign to help patients in need. Give.",
+    "main_content": "Dental Lifeline Network provides comprehensive dental care to vulnerable adults across the United States. These patients receive this care through the generosity of a network of volunteer dentists and laboratories. For information on how to apply or to find out if you qualify for donated dental care, click on your state on the map or list below. The page provides access to state programs across all 50 states plus Washington DC, including Alabama, Alaska, Arizona, Arkansas, California, Colorado, Connecticut, Delaware, Florida, Georgia, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, and Wyoming. Visitors may also visit the FAQ section for further information. Help Restore Smiles Through Volunteering by donating your dental expertise to help patients in need through the Donated Dental Services (DDS) program. Support Dental Lifeline Network by honoring loved ones, becoming a corporate sponsor, or giving monthly to make a lasting impact.",
     "with": [
       "Dental Lifeline Network provides comprehensive dental care to vulnerable adults across the United States.",
+      "These patients receive this care through the generosity of a network of volunteer dentists and laboratories.",
       "For information on how to apply or to find out if you qualify for donated dental care, click on your state on the map or list below.",
-      "Make a difference by volunteering your dental expertise to help patients in need.",
-      "Honor loved ones, become a corporate sponsor, or give monthly to make a lasting impact."
+      "Help Restore Smiles Through Volunteering by donating your dental expertise to help patients in need through the Donated Dental Services (DDS) program.",
+      "Support Dental Lifeline Network by honoring loved ones, becoming a corporate sponsor, or giving monthly to make a lasting impact."
     ],
     "without": [
       "Skip to content",
-      "About Us Volunteer Apply for help State Programs Give Donate Today",
-      "Dental Lifeline Network is a 501(c)(3) nonprofit registered in the US under EIN: 84-6129064 © All rights reserved.",
-      "We are using cookies to give you the best experience on our website.",
-      "Search Here Search Now!"
-    ]
+      "Donate Today",
+      "© All rights reserved",
+      "Privacy Policy",
+      "Follow us!"
+    ],
+    "images": {
+      "total_in_content": 6,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:35:26.799339"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:52:10.865354"
 }

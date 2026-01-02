@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.fptransitions.com/removed-ma-opportunity",
+  "file_id": "0775",
+  "_internal": {
+    "page_type": {
+      "primary": "directory",
+      "confidence": "medium",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "financial-services",
+        "M&A",
+        "business-listings"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "M&A Opportunities - Removed | Growth Strategies for Financial Advisors | FP Transitions",
+    "author": null,
+    "publish_date": null,
+    "main_content": "This practice is no longer available. Rest assured, there are many others on the market. Feel free to explore our other opportunities. Explore more M&A Opportunities. Test Your Acquisition Readiness.",
+    "with": [
+      "This practice is no longer available.",
+      "Rest assured, there are many others on the market.",
+      "Feel free to explore our other opportunities.",
+      "Explore the list of financial services practices currently listed on the FP Transitions open market.",
+      "You must log in to your member dashboard to inquire."
+    ],
+    "without": [
+      "Skip to content",
+      "Join Our Email List",
+      "Get more #FPInsights delivered straight to your inbox.",
+      "© FP Transitions, LLC 2025",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 6,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://www.fptransitions.com/hs-fs/hubfs/Listings%20LP%20Icons/FormOfOwnership.webp?width=350&height=350&name=FormOfOwnership.webp",
+          "filename": "FormOfOwnership.webp",
+          "alt": "Explore more M&A Opportunities",
+          "caption": "Explore more M&A Opportunities",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.fptransitions.com/hs-fs/hubfs/Listings%20LP%20Icons/BecomeAMember.webp?width=350&height=350&name=BecomeAMember.webp",
+          "filename": "BecomeAMember.webp",
+          "alt": "Test Your Acquisition Readiness",
+          "caption": "Test Your Acquisition Readiness",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:18:12.209382"
+}

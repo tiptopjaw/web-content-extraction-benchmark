@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.reviewed.com/dishwashers/features/best-year-2025-appliances",
+  "file_id": "0104",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "appliances",
+        "buying-guide",
+        "awards",
+        "reviews"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "These are the best major appliances of 2025",
+    "author": "Danielle DeSiato, Donna Enzmann, and Natalie Nguyen",
+    "publish_date": null,
+    "main_content": "Every year, we test and review the latest in large appliance releases and innovations, and we're here to tell you what has topped our lists most recently. Whether you're looking for a new refrigerator, dishwasher, range, washer, or dryer, we have a recommendation that stands out.\n\nLG Home Appliances: This year, we're pleased to award LG as the overall most reliable appliance brand. Factoring in our years of reviewing appliances, reader feedback, user reviews, and the opinions of our peers in the appliance industry, we see LG's name consistently rising toward the top. While there are some niche brands whose reliability excels in one or two areas, it is noteworthy that LG is a major player in every appliance category—refrigerators, dishwashers, ovens, laundry, and microwaves—and scores well on reliability across the board.\n\nBosch 800 Series SHP78CM5N: The Bosch 800 Series dishwasher delivers high-tech cleaning performance and unparalleled customization, making it the best dishwasher we've tested. From the PowerControl spray arm to Bosch's proprietary CrystalDry technology, this dishwasher will clean and dry your dishes better than most dishwashers on the market—and it will do it all in near silence.\n\nHisense HRM260N6TSE Smart Refrigerator: If you're shopping for a top-quality French-door refrigerator and want to spend less than $2,000, the Lowe's-exclusive Hisense HRM260N6TSE is one of the best options available. There aren't many other models we've tested that offer consistent temperatures, lots of usable storage, LED lighting, and innovative features at this price point.\n\nSamsung Bespoke NSI6DB990012AA Induction Range: This eye-catching, sleek Samsung Bespoke Induction range isn't just a pretty face. It aced every test we threw at it: boiling water with impressive speed (especially the front-right burner, which has the most wattage), maintaining steady oven temperatures, and baking multi-rack batches evenly.\n\nGE Profile PTW800BPWRS: With a 5.4-cubic-foot stainless-steel drum, the GE Profile PTW800BPWRS has all the right features to please both traditionalists and new-school laundry doers. We chose the GE Profile PTW800BPWRS as the best top-load washing machine because its Normal and Delicates cycles effectively removed a significant number of our testing stains.\n\nElectrolux ELFE7637AT: The Electrolux ELFE7637AT is a feature-packed powerhouse dryer that aces every test we put it through. This energy-efficient dryer completed a test laundry load during its standard 90-minute cycle while using lower heat than other brands to be gentler on clothes while drying.\n\nGE Profile PFQ97HSPVDS Ventless All-In-One: Get the best of both worlds with the GE PFQ97HSPVDS, the best combination washer-dryer we've tested. A Microban-coated drum keeps odor and mold away, and the heat pump technology that dries the clothes in the same drum makes it incredibly energy efficient.\n\nSamsung Bespoke WH46DBH500EVA3: The Samsung Bespoke WH46DBH500EVA3 is a laundry center for consumers who want top-of-the-line washing performance with the space-saving footprint of a stacked combo. In our testing, the WH46DBH500EVA3 was outstanding at removing stains, especially when using the AI OptiWash cycle that automatically adjusts the wash to account for soil level and fabric type.\n\nElectrolux ELFW7637AT: When it comes to all-around cleaning excellence, the Electrolux ELFW7637AT is the best. It excels at removing stains (especially sweat and protein), thanks to a SmartBoost feature that pre-mixes water and detergent for maximum cleaning power, as well as an internal water heater that boosts the water temperature well above the 120°F most home heaters are set to.",
+    "with": [
+      "Every year, we test and review the latest in large appliance releases and innovations, and we're here to tell you what has topped our lists most recently.",
+      "This year, we're pleased to award LG as the overall most reliable appliance brand.",
+      "The Bosch 800 Series dishwasher delivers high-tech cleaning performance and unparalleled customization, making it the best dishwasher we've tested.",
+      "If you're shopping for a top-quality French-door refrigerator and want to spend less than $2,000, the Lowe's-exclusive Hisense HRM260N6TSE is one of the best options available.",
+      "Get the best of both worlds with the GE PFQ97HSPVDS, the best combination washer-dryer we've tested."
+    ],
+    "without": [
+      "Skip to main content",
+      "Sign up for our newsletter",
+      "Products are chosen independently by our editors",
+      "Prices were accurate at the time this article was published",
+      "Follow Reviewed on Facebook"
+    ],
+    "images": {
+      "total_in_content": 29,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://reviewed-com-res.cloudinary.com/image/fetch/s--ltP7AL3H--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,h_210,q_auto,w_320/https://reviewed-production.s3.amazonaws.com/1442607307000/Bosch-SHE8PT55UC-Hero1.jpg",
+          "filename": "Bosch-SHE8PT55UC-Hero1.jpg",
+          "alt": null,
+          "caption": "Credit: Reviewed / Electrolux / Hisense",
+          "is_hero": true
+        },
+        {
+          "src": "https://reviewed-com-res.cloudinary.com/image/fetch/s--7TYtT8Bg--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_972/https://reviewed-production.s3.amazonaws.com/1747764247093/appliances-hero.png",
+          "filename": "appliances-hero.png",
+          "alt": null,
+          "caption": "Credit: LG / Reviewed",
+          "is_hero": false
+        },
+        {
+          "src": "https://reviewed-com-res.cloudinary.com/image/fetch/s--n-LTypKx--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_792/https://reviewed-production.s3.amazonaws.com/attachment/d4954020305143b6/Untitled_design-9.png",
+          "filename": "Untitled_design-9.png",
+          "alt": null,
+          "caption": "Credit: LG / Reviewed",
+          "is_hero": false
+        },
+        {
+          "src": "https://reviewed-com-res.cloudinary.com/image/fetch/s--8nDusPFC--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_792/https://reviewed-production.s3.amazonaws.com/attachment/a8660c6d62654ce8/Hero-20230721_BoschSHP78CM5NHeroV1_Renzi.PNG",
+          "filename": "Hero-20230721_BoschSHP78CM5NHeroV1_Renzi.PNG",
+          "alt": "A person holding a smart phone next to the Bosch SHP78CM5N 800 Series in the color silver.",
+          "caption": "Credit: Reviewed / Timothy Renzi",
+          "is_hero": false
+        },
+        {
+          "src": "https://reviewed-com-res.cloudinary.com/image/fetch/s--5dpgTmAh--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_792/https://reviewed-production.s3.amazonaws.com/attachment/3997ca1966cb4c61/Untitled_design-8.png",
+          "filename": "Untitled_design-8.png",
+          "alt": null,
+          "caption": "Credit: Hisense",
+          "is_hero": false
+        },
+        {
+          "src": "https://reviewed-com-res.cloudinary.com/image/fetch/s--4xQjurUV--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_792/https://reviewed-production.s3.amazonaws.com/attachment/f7c3f06420194a55/Inline-20240809_SamsungNSI6DB990012HeroV4_Renzi.PNG",
+          "filename": "Inline-20240809_SamsungNSI6DB990012HeroV4_Renzi.PNG",
+          "alt": "wide shot of the Samsung Bespoke NSI6DB990012AA Induction Range from the front with pots and pans ontop",
+          "caption": "Credit: Reviewed / Timothy Renzi",
+          "is_hero": false
+        },
+        {
+          "src": "https://reviewed-com-res.cloudinary.com/image/fetch/s--LkQXW9wg--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_792/https://reviewed-production.s3.amazonaws.com/attachment/9f9f54c0fd93491b/PTW800BPWRS.png",
+          "filename": "PTW800BPWRS.png",
+          "alt": "A dark blue washing machine sits on a white sudsy background",
+          "caption": "Credit: Reviewed / GE Profile",
+          "is_hero": false
+        },
+        {
+          "src": "https://reviewed-com-res.cloudinary.com/image/fetch/s--QTS38W9m--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_792/https://reviewed-production.s3.amazonaws.com/attachment/ae501876f58240ba/Electrolux-ELFE7637AT-vanity.jpeg",
+          "filename": "Electrolux-ELFE7637AT-vanity.jpeg",
+          "alt": "The Electrolux ELFE7637AT dryer set up in our laundry testing lab.",
+          "caption": "Credit: Reviewed / Beckett Dubay",
+          "is_hero": false
+        },
+        {
+          "src": "https://reviewed-com-res.cloudinary.com/image/fetch/s--4M3van0a--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_792/https://reviewed-production.s3.amazonaws.com/attachment/a0119476325e4a5e/ge-profile-pfq97hspvds-hero.jpg",
+          "filename": "ge-profile-pfq97hspvds-hero.jpg",
+          "alt": "The GE PFQ97HSPVDS Washer sits in a lab environment",
+          "caption": "Credit: Reviewed / Becket Dubay",
+          "is_hero": false
+        },
+        {
+          "src": "https://reviewed-com-res.cloudinary.com/image/fetch/s--1X2yOa45--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_792/https://reviewed-production.s3.amazonaws.com/attachment/c7d7cca837054895/electrolux.png",
+          "filename": "electrolux.png",
+          "alt": "A silver washing machine stands between two white ones",
+          "caption": "Credit: Reviewed / Jonathan Chan",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:55:16.147180"
+}

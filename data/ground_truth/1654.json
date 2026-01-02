@@ -1,27 +1,54 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.werentfun.net/items/silent-disco-rental-party-package/",
   "file_id": "1654",
-  "downloaded_at": "2025-12-20T22:57:00.350742",
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "rental",
+        "party-equipment",
+        "silent-disco",
+        "event-rentals"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Silent Disco Rental Miami | Wireless Headphones for Epic Events",
     "author": null,
     "publish_date": null,
-    "main_content": "Silent Disco Rental Party Package\n\n🎥 Watch the video below!\n\nSilent Disco Party Package\n\nTurn up the fun, Miami-style! Our package comes with 30 premium LED headphones and three transmitters, ready to bring the ultimate Silent Disco vibe to your event. Want to make it extra special? Add your custom branding to the headphones and make the party uniquely yours. Heads up: Staffing / DJ is not included (check out our optional accessories if you need extra hands).\n\nWhat’s a Silent Disco?\nA Silent Disco is the hottest way to throw a party in South Florida! Instead of blasting speakers, music streams directly to wireless headphones, so your guests groove while everyone else hears… nothing! It’s like your own private nightclub, and with multiple music channels, there’s something for everyone. Just imagine a room full of people dancing their hearts out in “silence” – it’s a vibe like no other!\n\nWe’re based in South Florida and know how to party the Miami way! We ship nationwide, but if you're local, ask about our full-service setup. From downtown Miami to the Palm Beaches, we’ll handle it all, so you can sit back, sip your cafecito, and enjoy your event. Let’s get the party started!",
+    "main_content": "Silent Disco Rental Party Package\n\nTurn up the fun, Miami-style! Our package comes with 30 premium LED headphones and three transmitters, ready to bring the ultimate Silent Disco vibe to your event. Want to make it extra special? Add your custom branding to the headphones and make the party uniquely yours. Heads up: Staffing / DJ is not included (check out our optional accessories if you need extra hands).\n\nWhat's a Silent Disco?\nA Silent Disco is the hottest way to throw a party in South Florida! Instead of blasting speakers, music streams directly to wireless headphones, so your guests groove while everyone else hears… nothing! It's like your own private nightclub, and with multiple music channels, there's something for everyone. Just imagine a room full of people dancing their hearts out in \"silence\" – it's a vibe like no other!\n\nWe're based in South Florida and know how to party the Miami way! We ship nationwide, but if you're local, ask about our full-service setup. From downtown Miami to the Palm Beaches, we'll handle it all, so you can sit back, sip your cafecito, and enjoy your event. Let's get the party started!",
     "with": [
-      "Silent Disco Party Package",
-      "Turn up the fun, Miami-style! Our package comes with 30 premium LED headphones and three transmitters, ready to bring the ultimate Silent Disco vibe to your event.",
-      "What’s a Silent Disco? A Silent Disco is the hottest way to throw a party in South Florida! Instead of blasting speakers, music streams directly to wireless headphones, so your guests groove while everyone else hears… nothing!",
-      "We’re based in South Florida and know how to party the Miami way! We ship nationwide, but if you're local, ask about our full-service setup.",
-      "Let’s get the party started!"
+      "Silent Disco Party Package - Turn up the fun, Miami-style! Our package comes with 30 premium LED headphones and three transmitters.",
+      "Instead of blasting speakers, music streams directly to wireless headphones, so your guests groove while everyone else hears nothing.",
+      "A Silent Disco is the hottest way to throw a party in South Florida! It's like your own private nightclub.",
+      "We're based in South Florida and know how to party the Miami way! We ship nationwide.",
+      "Add your custom branding to the headphones and make the party uniquely yours."
     ],
     "without": [
-      "Search Available Items",
-      "Home All Rentals Online Catalog Check Availability Event Types About Us Locations",
-      "Powered by Event Rental Systems",
+      "Please call to reserve this item",
       "305-985-0505",
-      "Facebook YouTube Yelp LinkedIn Instagram"
-    ]
+      "Powered by Event Rental Systems",
+      "All Rentals",
+      "About Us"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "//files.sysers.com/cp/upload/omega/items/Screenshot-2024-12-30-at-11.45.12---PM.png",
+          "filename": "Screenshot-2024-12-30-at-11.45.12---PM.png",
+          "alt": "Silent Disco Rental Party Package",
+          "caption": "Silent Disco Rental Party Package",
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:57:00.350751"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:39:46.866961"
 }

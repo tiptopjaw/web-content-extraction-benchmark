@@ -1,28 +1,83 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.verywellmind.com/how-to-practice-music-meditation-3144791",
   "file_id": "1773",
-  "downloaded_at": "2025-12-20T22:52:14.763699",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "meditation",
+        "music",
+        "mindfulness",
+        "wellness",
+        "how-to"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "How to Practice Music Meditation",
     "author": "Elizabeth Scott, PhD",
     "publish_date": "2024-01-22",
-    "main_content": "Music meditation involves focusing your attention and awareness on your breath as you meditate and listen to music. Meditation music can include relaxing music specifically created to help people get into a meditative state, but it can also include any music that you find enjoyable.\n\nAt a Glance\nMeditation is a mindfulness practice that involves focusing your attention on a particular sensation, sound, image, mantra, or other focal point. Music can be a helpful tool for bringing about a greater state of relaxation and providing a focal point as you build greater awareness. If you want to get started with music meditation, explore some of the following tips on using music as an effective meditative tool.\n\nBenefits of Music Meditation\nMusic has many wonderful benefits for stress management and overall health. It can help you calm your physiology without making a conscious effort, and that can alleviate stress in your mind. Music can also lift your mood, slow your breathing, and create other stress-inducing changes.\n\nMeditation is also one of the most popular stress management strategies for good reason—it brings short-term benefits like a calm mind and body and can build resilience toward stress over time. Practicing meditation can help:\n\nReduce cortisol levels\nImprove stress management\nIncrease self-awareness\nIncrease immunity\nBuild greater empathy\nReduce symptoms of anxiety and depression\nImprove sleep quality\n\nCombining music with meditation can deepen the positive effects and bring you greater stress relief.\n\nAs a bonus, for many people who are beginners to meditation or perfectionists, music meditation can feel simpler and more instantly relaxing than other forms of practice. It's a stress relief technique anyone can use. With regular practice, this meditation can help you to manage better whatever stress comes.\n\nEffects of Music and Meditation\nResearch on the effects of music and meditation is promising.\n\nOne study found that both meditation and listening to music had positive effects on memory and cognitive performance in adults experiencing subjective cognitive decline, which is a predictor for Alzheimer's disease.\n\nAnother study found that both meditation and music listening have beneficial effects on stress, mood, sleep, and well-being in adults with subjective cognitive decline.\n\nListening to music can also help increase dopamine in the brain, resulting in euphoria and happiness. Pairing music with meditation can help you stick with your practice and enjoy it more.\n\nTime Required\nWhile 20 minutes is a good minimum time for music medication, even one song can help reduce stress and restore energy.\n\nInstructions for Music Mediation\nHere's how you can get started with music meditation:\n\nChoose the Right Meditation Music\nChoose meditation music that can help you relax. This means finding music that you enjoy listening to—if you don’t enjoy classical music, for example, don’t choose it. You should also look for music that has a slower tempo, and preferably without lyrics, which can be distracting and can engage your conscious mind—the part of your mind that we hope to slow down.\n\nGet Comfortable\nGet into a comfortable position and relax. Many people think they need to sit with their legs crossed a certain way or use a meditation cushion, but really, whatever position you feel is comfortable is the position you should try.\n\nSome people avoid lying down because they fall asleep if they're tired; you can experiment and decide what's right for you.\n\nRelax and Breathe\nOnce you've found your position:\n\nClose your eyes\nRelax your muscles\nBreathe through your diaphragm\nLet your shoulders, your belly, and even the muscles in your face relax\n\nBreathe in deeply through your nose, gently expanding your belly rather than your chest, then exhale through your mouth.\n\nStay Focused on the Music\nIf you find yourself thinking about other things (or even thinking thoughts about the music), gently redirect your attention to the present moment, the sound of the music, and the feelings in your body that the music evokes. Try to really feel the music.\n\nSet a Timer\nContinue this practice for several minutes, until your time runs out. As thoughts come into your head, gently let them go and redirect your attention to the sound of the music, the present moment, and the physical sensations you feel.\n\nThe goal of this practice is to quiet your inner voice and just 'be.' So just 'be' with the music and fully immerse yourself, and you’ll feel more relaxed fairly quickly.\n\nTips for Practicing Music Meditation\nThe good news is that meditation is something you can start easily. The key is to start small—a few minutes each day—and then keep working on your skills. Research has shown that meditating for as little as five to 10 minutes each day can be beneficial. Consistency is key, so try to set aside a little time each day to practice.\n\nYou may want to start out with just a few songs and work your way up to longer practice.\n\nTry Instrumental Music\nIf you find the music brings lots of thoughts, memories, and internal dialogue, switch to a different type of music. Instrumental music can come in many forms, including classical, jazz, new age, and more, and it can be less distracting than other types of music.\n\nCreate a Meditation Playlist\nCreate a playlist specifically for your meditation session and match the playtime to the desired length of your meditation session. You can time your practice with the number of songs you choose so you don’t have to worry if you are taking more time than you have.\n\nNotice and Redirect Thoughts Without Judgment\nIf you find yourself 'thinking too much,' don’t beat yourself up over it; this is natural for those beginning meditation practice. Instead, congratulate yourself on noticing the internal dialogue and redirecting your attention to the present moment.\n\nTakeaway\nMusic can be a great tool for focusing your awareness and attention during meditation. Both music and meditation have powerful mental health benefits on their own, so combining them may help maximize their effects. If you are interested in trying this approach to meditation, start by finding relaxing music you enjoy and then set aside about 15 to 20 minutes each day to practice.",
+    "main_content": "Music meditation involves focusing your attention and awareness on your breath as you meditate and listen to music. Meditation music can include relaxing music specifically created to help people get into a meditative state, but it can also include any music that you find enjoyable.\n\nMeditation is a mindfulness practice that involves focusing your attention on a particular sensation, sound, image, mantra, or other focal point. Music can be a helpful tool for bringing about a greater state of relaxation and providing a focal point as you build greater awareness.\n\nMusic has many wonderful benefits for stress management and overall health. It can help you calm your physiology without making a conscious effort, and that can alleviate stress in your mind. Music can also lift your mood, slow your breathing, and create other stress-inducing changes.\n\nCombining music with meditation can deepen the positive effects and bring you greater stress relief. Meditation can help reduce cortisol levels, improve stress management, increase self-awareness, increase immunity, build greater empathy, reduce symptoms of anxiety and depression, and improve sleep quality.\n\nResearch on the effects of music and meditation is promising. One study found that both meditation and listening to music had positive effects on memory and cognitive performance in adults experiencing subjective cognitive decline. Another study found that both meditation and music listening have beneficial effects on stress, mood, sleep, and well-being. Listening to music can also help increase dopamine in the brain, resulting in euphoria and happiness.\n\nTo practice music meditation: Choose meditation music that helps you relax with a slower tempo, preferably without lyrics. Get into a comfortable position, close your eyes, relax your muscles, and breathe through your diaphragm. Let your shoulders, belly, and muscles in your face relax. Breathe in deeply through your nose, gently expanding your belly rather than your chest, then exhale through your mouth. Stay focused on the music, gently redirecting your attention when thoughts arise. Set a timer for your practice.\n\nTips for practicing: Start with just a few songs and work your way up to longer practice. Try instrumental music if other music brings too many thoughts. Create a meditation playlist matched to your desired session length. Notice and redirect thoughts without judgment, congratulating yourself for noticing internal dialogue and returning to the present moment.\n\nThe goal of music meditation is to quiet your inner voice and just 'be' with the music, fully immersing yourself to feel more relaxed quickly.",
     "with": [
       "Music meditation involves focusing your attention and awareness on your breath as you meditate and listen to music.",
+      "Meditation is a mindfulness practice that involves focusing your attention on a particular sensation, sound, image, mantra, or other focal point.",
+      "Music can be a helpful tool for bringing about a greater state of relaxation and providing a focal point as you build greater awareness.",
       "Combining music with meditation can deepen the positive effects and bring you greater stress relief.",
-      "Research on the effects of music and meditation is promising.",
-      "Here's how you can get started with music meditation: Choose the Right Meditation Music, Get Comfortable, Relax and Breathe, Stay Focused on the Music, Set a Timer.",
-      "Music can be a great tool for focusing your awareness and attention during meditation."
+      "The goal of this practice is to quiet your inner voice and just 'be' with the music and fully immerse yourself."
     ],
     "without": [
       "Skip to content",
-      "Conditions A-Z",
-      "Therapy",
-      "Living Well",
-      "Verywell Mind's content is for informational and educational purposes only. Our website is not intended to be a substitute for professional medical advice, diagnosis, or treatment.",
-      "Ⓒ 2025 People Inc. — All rights reserved"
-    ]
+      "Conditions A-Z | Therapy | Living Well | Relationships | Psychology | Trending | About Us",
+      "Sign up for our newsletter",
+      "Verywell Mind's content is for informational and educational purposes only",
+      "© 2025 People Inc. — All rights reserved"
+    ],
+    "images": {
+      "total_in_content": 20,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://www.verywellmind.com/thmb/4eX5fV3dtp0KONxbhjBr4KT6UfI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1223159779-121c8a220c2944c0acaeaf7155952e45.jpg",
+          "filename": "GettyImages-1223159779-121c8a220c2944c0acaeaf7155952e45.jpg",
+          "alt": "Listening to music",
+          "caption": "Listening to music",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.verywellmind.com/thmb/fzFapB_59eDKdx9URdWK5Qh50Vs=/400x250/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1302662364-dd6fa846bc5240f3aceaba3aa4a582bc.jpg",
+          "filename": "GettyImages-1302662364-dd6fa846bc5240f3aceaba3aa4a582bc.jpg",
+          "alt": "Woman sitting cross-legged meditating.",
+          "caption": "Woman sitting cross-legged meditating",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.verywellmind.com/thmb/MBwF8QujDdgHHeANLbj678zLuZA=/400x250/filters:no_upscale():max_bytes(150000):strip_icc()/close-up-woman-in-shavasana-or-dead-body-position--1252949444-d60c879d70a0404e8f7ba7a6eedc013c.jpg",
+          "filename": "close-up-woman-in-shavasana-or-dead-body-position--1252949444-d60c879d70a0404e8f7ba7a6eedc013c.jpg",
+          "alt": "Woman lying on back doing a body scan meditation",
+          "caption": "Woman lying on back doing a body scan meditation",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.verywellmind.com/thmb/zENqztEMY862n4i2VV9qR8nkS5w=/400x250/filters:no_upscale():max_bytes(150000):strip_icc()/164741485-5786888a3df78c1e1f8e0489.jpg",
+          "filename": "164741485-5786888a3df78c1e1f8e0489.jpg",
+          "alt": "singing bowls",
+          "caption": "Singing bowls",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.verywellmind.com/thmb/vXqzWEz5mYErU0aS9fTFFgh1q_0=/400x250/filters:no_upscale():max_bytes(150000):strip_icc()/mindfulness-exercises-for-everyday-life-3145187-FINAL-B-V3--45e1d2f51876428f982457d0c49bcc71.png",
+          "filename": "mindfulness-exercises-for-everyday-life-3145187-FINAL-B-V3--45e1d2f51876428f982457d0c49bcc71.png",
+          "alt": "How to be more mindful",
+          "caption": "How to be more mindful",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:52:14.763706"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:15:36.658689"
 }

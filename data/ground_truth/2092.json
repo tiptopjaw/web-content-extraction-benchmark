@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://services.ksl.com/ut/salt-lake-city/electricians",
+  "file_id": "2092",
+  "_internal": {
+    "page_type": {
+      "primary": "directory",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "business directory",
+        "services",
+        "electricians",
+        "local business"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Salt Lake City | Electricians | KSL Services",
+    "author": null,
+    "publish_date": null,
+    "main_content": "47 Business results for Electricians in Salt Lake City. Search form with What service do you need? field and City or Zip location field. Results displayed in a grid layout with sorting options including Best Match, Distance, Highest Rated, Most Rated, and Name (A-Z/Z-A). Each business listing shows the company name, star rating with number of reviews, phone number, and service area indication. Featured businesses include Millcreek Electric Company (146 reviews, 5 stars, (801) 263-2300), JP Electrical LC (195 reviews, 5 stars, (801) 657-3805), Holloway Electrical Inc. (53 reviews, 5 stars, (801) 580-2252), Alpine Electric Services (26 reviews, 5 stars, (801) 822-9920), Omni Electric And Design Inc. (34 reviews, 5 stars, (801) 808-9060), Any And All Electric (101 reviews, 5 stars, (801) 712-7125), Power Point Electric (84 reviews, 5 stars, (385) 212-9531), and others. All businesses indicate they service Salt Lake City, UT.",
+    "with": [
+      "47 Business results for Electricians in Salt Lake City",
+      "Millcreek Electric Company with 146 reviews and 5 star rating",
+      "JP Electrical LC with 195 reviews and 5 star rating",
+      "Search form with What service do you need? and City or Zip fields",
+      "We service Salt Lake City, UT"
+    ],
+    "without": [
+      "KSL Services is Getting an Upgrade banner",
+      "Weather widget with partly cloudy icon",
+      "Star rating icons and empty star images",
+      "Sort and filter navigation menus",
+      "Footer navigation and account links"
+    ],
+    "images": {
+      "total_in_content": 30,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "//img.ksl.com/ksllocal/logo107921-1493327165.jpg?filter=LOC249x165",
+          "filename": "logo107921-1493327165.jpg",
+          "alt": null,
+          "caption": "Millcreek Electric Company logo",
+          "is_hero": false
+        },
+        {
+          "src": "//img.ksl.com/ksllocal/logo265173-1699400735.jpg?filter=LOC249x165",
+          "filename": "logo265173-1699400735.jpg",
+          "alt": null,
+          "caption": "Holloway Electrical Inc. logo",
+          "is_hero": false
+        },
+        {
+          "src": "//img.ksl.com/ksllocal/logo27372-1697819868.jpg?filter=LOC249x165",
+          "filename": "logo27372-1697819868.jpg",
+          "alt": null,
+          "caption": "JP Electrical LC logo",
+          "is_hero": false
+        },
+        {
+          "src": "//img.ksl.com/ksllocal/logo236106-1630551044.jpg?filter=LOC249x165",
+          "filename": "logo236106-1630551044.jpg",
+          "alt": null,
+          "caption": "Alpine Electric Services logo",
+          "is_hero": false
+        },
+        {
+          "src": "//img.ksl.com/ksllocal/logo152475-1517525475.jpg?filter=LOC249x165",
+          "filename": "logo152475-1517525475.jpg",
+          "alt": null,
+          "caption": "Omni Electric And Design Inc. logo",
+          "is_hero": false
+        },
+        {
+          "src": "//img.ksl.com/ksllocal/logo140499-1625779652.jpg?filter=LOC249x165",
+          "filename": "logo140499-1625779652.jpg",
+          "alt": null,
+          "caption": "Any And All Electric logo",
+          "is_hero": false
+        },
+        {
+          "src": "//img.ksl.com/ksllocal/logo242803-1629298795.jpg?filter=LOC249x165",
+          "filename": "logo242803-1629298795.jpg",
+          "alt": null,
+          "caption": "Sant Electric logo",
+          "is_hero": false
+        },
+        {
+          "src": "//img.ksl.com/ksllocal/logo168646-1391634467.jpg?filter=LOC249x165",
+          "filename": "logo168646-1391634467.jpg",
+          "alt": null,
+          "caption": "Jeremy's Electrical Maintenance logo",
+          "is_hero": false
+        },
+        {
+          "src": "//img.ksl.com/ksllocal/logo252533-1650909209.jpg?filter=LOC249x165",
+          "filename": "logo252533-1650909209.jpg",
+          "alt": null,
+          "caption": "Dream Maker Electric logo",
+          "is_hero": false
+        },
+        {
+          "src": "//img.ksl.com/ksllocal/logo301668-1755727461.jpg?filter=LOC249x165",
+          "filename": "logo301668-1755727461.jpg",
+          "alt": null,
+          "caption": "MK Power logo",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:37:21.052462"
+}

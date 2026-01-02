@@ -1,0 +1,68 @@
+{
+  "schema_version": "2.0",
+  "url": "https://dgerrells.com/blog/how-to-make-a-game-engine",
+  "file_id": "2382",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "tutorial",
+        "game-development",
+        "javascript"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "how to make a game engine",
+    "author": "David Gerrells",
+    "publish_date": null,
+    "main_content": "We are going to write a game engine in javascript without AI and by AI I mean an LLM. That's right kiddos, this is going old school if old school meant doing things the way they were done in the long long ago, in the before time of five years from now. A time when the world was pure. A time when the slop was free range and manmade.\n\nIf you are looking for some quick aura farming snack for the tiktoks like something about how to get AI to spit out a snek game or a fluid sim, I only have one thing to say.\n\nFirst, what is a game engine? If you were to ask someone, they'd likely give you a blank look before informing you, \"Sir, this is a Wendy's\". If you were to ask someone on the internet, they'd point at Unity or Unreal 5 and say, \"That!\". If this internet person was sporting a fedora, they'd mention game maker, godot, or love2d. And they'd be right but also wrong in a kinda schrodinger way.\n\nYou see, to make a game engine, we need to know what a game engine is. And to truly know what one is, we need to build one with our bare hands. Lucky for you, I am going to show you one simple trick to break the superposition.\n\nGames are a subset of game engines which is to say, in every game there, by definition, exists an engine that powers it. All that must be done to both understand and build a game engine is to build a game. Specifically, build a game in javascript because it is portable. And I have just the game - Breakout.\n\nBreakout is a fantastic simple game similar to pong. You bounce a ball and destroy blocks. Simple enough and a perfect starter game. You'll see. It is going to be fun. The real beauty of it is that the base is simple to understand but not so constrictive we couldn't have some fun with it.\n\nLet us begin, first to create a game, you must create the universe. The first task is to model the universe. The universe is a little static though, we need to add tick() function for movement, and draw() function for rendering. We render by having an absolutely positioned div on the top left of the screen and drawing the ball via a box shadow.\n\nNow to implement the rest of breakout: balls bounce, bricks exist, balls bounce on bricks, balls destroy bricks, paddle exists, balls bounce on paddle. The world shouldn't only have one ball, it should have many balls. We give the ball a random direction using the formula for finding a point on the unit circle based on an angle. Bouncing is easier - we need to check if the position of a ball is outside bounds and if so, correct the position and reverse the velocity.\n\nBricks are a little different. Box shadows spread value is uniform in all directions which means you cannot have a different width and height. This is fine - if we position a div off screen with the width/height a brick, we can still use a box shadow to draw with. For collision detection, we check if some part of the ball overlaps with the brick using AABB collision.\n\nTime to add a paddle to the world. A paddle is like a brick but it doesn't die, and you can control it. What makes breakout not mind-numbingly boring after 3.50 seconds is the ability to aim the ball with the paddle. The idea is that you can control the ball direction based on the position of the x axis it hits the paddle. If it hits the paddle perfectly center, the ball goes up at a perfect 90 degree. We use atan2 to find the angle between the center of the ball and paddle, and set the ball in that direction.\n\nFor input we grab the x position of the mouse/touch and set all the paddles x values to the same. We have just about all the mechanics. But this has major issues, there is some jank and the game both looks and feels pretty bland.\n\nFixing the frame rate issue isn't too hard - requestAnimationFrame will give us how long it has been since the last time it was called and we can use this to smooth out how fast the game runs by scaling everything by time delta. The ball can also get stuck in the paddle or brick, and jump out of bounds. One way to fix this is to solve each axis consecutively making sure to only update the ball's position one axis at a time.\n\nSpeaking of game feel, part of polishing a turd is to make it juicy. The juice factor is all about feeding that goozy little goblin in all our brains - the one that loves dopamine. We want each event to \"feel\" good. When the ball bounces off something, we can add a scale and color impact. This is all pretty trivial to add by using a legendary technique passed down generation to generation of game dev, \"tweening\".\n\nWe add shake and flash effects when something is hit along with a color flash. For a screen shake we need to have a \"camera\" which we can wiggle around. We also want to give all objects that can tween some uniform values: offsetX, offsetY, color, and scale.\n\nNow we add more content: Score (draw some text at the top, every time you break a brick you get 100 points), Levels (store them in a config file with different patterns), Power Ups (Multi-ball, Big ball, Power Ball, Paddle Size, Gutter Guard, Laser Paddle, Extra Life, Bonus Points, Speed up, Slow Down), Lives, Death and Winning.\n\nPower ups will have a chance to drop when a brick croaks. A power up will be a simple colored circle which falls downwards. When it hits the paddle using an overlap check, we kill it and give the player the power. If it moves outside the game area, we remove it and it counts as missed.\n\nIs it really a game without sound? I don't think so. The soundscape of a game tightens up the vibe. Something is better than nothing but the juice factor takes stage here too. For example, when the ball hits a brick should it play a sound? What happens if it hits the edge? What about when it hits 3 bricks in a row and then the edge and then a brick? Maybe the sound should go up a note for each consecutive brick resetting when it hits the edge.\n\nOur sound engine api is simple: playSound, stopSound, muteAudio. We create an AudioContext and attach a Gain node to it. This root node will allow for global muting of all sounds. Then, we will keep track of the audio files we have loaded along with what sources are actively playing for each file.\n\nPlaying a sound: get our sound buffer by name, create a source, hook it up, and then play it. Audio sources have an output we can connect them to like our master Gain node. If we want to control the volume of a single source, then we need to give it its own Gain node.",
+    "with": [
+      "We are going to write a game engine in javascript without AI and by AI I mean an LLM.",
+      "What makes breakout not mind-numbingly boring after 3.50 seconds is the ability to aim the ball with the paddle.",
+      "The juice factor is all about feeding that goozy little goblin in all our brains.",
+      "Is it really a game without sound? I don't think so.",
+      "We want each event to feel good."
+    ],
+    "without": [
+      "Home",
+      "blog",
+      "Copyright",
+      "Privacy Policy",
+      "Cookie notice"
+    ],
+    "images": {
+      "total_in_content": 4,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "/images/this-is-not-tutorial-you-looking-for.jpg",
+          "filename": "this-is-not-tutorial-you-looking-for.jpg",
+          "alt": "star war droids meme",
+          "caption": "Star war droids meme image shown when explaining this isn't a quick AI tutorial",
+          "is_hero": false
+        },
+        {
+          "src": "/images/paddle-vels.png",
+          "filename": "paddle-vels.png",
+          "alt": "example of blocks bouncing using the special logic of breakout",
+          "caption": "Example of blocks bouncing using the special logic of breakout - shows paddle velocity diagram",
+          "is_hero": false
+        },
+        {
+          "src": "/images/paddle-vels-2.png",
+          "filename": "paddle-vels-2.png",
+          "alt": "shows bigger simulated square box narrowing the possible reflected angles to 90 degrees",
+          "caption": "Shows bigger simulated square box narrowing the possible reflected angles to 90 degrees",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:56:39.988208"
+}

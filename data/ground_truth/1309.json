@@ -1,12 +1,26 @@
 {
+  "schema_version": "2.0",
   "url": "https://soundnews.net/headphones/",
   "file_id": "1309",
-  "downloaded_at": "2025-12-20T20:36:53.594071",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "reviews",
+        "headphones",
+        "audio",
+        "archive"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Headphones",
+    "title": "Headphones Archives - Soundnews",
     "author": null,
     "publish_date": null,
-    "main_content": "Sennheiser HDB 630 Review & Comparison – All Hype or Still Great? Today, I’m going to take a look at the most hyped wireless headphones on the market, released just a couple… Read More » Old Sound, New Tricks: Meze 99 Classics V2 Review & Comparison It’s hard to believe it, but 10 years have passed since I tried the first Meze headphones, the 99 Classics.… Read More » HiFiMAN Susvara Unveiled — The Sound of Truth, Finally Revealed I’ve been neck-deep in headphones for as long as I can remember, cataloging every headphone set from affordable to expensive,… Read More » Bowers & Wilkins PX8 S2 Review & Comparison: Still the BEST? Bowers & Wilkins is back with a brand-new flagship: the PX8 S2 wireless noise-canceling headphones. Folks, the latest model has… Read More » HiFiMan HE1000 Unveiled Review – How Fricking High, HiFiMan? How do you decide what is the absolute best high-end headphones you can get without reaching ridiculous prices like $4,000,… Read More » Brand New $499 Meze Headphones! Meze 105 SILVA Review & Comparison Meze Audio has been on a hot streak recently with the POET, 105 AER, and 109 PRO headphones, and it… Read More » An Open Sounding Closed Back Headphone – SJY Horizon Closed Carbon Review If there’s a quest that headphone manufacturers haven’t quite completed with flying colors at a reasonable price, it’s the quest… Read More » Bowers & Wilkins Px7 S3 travels to Oslo and gets Reviewed Welcome to the new capital of Nordic cool! The Wall Street Journal describes Oslo as the “latest capital of Nordic… Read More » FiiO VS the World – FiiO FT7 Flagship Planar Headphones Review Hi everyone, and welcome back. Today, I’m going to review the second pair of planar-magnetic FiiO headphones I’ve tested in… Read More » FiiO FX17 Review – Are these ENDGAME IEMs? Probably! Today, I’ll review the flagship IEMs from FiiO, the FX17. While they might look like just another IEM release from… Read More »",
+    "main_content": "Soundnews Headphones category archive featuring reviews of various headphone models. Current reviews include: Sennheiser HDB 630 Review & Comparison – All Hype or Still Great? (November 13, 2025), Old Sound, New Tricks: Meze 99 Classics V2 Review & Comparison (November 7, 2025), HiFiMAN Susvara Unveiled — The Sound of Truth, Finally Revealed (October 23, 2025), Bowers & Wilkins PX8 S2 Review & Comparison: Still the BEST? (October 2, 2025), HiFiMan HE1000 Unveiled Review – How Fricking High, HiFiMan? (August 27, 2025), Brand New $499 Meze Headphones! Meze 105 SILVA Review & Comparison (August 22, 2025), An Open Sounding Closed Back Headphone – SJY Horizon Closed Carbon Review (July 26, 2025), Bowers & Wilkins Px7 S3 travels to Oslo and gets Reviewed (July 4, 2025), FiiO VS the World – FiiO FT7 Flagship Planar Headphones Review (June 20, 2025), FiiO FX17 Review – Are these ENDGAME IEMs? Probably! (April 16, 2025).",
     "with": [
       "Sennheiser HDB 630 Review & Comparison – All Hype or Still Great?",
       "Old Sound, New Tricks: Meze 99 Classics V2 Review & Comparison",
@@ -15,13 +29,89 @@
       "HiFiMan HE1000 Unveiled Review – How Fricking High, HiFiMan?"
     ],
     "without": [
-      "Breaking News Audio Video Show Warsaw 2025 Full Report",
-      "Advertisement: Meze Audio 105 AER",
-      "Navigation: News Reviews Show Reports Interviews Music Editors Contact Us",
-      "Sidebar banners: Earphones.il, Denafrips, Siltech, Antipodes",
-      "Footer: © Copyright 2025, All Rights Reserved | soundnews.net"
-    ]
+      "Breaking News",
+      "Subscribe to our newsletter",
+      "© Copyright 2025, All Rights Reserved",
+      "Privacy Policy",
+      "Menu"
+    ],
+    "images": {
+      "total_in_content": 40,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://soundnews.net/wp-content/uploads/2025/11/HDB630_Wide-390x220.jpg",
+          "filename": "HDB630_Wide-390x220.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://soundnews.net/wp-content/uploads/2025/11/99CV2_Wide-390x220.jpg",
+          "filename": "99CV2_Wide-390x220.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://soundnews.net/wp-content/uploads/2025/10/SusUnveiled_Wide1-390x220.jpg",
+          "filename": "SusUnveiled_Wide1-390x220.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://soundnews.net/wp-content/uploads/2025/10/PX8S2_Wide-390x220.jpg",
+          "filename": "PX8S2_Wide-390x220.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://soundnews.net/wp-content/uploads/2025/08/HE1000U_Wide-390x220.jpg",
+          "filename": "HE1000U_Wide-390x220.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://soundnews.net/wp-content/uploads/2025/08/105Silva_Wide-390x220.jpg",
+          "filename": "105Silva_Wide-390x220.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://soundnews.net/wp-content/uploads/2025/07/SJY_Closed_Wide1-390x220.jpg",
+          "filename": "SJY_Closed_Wide1-390x220.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://soundnews.net/wp-content/uploads/2025/07/IMG_0985-390x220.jpg",
+          "filename": "IMG_0985-390x220.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://soundnews.net/wp-content/uploads/2025/06/FT7_Wide-390x220.jpg",
+          "filename": "FT7_Wide-390x220.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://soundnews.net/wp-content/uploads/2025/04/FX17_Wide1-390x220.jpg",
+          "filename": "FX17_Wide1-390x220.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:36:53.594077"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:33:56.990181"
 }

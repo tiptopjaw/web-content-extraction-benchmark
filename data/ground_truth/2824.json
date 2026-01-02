@@ -1,27 +1,61 @@
 {
+  "schema_version": "2.0",
   "url": "https://mostly-adequate.gitbook.io/mostly-adequate-guide",
   "file_id": "2824",
-  "downloaded_at": "2025-12-21T00:02:01.640676",
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "functional-programming",
+        "javascript",
+        "guide",
+        "tutorial"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "README | mostly-adequate-guide",
     "author": null,
-    "publish_date": null,
-    "main_content": "About this book\n\nThis is a book on the functional paradigm in general. We'll use the world's most popular functional programming language: JavaScript. Some may feel this is a poor choice as it's against the grain of the current culture which, at the moment, feels predominately imperative. However, I believe it is the best way to learn FP for several reasons:\n\n• You likely use it every day at work.\nThis makes it possible to practice and apply your acquired knowledge each day on real world programs rather than pet projects on nights and weekends in an esoteric FP language.\n\n• We don't have to learn everything up front to start writing programs.\nIn a pure functional language, you cannot log a variable or read a DOM node without using monads. Here we can cheat a little as we learn to purify our codebase. It's also easier to get started in this language since it's mixed paradigm and you can fall back on your current practices while there are gaps in your knowledge.\n\n• The language is fully capable of writing top notch functional code.\nWe have all the features we need to mimic a language like Scala or Haskell with the help of a tiny library or two. Object-oriented programming currently dominates the industry, but it's clearly awkward in JavaScript. It's akin to camping off of a highway or tap dancing in galoshes. We have to bind all over the place lest this change out from under us, we have various work arounds for the quirky behavior when the new keyword is forgotten, private members are only available via closures. To a lot of us, FP feels more natural anyways.\n\nThat said, typed functional languages will, without a doubt, be the best place to code in the style presented by this book. JavaScript will be our means of learning a paradigm, where you apply it is up to you. Luckily, the interfaces are mathematical and, as such, ubiquitous. You'll find yourself at home with Swiftz, Scalaz, Haskell, PureScript, and other mathematically inclined environments.\n\nRead it Online\n\nFor a best reading experience, read it online via Gitbook.\n\n• Quick-access side-bar\n• In-browser exercises\n• In-depth examples\n\nPlay Around with Code\n\nTo make the training efficient and not get too bored while I am telling you another story, make sure to play around with the concepts introduced in this book. Some can be tricky to catch at first and are better understood by getting your hands dirty. All functions and algebraic data-structures presented in the book are gathered in the appendixes. The corresponding code is also available as an npm module:\n\nAlternatively, exercises of each chapter are runnable and can be completed in your editor! For example, complete the exercise_*.js in exercises/ch04 and then run:\n\nDownload it\n\nFind pre-generated PDF and EPUB as build artifacts of the latest release.\n\nDo it yourself\n\n⚠️ This project setup is now a bit old and thus, you may run into various issues when building this locally. We recommend to use node v10.22.1 and the latest version of Calibre if possible.\n\nAbout the nodejs version\n\nAs the recommended node version (v10.22.1) is a bit old now, is more than likely that you do not have it installed on your system. You can have multiple versions of nodejs installed on your system using nvm. Refer to that project to install it and then you will be able to:\n\n• Install any node version that you need:\n\nThen you will be able to switch between node versions:\n\nAs this project has a .nvmrc file you can call nvm install and nvm use without specifying the node version:\n\nComplete sequence of commands\n\nConsidering the above about having nvm installed on your system, here is the complete sequence of commands to generate pdf and epub files by yourself:\n\nNote! To generate the ebook version you will need to install ebook-convert. Installation instructions.\n\nTable of Contents\n\nSee SUMMARY.md\n\nContributing\n\nSee CONTRIBUTING.md\n\nTranslations\n\nSee TRANSLATIONS.md\n\nFAQ\n\nSee FAQ.md\n\nPlans for the future\n\n• Part 1 (chapters 1-7) is a guide to the basics. I'm updating as I find errors since this is the initial draft. Feel free to help!\n• Part 2 (chapters 8-13) address type classes like functors and monads all the way through to traversable. I hope to squeeze in transformers and a pure application.\n• Part 3 (chapters 14+) will start to dance the fine line between practical programming and academic absurdity. We'll look at comonads, f-algebras, free monads, yoneda, and other categorical constructs.\n\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "publish_date": "2024-09-17",
+    "main_content": "This is a book on the functional paradigm in general. We'll use the world's most popular functional programming language: JavaScript. Some may feel this is a poor choice as it's against the grain of the current culture which, at the moment, feels predominately imperative. However, I believe it is the best way to learn FP for several reasons:\n\nYou likely use it every day at work. This makes it possible to practice and apply your acquired knowledge each day on real world programs rather than pet projects on nights and weekends in an esoteric FP language.\n\nWe don't have to learn everything up front to start writing programs. In a pure functional language, you cannot log a variable or read a DOM node without using monads. Here we can cheat a little as we learn to purify our codebase. It's also easier to get started in this language since it's mixed paradigm and you can fall back on your current practices while there are gaps in your knowledge.\n\nThe language is fully capable of writing top notch functional code. We have all the features we need to mimic a language like Scala or Haskell with the help of a tiny library or two. Object-oriented programming currently dominates the industry, but it's clearly awkward in JavaScript.\n\nThat said, typed functional languages will, without a doubt, be the best place to code in the style presented by this book. JavaScript will be our means of learning a paradigm, where you apply it is up to you.\n\nFor a best reading experience, read it online via Gitbook. Benefits include quick-access side-bar, in-browser exercises, and in-depth examples.\n\nTo make the training efficient and not get too bored while I am telling you another story, make sure to play around with the concepts introduced in this book. Some can be tricky to catch at first and are better understood by getting your hands dirty. All functions and algebraic data-structures presented in the book are gathered in the appendixes.\n\nFind pre-generated PDF and EPUB as build artifacts of the latest release.\n\nPart 1 (chapters 1-7) is a guide to the basics. Part 2 (chapters 8-13) address type classes like functors and monads all the way through to traversable. Part 3 (chapters 14+) will start to dance the fine line between practical programming and academic absurdity. We'll look at comonads, f-algebras, free monads, yoneda, and other categorical constructs.\n\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.",
     "with": [
       "This is a book on the functional paradigm in general. We'll use the world's most popular functional programming language: JavaScript.",
-      "You likely use it every day at work. This makes it possible to practice and apply your acquired knowledge each day on real world programs rather than pet projects on nights and weekends in an esoteric FP language.",
+      "You likely use it every day at work. This makes it possible to practice and apply your acquired knowledge each day on real world programs.",
+      "We don't have to learn everything up front to start writing programs. In a pure functional language, you cannot log a variable or read a DOM node without using monads.",
       "The language is fully capable of writing top notch functional code. We have all the features we need to mimic a language like Scala or Haskell with the help of a tiny library or two.",
-      "Part 1 (chapters 1-7) is a guide to the basics. I'm updating as I find errors since this is the initial draft. Feel free to help!",
-      "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+      "Part 1 (chapters 1-7) is a guide to the basics. Part 2 (chapters 8-13) address type classes like functors and monads all the way through to traversable."
     ],
     "without": [
-      "mostly-adequate-guide",
-      "README",
-      "Chapter 01: What Ever Are We Doing?",
+      "Search…",
       "Powered by GitBook",
-      "Last updated 1 year ago"
-    ]
+      "Ctrl k",
+      "Quick-access side-bar",
+      "Was this helpful?"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://mostly-adequate.gitbook.io/mostly-adequate-guide/~gitbook/image?url=https%3A%2F%2F3105850068-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MT09zmSclnRGt38Vn0l%252Fuploads%252Fgit-blob-c02a5ad30aef8880c3868a7bd9f2e73254d04f00%252Fcover.png%3Falt%3Dmedia&width=300&dpr=4&quality=100&sign=c86d3c3b&sv=2",
+          "filename": "image",
+          "alt": "cover",
+          "caption": "Book cover",
+          "is_hero": true
+        },
+        {
+          "src": "https://mostly-adequate.gitbook.io/mostly-adequate-guide/~gitbook/image?url=https%3A%2F%2Fi.creativecommons.org%2Fl%2Fby-sa%2F4.0%2F88x31.png&width=300&dpr=4&quality=100&sign=e99784d&sv=2",
+          "filename": "image",
+          "alt": "Creative Commons License",
+          "caption": "Creative Commons Attribution-ShareAlike 4.0 International License",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-21T00:02:01.640681"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:07:59.685912"
 }

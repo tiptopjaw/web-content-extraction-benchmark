@@ -1,0 +1,61 @@
+{
+  "schema_version": "2.0",
+  "url": "https://legacyhdpe.com/comparing-common-types-of-plumbing-pipes-which-one-to-choose/",
+  "file_id": "1583",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "plumbing",
+        "pipes",
+        "guide",
+        "educational"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Comparing Common Types of Plumbing Pipes?",
+    "author": "Willy",
+    "publish_date": "2024-07-31",
+    "main_content": "In this article, we will discuss the advantages, disadvantages, and common uses of several types of plumbing pipes to help you make a choice.",
+    "with": [
+      "Comparing Common Types of Plumbing Pipes?",
+      "In this article, we will discuss the advantages, disadvantages, and common uses of several types of plumbing pipes to help you make a choice.",
+      "HDPE Pipe",
+      "Written by Willy",
+      "2024-07-31T19:21:16+00:00"
+    ],
+    "without": [
+      "Skip to content",
+      "Menu Toggle",
+      "Home",
+      "HDPE Boats",
+      "Explore all boats →"
+    ],
+    "images": {
+      "total_in_content": 29,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://i0.wp.com/legacyhdpe.com/wp-content/uploads/2024/07/IMG_4788_batcheditor_fotor.jpeg?fit=768%2C1024&ssl=1",
+          "filename": "IMG_4788_batcheditor_fotor.jpeg",
+          "alt": "HDPE Pipe",
+          "caption": "HDPE Pipe",
+          "is_hero": false
+        },
+        {
+          "src": "https://i0.wp.com/legacyhdpe.com/wp-content/uploads/2024/03/Background2.jpeg?fit=800%2C534&ssl=1",
+          "filename": "Background2.jpeg",
+          "alt": "Plastic pipes, Polyethylene (HDPE) Pipes in Wyoming, Michigan, Florida, South Carolina and Beyond; eco-friendly HDpe pipe | Used HDPE pipe for sale",
+          "caption": "Plastic pipes, Polyethylene (HDPE) Pipes in Wyoming, Michigan, Florida, South Ca",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:24:35.124584"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://discoverbsd.com/p/ccc8db802c",
+  "file_id": "2580",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "medium",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "bsd",
+        "linklog",
+        "news-aggregator",
+        "open-source"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "freebsd-wifibox",
+    "author": null,
+    "publish_date": "2025-12-19",
+    "main_content": "DiscoverBSD - The BSD community linklog. A curated collection of BSD-related news, articles, and updates. Key content includes: Wifibox deploys a Linux guest to drive a wireless networking card on the FreeBSD host system with the help of PCI pass-through. BSD Now 642 explores SSD endurance metrics and FreeBSD adoption. The FreeBSD Laptop Support Project marks first-year progress with Wi-Fi, graphics, and sleep improvements. The FreeBSD Foundation's 2025 Year in Review highlights advocacy and community growth. MidnightBSD 4.0 introduces significant updates including OpenZFS, enhanced NFSv4.2/TLS support, and kernel-level TLS offloading. Multiple FreeBSD Errata Notices and Security Advisories are documented, including ipfw firewall vulnerability and rtsold remote code execution. The 2025 BastilleBSD Annual User Survey is open for community feedback.",
+    "with": [
+      "Wifibox deploys a Linux guest to drive a wireless networking card on the FreeBSD host system with the help of PCI pass-through.",
+      "BSD Now 642 explores SSD endurance metrics and FreeBSD adoption, examining whether DWPD remains a relevant metric for modern SSDs.",
+      "The FreeBSD Foundation's Laptop Support & Usability Project has made significant strides in its first full year, addressing long-standing compatibility gaps for modern laptops.",
+      "A vulnerability in FreeBSD's ipfw firewall (CVE-2025-14769) allows remote attackers to trigger a denial of service via maliciously crafted packets.",
+      "Archived Usenet discussions from the 1980s reveal the technical and cultural landscape of early Unix, BSD, and hardware development during the era."
+    ],
+    "without": [
+      "DiscoverBSD is created with love by Jan Hovancik",
+      "Copyright and Terms and Conditions links",
+      "Privacy Policy link",
+      "Subscribe to BSD Weekly promotional content",
+      "Navbar navigation items and social media links"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:04:53.921224"
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://sps.wfu.edu/articles/top-cybersecurity-trends/",
+  "file_id": "0841",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "cybersecurity",
+        "trends",
+        "education"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "5 Cybersecurity Trends to Watch in 2025",
+    "author": null,
+    "publish_date": null,
+    "main_content": "As technology continues to evolve at a rapid pace, cybersecurity threats are becoming more sophisticated and prevalent. In 2025, organizations must stay ahead of emerging threats to protect their digital assets and maintain robust security posture. This article explores the top five cybersecurity trends that will shape the landscape in the coming year.\n\nAI-Powered Cyber Attacks: Artificial intelligence is being leveraged by threat actors to automate and enhance their attacks. AI-driven malware can adapt and learn from its environment, making traditional defense mechanisms less effective. These sophisticated attacks can bypass conventional security measures by analyzing and exploiting vulnerabilities in real-time.\n\nQuantum Computing Threats: Quantum computers pose a significant risk to current encryption standards. Organizations must begin preparing for post-quantum cryptography to protect sensitive data from future quantum-based attacks. The technology has the potential to break widely-used encryption methods, threatening the security of financial transactions, communications, and data storage.\n\nRansomware Evolution: Ransomware attacks have become more targeted and destructive. Attackers are increasingly using double extortion tactics, threatening to publish stolen data if ransom demands are not met. This evolution requires organizations to implement comprehensive backup and recovery strategies.\n\nSupply Chain Attacks: Third-party vendors and software providers remain attractive targets for cybercriminals. Supply chain attacks can compromise multiple organizations through a single vulnerable component. Strengthening vendor security assessments and implementing zero-trust architectures are essential for mitigating these risks.\n\nIoT Vulnerabilities: The proliferation of Internet of Things devices has expanded the attack surface significantly. Many IoT devices lack robust security features, making them easy targets forbotnets and other malicious activities. Organizations must implement comprehensive IoT security strategies.",
+    "with": [
+      "As technology continues to evolve at a rapid pace, cybersecurity threats are becoming more sophisticated and prevalent.",
+      "AI-driven malware can adapt and learn from its environment, making traditional defense mechanisms less effective.",
+      "Quantum computers pose a significant risk to current encryption standards.",
+      "Ransomware attacks have become more targeted and destructive with double extortion tactics.",
+      "Supply chain attacks can compromise multiple organizations through a single vulnerable component."
+    ],
+    "without": [
+      "Wake Forest University School of Professional Studies",
+      "Request Info",
+      "Apply Now",
+      "Programs",
+      "Current Students"
+    ],
+    "images": {
+      "total_in_content": 24,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://b3371450.smushcdn.com/3371450/wp-content/uploads/2025/05/Untitled-design-17.jpg?lossy=2&strip=1&webp=1",
+          "filename": "Untitled-design-17.jpg",
+          "alt": "Wake Forest SPS student writing in a notebook at a panel discussion",
+          "caption": "Wake Forest SPS student writing in a notebook at a panel discussion",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:43:09.619910"
+}

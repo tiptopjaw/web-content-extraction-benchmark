@@ -1,27 +1,54 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.cookedgoosecatering.com/blog/catering-menu-prices/",
   "file_id": "0202",
-  "downloaded_at": "2025-12-20T19:11:08.682420",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "catering",
+        "guide",
+        "event-planning",
+        "how-to"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Catering Menu Prices: A Guide to Comparing Your Catering Options",
     "author": "The Cooked Goose Catering Company",
     "publish_date": "2022-11-18",
-    "main_content": "If you’re looking to Hire a Catering Service for your next Event, make sure you have Multiple Caterers to choose from. Most professional caterers will share a full breakdown of costs with clients to offer them a better understanding of all the services provided. As someone who’s looking for the ideal catering company, always remember that general catering proposals may not display accurate figures so it’s important to always request a proposal that includes every single detail and cost pertaining to your specific requirements. To avoid unnecessary confusion and unexpected added costs, make sure you clarify any queries you may have with your potential caterers. Go through the following guide before you pick the right caterer by comparing a selection of catering menu prices.\n\n1. Compare the Menus\nEven if you’re comparing similar menus from different caterers, there’ll always be noticeable differences in the food due to differences in ingredients, taste, size, and quality. Directly communicate with your caterer your exact requirements, such as whether you’re willing to spare no expense or if you’re looking for meals that suit your budget. Some other factors to consider are:\n- Whether the menu options are flexible to your requirements or fixed\n- Whether beverages are included in the package of your choice\n- Whether they can accommodate the number of guests you’re looking to serve\nIf you’re not sure about the quality of the food, you can request a tasting before deciding, but you’ll have to accept the catering proposal in most cases before the tasting process.\n\n2. Check the Prices\nThankfully, most catering companies have various packages that are curated to suit various budgets that clients may have. You must make sure, however, to always consider opting for a reputable catering company with transparent catering menu prices as some caterers may have hidden charges that come as a surprise to you once you’re ready to settle the bill. For example, some sticking points to clarify would be whether their service charges include staff wages (as they usually do), whether the sales tax will vary (as this depends on where your caterer is based), and which items are taxed. Once you’re clear on the additional charges, make sure you ask your potential catering companies about their payment policy, cancellation policy, and whether an upfront down payment is required.\n\n3. Inquire about Service Staff\nReputable catering companies will always provide on-site wait staff on the day of the event. If you’re planning on hiring caterers to handle an event with a large number of guests, make sure you’re provided with enough servers. Your caterer may even provide an event manager to oversee all the catering staff, so make sure you inform your caterer about the number of guests so they’re not understaffed, ensuring your event will run smoothly from start to finish.\n\n4. Pay Attention to the Extras\nOne of the most important factors when comparing catering proposals is to pay close attention to how thorough they are—do they offer comprehensive details? To ensure you and your guests can enjoy the event, the ideal catering company will take care of the following aspects:\n- Disposable cocktail napkins\n- Table linen and other table fixings\n- Efficient food prep to minimize mishaps at the venue\n\nPittsburgh’s Finest Catering Company will provide Catering Menu Prices with no Hidden Costs\nPreparing for a large event requires a great deal of thought and planning if you want it to run smoothly. Food plays a major role in a gathering—this is why you should consider hiring a service that’s known to provide the best catering in Pittsburgh. A reputable catering company will always prioritize your requirements and be completely transparent with their menus, especially their catering menu prices, and what they include to make your occasion even more memorable.",
+    "main_content": "If you're looking to hire a catering service for your next event, make sure you have multiple caterers to choose from. Most professional caterers will share a full breakdown of costs with clients to offer them a better understanding of all the services provided. As someone who's looking for the ideal catering company, always remember that general catering proposals may not display accurate figures so it's important to always request a proposal that includes every single detail and cost pertaining to your specific requirements. To avoid unnecessary confusion and unexpected added costs, make sure you clarify any queries you may have with your potential caterers.\n\nCompare the Menus: Even if you're comparing similar menus from different caterers, there'll always be noticeable differences in the food due to differences in ingredients, taste, size, and quality. Directly communicate with your caterer your exact requirements, such as whether you're willing to spare no expense or if you're looking for meals that suit your budget. Some factors to consider include whether the menu options are flexible to your requirements or fixed, whether beverages are included in the package of your choice, and whether they can accommodate the number of guests you're looking to serve. If you're not sure about the quality of the food, you can request a tasting before deciding.\n\nCheck the Prices: Most catering companies have various packages that are curated to suit various budgets. You must make sure to always consider opting for a reputable catering company with transparent catering menu prices as some caterers may have hidden charges. Some sticking points to clarify would be whether their service charges include staff wages, whether the sales tax will vary, and which items are taxed. Once you're clear on the additional charges, make sure you ask your potential catering companies about their payment policy, cancellation policy, and whether an upfront down payment is required.\n\nInquire about Service Staff: Reputable catering companies will always provide on-site wait staff on the day of the event. If you're planning on hiring caterers to handle an event with a large number of guests, make sure you're provided with enough servers. Your caterer may even provide an event manager to oversee all the catering staff, so make sure you inform your caterer about the number of guests so they're not understaffed.\n\nPay Attention to the Extras: One of the most important factors when comparing catering proposals is to pay close attention to how thorough they are. To ensure you and your guests can enjoy the event, the ideal catering company will take care of the following aspects: disposable cocktail napkins, table linen and other table fixings, and efficient food prep to minimize mishaps at the venue.\n\nPittsburgh's Finest Catering Company will provide Catering Menu Prices with no Hidden Costs: Preparing for a large event requires a great deal of thought and planning if you want it to run smoothly. A reputable catering company will always prioritize your requirements and be completely transparent with their menus, especially their catering menu prices, and what they include to make your occasion even more memorable.",
     "with": [
-      "If you’re looking to Hire a Catering Service for your next Event, make sure you have Multiple Caterers to choose from.",
       "Most professional caterers will share a full breakdown of costs with clients to offer them a better understanding of all the services provided.",
-      "Thankfully, most catering companies have various packages that are curated to suit various budgets that clients may have.",
+      "To avoid unnecessary confusion and unexpected added costs, make sure you clarify any queries you may have with your potential caterers.",
+      "Most catering companies have various packages that are curated to suit various budgets that clients may have.",
       "Reputable catering companies will always provide on-site wait staff on the day of the event.",
-      "Preparing for a large event requires a great deal of thought and planning if you want it to run smoothly."
+      "A reputable catering company will always prioritize your requirements and be completely transparent with their menus, especially their catering menu prices."
     ],
     "without": [
-      "Catering Menus",
       "Newsletter Signup",
-      "Recent Posts",
-      "Categories",
-      "© 2025. The Cooked Goose Catering Company. All Rights Reserved."
-    ]
+      "© 2025. The Cooked Goose Catering Company. All Rights Reserved.",
+      "Catering Menus",
+      "Contact Us",
+      "Cookie Notice"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://cdn-hcnnn.nitrocdn.com/bVCpchQNnOqMTzOUzjHHDmGUgChOXhIZ/assets/images/optimized/rev-e36c6f4/www.cookedgoosecatering.com/wp-content/uploads/bfi_thumb/dummy-transparent-pvdkwkz2zbpyoh0yvsj03sutw8ljfrn2hm1a4hpxsu.png",
+          "filename": "dummy-transparent-pvdkwkz2zbpyoh0yvsj03sutw8ljfrn2hm1a4hpxsu.png",
+          "alt": "Catering Menu Prices: A Guide to Comparing Your Catering Options",
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T19:11:08.682426"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:23:06.279283"
 }

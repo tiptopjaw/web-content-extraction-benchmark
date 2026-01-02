@@ -1,27 +1,68 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.scrapehero.com/location-reports/10-largest-car-rentals-in-the-usa/",
   "file_id": "0593",
-  "downloaded_at": "2025-12-20T19:00:05.313797",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "data-report",
+        "location-intelligence",
+        "car-rental",
+        "statistics"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "10 Largest car rentals in the United States in 2025",
+    "title": "10 Largest car rentals in the United States in 2025 | ScrapeHero",
     "author": null,
-    "publish_date": "2025-11-04",
-    "main_content": "What is the largest car rental in the United States? Enterprise Rent a Car is the largest car rental the United States in 2025. What are the largest car rentals in the United States in 2025? Enterprise Rent a Car, Hertz and Avis Car Rental are the largest car rentals in the United States in 2025 based on the number of locations. Enterprise Rent a Car has the most number of locations with 4,304 locations across 52 states and territories. Hertz has 2,523 and Avis Car Rental has 1,401 locations in the US. These three together make 71.66% of the largest 10 car rentals in the US. Learn more about 10 Largest car rentals in the United States in 2025. There are 4,304 Enterprise Rentals locations in the United States as of October 16, 2025. The state and territory with the most number of Enterprise Rentals locations in the US is California, with 424 locations, which is about 10% of all Enterprise Rentals locations in the US. There are 2,523 Hertz stores in the United States as of October 15, 2025. The state and territory with the most number of Hertz locations in the US is California, with 322 stores, which is about 13% of all Hertz stores in the US. There are 1,401 Avis Rentals locations in the United States as of November 04, 2025. The state and territory with the most number of Avis Rentals locations in the US is California, with 174 locations, which is about 12% of all Avis Rentals locations in the US. There are 1,312 Budget stores in the United States as of October 08, 2025. The state and territory with the most number of Budget locations in the US is California, with 173 stores, which is about 13% of all Budget stores in the US. There are 825 Budget Truck Rental locations in the United States as of July 04, 2025. The state and territory with the most number of Budget Truck Rental locations in the US is California, with 87 locations, which is about 11% of all Budget Truck Rental locations in the US. There are 308 National Car Rental locations in the United States as of October 22, 2025. The state and territory with the most number of National Car Rental locations in the US is Florida, with 32 locations, which is about 10% of all National Car Rental locations in the US. There are 290 Thrifty Car Rental dealers in the United States as of April 11, 2024. The state and territory with the most number of Thrifty Car Rental locations in the US is Florida, with 53 dealers, which is about 18% of all Thrifty Car Rental dealers in the US. There are 246 Alamo Rent a Car locations in the United States as of November 03, 2025. The state and territory with the most number of Alamo Rent a Car locations in the US is Florida, with 30 locations, which is about 12% of all Alamo Rent a Car locations in the US. There are 228 Dollar Rent A Car locations in the United States as of March 23, 2024. The state and territory with the most number of Dollar Rent A Car locations in the US is California, with 30 locations, which is about 13% of all Dollar Rent A Car locations in the US. There are 45 Rent-A-Wreck locations in the United States as of June 07, 2024. The state and territory with the most number of Rent-A-Wreck locations in the US is New Jersey, with 12 locations, which is about 27% of all Rent-A-Wreck locations in the US. Note: To ensure accurate industry categorization, we utilize NAICS codes, which classify businesses by their main economic activity. As a result, companies may appear in different industry location reports based on their primary NAICS classification. For instance, Walmart is classified as a department store under NAICS.",
+    "publish_date": null,
+    "main_content": "Enterprise Rent a Car is the largest car rental in the United States in 2025. Enterprise Rent a Car, Hertz and Avis Car Rental are the largest car rentals in the United States in 2025 based on the number of locations. Enterprise Rent a Car has the most number of locations with 4,304 locations across 52 states and territories. Hertz has 2,523 and Avis Car Rental has 1,401 locations in the US. These three together make 71.66% of the largest 10 car rentals in the US. The top 10 car rentals in the United States are: #1 Enterprise Rent a Car with 4,304 locations in 52 states and 2,251 cities; #2 Hertz with 2,523 locations in 51 states and 1,136 cities; #3 Avis Car Rental with 1,401 locations in 51 states and 882 cities; #4 Budget with 1,312 locations in 54 states and 855 cities; #5 Budget Truck Rental with 825 locations in 48 states and 651 cities; #6 National Car Rental with 308 locations in 52 states and 282 cities; #7 Thrifty Car Rental with 290 locations in 47 states and 236 cities; #8 Alamo Rent a Car with 246 locations in 51 states and 225 cities; #9 Dollar Rent A Car with 228 locations in 48 states and 197 cities; #10 Rent-A-Wreck with 45 locations in 19 states and 43 cities. Each company section provides detailed information including the number of locations, the state with the most locations, and percentage of total locations. For Enterprise Rent a Car, there are 4,304 locations with California having 424 locations (about 10%). For Hertz, there are 2,523 stores with California having 322 stores (about 13%). For Avis Rentals, there are 1,401 locations with California having 174 locations (about 12%). For Budget, there are 1,312 stores with California having 173 stores (about 13%). For Budget Truck Rental, there are 825 locations with California having 87 locations (about 11%). For National Car Rental, there are 308 locations with Florida having 32 locations (about 10%). For Thrifty Car Rental, there are 290 dealers with Florida having 53 dealers (about 18%). For Alamo Rent a Car, there are 246 locations with Florida having 30 locations (about 12%). For Dollar Rent A Car, there are 228 locations with California having 30 locations (about 13%). For Rent-A-Wreck, there are 45 locations with New Jersey having 12 locations (about 27%).",
     "with": [
-      "Enterprise Rent a Car is the largest car rental the United States in 2025.",
-      "Enterprise Rent a Car, Hertz and Avis Car Rental are the largest car rentals in the United States in 2025 based on the number of locations.",
+      "Enterprise Rent a Car is the largest car rental in the United States in 2025.",
       "Enterprise Rent a Car has the most number of locations with 4,304 locations across 52 states and territories.",
-      "There are 4,304 Enterprise Rentals locations in the United States as of October 16, 2025. The state and territory with the most number of Enterprise Rentals locations in the US is California, with 424 locations, which is about 10% of all Enterprise Rentals locations in the US.",
-      "These three together make 71.66% of the largest 10 car rentals in the US."
+      "Hertz has 2,523 and Avis Car Rental has 1,401 locations in the US.",
+      "These three together make 71.66% of the largest 10 car rentals in the US.",
+      "The state and territory with the most number of Enterprise Rentals locations in the US is California, with 424 locations."
     ],
     "without": [
-      "Home Services Insights Reports Data Store",
-      "All Reports USA Canada UK Australia India Spain Germany France New Zealand UAE Mexico",
-      "Disclaimer: Brand logos are used for visual representation only and do not imply endorsement or affiliation.",
-      "Download this data in any format We provide all of our data sets as an Excel / CSV file.",
-      "Legal Disclaimer: ScrapeHero is an equal opportunity data service provider, a conduit, just like an ISP."
-    ]
+      "Contact Sales",
+      "Copyright © 2025",
+      "Privacy Policy",
+      "Location Intelligence Reports",
+      "Download Dataset"
+    ],
+    "images": {
+      "total_in_content": 35,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://www.scrapehero.com/store/wp-content/uploads/maps/top-car-rentals-in-each-state-and-territory-in-the-usa-100dpi.png",
+          "filename": "top-car-rentals-in-each-state-and-territory-in-the-usa-100dpi.png",
+          "alt": "Map of largest car rentals in each state and territory in the United States in 2025",
+          "caption": "Map of largest car rentals in each state and territory in the United States in 2025",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.scrapehero.com/store/wp-content/uploads/maps/top-10-car-rentals-in-the-usa-100dpi.png",
+          "filename": "top-10-car-rentals-in-the-usa-100dpi.png",
+          "alt": "Bar chart of 10 Largest car rentals in the United States in 2025",
+          "caption": "Bar chart of 10 Largest car rentals in the United States in 2025",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.scrapehero.com/store/wp-content/uploads/maps/Enterprise_Rentals_USA_100dpi.png",
+          "filename": "Enterprise_Rentals_USA_100dpi.png",
+          "alt": "Map of  locations in the United States in 2025",
+          "caption": "Map of Enterprise Rentals locations in the United States in 2025",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T19:00:05.313803"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:33:49.213260"
 }

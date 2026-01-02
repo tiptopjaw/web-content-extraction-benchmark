@@ -1,25 +1,82 @@
 {
+  "schema_version": "2.0",
   "url": "https://ericdaigle.ca/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number",
   "file_id": "2504",
-  "downloaded_at": "2025-12-20T23:55:06.946399",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "infosec",
+        "security-research",
+        "vulnerability",
+        "messaging-app"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "\"Super secure\" MAGA-themed messaging app leaks everyone's phone number",
     "author": "Eric Daigle",
     "publish_date": "2025-12-10",
-    "main_content": "Once upon a time, in the distant memory that is 2023, a new instant messaging app called Converso was launched. Converso made some pretty impressive claims about its security: it claimed to implement state of the art end-to-end encryption, to collect no metadata, and to use a decentralized architecture that involved no servers at all. Unfortunately, security researcher crnković did some basic reverse engineering and traffic analysis and found all of these claims to be completely baseless, with Converso collecting plenty of metadata on every message and using a third-party E2EE provider to store messages on bog standard centralized servers. Even more unfortunately, crnković also found that Converso implemented the (perfectly functional if used properly) Seald E2EE service in such a way that encrypted messages’ keys could be derived from publicly available information, and also uploaded a copy of every encrypted message to an open Firebase bucket, meaning every message ever sent on the service could be trivially read by anyone with an Internet connection. After being informed of the vulnerabilities, Converso initially released an update claiming to fix them, then withdrew from the App Store and Google Play to “address and improve the issues.”\n\nNot one to give up after a setback, Converso CEO Tanner Haas took a break from self-publishing books on how to achieve and receive anything you want to regroup and relaunch, as well as to bless the world with a lessons learned blog post describing his decision to rebrand after realizing that “privacy concerns were primarily coming from conservative circles,” and imparting nuggets of wisdom such as “accept criticism and get better: don’t complain” and “ensure the product has been thoroughly tested and is ready for prime-time.” Presumably he hadn’t learned the first one yet when he responded to crnković’s responsible disclosure with vague legal threats and accusations of being a Signal shill. Let’s see how the second is going.\n\nAs usual, I start out by downloading the app from Google Play and running it while monitoring traffic with HTTP Toolkit. I quickly ran into Freedom Chat’s first security feature: as detailed on their website, the app “prevent[s] screenshots and screen recordings entirely with built-in screenshot protection,” perhaps to accomodate conservatives’ complicated relationship with screenshots. Screenshots aren’t really crucial to anything being discussed here, but I like to provide only the best blog posts to my tens of readers, so let’s hook the app with Frida and disable the FLAG_SECURE attribute. With that out of the way, the signup process works as expected for an instant messaging app - we type in a phone number, get texted a 2FA code, and enter it to create an account. We’re asked whether we want to create a PIN, which is apparently optional to log in on my own phone and required if we want to restore our account on another device, then get to the main UI of the app. There are two main features here: a Chat pane where we can start chats with contacts, and a Channels pane where we can subscribe to user-run microblogging channels à la Telegram.\n\nLet’s start out with the basics and have a conversation with a second account. Sending a text message triggers the following exchange:\n\nThis is the encrypted and Base64-encoded text we sent, along with some metadata for things like read receipts and editing and the identifiers needed for decryption (they’re using the same Seald backend that Converso had, without uploading everything to Firebase this time). Sending a photo and a voice message yields similar results.\nWhile verifying that they’re using Seald properly this time would require painstakingly decompiling and reverse engineering React Native’s Hermes VM bytecode, at a high level this seems fine. Let’s move on to the Channels feature. When we open the tab, we see that we’ve already been added to a Freedom Chat channel, which mostly posts about updates to the app and related media coverage.\n\nWe’re also suggested a handful of other channels to join, including that of Tanner Haas and some people who are apparently conservative influencers. Tanner mostly seems to use his to post fascinating political takes:\n\nWhen we open a channel, the following request and massive response happen:\n\nThe members array has 1519 entries in that format, apparently one for each member of the channel. What’s going on in that user object? The pin field seems suspiciously related to the PIN we were asked to input after creating our account… To confirm, we can sort the array by createdAt and find that the most recent entry does indeed have the PIN we just set when making our account. So anyone who’s in a channel (i.e. anyone who hasn’t left the default Freedom Chat channel) has their PIN broadcast to every other user! There’s no direct link between PINs and phone numbers here, but this is still not great.\n\nIf we scroll back a bit in the Freedom Chat channel, we see this message dunking on WhatsApp:\n\nThe vulnerability they’re talking about was presented in a paper by researchers at the University of Vienna. The paper is interesting and you should go read it, but to summarize, WhatsApp failed to rate limit the API that eats up every phone number in your contacts and checks whether they also use WhatsApp or not. Researchers were thus able to test nearly every possible phone number in the world, and end up with a dump of every WhatsApp user’s phone number, along with some other metadata. It’s interesting that Freedom Chat isn’t vulnerable to this, because they have the same contact discovery feature WhatsApp does, with the app offering you to either start a chat or invite each of your contacts depending on whether they already have an account:\n\nLet’s find out for ourselves. When we open this contacts page, the following request-response happens:\n\nThe first two numbers in the request are the two we used to register Freedom Chat accounts. The third is a number we didn’t register, as a control. A couple things are interesting here. Most obviously, this is exactly the WhatsApp API the Vienna researchers exploited, and will contain the same vulnerability if not rate limited. This endpoint also provides a linkage between phone numbers and UIDs - if we could run every registered phone number through it, we could get each number’s UID and match it to the UIDs in the Channels response to get that number’s PIN, entirely defeating the PIN mechanism. Now we just need to test whether it’s rate limited\n\nThis is pretty self-explanatory. We generate every valid 7-digit North American phone number, then for every area code, send every number in batches of 40000, plus a number we registered so we can check for false empty responses. We log responses that don’t contain the string “uid” exactly once; if a response contains it 0 times it has failed to produce our registered number and is thus faulty somehow, if a response contains it 2+ times we have found another number. We also reauthenticate as needed and note if we start to slow down the server at all. Yes, there are a million ways to make this concurrent and faster, but we’re trying to enumerate not DDOS their server, and at ~1.5 seconds average RTT we should be able to test every American phone number in about a day.\n\nThe log file starts to fill up with entries within a few minutes:\n\nTime to go do something else for a while. Just over 27 hours and one ill-fated attempt at early season ski touring later, the script has finished happily, the logfile is full of entries, and no request has failed or taken longer than 3 seconds. So much for rate limiting. We’ve leaked every Freedom Chat user’s phone number, and unless they happened to leave the default channel, we’ve also matched their phone number to their PIN, rendering the entire PIN feature pointless.\n\nTimeline\n2025-11-23: vulnerability discovered\n2025-12-04: disclosed to Freedom Chat support by Zack Whittaker\n2025-12-05: Freedom Chat responds clarifying that PINs don’t allow restoring past messages, only logging into the account, and that they “had already been implementing additional audit procedures following the Vienna exploit,” promises fixes by next week\n2025-12-09: Freedom Chat notifies us issues have been patched\n2025-12-11: publication here and at TechCrunch",
+    "main_content": "Once upon a time, in the distant memory that is 2023, a new instant messaging app called Converso was launched. Converso made some pretty impressive claims about its security: it claimed to implement state of the art end-to-end encryption, to collect no metadata, and to use a decentralized architecture that involved no servers at all. Unfortunately, security researcher crnković did some basic reverse engineering and traffic analysis and found all of these claims to be completely baseless. Even more unfortunately, crnković also found that Converso implemented the Seald E2EE service in such a way that encrypted messages' keys could be derived from publicly available information, and also uploaded a copy of every encrypted message to an open Firebase bucket. After being informed of the vulnerabilities, Converso initially released an update claiming to fix them, then withdrew from the App Store and Google Play. Not one to give up after a setback, Converso CEO Tanner Haas took a break to regroup and relaunch as Freedom Chat. When we open a channel, the following request and massive response happen: The members array has 1519 entries, apparently one for each member of the channel. What's going on in that user object? The pin field seems suspiciously related to the PIN we were asked to input after creating our account. So anyone who's in a channel has their PIN broadcast to every other user! The first two numbers in the request are the two we used to register Freedom Chat accounts. The third is a number we didn't register, as a control. This is exactly the WhatsApp API the Vienna researchers exploited. This endpoint also provides a linkage between phone numbers and UIDs - if we could run every registered phone number through it, we could get each number's UID and match it to the UIDs in the Channels response to get that number's PIN, entirely defeating the PIN mechanism. We generate every valid 7-digit North American phone number, then for every area code, send every number in batches of 40000, plus a number we registered. We log responses that don't contain the string 'uid' exactly once. Just over 27 hours later, the script has finished happily, the logfile is full of entries, and no request has failed or taken longer than 3 seconds. So much for rate limiting. We've leaked every Freedom Chat user's phone number, and unless they happened to leave the default channel, we've also matched their phone number to their PIN, rendering the entire PIN feature pointless.",
     "with": [
-      "So anyone who’s in a channel (i.e. anyone who hasn’t left the default Freedom Chat channel) has their PIN broadcast to every other user!",
-      "This endpoint also provides a linkage between phone numbers and UIDs - if we could run every registered phone number through it, we could get each number’s UID and match it to the UIDs in the Channels response to get that number’s PIN, entirely defeating the PIN mechanism.",
-      "We’ve leaked every Freedom Chat user’s phone number, and unless they happened to leave the default channel, we’ve also matched their phone number to their PIN, rendering the entire PIN feature pointless.",
-      "Just over 27 hours and one ill-fated attempt at early season ski touring later, the script has finished happily, the logfile is full of entries, and no request has failed or taken longer than 3 seconds. So much for rate limiting."
+      "Once upon a time, in the distant memory that is 2023, a new instant messaging app called Converso was launched.",
+      "So anyone who's in a channel (i.e. anyone who hasn't left the default Freedom Chat channel) has their PIN broadcast to every other user!",
+      "This is exactly the WhatsApp API the Vienna researchers exploited, and will contain the same vulnerability if not rate limited.",
+      "We generate every valid 7-digit North American phone number, then for every area code, send every number in batches of 40000.",
+      "So much for rate limiting. We've leaked every Freedom Chat user's phone number, and unless they happened to leave the default channel, we've also matched their phone number to their PIN."
     ],
     "without": [
-      "Read other posts",
-      "© 2025 Eric Daigle",
-      "Menu Blog Links Me",
-      "Buy Me a Coffee at ko-fi.com"
-    ]
+      "Copyright 2025 Eric Daigle",
+      "Buy Me a Coffee at ko-fi.com",
+      "Menu ▾",
+      "Blog | Links | Me",
+      "Read other posts"
+    ],
+    "images": {
+      "total_in_content": 5,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/chats.png",
+          "filename": "chats.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/channels.png",
+          "filename": "channels.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/opinions.png",
+          "filename": "opinions.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/whatsapp.png",
+          "filename": "whatsapp.png",
+          "alt": null,
+          "caption": "Freedom Chat dunking on WhatsApp about phone number enumeration vulnerability",
+          "is_hero": false
+        },
+        {
+          "src": "/posts/super-secure-maga-messaging-app-leaks-everyones-phone-number/contacts.png",
+          "filename": "contacts.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:55:06.946405"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:31:47.484082"
 }

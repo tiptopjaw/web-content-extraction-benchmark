@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.merriam-webster.com/dictionary/restaurant",
+  "file_id": "1977",
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "dictionary",
+        "reference",
+        "definition",
+        "language"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "RESTAURANT Definition & Meaning - Merriam-Webster",
+    "author": null,
+    "publish_date": null,
+    "main_content": "RESTAURANT. noun. Definition: a business establishment where meals or refreshments may be purchased. Pronunciation: re-stə-ˌränt or -stränt, also -st(ə-)rənt, -stərnt. Synonyms include diner, grill, and cafeteria. The word comes from French, 'restorative food or drink, public establishment where food and drink may be purchased,' from the present participle of restaurer 'to repair, refresh, renew,' going back to Old French restorer, restaurer — more at restore. First known use was in 1806. Related phrases include Chinese restaurant syndrome and restaurant car. Rhyming words include commandant, confidant, croissant, nonchalant, and savant.",
+    "with": [
+      "Definition: a business establishment where meals or refreshments may be purchased.",
+      "borrowed from French, 'restorative food or drink, public establishment where food and drink may be purchased,' noun derivative from present participle of restaurer 'to repair, refresh, renew.'",
+      "First Known Use: 1806, in the meaning defined above.",
+      "Synonyms of restaurant include diner, grill, and cafeteria.",
+      "when we get sick of cooking dinner at home, we like to go out to eat at a nice restaurant"
+    ],
+    "without": [
+      "Join MWU",
+      "Merriam-Webster unabridged",
+      "Share the Definition of restaurant on Twitter",
+      "Est. 1828",
+      "Love words? Need even more definitions?"
+    ],
+    "images": {
+      "total_in_content": 14,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:09:28.613158"
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.mccombs.utexas.edu/graduate/mba/",
+  "file_id": "1421",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "mba-program",
+        "university",
+        "business-school"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Master of Business Administration (MBA) | Texas McCombs",
+    "author": null,
+    "publish_date": null,
+    "main_content": "UT Austin MBA Program | Texas McCombs. Earn a top-ranked MBA from UT Austin. Options for full-time, working professional, and executives in Austin, Dallas, and Houston. 'Here, You Are What's Next' is more than a spot - it's a promise. Whether you're a career explorer, switcher, entrepreneur, or enhancer, the Hildebrand MBA at Texas McCombs offers tailored options to fit your lifestyle, empowering you to make a collective impact and bring your unique value into the world. The Hildebrand MBA at Texas McCombs, officially named through a $20 million gift from Mindy Hildebrand, BBA '86, advances our programs through three key initiatives: a strategic matching campaign to support MBA program initiatives, comprehensive leadership programming across all five MBA programs, and the creation of Hildebrand Scholars, initially focusing on Full-Time MBA students. Full-Time MBA: The Full-Time MBA experience allows you to fully immerse yourself in a transformative two-year experience where you will learn, explore, and develop meaningful relationships with classmates. Evening MBA: Earn your MBA in 21 months without career interruption. The cohort-based curriculum will enhance your understanding of core business principles with a focus on technology, leadership, and the global business environment. Executive MBA: Prepare to elevate your leadership impact with an Executive MBA tailored for experienced professionals. Earn your Executive MBA in 20 months with classes in-person just one weekend each month. MBA at Dallas/Fort Worth: Earn your MBA in 21 months without career interruption. Designed for working professionals, classes meet on alternating weekends at our MBA campus at The Centrum in the Dallas Oak Lawn area. MBA at Houston: Earn your MBA in 21 months without career interruption. Designed for working professionals, classes meet on alternating weekends at our MBA campus at the UT Health Cizik School of Nursing in the Texas Medical Center. Rankings: #1 In Texas - Best MBA Program, #6 In the U.S. - Working Professional MBA, #12 In the U.S. - Executive MBA, #16 In the U.S. - Full-Time MBA (U.S. News & World Report, 2025). Take the Next Step: Engage - Join us for an info session, group chat, application workshop, campus visit, and more. Apply - Start your application and begin your journey to the Hildebrand MBA program at McCombs. Connect - Reach out to MBA Admissions or connect with a student ambassador.",
+    "with": [
+      "The Full-Time MBA experience allows you to fully immerse yourself in a transformative two-year experience where you will learn, explore, and develop meaningful relationships with classmates.",
+      "Earn your MBA in 21 months without career interruption. The cohort-based curriculum will enhance your understanding of core business principles with a focus on technology, leadership, and the global business environment.",
+      "Prepare to elevate your leadership impact with an Executive MBA tailored for experienced professionals. Earn your Executive MBA in 20 months with classes in-person just one weekend each month.",
+      "The Hildebrand MBA at Texas McCombs, officially named through a $20 million gift from Mindy Hildebrand, BBA '86, advances our programs through three key initiatives.",
+      "Whether you're a career explorer, switcher, entrepreneur, or enhancer, the Hildebrand MBA at Texas McCombs offers tailored options to fit your lifestyle."
+    ],
+    "without": [
+      "Cookie Notice: Our website uses cookies. By continuing to browse and interact with our website, you accept that we collect cookies.",
+      "Copyright 2025 McCombs School of Business, The University of Texas at Austin",
+      "Privacy Policy and University of Texas at Austin Privacy Policy links",
+      "McCombs Online Resources, Webmail, Intranet, Canvas, Tech Support, MyMcCombs",
+      "Follow on LinkedIn, Facebook, Instagram, Youtube, X - Social media links"
+    ],
+    "images": {
+      "total_in_content": 9,
+      "annotated_count": 7,
+      "items": [
+        {
+          "src": "https://live-red-mccombs-school-of-business.pantheonsite.io/wp-content/uploads/2025/09/Texas-McCombs-Here-You-Are-Whats-Next-V3.png",
+          "filename": "Texas-McCombs-Here-You-Are-Whats-Next-V3.png",
+          "alt": null,
+          "caption": "Texas McCombs Here You Are Whats Next hero banner",
+          "is_hero": true
+        },
+        {
+          "src": "https://live-red-mccombs-school-of-business.pantheonsite.io/wp-content/uploads/2025/02/MBA-Hilde-Square.png",
+          "filename": "MBA-Hilde-Square.png",
+          "alt": null,
+          "caption": "Hildebrand MBA Logo - Horizontal",
+          "is_hero": false
+        },
+        {
+          "src": "https://live-red-mccombs-school-of-business.pantheonsite.io/wp-content/uploads/2025/02/FT-MBA-Andres-V-1.png",
+          "filename": "FT-MBA-Andres-V-1.png",
+          "alt": "Photo of MBA student smiling ",
+          "caption": "Photo of MBA student smiling",
+          "is_hero": false
+        },
+        {
+          "src": "https://live-red-mccombs-school-of-business.pantheonsite.io/wp-content/uploads/2025/09/Allison-Morrison-TEMBA-2025_5611.jpg",
+          "filename": "Allison-Morrison-TEMBA-2025_5611.jpg",
+          "alt": "Photo of MBA student smiling with a hook 'em hand",
+          "caption": "Photo of MBA student smiling with a hook 'em hand",
+          "is_hero": false
+        },
+        {
+          "src": "https://live-red-mccombs-school-of-business.pantheonsite.io/wp-content/uploads/2025/09/Brandon-Jenny-Exec-25_0866.jpg",
+          "filename": "Brandon-Jenny-Exec-25_0866.jpg",
+          "alt": "Photo of MBA student smiling ",
+          "caption": "Photo of MBA student smiling",
+          "is_hero": false
+        },
+        {
+          "src": "https://live-red-mccombs-school-of-business.pantheonsite.io/wp-content/uploads/2025/09/Kafui-Quashie-DMBA-25_2139.jpg",
+          "filename": "Kafui-Quashie-DMBA-25_2139.jpg",
+          "alt": "Photo of MBA student smiling ",
+          "caption": "Photo of MBA student smiling",
+          "is_hero": false
+        },
+        {
+          "src": "https://live-red-mccombs-school-of-business.pantheonsite.io/wp-content/uploads/2025/09/Hope-Perri-HMBA-25_1795.jpg",
+          "filename": "Hope-Perri-HMBA-25_1795.jpg",
+          "alt": "Photo of MBA student smiling with a hook 'em hand sign",
+          "caption": "Photo of MBA student smiling with a hook 'em hand sign",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:19:01.731587"
+}

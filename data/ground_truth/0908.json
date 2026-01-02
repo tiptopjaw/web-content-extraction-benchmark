@@ -1,27 +1,53 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.vikingpest.com/servicereview/",
   "file_id": "0908",
-  "downloaded_at": "2025-12-20T20:36:33.919539",
+  "_internal": {
+    "page_type": {
+      "primary": "review",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "pest-control",
+        "customer-feedback",
+        "reviews"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Leave Us Your 5-Star Review",
+    "title": "Leave Us a 5- Star Service Review | Viking Pest Control",
     "author": null,
     "publish_date": null,
-    "main_content": "At Viking Pest, we understand you have many choices when selecting a pest control company. That’s why we want to take a moment to say THANK YOU for entrusting your home or business to our Viking Pest family. We are proud to be your exterminator, and we’ll work hard to continue earning your trust with every job we do. As a leading provider of pest control services in Pennsylvania, New Jersey, Delaware, and the Eastern Shore of Maryland, Viking Pest is committed to providing our customers with the highest level of service and protection from unwanted pests. Let Us Know How We Earned Your 5-Star Satisfaction Your input helps us to better serve our customers and continue improving our pest control services. Please choose your preferred platform and follow the directions to leave us a review. Don’t forget that you can review us on multiple platforms to let other residents and business owners know about your great experience with Viking Pest. Review Viking Pest on Google You can click here to open our Google review form. Just be sure you’re logged into your Google account. Choose a 5-star rating to show you’re happy with our work and services. For the question, “Did you use our business?” click “Yes” and share your experience with Viking Pest in the text box. When you’re finished, click “Post” to add your review to our Google business listing. Review Viking Pest on Yelp Find our Yelp page by clicking here and then log into your Yelp account. If you’re not a Yelp member, you can create a new account or use your Facebook, Google, or Apple credentials for a simple and easy log-in. Once you’re logged in, you’ll see the option to “Write a review” under our business name and current rating. Select five stars to give us a great rating and share your positive experience in the text box. Hit “Post Review” when you’re finished, and you’re all set! Review Viking Pest on Facebook On our Facebook page, click Reviews. If you can’t see it, click More to expand your options. Or, click here to navigate there directly. Facebook doesn’t require a star rating, but your positive review contributes to our star rating. For the question, “Do you recommend Viking Pest Control?” click YES and write a 25+ character review. You can control who sees your review with the “Sharing” tab. Make it Public to help others know how happy you are with our work. Click “Post,” and you’re done! Review Viking Pest on Better Business Bureau Reach our BBB page by clicking here. Near the top of the page, you’ll find the question, “What do you think? Add your review.” Click 5-stars to show your satisfaction with our work, and in the text box, you can leave a detailed review of your experience with Viking Pest. The BBB has a 10-word minimum and a 2000-character maximum. When you’re done, check the box to agree to their submission terms and click “Leave Your Review.” Your post will be live in 3-10 business days, so don’t worry if you can’t see it right away. Once again, thank you for being a valued Viking customer!",
+    "main_content": "At Viking Pest, we understand you have many choices when selecting a pest control company. That's why we want to take a moment to say THANK YOU for entrusting your home or business to our Viking Pest family. We are proud to be your exterminator, and we'll work hard to continue earning your trust with every job we do. As a leading provider of pest control services in Pennsylvania, New Jersey, Delaware, and the Eastern Shore of Maryland, Viking Pest is committed to providing our customers with the highest level of service and protection from unwanted pests. Your input helps us to better serve our customers and continue improving our pest control services. Please choose your preferred platform and follow the directions to leave us a review. Don't forget that you can review us on multiple platforms to let other residents and business owners know about your great experience with Viking Pest.",
     "with": [
       "At Viking Pest, we understand you have many choices when selecting a pest control company.",
-      "As a leading provider of pest control services in Pennsylvania, New Jersey, Delaware, and the Eastern Shore of Maryland, Viking Pest is committed to providing our customers with the highest level of service and protection from unwanted pests.",
+      "That's why we want to take a moment to say THANK YOU for entrusting your home or business to our Viking Pest family.",
       "Your input helps us to better serve our customers and continue improving our pest control services.",
       "Please choose your preferred platform and follow the directions to leave us a review.",
       "Once again, thank you for being a valued Viking customer!"
     ],
     "without": [
-      "Sales: 908-639-2847 Customer Service: 800-618-2847",
-      "Residential Commercial Customer Login",
-      "Pests Service Area SMART Resources",
-      "Sign Up for Exclusive Content & Special Offers",
-      "Connect With Us •Facebook•X •LinkedIn•Instagram •TikTok•YouTube"
-    ]
+      "Sales: 908-639-2847",
+      "Customer Service: 800-618-2847",
+      "Connect With Us",
+      "Privacy Policy",
+      "Mailing Address: P.O. Box 158"
+    ],
+    "images": {
+      "total_in_content": 17,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://vpcdevelopment.wpengine.com/wp-content/uploads/2016/10/Pest-Control-5-Star-Reviews.png",
+          "filename": "Pest-Control-5-Star-Reviews.png",
+          "alt": "Pest Control 5 Star Reviews",
+          "caption": "Pest Control 5 Star Reviews",
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:36:33.919545"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:05:48.928610"
 }

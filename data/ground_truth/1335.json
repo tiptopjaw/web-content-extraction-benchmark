@@ -1,26 +1,68 @@
 {
+  "schema_version": "2.0",
   "url": "https://charlottecommunityhealth.org/en/what-we-do/dentistry/",
   "file_id": "1335",
-  "downloaded_at": "2025-12-20T20:46:41.471006",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "healthcare",
+        "dental",
+        "clinic",
+        "medical"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Dentistry",
+    "title": "Dentistry • Charlotte Community Health Clinic",
     "author": null,
     "publish_date": null,
-    "main_content": "We provide...\nRegular teeth cleanings for children and adults\nDeep teeth cleanings for children and adults\nTreatment of gum disease\nX-rays\nCavity fillings and restorations\nTooth extractions*\nRoot canals*\n*Some cases may be referred to a specialist\n\nWe do not provide...\nOrthodontia or braces\nComplicated oral surgeries\nDenture Services\n\nWhole-person health care includes dental care. That’s why we added a dental clinic to our West location to offer preventative, restorative, and urgent dental services. Our skilled team aims to make your experience as comfortable as possible.\n\nWe recommend that you visit the dentist twice a year for routine teeth cleanings. Regular cleanings help build good habits, prevent future dental issues, and keep you smiling!\n\nSchool-Based Oral Health\nTooth pain can make it difficult for children to eat, sleep, and learn. Dental issues in childhood can also cause permanent damage. That’s why it’s so important to catch dental decay early, and, even more importantly, teach good brushing habits to stop problems before they happen.\n\nIn the coming months, we’re partnering with Sugar Creek Charter School to help more children access dental care. Our team will provide screenings and education at the school, and refer children who need additional treatment back to our dental clinic. In the future, we hope to expand this program to more schools. We believe that all children in Charlotte deserve the dental screenings, education, and treatment they need to grow up healthy and strong.\n\nLearn more about this program or sign up here!",
+    "main_content": "Charlotte Community Health Clinic offers comprehensive dental services at their West location. We provide regular teeth cleanings for children and adults, deep teeth cleanings, treatment of gum disease, X-rays, cavity fillings and restorations, tooth extractions, and root canals. Some cases may be referred to a specialist. We do not provide orthodontia or braces, complicated oral surgeries, or denture services.\n\nWhole-person health care includes dental care. Our skilled team aims to make your experience as comfortable as possible. We recommend visiting the dentist twice a year for routine teeth cleanings to help build good habits, prevent future dental issues, and keep you smiling.\n\nTooth pain can make it difficult for children to eat, sleep, and learn. Dental issues in childhood can cause permanent damage. That's why it's important to catch dental decay early and teach good brushing habits to stop problems before they happen. We have partnered with Sugar Creek Charter School to help more children access dental care through our School-Based Oral Health Program. Our team provides screenings and education at the school, and refers children who need additional treatment back to our dental clinic.",
     "with": [
-      "Whole-person health care includes dental care. That’s why we added a dental clinic to our West location to offer preventative, restorative, and urgent dental services.",
+      "We provide regular teeth cleanings for children and adults, deep teeth cleanings for children and adults, treatment of gum disease, X-rays, cavity fillings and restorations, tooth extractions, and root canals.",
+      "Whole-person health care includes dental care. That's why we added a dental clinic to our West location to offer preventative, restorative, and urgent dental services.",
       "We recommend that you visit the dentist twice a year for routine teeth cleanings. Regular cleanings help build good habits, prevent future dental issues, and keep you smiling!",
       "Tooth pain can make it difficult for children to eat, sleep, and learn. Dental issues in childhood can also cause permanent damage.",
-      "In the coming months, we’re partnering with Sugar Creek Charter School to help more children access dental care. Our team will provide screenings and education at the school, and refer children who need additional treatment back to our dental clinic."
+      "We believe that all children in Charlotte deserve the dental screenings, education, and treatment they need to grow up healthy and strong."
     ],
     "without": [
-      "Virtual Visits Now Available",
-      "Charlotte Community Health Clinic is a 501(c)3 non-profit organization.",
-      "Copyright © 2025 Charlotte Community Health Clinic. All rights reserved.",
-      "We are currently upgrading our phone system to better serve you.",
-      "704-316-6561"
-    ]
+      "704-316-6561",
+      "Privacy Policy",
+      "Copyright © 2025 Charlotte Community Health Clinic",
+      "Facebook",
+      "Twitter"
+    ],
+    "images": {
+      "total_in_content": 14,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://charlottecommunityhealth.org/wp-content/uploads/2019/12/46956686_1247197822100735_3302529868633210880_o-768x1024.jpg",
+          "filename": "46956686_1247197822100735_3302529868633210880_o-768x1024.jpg",
+          "alt": "dentist with young boy holding up toothbrush",
+          "caption": "dentist with young boy holding up toothbrush",
+          "is_hero": true
+        },
+        {
+          "src": "https://charlottecommunityhealth.org/wp-content/uploads/elementor/thumbs/Americas-tooth-fairy-crop-okeed7wd035l27p2yp9ma83bvdp912yj9rkrz5ca9s.jpg",
+          "filename": "Americas-tooth-fairy-crop-okeed7wd035l27p2yp9ma83bvdp912yj9rkrz5ca9s.jpg",
+          "alt": "young patient sitting in dental chair",
+          "caption": "young patient sitting in dental chair",
+          "is_hero": false
+        },
+        {
+          "src": "https://charlottecommunityhealth.org/wp-content/uploads/2020/02/child-smiling-in-dental-chair-e1582058135552.png",
+          "filename": "child-smiling-in-dental-chair-e1582058135552.png",
+          "alt": "child smiling in dental chair",
+          "caption": "child smiling in dental chair",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:46:41.471011"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:42:12.828336"
 }

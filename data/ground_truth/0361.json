@@ -1,0 +1,89 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.redsharknews.com/best-mirrorless-cameras-2025-ranked",
+  "file_id": "0361",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "cameras",
+        "production",
+        "reviews"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "The Best Mirrorless Cameras of 2025: Ranked by Metascore",
+    "author": "RedShark News Staff",
+    "publish_date": "2025-12-12",
+    "main_content": "It's been a great year for mirrorless cameras, but which have emerged at the head of the pack? We analysed the reviews of 10 of the highest-profile releases to produce an accurate Metascore ranking. There has been no shortage of good mirrorless camera releases this year, with seemingly every month containing a new release that pushes the boundaries or fills a niche for somebody somewhere. The tariff situation in the US has complicated matters somewhat, but on the face of it you get more camera tech for your money than ever before. Indeed, so much technology has been developed that the defining lines between manufacturers are less about the capabilities than about ecosystem lock-in, lens mount, and user preference. What is interesting when we looked at the Metascores for 10 of the highest profile releases of the year was how close the majority of them were. The comparison table combines manufacturer-verified specs with an aggregated editorial assessment. Only core, comparable specifications were included to ensure meaningful side-by-side analysis. Each camera's Metascore reflects a weighted synthesis of multiple data points including published lab tests, professional reviews, and broad reviewer consensus. We weighted image and video quality the highest, followed by performance, usability, and real-world limitations. Canon EOS R6 Mark III — The Best All-Rounder (Metascore: 88): A dependable, high-end hybrid that prioritizes reliability over radical innovation. Image and video quality are considered to be reliably strong, with good low-light performance and autofocus that does the job without drama. Canon's ergonomics remain a genuine advantage, making the camera easy to live with day to day. The EOS R6 Mark III is a safe, competent all-rounder — effective and dependable. Sony a7 V — Best Hybrid for Video Creators (Metascore: 90): One of the most balanced full-frame hybrids available, especially for video-centric creators. Image quality and autofocus are widely regarded as class-leading at this price point. Sony has refined features and usability over the a7 IV. Performance is excellent for hybrid shooters, balancing stills and video with few obvious weaknesses. Given Sony's autofocus performance and the depth of the E-mount ecosystem, value is solid. One of the most capable do-everything hybrids available. Hasselblad X2D II 100C — Best Out & Out Image Quality (Metascore: 92): A specialist camera delivering world-class stills for photographers who value quality over speed. Image quality is routinely described as exceptional and among the best in its class. Features are sparse but intentional, with a streamlined workflow that prioritises image quality over speed or flexibility. Autofocus speed and burst rate remain limiting factors, reinforcing its niche appeal. A specialist camera that does exactly what it sets out to do. Nikon ZR — Best Video-First Camera (Metascore: 87): A bold, video-first camera that brings cinema features into a compact mirrorless body. Image and video quality are widely praised, particularly given the price and the influence of RED's imaging pipeline. The feature set is clearly aimed at filmmakers, with a depth of video tools that stands out in this class. Value is a key strength. Genuine innovation, though this is tempered by some trade-offs.",
+    "with": [
+      "It's been a great year for mirrorless cameras, but which have emerged at the head of the pack?",
+      "Each camera's Metascore reflects a weighted synthesis of multiple data points including published lab tests, professional reviews, and broad reviewer consensus.",
+      "Canon EOS R6 Mark III — The Best All-Rounder (Metascore: 88): A dependable, high-end hybrid that prioritizes reliability over radical innovation.",
+      "Sony a7 V — Best Hybrid for Video Creators (Metascore: 90): One of the most balanced full-frame hybrids available, especially for video-centric creators.",
+      "Hasselblad X2D II 100C — Best Out & Out Image Quality (Metascore: 92): A specialist camera delivering world-class stills for photographers who value quality over speed."
+    ],
+    "without": [
+      "Subscribe to RedShark",
+      "RedShark 2020 @ All rights reserved",
+      "Privacy Policy",
+      "Advertisement",
+      "Related Articles"
+    ],
+    "images": {
+      "total_in_content": 9,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "https://www.redsharknews.com/hubfs/best%20mirrorless%20cameras%202025.jpg",
+          "filename": "best%20mirrorless%20cameras%202025.jpg",
+          "alt": "From $1499 - $7399, the best mirrorless cameras of 2025 ranked by Metascore",
+          "caption": "From $1499 - $7399, the best mirrorless cameras of 2025 ranked by Metascore",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/Canon%20EOS%20R6%20Mark%20III-1.jpg?width=750&height=750&name=Canon%20EOS%20R6%20Mark%20III-1.jpg",
+          "filename": "Canon%20EOS%20R6%20Mark%20III-1.jpg",
+          "alt": "Canon EOS R6 Mark III-1",
+          "caption": "Canon EOS R6 Mark III-1",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/Sony%20a7%20V.jpg?width=750&height=750&name=Sony%20a7%20V.jpg",
+          "filename": "Sony%20a7%20V.jpg",
+          "alt": "Sony a7 V",
+          "caption": "Sony a7 V",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/Hasselblad%20X2D%20II%20100C-1.jpg?width=750&height=750&name=Hasselblad%20X2D%20II%20100C-1.jpg",
+          "filename": "Hasselblad%20X2D%20II%20100C-1.jpg",
+          "alt": "Hasselblad X2D II 100C-1",
+          "caption": "Hasselblad X2D II 100C-1",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/Nikon%20ZR.jpg?width=750&height=750&name=Nikon%20ZR.jpg",
+          "filename": "Nikon%20ZR.jpg",
+          "alt": "Nikon ZR",
+          "caption": "Nikon ZR",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/mirrorless%20camera%20comparison%20v2.png?width=622&height=588&name=mirrorless%20camera%20comparison%20v2.png",
+          "filename": "mirrorless%20camera%20comparison%20v2.png",
+          "alt": "mirrorless camera comparison v2",
+          "caption": "Full comparison table showing specs and scores for all cameras",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:06:43.269346"
+}

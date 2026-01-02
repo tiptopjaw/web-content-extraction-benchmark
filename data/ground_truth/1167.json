@@ -1,0 +1,74 @@
+{
+  "schema_version": "2.0",
+  "url": "https://onlinelearningconsortium.org/professional-learning/certificate-programs/",
+  "file_id": "1167",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "professional-learning",
+        "certificates"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Certificate Programs - Online Learning Consortium",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Certificate Programs - Earn an industry-recognized credential that demonstrates your skills and takes you to new heights in your career. These fully online, intensive programs provide guidance from an expert and access to an engaged professional learning community. OLC Certificate Programs include Digital Educators Certificate, Online Learning Professional Certificate, Quality Matters Certificate, and more. These programs are designed for e-learning professionals at any stage of their career, offering pathways to build in-demand skills and earn recognized credentials. Each program provides guidance from expert instructors and access to an engaged professional learning community.",
+    "with": [
+      "Earn an industry-recognized credential that demonstrates your skills and takes you to new heights in your career.",
+      "These fully online, intensive programs provide guidance from an expert and access to an engaged professional learning community.",
+      "The OLC Center for Professional Learning offers virtual learning opportunities for e-learning professionals at any stage of their career.",
+      "We offer certification, programs, and pathways to help you build in-demand skills.",
+      "Register for three workshops in a skills pathway to earn a credential and reach your goals."
+    ],
+    "without": [
+      "Give to OLC",
+      "Go to My Account",
+      "Search",
+      "Cookie notice",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 9,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://onlinelearningconsortium.org/wp-content/uploads/2023/08/OLC_IN26_MenuImage-1024x819.png",
+          "filename": "OLC_IN26_MenuImage-1024x819.png",
+          "alt": "Cheerful woman working on a laptop, wearing headphones and writing on a notepad",
+          "caption": "Cheerful woman working on a laptop, wearing headphones and writing on a notepad",
+          "is_hero": true
+        },
+        {
+          "src": "https://onlinelearningconsortium.org/wp-content/uploads/2023/08/DELImage-e1757538260201.png",
+          "filename": "DELImage-e1757538260201.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://onlinelearningconsortium.org/wp-content/uploads/2025/10/Faculty-Development-and-GenAI-Playbook.jpg",
+          "filename": "Faculty-Development-and-GenAI-Playbook.jpg",
+          "alt": "Cover of the Faculty Development and GenAI Playbook, with the title displayed prominently under a photo of professionally dressed coworkers sharing a discussion over a laptop. The logos for the Online Learning Consortium and Every Learner Everwhere are below the title.",
+          "caption": "Cover of the Faculty Development and GenAI Playbook, with the title displayed",
+          "is_hero": false
+        },
+        {
+          "src": "https://onlinelearningconsortium.org/wp-content/uploads/2023/08/OLCSocial_AssistantGPT2-1024x656.png",
+          "filename": "OLCSocial_AssistantGPT2-1024x656.png",
+          "alt": "A photo of a laptop screen displaying the chat prompt screen of the OLC Course Review Assistant GPT.",
+          "caption": "A photo of a laptop screen displaying the chat prompt screen of the OLC Course R",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:53:10.004417"
+}

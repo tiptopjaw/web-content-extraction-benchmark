@@ -1,0 +1,53 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.barnettghostwriting.com/blog/top-25-book-publishing-companies-in-usa/",
+  "file_id": "1538",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "publishing",
+        "industry-guide",
+        "authors"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Top 25 Book Publishing Companies in USA (Updated 2025)",
+    "author": "Zoe Foster",
+    "publish_date": "2025-08-08",
+    "main_content": "The United States boasts some of the most influential and dynamic book publishing companies in the world. Whether you're an aspiring author, a seasoned writer, or a literary enthusiast, knowing the top players in the publishing industry is essential for navigating your career or interests. The landscape of book publishing is constantly evolving, with companies adapting to digital transformation, changing reader preferences, and new distribution models. This comprehensive guide covers the top 25 book publishing companies in the USA, providing insights into their history, specialties, and what makes them stand out in the competitive publishing landscape.",
+    "with": [
+      "The United States boasts some of the most influential and dynamic book publishing companies in the world.",
+      "Whether you're an aspiring author, a seasoned writer, or a literary enthusiast, knowing the top players in the publishing industry is essential.",
+      "The landscape of book publishing is constantly evolving, with companies adapting to digital transformation.",
+      "This comprehensive guide covers the top 25 book publishing companies in the USA.",
+      "Providing insights into their history, specialties, and what makes them stand out in the competitive publishing landscape."
+    ],
+    "without": [
+      "Subscribe to our newsletter",
+      "Follow us at",
+      "Copyright 2025 Barnett Ghostwriting",
+      "Privacy Policy",
+      "+1 (855) 216-1429"
+    ],
+    "images": {
+      "total_in_content": 8,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://www.barnettghostwriting.com/blog/wp-content/uploads/2025/08/Whisk_a695665c92.jpg",
+          "filename": "Whisk_a695665c92.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:14:14.425675"
+}

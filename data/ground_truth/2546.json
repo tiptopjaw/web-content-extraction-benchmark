@@ -1,0 +1,62 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.notion.com/ja/blog/sharding-postgres-at-notion",
+  "file_id": "2546",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "engineering",
+        "database",
+        "postgresql",
+        "case-study"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Herding elephants: Lessons learned from sharding Postgres at Notion",
+    "author": "Garrett Fidalgo",
+    "publish_date": "2021-10-06",
+    "main_content": "With an effort to make Notion faster and more reliable for years to come — we migrated Notion's PostgreSQL monolith into a horizontally-partitioned database fleet.",
+    "with": [
+      "Herding elephants: Lessons learned from sharding Postgres at Notion",
+      "With an effort to make Notion faster and more reliable for years to come",
+      "We migrated Notion's PostgreSQL monolith into a horizontally-partitioned database fleet",
+      "A hand-drawn diagram depicts one cylindrical database, labeled Monolith",
+      "An illustration of Notion windows moving into sharding databases"
+    ],
+    "without": [
+      "Privacy Policy",
+      "Cookie consent banner",
+      "Subscribe to newsletter",
+      "Footer navigation links",
+      "Copyright 2025 Notion"
+    ],
+    "images": {
+      "total_in_content": 5,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fspoqsaf9291f%2FeSDWC4QLGQHwbGEOTWwDu%2Ff750016a561cfb7e9c157f83b71f08b0%2Fsharding-illustration-1.png&w=3840&q=75",
+          "filename": "image",
+          "alt": "A hand-drawn diagram depicts one cylindrical database, labeled \"Monolith\", containing colored tables block, space, and comment. Below the monolith, arrows point to three smaller databases, each containing three rows of block, space, and comment tables. The smaller databases are labeled to indicate that there are 32 physical databases in total, with each database containing 15 logical shards.",
+          "caption": "A hand-drawn diagram depicting a cylindrical database labeled 'Monolith'",
+          "is_hero": true
+        },
+        {
+          "src": "/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fspoqsaf9291f%2F29AxG8gsvNFoC0UJGb8UcB%2Fda0cff1d162b846b43df44694a97d83d%2Fsharding-illustration-2.png&w=3840&q=75",
+          "filename": "image",
+          "alt": "An illustration of Notion windows moving into sharding databases.",
+          "caption": "An illustration showing Notion windows moving into sharding databases",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:47:58.654216"
+}

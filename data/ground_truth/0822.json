@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://trends.google.com/trends/",
+  "file_id": "0822",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "google",
+        "trends",
+        "search",
+        "dashboard"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Google Trends",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Explore what the world is searching for right now. Search interest, past 24 hours. Why is trending? Search it. Dive deeper: Explore issues and events in detail. Curated by the Trends Data Team. Year in Search 2025: Explore the year through the lens of Google Trends data. Made with Trends: See how Google Trends is being used across the world, by newsrooms, charities, and more. Trends TV: What is Trending right now on Google around the world. See it visualised with our new screensaver. Visualizing Google Trends data: Welcome to our data visualization project: where the Trends Data Team works with the best designers around the world to tell stories with data — and make the results open source. Trending Now where you are: See what's spiking in Google Trends where you live. The Shape of Dreams: A visual exploration of Google searches for the interpretation of dreams. What are we searching for?: A visual essay of what we're searching for throughout the day, night, and in between. OECD Weekly Tracker of Economic Activity: From the OECD: The Weekly Tracker provides an estimate of weekly GDP based on Google Trends search data and machine learning. Get started with Trends: New to Trends? Browse these resources to learn what it can do and how to use it. Intro to Google Trends data. Google Trends walkthrough. Google Trends advanced tips. Trending Now. What is Google Trends? Basics of Google Trends. Understanding the data. Advanced Google Trends.",
+    "with": [
+      "Explore what the world is searching for right now",
+      "Search interest, past 24 hours",
+      "Dive deeper: Explore issues and events in detail. Curated by the Trends Data Team",
+      "Year in Search 2025: Explore the year through the lens of Google Trends data",
+      "Get started with Trends: New to Trends? Browse these resources to learn what it can do and how to use it"
+    ],
+    "without": [
+      "Sign in to access your account",
+      "This site uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic",
+      "Privacy Policy link and Terms link in footer",
+      "Main navigation menu items (Home, Explore, Trending now)",
+      "Google apps icon and navigation controls"
+    ],
+    "images": {
+      "total_in_content": 17,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://ssl.gstatic.com/trends/yis/Yis_2025_Trends_StaticHero_1920x1080.png",
+          "filename": "Yis_2025_Trends_StaticHero_1920x1080.png",
+          "alt": null,
+          "caption": "Year in Search 2025: Explore the year through the lens of Google Trends data.",
+          "is_hero": true
+        },
+        {
+          "src": "https://storage.googleapis.com/gweb-yis-trends-prod/media/images/chrome-capture-2025-7-4_1.width-800.format-webp.webp",
+          "filename": "chrome-capture-2025-7-4_1.width-800.format-webp.webp",
+          "alt": null,
+          "caption": "Trends TV: What is Trending right now on Google around the world. See it visualised with our new screensaver",
+          "is_hero": false
+        },
+        {
+          "src": "https://ssl.gstatic.com/trends_tpt/5164d8dae7d4be74ae8d55df68251aa6809fb0a15c3b26c1356b88c60f1722dd.png",
+          "filename": "5164d8dae7d4be74ae8d55df68251aa6809fb0a15c3b26c1356b88c60f1722dd.png",
+          "alt": null,
+          "caption": "Visualizing Google Trends data: Welcome to our data visualization project: where the Trends Data Team works with the best designers around the world to tell stories with data — and make the results open source",
+          "is_hero": false
+        },
+        {
+          "src": "https://ssl.gstatic.com/trends_tpt/8937088b5e386f4b63b9f77daf22a6d317949e246944cfac6cc82457fdf8dbf5.jpg",
+          "filename": "8937088b5e386f4b63b9f77daf22a6d317949e246944cfac6cc82457fdf8dbf5.jpg",
+          "alt": null,
+          "caption": "Trending Now where you are: See what's spiking in Google Trends where you live",
+          "is_hero": false
+        },
+        {
+          "src": "https://ssl.gstatic.com/trends_tpt/de7fc80fa2ea1c7f1ca5c5581627e1edacf7578abac1890bf8319f30314d4097.png",
+          "filename": "de7fc80fa2ea1c7f1ca5c5581627e1edacf7578abac1890bf8319f30314d4097.png",
+          "alt": null,
+          "caption": "The Shape of Dreams: A visual exploration of Google searches for the interpretation of dreams",
+          "is_hero": false
+        },
+        {
+          "src": "https://ssl.gstatic.com/trends_tpt/d573a3faaee807cbf866505e930049522834a3f313a91824181b758d20a309de.png",
+          "filename": "d573a3faaee807cbf866505e930049522834a3f313a91824181b758d20a309de.png",
+          "alt": null,
+          "caption": "What are we searching for?: A visual essay of what we're searching for throughout the day, night, and in between",
+          "is_hero": false
+        },
+        {
+          "src": "https://ssl.gstatic.com/trends/training/gtt02.jpg",
+          "filename": "gtt02.jpg",
+          "alt": null,
+          "caption": "Intro to Google Trends data",
+          "is_hero": false
+        },
+        {
+          "src": "https://ssl.gstatic.com/trends/training/gtt03.jpg",
+          "filename": "gtt03.jpg",
+          "alt": null,
+          "caption": "Google Trends walkthrough",
+          "is_hero": false
+        },
+        {
+          "src": "https://ssl.gstatic.com/trends/training/gtt04.jpg",
+          "filename": "gtt04.jpg",
+          "alt": null,
+          "caption": "Google Trends advanced tips",
+          "is_hero": false
+        },
+        {
+          "src": "https://ssl.gstatic.com/trends/training/gtt05.jpg",
+          "filename": "gtt05.jpg",
+          "alt": null,
+          "caption": "Trending Now",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:35:21.989310"
+}

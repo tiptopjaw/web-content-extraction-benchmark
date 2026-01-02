@@ -1,0 +1,89 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.welivesecurity.com/en/eset-research/longnosedgoblin-tries-sniff-out-governmental-affairs-southeast-asia-japan",
+  "file_id": "2643",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "cybersecurity",
+        "threat-research",
+        "apt",
+        "malware-analysis"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "LongNosedGoblin tries to sniff out governmental affairs in Southeast Asia and Japan",
+    "author": "Anton Cherepanov, Peter Strýček",
+    "publish_date": "2025-12-18",
+    "main_content": "LongNosedGoblin is a China-aligned APT group that targets governmental entities in Southeast Asia and Japan, with the goal of conducting cyberespionage. In 2024, ESET researchers discovered previously undocumented malware in the network of a Southeast Asian governmental entity, leading to the uncovering of LongNosedGoblin. The group employs a varied custom toolset consisting mainly of C#/.NET applications, and notably uses Group Policy to deploy malware and move laterally across compromised networks. Key tools include NosyHistorian, which collects browser history to determine where to deploy further malware; NosyDoor, a backdoor that uses Microsoft OneDrive as its C&C server and employs AppDomainManager injection techniques; NosyStealer, which exfiltrates browser data; NosyDownloader, which downloads and runs payloads in memory; and NosyLogger, a keylogger. The group has been active since at least September 2023 and continues to evolve its tactics, techniques, and procedures (TTPs).",
+    "with": [
+      "LongNosedGoblin is a China-aligned APT group that targets governmental entities in Southeast Asia and Japan, with the goal of conducting cyberespionage.",
+      "The group employs a varied custom toolset consisting mainly of C#/.NET applications, and, notably, uses Group Policy to deploy its malware and move laterally across the systems of targeted entities.",
+      "NosyDoor is most likely being shared by multiple China-aligned threat actors.",
+      "We later identified another instance of a NosyDoor variant targeting an organization in an EU country, once again employing different TTPs, and using the Yandex Disk cloud service as a C&C server.",
+      "The configuration values specify the local time range when NosyDoor operates, being active only between 8:51 am and 6:51 pm."
+    ],
+    "without": [
+      "Sign up for our newsletters",
+      "Award-winning news, views, and insight from the ESET security community",
+      "ESET Research offers private APT intelligence reports and data feeds",
+      "TIPS & ADVICE • BUSINESS SECURITY • ESET RESEARCH",
+      "Privacy Policy • Terms of Use • Cookie Settings"
+    ],
+    "images": {
+      "total_in_content": 16,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "https://web-assets.esetstatic.com/tn/-x700/wls/2025/12-25/longnosedgoblin/eset-threat-research-longnosed-goblin-southeast-asia-japan.png",
+          "filename": "eset-threat-research-longnosed-goblin-southeast-asia-japan.png",
+          "alt": "LongNosedGoblin tries to sniff out governmental affairs in Southeast Asia and Japan",
+          "caption": "LongNosedGoblin tries to sniff out governmental affairs in Southeast Asia and Japan",
+          "is_hero": true
+        },
+        {
+          "src": "https://web-assets.esetstatic.com/wls/2025/12-25/longnosedgoblin/figure-1-1.png",
+          "filename": "figure-1-1.png",
+          "alt": "Figure 1. NosyDoor execution chain 1",
+          "caption": "Figure 1. NosyDoor execution chain",
+          "is_hero": false
+        },
+        {
+          "src": "https://web-assets.esetstatic.com/wls/2025/12-25/longnosedgoblin/figure-2.png",
+          "filename": "figure-2.png",
+          "alt": "Figure 2. Dropper code",
+          "caption": "Figure 2. Dropper code with execution guardrails",
+          "is_hero": false
+        },
+        {
+          "src": "https://web-assets.esetstatic.com/wls/2025/12-25/longnosedgoblin/figure-3.png",
+          "filename": "figure-3.png",
+          "alt": "Figure 3. Content of UevAppMonitor.exe.config with specified AppDomainManager",
+          "caption": "Figure 3. Content of UevAppMonitor.exe.config with specified AppDomainManager",
+          "is_hero": false
+        },
+        {
+          "src": "https://web-assets.esetstatic.com/wls/2025/12-25/longnosedgoblin/figure-5-1.png",
+          "filename": "figure-5-1.png",
+          "alt": "Figure 5. NosyStealer execution chain )2)",
+          "caption": "Figure 5. NosyStealer execution chain",
+          "is_hero": false
+        },
+        {
+          "src": "https://web-assets.esetstatic.com/wls/2025/12-25/longnosedgoblin/figure-6.png",
+          "filename": "figure-6.png",
+          "alt": "Figure 6. Hex-Rays decompiled code that patches AmsiScanBuffer",
+          "caption": "Figure 6. Hex-Rays decompiled code that patches AmsiScanBuffer",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:37:16.239638"
+}

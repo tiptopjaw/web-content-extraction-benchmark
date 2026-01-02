@@ -1,27 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://hr.ucmerced.edu/Yoga-Body-Breath-Mind-Series",
   "file_id": "1731",
-  "downloaded_at": "2025-12-20T22:24:18.005180",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "wellness",
+        "event",
+        "university",
+        "hr"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Yoga: Body, Breath, & Mind Series",
-    "author": "Carrie Menke",
+    "title": "Yoga: Body, Breath, & Mind Series | Human Resources",
+    "author": null,
     "publish_date": null,
-    "main_content": "Schedule\n\nSeptember 10             12pm- 1pm     SAAC 217        Carrie Menke,  Ph.D\nSeptember 17             12pm- 1pm     SAAC 217        Carrie Menke,  Ph.D\nSeptember 24             12pm- 1pm     SAAC 217        Carrie Menke,  Ph.D\nOctober 1                    12pm- 1pm     SAAC 217        Carrie Menke,  Ph.D\nOctober 8                    12pm- 1pm     SAAC 217        Carrie Menke,  Ph.D\nOctober 15                  12pm- 1pm     SAAC 217        Carrie Menke,  Ph.D\nOctober 22                  12pm- 1pm     SAAC 217        Carrie Menke,  Ph.D\nOctober 29                  12pm   1pm     SAAC 217       Carrie Menke,  Ph.D   \n\nOver the course of 8 weeks, we will use yoga to explore the relationships between the body, breath, and mind. No experience is necessary; all levels of ability are welcome. Postures (asana) are both guided by the breath and help develop your awareness of breath. In turn, you can use the breath to help gain greater awareness of the body. The asana practice will prepare the body for breathwork (pranayama) that can be used as preparation for meditation or, in itself, be a meditative practice. Expect at least 30 minutes of asana practice in every meeting. Sign up for sessions individually or as a series. Bring yoga mats and props if you have them. There will also be some available.\n\nInstructor: Carrie Menke\nYou may know Carrie Menke as one of the physics faculty. Besides that, she has been practicing yoga for 18 years. In 2007, she completed a 200-hour training in the Anusara style, which focuses on proper alignment for your body. In 2016, she began a 500-hour training in the Viniyoga style, which emphasizes using the broad spectrum of yoga tools (postures, breathing, meditation, etc.) to serve the practitioner. If you have questions, don't hesitate to contact her at cmenke@ucmerced.edu.",
+    "main_content": "Schedule: September 10 through October 29, 2024, 12pm-1pm, SAAC 217, instructed by Carrie Menke, Ph.D. Over the course of 8 weeks, we will use yoga to explore the relationships between the body, breath, and mind. No experience is necessary; all levels of ability are welcome. Postures (asana) are both guided by the breath and help develop your awareness of breath. In turn, you can use the breath to help gain greater awareness of the body. The asana practice will prepare the body for breathwork (pranayama) that can be used as preparation for meditation or, in itself, be a meditative practice. Expect at least 30 minutes of asana practice in every meeting. Sign up for sessions individually or as a series. Bring yoga mats and props if you have them. There will also be some available. Instructor Carrie Menke is a physics faculty member who has been practicing yoga for 18 years. In 2007, she completed a 200-hour training in the Anusara style, which focuses on proper alignment for your body. In 2016, she began a 500-hour training in the Viniyoga style, which emphasizes using the broad spectrum of yoga tools (postures, breathing, meditation, etc.) to serve the practitioner.",
     "with": [
       "Over the course of 8 weeks, we will use yoga to explore the relationships between the body, breath, and mind.",
       "No experience is necessary; all levels of ability are welcome.",
       "Postures (asana) are both guided by the breath and help develop your awareness of breath.",
-      "Expect at least 30 minutes of asana practice in every meeting.",
-      "You may know Carrie Menke as one of the physics faculty. Besides that, she has been practicing yoga for 18 years."
+      "The asana practice will prepare the body for breathwork (pranayama) that can be used as preparation for meditation.",
+      "Carrie Menke has been practicing yoga for 18 years and completed a 200-hour training in the Anusara style in 2007."
     ],
     "without": [
-      "University of California, Merced logo",
       "Main menu",
-      "About HR",
-      "University of California, Merced 5200 North Lake Rd. Merced, CA 95343 Telephone: (209) 228-4400",
-      "© 2025"
-    ]
+      "Subscribe to newsletter",
+      "Copyright 2025",
+      "Privacy Policy",
+      "Cookie notice"
+    ],
+    "images": {
+      "total_in_content": 6,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:24:18.005186"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:03:57.291698"
 }

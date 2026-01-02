@@ -1,0 +1,96 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.fullmindlearning.com/blog/best-tutoring-websites",
+  "file_id": "0747",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "tutoring",
+        "guide",
+        "reviews"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "6 Best Tutoring Websites: Top Online Tutoring Solutions",
+    "author": "Fullmind Team",
+    "publish_date": "2024-12-19",
+    "main_content": "One-on-one tutoring is a proven way to improve learning outcomes and boost academic achievements, both for students that are struggling to keep up with peers and those who want to get ahead and obtain new knowledge and skills. At the same time, traditional in-person tutoring takes a lot of time and implies a significant financial cost, which not all families can afford.\n\nThe 6 best tutoring websites include:\n\n1. iTutor: Best Overall Tutoring Website - iTutor is a top-ranked online tutoring website that offers access to qualified educators and tutors for children ages 3 and up in all academic subjects. As part of Fullmind, iTutor works with the same highly qualified, state-certified teachers across all US locations. The majority of iTutor teachers charge a rate of $40/hour.\n\n2. Wyzant: Best for Affordability - Wyzant is a website that operates as a marketplace connecting 65,000 tutors who are experts in various subjects and areas with over 3 million students. The average cost ranges between $35/hour and $60/hour. Wyzant charges a 9% service fee on all lessons.\n\n3. Tutor.com: Best for Subject Diversity - Tutor.com is the biggest tutoring website available to students in K-12 grades, college, and university as well as adult learners. As part of The Princeton Review, the platform works with over 4,000 expert tutors in more than 250 academic subjects. The price of one-time sessions ranges between $350 for 10 hours and $1,450 for 50 hours.\n\n4. Khan Academy: Best Free Tutoring Website - Khan Academy offers a range of free online tutoring and learning tools for students of different ages. Resources are free, while parents/students need to pay $4/month for access to the AI-based tutoring website Khanmigo.\n\n5. Varsity Tutors: Best for Individual Students and Schools/Districts - Varsity Tutors is a popular AI-driven tutoring website that serves schools, districts, individual students, and parents. According to third-party sources, the price of one-on-one tutoring is between $70/hour and $100/hour.\n\n6. Quizlet: Best AI-Powered Tutoring Website - Quizlet is an interactive educational website that offers different learning resources including an AI tutor. Subscription to the Family Quizlet Plan costs $105/year for unlimited use, 24/7.\n\nWhen choosing the best online tutoring platforms, consider available services, subjects covered, tutor qualifications, costs, and reviews.",
+    "with": [
+      "One-on-one tutoring is a proven way to improve learning outcomes and boost academic achievements.",
+      "iTutor is a top-ranked online tutoring website that offers access to qualified educators and tutors for children ages 3 and up.",
+      "Wyzant is a website that operates as a marketplace connecting 65,000 tutors who are experts in various subjects.",
+      "Khan Academy offers a range of free online tutoring and learning tools for students of different ages.",
+      "When choosing the best online tutoring platforms, you should look for a website that provides access to diverse subjects, hires qualified teachers, and has a strong reputation."
+    ],
+    "without": [
+      "Connect with the Fullmind Team",
+      "Get proven strategies and expert analysis from the host of the Learning Can't Wait podcast",
+      "Accelerate Growth with Proven Tutoring",
+      "Book a Call",
+      "For Education Leaders"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 7,
+      "items": [
+        {
+          "src": "https://cdn.prod.website-files.com/66b9d5081f283bf6ef8a00a8/676435aecda97f03cf6a2a18_yy-teoh-PnxiwxEDJ8Q-unsplash%20(1).webp",
+          "filename": "676435aecda97f03cf6a2a18_yy-teoh-PnxiwxEDJ8Q-unsplash%20(1).webp",
+          "alt": "6 Best Tutoring Websites: Top Online Tutoring Solutions",
+          "caption": "6 Best Tutoring Websites: Top Online Tutoring Solutions",
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/66b9d5081f283bf6ef8a00a8/67535ef57f09c89fcf0bbc23_AD_4nXexnKcVGU0RTLyAWtyF3fTiC17jzviDL9g4H_sNI3GyEeDGPuSTkXynq-H5sOI137_fmjK1bJuqniRs0Jmqf7e-zBO6GYx30gcoLASX1WVXcVoc4v-5B34IH-a_fWyT6VXl9fihRg.webp",
+          "filename": "67535ef57f09c89fcf0bbc23_AD_4nXexnKcVGU0RTLyAWtyF3fTiC17jzviDL9g4H_sNI3GyEeDGPuSTkXynq-H5sOI137_fmjK1bJuqniRs0Jmqf7e-zBO6GYx30gcoLASX1WVXcVoc4v-5B34IH-a_fWyT6VXl9fihRg.webp",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/66b9d5081f283bf6ef8a00a8/676435aa7055bc797b35c618_AD_4nXdk3SLlMkPXg9XZ0XuHuJMZlMdUeE_q7QrpP0SvMm4XqL97sc3DC3JjiCZUQgFivc1mRadatJh8G7lpZkZBdPKsBWP4pP6Bx23UjmAloR3syRDAjDRfAM0VMQzgJ7hwIvAPT8CD.webp",
+          "filename": "676435aa7055bc797b35c618_AD_4nXdk3SLlMkPXg9XZ0XuHuJMZlMdUeE_q7QrpP0SvMm4XqL97sc3DC3JjiCZUQgFivc1mRadatJh8G7lpZkZBdPKsBWP4pP6Bx23UjmAloR3syRDAjDRfAM0VMQzgJ7hwIvAPT8CD.webp",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/66b9d5081f283bf6ef8a00a8/67535ef556c1d4ca43edfc8e_AD_4nXd5WQtmiDga7iintJwHRrUObhsyOiw8rSTm6l4m0_tOKeLZ2AwmFDg2fsJg0sduNXm7tsWBNPKHfwo-M9ho5Q2N6J_3OeajL2A3wZfujdPHzb7pxteMISo3o2cB-LQHe2OufYyunQ.webp",
+          "filename": "67535ef556c1d4ca43edfc8e_AD_4nXd5WQtmiDga7iintJwHRrUObhsyOiw8rSTm6l4m0_tOKeLZ2AwmFDg2fsJg0sduNXm7tsWBNPKHfwo-M9ho5Q2N6J_3OeajL2A3wZfujdPHzb7pxteMISo3o2cB-LQHe2OufYyunQ.webp",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/66b9d5081f283bf6ef8a00a8/676435aa9c1ed3858b372bc7_AD_4nXcIUL20AZYElPzttajgIJW9bBHfxHRuxu_Sq10ZAEgruSxUSrgA9GdBHHYGILOGywpL6m8QvJAs9oyqpQle61k3ESJ-YOR1lSGRWnNcFn6gmIX80YgU3RtJeNPIrB09jqBG_KyFOQ.webp",
+          "filename": "676435aa9c1ed3858b372bc7_AD_4nXcIUL20AZYElPzttajgIJW9bBHfxHRuxu_Sq10ZAEgruSxUSrgA9GdBHHYGILOGywpL6m8QvJAs9oyqpQle61k3ESJ-YOR1lSGRWnNcFn6gmIX80YgU3RtJeNPIrB09jqBG_KyFOQ.webp",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/66b9d5081f283bf6ef8a00a8/67535ef542141c086cff2620_AD_4nXdZR7nMu5RoWosmA3QVBPPlHBP3wb0oSFsxjYTDwve6Po_O2UQ1MPGu9NulIGn53YfIZ15_HpHcbEK9-aqeGZGzbYUQGFlPk07D-9is1i9Uj1ogKAdxah3nI-z4HfoHlsurkQipVA.webp",
+          "filename": "67535ef542141c086cff2620_AD_4nXdZR7nMu5RoWosmA3QVBPPlHBP3wb0oSFsxjYTDwve6Po_O2UQ1MPGu9NulIGn53YfIZ15_HpHcbEK9-aqeGZGzbYUQGFlPk07D-9is1i9Uj1ogKAdxah3nI-z4HfoHlsurkQipVA.webp",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/66b9d5081f283bf6ef8a00a8/676435aaa9dc657975c753f7_AD_4nXd83w_t_o8flxlxyYpap66u8awJdRKHPvMg3ZbwrMxbvwfwuOFJldGDOIIT77DBL-lZYoJBpWqix2FF_uJ1kgpJEaOPhFmbIHlfpxZxDU4SkNbDpodAiZ8QhLvNA9WPSaj8fq3QiQ.webp",
+          "filename": "676435aaa9dc657975c753f7_AD_4nXd83w_t_o8flxlxyYpap66u8awJdRKHPvMg3ZbwrMxbvwfwuOFJldGDOIIT77DBL-lZYoJBpWqix2FF_uJ1kgpJEaOPhFmbIHlfpxZxDU4SkNbDpodAiZ8QhLvNA9WPSaj8fq3QiQ.webp",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:12:16.422174"
+}

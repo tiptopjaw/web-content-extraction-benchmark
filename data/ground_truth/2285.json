@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.sourcepass.com/project-management",
+  "file_id": "2285",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "it-services",
+        "project-management",
+        "managed-services",
+        "professional-services"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "IT Project Management Services | Managed IT Services by Sourcepass",
+    "author": null,
+    "publish_date": null,
+    "main_content": "On-time, on-budget IT project delivery from PMP-certified experts. Cloud, security, and infrastructure rollouts made seamless with Sourcepass. Our professional IT services team helps you achieve your strategic goals through comprehensive IT project management solutions. We deliver cloud migrations, security implementations, infrastructure upgrades, M&A integrations, staff augmentation, technical assessments, and more with certified expertise. Our PMP-certified project managers ensure successful delivery of complex IT initiatives across your organization.",
+    "with": [
+      "On-time, on-budget IT project delivery from PMP-certified experts.",
+      "Cloud, security, and infrastructure rollouts made seamless with Sourcepass.",
+      "Our professional IT services team helps you achieve your strategic goals through comprehensive IT project management solutions.",
+      "We deliver cloud migrations, security implementations, infrastructure upgrades, M&A integrations, staff augmentation, technical assessments, and more with certified expertise.",
+      "Our PMP-certified project managers ensure successful delivery of complex IT initiatives across your organization."
+    ],
+    "without": [
+      "Skip to the main content",
+      "Business Outcomes navigation menu",
+      "Sourcepass Awards and Certifications section",
+      "Subscribe to newsletter form",
+      "Footer with social media links and copyright information"
+    ],
+    "images": {
+      "total_in_content": 10,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:25:13.422247"
+}

@@ -1,27 +1,75 @@
 {
+  "schema_version": "2.0",
   "url": "https://unitycouncil.org/program/vita/",
   "file_id": "1327",
-  "downloaded_at": "2025-12-20T20:45:14.877064",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "community-service",
+        "tax-assistance",
+        "VITA",
+        "non-profit"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Free Tax Services (VITA)",
     "author": null,
     "publish_date": null,
-    "main_content": "The Volunteer Income Tax Assistance (VITA) program offers free tax help to people who generally make $60,000 or less, persons with disabilities, and limited English-speaking taxpayers who need assistance in preparing their own tax returns. IRS-certified volunteers provide free basic income tax return preparation with electronic filing to qualified individuals. Services are available in English and Spanish, and we can provide translation in Mam. Our VITA site operates from Monday, January 27th through Tuesday, April 15th. Business Hours: Monday & Friday 9am–6pm, Tuesday, Wednesday and Thursday 1pm-6pm Saturday from 10am-2pm Our VITA site operates starting the last week of January and stops operating on the last day the IRS requires you to submit your tax return, which is typically April 15th. Make your VITA appointment TODAY! Contact 510-306-1275 vita@unitycouncil.org",
+    "main_content": "The Volunteer Income Tax Assistance (VITA) program offers free tax help to people who generally make $60,000 or less, persons with disabilities, and limited English-speaking taxpayers who need assistance in preparing their own tax returns. IRS-certified volunteers provide free basic income tax return preparation with electronic filing to qualified individuals. Services are available in English and Spanish, and we can provide translation in Mam. Our VITA site operates from Monday, January 27th through Tuesday, April 15th. Business Hours: Monday & Friday 9am–6pm, Tuesday, Wednesday and Thursday 1pm-6pm Saturday from 10am-2pm. Our VITA site operates starting the last week of January and stops operating on the last day the IRS requires you to submit your tax return, which is typically April 15th. Make your VITA appointment TODAY! Contact: 510-306-1275, vita@unitycouncil.org",
     "with": [
       "The Volunteer Income Tax Assistance (VITA) program offers free tax help to people who generally make $60,000 or less, persons with disabilities, and limited English-speaking taxpayers who need assistance in preparing their own tax returns.",
       "IRS-certified volunteers provide free basic income tax return preparation with electronic filing to qualified individuals.",
-      "Our VITA site operates from Monday, January 27th through Tuesday, April 15th.",
-      "Business Hours: Monday & Friday 9am–6pm, Tuesday, Wednesday and Thursday 1pm-6pm Saturday from 10am-2pm",
-      "Contact 510-306-1275 vita@unitycouncil.org"
+      "Services are available in English and Spanish, and we can provide translation in Mam.",
+      "Monday & Friday 9am–6pm, Tuesday, Wednesday and Thursday 1pm-6pm Saturday from 10am-2pm.",
+      "510-306-1275, vita@unitycouncil.org"
     ],
     "without": [
       "Skip to primary navigation",
-      "Building vibrant communities where everyone can work, learn and thrive.",
-      "See Also",
       "Sign up to stay in touch!",
-      "Copyright © 2025 The Unity Council · Log in"
-    ]
+      "Copyright © 2025 The Unity Council",
+      "Facebook Twitter Instagram LinkedIn YouTube",
+      "Skip to footer"
+    ],
+    "images": {
+      "total_in_content": 7,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://unitycouncil.org/wp-content/uploads/2019/02/Tax-Room.png",
+          "filename": "Tax-Room.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://unitycouncil.org/wp-content/uploads/2017/05/We-Taxes.png",
+          "filename": "We-Taxes.png",
+          "alt": null,
+          "caption": "We can help you apply for an ITIN number!",
+          "is_hero": false
+        },
+        {
+          "src": "https://unitycouncil.org/wp-content/uploads/2019/06/Untitled-design-6.png",
+          "filename": "Untitled-design-6.png",
+          "alt": null,
+          "caption": "The Impact of the VITA Program",
+          "is_hero": false
+        },
+        {
+          "src": "https://unitycouncil.org/wp-content/uploads/2021/05/Screen-Shot-2021-05-20-at-1.04.33-PM.png",
+          "filename": "Screen-Shot-2021-05-20-at-1.04.33-PM.png",
+          "alt": null,
+          "caption": "Fruitvale Senior Receives Free Tax Services in Fruitvale, Plus Vital Services to Weather the Pandemic",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:45:14.877071"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:40:54.070084"
 }

@@ -1,27 +1,103 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.arlafoodsingredients.com/affordable-nutrition/",
   "file_id": "0812",
-  "downloaded_at": "2025-12-20T21:36:16.505568",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "corporate",
+        "nutrition",
+        "sustainability",
+        "social-impact"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Affordable nutrition",
+    "title": "Affordable food: Nutrition for low-income families | Arla Foods Ingredients",
     "author": null,
     "publish_date": null,
-    "main_content": "Sustainable concepts for affordable nutrition\nEveryone has a right to safe, high-quality foods. Our concepts for affordable, nutritionally-improved foods target very low-income families, particularly in developing countries.\nMalnutrition remains widespread around the globe. According to the World Health Organization, around 45% of deaths among children below the age of five are linked to undernutrition. In 2020, around 149 million under-fives were estimated to be affected by stunting. Poor nutrition also compromises the health of young women – the mothers of the next generation.\nInitiatives that both deliver a reliable supply of affordable, healthy and safe foods and make the most of all available raw materials are vital to break this cycle.\nProtein is typically the primary macronutrient that malnourished children and young women lack. This is where whey-based ingredients can make an important contribution to growth and development as a source of easily absorbed, high-quality proteins along with essential minerals such as calcium and carbohydrate in the form of lactose. Their functional properties also deliver the right taste, texture and stability to meet the needs of specific markets.\nThe concepts\nWe design our affordable nutrition concepts to enable food manufacturers in developing countries to make the best use of local milk and crops such as chickpeas, quinoa and papaya. Each concept has been developed through our involvement in collaborative projects, where we help to build models for sustainable food systems with external partners. These models and our knowledge are freely available to members of the SUN Business Network.\nSUSTAINABLE CONCEPTS\nSustainable concepts\nYoghurt\nYoghurt\nOur affordable yoghurt concept includes whey permeate to maximise production yield and ensure the appealing tast ...\nDairy drink\nIn countries with warm climates and a limited cold chain for food transportation and storage, our long-life drink concep ...\nNutritious whey drink\nUpcycled side streams make delicious dairy beverages\nExpensive raw material waste is a major problem for dairies that p ...\nBiscuit\nAffordable biscuit for protein-deficient diets\nHigh-protein chickpeas and quinoa are well suited to regions where drough ...\nFruit snack bar\nFruit snack bar delivers accessible nutrition\nMajor fruit crops such as date, apricot and papaya succumb easily to spoil ...\nGET IN TOUCH WITH ONE OF OUR EXPERTS\nCharlotte Sørensen\nSenior Project Manager\nGet in touch",
+    "main_content": "Sustainable concepts for affordable nutrition. Everyone has a right to safe, high-quality foods. Our concepts for affordable, nutritionally-improved foods target very low-income families, particularly in developing countries.\n\nMalnutrition remains widespread around the globe. According to the World Health Organization, around 45% of deaths among children below the age of five are linked to undernutrition. In 2020, around 149 million under-fives were estimated to be affected by stunting. Poor nutrition also compromises the health of young women – the mothers of the next generation.\n\nInitiatives that both deliver a reliable supply of affordable, healthy and safe foods and make the most of all available raw materials are vital to break this cycle.\n\nProtein is typically the primary macronutrient that malnourished children and young women lack. This is where whey-based ingredients can make an important contribution to growth and development as a source of easily absorbed, high-quality proteins along with essential minerals such as calcium and carbohydrate in the form of lactose. Their functional properties also deliver the right taste, texture and stability to meet the needs of specific markets.\n\nWe design our affordable nutrition concepts to enable food manufacturers in developing countries to make the best use of local milk and crops such as chickpeas, quinoa and papaya. Each concept has been developed through our involvement in collaborative projects, where we help to build models for sustainable food systems with external partners. These models and our knowledge are freely available to members of the SUN Business Network.\n\nSustainable concepts include: Yoghurt (includes whey permeate to maximise production yield), Dairy drink (long-life drink concept for warm climates), Nutritious whey drink (upcycled side streams make delicious dairy beverages), Biscuit (high-protein chickpeas and quinoa for protein-deficient diets), Fruit snack bar (delivers accessible nutrition from date, apricot and papaya).",
     "with": [
       "Everyone has a right to safe, high-quality foods. Our concepts for affordable, nutritionally-improved foods target very low-income families, particularly in developing countries.",
       "According to the World Health Organization, around 45% of deaths among children below the age of five are linked to undernutrition.",
-      "Protein is typically the primary macronutrient that malnourished children and young women lack.",
+      "Protein is typically the primary macronutrient that malnourished children and young women lack. This is where whey-based ingredients can make an important contribution to growth and development.",
       "We design our affordable nutrition concepts to enable food manufacturers in developing countries to make the best use of local milk and crops such as chickpeas, quinoa and papaya.",
-      "Each concept has been developed through our involvement in collaborative projects, where we help to build models for sustainable food systems with external partners."
+      "Upcycled side streams make delicious dairy beverages. Expensive raw material waste is a major problem for dairies that process milk."
     ],
     "without": [
-      "Early life nutrition Sports nutrition Medical nutrition Health foods Dairy Bakery Affordable nutrition About us",
-      "Sønderhøj 10 - 12 8260 DK-Viby J",
-      "Cookie Policy Terms of use Privacy policy Research integrity policy Payment policy",
+      "Sustainability",
+      "Privacy policy",
       "© Arla Foods Ingredients Group P/S 2025",
-      "Follow us on social media LinkedIn Facebook"
-    ]
+      "Follow us on social media",
+      "Cookie Policy"
+    ],
+    "images": {
+      "total_in_content": 17,
+      "annotated_count": 8,
+      "items": [
+        {
+          "src": "https://cdn.arlafoodsingredients.com/4aaeef/globalassets/afi/industry/affordable-food/2019/ethiopia-boy-mum-hero.jpg?width=335&height=225&format=webp&quality=81&rmode=crop",
+          "filename": "ethiopia-boy-mum-hero.jpg",
+          "alt": "Affordable nutrition",
+          "caption": "Affordable nutrition",
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn.arlafoodsingredients.com/4aaef0/globalassets/afi/industry/affordable-food/2019/ethiopia-family-hero.jpg?width=375&height=250&format=webp&quality=81&rmode=crop",
+          "filename": "ethiopia-family-hero.jpg",
+          "alt": "SUSTAINABLE CONCEPTS",
+          "caption": "SUSTAINABLE CONCEPTS",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.arlafoodsingredients.com/494b74/globalassets/afi/about-us/responsible-nutrition/stronger-people/affordable-nutrition-2022/afi_ethiopia_v76_thumb.jpg?width=310&height=400&format=webp&quality=81&rmode=crop",
+          "filename": "afi_ethiopia_v76_thumb.jpg",
+          "alt": null,
+          "caption": "Yoghurt concept",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.arlafoodsingredients.com/48ff99/globalassets/afi/industry/affordable-food/afi_ethiopia_v38.jpg?width=310&height=400&format=webp&quality=81&rmode=crop",
+          "filename": "afi_ethiopia_v38.jpg",
+          "alt": "Dairy drink",
+          "caption": "Dairy drink",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.arlafoodsingredients.com/49f76e/globalassets/ingredients-pages-2.0/affordable-nutrition/afi_ast_wheydrink_v008_no-jewelry_web.jpg?width=310&height=400&format=webp&quality=81&rmode=crop",
+          "filename": "afi_ast_wheydrink_v008_no-jewelry_web.jpg",
+          "alt": "Nutritious whey drink",
+          "caption": "Nutritious whey drink",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.arlafoodsingredients.com/49aeae/globalassets/afi/industry/affordable-food/2019/biscuit-2_thumb.jpg?width=310&height=400&format=webp&quality=81&rmode=crop",
+          "filename": "biscuit-2_thumb.jpg",
+          "alt": null,
+          "caption": "Biscuit concept",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.arlafoodsingredients.com/4951c3/globalassets/ingredients-pages-2.0/affordable-nutrition/afi_pakistan_v158_857x600.jpg?width=310&height=400&format=webp&quality=81&rmode=crop",
+          "filename": "afi_pakistan_v158_857x600.jpg",
+          "alt": null,
+          "caption": "Fruit snack bar",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.arlafoodsingredients.com/49788e/globalassets/afi/experts/charlotte-soerensen.jpg?width=75&height=75&format=webp&quality=81&rmode=crop",
+          "filename": "charlotte-soerensen.jpg",
+          "alt": "Senior Project Manager",
+          "caption": "Charlotte Sørensen - Senior Project Manager",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:36:16.505572"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:30:02.193823"
 }

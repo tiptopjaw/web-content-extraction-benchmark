@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.gigsalad.com/Event-Services/Event-Planner/CA/Santa+Clarita",
+  "file_id": "1696",
+  "_internal": {
+    "page_type": {
+      "primary": "directory",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "event-planners",
+        "local-services",
+        "santa-clarita",
+        "service-directory"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "5 Best Event Planners for Hire in Santa Clarita, CA | GigSalad",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Find and hire professional event planners in Santa Clarita, California. GigSalad connects you with local event planning experts who can help make your special event memorable. Whether you're planning a wedding, corporate event, birthday party, or any other special occasion, our verified event planners are ready to assist you. Get free quotes from multiple professionals and compare services to find the perfect match for your event needs. Santa Clarita event planners available for all types of events including weddings, parties, corporate functions, and more.",
+    "with": [
+      "Find and hire professional event planners in Santa Clarita, California.",
+      "GigSalad connects you with local event planning experts who can help make your special event memorable.",
+      "Whether you're planning a wedding, corporate event, birthday party, or any other special occasion.",
+      "Get free quotes from multiple professionals and compare services to find the perfect match.",
+      "Event planners available for all types of events including weddings, parties, corporate functions, and more."
+    ],
+    "without": [
+      "Take the stress out of event planning and hire a professional",
+      "Find talent and event services",
+      "Copyright 2025 GigSalad",
+      "Log in",
+      "List your services"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:51:18.680217"
+}

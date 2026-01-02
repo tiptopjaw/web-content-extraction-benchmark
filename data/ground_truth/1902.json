@@ -1,26 +1,54 @@
 {
+  "schema_version": "2.0",
   "url": "https://blogs.bcm.edu/2022/02/03/skincare-101-the-basics/",
   "file_id": "1902",
-  "downloaded_at": "2025-12-20T22:10:27.771260",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "health",
+        "skincare",
+        "guide",
+        "wellness"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Skincare 101: The Basics",
     "author": "Andrew Phifer",
     "publish_date": "2022-02-03",
-    "main_content": "This is the first in an ongoing series on caring for your skin. The skincare section of any store can seem overwhelming – from what kind of cleanser to use to which is serum is right to address your skin concern. We asked Kim Chang, licensed aesthetician with the Aesthetics Studio at Baylor Medicine, for tips on how to create a simple skincare routine, what items should you add in and more.\n\nQ: What makes up a simple skincare routine? \nA: The basic three: cleanse, moisturize and protect with sunscreen. It’s super simple but gets the job done. In the morning, cleanse your skin to start the day then put on a moisturizing sunscreen. At night, cleanse your skin again to remove any residual makeup and sweat from the day then finish with a moisturizer. That’s only two products in the morning, and two products at night. Simple!\n\nQ: What is something you would recommend adding to your routine?\nA: Depending on your goal, such as reducing dark spots or acne flare-ups, adding an exfoliator at least three times a week to your regimen would be beneficial. Exfoliators with lactic acid, glycolic acid or even Retin-A are great. Different from just cleansing and protecting, exfoliating will cause actual change in your skin. I would also recommend a vitamin C serum, which is an antioxidant that helps prevent damage from free radicals in the skin that can cause premature aging. Before starting something new, take an unfiltered photo outside in natural light. Then take another picture three months later in the same location and lighting to see if the products are working for your skin.\n\nQ: Are there certain products you should use depending on the time of day?\nA: Everyone should be wearing sunscreen during the day, and some people who work at night, such as nurses, may even want to consider it to protect themselves from blue light in their workplace. Acids like lactic, glycolic and Retin-A should be reserved for nighttime use as they can cause skin sensitivity when exposed to the sun. Using vitamin C serum during the day is most beneficial. Remember, we’re using vitamin C serum to neutralize from free radicals that sun, ultraviolet rays and air pollution can trigger.\n\nQ: You see many people online touting multistep skincare routines. Will that same routine work for my skin?\nA: There’s really no “one-size fits all” routine. We all have our own specific skincare goals, and your routine should be customized to meet those goals.\n\nQ: Can you give us a rundown of your own skincare regimen? \nA: It changes, but right now due to weather and some breakouts, this is what I’m doing:\n\nMorning:\n- Cleanse\n- Vitamin C serum\n- Stem cell serum\n- Hyaluronic acid (HA) serum for specific areas\n- Eye cream over the whole eye – under and over\n- Spot treat with salicylic acid over some breakouts\n- Gel moisturizer\n- Tinted SPF\n\nEvening\n- Double cleanse\n- Retinol\n- Nighttime antioxidant with resveratrol\n- Stem cell serum\n- HA serum\n- Eye cream\n- Neck cream\n- Moisturizer\n\nI also exfoliate 3-4 times a week at night and use a mask after exfoliating before enjoying the rest of my skincare routine.\n\nQ: If you can do nothing else, what is the one step you should do every day for your skin?\nA: Cleanse your skin! Even if you didn’t wear makeup or go to the gym, your skin is still secreting oils that can grab bacteria from hands or pollutants in the air.\n\nAdditional Resources\nLearn more about the Aesthetics Studio at Baylor Medicine. To schedule an appointment, email Kim Chang.\n\n-By Anna Kiappes",
+    "main_content": "This is the first in an ongoing series on caring for your skin. The skincare section of any store can seem overwhelming – from what kind of cleanser to use to which serum is right to address your skin concern. We asked Kim Chang, licensed aesthetician with the Aesthetics Studio at Baylor Medicine, for tips on how to create a simple skincare routine, what items should you add in and more.\n\nQ: What makes up a simple skincare routine?\nA: The basic three: cleanse, moisturize and protect with sunscreen. It's super simple but gets the job done. In the morning, cleanse your skin to start the day then put on a moisturizing sunscreen. At night, cleanse your skin again to remove any residual makeup and sweat from the day then finish with a moisturizer. That's only two products in the morning, and two products at night. Simple!\n\nQ: What is something you would recommend adding to your routine?\nA: Depending on your goal, such as reducing dark spots or acne flare-ups, adding an exfoliator at least three times a week to your regimen would be beneficial. Exfoliators with lactic acid, glycolic acid or even Retin-A are great. Different from just cleansing and protecting, exfoliating will cause actual change in your skin. I would also recommend a vitamin C serum, which is an antioxidant that helps prevent damage from free radicals in the skin that can cause premature aging. Before starting something new, take an unfiltered photo outside in natural light. Then take another picture three months later in the same location and lighting to see if the products are working for your skin.\n\nQ: Are there certain products you should use depending on the time of day?\nA: Everyone should be wearing sunscreen during the day, and some people who work at night, such as nurses, may even want to consider it to protect themselves from blue light in their workplace. Acids like lactic, glycolic and Retin-A should be reserved for nighttime use as they can cause skin sensitivity when exposed to the sun. Using vitamin C serum during the day is most beneficial. Remember, we're using vitamin C serum to neutralize from free radicals that sun, ultraviolet rays and air pollution can trigger.\n\nQ: You see many people online touting multistep skincare routines. Will that same routine work for my skin?\nA: There's really no \"one-size fits all\" routine. We all have our own specific skincare goals, and your routine should be customized to meet those goals.\n\nQ: Can you give us a rundown of your own skincare regimen?\nA: It changes, but right now due to weather and some breakouts, this is what I'm doing:\n\nMorning:\n- Cleanse\n- Vitamin C serum\n- Stem cell serum\n- Hyaluronic acid (HA) serum for specific areas\n- Eye cream over the whole eye – under and over\n- Spot treat with salicylic acid over some breakouts\n- Gel moisturizer\n- Tinted SPF\n\nEvening:\n- Double cleanse\n- Retinol\n- Nighttime antioxidant with resveratrol\n- Stem cell serum\n- HA serum\n- Eye cream\n- Neck cream\n- Moisturizer\n\nI also exfoliate 3-4 times a week at night and use a mask after exfoliating before enjoying the rest of my skincare routine.\n\nQ: If you can do nothing else, what is the one step you should do every day for your skin?\nA: Cleanse your skin! Even if you didn't wear makeup or go to the gym, your skin is still secreting oils that can grab bacteria from hands or pollutants in the air.\n\nAdditional Resources:\nLearn more about the Aesthetics Studio at Baylor Medicine. To schedule an appointment, email Kim Chang.\n\n-By Anna Kiappes",
     "with": [
       "The basic three: cleanse, moisturize and protect with sunscreen.",
-      "There’s really no “one-size fits all” routine. We all have our own specific skincare goals, and your routine should be customized to meet those goals.",
-      "Cleanse your skin! Even if you didn’t wear makeup or go to the gym, your skin is still secreting oils that can grab bacteria from hands or pollutants in the air.",
-      "Exfoliators with lactic acid, glycolic acid or even Retin-A are great. Different from just cleansing and protecting, exfoliating will cause actual change in your skin."
+      "Depending on your goal, such as reducing dark spots or acne flare-ups, adding an exfoliator at least three times a week to your regimen would be beneficial.",
+      "I would also recommend a vitamin C serum, which is an antioxidant that helps prevent damage from free radicals in the skin that can cause premature aging.",
+      "Acids like lactic, glycolic and Retin-A should be reserved for nighttime use as they can cause skin sensitivity when exposed to the sun.",
+      "Cleanse your skin! Even if you didn't wear makeup or go to the gym, your skin is still secreting oils that can grab bacteria from hands or pollutants in the air."
     ],
     "without": [
-      "Saturday, December 20, 2025",
-      "Latest: Scientists uncover nuclear droplets that link multiple leukemias, a potential new therapeutic target",
-      "You May Also Like",
-      "©1998 - 2023 Baylor College of Medicine® One Baylor Plaza, Houston, Texas 77030 (713) 798-4951",
-      "Leave a Reply Cancel reply"
-    ]
+      "Subscribe to newsletter",
+      "Copyright 1998 - 2023 Baylor College of Medicine",
+      "Navigation menu items",
+      "Share buttons (Facebook, Twitter, LinkedIn)",
+      "Footer links and copyright information"
+    ],
+    "images": {
+      "total_in_content": 6,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://blogs.bcm.edu/wp-content/uploads/2022/02/skincare-101-515x458.png",
+          "filename": "skincare-101-515x458.png",
+          "alt": "A person cleaning their face with skincare products after a shower",
+          "caption": "A person cleaning their face with skincare products after a shower",
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:10:27.771267"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:58:40.924585"
 }

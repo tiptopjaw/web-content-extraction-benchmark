@@ -1,66 +1,110 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.nationalcar.com/en/home.html",
   "file_id": "0488",
-  "downloaded_at": "2025-12-20T19:13:13.618811",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "rental-car",
+        "service",
+        "travel",
+        "homepage"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Fast & Convenient Car Rental at 1,500+ Locations | National Car Rental",
     "author": null,
     "publish_date": null,
-    "main_content": "Rest Easy with Award-winning Service\nStart a Reservation\n\nA faster, more convenient experience every time you rent a vehicle.\n\n1,500+\nLocations Worldwide\n\nBypass the Counter\nEmerald Club members get on their way, faster.\n\nChoose Your Vehicle\nFrom a sporty Midsize to something more rugged, the Aisle has it all.\n\nEarn Rewards\nTurn business trips into free rental days & more.\n\nOur Standard of Care\nWe promise to put you first, with exceptional customer service and vehicles that are maintained and cleaned to our high-quality standards. Everything we do, we do with our Standard of Care.\n\nSpecial Offers\nExplore our special offers and see how you can save on your next rental.\n\nNational Mobile App\nDownload the National Car Rental® app and tap into the power of more speed, choice and convenience - all at your fingertips.\n\nEnjoy Speed, Choice & Total Control\nThe Emerald Club is designed to make your car rental experience faster and more convenient. You can enjoy special privileges reserved for frequent renters every time you rent.\n\n1500+\nWorldwide National Car Rental Locations\nNational Car Rental has worldwide locations in the United States, Canada, Europe, Latin America, the Caribbean, Asia-Pacific, Africa and Australia.",
+    "main_content": "National Car Rental offers fast and convenient car rental at 1,500+ locations worldwide. Join Emerald Club and enjoy exclusive benefits including counter bypass, choose your own car and earn rewards towards free rental days at select locations. Emerald Club members get on their way faster with a faster, more convenient experience every time they rent a vehicle. The Emerald Club is designed to make your car rental experience faster and more convenient, with special privileges reserved for frequent renters. Services include bypassing the counter, choosing your own vehicle from a sporty Midsize to something more rugged, and turning business trips into free rental days. National promises to put you first with exceptional customer service and vehicles that are maintained and cleaned to high-quality standards through their Standard of Care commitment.",
     "with": [
-      "Rest Easy with Award-winning Service",
-      "A faster, more convenient experience every time you rent a vehicle.",
-      "Emerald Club members get on their way, faster.",
-      "We promise to put you first, with exceptional customer service and vehicles that are maintained and cleaned to our high-quality standards.",
-      "National Car Rental has worldwide locations in the United States, Canada, Europe, Latin America, the Caribbean, Asia-Pacific, Africa and Australia."
+      "National Car Rental has worldwide locations in the United States, Canada, Europe, Latin America, the Caribbean, Asia-Pacific, Africa and Australia.",
+      "Emerald Club members get on their way, faster with a faster, more convenient experience every time you rent a vehicle.",
+      "From a sporty Midsize to something more rugged, the Aisle has it all when you choose your vehicle.",
+      "Turn business trips into free rental days and more by earning rewards.",
+      "We promise to put you first, with exceptional customer service and vehicles that are maintained and cleaned to our high-quality standards."
     ],
     "without": [
       "Skip Navigation",
-      "Sign In / Enroll",
-      "About Emerald Club",
-      "Reserve",
-      "View / Modify",
-      "For Business",
-      "Locations",
-      "Vehicles",
-      "Specials",
-      "National Mobile App",
-      "General Aviation",
-      "Aisle Locations",
-      "Travel Agent Reservations",
-      "Partner Rewards",
-      "Reserve for Someone Else",
-      "Emerald Club Sign In",
-      "Emerald Club Enroll",
-      "Emerald Club Benefits",
-      "Emerald Club Services",
-      "Car Sales",
-      "Customers with Disabilities",
-      "Contact Us",
-      "FAQs",
-      "Site Map",
-      "All Specials",
-      "Last Minute Specials",
-      "Email Sign-Up",
-      "Company History",
-      "News & Stories",
-      "Social Responsibility",
-      "Global Franchise Opportunities",
-      "Career Opportunities",
-      "Get the National App",
-      "Share Like a Pro",
-      "Facebook",
-      "Twitter",
-      "YouTube",
-      "Terms of Use",
+      "© 2025 Enterprise Holdings, Inc. All Rights Reserved",
       "Privacy Policy",
-      "Cookie Policy",
-      "Consumer Health Data Privacy Statement",
-      "Privacy Choices",
-      "AdChoices",
-      "© 2025 Enterprise Holdings, Inc. All Rights Reserved"
-    ]
+      "Terms of Use",
+      "Menu"
+    ],
+    "images": {
+      "total_in_content": 13,
+      "annotated_count": 9,
+      "items": [
+        {
+          "src": "/en/home/_jcr_content/root/container_299753168/container/container_copy/container/container/image_copy.coreimg.png/1763677316362/foreground.png",
+          "filename": "foreground.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "/en/home/_jcr_content/root/container_299753168/container/container_copy/container_1020198467/container_copy_copy_/teaser_copy_1593422814.coreimg.png/1763677316491/map-pin.png",
+          "filename": "map-pin.png",
+          "alt": null,
+          "caption": "1,500+ Locations Worldwide",
+          "is_hero": false
+        },
+        {
+          "src": "/en/home/_jcr_content/root/container_299753168/container/container_1020198467/container_copy/container/teaser.coreimg.png/1763677316570/bypass-the-counter.png",
+          "filename": "bypass-the-counter.png",
+          "alt": null,
+          "caption": "Bypass the Counter",
+          "is_hero": false
+        },
+        {
+          "src": "/en/home/_jcr_content/root/container_299753168/container/container_1020198467/container_copy/container/teaser_copy.coreimg.png/1763677316622/choose-your-vehicle.png",
+          "filename": "choose-your-vehicle.png",
+          "alt": null,
+          "caption": "Choose Your Vehicle",
+          "is_hero": false
+        },
+        {
+          "src": "/en/home/_jcr_content/root/container_299753168/container/container_1020198467/container_copy/container/teaser_copy_15934228.coreimg.png/1763677316674/rewards.png",
+          "filename": "rewards.png",
+          "alt": null,
+          "caption": "Earn Rewards",
+          "is_hero": false
+        },
+        {
+          "src": "/en/home/_jcr_content/root/container_299753168/container/container_1020198467_1423471110/container_copy/container_copy_copy_/teaser_copy_1593422814.coreimg.png/1763677316765/national-standard-of-care-850w.png",
+          "filename": "national-standard-of-care-850w.png",
+          "alt": null,
+          "caption": "Our Standard of Care",
+          "is_hero": false
+        },
+        {
+          "src": "/en/home/_jcr_content/root/container_299753168/container/container_1020198467_1423471110/container_copy/container_copy_copy/teaser.coreimg.png/1763677316826/control-center-aisle.png",
+          "filename": "control-center-aisle.png",
+          "alt": null,
+          "caption": "Special Offers",
+          "is_hero": false
+        },
+        {
+          "src": "/en/home/_jcr_content/root/container_299753168/container/container_1020198467_1423471110/container_copy/container_copy_copy/teaser_copy.coreimg.png/1763677316878/national-app-tile-en.png",
+          "filename": "national-app-tile-en.png",
+          "alt": null,
+          "caption": "National Mobile App",
+          "is_hero": false
+        },
+        {
+          "src": "/en/home/_jcr_content/root/container_299753168/container/container_1020198467_1423471110/container_copy/container_copy_copy/teaser_copy_1593422814.coreimg.png/1763677316917/ec-homepage-tiles.png",
+          "filename": "ec-homepage-tiles.png",
+          "alt": null,
+          "caption": "Enjoy Speed, Choice & Total Control",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T19:13:13.618816"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:07:05.608972"
 }

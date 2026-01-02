@@ -1,27 +1,68 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.proactiveengineer.com/p/33-why-you-should-read-more-engineering",
   "file_id": "2576",
-  "downloaded_at": "2025-12-20T23:05:15.985043",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "engineering",
+        "blogging",
+        "career-advice"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "#33 Why You Should Read More Engineering Blogs",
     "author": "Shehab Abdel-Salam",
     "publish_date": "2025-05-09",
-    "main_content": "One of the early mistakes I made in my career was not reading engineering blogs. I used to think that the only way for an engineer to deepen their knowledge was by reading textbooks like Designing Data-Intensive Apps by Martin Kleppman, Fundamentals of Software Architecture, and so on. While these are great references to have, they often miss the real-world challenges engineers face when architecting solutions for their customers, especially at scale. A great way to learn new patterns or solutions is through stories. That’s where engineering blogs can help.\n\nIn this post, I’ll highlight some example stories and share my 25 favourite engineering blogs.\n\nWhy should I read engineering blogs?\n\nSay you’re in product team (A) focused on developing a component like search service. There’s team (B) working on a payment service, and team (C) working on the product’s infrastructure. If one engineer from each team gave a ~30min talk to share new findings or solutions they’ve tried, you’d want to attend, right?\n\nNow instead of 30-min talks, their findings / solutions are shared as written documents. And instead of just internal teams sharing their work, these documents come from teams across various companies. The range of stories is now virtually endless, with something interesting and relevant for every engineering team. \n\nA good engineering story includes:\n\n1. Challenge/Struggle\n2. Ideas\n3. Solution\n4. Next Steps\n\nAcademic textbooks often take time to include new industry-tested ideas. So, to avoid “knowledge staleness”, it’s important to combine work experience with modern solutions to build a strong understanding of what works and what doesn’t. Solutions aren’t always as straightforward as some textbooks may suggest.\n\nSo my advice for software engineers is this:\n\nDeepen your knowledge through work experience and by reading books and engineering blogs.\n\nHere are 8 blog posts where engineers share how they solved an interesting problem, including what worked and what didn’t.\n\nEngineering blog stories\n\n1. Netflix - Introducing Impressions (2025)\n\nNetflix wrote a post about building a system to track every image a user hovers over on the homepage, called “impressions”, to improve personalised recommendations. They explained why tracking impression history matters (to avoid overexposure, highlight new releases, and improve analytics).\n\nThey shared interesting stats about their new system, processing from 1 to 1.5 million events per second using technologies like Apache Flink, Kafka, and Iceberg. They also talked about their system’s qualities like ensuring high data quality, and their future plans to automate performance tuning and improve alerting.\n\nLink: https://netflixtechblog.com/introducing-impressions-at-netflix-e2b67c88c9fb\n\n2. Canva - Supporting real-time mouse pointers (2024)\n\nSay you are asked to design an edit collaboration experience (like Canva) based on customer research. You discuss product requirements and trade-offs, and after some thinking, you might arrive at a solution that requires websockets for bidirectional communication with a coordination component (e.g., etcd or ZooKeeper), or a pub/sub model (e.g., Redis).\n\nThat’s what Canva initially did. They served 100,000 users using websockets and Redis pub/sub for real-time interactions.\n\nHowever, Canva faced a scalability issue with supporting real-time mouse updates, which were capped at 3 updates / sec. They shared in their blog post how they transitioned from a Websockets + Redis-based architecture (Milestone 1) to a WebRTC-based architecture (Milestone 2) to achieve a much higher update rate of 60 updates / sec.\n\nTheir unique infrastructure problem is a great example of how production engineers manage stateful connections at scale while carefully weighing the trade-offs between technologies that power a great product like Canva.\n\nLink: https://www.canva.dev/blog/engineering/realtime-mouse-pointers\n\n3. Figma - A 9-month journey of sharding PostgreSQL for “infinite” scale (2024).\n\nFigma wrote a blog post about their journey with horizontal sharding on their SQL database. They shared useful insights on database sharding (logical vs physical sharding). They shared some interesting stats in their blog. For example, new tables sharded in production experienced only 10 seconds of partial downtime. It’s an interesting read for those managing databases at scale.\n\nLink: https://www.figma.com/blog/how-figmas-databases-team-lived-to-tell-the-scale\n\n4. Discord - how they store billions trillions of messages! (2023)\n\nDiscord shared in their 2017 blog post how they were managing 120 million messages / day using Cassandra with a team of only four backend engineers! However, they later faced performance issues with Cassandra as their messaging infrastructure grew to store trillions of messages. As a result, they decided to migrate to ScyllaDB for handling the new write-throughput. They go into technical details about how they managed the database migration and celebrated how ScyllaDB helped them handle massive data during high-traffic events like the World Cup. Here’s a highlight:\n\n“At the end of 2022, people all over the world tuned in to watch the World Cup. One thing we discovered very quickly was that goals scored showed up in our monitoring graphs. This was very cool because not only is it neat to see real-world events show up in your systems, but this gave our team an excuse to watch soccer during meetings. We weren’t “watching soccer during meetings”, we were “proactively monitoring our systems’ performance.””\n\nLinks:\n(2017) https://discord.com/blog/how-discord-stores-billions-of-messages\n(2023) https://discord.com/blog/how-discord-stores-trillions-of-messages\n\n5. Snap - using QUIC for Snapchatters (2021)\n\nThe QUIC protocol was designed in 2012 as a replacement for TCP to reduce network latency. I had read about this protocol before, but I had never read stories about using QUIC in production. Snap shared their story of how QUIC reduced network latency for live videos, a critical feature for their users (Snapchatters).\n\nLink: https://eng.snap.com/quic-at-snap\n\n6. Shopify - Building resilient payment systems.\n\nShopify shared 10 tips for building resilient payment systems in a blog post. While the details are high-level, their sixth tip on Idempotency Keys stood out as an interesting observation. They recommend using ULID instead of UUID4 as it performs better with B-tree–based indexes due to its sorted nature. Here’s a highlight:\n\n“In one high-throughput system at Shopify we’ve seen a 50 percent decrease in INSERT statement duration by switching from UUIDv4 to ULID for idempotency keys.”\n\nLink: https://shopify.engineering/building-resilient-payment-systems\n\n7. Uber - Kubernetes migration journey (2025)\n\nUber initially used Apache Mesos as their container orchestration framework to manage their platform. However, they decided to move away from Mesos (which they announced as deprecated in 2021) and migrate to Kubernetes. This decision posed significant challenges related to scale, reliability, and integration. They first defined their migration principles and explained why they had to rebuild all their integrations from scratch. It’s an interesting read about Uber’s year-and-a-half journey migration from Mesos to Kubernetes.\n\nLink: https://www.uber.com/blog/migrating-ubers-compute-platform-to-kubernetes-a-technical-journey/\n\n8. Stripe - Building interactive docs with Markdoc\n\nStripe shared how they rebuilt their documentation with Markdoc, a custom format that simplifies the authoring experience for developers. It’s an interesting tool that boosts both developer productivity and documentation quality. If you care about great docs, this one’s a must-read.\n\nLinks: \nhttps://stripe.com/blog/markdoc\nhttps://markdoc.dev/\n\nTop 25 engineering blogs\n\nP.S. My recommendation is not to read all these blogs. I recommend picking the ones that tackle a similar problem you’re facing or cover a topic you’re curious about.\n\nHere are my favourites:\n\n1. Engineering at Meta (also, AI Research at Meta)\n2. AWS Architecture Blog\n3. LinkedIn Engineering\n4. Discord: Engineering & Developers\n5. GitHub Engineering\n6. Stripe Blog: Engineering\n7. Slack Engineering\n8. Google for Developers\n9. Uber Engineering\n10. Spotify Engineering\n11. Netflix Tech Blog\n12. Canva Engineering Blog\n13. Pinterest Engineering\n14. The Cloudflare Blog\n15. Medium Engineering\n16. Yelp Engineering Blog\n17. Airbnb Tech Blog\n18. Shopify Engineering Blog\n19. Snap Engineering\n20. Docker Engineering\n21. Engineering at Microsoft\n22. Dropbox Tech Blog\n23. Auth0 Engineering\n24. Booking.com Blog\n25. Grafana Labs Blog\n\nLet me know your favourite blogs or share your recommendations!\n\nP.S. If you’re finding this newsletter valuable, share it with a friend, and consider subscribing if you haven’t already.",
+    "main_content": "One of the early mistakes I made in my career was not reading engineering blogs. I used to think that the only way for an engineer to deepen their knowledge was by reading textbooks like Designing Data-Intensive Apps by Martin Kleppman, Fundamentals of Software Architecture, and so on. While these are great references to have, they often miss the real-world challenges engineers face when architecting solutions for their customers, especially at scale. A great way to learn new patterns or solutions is through stories. That's where engineering blogs can help.\n\nWhy should I read engineering blogs? The range of stories is virtually endless, with something interesting and relevant for every engineering team. A good engineering story includes Challenge/Struggle, Ideas, Solution, and Next Steps. Academic textbooks often take time to include new industry-tested ideas. So, to avoid knowledge staleness, it's important to combine work experience with modern solutions to build a strong understanding of what works and what doesn't.\n\nDeepen your knowledge through work experience and by reading books and engineering blogs. Here are 8 blog posts where engineers share how they solved an interesting problem, including what worked and what didn't:\n\n1. Netflix - Introducing Impressions (2025): Building a system to track every image a user hovers over on the homepage, processing from 1 to 1.5 million events per second using Apache Flink, Kafka, and Iceberg.\n\n2. Canva - Supporting real-time mouse pointers (2024): Transitioning from a Websockets + Redis-based architecture to a WebRTC-based architecture to achieve 60 updates per second instead of 3.\n\n3. Figma - A 9-month journey of sharding PostgreSQL for infinite scale (2024): Insights on logical vs physical sharding, with new tables experiencing only 10 seconds of partial downtime.\n\n4. Discord - how they store trillions of messages! (2017-2023): Managing 120 million messages per day with Cassandra, later migrating to ScyllaDB to handle trillions of messages.\n\n5. Snap - using QUIC for Snapchatters (2021): How QUIC protocol reduced network latency for live videos.\n\n6. Shopify - Building resilient payment systems: Using ULID instead of UUID4 for idempotency keys, seeing a 50 percent decrease in INSERT statement duration.\n\n7. Uber - Kubernetes migration journey (2025): Year-and-a-half journey migrating from Apache Mesos to Kubernetes.\n\n8. Stripe - Building interactive docs with Markdoc: Rebuilding documentation with a custom format that simplifies the authoring experience.\n\nTop 25 engineering blogs: Engineering at Meta, AWS Architecture Blog, LinkedIn Engineering, Discord Engineering, GitHub Engineering, Stripe Blog, Slack Engineering, Google for Developers, Uber Engineering, Spotify Engineering, Netflix Tech Blog, Canva Engineering Blog, Pinterest Engineering, The Cloudflare Blog, Medium Engineering, Yelp Engineering Blog, Airbnb Tech Blog, Shopify Engineering, Snap Engineering, Docker Engineering, Engineering at Microsoft, Dropbox Tech Blog, Auth0 Engineering, Booking.com Blog, Grafana Labs Blog.",
     "with": [
       "One of the early mistakes I made in my career was not reading engineering blogs.",
-      "A great way to learn new patterns or solutions is through stories. That’s where engineering blogs can help.",
-      "Deepen your knowledge through work experience and by reading books and engineering blogs.",
-      "Here are 8 blog posts where engineers share how they solved an interesting problem, including what worked and what didn’t.",
-      "Here are my favourites: [list of 25 engineering blogs]"
+      "A good engineering story includes: Challenge/Struggle, Ideas, Solution, Next Steps.",
+      "Canva faced a scalability issue with supporting real-time mouse updates, which were capped at 3 updates per second.",
+      "Figma shared that new tables sharded in production experienced only 10 seconds of partial downtime.",
+      "Shopify recommends using ULID instead of UUID4 for idempotency keys as it performs better with B-tree–based indexes."
     ],
     "without": [
-      "Subscribe",
-      "Sign in",
-      "Like (6)",
-      "View comments (1)",
-      "© 2025 Shehab Abdel-Salam · Privacy ∙ Terms ∙ Collection notice"
-    ]
+      "Subscribe to newsletter",
+      "Copyright 2025 Shehab Abdel-Salam",
+      "Sign in button",
+      "Previous and Next post navigation",
+      "Comment section and user avatars"
+    ],
+    "images": {
+      "total_in_content": 4,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!IKP_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c67ac00-560d-4c11-8879-7693eaee5bdb_1340x616.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c67ac00-560d-4c11-8879-7693eaee5bdb_1340x616.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!PwW-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33af139d-2b52-41ca-8001-c96506c9082d_3024x1090.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33af139d-2b52-41ca-8001-c96506c9082d_3024x1090.png",
+          "alt": "Data flow",
+          "caption": "Source: https://www.canva.dev/blog/engineering/realtime-mouse-pointers/",
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!Cwe4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d991201-deee-4733-b3e1-6c7914a26d10_2712x1300.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d991201-deee-4733-b3e1-6c7914a26d10_2712x1300.png",
+          "alt": "Difference between the WebSocket-based and WebRTC-based architectures",
+          "caption": "Difference between the WebSocket-based and WebRTC-based architectures",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:05:15.985050"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:02:41.133816"
 }

@@ -1,27 +1,68 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.valleyheating.com/electrical/",
   "file_id": "1621",
-  "downloaded_at": "2025-12-20T22:39:50.347732",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "electrical",
+        "hvac",
+        "service",
+        "local business"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Electrical Repair in San Jose",
+    "title": "Electrical Services in Santa Clara | Valley Heating, Cooling, Electrical and Solar",
     "author": null,
     "publish_date": null,
-    "main_content": "Electrical Repair in San Jose\n\nComprehensive Electrical Solutions for Homes and Businesses—Serving Silicon Valley, South Bay, and the Peninsula\n\nValley Heating, Cooling, Electrical and Solar, and our electricians in San Jose proudly offer a variety of electrical services. We provide electrical repairs and installations for residential homes and light commercial buildings.\n\nWhether we are upgrading electrical panels, remodeling entire homes or troubleshooting bad circuits, our quality and commitment to our clients will never change. We guarantee to provide you with good old-fashioned service!\n\nRequest an appointment with a San Jose electrician by calling (408) 868-5500 or contacting us online.\n\nElectrical Services We Offer\n\nWe extend our electrical services to homeowners and the owners of light commercial properties. Our team offers repairs, installations and maintenance services to keep your electrical system in good working order.\n\nOur electrical services include:\n\nElectrical panel upgrades: Old, outdated electrical panels are an increased fire and safety hazard — let us replace them.\nCircuit breaker repair: Many circuit breakers become overheated through the years and may malfunction, causing them to trip — we can repair malfunctioning circuit breakers.\nRecessed lighting: Add a beautiful touch to any room with recessed lighting.\nKitchen remodeling: We can add new outlets and recessed lighting to modernize your kitchen as part of your remodeling project.\nCeiling fan installation: Paddle fans will cool down your home significantly during those hot summer days.\nAttic and bathroom fans: Attic fans are great for cooling down your home, while bathroom fans can prevent mold and mildew growth.\nSecurity lighting and flood lighting: Add motion lights to increase the safety at your home or office.\nDedicated circuits for spas and Jacuzzis: These kinds of products may require their own circuit, which we can assist with.\n\nSigns You Need an Electrician\n\n1. Blown fuse after blown fuse - Every now and then an isolated blown fuse is nothing to write home about. But if it's happening again and again then you should call in our San Jose electrician to at the very least inspect your electrical panel.\n\n2. Flickering lights - If your electrical system is on short supply, the first symptom of this may very well be flickering lights. Your AC, fridge, and other electrical appliances take up a lot of electricity and your lights flickering is a sign that your electrical system is spread thin.\n\n3. That strange buzzing sound - Electricity may be able to do miraculous things, but one thing it isn't supposed to do is make noise. If you're getting a buzzing sound from an electrical appliance, then call in our San Jose electrician because this is abnormal.\n\n4. An electrical outlet that's hot to the touch - You may think that an electrical outlet is supposed to be hot, but it's actually not a normal observation. This means that the electrical wiring in your outlet needs to be redone by a professional.\n\n5. Power bricks connecting to power bricks - If you ever find that you don't have enough electrical outlets and you need to connect a power brick to another power brick then give us a call. This is a fire hazard and we can set up your electrical system with as many electrical outlets as you need without putting your home at risk.\n\nEnsuring Your Home's Wiring is Safe and Up to Date\n\nChecking if your wiring is up to date can be hard to assess by most inspectors and homeowners. For older homes, wiring usually tends to deteriorate which leads to more issues. For the best analysis of your wiring, you should reach out to a trusted electrician near you to inspect.\n\nHow Often Should Electrical Maintenance Be Done?\n\nThe frequency of electrical maintenance depends on several factors including the type of electrical equipment, its usage, environmental conditions, and applicable regulations or guidelines. Generally, electrical maintenance should be performed regularly to ensure safety, reliability, and efficiency. Here are some general guidelines:\n\nRoutine Inspections: Conduct regular visual inspections of electrical equipment and systems by qualified personnel to check for signs of wear, damage, or overheating.\nScheduled Maintenance: Follow manufacturer-recommended maintenance schedules, adjusting for environmental conditions or heavy usage, to ensure optimal performance and safety.\nRegulatory Compliance: Adhere to industry regulations and standards regarding electrical maintenance to ensure legal compliance and safety.\nEmergency Maintenance: Address malfunctions or safety hazards promptly.",
+    "main_content": "Valley Heating, Cooling, Electrical and Solar, and our electricians in San Jose proudly offer a variety of electrical services. We provide electrical repairs and installations for residential homes and light commercial buildings. Whether we are upgrading electrical panels, remodeling entire homes or troubleshooting bad circuits, our quality and commitment to our clients will never change. We guarantee to provide you with good old-fashioned service!\n\nElectrical Services We Offer:\n\nWe extend our electrical services to homeowners and the owners of light commercial properties. Our team offers repairs, installations and maintenance services to keep your electrical system in good working order.\n\nOur electrical services include:\n- Electrical panel upgrades: Old, outdated electrical panels are an increased fire and safety hazard — let us replace them.\n- Circuit breaker repair: Many circuit breakers become overheated through the years and may malfunction, causing them to trip — we can repair malfunctioning circuit breakers.\n- Recessed lighting: Add a beautiful touch to any room with recessed lighting.\n- Kitchen remodeling: We can add new outlets and recessed lighting to modernize your kitchen as part of your remodeling project.\n- Ceiling fan installation: Paddle fans will cool down your home significantly during those hot summer days.\n- Attic and bathroom fans: Attic fans are great for cooling down your home, while bathroom fans can prevent mold and mildew growth.\n- Security lighting and flood lighting: Add motion lights to increase the safety at your home or office.\n- Dedicated circuits for spas and Jacuzzis: These kinds of products may require their own circuit, which we can assist with.\n\nSigns You Need an Electrician:\n1. Blown fuse after blown fuse - Every now and then an isolated blown fuse is nothing to write home about. But if it's happening again and again then you should call in our San Jose electrician to at the very least inspect your electrical panel.\n2. Flickering lights - If your electrical system is on short supply, the first symptom of this may very well be flickering lights. Your AC, fridge, and other electrical appliances take up a lot of electricity and your lights flickering is a sign that your electrical system is spread thin.\n3. That strange buzzing sound - Electricity may be able to do miraculous things, but one thing it isn't supposed to do is make noise. If you're getting a buzzing sound from an electrical appliance, then call in our San Jose electrician because this is abnormal.\n4. An electrical outlet that's hot to the touch - You may think that an electrical outlet is supposed to be hot, but it's actually not a normal observation. This means that the electrical wiring in your outlet needs to be redone by a professional.\n5. Power bricks connecting to power bricks - If you ever find that you don't have enough electrical outlets and you need to connect a power brick to another power brick then give us a call. This is a fire hazard and we can set up your electrical system with as many electrical outlets as you need without putting your home at risk.\n\nEnsuring Your Home's Wiring is Safe and Up to Date:\nChecking if your wiring is up to date can be hard to assess by most inspectors and homeowners. For older homes, wiring usually tends to deteriorate which leads to more issues. For the best analysis of your wiring, you should reach out to a trusted electrician near you to inspect.\n\nHow Often Should Electrical Maintenance Be Done?\nThe frequency of electrical maintenance depends on several factors including the type of electrical equipment, its usage, environmental conditions, and applicable regulations or guidelines. Generally, electrical maintenance should be performed regularly to ensure safety, reliability, and efficiency.",
     "with": [
-      "Valley Heating, Cooling, Electrical and Solar, and our electricians in San Jose proudly offer a variety of electrical services.",
-      "Whether we are upgrading electrical panels, remodeling entire homes or troubleshooting bad circuits, our quality and commitment to our clients will never change.",
-      "Our electrical services include: Electrical panel upgrades, Circuit breaker repair, Recessed lighting, Kitchen remodeling, Ceiling fan installation, Attic and bathroom fans, Security lighting and flood lighting, Dedicated circuits for spas and Jacuzzis.",
-      "If you're getting a buzzing sound from an electrical appliance, then call in our San Jose electrician because this is abnormal.",
-      "The frequency of electrical maintenance depends on several factors including the type of electrical equipment, its usage, environmental conditions, and applicable regulations or guidelines."
+      "Electrical Services in Santa Clara | Valley Heating, Cooling, Electrical and Solar",
+      "We provide electrical repairs and installations for residential homes and light commercial buildings.",
+      "Electrical panel upgrades: Old, outdated electrical panels are an increased fire and safety hazard — let us replace them.",
+      "Flickering lights - If your electrical system is on short supply, the first symptom of this may very well be flickering lights.",
+      "Our team offers repairs, installations and maintenance services to keep your electrical system in good working order."
     ],
     "without": [
       "Skip to Content",
-      "Home | Areas We Serve | Rebates | Blogs | Showroom | Reviews | Specials | Contact Us",
-      "About Us | Products | Air Conditioning | Heating | Heat Pumps | Indoor Air Quality | Water Heaters | Electrical | Solar",
+      "Contact Us",
+      "Schedule Service",
       "Follow Us",
-      "Schedule Service"
-    ]
+      "Home"
+    ],
+    "images": {
+      "total_in_content": 15,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "/assets/pack/background/banner-house-lights.2501161602367.jpg",
+          "filename": "banner-house-lights.2501161602367.jpg",
+          "alt": null,
+          "caption": "House with lights showing electrical services",
+          "is_hero": true
+        },
+        {
+          "src": "/assets/pack/foreground/values-v2-img.2501151752116.png",
+          "filename": "values-v2-img.2501151752116.png",
+          "alt": null,
+          "caption": "Company values and commitment to quality service",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/pack/foreground/map.2501161528056.png",
+          "filename": "map.2501161528056.png",
+          "alt": null,
+          "caption": "Service area map covering Silicon Valley and South Bay",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:39:50.347737"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:33:19.816811"
 }

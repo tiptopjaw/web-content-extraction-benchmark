@@ -1,0 +1,53 @@
+{
+  "schema_version": "2.0",
+  "url": "https://iida.org/about/what-is-interior-design",
+  "file_id": "0212",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "about",
+        "definition",
+        "educational"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "What is Interior Design? | IIDA",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Interior design is defined as the professional and comprehensive practice of creating an interior environment that addresses, protects, and responds to human need(s). It is the art, science, and business planning of a creative, technical, sustainable, and functional interior solution that corresponds to the architecture of a space, while incorporating process and strategy, a mandate for well-being, safety, and health, with informed decisions about style and aesthetics. IIDA's designers represent a network of engaged, active local design communities that span the nation and the world. Tap into your local chapter and help us use the power of design as a tool for creating change and making space for all. Learn more about the Future of Membership and belonging.",
+    "with": [
+      "Interior design is defined as the professional and comprehensive practice of creating an interior environment that addresses, protects, and responds to human need(s).",
+      "It is the art, science, and business planning of a creative, technical, sustainable, and functional interior solution that corresponds to the architecture of a space.",
+      "IIDA's designers represent a network of engaged, active local design communities that span the nation and the world.",
+      "Tap into your local chapter and help us use the power of design as a tool for creating change and making space for all.",
+      "IIDA is the top interior design network and association for professional commercial interior designers, interior design firms, manufacturers, and interior design students and educators."
+    ],
+    "without": [
+      "Join our newsletter",
+      "Privacy Policy",
+      "Facebook social media link",
+      "Contact Us navigation link",
+      "Terms of Use"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://d1wci53n4f20tv.cloudfront.net/banners/_1920xAUTO_crop_center-center_none/IIDA-Chicago-2017-26-copy.jpg",
+          "filename": "IIDA-Chicago-2017-26-copy.jpg",
+          "alt": "IIDA Chicago 2017 26 copy",
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:24:30.207896"
+}

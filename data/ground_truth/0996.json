@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.libertymutual.com/vehicle/auto-insurance/cheap-car-insurance",
+  "file_id": "0996",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "insurance",
+        "auto-insurance",
+        "quote",
+        "landing-page"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Cheap Car Insurance Quotes | Liberty Mutual",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Cheap car insurance doesn't have to mean low quality. Find affordable coverage, discounts, and ways to save on your auto insurance now. Save hundreds when you switch to Liberty Mutual. The page features a quote form where users can enter their ZIP Code to get a price quote. Liberty Mutual offers a wide range of insurance products including Auto, Home, Condo, Renters, Pet, Motorcycle, and Life insurance. Customers can also bundle multiple policies to save even more on their insurance. The service provides information about car insurance discounts, accident forgiveness, new car replacement, and dedicated claims support. Liberty Mutual has been helping customers find the right coverage at the right price for over 100 years.",
+    "with": [
+      "Cheap car insurance doesn't have to mean low quality.",
+      "Save hundreds when you switch to Liberty Mutual.",
+      "Enter your ZIP Code to get a price quote.",
+      "Liberty Mutual offers Auto, Home, Condo, Renters, Pet, Motorcycle, and Life insurance.",
+      "Get a quote today and see how much you could save."
+    ],
+    "without": [
+      "Skip to content",
+      "Shop insurance dropdown menu",
+      "Claims dropdown menu",
+      "Customer support dropdown menu",
+      "Log in navigation"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:34:45.903283"
+}

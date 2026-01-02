@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "url": "https://thp.io/2021/py3-bytes-unicode.html",
+  "file_id": "2513",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "programming",
+        "python",
+        "unicode",
+        "technical"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Bytes vs unicode codepoint handling in Python 3",
+    "author": "Thomas Perl",
+    "publish_date": "2021-02-21",
+    "main_content": "Yesterday there was an interesting discussion on Twitter about Python 2 vs Python 3's handling of byte strings and unicode strings. One interesting point that Andre made was that if we ignored all the legacy (non-UTF-8) byte encodings, the Python 2 approach of implicitly converting strings to bytes (always using UTF-8 as the byte encoding) would be better. In my opinion (and experience), Python 3's way of dealing with this is actually quite sane and The Right Thing if you think about the operations you do on strings (and byte strings) and how they differ in behavior. The Python 2 way was (even if we would ignore non-UTF-8 byte encodings) error-prone and caused lots of headache. tl/dr: Because Python overloads len() and [] based on the type of data, bytes vs. unicode string needs to be encoded into the type system, because the programmer needs to pick how they want to interpret the data. From this point, we have to think of different 'units': Bytes treat each byte as one 'unit', which is useful for working with binary data; Codepoints treat each unicode codepoint as a 'unit', which is useful if you care about 'text' and e.g. an umlaut should be treated as single character; Character on screen is a hard problem because of modifiers and zero-width joiners. The problem is that just like with len(), slicing has different output depending on whether the string is UTF-8 encoded bytes or a unicode string. There's no Right or Wrong variant, both make sense, you just have to specify if your units are 'bytes' or 'unicode codepoints'. It's true that all the problems above come from the simple fact that functions like len() and operators like the slicing operator are overloaded, causing different behavior depending on the type of the object it's called on. But since Python has overloaded functions and operators that work on bytes and strings, it kind of requires that the type system encodes whether some value is currently bytes or unicode 'text'. I do agree that UTF-8 should be the One True Encoding, but similarly I enjoy that Python 3 deals with it in a much more sane way than what Python 2 did given its language design choices.",
+    "with": [
+      "In my opinion (and experience), Python 3's way of dealing with this is actually quite sane and The Right Thing if you think about the operations you do on strings (and byte strings) and how they differ in behavior.",
+      "tl/dr: Because Python overloads len() and [] based on the type of data, bytes vs. unicode string needs to be encoded into the type system, because the programmer needs to pick how they want to interpret the data.",
+      "The problem is that just like with len(), slicing has different output depending on whether the string is UTF-8 encoded bytes or a unicode string.",
+      "The reason is simple: 'ü' gets encoded as 2 bytes, and if you just decode the first byte, it will result in weirdness or a UnicodeDecodeError.",
+      "But since Python has overloaded functions and operators that work on bytes and strings (and you still need to differentiate between when you want to work on bytes and when you want to work on codepoints), it kind of requires that the type system encodes whether some value is currently bytes or unicode 'text'."
+    ],
+    "without": [
+      "Bytes vs unicode codepoint handling in Python 3 (thp.io)",
+      "thp.io · Blog 2021",
+      "2021-02-25: Found a link to the Rust documentation",
+      "Thomas Perl · 2021-02-21",
+      "Sprachenbenützungsproblem"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:35:32.838206"
+}

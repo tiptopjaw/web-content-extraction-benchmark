@@ -1,27 +1,117 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.rsi.edu/programs/electrical-applications/",
   "file_id": "2161",
-  "downloaded_at": "2025-12-20T23:05:17.715253",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "trade-school",
+        "electrician-training",
+        "phoenix"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Electrical Applications Program (Electrician Training)",
+    "title": "Electrician School in Phoenix, AZ - Electrical Training | RSI",
     "author": null,
     "publish_date": null,
-    "main_content": "This hands-on electrician training program prepares you for an electrical career in just seven months. Learn the basics for electricians through practical instruction at a focused electrician school designed to get you job-ready.\n\nThe Electrical Applications program at RSI provides hands-on electrician training focused on the basics for electricians and real-world job skills. Students learn the fundamentals of:\n- Mechanical and electrical principles\n- Residential and commercial wiring applications\n- Voice, video and data cabling systems\n- The application on motors, lighting, devices and various types of transformers\n\nRSI students will receive a Diploma after successfully completing our electrician school program.\n\nIn as little as 7 months, you'll have the electrical training necessary to start your electrical career. Here are some of the career opportunities that await you:\n- Residential Electrician\n- Commercial Electrician\n- Industrial Electrician\n- Maintenance Electrician\n- Service Electrician\n- Wireman (Residential or Commercial)\n\nGraduating from RSI can open the door to a range of career paths in industries that keep the power on and the world running. With skills that are in demand nationwide**, our hands-on electrician training prepares you for entry-level roles across construction, service, and maintenance sectors.\n\nWhether you're focused on residential wiring or specialized systems, RSI helps you build a foundation for a long-term electrical career.\n\nCareer Titles:\n- Residential, Commercial or Industrial Electrician\n- Alarm systems technician\n- Garage door technician\n- Building maintenance\n- Facilities technician\n- Solar technician\n- VDV (Voice data video) technician\n- Fire alarm technician\n- Lighting systems technician\n\nWork Types:\n- Distribution\n- Transmission\n- Underground installations\n- Warehousing\n- Telecommunications\n- Mission critical systems\n- Hospitality\n- Security Systems\n\nEmployers:\n- Residential (Contractors, General contractors, Construction companies)\n- Commercial (Contractors, General contractors, Construction companies, Server farms, Casinos)\n- Industrial (Refineries, Manufacturing)\n\nWeekend classes are now available for the Electrical Applications program at The Refrigeration School in Phoenix! Perfect for students with weekday commitments, this flexible training option helps you build the skills for a career in the electrical industry—without interrupting your busy schedule.\n\nEmployment is Expected to Grow for Electricians in the US by 80,200 Jobs by 2033!**\n\nOver 10,000 Graduates¹\n\nGraduates Placed in 40+ Statesii\n\nFlexible Class Schedules: Morning, afternoon, evening & weekend classes available\n\nRSI's electrician training program offers flexible scheduling options for students at any stage—whether you're graduating from high school, changing careers, or transitioning from military to civilian life.\n\nWe'll help you find the right class time and training schedule to support your goals. Contact us to learn more about upcoming start dates for the Electrical Applications program.\n\nUpcoming Start Dates: Jan. 14, 2026 & Feb. 12, 2026\n\nDuration: 7 months of hands-on training and real-world skills.\n\nCampus Availability: Phoenix, AZ\n\nClass Schedule Options:\nWeekday Schedule (Mon - Fri):\n- Morning: 7:00am-12:15pm\n- Afternoon: 12:45pm-5:45pm\n- Evening: 6:00pm-11:00pm\nWeekend Schedule:\n- Sat: 8:00am-6:00pm\n\nAt RSI, we understand you're here to gain real-world skills, not spend hours in a traditional classroom. Our electrician training program follows a hybrid model that allows you to complete the theory portion online by assigned deadlines. When you're on campus, your time is spent in hands-on labs with tools, equipment, and guidance from experienced instructors.\n\nThis flexible approach lets you manage your schedule while learning the basics for electricians and preparing for a successful electrical career.\n\nProgram Courses for Electrical Applications:\n1. Fundamentals of Electricity (HVE100) - This HVAC/R class provides The Refrigeration School students with basic electrical understanding from an elemental stage through troubleshooting.\n2. Fundamentals of Solar (HVE110) - This module provides an overview of photovoltaic (PV) science and an introduction to the fundamentals of solar energy.\n3. Electrical Wiring – Residential (HVE120) - This course introduces the most current version of the National Electrical Code Book to the students as a guide throughout the class.\n4. Electrical Wiring – Commercial (HVE130) - The Commercial wiring course follows through with concepts learned in the Residential wiring course of training delving deeper into the National Electrical Code book.\n5. Emerging Electrical Applications (HVE145) - This course follows through with the knowledge built in Electrical Wiring – Commercial with continued instruction in conduit bending up to 6\" trade size using hydraulic bending equipment.\n6. Motors and Lighting Practices (HVE150) - This class elaborates on the characteristics of Alternating Current, explaining the behavior of electricity and how it functions in the application of motors, lighting, and the devices that control them.\n7. Electrical Distribution Systems (HVE160) - This class will describe the operating characteristics of various types of transformers.\n\nStudents of the Electrical Applications program will have the Interplay Learning virtual reality training simulator available to enhance skills learned. Interplay simulates the experience of Electrical and HVAC training via VR to help students learn troubleshooting techniques, even when they're away from school. A Meta Quest 2 is part of the gear package for this program, and Interplay Learning is included as part of the course materials for all students.",
+    "main_content": "Electrical Applications Program (Electrician Training) - This hands-on electrician training program prepares you for an electrical career in just seven months. Learn the basics for electricians through practical instruction at a focused electrician school designed to get you job-ready. The Electrical Applications program at RSI provides hands-on electrician training focused on the basics for electricians and real-world job skills. Students learn the fundamentals of: Mechanical and electrical principles, Residential and commercial wiring applications, Voice, video and data cabling systems, The application on motors, lighting, devices and various types of transformers. RSI students will receive a Diploma after successfully completing our electrician school program. Program Courses: Fundamentals of Electricity HVE100, Fundamentals of Solar HVE110, Electrical Wiring - Residential HVE120, Electrical Wiring - Commercial HVE130, Emerging Electrical Applications HVE145, Motors and Lighting Practices HVE150, Electrical Distribution Systems HVE160. Career Titles include: Residential, Commercial or Industrial Electrician, Alarm systems technician, Garage door technician, Building maintenance, Facilities technician, Solar technician, VDV (Voice data video) technician, Fire alarm technician, Lighting systems technician. Upcoming Start Dates: Jan. 14, 2026 & Feb. 12, 2026. Duration: 7 months of hands-on training and real-world skills. Campus: Phoenix, AZ. Flexible Class Schedules: Morning, afternoon, evening & weekend classes available. Students receive a Meta Quest 2 loaded with Access to Interplay Virtual Reality Training!",
     "with": [
-      "This hands-on electrician training program prepares you for an electrical career in just seven months.",
       "The Electrical Applications program at RSI provides hands-on electrician training focused on the basics for electricians and real-world job skills.",
-      "In as little as 7 months, you'll have the electrical training necessary to start your electrical career.",
-      "Employment is Expected to Grow for Electricians in the US by 80,200 Jobs by 2033!",
-      "Weekend classes are now available for the Electrical Applications program at The Refrigeration School in Phoenix!"
+      "This hands-on electrician training program prepares you for an electrical career in just seven months.",
+      "Students will receive a Diploma after successfully completing our electrician school program.",
+      "Career Titles include Residential, Commercial or Industrial Electrician, Alarm systems technician, and Solar technician.",
+      "Upcoming Start Dates: Jan. 14, 2026 & Feb. 12, 2026 at the Phoenix, AZ campus."
     ],
     "without": [
-      "Request More Info - It's easy - just fill out the form below and get ready for your exciting journey into training for a new career.",
-      "Full Name:* Email:* Phone:* Zip Code:*",
-      "By completing the following form, you are giving your express written consent for The Refrigeration School to contact you...",
-      "Connect With Us - Social media icons for Facebook, Instagram, TikTok, YouTube, LinkedIn",
-      "Accredited School, ACCSC. Licensed by the Arizona State Board for Private Post Secondary Education..."
-    ]
+      "Request More Info form",
+      "Get Started button",
+      "Schedule a Tour button",
+      "Phone number (855) 232-1669",
+      "Footer navigation links"
+    ],
+    "images": {
+      "total_in_content": 16,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://www.rsi.edu/wp-content/uploads/header_electrical2-300x149.jpg",
+          "filename": "header_electrical2-300x149.jpg",
+          "alt": null,
+          "caption": "Electrical Applications Program banner",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.rsi.edu/wp-content/uploads/photo_electrical2.jpg",
+          "filename": "photo_electrical2.jpg",
+          "alt": null,
+          "caption": "Electrical instruction photo",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.rsi.edu/wp-content/uploads/D5R7699-scaled.jpg",
+          "filename": "D5R7699-scaled.jpg",
+          "alt": null,
+          "caption": "Weekend Classes Now Available",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.rsi.edu/wp-content/uploads/program_rsi_electrical-applications.jpg",
+          "filename": "program_rsi_electrical-applications.jpg",
+          "alt": null,
+          "caption": "Flexible Class Schedules",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.rsi.edu/wp-content/uploads/vector_scholarship-explorer-rsi.svg",
+          "filename": "vector_scholarship-explorer-rsi.svg",
+          "alt": null,
+          "caption": "Scholarship Explorer",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.rsi.edu/wp-content/uploads/electrical-instruction-photo-1024x682.jpg",
+          "filename": "electrical-instruction-photo-1024x682.jpg",
+          "alt": null,
+          "caption": "Hybrid Electrician Training",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.rsi.edu/wp-content/uploads/header_rsi-welding.jpg",
+          "filename": "header_rsi-welding.jpg",
+          "alt": null,
+          "caption": "Ready to Move Forward CTA",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.rsi.edu/wp-content/uploads/RSI-Electrical-Applications-Roadmap-scaled.png",
+          "filename": "RSI-Electrical-Applications-Roadmap-scaled.png",
+          "alt": null,
+          "caption": "RSI Electrical Applications Roadmap",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.rsi.edu/wp-content/uploads/program_electro-mechanical-tech.jpg",
+          "filename": "program_electro-mechanical-tech.jpg",
+          "alt": null,
+          "caption": "Program Courses section",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.rsi.edu/wp-content/uploads/rsi-group-photo.webp",
+          "filename": "rsi-group-photo.webp",
+          "alt": null,
+          "caption": "RSI Group Photo - Connect With Us",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:05:17.715258"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:53:49.019485"
 }

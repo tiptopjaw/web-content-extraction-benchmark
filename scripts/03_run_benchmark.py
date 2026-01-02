@@ -23,7 +23,7 @@ from extractors import (
 # Paths
 DATA_DIR = BASE_DIR / "data"
 HTML_DIR = DATA_DIR / "html_files"
-GROUND_TRUTH_DIR = DATA_DIR / "ground_truth_clean"  # Use clean annotations (1,193 files)
+GROUND_TRUTH_DIR = DATA_DIR / "ground_truth"  # 1,193 annotation files
 RESULTS_DIR = BASE_DIR / "results"
 
 def calculate_text_similarity(extracted: str, ground_truth: str) -> Dict[str, float]:

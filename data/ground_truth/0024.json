@@ -1,0 +1,48 @@
+{
+  "schema_version": "2.0",
+  "url": "https://learn.microsoft.com/en-us/answers/questions/3972964/hello-i-have-a-lenovo-yoga-and-after-an-update-to",
+  "file_id": "0024",
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "qna",
+        "troubleshooting",
+        "windows-11",
+        "lenovo",
+        "touchscreen",
+        "touchpad"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Hello! I have a Lenovo Yoga and after an update to wind 11 the touchscreen and the touchpad stopped working, please help me fix it. thank you in advance. - Microsoft Q&A",
+    "author": "Anonymous",
+    "publish_date": "2024-10-12",
+    "main_content": "Question: I have a Lenovo Yoga and after an update to Windows 11 the touchscreen and the touchpad stopped working. I tried to disable/enable the driver from Device manager but still not working. Tags: Windows for home | Windows 11 | Windows update.\n\nAnswer 1 (Solamillo Charity, Independent Advisor): My apologies about that. Please check if issues still persist after doing a clean boot. Press Windows + R, type msconfig, and press Enter. In the System Configuration window, go to the Services tab. Check Hide all Microsoft services, then click Disable all. Go to the Startup tab and click Open Task Manager. In Task Manager, disable all startup items. Close Task Manager, then click OK in System Configuration. Restart your computer. If issues still persist, please download the updated drivers from the manufacturer's website.\n\nReply (Laurentiu, Anonymous): Thank you for your help! I did all the steps but still not working. My laptop is Yoga 730-13IKB Laptop (ideapad) - Type 81CT and all the updates for it are up to date. Can you provide me another solution or tell me if there is a support where I can reach to someone that can help me remotely?\n\nAnswer 2 (Solamillo Charity): I'm really sorry about that. May I ask if you have updated from Windows 10 to Windows 11? Or you have updated your Windows 11 to the latest version? If you have updated to the latest version, please try rolling back. Open Settings by pressing Windows + I. Go to Update & Security, then select View Update History. Click Uninstall updates and find the most recent update (look at the date). Right-click on it and choose Uninstall, then restart your computer. To pause future updates, in Update & Security, select Pause updates for 7 days to prevent the update from reapplying automatically.\n\nReply (Anonymous): I updated from Windows 10 to Windows 11 a long time ago. I can't roll back, it's too late.",
+    "with": [
+      "I have a Lenovo Yoga and after an update to wind 11 the touchscreen and the touchpad stopped working",
+      "Please check if issues still persist after doing a clean boot. Press Windows + R, type msconfig, and press Enter",
+      "My laptop is Yoga 730-13IKB Laptop (ideapad) - Type 81CT and all the updates for it are up to date",
+      "If you have updated to the latest version, please try rolling back. Open Settings by pressing Windows + I. Go to Update & Security, then select View Update History",
+      "I updated from win 10 to win 11 a long time ago. I can't rolling back, it's to late"
+    ],
+    "without": [
+      "Skip to main content",
+      "Download Microsoft Edge",
+      "Share via Facebook, x.com, LinkedIn, Email",
+      "Please sign in to rate this answer",
+      "© Microsoft 2025"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:29:53.539201"
+}

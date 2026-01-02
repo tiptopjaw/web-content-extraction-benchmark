@@ -1,26 +1,45 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.stacyblackman.com/us-news-mba-rankings-2022-full-time-and-part-time-programs/",
   "file_id": "0704",
-  "downloaded_at": "2025-12-20T18:43:19.692179",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "mba-rankings",
+        "business-school"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "US News MBA Rankings: Full & Part Time Programs",
+    "title": "US News MBA Rankings: Full & Part Time Programs - Stacy Blackman Consulting - MBA Admissions Consulting",
     "author": null,
     "publish_date": null,
-    "main_content": "MBA ranking reports in aggregate can help an applicant to see trends around MBA program brand and prioritize their reach versus reasonable program options. US News & World Report has been the ranking king and so we present its data here.\n\nThe 2023-2024 US News ranking data for the top 20 full-time MBA programs can be found in the chart below. See details and dates on application deadlines.\n\nRanking in 2023\tBusiness School\tPrevious US News Ranking\tInternational Students/ Women\tEntering Fall 2022 Full-Time MBA Acceptance Rate\tEntering Fall 2022 Full-Time MBA Enrolled Rate/Yield\tAverage GPA\tAverage GMAT Score\tMBA Class of 2022 Median Starting Salary\n1\tChicago Booth School of Business\t1\t37% / 40%\t30%\t48%\t3.6\t729\t$175,000\n2\tKellogg School of Management\t3 (tie)\t38% / 48%\t31%\t38%\t3.7\t729\t$165,000\n3\tUPenn Wharton School\t1 (tie)\t35% / 50%\t23%\t62%\t3.6\t733\t$175,000\n4\tMIT Sloan School of Management\t5 (tie)\t40% / 46%\t15%\t52%\t3.6\t730\t$165,000\n5\tHarvard Business School\t5\t38% / 46%\t14%\t86%\t3.7\t727\t$172,877\n6 (tie)\tDartmouth Tuck School of Business\t11\t43% / 45%\t33%\t38%\t3.5\t726\t$159,842\n6 (tie)\tStanford Graduate School of Business\t3 (tie)\t37% / 44%\t9%\t80%\t3.7\t737\t$182,272\n8 (tie)\tMichigan Ross School of Business\t10\t36% / 42%\t28%\t37%\t3.5\t720\t$153,465\n8 (tie)\tYale School of Management\t7\t48% / 43%\t28%\t39%\t3.7\t725\t$152,744\n10\tNYU Stern School of Business\t12 (tie)\t44% / 45%\t27%\t34%\t3.6\t733\t$161,475\n11 (tie)\tColumbia Business School\t8 (tie)\t51% / 44%\t20%\t57%\t3.6\t729\t$162,099\n11 (tie)\tDuke Fuqua School of Business\t12 (tie)\t39% / 48%\t21%\t55%\t3.1-3.9\t680-760\t$152,297\n11 (tie)\tUc Berkeley Haas School of Business\t8 (tie)\t41% / 46%\t20%\t40%\t3.6\t729\t$152,831\n14\tUVA Darden School of Business\t14\t43% / 37%\t34%\t34%\t3.5\t720\t$157,090\n15 (tie)\tCornell SC Johnson Graduate School of Management\t15\t43% / 39%\t31%\t38%\t3.3\t710\t$155,048\n15 (tie)\tUSC Marshall School of Business\t19 (tie)\t41% / 46%\t25%\t29%\t3.5\t708\t$150,314\n17\tEmory Goizueta Business School\t21\t50% / 33%\t37%\t29%\t3.3\t700\t$149,759\n18\tCMU Tepper School of Business\t16\t56% / 31%\t29%\t29%\t3.3\t702\t$148,067\n19\tUCLA Anderson School of Management\t17\t44% / 35%\t38%\t35%\t3.1-3.8\t711\t$146,727\n20 (tie)\tUT McCombs School of Business\t18\t28% / 35%\t34%\t35%\t3.5\t706\t$144,564\n\nRequest a free consultation with a Principal on our SBC team to assess school fit and admit chances.\n\n2023-2024 US News ranking data for the top 20 part-time MBA programs can be found here:\n\nRanking in 2023\tBusiness School\tPrevious US News Ranking\tInternational Students/ Women\tAverage GMAT Score\tEntering Fall 2022 Part-Time Acceptance Rate\tEntering Fall 2022 Total Part-Time Enrollment\n1\tUC Berkeley Haas School of Business\t2\t59% / 38%\t700\tN/A\t336\n2\tChicago Booth School of Business\t1\t17% / 30%\t691\tN/A\t307\n3\tKellogg School of Management\t3\t11% / 35%\t664\tN/A\t228\n4\tNYU Stern School of Business\t4\t21% / 49%\t670\t73%\t221\n5\tUCLA Anderson School of Management\t5\tN/A / 36%\t667\t77%\t217\n6\tUT McCombs School of Business\t8\t11% / 36%\t648\t79%\t196\n7\tMichigan Ross School of Business\t7\t32% / 22%\t671\t85%\t113\n8\tUSC Marshall School of Business\t9\tN/A / 35%\t650\t86%\t122\n9 (tie)\tCMU Tepper School of Business\t6\t16% / 20%\t653\t61%\t64\n9 (tie)\tGeorgetown McDonough School of Business\t17\t6% / 40%\t664\t75%\t128\n11 (tie)\tGeorgia Tech Scheller College of Business\t16\tN/A / 39%\t600-700\t73%\t107\n11 (tie)\tUT Dallas MBA Naveen Jindal School of Management\t19\t10% / 35%\t600\t64%\t253\n11 (tie)\tUW Foster School of Business (Washington)\t10\t10% / 38%\t645\t83%\t93\n14\tCarlson School of Management (Minnesota)\t11 (tie)\t13% / 34%\t600\t93%\t70\n15 (tie)\tIU Kelley School of Business (Indiana)\t11 (tie)\tN/A\t607\t74%\t48\n15 (tie)\tFisher College of Business (Ohio)\t11 (tie)\t2% / 43%\t653\t62%\t150\n15 (tie)\tRice Jones Graduate School of Business (Texas)\t11 (tie)\t6% / 37%\t657\t91%\t174\n18\tDarla Moore School of Business (South Carolina)\t27\tN/A / 37%\t677\t92%\t59\n19\tEmory Goizueta Business School (Georgia)\t11 (tie)\t8% / 39%\tN/A\t84%\t84\n20\tOlin Business School (Missouri)\t19\tN/A / 39%\t648\t89%\t38",
+    "main_content": "MBA ranking reports in aggregate can help an applicant to see trends around MBA program brand and prioritize their reach versus reasonable program options. US News & World Report has been the ranking king and so we present its data here. The 2023-2024 US News ranking data for the top 20 full-time MBA programs can be found in the chart below. See details and dates on application deadlines. The top full-time programs include Chicago Booth School of Business ranked #1, followed by Kellogg School of Management at #2, and UPenn Wharton School at #3. Harvard Business School holds the #5 spot with a 14% acceptance rate and average GMAT of 727. Stanford Graduate School of Business has a 9% acceptance rate, the most selective among top programs, with the highest median starting salary at $182,272. Dartmouth Tuck School of Business moved up significantly from #11 to #6 (tie) in the 2023 rankings. For part-time programs, UC Berkeley Haas School of Business leads at #1, followed by Chicago Booth at #2 and Kellogg at #3. Part-time programs show much higher acceptance rates, typically ranging from 61% to 93%. Request a free consultation with a Principal on our SBC team to assess school fit and admit chances.",
     "with": [
       "MBA ranking reports in aggregate can help an applicant to see trends around MBA program brand and prioritize their reach versus reasonable program options.",
+      "US News & World Report has been the ranking king and so we present its data here.",
       "The 2023-2024 US News ranking data for the top 20 full-time MBA programs can be found in the chart below.",
       "2023-2024 US News ranking data for the top 20 part-time MBA programs can be found here:",
       "Request a free consultation with a Principal on our SBC team to assess school fit and admit chances."
     ],
     "without": [
-      "We can improve your MBA profile and boost your candidacy. Gain insight into the review process and eliminate weaknesses from your MBA application.",
-      "Meet the Team Work With Us About SBC MBA Resources Blog Free Advising Session",
-      "©2001-2025 STACY BLACKMAN CONSULTING, INC. ALL RIGHTS RESERVED.",
-      "Schedule Your Free Advising Session",
-      "Download Your Free Guide."
-    ]
+      "Free Advising Session",
+      "Subscribe to Newsletter",
+      "©2001-2025 STACY BLACKMAN CONSULTING, INC. ALL RIGHTS RESERVED",
+      "We can improve your MBA profile and boost your candidacy",
+      "Meet the Team"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:43:19.692185"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:59:08.964829"
 }

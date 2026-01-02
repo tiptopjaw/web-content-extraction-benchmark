@@ -1,0 +1,68 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.marthastewart.com/home-garden-news-8729054",
+  "file_id": "1151",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "news",
+        "home",
+        "garden",
+        "martha-stewart"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Home & Garden News",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Looking for the latest in home and garden news? You've come to the right place. Whether you want expert tips on home improvement, seasonal gardening advice, or fresh design trends, we've got you covered. The page features the latest articles including cleaning tips, holiday entertaining ideas, interior design trends, gardening advice, and home improvement news.",
+    "with": [
+      "Looking for the latest in home and garden news? You've come to the right place.",
+      "Whether you want expert tips on home improvement, seasonal gardening advice, or fresh design trends, we've got you covered.",
+      "5 Cleaning Tricks That Will Change the Way You Tidy Your Home",
+      "She Lost Everything in the California Wildfires—Except This Martha Stewart Cookie Jar",
+      "How Martha Protects Her Beloved Boxwoods Every Winter"
+    ],
+    "without": [
+      "Skip to content",
+      "Log In",
+      "Newsletter",
+      "Follow Us",
+      "Sweepstakes"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://www.marthastewart.com/thmb/Hyrl0DiPDQ6iD60HotyidwOyVv4=/364x242/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2225729118-55599831adcc4c0089e5b18dcc62dce2.jpg",
+          "filename": "GettyImages-2225729118-55599831adcc4c0089e5b18dcc62dce2.jpg",
+          "alt": "Cleaning supplies in a blue bucket on a kitchen counter including bottles a cloth and a mop",
+          "caption": "Cleaning supplies in a blue bucket on a kitchen counter",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.marthastewart.com/thmb/occZ6FWklE4ISakyDBl3EAXCeVo=/364x242/filters:no_upscale():max_bytes(150000):strip_icc()/Martha-Stewart-2-Piece-Gingerbread-Ceramic-Cookie-Jar-with-Lid-in-Browncopy-75c8fd498e6843e4b1b701f13cc70edc.jpg",
+          "filename": "Martha-Stewart-2-Piece-Gingerbread-Ceramic-Cookie-Jar-with-Lid-in-Browncopy-75c8fd498e6843e4b1b701f13cc70edc.jpg",
+          "alt": "Gingerbreadthemed ceramic cookie jar with a lid shaped like a festive house displayed on a shelf with holiday decorations",
+          "caption": "Gingerbread-themed ceramic cookie jar with a lid shaped like a festive house",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.marthastewart.com/thmb/dclDv_cMgtKo7bMp8dldoRy7tbw=/364x242/filters:no_upscale():max_bytes(150000):strip_icc()/ms-boxwood-with-snow-e262d2508ecd48068b32a986cd6462b7.jpg",
+          "filename": "ms-boxwood-with-snow-e262d2508ecd48068b32a986cd6462b7.jpg",
+          "alt": "Snowcovered boxwood shrub in a natural setting",
+          "caption": "Snow-covered boxwood shrub in a natural setting",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:48:44.963005"
+}

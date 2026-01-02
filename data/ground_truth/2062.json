@@ -1,27 +1,75 @@
 {
+  "schema_version": "2.0",
   "url": "https://londonblockchain.net/blog/expert-perspective/here-are-the-best-practices-for-enterprise-blockchain/",
   "file_id": "2062",
-  "downloaded_at": "2025-12-20T22:19:47.084665",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "blockchain",
+        "enterprise",
+        "conference",
+        "technology"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Here are the Best Practices for Enterprise Blockchain",
-    "author": null,
+    "author": "No Author",
     "publish_date": "2024-09-05",
-    "main_content": "As the utility of blockchain technology becomes apparent, there’s more and more conversation about best practices. At the London Blockchain Conference 2024, Tibor Mérey, Managing Director and Partner of Boston Consulting Group, took to the stage to talk about it.\n\nIt’s All About the Business Value\n\n“It’s all about the business value,” Mérey told the conference attendees, setting the tone for the presentation to come. While many people think the technical specifications of blockchains are the most important, the customers don’t agree; they want to know what they’re going to get in return for their investment.\n\nWhile the blockchain space has already been through the digital currency, smart contract, and digital ownership phases, Mérey believes we are now entering another one; the blockchain as an embedded protocol layer governing the relationships between transactions in the augmented world. The immutability, transparency, and decentralisation of blockchains make them ideal for creating the necessary trust in Web 3.0 products.\n\nThe Most Promising Areas for Blockchain Adoption\n\nLooking at some of the most promising areas where blockchain is being utilised, Mérey mentioned payments, DePin, and tokenisation.\n\nPayments is the original use case for digital currencies on blockchains, but now some big payments firms are planning to utilise the tech. Less friction, lower costs, faster settlement, and peer-to-peer transactions make it a great option.\n\nDePin is a relatively new concept; decentralised physical infrastructure. An example would be mobile routers that can receive micropayments. Distributing infrastructure and making them available in areas where traditional payment models aren’t feasible could have huge impacts on the world.\n\nOf course, tokenisation is one of the biggest blockchain buzzwords in recent times. However, unlike previous ones, this one has legs. Financial giants like BlackRock are deeply involved in it, and Mérey believes it will be a $16 trillion industry before long.\n\n4 Questions to Help with Blockchain Service Adoption\n\nMérey left the audience with four key questions to ask themselves. The answers would help them create blockchain apps and services that get adopted faster, he said.\n\n(i) Does it solve a problem? Does it matter? It must solve a burning problem big enough to get the customer to act and pay for it.\n\n(ii) Will it work? Lots of ideas look great on paper, but will it really solve the problem it sets out to?\n\n(iii) Can you win? Is the product differentiated? What is your advantage?\n\n(iv) Will it grow? Can you build a sustainable business around it? Is it scalable and does it change the game?\n\nThe Era of Enterprise Blockchain is Upon Us\n\nMérey’s London Blockchain presentation was highly informative in a number of ways. However, one of the biggest insights was that most of his company’s work is for enterprises implementing blockchain solutions and integrating the technology into their processes.\n\nIt seems that, after multiple hype cycles that led to limited adoption, the utility of enterprise blockchain is finally being realised. Enterprises are beginning to see how a trustless, distributed database with smart contracts, tokens, and other related tech can help them streamline processes, open new revenue streams, and build entirely new business models.\n\nRight now, enterprises are building blockchain applications for their business needs, but as Mérey said, they are focused on ROI rather than technical capabilities. Eventually, this will lead to a ceiling and all parties will realize the need for a scalable global blockchain. In much the same way as the internet acts as a scalable global network, walled gardens (private blockchains) don’t make sense in the long game.\n\nThat said, it’s exciting to see how, step-by-step, companies, corporations, and entrepreneurs are realising how blockchain technology can be used to create change, disrupt incumbents, and revolutionise industries. The rest will follow in time!\n\nRegister today and be the first to learn about upcoming keynote speakers and themes at #LDNBlockchain25.",
+    "main_content": "As the utility of blockchain technology becomes apparent, there's more and more conversation about best practices. At the London Blockchain Conference 2024, Tibor Mérey, Managing Director and Partner of Boston Consulting Group, took to the stage to talk about it. 'It's all about the business value,' Mérey told the conference attendees, setting the tone for the presentation to come. While many people think the technical specifications of blockchains are the most important, the customers don't agree; they want to know what they're going to get in return for their investment. While the blockchain space has already been through the digital currency, smart contract, and digital ownership phases, Mérey believes we are now entering another one; the blockchain as an embedded protocol layer governing the relationships between transactions in the augmented world. The immutability, transparency, and decentralisation of blockchains make them ideal for creating the necessary trust in Web 3.0 products. Looking at some of the most promising areas where blockchain is being utilised, Mérey mentioned payments, DePin, and tokenisation. Payments is the original use case for digital currencies on blockchains, but now some big payments firms are planning to utilise the tech. Less friction, lower costs, faster settlement, and peer-to-peer transactions make it a great option. DePin is a relatively new concept; decentralised physical infrastructure. An example would be mobile routers that can receive micropayments. Distributing infrastructure and making them available in areas where traditional payment models aren't feasible could have huge impacts on the world. Of course, tokenisation is one of the biggest blockchain buzzwords in recent times. However, unlike previous ones, this one has legs. Financial giants like BlackRock are deeply involved in it, and Mérey believes it will be a $16 trillion industry before long. Mérey left the audience with four key questions to ask themselves. The answers would help them create blockchain apps and services that get adopted faster, he said. (i) Does it solve a problem? Does it matter? It must solve a burning problem big enough to get the customer to act and pay for it. (ii) Will it work? Lots of ideas look great on paper, but will it really solve the problem it sets out to? (iii) Can you win? Is the product differentiated? What is your advantage? (iv) Will it grow? Can you build a sustainable business around it? Is it scalable and does it change the game? Mérey's London Blockchain presentation was highly informative in a number of ways. However, one of the biggest insights was that most of his company's work is for enterprises implementing blockchain solutions and integrating the technology into their processes. It seems that, after multiple hype cycles that led to limited adoption, the utility of enterprise blockchain is finally being realised. Enterprises are beginning to see how a trustless, distributed database with smart contracts, tokens, and other related tech can help them streamline processes, open new revenue streams, and build entirely new business models. Right now, enterprises are building blockchain applications for their business needs, but as Mérey said, they are focused on ROI rather than technical capabilities. Eventually, this will lead to a ceiling and all parties will realize the need for a scalable global blockchain. In much the same way as the internet acts as a scalable global network, walled gardens (private blockchains) don't make sense in the long game. That said, it's exciting to see how, step-by-step, companies, corporations, and entrepreneurs are realising how blockchain technology can be used to create change, disrupt incumbents, and revolutionise industries. The rest will follow in time! Register today and be the first to learn about upcoming keynote speakers and themes at #LDNBlockchain25.",
     "with": [
-      "\"It’s all about the business value,\" Mérey told the conference attendees, setting the tone for the presentation to come.",
+      "It's all about the business value, Mérey told the conference attendees, setting the tone for the presentation to come.",
       "Looking at some of the most promising areas where blockchain is being utilised, Mérey mentioned payments, DePin, and tokenisation.",
-      "Mérey left the audience with four key questions to ask themselves. The answers would help them create blockchain apps and services that get adopted faster, he said.",
-      "It seems that, after multiple hype cycles that led to limited adoption, the utility of enterprise blockchain is finally being realised.",
+      "DePin is a relatively new concept; decentralised physical infrastructure.",
+      "Financial giants like BlackRock are deeply involved in it, and Mérey believes it will be a $16 trillion industry before long.",
       "Right now, enterprises are building blockchain applications for their business needs, but as Mérey said, they are focused on ROI rather than technical capabilities."
     ],
     "without": [
-      "Why attend",
       "Download Your Playbook",
-      "Related blogs",
-      "We use cookies to ensure that we give you the best experience on our website.",
-      "©London Blockchain Conference 2025"
-    ]
+      "London Blockchain Conference favicon logo",
+      "London Blockchain Conference logo in black",
+      "3 min read",
+      "Related blogs"
+    ],
+    "images": {
+      "total_in_content": 7,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://londonblockchain.net/wp-content/uploads/2024/09/Tibor-Merey-LBC.jpg",
+          "filename": "Tibor-Merey-LBC.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://londonblockchain.net/wp-content/uploads/2025/12/london-streets.webp",
+          "filename": "london-streets.webp",
+          "alt": "Remove BG Save Share Sample Big Ben and red double-decker bus, London.",
+          "caption": "Remove BG Save Share Sample Big Ben and red double-decker bus, London.",
+          "is_hero": false
+        },
+        {
+          "src": "https://londonblockchain.net/wp-content/uploads/2025/12/global-regulation.webp",
+          "filename": "global-regulation.webp",
+          "alt": "Businessman holding a foldable smartphone, business concept.",
+          "caption": "Businessman holding a foldable smartphone, business concept.",
+          "is_hero": false
+        },
+        {
+          "src": "https://londonblockchain.net/wp-content/uploads/2025/12/lbc-welcome-sign-lights.webp",
+          "filename": "lbc-welcome-sign-lights.webp",
+          "alt": "London Blockchain Conference 2025 welcome sign.",
+          "caption": "London Blockchain Conference 2025 welcome sign.",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:19:47.084673"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:27:50.349004"
 }

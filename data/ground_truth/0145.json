@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.rtings.com/running-shoes",
+  "file_id": "0145",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "running-shoes",
+        "reviews",
+        "product-comparison",
+        "recommendations"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Running Shoe Reviews - RTINGS.com",
+    "author": null,
+    "publish_date": null,
+    "main_content": "RTINGS.com provides comprehensive running shoe reviews and recommendations. The page serves as a hub for 160 running shoe reviews, featuring best picks for various categories including running shoes, shoes for men, shoes for women, Nike running shoes, marathon shoes, and long-distance running shoes. The site offers multiple tools for comparing running shoes including a compare tool, 3D shape compare tool, results table tool, graph tool, and custom ratings. Popular running shoes featured include adidas Adizero Adios Pro 4, ASICS NOVABLAST 5, ASICS METASPEED RAY, Nike Vaporfly 4, HOKA Bondi 9, and many others. Each recommendation is based on in-depth testing and objective reviews.",
+    "with": [
+      "160 Running Shoe reviews. Start with our picks for the best running shoes below. These are the ones we recommend based on our testing and in-depth running shoe reviews.",
+      "With the massive growth of the running shoe market in recent years, finding the right pair can feel like a daunting task.",
+      "The site offers tools for comparing running shoes including compare, 3D shape compare, results table, graph, and custom ratings.",
+      "Popular running shoes include adidas Adizero Adios Pro 4, ASICS NOVABLAST 5, Nike Vaporfly 4, HOKA Bondi 9, and ASICS SUPERBLAST 2.",
+      "We've tested over 50 models; below are our recommendations for the best running shoes you can buy."
+    ],
+    "without": [
+      "Subscribe to newsletter",
+      "Copyright 2025",
+      "Become an Insider",
+      "Navigation links for specific shoes",
+      "User discussion forum threads"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:34:31.618066"
+}

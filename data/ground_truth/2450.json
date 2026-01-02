@@ -1,27 +1,83 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.gardenista.com/posts/year-gardening-looking-back-joy-looking-ahead-hope",
   "file_id": "2450",
-  "downloaded_at": "2025-12-20T23:06:32.518381",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "gardening",
+        "ecology",
+        "sustainability",
+        "expert-opinion",
+        "year-review"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "The Year in Gardening: Looking Back With Joy (and Looking Ahead With Hope)",
     "author": "Melissa Ozawa",
     "publish_date": "2025-12-18",
-    "main_content": "This is part of a series with Perfect Earth Project, a nonprofit dedicated to toxic-free, ecological gardening, on how you can be more sustainable in your landscapes at home.   . . . Do not raise your small voice against it. And do not take cover. Instead, curl your toes into the grass, watch the cloud ascending from your lips. Walk through the garden’s dormant splendor. Say only, thank you. Thank you. —Ross Gay, Thank You Even for the most optimistic of us, it can be hard to stay positive these days. But hope, it is “the thing with feathers,” and there are moments that can make us soar with joy, propelling us forward: the successful bans on pesticides like neonicotinoids; the sweet burst of a juneberry still warm from the sun; the return of the whooping crane after it teetered on the cusp of extinction. We asked a selection of our ecological gardening friends to share what keeps them going—plus one small thing we can all do in our yards next year to keep the momentum going. Jeff Lorenz and Kayla Fell of Refugia: “At this time of year, we are enamored by the stories laid bare in the landscape. Perennials that are left standing through winter are permeated with narrative: tales of shelter and sustenance, dynamic encounters of fullness and decay. While seemingly silent, they are instead performing amazing feats of survival and renewal out of sight—just like us!—silvery-white seed tufts, seedheads glittering with frost. Winter celebrates delicate details that we often miss during the showier exuberant summer months.  “One simple thing that everyone can do to make a difference this year is to talk to their neighbors: Gift a plant when dividing perennials, add educational signage that speaks to the jobs your garden is heroically doing (habitat! stormwater!), and label plants for curious gardeners-to-be passing by. We are not defined by the division seemingly sown around us! Instead, we can inspire others. Connectivity for plants, wildlife, insects, and people is the most powerful tool we have. Don’t be surprised to find your lawn-loving neighbor carving off a sliver to plant milkweed and coneflowers next summer, and then some.” Uli Lorimer, Director of Horticulture at Native Plant Trust: “December is a time of reflection as we look back on the growing season past and ponder what the upcoming season may have in store. I want to zero in on a single image that embodies what ecological horticulture means to me and why practicing its tenets gives me hope for the future. The pink firework blossoms of Monarda fistulosa reliably draw hummingbird clearwing moths to the garden, and this image I find absolutely magical. So many things lie behind the picture of a moth captured mid-air with its proboscis curled. The garden provides an appropriate host plant for the larval stage. The plants were grown and managed without pesticides, ensuring the moth isn’t harmed in its pursuit of food. Lastly, this image is a source of wonder and awe, helping me feel connected to this place and the life that shares it with me. “One small thing we can all do in the coming year is to plant more native plants. It’s a simple act that has a profound impact on the health of our local ecosystems. By choosing plants that have evolved alongside our native wildlife, we provide essential food and habitat for insects, birds, and other creatures. Start small—even a single native plant in a container can make a difference. As these plants grow and thrive, they become a living testament to the resilience and beauty of our natural world, offering hope and inspiration for the future.”",
+    "main_content": "This is part of a series with Perfect Earth Project, a nonprofit dedicated to toxic-free, ecological gardening... Even for the most optimistic of us, it can be hard to stay positive these days. But hope, it is 'the thing with feathers,' and there are moments that can make us soar with joy, propelling us forward: the successful bans on pesticides like neonicotinoids; the sweet burst of a juneberry still warm from the sun; the return of the whooping crane after it teetered on the cusp of extinction. We asked a selection of our ecological gardening friends to share what keeps them going—plus one small thing we can all do in our yards next year to keep the momentum going. Jeff Lorenz and Kayla Fell of Refugia share: 'At this time of year, we are enamored by the stories laid bare in the landscape. Perennials that are left standing through winter are permeated with narrative: tales of shelter and sustenance, dynamic encounters of fullness and decay. While seemingly silent, they are instead performing amazing feats of survival and renewal out of sight—just like us!—silvery-white seed tufts, seedheads glittering with frost. Winter celebrates delicate details that we often miss during the showier exuberant summer months.' Uli Lorimer, Director of Horticulture at Native Plant Trust, reflects on the pink firework blossoms of Monarda fistulosa that reliably draw hummingbird clearwing moths to the garden, emphasizing how the garden provides an appropriate host plant for the larval stage and is managed without pesticides.",
     "with": [
-      "This is part of a series with Perfect Earth Project, a nonprofit dedicated to toxic-free, ecological gardening, on how you can be more sustainable in your landscapes at home.",
-      "Even for the most optimistic of us, it can be hard to stay positive these days. But hope, it is “the thing with feathers,” and there are moments that can make us soar with joy, propelling us forward: the successful bans on pesticides like neonicotinoids; the sweet burst of a juneberry still warm from the sun; the return of the whooping crane after it teetered on the cusp of extinction.",
-      "We asked a selection of our ecological gardening friends to share what keeps them going—plus one small thing we can all do in our yards next year to keep the momentum going.",
-      "“At this time of year, we are enamored by the stories laid bare in the landscape. Perennials that are left standing through winter are permeated with narrative: tales of shelter and sustenance, dynamic encounters of fullness and decay.”",
-      "“One simple thing that everyone can do to make a difference this year is to talk to their neighbors: Gift a plant when dividing perennials, add educational signage that speaks to the jobs your garden is heroically doing (habitat! stormwater!), and label plants for curious gardeners-to-be passing by.”"
+      "Even for the most optimistic of us, it can be hard to stay positive these days. But hope, it is 'the thing with feathers,' and there are moments that can make us soar with joy.",
+      "The successful bans on pesticides like neonicotinoids; the sweet burst of a juneberry still warm from the sun; the return of the whooping crane after it teetered on the cusp of extinction.",
+      "Perennials that are left standing through winter are permeated with narrative: tales of shelter and sustenance, dynamic encounters of fullness and decay.",
+      "The pink firework blossoms of Monarda fistulosa reliably draw hummingbird clearwing moths to the garden, and this image I find absolutely magical.",
+      "Connectivity for plants, wildlife, insects, and people is the most powerful tool we have."
     ],
     "without": [
-      "Lookbook",
-      "Get Inspired",
-      "Garden Design 101",
-      "Travel",
-      "Popular posts:"
-    ]
+      "Subscribe to newsletter",
+      "Copyright 2025",
+      "Privacy Policy",
+      "Navigation menu items",
+      "Social media sharing buttons"
+    ],
+    "images": {
+      "total_in_content": 35,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://www.gardenista.com/wp-content/uploads/2025/12/refugia-december-733x1100.jpeg",
+          "filename": "refugia-december-733x1100.jpeg",
+          "alt": "The fluffy seedheads of the grass Andropogon ternarius &#8\\2\\16;Black Mountain&#8\\2\\17; almost glow in the winter light along with the red branches of the red-twig dogwood (Cornus sericea) & &#8\\2\\16;Shenandoah&#8\\2\\17; switchgrass (Panicum virgatum) in the background and dense blazing star (Liatris spicata) in foreground. Photograph courtesy of Refugia.",
+          "caption": "The fluffy seedheads of the grass Andropogon ternarius 'Black Mountain' almost glow in the winter light along with the red branches of the red-twig dogwood and 'Shenandoah' switchgrass in the background and dense blazing star in foreground. Photograph courtesy of Refugia.",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.gardenista.com/wp-content/uploads/2025/12/hummingbirdclearwingmoth-ulilorimer-733x489.jpg",
+          "filename": "hummingbirdclearwingmoth-ulilorimer-733x489.jpg",
+          "alt": null,
+          "caption": "Hummingbird clearwing moth visits a wild bergamot (Monarda fistulosa). This beautiful perennial also attracts birds, including hummingbirds, and butterflies. Photograph by Uli Lorimer.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.gardenista.com/wp-content/uploads/2025/12/richard-hayden-central-park-733x550.jpeg",
+          "filename": "richard-hayden-central-park-733x550.jpeg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.gardenista.com/wp-content/uploads/2025/12/schenck-high-line-2022-733x489.jpg",
+          "filename": "schenck-high-line-2022-733x489.jpg",
+          "alt": " Above: The winter seed heads of purple coneflowers on the High Line. Photo by Timothy Schenk, courtesy of the High Line.    ",
+          "caption": "The winter seed heads of purple coneflowers on the High Line.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.gardenista.com/wp-content/uploads/2025/12/edwina-von-gal-december-733x550.jpeg",
+          "filename": "edwina-von-gal-december-733x550.jpeg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:06:32.518387"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:26:09.251671"
 }

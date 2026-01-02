@@ -1,0 +1,61 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.monroe2boces.org/HVAC-Plumbing.aspx",
+  "file_id": "2013",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "vocational-training",
+        "hvac",
+        "career-technical"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "HVAC",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Water and Climate Control Systems are in Every Building. Open the valve to the world of heating, ventilation and air conditioning. Get your potential flowing as you become a pro at residential plumbing. Heat up your future and learn to control the climate in residential and commercial settings. Master the coinciding electrical and welding skills. Venture into air distribution. Seal the deal with blueprints and drawings. What You Can Learn - Units of Study: Plumbing Orientation and Safety, Blueprint Reading and Plumbing Drawings, Drain Waste and Vent Systems, Water Distribution Systems, Fixtures, Valves and Faucets, Water Heaters and Boilers, Radiant Heat and Baseboards, Hydronic Installation and piping, Carbon Pipe and Fittings, Plastic Pipe and Fittings, Copper Pipe and Fittings, Gas Heat, HVAC Orientation and Safety, Soldering and Brazing, Basic Electricity, Fundamentals of Refrigeration, Refrigeration Processes/Piping, Ferrous Metal Piping Practices, Fundamentals of Heating, Forced-Air Gas Furnaces, Electric Heat, Air Distribution Systems, Air Conditioning, Heat Pumps. What You Can Earn - Available High School Academic Credits: English, Science. Licensing/Industry-Based Certifications: OSHA 10 Construction Industry, EPA Refrigerant Handler Certification. Work-Based Learning Organizations: Isaac Heating and Air, John W. Danforth Co., MCC Applied Technology Center, Wolf Mechanical, Triple O, FLOW Mechanical, Ryan Plumbing & Heating, Gatti Plumbing, AireServe, Local #13 and Local #46. Where You Can Go - Career Opportunities: Plumber, HVAC Technician, Foreman, Energy Systems Control Tech, Mechanical Engineer. Postsecondary Pathways: Dual Enrollment at Monroe Community College - Basic Refrigeration Theory (HVA101), Heating Systems and Troubleshooting (HVA103), Electrical Foundations and Troubleshooting (HVA105). Articulation Agreements: Alfred State, Monroe Community College, University of Northwestern Ohio.",
+    "with": [
+      "Water and Climate Control Systems are in Every Building.",
+      "Open the valve to the world of heating, ventilation and air conditioning.",
+      "Students have opportunities to earn OSHA 10 Construction Industry and EPA Refrigerant Handler Certification.",
+      "Career Opportunities include Plumber, HVAC Technician, Foreman, Energy Systems Control Tech, and Mechanical Engineer.",
+      "Postsecondary Pathways include Dual Enrollment at Monroe Community College."
+    ],
+    "without": [
+      "Students",
+      "Contact",
+      "Staff",
+      "Equal Opportunity Notice",
+      "© 2025. Monroe 2-Orleans BOCES. All Rights Reserved."
+    ],
+    "images": {
+      "total_in_content": 6,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://www.monroe2boces.org/WindowImages/2025826113955857_image.JPG",
+          "filename": "2025826113955857_image.JPG",
+          "alt": "Student applies adhesive to pipe",
+          "caption": "Student applies adhesive to pipe",
+          "is_hero": true
+        },
+        {
+          "src": "https://filecabinet9.eschoolview.com/7F856E37-9BEB-420D-B158-EB277920BC06/7a63780b-2d04-43ee-88d1-27de0e459e13.png",
+          "filename": "7a63780b-2d04-43ee-88d1-27de0e459e13.png",
+          "alt": "HVAC Program Overview",
+          "caption": "HVAC Program Overview",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:17:29.464342"
+}

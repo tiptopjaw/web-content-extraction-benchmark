@@ -1,0 +1,62 @@
+{
+  "schema_version": "2.0",
+  "url": "https://meetglimpse.com/trends/fitness-trends/",
+  "file_id": "0308",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "fitness",
+        "trends",
+        "2025",
+        "lifestyle",
+        "health"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Top 20 Fitness Trends of 2025 – Glimpse",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The fitness industry continues to evolve rapidly, with 2025 bringing unprecedented changes in how people approach their health and wellness routines. Hybrid fitness workouts that blend strength training with cardio are gaining massive popularity as time-crunched consumers seek efficient exercise solutions. Wearable technology is becoming increasingly gamified, transforming exercise into engaging challenges that keep users motivated and accountable. Post-workout recovery has emerged as its own category, with dedicated supplements, tools, and treatments designed to optimize muscle repair and reduce downtime. Office fitness gear is becoming mainstream, with compact equipment designed for workplace wellness integrated into daily routines. At-home workouts continue to thrive, driven by gym anxiety and the convenience of exercising in private spaces.",
+    "with": [
+      "Hybrid fitness workouts that blend strength training with cardio are gaining massive popularity as time-crunched consumers seek efficient exercise solutions.",
+      "Wearable technology is becoming increasingly gamified, transforming exercise into engaging challenges that keep users motivated and accountable.",
+      "Post-workout recovery has emerged as its own category, with dedicated supplements, tools, and treatments designed to optimize muscle repair and reduce downtime.",
+      "Office fitness gear is becoming mainstream, with compact equipment designed for workplace wellness integrated into daily routines.",
+      "At-home workouts continue to thrive, driven by gym anxiety and the convenience of exercising in private spaces."
+    ],
+    "without": [
+      "Sign Up or Log In",
+      "Glimpse logo and branding",
+      "Navigation menu items",
+      "Sidebar category listings",
+      "Related articles or footer links"
+    ],
+    "images": {
+      "total_in_content": 2,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "//images.ctfassets.net/k13vf0bl293r/UbE7rv1LjhgltWlCqsnIu/c15fe1ec3cc8e8dbf69d59aa61b969ae/High-Protein_Snacks.png",
+          "filename": "High-Protein_Snacks.png",
+          "alt": null,
+          "caption": "High-Protein Snacks trending in 2025 fitness culture",
+          "is_hero": false
+        },
+        {
+          "src": "//images.ctfassets.net/k13vf0bl293r/lv88IsQwWkZo8jUVSyDOV/1b60b2d62e0272922c6c51b4bced74da/walking_pad_.png",
+          "filename": "walking_pad_.png",
+          "alt": null,
+          "caption": "Walking pads becoming popular office fitness equipment",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:47:42.634934"
+}

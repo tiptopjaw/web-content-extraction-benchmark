@@ -1,27 +1,45 @@
 {
+  "schema_version": "2.0",
   "url": "https://bestsreview.ambest.com/edition/2025/January/-Bests-Rankings-and-Worlds-Largest-Insurance-Companies.html",
   "file_id": "1746",
-  "downloaded_at": "2025-12-20T22:34:41.249580",
+  "_internal": {
+    "page_type": {
+      "primary": "other",
+      "confidence": "medium",
+      "needs_review": false,
+      "review_reason": "CAPTCHA interstitial/security page not fitting standard content categories",
+      "tags": [
+        "security",
+        "captcha",
+        "interstitial"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Captcha Verification",
+    "title": "Radware Bot Manager Captcha",
     "author": null,
     "publish_date": null,
-    "main_content": "We apologize for the inconvenience... Our systems have presented this CAPTCHA challenge due to bot-like activity from your browser. Please solve the challenge below and correct the activity to prevent this challenge from appearing in the future. If you are trying to access this site using an anonymous Private/Proxy network, please disable it and try again. AM Best Technical Support Email U.S. and Canada: Technical_Support@ambest.com U.K. and Europe: Europe.Support@ambest.com Phone U.S. and Canada: 800-544-2378 or 908-572-0841. U.K. and Europe: + 44 207 397 0272 Please solve this CAPTCHA to request unblock to the website:",
+    "main_content": "We apologize for the inconvenience. Our systems have presented this CAPTCHA challenge due to bot-like activity from your browser. Please solve the challenge below and correct the activity to prevent this challenge from appearing in the future. If you are trying to access this site using an anonymous Private/Proxy network, please disable it and try again. AM Best Technical Support: Email - U.S. and Canada: Technical_Support@ambest.com; U.K. and Europe: Europe.Support@ambest.com. Phone - U.S. and Canada: 800-544-2378 or 908-572-0841; U.K. and Europe: +44 207 397 0272. Please solve this CAPTCHA to request unblock to the website.",
     "with": [
-      "We apologize for the inconvenience...",
       "Our systems have presented this CAPTCHA challenge due to bot-like activity from your browser.",
       "Please solve the challenge below and correct the activity to prevent this challenge from appearing in the future.",
       "If you are trying to access this site using an anonymous Private/Proxy network, please disable it and try again.",
-      "Please solve this CAPTCHA to request unblock to the website:"
+      "U.S. and Canada: Technical_Support@ambest.com or 800-544-2378 or 908-572-0841.",
+      "Please solve this CAPTCHA to request unblock to the website."
     ],
     "without": [
-      "Copyright © 2024 A.M. Best Company, Inc. and/or its affiliates. ALL RIGHTS RESERVED.",
-      "You reached this page while trying to access https://bestsreview.ambest.com/edition/2025/January/-Bests-Rankings-and-Worlds-Largest-Insurance-Companies.html, 78.130.167.239, December 20 2025, 15:41:53 UTC, Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-      "Radware Bot Manager Captcha",
-      "AM Best Technical Support",
-      "Submit"
-    ]
+      "Copyright © 2024 A.M. Best Company, Inc.",
+      "Navigation elements",
+      "Social media buttons",
+      "Advertisements",
+      "Cookie notices"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:34:41.249585"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:07:36.177940"
 }

@@ -1,0 +1,76 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.richsnapp.com/article/2025/12-14-git-worktrees-tmux-claude-code-oh-my-zsh",
+  "file_id": "2616",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "programming",
+        "ai",
+        "workflow",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Worktrees & Tmux & Claude, Oh My... Zsh - RichSnapp.com",
+    "author": "Rich Snapp",
+    "publish_date": "2025-12-14",
+    "main_content": "Before AI came along, my coding workflow was something like this: open up IntelliJ, checkout a branch, start coding. Sometimes I would switch between branches to review someone else's code, or maybe just to tackle a different problem for a bit. On rare occasions I would use git worktrees to checkout multiple versions of the code, usually to solve a regression. Things have changed for me, to say the least. I'm planning with Claude, I'm asking questions and getting answers from Claude; and when it comes time to code, Claude is doing most of the coding. I have become The Architect, commanding my army of AI Agents through a terminal multiplexer. The tl;dr summary: If you're running AI agents you should run them in a secure container; if you're running multiple agents against the same codebase you should be using git worktrees; and I'll show you how I run multiple agents with multiple worktrees in a secure container. The article covers containers for sandboxing untrusted AI agents, git worktrees for checking out multiple branches simultaneously, tmux for terminal multiplexing and session persistence, neovim as a lightweight IDE that works well in containers, and the gwtmux command for managing worktrees and tmux windows together. Setup involves cloning the dev repository, building the container, ssh'ing into it, cloning repos into a default/worktree structure, and using gwtmux to create isolated workspaces. Downsides include difficulty transferring individual files and lack of GUI support. Benefits include multi-agent support, isolated security, process persistence, and a flexible development environment.",
+    "with": [
+      "Before AI came along, my coding workflow was something like this: open up IntelliJ, checkout a branch, start coding.",
+      "If you're running AI agents you should run them in a secure container.",
+      "Worktrees are a powerful, but relatively unknown, feature of git that allow you to checkout multiple git branches at the same time.",
+      "tmux is a terminal multiplexer that gives you a structured way to manage multiple terminals within a series of sessions, windows (tabs), and panes.",
+      "The general rule that is followed for managing multiple worktrees at the same time is that 1 tmux window = 1 git worktree."
+    ],
+    "without": [
+      "All Rights Reserved © 2025 Rich Snapp",
+      "Subscribe to newsletter",
+      "Privacy Policy",
+      "Cookie notice",
+      "Navigation item"
+    ],
+    "images": {
+      "total_in_content": 6,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "/_astro/architect.Ctp_RayO.jpg",
+          "filename": "architect.Ctp_RayO.jpg",
+          "alt": "The Architect from The Matrix in front of his monitors",
+          "caption": "The Architect in The Matrix monitoring his Claude agents (probably)",
+          "is_hero": true
+        },
+        {
+          "src": "/_astro/containerClaude.BzhLXlYa.png",
+          "filename": "containerClaude.BzhLXlYa.png",
+          "alt": "Claude in jail",
+          "caption": "Trust is built in a container",
+          "is_hero": false
+        },
+        {
+          "src": "/_astro/lazyvim.DsUENs_8.png",
+          "filename": "lazyvim.DsUENs_8.png",
+          "alt": "Screenshot of LazyVim from lazyvim.org",
+          "caption": "Screenshot of LazyVim from lazyvim.org",
+          "is_hero": false
+        },
+        {
+          "src": "/_astro/workflow-explained.BFkOCGL2.png",
+          "filename": "workflow-explained.BFkOCGL2.png",
+          "alt": "Inside the container",
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:25:29.299382"
+}

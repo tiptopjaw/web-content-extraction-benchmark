@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://aiguidebook.vcu.edu/programs-courses/",
+  "file_id": "1191",
+  "_internal": {
+    "page_type": {
+      "primary": "other",
+      "confidence": "medium",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "privacy",
+        "policy",
+        "cookie-consent",
+        "institutional"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Commitment to Privacy",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Commitment to Privacy\n\nWe collect limited information about web visitors and use cookies on our website to provide you with the most optimal experience. These cookies help us provide you with personalized content and improve our website. To learn more about our web site privacy practices, please review VCU's privacy statement. By clicking on \"I agree\", you agree to this use.\n\n[I agree button link]",
+    "with": [
+      "We collect limited information about web visitors and use cookies on our website to provide you with the most optimal experience.",
+      "These cookies help us provide you with personalized content and improve our website.",
+      "To learn more about our web site privacy practices, please review VCU's privacy statement.",
+      "By clicking on \"I agree\", you agree to this use.",
+      "Commitment to Privacy"
+    ],
+    "without": [
+      "Virginia Commonwealth University",
+      "myVCU",
+      "Register for classes",
+      "Jobs",
+      "Privacy statement"
+    ],
+    "images": {
+      "total_in_content": 2,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:02:26.588098"
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "2.0",
+  "url": "https://ikyle.me/blog/2025/swift-justhtml-porting-html5-parser-to-swift",
+  "file_id": "2626",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "swift",
+        "html5",
+        "parsing",
+        "programming",
+        "llm",
+        "performance"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Porting an HTML5 Parser to Swift",
+    "author": "Kyle Howells",
+    "publish_date": "2025-12-18",
+    "main_content": "Emil Stenström spent months building justhtml, a Python HTML5 parser that achieves 100% compliance with the html5lib test suite. Simon Willison then ported it to JavaScript in 4.5 hours. Looking around after reading those posts, I saw on the Github page that JustHTML had 100% spec compliance and was fast, unlike BeautifulSoup which was only 4% compliant and slow. After that I started wishing I had a similar known good stable pure swift HTML parsing library for use in my Swift projects. So I built swift-justhtml, a port of the justhtml API to Swift which also passes 100% of the html5lib-tests like the original python version.\n\nHTML5 parsing is deceptively complex. The specification defines 67 distinct tokenizer states, 23 tree builder insertion modes, and algorithms with names like adoption agency and Noah's Ark clause. The first real implementation got to 53% test compliance - just over half the html5lib tests passing. After a few hours of this, we were at 97.3% compliance. At 99.6% (1763/1770 tests), the model hit a wall. The remaining 7 tests were genuinely hard edge cases - complex template/table/SVG interactions, multiply-nested table foster parenting, and a new HTML feature called selectedcontent that I had never heard of before. The fixes turned out to be surprisingly small. The final commit that achieved 100% compliance added just 34 lines to the tree builder. Eventually 1,770/1,770 tree construction tests passing.\n\nHaving achieved 100% test coverage I thought I was now done. I ran the benchmarks comparing Swift, JavaScript, and Python implementations parsing the same HTML files. Swift was only 1.4x faster than Python. JavaScript was 2.9x faster than Swift. This was not the result I expected from a compiled language. I knew python was generally slow, but also expected js to be slow. However, I then remembered, Swift's string are famously spec correct and slow. And HTML parsing is mostly string processing.\n\nThe first optimization was switching from Swift's String.Index to raw UTF-8 bytes. Swift's string handling is Unicode-correct but expensive - String.Index advancement is O(n) because it has to account for grapheme clusters. Converting to ContiguousArray<UInt8> gave immediate gains: 302ms → 261ms (14% faster). Next was batch text insertion. The tree builder was creating a new text node for every character token from the tokenizer. Batch text insertion improved performance to 182ms (30% faster). Avoiding memory allocation by moving inline array literals to module-level Set<String> constants eliminated thousands of allocations per document, bringing it to 172ms. The biggest single win came from batch scanning for tag names, bringing it to 118ms. Removing the remaining inline array literals in processStartTagInBody brought the final improvement to 97ms - a 3.1x speedup. The Swift implementation now matched or just barely beat the JavaScript. But it took ~20 optimization commits, detailed profiling, and completely throwing out Swift's string APIs in favor of raw byte manipulation.\n\nWith the crash fixed, all the html5lib test passing, none of the other test files in the other repos causing crashes or failures, and my own fuzzer failing to find any issues, I turned back to performance. The 8,953 tests passing include Tree construction: 1,831, Tokenizer: 6,810, Serializer: 230, and Encoding: 82. Performance: 97ms to parse 2.5MB of HTML across 5 Wikipedia articles. 4x faster than Python, matching JavaScript. Zero dependencies. Pure Swift using only Foundation. Fuzz tested. Millions of malformed documents without crashes.\n\nAfter finishing, I was curious how existing Swift HTML libraries fared against the same test suite. Swift-justhtml achieved 100% (1831/1831), Kanna achieved 94.4% (1542/1633) using libxml2, SwiftSoup achieved 87.9% (1436/1633) with infinite loops on 197 tests, and LilHTML achieved 47.4% (775/1634) crashing on 52% of tests.\n\nHTML5 parsing is harder than it looks. It looks like simple XML parsing, but that went out the window when XHTML was abandoned, now the specification is thousands of pages. Test suites are invaluable. The html5lib tests gave concrete pass/fail feedback for every change. Without them, LLM coding agents would not be able to tackle a task of this size. Given tools and feedback LLM agents are now incredible powerful. Fuzzing finds real bugs. The select fragment crash would never have been caught by the standard test suite alone. Swift's performance isn't automatic. Being a compiled language doesn't guarantee speed. V8 is WAY faster than I thought. AI coding agents are transformative for this kind of work.",
+    "with": [
+      "Emil Stenström spent months building justhtml, a Python HTML5 parser that achieves 100% compliance with the html5lib test suite.",
+      "I built swift-justhtml, a port of the justhtml API to Swift which also passes 100% of the html5lib-tests like the original python version.",
+      "The first real implementation got to 53% test compliance - just over half the html5lib tests passing.",
+      "Eventually: 1,770/1,770 tree construction tests passing.",
+      "The Swift implementation now matched or just barely beat the JavaScript. But it took ~20 optimization commits, detailed profiling, and completely throwing out Swift's string APIs in favor of raw byte manipulation."
+    ],
+    "without": [
+      "Porting an HTML5 Parser to Swift - Kyle Howells",
+      "About | Portfolio | Blog",
+      "Posted: 2 days ago | Last Modified: 2 days ago",
+      "By Kyle Howells | 15 min read",
+      "parsing | html5 | swift | performance | llm | ai | html | Claude Code"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:30:20.762260"
+}

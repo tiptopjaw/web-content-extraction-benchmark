@@ -1,42 +1,75 @@
 {
+  "schema_version": "2.0",
   "url": "https://elements.envato.com/learn/photography-trends",
   "file_id": "0096",
-  "downloaded_at": "2025-12-20T20:02:48.457822",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "photography",
+        "design-trends",
+        "2026",
+        "creative"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "10 Photography Trends for 2026: What’s Shaping the Future",
+    "title": "10 Photography Trends for 2026: What's Shaping the Future",
     "author": "Charles Yeager",
-    "publish_date": "2025-12-11",
-    "main_content": "2026 is a turning point for photography. AI workflows are getting sharper, aesthetics are getting bolder, and creators everywhere are ditching “perfect” for something a little more human. As photography trends evolve faster than ever, whether you shoot on a phone, a drone, or a full-frame Hasselblad, here are the latest shifts shaping how we capture the world.\n\n1. AI photo editing becomes the default\nAI-powered editing has shifted from a novelty to an everyday essential. Tools like ImageEdit, featuring Nano Banana and Nano Banana Pro, automate tasks that photographers used to spend hours on, including masking, skin cleanup, lighting fixes, and full stylistic transformations. This surge in intelligent automation is shaping many of today’s leading photography trends, where what once required numerous layers in Photoshop can now be achieved in a single prompt or slider adjustment.\n\nThe result is a massive leap in speed and creative freedom. Photographers can try bolder looks, iterate on concepts instantly, and deliver professional-grade images, even with a tight turnaround. This is reshaping every corner of the industry, from commercial retouching and editorial work to social content, portraits, and branded campaigns.\n\nHowever, the shift does raise important questions. Creators are paying closer attention to the transparency of creation, the risk of identical AI fingerprints across images, and the challenge of maintaining artistic authenticity. That being said, AI editing is becoming as fundamental to photography as the camera itself.\n\n2. Cinematic photography\nCinematic photography is taking over creative feeds with filmic lighting, rich color grading, letterboxed frames, and slow shutter vibes. It’s one of the most influential photography trends of 2026, characterized by a style shaped by the language of movies, where every shot feels like a frame pulled directly from a feature film. (But you get to imagine the story behind the image.)\n\nThis trend continues to grow because streaming culture has transformed how people watch and perceive visuals. Movie marketing aesthetics are everywhere, from thumbnails to trailers, and younger creators are leaning into a wave of cinema nostalgia. They want photos that evoke an atmosphere, evoke emotions, and feel larger than life. You will see this style making its way into fashion campaigns, social storytelling, editorial portraits, and even music covers. It brings a sense of narrative power to any project.\n\nCreators achieve the look with color palettes built on teal and orange offsets, soft contrast, and anamorphic style flare overlays. Many also add subtle, moody VFX elements to create more depth or tension in the frame. The end result is photography that feels immersive and cinematic, with a visual tone that instantly stands out in crowded feeds.\n\n3. Candid and authentic photography\nCandid and authentic photography is gaining popularity rapidly as creators embrace imperfection as an aesthetic. The look is raw, spontaneous, and documentary-inspired, built on grain, blur, real bodies, and unposed expressions. It’s one of the defining photography trends of 2026, capturing people as they are in the moment (ot posed or polished). The keywords shaping this trend include candid lifestyle, unfiltered moments, everyday scenes, and street energy. It’s about celebrating the real world and the real people in it.\n\n4. Mobile first framing\n5. Drone and aerial photography\n6. Motion blur and dynamic movement\n7. Analog and vintage aesthetics\n8. Age-positive casting and character-rich faces\n9. Messy aesthetics\n10. Screenshot culture",
+    "publish_date": "2025-12-19",
+    "main_content": "10 photography trends shaping the way we shoot in 2026. 2026 is a turning point for photography. AI workflows are getting sharper, aesthetics are getting bolder, and creators everywhere are ditching \"perfect\" for something a little more human. As photography trends evolve faster than ever, whether you shoot on a phone, a drone, or a full-frame Hasselblad, here are the latest shifts shaping how we capture the world. 1. AI photo editing becomes the default: AI-powered editing has shifted from a novelty to an everyday essential. Tools like ImageEdit, featuring Nano Banana and Nano Banana Pro, automate tasks that photographers used to spend hours on, including masking, skin cleanup, lighting fixes, and full stylistic transformations. The result is a massive leap in speed and creative freedom. Photographers can try bolder looks, iterate on concepts instantly, and deliver professional-grade images, even with a tight turnaround. 2. Cinematic photography: Cinematic photography is taking over creative feeds with filmic lighting, rich color grading, letterboxed frames, and slow shutter vibes. Creators achieve the look with color palettes built on teal and orange offsets, soft contrast, and anamorphic style flare overlays. Many also add subtle, moody VFX elements to create more depth or tension in the frame. 3. Candid and authentic photography: Candid and authentic photography is gaining popularity rapidly as creators embrace imperfection as an aesthetic. The look is raw, spontaneous, and documentary-inspired, built on grain, blur, real bodies, and unposed expressions. 4. Mobile first framing: Mobile first framing continues to dominate as smartphone cameras reach professional-level quality. 5. Drone and aerial photography: Drone and aerial photography offers unique perspectives and continues to grow in popularity. 6. Motion blur and dynamic movement: Motion blur and dynamic movement adds energy and emotion to static images. 7. Analog and vintage aesthetics: Analog and vintage aesthetics make a strong comeback with film grain, light leaks, and nostalgic color grading. 8. Age-positive casting and character-rich faces: Age-positive casting and character-rich faces celebrate diversity and authenticity in portraiture. 9. Messy aesthetics: Messy aesthetics embrace imperfection and organic visual elements. 10. Screenshot culture: Screenshot culture influences how visual content is captured and shared across digital platforms.",
     "with": [
-      "2026 is a turning point for photography. AI workflows are getting sharper, aesthetics are getting bolder, and creators everywhere are ditching “perfect” for something a little more human.",
       "AI-powered editing has shifted from a novelty to an everyday essential.",
       "Cinematic photography is taking over creative feeds with filmic lighting, rich color grading, letterboxed frames, and slow shutter vibes.",
-      "Candid and authentic photography is gaining popularity rapidly as creators embrace imperfection as an aesthetic."
+      "Candid and authentic photography is gaining popularity rapidly as creators embrace imperfection as an aesthetic.",
+      "Drone and aerial photography offers unique perspectives on the world.",
+      "Analog and vintage aesthetics are making a strong comeback in 2026."
     ],
     "without": [
+      "Get unlimited downloads",
       "Explore Articles",
-      "Stock Video",
-      "Video Templates",
-      "Music",
-      "Sound Effects",
-      "Graphic Templates",
-      "Graphics",
-      "3D",
-      "Presentation Templates",
-      "Photos",
-      "Fonts",
-      "Add-ons",
-      "Learn",
-      "Video & Music",
-      "Design",
-      "Marketing",
-      "Web Design",
-      "Explore Blog",
-      "Tuts+ Tutorials",
-      "Tuts+ YouTube",
-      "Tips & Resources"
-    ]
+      "All Articles",
+      "Updated December 19, 2025",
+      "Share on Facebook, Twitter, Pinterest"
+    ],
+    "images": {
+      "total_in_content": 35,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://blog-frontend.envato.com/cdn-cgi/image/width=2400,quality=75,format=auto/uploads/sites/2/2025/12/2400x1350_JOB-1927_PhotographyTrends2026_BlogHeader.png",
+          "filename": "2400x1350_JOB-1927_PhotographyTrends2026_BlogHeader.png",
+          "alt": "Photography trends 2026",
+          "caption": "Photography trends 2026",
+          "is_hero": true
+        },
+        {
+          "src": "https://elements-resized.envatousercontent.com/elements-video-cover-images/files/25777818-717e-4907-8568-3ede9f5f1986/inline_image_preview.jpg?w=900&h=506&cf_fit=cover&q=85&format=auto&s=d710edac9c877649b7c66b524cc82f08372f80b2040befba6acea57e8d24f75b",
+          "filename": "inline_image_preview.jpg",
+          "alt": "Cover for Analog VHS Stereo Distortion",
+          "caption": "Cover for Analog VHS Stereo Distortion",
+          "is_hero": false
+        },
+        {
+          "src": "https://elements-resized.envatousercontent.com/elements-video-cover-images/files/116509021/world_radio10_1.jpg?w=900&h=506&cf_fit=cover&q=85&format=auto&s=8d6ec2567a0b55edb72976a25c01a4e88426c073fb2b31f8273b6267012b7963",
+          "filename": "world_radio10_1.jpg",
+          "alt": "Cover for Vintage Radio Dial 20",
+          "caption": "Cover for Vintage Radio Dial 20",
+          "is_hero": false
+        },
+        {
+          "src": "https://elements-resized.envatousercontent.com/elements-video-cover-images/files/238275308/preview.jpg?w=900&h=506&cf_fit=cover&q=85&format=auto&s=2bd9012a8a663cb0dfff490c6e4c40cc4737dbb0f75da80dea5f17f3a650b76b",
+          "filename": "preview.jpg",
+          "alt": "Cover for Vintage Gramophone",
+          "caption": "Cover for Vintage Gramophone",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:02:48.457827"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:46:32.875348"
 }

@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "url": "https://forums.tomshardware.com/threads/laptop-vs-desktop-on-electricity-bills.3779772/",
+  "file_id": "0641",
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "hardware",
+        "electricity",
+        "laptop",
+        "desktop",
+        "discussion"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Laptop  vs Desktop  on electricity bills",
+    "author": "manolis kokotsakis",
+    "publish_date": "2022-09-30",
+    "main_content": "What is the difference of using a laptop vs a desktop (without a graphic card on it) on electricity bills? I mean, both to use for office work, not gaming? The cost of one or two cases of beer, annually. For instance, my little HTPC, which is on a power usage par with a very low end laptop, idles at around 11.5 watts. My main PC idles at around 60 watts. Using the Electricity Bill Calculator from RapidTables at $0.12 kWh cost, running at idle 24/7 for a year: The HTPC costs $12.62/year and the main PC costs $63/year. So $51 difference, total, on an annual basis. If you were to, instead, work with 8 hours use per day: HTPC - $4.20, PC - $21. That is total annual cost, with a $17 difference. Office work doesn't stress a desktop PC all that much, so it won't really be much above idle usage. A lower end desktop is likely going to run about 30-40W of power. However, you have to add in a monitor, which can throw another 10-15W on top of that. A laptop for office work (like a Dell XPS/Inspiron) will typically take about half that if plugged in and fully charged.",
+    "with": [
+      "What is the difference of using a laptop vs a desktop (without a graphic card on it) on electricity bills?",
+      "The cost of one or two cases of beer, annually.",
+      "My little HTPC, which is on a power usage par with a very low end laptop, idles at around 11.5 watts.",
+      "Using the Electricity Bill Calculator from RapidTables at $0.12 kWh cost, running at idle 24/7 for a year: The HTPC costs $12.62/year and the main PC costs $63/year.",
+      "A lower end desktop is likely going to run about 30-40W of power. However, you have to add in a monitor, which can throw another 10-15W on top of that."
+    ],
+    "without": [
+      "Not open for further replies.",
+      "Join the discussion",
+      "Sign up for our newsletter",
+      "Trending Threads",
+      "Latest posts"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:44:45.601480"
+}

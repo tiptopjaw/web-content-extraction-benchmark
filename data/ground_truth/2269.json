@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://clay.global/blog/web-design-guide",
+  "file_id": "2269",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "web-design",
+        "guide",
+        "tutorial",
+        "design"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "How to Design a Website: a Complete Guide for 2026",
+    "author": "Clay",
+    "publish_date": "2024-03-14",
+    "main_content": "Web design is the process of creating and maintaining websites. It involves various aspects such as layout, defines website structure, content management system, production, website structure, user interface design, navigation optimization, and search engine optimization. Web design helps businesses create attractive, user-friendly sites to reach potential customers. It also plays an integral role in SEO optimization, so their website ranks higher on search engine results pages. Crafting a website isn't just slapping colors and code together. It's a carefully choreographed dance, one that starts long before the first pixel is placed. The web design process begins with a simple question: Why does this website exist? Once you've got that clarity, you choose your tools, then create wireframes, mockups, and prototypes. The coding phase transforms designs into living, breathing web pages using HTML, CSS, and JavaScript. Web design principles include color theory, layout composition, hierarchy, white space, balance, contrast, and alignment. Responsive web design creates websites tailored to fit any screen size, from small mobile devices to large desktop monitors. When designing a website, you need to define the website's purpose, choose a web design platform, map out the website structure, design elements like typography and visual graphics, and customize web pages for engagement.",
+    "with": [
+      "Web design is the process of creating and maintaining websites. It involves various aspects such as layout, defines website structure, content management system, production, website structure, user interface design, navigation optimization, and search engine optimization.",
+      "The web design process begins with a simple question: Why does this website exist? Once you've got that clarity, you choose your tools, then create wireframes, mockups, and prototypes.",
+      "Web design principles include color theory, layout composition, hierarchy, white space, balance, contrast, and alignment.",
+      "Responsive web design is a design approach that creates websites tailored to fit any screen size, from small mobile devices to large desktop monitors.",
+      "When designing a website, you need to define the website's purpose, choose a web design platform, map out the website structure, and design elements like typography and visual graphics."
+    ],
+    "without": [
+      "Subscribe to newsletter",
+      "Copyright 2025 Clay",
+      "Privacy Policy",
+      "Navigation menu items like Work, Clients, Services",
+      "Cookie notice"
+    ],
+    "images": {
+      "total_in_content": 42,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://cdn.sanity.io/images/r115idoc/production/9ca839394f71b1aff720b4b343b77e50d4e2f7e6-2338x1238.png?w=3840&q=80&fit=clip&auto=format",
+          "filename": "9ca839394f71b1aff720b4b343b77e50d4e2f7e6-2338x1238.png",
+          "alt": "How to Design a Website: a Complete Guide - Clay",
+          "caption": "How to Design a Website: a Complete Guide - Clay",
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn.sanity.io/images/r115idoc/production/1ffdf318545e990e8a9f82d737be7537f1d8c8e5-3840x2160.png?w=3840&q=80&fit=clip&auto=format",
+          "filename": "1ffdf318545e990e8a9f82d737be7537f1d8c8e5-3840x2160.png",
+          "alt": "Overview of the web design process",
+          "caption": "Web Design Process by Clay",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.sanity.io/images/r115idoc/production/900dc7be7ee358f7fe34284b73c6b1f662d3e10a-3840x2160.png?w=3840&q=80&fit=clip&auto=format",
+          "filename": "900dc7be7ee358f7fe34284b73c6b1f662d3e10a-3840x2160.png",
+          "alt": "What Does a Web Designer Do? ",
+          "caption": "What Does a Web Designer Do? Overview by Clay",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.sanity.io/images/r115idoc/production/bd5fda90e1dc851324537a237e259acdf5fb2588-3840x2160.png?w=3840&q=80&fit=clip&auto=format",
+          "filename": "bd5fda90e1dc851324537a237e259acdf5fb2588-3840x2160.png",
+          "alt": "Color wheel",
+          "caption": "Color Wheel by Clay",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.sanity.io/images/r115idoc/production/29974f40f793a4f0e4a4cc38b467ded782b223ef-3840x2160.png?w=3840&q=80&fit=clip&auto=format",
+          "filename": "29974f40f793a4f0e4a4cc38b467ded782b223ef-3840x2160.png",
+          "alt": "Inscription of white spaces",
+          "caption": "White Space by Clay",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.sanity.io/images/r115idoc/production/4ba27ebc71779e795181d4ba09943dcf3cbca116-3840x2160.png?w=3840&q=80&fit=clip&auto=format",
+          "filename": "4ba27ebc71779e795181d4ba09943dcf3cbca116-3840x2160.png",
+          "alt": "Responsive Web Design Illustration",
+          "caption": "Responsive Web Design by Clay",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.sanity.io/images/r115idoc/production/6377aebf741213bce2ff7af0f6a4606a3d1f0b10-3840x2160.png?w=3840&q=80&fit=clip&auto=format",
+          "filename": "6377aebf741213bce2ff7af0f6a4606a3d1f0b10-3840x2160.png",
+          "alt": "Website Purposes",
+          "caption": "7 Types of Website's Purpose by Clay",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.sanity.io/images/r115idoc/production/54a13a830cc3378726eaf1f7ec11b4e983fc2e6d-3840x2160.png?w=3840&q=80&fit=clip&auto=format",
+          "filename": "54a13a830cc3378726eaf1f7ec11b4e983fc2e6d-3840x2160.png",
+          "alt": "The Best Web Design Platforms",
+          "caption": "The Best Web Design Platforms by Clay",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.sanity.io/images/r115idoc/production/e9705121b257625f88110c2c60ca000fdcab4db9-3840x2160.png?w=3840&q=80&fit=clip&auto=format",
+          "filename": "e9705121b257625f88110c2c60ca000fdcab4db9-3840x2160.png",
+          "alt": "website map",
+          "caption": "Website Map Example by Clay",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.sanity.io/images/r115idoc/production/491cb7b6f7b8688d319052ff4dc0296fddd4722c-3840x3984.png?w=3840&q=80&fit=clip&auto=format",
+          "filename": "491cb7b6f7b8688d319052ff4dc0296fddd4722c-3840x3984.png",
+          "alt": "Screens from platform Togetherr",
+          "caption": "Togetherr Hero Screens by Clay",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:21:10.730207"
+}

@@ -1,0 +1,69 @@
+{
+  "schema_version": "2.0",
+  "url": "https://dev.37signals.com/the-rails-delegated-type-pattern",
+  "file_id": "2615",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "rails",
+        "programming",
+        "tutorial",
+        "technical"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "The Rails Delegated Type Pattern",
+    "author": "Kimberly Rhodes",
+    "publish_date": "2025-12-19",
+    "main_content": "Here on the 37signals developer blog, we go deep into technical topics, but some ideas are easier to explain through conversation, a little back-and-forth, and an occasional screen share. That's why we're launching RECORDABLES, a new video series hosted by Kimberly Rhodes, who you may know from The REWORK podcast, alongside Fernando Olivares, Lead Programmer on our Mobile Team. We couldn't think of a better way to kickoff RECORDABLES than exploring recordables! We've had many requests over the years to explain how and why we use the delegated types pattern from Rails in our products and we're finally explaining it in-depth. Kimberly and Fernando sit down with Principal Programmer Jeffrey Hardy to unpack the recordables architecture that powers Basecamp and HEY. Jeffrey explains how delegated types made it possible to scale Basecamp for over a decade without constant rewrites. The discussion explores why this approach makes copying, version history, timelines, and mobile support dramatically easier, along with the tradeoffs and learning curve. In Basecamp, pretty much all content, things like documents, messages, comments, uploads, these are modeled as a pattern we use called a delegated type. And so in the delegated type pattern, which comes from Rails, you have a primary table. In our case it's recordings. And recordings reference recordables, and the recordables are like the concrete types. A recordable would be a message, a comment, a document, or an upload. And so with this pattern, we're able to model all the various content in Basecamp, which is essentially all the same. There are a few things about the, it's not just the delegated type. So for those that don't know delegated type, it's available in Rails. The documentation in the Rails docs is pretty good, but I think a lot of people don't quite understand when they would use it or why to use it. The recordables themselves, we treat them as immutable, so we don't modify them in place. We create new ones. Another thing that we do is the recordings are organized in a tree, like a parent child relationship. The event system can tie a recording to a recordable at a particular moment in time. And so this is why said the recordables themselves are immutable. So we never change them, but we can move the pointers to them around. What enables this is this combination of immutable recordables and events. The thing I want to point out here in the recording class is this little inclusion of a Ruby module called recordables. This is what does all this work. All the things that recordables have in common are listed here. These are things that they can do. Are they auto subscribable? Are they subscribable in general? So this is where the type that we delegate to defines its capabilities. One of the reasons we have this pattern is this mixed use case. Let's say you have a timeline. We have a timeline in Basecamp. We want to see everything that's happened at a global level. How do you do that and paginate it if all of your records are in different tables? You have to select from the comments table and the documents table and the uploads table and the messages table. Like everything, it's super hard. But with recordings, you're just querying for recordings. You can say recordings where recordable type is message, document, comment. You're going to get all the ones that are that type in one query that you can paginate with a limit and an offset. Super handy. I think some of that richness gets a little bit lost. You don't do things quite in the Rails standard way, where you tend to think more abstractly, like how is this a generic concern? You got to think of the recordables as being pretty dumb. They're just like in the case of a message, it's literally just a title and content. That's it. They have no connection to the outside world. So that cost is there upfront, but then a month later when someone's like, hey, can we have comments or categories on documents? It's like, yes, that's easy, no problem. And so we've gotten a ton of leverage out of that. It allows you to build a lot of things that should be hard, just are not hard. They come down to a matter of configuration. You can build entirely new features that should take months in a week, two weeks, I mean excluding the design, but the software modeling part. And it's all uniform. So once you've figured out how this works, you understand the whole system. It doesn't scale up with the number of types. It behaves the same whether you have one kind of recordable or 200. It started life in Basecamp as, you know, just in our application code. And then once we realized how good it was, David packaged it up and wrote documentation for it and extracted it to Rails. That's another reason we know it works. It sounds very abstract, but it's not ivory tower sort of theory thing. This is what we're actually using and we've proven it out over a decade. So it really, really works. The common thing we do is introduce new features, new kinds of content. The common thing we do is, and with those content, that content, we need it to work on our mobile apps with no extra effort without having to hire new mobile developers. How can we have something that's flexible? What we found with Basecamp 2 is that, yeah, it works, but it's slow. And every time we're like, hey, we want to add a new thing, we're like, eh, that's expensive. That's going to be a pain in the ass. How do you make it not a pain in the ass? I think good patterns emerge when that's your criteria.",
+    "with": [
+      "Kimberly and Fernando sit down with Principal Programmer Jeffrey Hardy to unpack the recordables architecture that powers Basecamp and HEY.",
+      "In Basecamp, pretty much all content, things like documents, messages, comments, uploads, these are modeled as a pattern we use called a delegated type.",
+      "We couldn't think of a better way to kickoff RECORDABLES than exploring recordables! We've had many requests over the years to explain how and why we use the delegated types pattern from Rails.",
+      "The recordables themselves, we treat them as immutable, so we don't modify them in place. We create new ones.",
+      "You can build entirely new features that should take months in a week, two weeks, I mean excluding the design, but the software modeling part."
+    ],
+    "without": [
+      "Sign up to get posts via email",
+      "37signals Dev Feed",
+      "Privacy Policy",
+      "Footer navigation links",
+      "Social media sharing buttons"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "/assets/images/authors/kimberly.png",
+          "filename": "kimberly.png",
+          "alt": "Kimberly Rhodes",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "/assets/images/authors/fernando-olivares.png",
+          "filename": "fernando-olivares.png",
+          "alt": "Fernando Olivares",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "/assets/images/authors/jeffrey.png",
+          "filename": "jeffrey.png",
+          "alt": "Jeffrey Hardy",
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:25:11.251706"
+}

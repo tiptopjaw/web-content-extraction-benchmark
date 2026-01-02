@@ -1,0 +1,82 @@
+{
+  "schema_version": "2.0",
+  "url": "https://mailchimp.com/marketing-glossary/digital-marketing/",
+  "file_id": "0381",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "marketing",
+        "guide",
+        "definition",
+        "glossary"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "What is Digital Marketing and How Does it Work? | Mailchimp",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Digital marketing is the promotion of brands using the internet and other forms of digital communication. This includes not only email, social media, and web-based advertising, but also text and multimedia messages. Digital marketing typically refers to marketing campaigns that appear on a computer, phone, tablet, or other device. It can take many forms, including online video, display ads, search engine marketing, paid social ads, and social media posts. Digital marketing is similar to traditional marketing except it takes place on digital channels. Both B2B and B2C companies benefit from digital marketing. The key metrics for digital marketing include click-through rates, website traffic, and key performance indicators (KPIs) like conversion rate and cost per acquisition.",
+    "with": [
+      "Digital marketing is the promotion of brands using the internet and other forms of digital communication.",
+      "This includes not only email, social media, and web-based advertising, but also text and multimedia messages.",
+      "In practice, digital marketing typically refers to marketing campaigns that appear on a computer, phone, tablet, or other device.",
+      "Digital marketing is similar to traditional marketing except it takes place on digital channels.",
+      "Digital marketing includes many forms, including online video, display ads, search engine marketing, paid social ads, and social media posts."
+    ],
+    "without": [
+      "Skip to main content",
+      "Solutions and Services navigation",
+      "Integrations menu",
+      "Holiday promotional banner",
+      "Mailchimp logo and branding"
+    ],
+    "images": {
+      "total_in_content": 21,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://mailchimp.com/ctf/images/yzco4xsimv0y/40Iao4U9BEFHMsqbWAaHKO/df664fa048f43216f3af448e3ac5ba39/fTb38SPQ.png?w=240&q=70",
+          "filename": "fTb38SPQ.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://mailchimp.com/ctf/images/yzco4xsimv0y/60yaUeIOgwzCbZqLVQG1re/f32c933156f05b2940058693cd9b13e7/digital_marketing_graphic_-1.png?w=580&q=70",
+          "filename": "digital_marketing_graphic_-1.png",
+          "alt": "digital marketing",
+          "caption": "Digital marketing overview",
+          "is_hero": false
+        },
+        {
+          "src": "https://mailchimp.com/ctf/images/yzco4xsimv0y/3XgkeEYF2gAQnXCpJCdO8F/6efe6c4f7b0e33f5224657eb3f636c7c/ILLO_Spot_Testing_1080.png?w=1600&q=70",
+          "filename": "ILLO_Spot_Testing_1080.png",
+          "alt": null,
+          "caption": "B2B vs B2C marketing comparison",
+          "is_hero": false
+        },
+        {
+          "src": "https://mailchimp.com/ctf/images/yzco4xsimv0y/3gWLjxkCjr95PlgjZaEqg5/08f3bac17025733fc13d7f8e1ea9a5ac/digital_marketing_graphic_-2.png?w=580&q=70",
+          "filename": "digital_marketing_graphic_-2.png",
+          "alt": "B2b vs B2c",
+          "caption": "Digital marketing metrics",
+          "is_hero": false
+        },
+        {
+          "src": "https://mailchimp.com/ctf/images/yzco4xsimv0y/5qFcbUDviWtk0U0jONyYLG/cc293aac744a5c228e41341cdd85f9da/digital_marketing_graphic_-3.png?w=580&q=70",
+          "filename": "digital_marketing_graphic_-3.png",
+          "alt": "digital marketing metrics",
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:11:36.484303"
+}

@@ -1,27 +1,61 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.coursereport.com/blog/may-2025-bootcamp-news-roundup",
   "file_id": "0857",
-  "downloaded_at": "2025-12-20T21:22:46.227190",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "education",
+        "news",
+        "coding-bootcamps"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "May 2025 Bootcamp News Roundup",
     "author": "Liz Eggleston",
-    "publish_date": "2025-06-05",
-    "main_content": "The bootcamp industry continues to evolve this May, with new campuses opening around the world, innovative partnerships forming between bootcamps and colleges, and AI-focused programs gaining traction at universities and training providers alike. In this May 2025 news roundup, we’re highlighting news about big moves from Le Wagon, Resilient Coders, and Zip Code Wilmington, tracking the rise of AI bootcamps, and sharing five new schools added to the Course Report directory.\n\nCurious about what happened in bootcamps in April? Check out last month’s episode to listen to all the biggest coding bootcamp news from April!\n\nNew Campuses & Schools in the News\n\nAccording to the Economic Times, Le Wagon is opening a new classroom in Bangalore – its first campus in India. This first cohort will start July 7th.\n\nCassandra Lopez profiled Resilient Coders in the Philadelphia Tribune this May. Resilient Coders has been training underrepresented Black and brown talent in software engineering since 2014. They offer students an intensive, stipended, 18-week full-stack engineering course, an AI/ML training program with immersive agile development cycles, professional development, mentorship and ongoing career placement support. Lopez attended the Demo Day and described a few of the standout presentations.\n\nDegrees vs Bootcamps\n\nHRDive reports that 1 in 4 employers say they’ll eliminate degree requirements by year’s end. Companies that recently removed degree requirements reported a surge in applications and a more diverse applicant pool 👍 They also reported the ability to offer lower salaries 👎 In the survey of 1,000 hiring managers, 84% of companies that recently removed degree requirements said it has been a successful move.\n\nAccording to Delaware Live, Zip Code Wilmington has announced a new partnership with Goldey-Beacom College that will allow graduates of its coding bootcamps to earn up to 12 college credits. Through the Credit for Prior Learning initiative, bootcamp alumni who enroll in Goldey-Beacom’s associate or bachelor’s degree programs can receive credit for their prior technical training – 12 credits for Software Development graduates and nine credits for Data Engineering and Analytics graduates. Goldey-Beacom College President Colleen Perry Keith says: “We have seen first-hand that students from the Zip Code Wilmington coding programs are highly trained in technology skills aligned with our curriculum. In fact, we have hired a Zip Code Wilmington graduate who has added tremendous value to our IT work. It is only fitting for us to award credit to these students who have displayed academic excellence and a dedication to learning.\n\nAI Bootcamps On the Rise\n\nAccording to TechFinancials, Stellenbosch University and HyperionDev are launching a Generative Artificial Intelligence mini-bootcamp, which “covers fundamental AI topics, from the math behind machine learning to deep learning models used in generative AI.”\n\nAccording to WIBW, Washburn University is launching a new Artificial Intelligence Literacy and Application Certificate in Fall 2025. This will focus on helping students learn the practical and ethical aspects of AI and equipping students with foundational knowledge and practical skills to understand, apply, and critically assess AI technologies across disciplines.\n\nMSN reports that University of Washington’s Allen School will offer a new part-time evening program called Graduate Certificate in Modern AI Methods. The Certificate will consist of four courses taught by Allen School instructors, addressing topics such as deep learning, computer vision and natural language processing and their applications, and culminating in a final, project-based course.\n\nAccording to the Milwaukee Business Journal, Waukesha County Technical College is working to get a new advanced certificate program in AI approved by the Wisconsin Technical College System Board.\n\n5 New Schools Added to Course Report\n\nCharis Intelligence\nTuwaiq Academy\nRed Alpha Cybersecurity\nSkiller Academy\nBoolean Academia\n\nWelcome to these new schools! If you are a graduate of one of these schools, remember to leave a review of your experience on Course Report.",
+    "publish_date": null,
+    "main_content": "The bootcamp industry continues to evolve this May, with new campuses opening around the world, innovative partnerships forming between bootcamps and colleges, and AI-focused programs gaining traction at universities and training providers alike. In this May 2025 news roundup, we highlight news about big moves from Le Wagon, Resilient Coders, and Zip Code Wilmington, track the rise of AI bootcamps, and share five new schools added to the Course Report directory.\n\nNEW CAMPUSES & SCHOOLS IN THE NEWS: Le Wagon is opening a new classroom in Bangalore – its first campus in India, with the first cohort starting July 7th. Resilient Coders has been training underrepresented Black and brown talent in software engineering since 2014, offering students an intensive, stipended, 18-week full-stack engineering course, an AI/ML training program with immersive agile development cycles, professional development, mentorship and ongoing career placement support.\n\nDEGREES VS BOOTCAMPS: According to HRDive, 1 in 4 employers say they'll eliminate degree requirements by year's end. Companies that recently removed degree requirements reported a surge in applications and a more diverse applicant pool. Zip Code Wilmington has announced a new partnership with Goldey-Beacom College that will allow graduates of its coding bootcamps to earn up to 12 college credits through the Credit for Prior Learning initiative.\n\nAI BOOTCAMPS ON THE RISE: Stellenbosch University and HyperionDev are launching a Generative Artificial Intelligence mini-bootcamp covering fundamental AI topics from the math behind machine learning to deep learning models. Washburn University is launching a new Artificial Intelligence Literacy and Application Certificate in Fall 2025. University of Washington's Allen School will offer a new part-time evening program called Graduate Certificate in Modern AI Methods.\n\n5 NEW SCHOOLS ADDED TO COURSE REPORT: Charis Intelligence, Tuwaiq Academy, Red Alpha Cybersecurity, Skiller Academy, and Boolean Academia Chile have been added to the Course Report directory.",
     "with": [
       "The bootcamp industry continues to evolve this May, with new campuses opening around the world, innovative partnerships forming between bootcamps and colleges, and AI-focused programs gaining traction at universities and training providers alike.",
       "According to the Economic Times, Le Wagon is opening a new classroom in Bangalore – its first campus in India.",
-      "HRDive reports that 1 in 4 employers say they’ll eliminate degree requirements by year’s end.",
-      "According to Delaware Live, Zip Code Wilmington has announced a new partnership with Goldey-Beacom College that will allow graduates of its coding bootcamps to earn up to 12 college credits.",
-      "According to TechFinancials, Stellenbosch University and HyperionDev are launching a Generative Artificial Intelligence mini-bootcamp."
+      "According to HRDive, 1 in 4 employers say they'll eliminate degree requirements by year's end.",
+      "Stellenbosch University and HyperionDev are launching a Generative Artificial Intelligence mini-bootcamp, which covers fundamental AI topics, from the math behind machine learning to deep learning models.",
+      "Zip Code Wilmington has announced a new partnership with Goldey-Beacom College that will allow graduates of its coding bootcamps to earn up to 12 college credits."
     ],
     "without": [
-      "Bootcamps Courses Certifications Advice Career Portal Get Matched Sign In",
-      "Course Report strives to create the most trust-worthy content about coding bootcamps. Read more about Course Report’s Editorial Policy and How We Make Money.",
-      "Want help finding the best school for you?",
-      "Also on Course Report",
-      "Written by Liz Eggleston, CEO and Editor of Course Report"
-    ]
+      "Get Matched",
+      "Sign In",
+      "Course Report strives to create the most trust-worthy content about coding bootcamps.",
+      "Bootcamps",
+      "Courses"
+    ],
+    "images": {
+      "total_in_content": 20,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://coursereport-production.imgix.net/uploads/author/photo/2/liz-pic.jpeg?auto=format%2Ccompress&fit=facearea&facepad=3&mask=ellipse&w=86",
+          "filename": "liz-pic.jpeg",
+          "alt": "Liz Eggleston",
+          "caption": "Liz Eggleston",
+          "is_hero": false
+        },
+        {
+          "src": "https://coursereport-production.imgix.net/uploads/author/photo/78/Inglis_photo.JPG?auto=format%2Ccompress&fit=facearea&facepad=3&mask=ellipse&w=86",
+          "filename": "Inglis_photo.JPG",
+          "alt": "Jennifer Inglis",
+          "caption": "Jennifer Inglis",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:22:46.227196"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:47:21.593915"
 }

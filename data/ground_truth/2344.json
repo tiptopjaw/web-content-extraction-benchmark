@@ -1,0 +1,45 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.oleantimesherald.com/2025/12/19/state-union-st-josephs-students-make-annual-food-delivery-warming-house",
+  "file_id": "2344",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "local-news",
+        "community",
+        "charity"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "State & Union: St. Joseph's students make annual food delivery to Warming House",
+    "author": null,
+    "publish_date": "2025-12-19",
+    "main_content": "They never fail to deliver. For the 44th consecutive year, students from St. Joseph's Collegiate Institute of Buffalo delivered a truckload of nonperishable food items and paper products Friday to the Warming House, St. Bonaventure University's soup kitchen on North Union Street in Olean. This year was the 55th anniversary of the St. Joe's Food Basket. The Warming House, which started receiving donations from St. Joe's in 1982, is the...",
+    "with": [
+      "For the 44th consecutive year, students from St. Joseph's Collegiate Institute of Buffalo delivered a truckload of nonperishable food items and paper products Friday to the Warming House.",
+      "This year was the 55th anniversary of the St. Joe's Food Basket.",
+      "The Warming House, which started receiving donations from St. Joe's in 1982, is St. Bonaventure University's soup kitchen on North Union Street in Olean.",
+      "Students from St. Joseph's Collegiate Institute of Buffalo unload donated food items at the Warming House Friday morning.",
+      "The delivery represents an annual tradition of community support from the students."
+    ],
+    "without": [
+      "GET THE APP",
+      "Subscribe",
+      "Copyright 2025 Olean Times Herald",
+      "Privacy Policy",
+      "Login"
+    ],
+    "images": {
+      "total_in_content": 12,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:44:31.575654"
+}

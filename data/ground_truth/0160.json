@@ -1,27 +1,90 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.budget.com/en/cars/vehicles/us/a",
   "file_id": "0160",
-  "downloaded_at": "2025-12-20T18:47:03.529253",
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "car-rental",
+        "economy-cars",
+        "budget",
+        "kia-rio",
+        "vehicle-listing"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Economy Car Rental [Rent a Small Car] | Budget Car Rental",
-    "author": null,
+    "author": "ABG",
     "publish_date": null,
-    "main_content": "Book an Economy Car Rental\nKia Rio or Similar\nWhat is an economy car?\nThis type of vehicle usually has 4 doors and seating for 5 passengers. An economy car is the smallest of all vehicle groups. The name comes from the affordable rental price and excellent fuel economy—most economy car rentals offer a stellar 30 MPG or better. This is a great option for anyone taking a long road trip or wanting to maximize their savings while traveling. Keep reading to learn more about the various makes, models, and benefits of economy rental cars from Budget.\nFord Fiesta\nThe popular Ford Fiesta rental is an excellent value, offering great gas mileage, ease of parking, and an overall enjoyable ride.\nHyundai Accent\nWith a Hyundai Accent rental from Budget you get an affordable economy vehicle with plenty of cabin space, plus enviable handling and driving power.\nKia Rio\nThe Kia Rio rental is the perfect car for those wanting an efficient vehicle that also packs a powerful punch and has impressive safety scores.\nSmart Car\nA Smart Car rental is perfect when traveling alone or in a twosome. You’ll be able to park with ease and get incredible gas mileage anywhere you go with this small car rental.\nVolkswagen Golf\nChoose a Volkswagen Golf rental and get many perks, including easy handling, a hatchback cargo area, and roomy inside for up to 5 passengers.\nVehicle make, model, trim, features and color are not guaranteed and are subject to location and availability. Vehicles listed for this car group are subject to change at anytime. Vehicle features are subject to change based on the vehicle model-year.\nFrequently Asked Questions\nHow can I rent an economy car?\nEconomy car rental couldn’t be easier with Budget. Get started with your reservation by filling out the booking form at the top of the page. Enter your desired pickup location and date. Then book your vehicle on the following page.\nWhere can I rent an economy car from Budget?\nWe have Budget Car Rental locations across the country, including at countless airports. You’ll likely find a Budget location near your desired pickup point, or possibly close to where you are now. Pop your preferred pickup location into the form above to see what vehicles are available.\nSimilar Car Options\nExplore Compact Cars\nExplore Midsize Cars\nExplore Standard Cars\nEconomy Car Rental Benefits\nAn economy rental is perfect for small groups who don’t need a huge amount of room and are looking to save some serious money on vehicle costs. A small car like this will get you where you need to go reliably but with a fraction of the gas that a larger, flashier ride might require. You’ll also be able to maneuver easily in traffic and park in a snap, simplifying your driving experience. An economy car rental offers many additional benefits, including:\nGreat Gas Mileage\nReasonably Priced\nComfortable Interior\nReliability",
+    "main_content": "Book an Economy Car Rental - Kia Rio or Similar. This type of vehicle usually has 4 doors and seating for 5 passengers. An economy car is the smallest of all vehicle groups. The name comes from the affordable rental price and excellent fuel economy—most economy car rentals offer a stellar 30 MPG or better. This is a great option for anyone taking a long road trip or wanting to maximize their savings while traveling. Keep reading to learn more about the various makes, models, and benefits of economy rental cars from Budget. Vehicle Features: 5 Seats, 1 Large Bag, 1 Small Bag. Ford Fiesta: The popular Ford Fiesta rental is an excellent value, offering great gas mileage, ease of parking, and an overall enjoyable ride. Hyundai Accent: With a Hyundai Accent rental from Budget you get an affordable economy vehicle with plenty of cabin space, plus enviable handling and driving power. Kia Rio: The Kia Rio rental is the perfect car for those wanting an efficient vehicle that also packs a powerful punch and has impressive safety scores. Smart Car: A Smart Car rental is perfect when traveling alone or in a twosome. You'll be able to park with ease and get incredible gas mileage anywhere you go with this small car rental. Volkswagen Golf: Choose a Volkswagen Golf rental and get many perks, including easy handling, a hatchback cargo area, and roomy inside for up to 5 passengers. Economy Car Rental Benefits: Great Gas Mileage, Reasonably Priced, Comfortable Interior, Reliability. Frequently Asked Questions: How can I rent an economy car? Economy car rental couldn't be easier with Budget. Get started with your reservation by filling out the booking form. Enter your desired pickup location and date. Then book your vehicle on the following page. Where can I rent an economy car from Budget? We have Budget Car Rental locations across the country, including at countless airports. You'll likely find a Budget location near your desired pickup point, or possibly close to where you are now. Pop your preferred pickup location into the form above to see what vehicles are available. Vehicle make, model, trim, features and color are not guaranteed and are subject to location and availability. Vehicles listed for this car group are subject to change at anytime. Vehicle features are subject to change based on the vehicle model-year.",
     "with": [
-      "This type of vehicle usually has 4 doors and seating for 5 passengers.",
-      "The name comes from the affordable rental price and excellent fuel economy—most economy car rentals offer a stellar 30 MPG or better.",
+      "An economy car is the smallest of all vehicle groups. The name comes from the affordable rental price and excellent fuel economy—most economy car rentals offer a stellar 30 MPG or better.",
       "The Kia Rio rental is the perfect car for those wanting an efficient vehicle that also packs a powerful punch and has impressive safety scores.",
-      "Economy car rental couldn’t be easier with Budget. Get started with your reservation by filling out the booking form at the top of the page.",
-      "An economy rental is perfect for small groups who don’t need a huge amount of room and are looking to save some serious money on vehicle costs."
+      "Economy car rental couldn't be easier with Budget. Get started with your reservation by filling out the booking form at the top of the page.",
+      "We have Budget Car Rental locations across the country, including at countless airports. You'll likely find a Budget location near your desired pickup point.",
+      "An economy rental is perfect for small groups who don't need a huge amount of room and are looking to save some serious money on vehicle costs."
     ],
     "without": [
-      "Sign into your Budget Account",
-      "Please enter your Budget password to login",
-      "Reservations\nMake a Reservation\nView / Modify / Cancel\nBudget Truck\nGet e-Receipt\nBUDGET PRECHECK",
-      "Deals\nUS Deals\nInternational Deals\nPartner Deals",
-      "© 2024 Budget Car Rental, LLC. All rights reserved."
-    ]
+      "Get our best rates when you sign In. Terms Apply",
+      "Best Rate Guaranteed - Free Day earned on 3rd day Minimum - FREE UPGRADE",
+      "Sign In to your Budget Account - Forgot password? - Forgot Customer ID?",
+      "Maintenance updates are in progress. Reservations are not affected",
+      "Please update your credit card information - Update"
+    ],
+    "images": {
+      "total_in_content": 11,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "/content/dam/cars/l/2021/kia/2021-kia-rio-s-sedan-white_featured.png",
+          "filename": "2021-kia-rio-s-sedan-white_featured.png",
+          "alt": null,
+          "caption": "2021 Kia Rio S Sedan White - Featured vehicle for economy car rental",
+          "is_hero": true
+        },
+        {
+          "src": "/content/dam/cars/l/2018/ford/2018-ford-fiesta-se-sedan-blue.png",
+          "filename": "2018-ford-fiesta-se-sedan-blue.png",
+          "alt": null,
+          "caption": "2018 Ford Fiesta SE Sedan Blue - Similar economy car option",
+          "is_hero": false
+        },
+        {
+          "src": "/content/dam/cars/l/2020/hyundai/2020-hyundai-accent-se-sedan-white.png",
+          "filename": "2020-hyundai-accent-se-sedan-white.png",
+          "alt": null,
+          "caption": "2020 Hyundai Accent SE Sedan White - Similar economy car option",
+          "is_hero": false
+        },
+        {
+          "src": "/content/dam/cars/l/2021/kia/2021-kia-rio-s-sedan-silver.png",
+          "filename": "2021-kia-rio-s-sedan-silver.png",
+          "alt": null,
+          "caption": "2021 Kia Rio S Sedan Silver - Similar economy car option",
+          "is_hero": false
+        },
+        {
+          "src": "/content/dam/cars/l/2018/smart/2018-smart-fortwo-electric-drive-prime-coupe-micro-car-black.png",
+          "filename": "2018-smart-fortwo-electric-drive-prime-coupe-micro-car-black.png",
+          "alt": null,
+          "caption": "2018 Smart Fortwo Electric Drive Prime Coupe Micro Car Black - Similar economy car option",
+          "is_hero": false
+        },
+        {
+          "src": "/content/dam/cars/l/2021/volkswagen/2021-volkswagen-golf-gti-5door-hatchback-blue.png",
+          "filename": "2021-volkswagen-golf-gti-5door-hatchback-blue.png",
+          "alt": null,
+          "caption": "2021 Volkswagen Golf GTI 5-door Hatchback Blue - Similar economy car option",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:47:03.529258"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:40:16.554965"
 }

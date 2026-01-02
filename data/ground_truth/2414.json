@@ -1,0 +1,97 @@
+{
+  "schema_version": "2.0",
+  "url": "https://addyo.substack.com/p/my-llm-coding-workflow-going-into",
+  "file_id": "2414",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "software-engineering",
+        "ai",
+        "llm",
+        "coding"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "My LLM coding workflow going into 2026",
+    "author": "Addy Osmani",
+    "publish_date": "2025-12-18",
+    "main_content": "AI coding assistants became game-changers this year, but harnessing them effectively takes skill and structure. These tools dramatically increased what LLMs can do for real-world coding, and many developers embraced them. Using LLMs for programming is not a push-button magic experience - it's difficult and unintuitive and getting great results requires learning new patterns. Critical thinking remains key. I've converged on a workflow that treats the LLM as a powerful pair programmer that requires clear direction, context and oversight rather than autonomous judgment.\n\nIn this article, I share how I plan, code, and collaborate with AI going into 2026, distilling tips and best practices from my experience and the community's collective learning. It's a more disciplined AI-assisted engineering approach - leveraging AI aggressively while staying proudly accountable for the software produced.\n\nKey principles include: starting with a clear plan and detailed specifications before coding; breaking work into small, iterative chunks rather than monolithic tasks; providing extensive context and guidance to the AI; choosing the right model for each task and being willing to switch models when needed; leveraging AI coding tools across the entire software development lifecycle; always keeping a human in the loop to verify, test, and review everything; committing code frequently and using version control as a safety net; customizing AI behavior with rules files and examples; embracing testing and automation as force multipliers; and continuously learning and adapting as AI amplifies existing skills.\n\nThe LLM is an assistant, not an autonomously reliable coder. I remain the senior dev; the LLM is there to accelerate me, not replace my judgment. In practical terms, I only merge or ship code after I've understood it. It's all about mindset: stay alert, test often, review always. It's still your codebase at the end of the day.",
+    "with": [
+      "AI coding assistants became game-changers this year, but harnessing them effectively takes skill and structure.",
+      "I break the project into iterative steps or tickets and tackle them one by one, avoiding large, monolithic outputs.",
+      "LLMs are only as good as the context you provide - show them the relevant code, docs, and constraints.",
+      "If one model gets stuck or gives mediocre outputs, try another - use the best tool for the job.",
+      "The LLM is an assistant, not an autonomously reliable coder. I am the senior dev; the LLM is there to accelerate me, not replace my judgment."
+    ],
+    "without": [
+      "Subscribe to the newsletter",
+      "Sign in to your account",
+      "Copyright 2025 Elevate",
+      "Search and navigation elements",
+      "Like, comment, and share buttons"
+    ],
+    "images": {
+      "total_in_content": 10,
+      "annotated_count": 7,
+      "items": [
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!xGPR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F279d764d-c05b-4b6e-848e-4b481a8c0eeb_1894x1052.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F279d764d-c05b-4b6e-848e-4b481a8c0eeb_1894x1052.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!gnQO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff92ab8a8-fa3b-49cb-ad4c-7e3059a8e2de_1884x1050.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff92ab8a8-fa3b-49cb-ad4c-7e3059a8e2de_1884x1050.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!F31O!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e8398cc-f2c9-4c04-b3a1-37437dd3d82a_1888x1054.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e8398cc-f2c9-4c04-b3a1-37437dd3d82a_1888x1054.png",
+          "alt": null,
+          "caption": "A full overview of where AI can improve the developer experience. This spans design, inner, submit, and outer loops - highlighting every point where AI can meaningfully reduce toil.",
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!-yfn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd35bc06-47df-4660-9f2f-d0beaa489165_1858x974.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd35bc06-47df-4660-9f2f-d0beaa489165_1858x974.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!OfO1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2702481a-ef4d-4dc7-9247-0b331eb70568_1886x1042.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2702481a-ef4d-4dc7-9247-0b331eb70568_1886x1042.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!T25F!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01a7a816-646f-4723-a44e-7177e2dbc2ae_1882x1048.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01a7a816-646f-4723-a44e-7177e2dbc2ae_1882x1048.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!1K_1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6831a588-c75e-4992-9813-84dee28de46d_1876x1054.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6831a588-c75e-4992-9813-84dee28de46d_1876x1054.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:12:18.388560"
+}

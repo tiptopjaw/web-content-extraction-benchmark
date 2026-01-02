@@ -1,27 +1,89 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.ucf.edu/online/costs/",
   "file_id": "0185",
-  "downloaded_at": "2025-12-20T19:03:13.262551",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "tuition",
+        "online-learning",
+        "university"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "UCF Online Tuition and Fees",
+    "title": "Costs of UCF Online Degrees | Bachelor's, Graduate",
     "author": null,
     "publish_date": null,
-    "main_content": "The Value of a UCF Online Education\nYou deserve the smart combination of affordability and convenience. That’s why UCF Online offers 100+ online programs at a cost that works for your needs. Students enrolling in online programs receive a waiver for some campus-based fees, including health and technology. And by offering access to free scholarship searches and other financial assistance, UCF Online makes it easy to earn a high-quality education while enjoying low-cost tuition. Are you ready to invest in your education and shape your future?\n\nWhat It Costs\nCost of a UCF Online Bachelor’s Degree (per credit hour)\nCurrent Undergraduate Tuition and Fees\nFee\tResident\tNon-Resident\nTuition\t105.07\t105.07\nNon-Resident Fee\t0.00\t562.16\nCapital Improvement Fee\t6.76\t6.76\nFinancial Aid Fee\t5.16\t5.16\nNon-Resident Financial Aid Fee\t0.00\t28.10\nTuition Differential\t44.20\t44.20\nDistance Learning Fee\t18.00\t18.00\nWaived Fees\t\t\nActivity & Service Fee\t0.00\t0.00\nTransportation Access Fee\t0.00\t0.00\nHealth Fee\t0.00\t0.00\nAthletic Fee\t0.00\t0.00\nTechnology Fee\t0.00\t0.00\nTuition and Fees Total Per Credit Hour\t$179.19\t$769.45\nFor a complete official tuition and fee schedule, please visit the UCF Student Account Services website.\nThe current estimated cost of attendance for Florida residents and nonresidents can be found on the UCF Financial Aid website. All costs are estimated and may vary by your local cost of living.\n\nCost of a UCF Online Graduate Degree (per credit hour)\nCurrent Graduate Tuition and Fees\nFee\tResident\tNon-Resident\nTuition\t288.16\t288.16\nNon-Resident Fee\t0.00\t863.66\nCapital Improvement Fee\t6.76\t6.76\nFinancial Aid Fee\t14.40\t14.40\nNon-Resident Financial Aid Fee\t0.00\t43.17\nDistance Learning Course Fee\t18.00\t18.00\nWaived Fees\t\t\nActivity & Service Fee\t0.00\t0.00\nTransportation Access Fee\t0.00\t0.00\nHealth Fee\t0.00\t0.00\nAthletic Fee\t0.00\t0.00\nTuition Differential*\t0.00\t0.00\nTechnology Fee\t0.00\t0.00\nTuition and Fees Total Per Credit Hour\t$327.32\t$1,234.15\nSeveral of UCF’s online graduate programs have established special costs for both in-state and out-of-state students.\nMaster of Social Work (MSW) Program, Online Track | $487.45/credit\nMaster of Science in Health Sciences – Executive Health Services Administration | $772.69/credit\nMaster of Science in Healthcare Systems Engineering | $1,239.16/credit\nMaster of Science in Healthcare Informatics | $772.69/credit\nMaster of Science in Research Administration | $655.62/credit\nGraduate Certificate in Research Administration | $655.62/credit\nThe current costs for all other graduate programs, including tuition and fees, can be found on the UCF Student Account Services website.\nThe current estimated cost of attendance for Florida residents and nonresidents can be found on the UCF Financial Aid website. All costs are estimated and may vary by your local cost of living.\n\nPaying for College\nFrom scholarships and grants to student loans, there are many ways to pay for college. And we know that costs are a big factor when it comes to choosing which college to attend. That’s why we’ve gathered some of our most helpful resources for making college affordable.\nExplore Financial Aid\nExplore Scholarships\n\nExplore Our Online Programs\nOnline Bachelor Degrees\nUCF Online undergraduate students save $33.09 per credit hour.\nExplore Online Bachelor’s Degrees\nOnline Graduate Programs\nUCF Online graduate students save $42.33 per credit hour.\nExplore Online Graduate Programs",
+    "main_content": "You deserve the smart combination of affordability and convenience. That's why UCF Online offers 100+ online programs at a cost that works for your needs. Students enrolling in online programs receive a waiver for some campus-based fees, including health and technology. And by offering access to free scholarship searches and other financial assistance, UCF Online makes it easy to earn a high-quality education while enjoying low-cost tuition. Are you ready to invest in your education and shape your future?\n\nUndergraduate tuition and fees total $179.19 per credit hour for Florida residents and $769.45 per credit hour for non-residents. Graduate tuition and fees total $327.32 per credit hour for Florida residents and $1,234.15 per credit hour for non-residents. Several of UCF's online graduate programs have established special costs including Master of Social Work at $487.45 per credit, Master of Science in Health Sciences at $772.69 per credit, Master of Science in Healthcare Systems Engineering at $1,239.16 per credit, Master of Science in Healthcare Informatics at $772.69 per credit, and Master of Science in Research Administration at $655.62 per credit. From scholarships and grants to student loans, there are many ways to pay for college. UCF Online undergraduate students save $33.09 per credit hour and graduate students save $42.33 per credit hour.",
     "with": [
-      "You deserve the smart combination of affordability and convenience. That’s why UCF Online offers 100+ online programs at a cost that works for your needs.",
-      "Tuition and Fees Total Per Credit Hour for undergraduate programs: Resident: $179.19, Non-Resident: $769.45.",
-      "Tuition and Fees Total Per Credit Hour for graduate programs: Resident: $327.32, Non-Resident: $1,234.15.",
-      "UCF Online undergraduate students save $33.09 per credit hour.",
-      "UCF Online graduate students save $42.33 per credit hour."
+      "UCF Online offers 100+ online programs at a cost that works for your needs.",
+      "Students enrolling in online programs receive a waiver for some campus-based fees, including health and technology.",
+      "Undergraduate tuition and fees total $179.19 per credit hour for Florida residents and $769.45 per credit hour for non-residents.",
+      "Graduate tuition and fees total $327.32 per credit hour for Florida residents and $1,234.15 per credit hour for non-residents.",
+      "UCF Online undergraduate students save $33.09 per credit hour and graduate students save $42.33 per credit hour."
     ],
     "without": [
-      "Request Information",
-      "Name* First Last Phone* Email* Degree*",
       "Skip to main content",
-      "Online Programs Areas of Interest Admissions Tuition Student Support",
-      "© 2025 University of Central Florida"
-    ]
+      "Online Programs dropdown navigation menu",
+      "Request Information form with name, phone, email fields",
+      "Privacy Notice link",
+      "© 2025 University of Central Florida footer"
+    ],
+    "images": {
+      "total_in_content": 7,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "https://www.ucf.edu/wp-content/blogs.dir/19/files/2021/12/ucf-online-brand-1600x750-1-1600x650.jpg",
+          "filename": "ucf-online-brand-1600x750-1-1600x650.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://www.ucf.edu/online/wp-content/blogs.dir/19/files/2016/07/great-value-badge-1.png",
+          "filename": "great-value-badge-1.png",
+          "alt": "UCF Online is a great value",
+          "caption": "UCF Online is a great value",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ucf.edu/online/wp-content/blogs.dir/19/files/2020/06/paying-for-college-fade-to-white.jpg",
+          "filename": "paying-for-college-fade-to-white.jpg",
+          "alt": "Student standing in front of building",
+          "caption": "Student standing in front of building",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ucf.edu/online/wp-content/blogs.dir/19/files/2020/06/knight-gold-1600px-scaled.jpg",
+          "filename": "knight-gold-1600px-scaled.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ucf.edu/online/wp-content/blogs.dir/19/files/2020/06/transfer-connect-male-square.jpg",
+          "filename": "transfer-connect-male-square.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ucf.edu/online/wp-content/blogs.dir/19/files/2020/04/k12-mobile.jpg",
+          "filename": "k12-mobile.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T19:03:13.262557"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:32:52.197696"
 }

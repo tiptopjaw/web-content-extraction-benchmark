@@ -1,25 +1,61 @@
 {
+  "schema_version": "2.0",
   "url": "https://mindfulnessmeditationinstitute.org/product-category/cds/",
   "file_id": "1861",
-  "downloaded_at": "2025-12-20T21:48:18.892001",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "ecommerce",
+        "woocommerce",
+        "audio-cds",
+        "meditation"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "CDs | The Mindfulness Meditation Institute",
     "author": null,
     "publish_date": null,
-    "main_content": "Showing 1–2 of 4 results\n\nInner Silence: Guided Relaxation Meditations for Inner Peace and Restful Sleep (audio CD)\nHaving trouble with stress, or sleeping at night? Then you’ll love the peaceful meditations of the Inner Silence CD. They use powerful relaxation techniques that will quickly calm your body and mind, and gently guide you into a state of deep relaxation, so you can overcome stress and anxiety. For international orders, please visit Amazon.com.\nAlso …\nPrice: $9.99\n\nQuick Start to Mindfulness Meditation (audio CD)\nThe Quick Start to Mindfulness Meditation CD gives you clear and simple instructions of the mindfulness meditation practice, and then it shows you how to implement the techniques using the easy-to-follow guided meditations. For international orders, please visit Amazon.com.\nAlso available in mp3.\nPrice: $9.99\n\nPage 1 of 2",
+    "main_content": "The Mindfulness Meditation Institute offers guided meditation audio CDs to help practitioners develop their mindfulness meditation practice. Available CDs include: Inner Silence: Guided Relaxation Meditations for Inner Peace and Restful Sleep ($9.99) - Features powerful relaxation techniques to quickly calm body and mind, gently guiding users into deep relaxation to overcome stress and anxiety. Also available on Amazon.com for international orders. Quick Start to Mindfulness Meditation ($9.99) - Provides clear and simple instructions on the mindfulness meditation practice with easy-to-follow guided meditations. Also available in mp3 format.",
     "with": [
-      "Having trouble with stress, or sleeping at night? Then you’ll love the peaceful meditations of the Inner Silence CD.",
-      "They use powerful relaxation techniques that will quickly calm your body and mind, and gently guide you into a state of deep relaxation, so you can overcome stress and anxiety.",
-      "The Quick Start to Mindfulness Meditation CD gives you clear and simple instructions of the mindfulness meditation practice, and then it shows you how to implement the techniques using the easy-to-follow guided meditations.",
+      "Having trouble with stress, or sleeping at night? Then you'll love the peaceful meditations of the Inner Silence CD.",
+      "The Quick Start to Mindfulness Meditation CD gives you clear and simple instructions of the mindfulness meditation practice.",
+      "They use powerful relaxation techniques that will quickly calm your body and mind.",
+      "For international orders, please visit Amazon.com.",
       "Showing 1–2 of 4 results"
     ],
     "without": [
-      "Home / About Us / The Mindfulness Practice / Blog / Courses / Resources / Newsletter / Shop / Cart / Checkout / Press Room / Contact",
-      "Hestia | Developed by ThemeIsle",
-      "Newsletter Signup Subscribe to our newsletter below and never miss the latest article or exclusive offer.",
-      "Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low"
-    ]
+      "Toggle Navigation",
+      "Copyright 2025 Hestia",
+      "Subscribe to our newsletter below and never miss the latest article",
+      "Privacy Policy",
+      "Sitemap"
+    ],
+    "images": {
+      "total_in_content": 4,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://mindfulnessmeditationinstitute.org/wp-content/uploads/2018/12/Inner-Silence-230x230.jpg",
+          "filename": "Inner-Silence-230x230.jpg",
+          "alt": null,
+          "caption": "Inner Silence: Guided Relaxation Meditations for Inner Peace and Restful Sleep audio CD cover",
+          "is_hero": true
+        },
+        {
+          "src": "https://mindfulnessmeditationinstitute.org/wp-content/uploads/2018/12/Quick-Start-230x230.jpg",
+          "filename": "Quick-Start-230x230.jpg",
+          "alt": null,
+          "caption": "Quick Start to Mindfulness Meditation audio CD cover",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:48:18.892006"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:43:22.113681"
 }

@@ -1,0 +1,68 @@
+{
+  "schema_version": "2.0",
+  "url": "https://blog.scholasticahq.com/post/index-types-for-academic-journal",
+  "file_id": "2381",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "academic-publishing",
+        "journal-indexing",
+        "guide",
+        "open-access"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Guide to academic journal indexing: Where, when, and how to get indexed",
+    "author": "Danielle Padula",
+    "publish_date": "2025-07-18",
+    "main_content": "Researchers overwhelmingly rely on scholarly indexes to find vetted academic content online, making it critical for scholarly journal teams to develop a comprehensive indexing strategy. Seeking inclusion in relevant abstracting and indexing (A&I) databases and search engines will expand the reach and potential impacts of the articles you publish while boosting the overall reputation of your journal. While most journal publishers and editors understand the importance of indexing, the process can be overwhelming if you haven't done it before. Which indexes should you add your journal articles to? What are the indexing criteria you'll need to fulfill? When should you seek inclusion in your target indexes? In what order? And how can you improve the discoverability of your indexed content? This guide covers everything you need to know to initiate and build upon a successful journal indexing strategy.\n\nAn index is a list of items pulled together for a purpose. Journal indexes (also called bibliographic indexes or bibliographic databases) are lists of journals, organized by discipline, subject, or type of publication. One of the best starting points for getting a new journal indexed is registering Digital Object Identifiers (DOIs) for all the articles you publish. A DOI is a unique alphanumeric string assigned to a digital object—typically a journal article, dataset, or other scholarly content—that provides a persistent, stable link to its location on the internet. Unlike regular URLs, which can break when webpages move, a DOI always directs users to the most current location of the content.\n\nBefore embarking on any journal indexing initiative, we recommend developing a target list of the indexes you'd like your journal or journals to be part of to get a bird's-eye view of your ultimate goal. The more quality indexes you identify, the better, as inclusion in multiple indexes will help expand your articles' reach and potential impact while boosting the reputation of your journal(s). Index types to consider include scholarly search engines and aggregators like Google Scholar, Semantic Scholar, Dimensions, and CORE, as well as general scholarly archiving and indexing databases such as the Directory of Open Access Journals (DOAJ), Ulrich's Periodicals Directory, Scopus, Web of Science, EBSCO, JSTOR, SciELO, and Cabell's.\n\nReputable scholarly search engines, aggregators, and A&Is have admittance standards and often require journals to undergo an application process before being eligible for inclusion. Common indexing application criteria include having an International Standard Serial Number (ISSN), Digital Object Identifiers for all articles, a dedicated editorial board page with names, titles, and institutional affiliations, clearly stated peer review policies, an established publishing schedule, and an established copyright policy. Technical requirements include producing machine-readable metadata via HTML meta tags for crawler-based search engines and JATS XML article files for deposit-based indexes. Once admitted to indexes, adhering to the highest technical standards is critical to maximizing their discovery benefits.",
+    "with": [
+      "Researchers overwhelmingly rely on scholarly indexes to find vetted academic content online, making it critical for scholarly journal teams to develop a comprehensive indexing strategy.",
+      "An index is a list of items pulled together for a purpose. Journal indexes (also called bibliographic indexes or bibliographic databases) are lists of journals, organized by discipline, subject, or type of publication.",
+      "One of the best starting points for getting a new journal indexed is registering Digital Object Identifiers (DOIs) for all the articles you publish.",
+      "Before embarking on any journal indexing initiative, we recommend developing a target list of the indexes you'd like your journal or journals to be part of to get a bird's-eye view of your ultimate goal.",
+      "Common indexing application criteria include having an International Standard Serial Number (ISSN), Digital Object Identifiers for all articles, and clearly stated peer review policies."
+    ],
+    "without": [
+      "Schedule a demo",
+      "Subscribe to receive posts by email",
+      "Copyright 2025 Scholastica",
+      "Free Resources for Editors",
+      "Login / Sign up"
+    ],
+    "images": {
+      "total_in_content": 11,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://i.imgur.com/bwix6uBm.jpg",
+          "filename": "bwix6uBm.jpg",
+          "alt": "Image Credit: Pexels",
+          "caption": "Image Credit: Pexels",
+          "is_hero": true
+        },
+        {
+          "src": "https://i.imgur.com/WQQXIqv.png",
+          "filename": "WQQXIqv.png",
+          "alt": "Danielle Padula",
+          "caption": "Danielle Padula",
+          "is_hero": false
+        },
+        {
+          "src": "https://i.imgur.com/qANOYNq.png",
+          "filename": "qANOYNq.png",
+          "alt": "Webinar Connecting Scholarly Metadata",
+          "caption": "Webinar Connecting Scholarly Metadata",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:55:53.914853"
+}

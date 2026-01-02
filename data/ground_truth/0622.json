@@ -1,0 +1,75 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.peoplekeep.com/blog/top-25-health-insurance-companies-in-the-u.s",
+  "file_id": "0622",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "health-insurance",
+        "guide",
+        "listicle",
+        "benefits"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Top 25 Health Insurance Companies in the U.S.",
+    "author": "Elizabeth Walker",
+    "publish_date": "2025-01-09",
+    "main_content": "Offering or enrolling in health insurance is a significant decision for employers, individuals, and families. In this article, we'll list the top 25 health insurance companies in the United States by market share. We'll also provide alternative coverage options if you want to offer something more cost-effective and flexible than traditional group health plans. With traditional group health insurance, employers choose a group medical plan for their organization and offer coverage to their employees and eligible dependents at a reduced rate. According to KFF, the average annual premium for group health insurance in 2024 was $8,951 for self-only coverage and $25,572 for family coverage. Below are the top 25 health insurance companies in the United States listed by market share size in descending order, according to NAIC. UnitedHealth Group tops the list with 16.37% market share in 2023, followed by Elevance Health Inc. at 7.08% and Centene Corp. at 6.76%. According to the 2023 NAIC Health Insurance Report, U.S. health insurers earned approximately $1.08 trillion in total net earned premiums. UnitedHealth, which tops our list as the largest insurer, wrote roughly $248 billion in premiums in 2023. Health reimbursement arrangements (HRAs) are a more flexible option for providing health benefits to employees than traditional group coverage.",
+    "with": [
+      "The top 25 health insurance companies in the United States listed by market share size in descending order, according to NAIC.",
+      "UnitedHealth Group (including UnitedHealthcare) tops our above list as the largest insurer with 16.37% market share in 2023.",
+      "According to the 2023 NAIC Health Insurance Report, U.S. health insurers earned approximately $1.08 trillion in total net earned premiums.",
+      "UnitedHealth, which tops our list as the largest insurer, wrote roughly $248 billion in premiums in 2023.",
+      "An HRA is a health benefit you can use to reimburse employees for their individual health insurance premiums and other medical expenses."
+    ],
+    "without": [
+      "CONSULT AN EXPERT",
+      "LOG IN",
+      "PeopleKeep Logo",
+      "Privacy Policy",
+      "Copyright"
+    ],
+    "images": {
+      "total_in_content": 10,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://no-cache.hubspot.com/cta/default/149308/interactive-194767519052.png",
+          "filename": "interactive-194767519052.png",
+          "alt": "Understanding Health Insurance - A Basic Overview_featured",
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://www.peoplekeep.com/hubfs/All%20Images/Featured%20Images/How%20startups%20can%20offer%20health%20coverage_featured.jpg",
+          "filename": "How%20startups%20can%20offer%20health%20coverage_featured.jpg",
+          "alt": "How startups can offer health coverage",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.peoplekeep.com/hubfs/All%20Images/Featured%20Images/Health%20insurance%20reimbursements%20What%20are%20the%20options_featured.jpg",
+          "filename": "Health%20insurance%20reimbursements%20What%20are%20the%20options_featured.jpg",
+          "alt": "Health insurance reimbursements: What are the options?",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.peoplekeep.com/hubfs/All%20Images/Featured%20Images/What%20is%20a%20group%20in%20group%20health%20insurance_featured.jpg",
+          "filename": "What%20is%20a%20group%20in%20group%20health%20insurance_featured.jpg",
+          "alt": "What is a group in group health insurance?",
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:41:30.324419"
+}

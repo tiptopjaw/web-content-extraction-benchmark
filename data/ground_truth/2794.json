@@ -1,27 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://gitgopher.com/git-monorepo-setup",
   "file_id": "2794",
-  "downloaded_at": "2025-12-20T23:34:16.520352",
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "guide",
+        "git",
+        "tutorial"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Git Monorepo Setup: A Step-by-Step Guide",
     "author": null,
     "publish_date": null,
-    "main_content": "Git monorepo setup organizes projects with git sparse-checkout. Introduction to Git Monorepos A monorepo is a version control strategy where multiple projects are stored in a single repository. This setup simplifies dependency management and streamlines CI/CD processes. However, managing large repositories can be challenging, which is where git sparse-checkout becomes useful. Benefits of Using a Monorepo Unified Codebase: All projects are in one place, making it easier to manage dependencies and shared resources. Consistent Workflow: Developers work with a single set of tools and processes. Efficient CI/CD: Streamlined build and deployment processes reduce overhead. Setting Up a Git Monorepo To set up a monorepo, you will need to create a new Git repository or use an existing one. Here, we'll walk through setting up a new repository. git init my-monorepo cd my-monorepo Adding Projects to the Monorepo After initializing your repository, you can add multiple projects within it. Each project can be placed in its own directory: mkdir project1 mkdir project2 echo \"# Project 1\" > project1/README.md echo \"# Project 2\" > project2/README.md git add . git commit -m \"Add initial projects\" Using Git Sparse-Checkout Git sparse-checkout allows you to check out only a portion of the monorepo, which is particularly useful for large codebases. This can improve performance and reduce local storage requirements. Configuring Sparse-Checkout To configure sparse-checkout, first enable the feature in your Git configuration: git config core.sparseCheckout true Next, specify the directories you want to include in your sparse-checkout configuration: echo \"/project1/\" >> .git/info/sparse-checkout echo \"/project2/\" >> .git/info/sparse-checkout Finally, apply the sparse-checkout settings by running: git read-tree -mu HEAD Conclusion Setting up a Git monorepo with sparse-checkout helps manage large projects efficiently by allowing developers to work only with the parts of the repository they need. This setup can significantly enhance productivity and streamline development workflows.",
+    "main_content": "Git Monorepo Setup: Setting Up a Monorepo. Git monorepo setup organizes projects with git sparse-checkout. Introduction to Git Monorepos: A monorepo is a version control strategy where multiple projects are stored in a single repository. This setup simplifies dependency management and streamlines CI/CD processes. However, managing large repositories can be challenging, which is where git sparse-checkout becomes useful. Benefits of Using a Monorepo: Unified Codebase - All projects are in one place, making it easier to manage dependencies and shared resources. Consistent Workflow - Developers work with a single set of tools and processes. Efficient CI/CD - Streamlined build and deployment processes reduce overhead. Setting Up a Git Monorepo: To set up a monorepo, you will need to create a new Git repository or use an existing one. Here, we'll walk through setting up a new repository. Adding Projects to the Monorepo: After initializing your repository, you can add multiple projects within it. Each project can be placed in its own directory. Using Git Sparse-Checkout: Git sparse-checkout allows you to check out only a portion of the monorepo, which is particularly useful for large codebases. This can improve performance and reduce local storage requirements. Configuring Sparse-Checkout: To configure sparse-checkout, first enable the feature in your Git configuration: git config core.sparseCheckout true. Next, specify the directories you want to include in your sparse-checkout configuration. Finally, apply the sparse-checkout settings by running: git read-tree -mu HEAD. Conclusion: Setting up a Git monorepo with sparse-checkout helps manage large projects efficiently by allowing developers to work only with the parts of the repository they need. This setup can significantly enhance productivity and streamline development workflows.",
     "with": [
       "A monorepo is a version control strategy where multiple projects are stored in a single repository.",
       "Git sparse-checkout allows you to check out only a portion of the monorepo, which is particularly useful for large codebases.",
-      "To set up a monorepo, you will need to create a new Git repository or use an existing one.",
-      "After initializing your repository, you can add multiple projects within it.",
-      "Setting up a Git monorepo with sparse-checkout helps manage large projects efficiently by allowing developers to work only with the parts of the repository they need."
+      "To configure sparse-checkout, first enable the feature in your Git configuration: git config core.sparseCheckout true.",
+      "Setting up a Git monorepo with sparse-checkout helps manage large projects efficiently.",
+      "This setup can significantly enhance productivity and streamline development workflows."
     ],
     "without": [
-      "Search",
-      "Docs Tools Books #ad",
-      "A Site by Log::Exception()",
-      "Privacy-First Analytics Ditch intrusive trackers. Fathom delivers clear, real-time insights with no cookies.",
-      "Introduction Installation Configuration Initialization Status Add Commit Log Diff Clone Remote Push Pull Fetch Comments Errors Debugging Best Practices Security Basics"
-    ]
+      "Ditch intrusive trackers. Fathom delivers clear, real-time insights with no cookies.",
+      "Git Gopher - Search functionality with Ctrl+K",
+      "Sidebar navigation links for Git topics (Branch, Merge, Rebase, etc.)",
+      "Previous and Next pagination links",
+      "Privacy-First Analytics advertisement section"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:34:16.520359"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:58:23.605641"
 }

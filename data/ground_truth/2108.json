@@ -1,27 +1,90 @@
 {
+  "schema_version": "2.0",
   "url": "https://dustinpestcontrol.com/specials-promotions/",
   "file_id": "2108",
-  "downloaded_at": "2025-12-20T22:51:30.029150",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "pest-control",
+        "promotions",
+        "discounts",
+        "coupons",
+        "fresno"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Pest Control Discounts | Fresno, CA | Dustin Pest Control",
     "author": null,
-    "publish_date": "2021-03-29",
-    "main_content": "Our Specials & Promotions in Central California\n\nHard on Pests; Easy on Your Wallet\n\nYou shouldn’t have to live or work with vermin. At Dustin Pest Control, we believe everyone should be able to afford safe and effective pest control solutions.\n\nIf you own a home or business in California’s Central Valley, we want to help you keep it clean and pest-free. To that end, we offer several discounts aimed at making sure anyone can access our services.\n\nCurrent Pest Control Coupons\n\nDiscount Pest Control for Military & First Responders in Central California\n\nYou help keep us safe, so we want to help keep your homes safe from pests—it’s honestly the least we can do. We offer a range of discounts for members of the following groups:\n\n• Military\n• Law enforcement\n• Firefighters\n\nMake Your Pests a Thing of the Past\n\nWith more than 40 years of pest control experience, we know how to deal with practically anything. From ants, roaches, bed bugs, and ticks & fleas to wasps, mosquitoes, and termites, trust us—we’ve seen it all, and we know what to do.\n\nOur exterminators will identify your pest problem, remove the current interlopers, and help you find ways to restore the property you love. Contact us today and learn more about how we can help.\n\nWhy Choose Us?\n\nExpert Staff Driven to Serve\n\nWe train our staff to be leaders in pest control, providing them with the tools and knowledge they need to deliver incredible results.\n\n5-Star Service\n\nYou’re more than just a customer to us; you’re family. Our team always serves with a smile and provides you with options that work for you and your family.\n\nUnbeatable Value\n\nDustin Pest Control is proud to offer a range of deals and prices to ensure you’re getting the most bang for your buck. Check out our current promotions today!\n\nOver 40 Years of Trusted Experience\n\nWe know everything there is to know about pest control. As a local California company, we know exactly what it takes to keep your home or building 100% pest-free.",
+    "publish_date": null,
+    "main_content": "Dustin Pest Control offers special promotions and discounts for pest control services in Central California. Current coupons include pest control deals with savings for customers. The company provides a $45/Month Pest Shield membership based on square footage of home. Military personnel, law enforcement, and firefighters receive special discounts as a thank you for their service. With over 40 years of experience, Dustin Pest Control handles all types of pests including ants, cockroaches, bed bugs, ticks, fleas, wasps, mosquitoes, and termites. The company serves multiple locations throughout the Central Valley including Fresno, Clovis, Merced, Visalia, Orange Cove, Kingsburg, and Fort Washington. Book a service online or call to schedule an appointment.",
     "with": [
-      "Our Specials & Promotions in Central California",
-      "You shouldn’t have to live or work with vermin. At Dustin Pest Control, we believe everyone should be able to afford safe and effective pest control solutions.",
-      "We offer a range of discounts for members of the following groups: Military, Law enforcement, Firefighters",
-      "With more than 40 years of pest control experience, we know how to deal with practically anything.",
-      "Dustin Pest Control is proud to offer a range of deals and prices to ensure you’re getting the most bang for your buck."
+      "Hard on Pests; Easy on Your Wallet",
+      "You help keep us safe, so we want to help keep your homes safe from pests",
+      "With more than 40 years of pest control experience, we know how to deal with practically anything",
+      "Discount Pest Control for Military & First Responders in Central California",
+      "Our Specials & Promotions in Central California"
     ],
     "without": [
-      "$45/Month Pest Shield Based on sqft of home.",
-      "Skip to content",
-      "About Us | Careers | Blog | Locations | Pest Shield Membership | Pest Control | Termite Control | Rodent Control",
-      "Step 1 of 2 50%",
-      "SEE OUR GOOGLE REVIEWS"
-    ]
+      "Contact Information Phone: 559-345-6667",
+      "Copyright 2025 Dustin Pest Control",
+      "Hours of operations Monday 8 AM - 5 PM",
+      "Navigation menu About Us Locations Pest Control",
+      "Privacy Policy Terms and Conditions"
+    ],
+    "images": {
+      "total_in_content": 19,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "https://dustinpestcontrol.com/wp-content/uploads/2021/03/DustinPestControl-MissingAssets-SpecialsPromotions.jpg",
+          "filename": "DustinPestControl-MissingAssets-SpecialsPromotions.jpg",
+          "alt": null,
+          "caption": "Specials and promotions hero image for Dustin Pest Control",
+          "is_hero": true
+        },
+        {
+          "src": "https://dustinpestcontrol.com/wp-content/uploads/2021/03/DustinPestControl-AdditionalAssets-SpecialsPromotions.jpg",
+          "filename": "DustinPestControl-AdditionalAssets-SpecialsPromotions.jpg",
+          "alt": null,
+          "caption": "Additional promotional image showing pest control services",
+          "is_hero": false
+        },
+        {
+          "src": "https://dustinpestcontrol.com/wp-content/uploads/2025/04/Coupon2.png",
+          "filename": "Coupon2.png",
+          "alt": null,
+          "caption": "Pest control coupon",
+          "is_hero": false
+        },
+        {
+          "src": "https://dustinpestcontrol.com/wp-content/uploads/2025/04/Coupon1.png",
+          "filename": "Coupon1.png",
+          "alt": null,
+          "caption": "Pest control coupon",
+          "is_hero": false
+        },
+        {
+          "src": "https://dustinpestcontrol.com/wp-content/uploads/2025/05/Fixed-coupon-2-sheild.png",
+          "filename": "Fixed-coupon-2-sheild.png",
+          "alt": null,
+          "caption": "Shield discount coupon",
+          "is_hero": false
+        },
+        {
+          "src": "https://dustinpestcontrol.com/wp-content/uploads/2023/02/home-team-photo.webp",
+          "filename": "home-team-photo.webp",
+          "alt": null,
+          "caption": "Dustin Pest Control team photo",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:51:30.029157"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:40:31.305424"
 }

@@ -1,0 +1,82 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.yogawitholivia.co.uk/reviews",
+  "file_id": "0580",
+  "_internal": {
+    "page_type": {
+      "primary": "review",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "testimonials",
+        "yoga",
+        "retreats",
+        "classes"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Reviews of our yoga classes, retreats and trainings — Yoga With Olivia",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Reviews of our yoga classes. Olivia is a fantastic teacher, and also a genuinely lovely person (which I feel is important when you're listening to someone talk at you for an hour or more). Her directions are clear and precise so you're not looking up to check you're doing the right thing, and she's very observant, constantly checking you're positioning. Her classes are truly for all levels, and although you've worked hard you'll somehow come out relaxed. Olivia is an excellent teacher. Her classes are energising and fun. I also really like the meditation at the end, it leaves me feeling very relaxed and centered. I have hypermobile joints which mean I can sometimes over-extend in yoga poses and am prone to hurting my back. She lets you know how far to go in a pose if you have injuries/weaknesses, which is really helpful. Reviews From our yoga Retreats. Once again Olivia hosted an amazing retreat (in Morocco). What a wonderful week, not only the twice daily amazing yoga sessions, but the food, weather and most of all the company. I don't think I have laughed so much in years, and that is the honest truth. Just back from a great yoga retreat with Olivia in southern Spain. V relaxed retreat in a gorgeous place, with a great ambience and lovely yoga teaching from Olivia. Can't recommend highly enough! Thank you so much for a really great long weekend. It was all wonderful but if I had to pick the top three things it would be the yoga (really enjoyable classes and nice to have the option to sit out some/all of a class although I didn't want to), the food (really great variety, quality and quantity) and the people (who were all lovely and the classes were just the right size). Where shall I start? Tears after the last morning of yoga, says it all. I had the most relaxing and memorable yoga week. The venue was spacious and perfectly located with amazing views! An idyllic place to relax with plenty of space to socialise. I have been doing yoga for about 8 years and have been taught by many different teachers, but I can confidently say that Olivia is the one of the best yoga teachers I've ever had.",
+    "with": [
+      "Olivia is a fantastic teacher, and also a genuinely lovely person",
+      "Her directions are clear and precise so you're not looking up to check you're doing the right thing",
+      "Once again Olivia hosted an amazing retreat (in Morocco)",
+      "I had the most relaxing and memorable yoga week",
+      "I can confidently say that Olivia is the one of the best yoga teachers I've ever had"
+    ],
+    "without": [
+      "Use the form on the right to contact us",
+      "Yoga With Olivia",
+      "Welcome to Yoga With Olivia",
+      "Contact Us",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 7,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5372014be4b0db8de8ce9150/1516649110593-WNFZK1MOK3LXJ27ZQJFC/Obonjan+%28HM+2016%29-33.jpg",
+          "filename": "Obonjan+%28HM+2016%29-33.jpg",
+          "alt": "Obonjan (HM 2016)-33.jpg",
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5372014be4b0db8de8ce9150/1489335548521-3ICQJXIGSJYCW6ETROY1/Emily+Obonjan+Yoga+-4.jpg",
+          "filename": "Emily+Obonjan+Yoga+-4.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5372014be4b0db8de8ce9150/1571155671850-WVVVXEHRFKAPULDUHWM7/%40yogawitholivia+desert+yin",
+          "filename": "%40yogawitholivia+desert+yin",
+          "alt": null,
+          "caption": "Desert yoga at sunset, Morocco",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5372014be4b0db8de8ce9150/1489335439037-S4PNHUYEEZBAAFXXC51J/14624606_224568744640223_5738091769338265600_n.jpg",
+          "filename": "14624606_224568744640223_5738091769338265600_n.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/5372014be4b0db8de8ce9150/1489334884102-G4HI5SV274LWOUBEVYKC/Emily+Obonjan+Yoga+-2.jpg",
+          "filename": "Emily+Obonjan+Yoga+-2.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:29:59.866899"
+}

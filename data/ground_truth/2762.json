@@ -1,27 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://artsandlanguage.risd.edu/writing-concisely",
   "file_id": "2762",
-  "downloaded_at": "2025-12-20T23:07:54.504765",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "writing",
+        "guide",
+        "tutorial"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Writing Concisely — the Paramedic Method",
+    "title": "Writing Concisely — Center for Arts & Language",
     "author": null,
     "publish_date": null,
-    "main_content": "Wordy writing may be a necessary step in discovering your ideas, but writers often revise their writing to eliminate excess in favor of vigorous and engaging text. To achieve it, ask yourself what is essential and allow every word to speak for itself. The Paramedic Method, developed by Richard Lanham (Revising Prose), is an effective method for eliminating unnecessary words. It requires methodical attention at first, but once you start to recognize patterns, writing and editing for concision will come naturally. Here’s how to do it: Example sentence: The point I wish to make is that perception is the process of extracting information from stimulation emanating from the objects, places, and events in the world around us. 1. Eliminate slow wind-ups The point I wish to make is that perception is the process of extracting information from stimulation emanating from the objects, places, and events in the world around us. 2. Eliminate clichés (like “in a nutshell” or “better late than never”) Perception is the process of extracting information from stimulation emanating from the objects, places, and events in the world around us. 3. Find all prepositions and “to be” verbs in all forms; create a line break at each, making a list of phrases Perception is the process of extracting information from stimulation emanating from objects, places, and events. 4. Identify the possible “actions” and transform them into single verbs Perception is the process >> Process of extracting information >> Extract, Inform from stimulation emanating >> Stimulate, Emanate from objects, places, and events. 5. Identify the subject of the sentence and choose the clearest action verb for that subject to take on. Subject: perception Verb: extract 6. Bring the subject and verb together; eliminate other verbs and excess prepositional phrases Perception is the process of extractsing information from stimulation emanating from objects, places, and events. Concise revision: Perception extracts information from objects, places, and events.",
+    "main_content": "Wordy writing may be a necessary step in discovering your ideas, but writers often revise their writing to eliminate excess in favor of vigorous and engaging text. To achieve it, ask yourself what is essential and allow every word to speak for itself. The Paramedic Method, developed by Richard Lanham (Revising Prose), is an effective method for eliminating unnecessary words. It requires methodical attention at first, but once you start to recognize patterns, writing and editing for concision will come naturally. Here’s how to do it: Example sentence: The point I wish to make is that perception is the process of extracting information from stimulation emanating from the objects, places, and events in the world around us. 1. Eliminate slow wind-ups: The point I wish to make is that perception is the process of extracting information from stimulation emanating from the objects, places, and events in the world around us. 2. Eliminate clichés (like \"in a nutshell\" or \"better late than never\"): Perception is the process of extracting information from stimulation emanating from the objects, places, and events in the world around us. 3. Find all prepositions and \"to be\" verbs in all forms; create a line break at each, making a list of phrases: Perception is the process of extracting information from stimulation emanating from objects, places, and events. 4. Identify the possible \"actions\" and transform them into single verbs: Process, Extract, Inform, Stimulate, Emanate. 5. Identify the subject of the sentence and choose the clearest action verb for that subject to take on: Subject: perception, Verb: extract. 6. Bring the subject and verb together; eliminate other verbs and excess prepositional phrases: Perception extracts information from objects, places, and events. Concise revision: Perception extracts information from objects, places, and events.",
     "with": [
-      "Wordy writing may be a necessary step in discovering your ideas, but writers often revise their writing to eliminate excess in favor of vigorous and engaging text.",
       "The Paramedic Method, developed by Richard Lanham (Revising Prose), is an effective method for eliminating unnecessary words.",
-      "Example sentence: The point I wish to make is that perception is the process of extracting information from stimulation emanating from the objects, places, and events in the world around us.",
+      "Eliminate slow wind-ups: The point I wish to make is that perception is the process of extracting information from stimulation emanating from the objects, places, and events in the world around us.",
+      "Find all prepositions and \"to be\" verbs in all forms; create a line break at each, making a list of phrases.",
+      "Identify the subject of the sentence and choose the clearest action verb for that subject to take on.",
       "Concise revision: Perception extracts information from objects, places, and events."
     ],
     "without": [
-      "Home",
-      "More About A&L",
-      "Meet the Staff & Tutors",
-      "Contact Us",
-      "Fleet Library/15 West, 2nd fl. 401-454-6486 artsandlanguage@risd.edu",
-      "© 2022 Center for Arts & Language Site Credits"
-    ]
+      "Center for Arts & Language",
+      "Fortifying and amplifying artists' and designers' voices at RISD and in the world.",
+      "Fleet Library/15 West, 401-454-6486, artsandlanguage@risd.edu",
+      "© 2022 Center for Arts & Language",
+      "Site Credits"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:07:54.504771"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:33:41.787525"
 }

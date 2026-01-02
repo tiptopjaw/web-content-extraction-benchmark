@@ -1,27 +1,117 @@
 {
+  "schema_version": "2.0",
   "url": "https://greenwichhouse.org/music-school/private-instruction/",
   "file_id": "1293",
-  "downloaded_at": "2025-12-20T20:27:15.052680",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "music-school",
+        "private-lessons",
+        "nyc"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Private Music Lessons",
+    "title": "Greenwich House Music School: Private Music Lessons in NYC",
     "author": null,
     "publish_date": null,
-    "main_content": "Greenwich House Music School offers private lessons for adults and children in piano, violin, viola, cello, voice, clarinet, flute, guitar, saxophone, trumpet, trombone, drums, and harp. Our world-class faculty provide conservatory-level training in a non-competitive atmosphere for students of all ages.\n\nBefore registering, new students must speak (by phone or in person) with the Music School staff to discuss what instrument and teacher would suit their needs and register for a private lesson.\n\nFor more information, download our Digital Brochure (2025-26).\n\nTuition Rates\n\nTuition is based on a one-on-one private session with faculty in two 17-week terms (fall and spring) and one 6-week summer term.\n\n30-Minute Lesson\n$1,428 per semester ($84 per lesson)\n$504 per summer term\n\n45-Minute Lesson\n$1,700 per semester ($100 per lesson)\n$600 per summer term\n\n60-Minute Lesson\n$1,870 per semester ($110 per lesson)\n$660 per summer term\n\nMusic Theory (45- and 60-Minute Private Lesson): Starting at $1700 per term\n\nThis one-on-one instruction will enhance your understanding of music to become a better musician. The course concentrates on the study of harmony, voice leading, ear training, dictation, and basic analysis in the Schenkerian tradition.\n\nAdditional Fees\n\nRegistration fee of $40 individual / $50 family per year\nPiano maintenance fee of $15 per term for piano students only\n\nDiscounts\n\nStudents enrolling in two courses of private instruction receive a 10% discount on the second course. Families enrolling with more than one student receive a 10% discount for each additional student.\n\nRegistration\n\nLet’s find the best fit for you or your child. Complete the Pre-Registration Inquiry Form to tell us your availability, goals, instrument, and what type of teacher would best suit your needs. This information is necessary to register any new student for a program. Payments can be online using our registration software, HiSawyer.\n\nPre-Registration Inquiry Form\n\nCurrent Students – Log-in\n\nOnce you complete the inquiry form, you’ll receive an email from our Registrar Margaret Cramer will follow-up soon!\n\nFor information about scholarships, please see our Procedure and Policy page.\n\nPrivate Instruction Faculty:\n\nGreenwich House Music School faculty trained in many of the world’s finest institutions, and mentored generations of musicians with a level of artistic excellence unparalleled in the world of community music school education.\n\nMany of our piano faculty studied under the leadership of Maestro German Diez (June 18, 1924-July 9, 2014), former Piano Department Chairman and 65-year faculty member. Maestro Diez formed much of what we, at GHMS, consider our teaching method. Our teachers advocate for a rigorous approach to the instrument with an open heart, designed to teach respect for music and a life-long love of the arts.\n\nPiano\n\nSara Davis Buechner\nGerman Diez Memorial Piano Chair\n\nAlexandra Saraceno\nPiano Teacher\n\nDanyal Lawson\nPiano Teacher\n\nDeanna Bau\nPiano Teacher\n\nElena Baksht\nPiano Teacher\n\nEric Clark\nPiano Instructor\n\nJohn Tafone\nVoice and Choral Teacher\n\nJoseph Ries\nPiano Teacher\n\nKate Whitney\nPiano Teacher\n\nLucy Galliher\nVoice Teacher\n\nLyubov Mirzoyev\nPiano Teacher\n\nMelody Fader\nPiano Teacher\n\nMescal Wilson\nMusic Teacher\n\nMichiyo Morikawa\nPiano Teacher\n\nTaka Kigawa\nPiano Teacher\n\nTheresa Rosas\nPiano Teacher\n\nYoko Kimura-Yates\nPiano Teacher\n\nYukiko Nishimura\nPiano and Composition Teacher\n\nStrings\n\nLynn Bechtold\nStrings Teacher\n\nMioi Takeda\nStrings Teacher\n\nRachel Gawell Burns\nCello Teacher\n\nGuitar\n\nChristopher Petz\nGuitar Teacher\n\nRomulo Viana\nGuitar Teacher\n\nStephen Palitz\nGuitar Teacher\n\nVoice\n\nCharlotte Detrick\nVoice Teacher\n\nJohn Tafone\nVoice and Choral Teacher\n\nLucy Galliher\nVoice Teacher\n\nMary Hurlbut\nVoice Teacher\n\nDrums\n\nJuan Felipe Mayorga\nDrums Teacher\n\nHarp\n\nBrandee Younger\nHarp Teacher\n\nSkyla Budd\nHarp Teacher\n\nWoodwinds\n\nJD Parran\nWoodwind Teacher\n\nLuke Norris\nWoodwind Faculty\n\nHsuan-Fong Chen\nOboe Teacher\n\nMusic Theory\n\nScott Taylor\nMusic Theory Teacher",
+    "main_content": "Greenwich House Music School offers private lessons for adults and children in piano, violin, viola, cello, voice, clarinet, flute, guitar, saxophone, trumpet, trombone, drums, and harp. Our world-class faculty provide conservatory-level training in a non-competitive atmosphere for students of all ages. Before registering, new students must speak (by phone or in person) with the Music School staff to discuss what instrument and teacher would suit their needs and register for a private lesson. Tuition is based on a one-on-one private session with faculty in two 17-week terms (fall and spring) and one 6-week summer term. 30-Minute Lesson: $1,428 per semester ($84 per lesson), $504 per summer term. 45-Minute Lesson: $1,700 per semester ($100 per lesson), $600 per summer term. 60-Minute Lesson: $1,870 per semester ($110 per lesson), $660 per summer term. Music Theory (45- and 60-Minute Private Lesson): Starting at $1,700 per term. This one-on-one instruction will enhance your understanding of music to become a better musician. The course concentrates on the study of harmony, voice leading, ear training, dictation, and basic analysis in the Schenkerian tradition. Additional Fees: Registration fee of $40 individual / $50 family per year, Piano maintenance fee of $15 per term for piano students only. Discounts: Students enrolling in two courses of private instruction receive a 10% discount on the second course. Families enrolling with more than one student receive a 10% discount for each additional student. Complete the Pre-Registration Inquiry Form to tell us your availability, goals, instrument, and what type of teacher would best suit your needs. Once you complete the inquiry form, you'll receive an email from our Registrar Margaret Cramer who will follow-up soon! For information about scholarships, please see our Procedure and Policy page. Private Instruction Faculty: Greenwich House Music School faculty trained in many of the world's finest institutions, and mentored generations of musicians with a level of artistic excellence unparalleled in the world of community music school education. Many of our piano faculty studied under the leadership of Maestro German Diez (June 18, 1924-July 9, 2014), former Piano Department Chairman and 65-year faculty member. Maestro Diez formed much of what we, at GHMS, consider our teaching method. Our teachers advocate for a rigorous approach to the instrument with an open heart, designed to teach respect for music and a life-long love of the arts. Faculty listings include Piano instructors (Sara Davis Buechner - German Diez Memorial Piano Chair, Alexandra Saraceno, Danyal Lawson, Deanna Bau, Elena Baksht, Eric Clark, John Tafone - Voice and Choral, Joseph Ries, Kate Whitney, Lucy Galliher - Voice, Lyubov Mirzoyev, Melody Fader, Mescal Wilson, Michiyo Morikawa, Taka Kigawa, Theresa Rosas, Yoko Kimura-Yates, Yukiko Nishimura - Piano and Composition), Strings instructors (Lynn Bechtold, Mioi Takeda, Rachel Gawell Burns - Cello), Guitar instructors (Christopher Petz, Romulo Viana, Stephen Palitz), Voice instructors (Charlotte Detrick, John Tafone, Lucy Galliher, Mary Hurlbut), Drums instructor (Juan Felipe Mayorga), Harp instructors (Brandee Younger, Skyla Budd), Woodwind instructors (JD Parran, Luke Norris - Woodwind Faculty, Hsuan-Fong Chen - Oboe), and Music Theory instructor (Scott Taylor).",
     "with": [
       "Greenwich House Music School offers private lessons for adults and children in piano, violin, viola, cello, voice, clarinet, flute, guitar, saxophone, trumpet, trombone, drums, and harp.",
       "Our world-class faculty provide conservatory-level training in a non-competitive atmosphere for students of all ages.",
       "Tuition is based on a one-on-one private session with faculty in two 17-week terms (fall and spring) and one 6-week summer term.",
-      "Let’s find the best fit for you or your child. Complete the Pre-Registration Inquiry Form to tell us your availability, goals, instrument, and what type of teacher would best suit your needs.",
-      "Greenwich House Music School faculty trained in many of the world’s finest institutions, and mentored generations of musicians with a level of artistic excellence unparalleled in the world of community music school education."
+      "Many of our piano faculty studied under the leadership of Maestro German Diez (June 18, 1924-July 9, 2014), former Piano Department Chairman and 65-year faculty member.",
+      "Complete the Pre-Registration Inquiry Form to tell us your availability, goals, instrument, and what type of teacher would best suit your needs."
     ],
     "without": [
-      "Search Greenwich House",
-      "Workforce Services Music School Pottery Youth Services Older Adult Services Health Services",
-      "About Us Calendar Careers Donate",
       "Sign up for our Mailing List",
-      "Site designed and developed by Social Ink"
-    ]
+      "Donate to Greenwich House",
+      "Privacy Policy",
+      "Follow us on Twitter",
+      "Copyright 2025"
+    ],
+    "images": {
+      "total_in_content": 35,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://greenwichhouse.org/wp-content/uploads/2023/06/Margaret-640x480.jpg",
+          "filename": "Margaret-640x480.jpg",
+          "alt": null,
+          "caption": "Margaret Cramer - Registrar",
+          "is_hero": false
+        },
+        {
+          "src": "https://greenwichhouse.org/wp-content/uploads/2024/04/DH7A2851-640x640.jpg",
+          "filename": "DH7A2851-640x640.jpg",
+          "alt": "Sara Davis Buechner",
+          "caption": "Sara Davis Buechner - Piano Teacher, German Diez Memorial Piano Chair",
+          "is_hero": false
+        },
+        {
+          "src": "https://greenwichhouse.org/wp-content/uploads/2021/08/alexandra-.png",
+          "filename": "alexandra-.png",
+          "alt": "Alexandra Saraceno",
+          "caption": "Alexandra Saraceno - Piano Teacher",
+          "is_hero": false
+        },
+        {
+          "src": "https://greenwichhouse.org/wp-content/uploads/2019/04/Danyal.png",
+          "filename": "Danyal.png",
+          "alt": "Danyal Lawson",
+          "caption": "Danyal Lawson - Piano Teacher",
+          "is_hero": false
+        },
+        {
+          "src": "https://greenwichhouse.org/wp-content/uploads/2019/05/Deanna.png",
+          "filename": "Deanna.png",
+          "alt": "Deanna Bau",
+          "caption": "Deanna Bau - Piano Teacher",
+          "is_hero": false
+        },
+        {
+          "src": "https://greenwichhouse.org/wp-content/uploads/2025/08/92a58b_d0d5fe8a629c42089438c5b2e3a45bfdmv2-e1754407107915.jpg",
+          "filename": "92a58b_d0d5fe8a629c42089438c5b2e3a45bfdmv2-e1754407107915.jpg",
+          "alt": "Elena Baksht",
+          "caption": "Elena Baksht - Piano Teacher",
+          "is_hero": false
+        },
+        {
+          "src": "https://greenwichhouse.org/wp-content/uploads/2025/01/erick.png",
+          "filename": "erick.png",
+          "alt": "Eric Clark",
+          "caption": "Eric Clark - Piano Instructor",
+          "is_hero": false
+        },
+        {
+          "src": "https://greenwichhouse.org/wp-content/uploads/2019/05/john.png",
+          "filename": "john.png",
+          "alt": "John Tafone",
+          "caption": "John Tafone - Voice and Choral Teacher",
+          "is_hero": false
+        },
+        {
+          "src": "https://greenwichhouse.org/wp-content/uploads/2019/05/joseph.png",
+          "filename": "joseph.png",
+          "alt": "Joseph Ries",
+          "caption": "Joseph Ries - Piano Teacher",
+          "is_hero": false
+        },
+        {
+          "src": "https://greenwichhouse.org/wp-content/uploads/2019/05/kate.png",
+          "filename": "kate.png",
+          "alt": "Kate Whitney",
+          "caption": "Kate Whitney - Piano Teacher",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:27:15.052685"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:28:21.909974"
 }

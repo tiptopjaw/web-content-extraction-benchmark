@@ -1,0 +1,90 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.raygervais.ca/articles/2025/11/utilizing_the_agentic_lifecycle_for_improved_generative_results",
+  "file_id": "2400",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "agi",
+        "software-development",
+        "programming",
+        "ai-tools"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Utilizing the Agentic Lifecycle for Improved Generative Results",
+    "author": null,
+    "publish_date": "2025-10-28",
+    "main_content": "With the rise of modern editors with agentic capabilities such as Cursor, Zed and of course Visual Studio Code, it's never been easier to jump into the craze of vibe coding. We have never had it so easy to jump straight into agent mode! What many have come to learn the hard way is, this can lead to many unanticipated changes or assumptions, leading to surprise behaviours or hallucinations from the generative model. That's where understanding and employing a lifecycle which allows us to provide context, answer questions and even go over design and concepts before any code has been changed allows for a more effective partnership with AGI tools. Those agent-enabled editors support three modes: Ask, Edit, and Agent. Ask mode is optimized for asking questions about your codebase, coding and general technology concepts. With Edit mode in Visual Studio Code, you can use natural language to make edits across multiple files in your project. Agent mode is optimized for complex coding tasks based on high-level requirements that might require running terminal commands and tools. The article demonstrates a practical example of updating a Developer Environment Container Repo, showing how to use each mode effectively and optimize developer container images for better performance and build times.",
+    "with": [
+      "With the rise of modern editors with agentic capabilities such as Cursor, Zed and of course Visual Studio Code, it's never been easier to jump into the craze of vibe coding.",
+      "We have never had it so easy to jump straight into agent mode! What many have come to learn the hard way is, this can lead to many unanticipated changes or assumptions, leading to surprise behaviours or hallucinations from the generative model.",
+      "Agent mode is optimized for complex coding tasks based on high-level requirements that might require running terminal commands and tools.",
+      "By going over intention, design and behaviour prior to using Edit or Agent mode, we can benefit from concrete understanding of the proposed changes and details that are more defined for the AGI to follow.",
+      "The article demonstrates a practical workflow of using Ask mode for planning, Edit mode for surgical changes, and Agent mode for automated multi-step tasks."
+    ],
+    "without": [
+      "cd /home/",
+      "Privacy Policy",
+      "Copyright 2025",
+      "Subscribe to newsletter",
+      "Cookie notice"
+    ],
+    "images": {
+      "total_in_content": 6,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "https://images.unsplash.com/photo-1474314243412-cd4a79f02c6a",
+          "filename": "photo-1474314243412-cd4a79f02c6a",
+          "alt": "Utilizing the Agentic Lifecycle for Improved Generative Results",
+          "caption": "Utilizing the Agentic Lifecycle for Improved Generative Results",
+          "is_hero": true
+        },
+        {
+          "src": "./images/Screenshot_2025-10-28_at_7.28.46_PM.png",
+          "filename": "Screenshot_2025-10-28_at_7.28.46_PM.png",
+          "alt": "Screenshot 2025-10-28 at 7.28.46 PM.png",
+          "caption": "Screenshot showing VS Code Ask mode interface",
+          "is_hero": false
+        },
+        {
+          "src": "./images/Screenshot_2025-10-28_at_8.12.48_PM.png",
+          "filename": "Screenshot_2025-10-28_at_8.12.48_PM.png",
+          "alt": "Screenshot 2025-10-28 at 8.12.48 PM.png",
+          "caption": "Screenshot showing Edit mode with Containerfile creation",
+          "is_hero": false
+        },
+        {
+          "src": "./images/Screenshot_2025-10-28_at_8.18.11_PM.png",
+          "filename": "Screenshot_2025-10-28_at_8.18.11_PM.png",
+          "alt": "Screenshot 2025-10-28 at 8.18.11 PM.png",
+          "caption": "Screenshot showing Agent mode permission prompt for terminal commands",
+          "is_hero": false
+        },
+        {
+          "src": "./images/Screenshot_2025-10-28_at_8.30.42_PM.png",
+          "filename": "Screenshot_2025-10-28_at_8.30.42_PM.png",
+          "alt": "Screenshot 2025-10-28 at 8.30.42 PM.png",
+          "caption": "Screenshot showing Agent mode making additional edits",
+          "is_hero": false
+        },
+        {
+          "src": "./images/Screenshot_2025-10-28_at_8.56.44_PM.png",
+          "filename": "Screenshot_2025-10-28_at_8.56.44_PM.png",
+          "alt": "Screenshot 2025-10-28 at 8.56.44 PM.png",
+          "caption": "Screenshot showing build error requiring superuser privileges",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:04:08.707622"
+}

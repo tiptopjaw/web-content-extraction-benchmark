@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://i.redd.it/f1lr7ezx3v7g1.jpeg",
+  "file_id": "2549",
+  "_internal": {
+    "page_type": {
+      "primary": "other",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "media",
+        "cdn",
+        "image-viewer",
+        "social"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Reddit - The heart of the internet",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Image viewer page displaying media content from Reddit. The page shows an image with alt text 'CDN media'. Contextual information indicates this is a post from r/homelab titled 'Another Homelab Post! What do you think?' with 7 comments.",
+    "with": [
+      "Reddit - The heart of the internet",
+      "Another Homelab Post! What do you think?",
+      "Image viewer page displaying media content from Reddit",
+      "r/homelab",
+      "7 comments"
+    ],
+    "without": [
+      "Skip to main content",
+      "Open menu",
+      "Search Reddit",
+      "Log In",
+      "Get the Reddit app"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://i.redd.it/f1lr7ezx3v7g1.jpeg",
+          "filename": "f1lr7ezx3v7g1.jpeg",
+          "alt": "CDN media",
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:49:54.761561"
+}

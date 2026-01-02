@@ -1,26 +1,68 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.lubbockonline.com/press-release/story/111518/house-cleaning-raleigh-pros-expands-deep-cleaning-operations-with-refined-residential-procedures/",
   "file_id": "0838",
-  "downloaded_at": "2025-12-20T21:11:05.940128",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "news",
+        "newspaper",
+        "local",
+        "texas"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Lubbock Avalanche-Journal: Local News, Politics & Sports in Lubbock, TX",
     "author": null,
     "publish_date": null,
-    "main_content": "Carnegie Medal awarded to Copeland posthumously\nCopeland, who helped save an Amarillo police officer but died in a later shooting, is being honored for his heroism.\n\nAround the Hub details Buns Over Texas, Goodwill, chicken news\n\nTexas Tech baseball program sets alumni game in January\n\nGetting defensive: Stephenville wins title in uniquely low-scoring game\n\nJury acquits Slaton priest charged with indecent assault\n\nFrom Jagger to Michael Jackson, new Epstein docs stir controversy\n\nCan Texas Tech basketball get it together to take down undefeated Duke?\n\nWho were Ida and Lou? Caprock Chronicles explores how 2 sisters inspired a West Texas town\n\nLandry: 'What Christmas means to me' going from 2025 to 2026\n\nHere's how much Texas gas prices slightly rose from last week\n\nWhere to watch Texas Tech basketball vs Duke today, TV channel\n\nTracking Texas Tech football's 2026 transfer portal activity\n\nTexas Tech football's Jacob Rodriguez on Heisman vote, awards circuit\n\nWhat's Luke Bamgboye's injury status for Texas Tech basketball?\n\nTexas Tech football's 2025 list of All-America honorees\n\nPredicting all 12 UIL football Texas state championship games\n\nWhat is Victory+, how to watch UIL state high school football for free\n\nHow to watch the 2025 UIL State football championships: TV, streaming",
+    "main_content": "Featured stories on Lubbock Avalanche-Journal homepage: Carnegie Medal awarded to Copeland posthumously - Copeland, who helped save an Amarillo police officer but died in a later shooting, is being honored for his heroism. Around the Hub details Buns Over Texas, Goodwill, chicken news. Texas Tech baseball program sets alumni game in January. Stephenville wins title in uniquely low-scoring defensive game for Texas state football championship. Jury acquits Slaton priest charged with indecent assault. From Jagger to Michael Jackson, new Epstein docs stir controversy. Can Texas Tech basketball get it together to take down undefeated Duke? Who were Ida and Lou? Caprock Chronicles explores how 2 sisters inspired a West Texas town. Here's how much Texas gas prices slightly rose from last week. Landry: 'What Christmas means to me' going from 2025 to 2026. Where to watch Texas Tech basketball vs Duke today, TV channel. Tracking Texas Tech football's 2026 transfer portal activity. Texas Tech football's Jacob Rodriguez on Heisman vote, awards circuit. What's Luke Bamgboye's injury status for Texas Tech basketball? Texas Tech football's 2025 list of All-America honorees. Predicting all 12 UIL football Texas state championship games. What is Victory+, how to watch UIL state high school football for free. How to watch the 2025 UIL State football championships: TV, streaming.",
     "with": [
-      "Carnegie Medal awarded to Copeland posthumously",
-      "Copeland, who helped save an Amarillo police officer but died in a later shooting, is being honored for his heroism.",
-      "Who were Ida and Lou? Caprock Chronicles explores how 2 sisters inspired a West Texas town",
-      "Landry: 'What Christmas means to me' going from 2025 to 2026",
-      "Here's how much Texas gas prices slightly rose from last week"
+      "Carnegie Medal awarded to Copeland posthumously - Copeland, who helped save an Amarillo police officer but died in a later shooting, is being honored for his heroism.",
+      "Around the Hub details Buns Over Texas, Goodwill, chicken news.",
+      "Texas Tech baseball program sets alumni game in January.",
+      "Getting defensive: Stephenville wins title in uniquely low-scoring game.",
+      "Jury acquits Slaton priest charged with indecent assault."
     ],
     "without": [
-      "Skip to main content",
-      "Home News Sports Entertainment Lifestyle Opinion Business Obituaries Crosswords Comics eNewspaper For Subscribers Shopping Contributor Content",
-      "© Copyright Gannett 2025",
-      "Help Terms of Service Subscription Terms & Conditions Privacy Policy Site Map Accessibility Our Ethical Principles Responsible Disclosure Your Privacy Choices"
-    ]
+      "Subscribe to newsletter",
+      "Copyright 2025 Gannett",
+      "Privacy Policy",
+      "Home News Sports Entertainment Lifestyle Opinion Business Obituaries",
+      "Skip to main content"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://www.gannett-cdn.com/authoring/authoring-images/2025/12/19/NAGN/87852284007-image-0-67.jpeg?crop=1178,663,x0,y151",
+          "filename": "87852284007-image-0-67.jpeg",
+          "alt": "Carnegie Medal awarded to Copeland posthumously",
+          "caption": "Carnegie Medal awarded to Copeland posthumously",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.gannett-cdn.com/authoring/authoring-images/2025/12/18/NLAJ/87829729007-copy-of-a-edgin-column.png?crop=1919,1079,x0,y0&quality=50&width=270",
+          "filename": "87829729007-copy-of-a-edgin-column.png",
+          "alt": "Around the Hub details Buns Over Texas, Goodwill, chicken news",
+          "caption": "Around the Hub details Buns Over Texas, Goodwill, chicken news",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.gannett-cdn.com/authoring/authoring-images/2025/04/08/NTEG/83000327007-usatsi-25866606.jpg?crop=6485,3648,x0,y338&quality=50&width=270",
+          "filename": "83000327007-usatsi-25866606.jpg",
+          "alt": "Texas Tech baseball program sets alumni game in January",
+          "caption": "Texas Tech baseball program sets alumni game in January",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:11:05.940134"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:42:04.841018"
 }

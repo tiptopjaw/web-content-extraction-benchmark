@@ -1,0 +1,74 @@
+{
+  "schema_version": "2.0",
+  "url": "https://bootcamp.emory.edu/programs/coding",
+  "file_id": "1727",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "technology",
+        "bootcamp"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Online Coding Bootcamp | Emory University",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Emory Coding Bootcamp will help you launch a lucrative tech career in an accelerated time frame in Atlanta and beyond. This 12-week program covers full stack web development including HTML, CSS, JavaScript, React, and Node.js. Students receive hands-on training to build a portfolio of real-world projects. Tuition is $13,995 with various payment options available.",
+    "with": [
+      "Emory Coding Bootcamp will help you launch a lucrative tech career in an accelerated time frame in Atlanta and beyond.",
+      "This 12-week coding bootcamp is designed to help students develop the skills and knowledge needed to become a full stack web developer.",
+      "Our curriculum covers a range of in-demand programming languages and technologies including HTML, CSS, JavaScript, Node.js, React, and databases.",
+      "Students will receive hands-on training and work on real-world projects to build a professional portfolio.",
+      "Tuition is $13,995 and various payment options are available including upfront, monthly, and ISA."
+    ],
+    "without": [
+      "Contact: (470) 347 3154",
+      "Privacy Policy",
+      "Skip to main content",
+      "Apply",
+      "Programs"
+    ],
+    "images": {
+      "total_in_content": 9,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://fsa2-assets.imgix.net/assets/UNIV/ECE/coding/Three-web-developers-in-a-conference-room-looking-at-laptop.jpeg?auto=compress%2Cformat&crop=focalpoint&domain=fsa2-assets.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&h=624&ixlib=php-3.3.1&w=1200",
+          "filename": "Three-web-developers-in-a-conference-room-looking-at-laptop.jpeg",
+          "alt": "Three web developers in a conference room looking at laptop",
+          "caption": "Three web developers in a conference room looking at laptop",
+          "is_hero": true
+        },
+        {
+          "src": "https://fsa2-assets.imgix.net/assets/UNIV/ECE/coding/Sample-Emory-Coding-Bootcamp-Certificate.png?auto=compress%2Cformat&crop=focalpoint&domain=fsa2-assets.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&h=927&ixlib=php-3.3.1&w=1200",
+          "filename": "Sample-Emory-Coding-Bootcamp-Certificate.png",
+          "alt": "Sample Emory Coding Bootcamp Certificate",
+          "caption": "Sample Emory Coding Bootcamp Certificate",
+          "is_hero": false
+        },
+        {
+          "src": "https://fsa2-assets.imgix.net/assets/Testimonial-Images/LI-Profile-Image_Maya-Obeidat.jpeg?auto=compress%2Cformat&crop=focalpoint&domain=fsa2-assets.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&h=768&ixlib=php-3.3.1&w=768",
+          "filename": "LI-Profile-Image_Maya-Obeidat.jpeg",
+          "alt": "LI Profile Image Maya Obeidat",
+          "caption": "LI Profile Image Maya Obeidat",
+          "is_hero": false
+        },
+        {
+          "src": "https://fsa2-assets.imgix.net/assets/Testimonial-Images/Paul-Higbie.jpeg?auto=compress&crop=focalpoint&domain=fsa2-assets.imgix.net&fit=crop&fm=jpeg&fp-x=0.5&fp-y=0.5&h=282&ixlib=php-3.3.1&w=278",
+          "filename": "Paul-Higbie.jpeg",
+          "alt": "Paul Higbie",
+          "caption": "Paul Higbie",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:03:05.581663"
+}

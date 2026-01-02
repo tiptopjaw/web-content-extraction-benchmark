@@ -1,0 +1,53 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.sganalytics.com/data-management-analytics/",
+  "file_id": "1060",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "data-analytics",
+        "services",
+        "business-intelligence"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Data Analytics Services and Solutions Company",
+    "author": null,
+    "publish_date": null,
+    "main_content": "SG Analytics is a leading global data analytics services company that helps organizations turn data into actionable insights. Our comprehensive data analytics services and solutions help organizations transform raw data into strategic intelligence, unlocking the full potential of their data assets. We combine advanced analytics techniques with deep industry expertise to deliver measurable business outcomes across BFSI, Capital Markets, TMT, Healthcare, Manufacturing, and other industries. Our services include Business Intelligence, Data Engineering, Data Lake Implementation, Data Visualization, and Predictive Analytics solutions. We help organizations activate their data through augmented analytics, decision intelligence, and data products to drive efficiency, reduce costs, and accelerate growth.",
+    "with": [
+      "SG Analytics is a leading global data analytics services company that helps organizations turn data into actionable insights.",
+      "Our comprehensive data analytics services and solutions help organizations transform raw data into strategic intelligence.",
+      "We combine advanced analytics techniques with deep industry expertise to deliver measurable business outcomes.",
+      "Our services include Business Intelligence, Data Engineering, Data Lake Implementation, Data Visualization, and Predictive Analytics solutions.",
+      "We help organizations activate their data through augmented analytics, decision intelligence, and data products."
+    ],
+    "without": [
+      "Menu navigation and mega menu content",
+      "Footer links and copyright information",
+      "Social media buttons and sharing options",
+      "Cookie consent and privacy policy notices",
+      "Search functionality and search forms"
+    ],
+    "images": {
+      "total_in_content": 27,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://www.sganalytics.com/wp-content/uploads/2025/09/ehqmpindbyfnm9grtuqb.webp",
+          "filename": "ehqmpindbyfnm9grtuqb.webp",
+          "alt": "Data Analytics Services and Solutions",
+          "caption": "Data Analytics Services and Solutions",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:13:14.026758"
+}

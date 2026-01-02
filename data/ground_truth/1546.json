@@ -1,0 +1,90 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.aihr.com/blog/hr-trends/",
+  "file_id": "1546",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "hr",
+        "trends",
+        "ai",
+        "future-of-work",
+        "human-resources"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "11 HR Trends for 2026: Shaping What's Next",
+    "author": "Marna van der Merwe",
+    "publish_date": "2025-09-23",
+    "main_content": "HR is entering one of its most defining moments yet. AI has already begun to reshape how organizations make decisions, design work, and deliver value. At the same time, uncertainty rises, skills gaps are growing, and the pressure for speed and adaptability is increasing. HR has a unique opportunity to lead organizational transformation by rethinking how it operates, building new capabilities, and helping the business stay aligned, resilient, and people-centered through change.\n\nIn 2026, the most effective HR professionals will be those who act as architects of adaptability, trust, and innovation. We explore 11 trends that will shape the future of the HR function:\n\n1. AI leadership coalition emerges with HR at the table - AI has moved out of the IT department and into the boardroom, with 48% of FTSE 100 companies now having a Chief AI Officer. HR cannot be a passive bystander as the impact of AI transformation is deeply human.\n\n2. Human-centered governance guides AI deployment - As AI becomes deeply embedded in hiring, learning, and performance management, new risks are emerging. HR plays a distinct role in translating safeguards into everyday practices that employees understand and trust.\n\n3. Businesses invest in AI Centers of Excellence - These well-resourced, cross-functional teams align technology, talent, and trust. Companies ahead in AI adoption are 2.5 times more likely to involve HR in helping employees identify tasks suited for automation.\n\n4. AI capacity gains fuel collective growth - Research shows AI can free up more than 120 hours per employee per year. If reinvested wisely, this reclaimed capacity becomes a growth engine, fueling skills development and new career pathways.\n\n5. Technostress and FOBO enter the HR agenda - According to Pew Research, 52% of workers are worried about AI's future impact in the workplace, and one in three believe it will reduce job opportunities for them.\n\n6. Cross-functional structures replace HR silos - Traditional HR structures, organized around silos like recruitment, learning, rewards, and performance, are becoming increasingly outdated. 89% of HR functions have already restructured or plan to do so in the next two years.\n\n7. HR's AI spending is accelerating - 55% of companies are increasing their HR technology spend, and by 2030, the AI HR technology market size is expected to triple.\n\n8. AI fluency becomes a baseline HR competency - Only 2% of HR job postings currently list AI skills as a requirement, but demand is growing faster than any other hotspot sector, with a 66% increase year over year.\n\n9. Human strengths will define HR's future impact - As AI takes on more technical and transactional work, the distinct value HR brings is increasingly rooted in human capabilities like empathy, ethical judgment, communication, and culture-building.\n\n10. Workforce planning expands beyond jobs and roles - Traditional job-based models are giving way to more flexible, skills-first approaches. Research indicates that skill-based organizations are 57% more likely to anticipate and respond effectively to change.\n\n11. Leadership expands as management shrinks - The number of managers globally has dropped by over 6% in the past three years. While the administrative side of management is shrinking, the human side of leadership is becoming more essential than ever.",
+    "with": [
+      "HR is entering one of its most defining moments yet. AI has already begun to reshape how organizations make decisions, design work, and deliver value.",
+      "As AI becomes deeply embedded in hiring, learning, and performance management, new risks are emerging—not only from the technology itself, but also from how people use it.",
+      "AI can free up more than 120 hours per employee per year. If reinvested wisely, this reclaimed capacity becomes a growth engine, fueling skills development and new career pathways.",
+      "The way organizations approach workforce planning is undergoing a fundamental shift. Traditional job-based models, which focused on headcount, titles, and cost, are giving way to more flexible, skills-first approaches.",
+      "AI and the push for efficiency may be rewriting the role of the manager, but they're also elevating the value of human-centered leadership in driving trust, performance, and culture."
+    ],
+    "without": [
+      "Get a demo - For Business, For Individuals",
+      "4.66 rating based on 11926 reviews",
+      "Join a fast-growing scaleup & make a positive impact",
+      "Subscribe to our newsletter",
+      "Cookie notice"
+    ],
+    "images": {
+      "total_in_content": 28,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "https://www.aihr.com/wp-content/uploads/HR-Trends-2026-Blog-1024x1024.png",
+          "filename": "HR-Trends-2026-Blog-1024x1024.png",
+          "alt": "11 HR trends for 2026.",
+          "caption": "11 HR trends for 2026.",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.aihr.com/wp-content/uploads/What-Human-Centric-AI-Governance-Looks-Like-Blog-1024x1024.png",
+          "filename": "What-Human-Centric-AI-Governance-Looks-Like-Blog-1024x1024.png",
+          "alt": "Human-centric AI governance includes cross-functional ownership, transparent AI usage policies, and focus on fairness.",
+          "caption": "Human-centric AI governance includes cross-functional ownership, transparent AI usage policies, and focus on fairness.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.aihr.com/wp-content/uploads/How-To-Manage-the-Capacity-Reclaimed-Through-AI-Blog-1024x1024.png",
+          "filename": "How-To-Manage-the-Capacity-Reclaimed-Through-AI-Blog-1024x1024.png",
+          "alt": "Strategically reinvesting the capacity reclaimed through AI leads to long-term, sustainable success.",
+          "caption": "Strategically reinvesting the capacity reclaimed through AI leads to long-term, sustainable success.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.aihr.com/wp-content/uploads/HR-Priorities-2026-Illustration.png",
+          "filename": "HR-Priorities-2026-Illustration.png",
+          "alt": "HR Priorities 2026 Report preview.",
+          "caption": "HR Priorities 2026 Report preview.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.aihr.com/wp-content/uploads/Skills-That-Set-HR-Apart-in-an-AI-World-Blog-1024x1024.png",
+          "filename": "Skills-That-Set-HR-Apart-in-an-AI-World-Blog-1024x1024.png",
+          "alt": "Human skills that set HR apart in an AI world include empathy, conflict resolution, active listening, and more.",
+          "caption": "Human skills that set HR apart in an AI world include empathy, conflict resolution, active listening, and more.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.aihr.com/wp-content/uploads/Changing-Roles-of-ManagementLeadership-Blog-1024x1024.png",
+          "filename": "Changing-Roles-of-ManagementLeadership-Blog-1024x1024.png",
+          "alt": "Traditional manager tasks are increasingly handled by AI, but at the same time, the need for human leadership in the form of coaching, leading with empathy and more grows.",
+          "caption": "Traditional manager tasks are increasingly handled by AI, but at the same time, the need for human leadership in the form of coaching, leading with empathy and more grows.",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:16:45.796785"
+}

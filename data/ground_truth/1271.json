@@ -1,27 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.lawhelpnc.org/legal-tip-of-the-week",
   "file_id": "1271",
-  "downloaded_at": "2025-12-20T21:29:36.909647",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "legal",
+        "tips",
+        "resources",
+        "guide"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Legal Tip of the Week",
-    "author": null,
+    "title": "Legal Tip of the Week | Welcome to LawHelpNC.org | A guide to free and low cost legal aid, assistance and services in North Carolina",
+    "author": "Legal Aid of North Carolina",
     "publish_date": null,
-    "main_content": "19 Item(s) Found\n\nGoing to Court: Courthouse Staff\nAlways be polite to the Court staff and be prepared with any information they may need.\nBy: Legal Aid of North Carolina\n\nGoing to Court: Be on time!\nBe on time for your Court appearance or for any other appointment about your case.\nBy: Legal Aid of North Carolina\n\nGoing to Court: How to Behave\nBe respectful of everyone in the Court. This includes the judge, the Court staff, the other party involved in your case, and the witnesses.\nBy: Legal Aid of North Carolina\n\nGoing to Court: Your Appearance\nWhen you go to Court, dress as professionally as you can. This means clothes that are clean and neat.\nBy: Legal Aid of North Carolina\n\nGovernment Benefits: Reporting Changes\nIf you are applying for or receiving a government benefit designed for low-income people, promptly report all changes in household size and income.\nBy: Legal Aid of North Carolina\n\nHousing: Mortgage Payments\nIf you are behind in your mortgage payments, or if you are concerned that you will not be able to make your mortgage payments, contact a government-approved Housing Counselor for assistance and advice.\nBy: Legal Aid of North Carolina\n\nHousing: Being a Good Tenant\nBe a good tenant. Pay your rent on time. Keep your apartment clean.\nBy: Legal Aid of North Carolina\n\nConsumer: Credit Reports\nOrder a copy of your credit report. Make sure it’s accurate and includes only those activities you’ve authorized. Test\nBy: Legal Aid of North Carolina\n\nConsumer: Bank Account Balances\nIf you don’t have enough money in your account, don’t write the check or authorize the debit.\nBy: Legal Aid of North Carolina\n\nConsumer: Bank Accounts\nDon’t give your account number and bank routing information to anyone you don’t know.\nBy: Legal Aid of North Carolina\n\nGeneral: Keeping Important Papers\nAfter you sign any important paper, keep and save a copy.\nBy: Legal Aid of North Carolina\n\nGeneral: Signing Papers\nBefore signing any important paper, read it carefully.\nBy: Legal Aid of North Carolina\n\nConsumer: Co-signing a Loan\nBeware of co-signing. When you co-sign for a relative or co-worker to buy a car or obtain a loan, you become legally responsible for making the payments if the other person stops making them.\nBy: Legal Aid of North Carolina\n\nConsumer: Buying Goods and Services\nBeware of door-to-door, phone, and television salespersons. Chances are good that you do not really need the item or service, or that you can get a better deal elsewhere.\nBy: Legal Aid of North Carolina\n\nGovernment Benefits: Keeping Appointments\nIf you are applying for or receiving any type of government benefit, try not to miss appointments, and show up on time for appointments whenever possible.\nBy: Legal Aid of North Carolina\n\nHousing: Written Leases\nIf you sign a lease to rent an apartment or a house, get and keep a copy.\nBy: Legal Aid of North Carolina",
+    "main_content": "Legal Tip of the Week - 19 Item(s) Found. This page contains a collection of legal tips and resources. Going to Court: Courthouse Staff - Always be polite to the Court staff and be prepared with any information they may need. Going to Court: Be on time! - Be on time for your Court appearance or for any other appointment about your case. Going to Court: How to Behave - Be respectful of everyone in the Court. This includes the judge, the Court staff, the other party involved in your case, and the witnesses. Going to Court: Your Appearance - When you go to Court, dress as professionally as you can. This means clothes that are clean and neat. Government Benefits: Reporting Changes - If you are applying for or receiving a government benefit designed for low-income people, promptly report all changes in household size and income. Housing: Mortgage Payments - If you are behind in your mortgage payments, or if you are concerned that you will not be able to make your mortgage payments, contact a government-approved Housing Counselor for assistance and advice. Housing: Being a Good Tenant - Be a good tenant. Pay your rent on time. Keep your apartment clean. Consumer: Credit Reports - Order a copy of your credit report. Make sure it's accurate and includes only those activities you've authorized. Consumer: Bank Account Balances - If you don't have enough money in your account, don't write the check or authorize the debit. Consumer: Bank Accounts - Don't give your account number and bank routing information to anyone you don't know. General: Keeping Important Papers - After you sign any important paper, keep and save a copy. General: Signing Papers - Before signing any important paper, read it carefully. Consumer: Co-signing a Loan - Beware of co-signing. When you co-sign for a relative or co-worker to buy a car or obtain a loan, you become legally responsible for making the payments if the other person stops making them. Consumer: Buying Goods and Services - Beware of door-to-door, phone, and television salespersons. Chances are good that you do not really need the item or service, or that you can get a better deal elsewhere. Government Benefits: Keeping Appointments - If you are applying for or receiving any type of government benefit, try not to miss appointments, and show up on time for appointments whenever possible. Housing: Written Leases - If you sign a lease to rent an apartment or a house, get and keep a copy.",
     "with": [
-      "Always be polite to the Court staff and be prepared with any information they may need.",
-      "Be on time for your Court appearance or for any other appointment about your case.",
-      "If you are applying for or receiving a government benefit designed for low-income people, promptly report all changes in household size and income.",
-      "If you are behind in your mortgage payments, or if you are concerned that you will not be able to make your mortgage payments, contact a government-approved Housing Counselor for assistance and advice.",
-      "Beware of co-signing. When you co-sign for a relative or co-worker to buy a car or obtain a loan, you become legally responsible for making the payments if the other person stops making them."
+      "Going to Court: Courthouse Staff - Always be polite to the Court staff and be prepared with any information they may need.",
+      "Going to Court: Be on time! - Be on time for your Court appearance or for any other appointment about your case.",
+      "Housing: Written Leases - If you sign a lease to rent an apartment or a house, get and keep a copy.",
+      "Consumer: Bank Accounts - Don't give your account number and bank routing information to anyone you don't know.",
+      "Government Benefits: Reporting Changes - If you are applying for or receiving a government benefit designed for low-income people, promptly report all changes in household size and income."
     ],
     "without": [
-      "Set your location",
-      "Quick Exit",
-      "Maintained by Legal Aid North Carolina",
-      "Did you find it helpful? Did you find what you were looking for? Take our short survey and give us your suggestions on how to make the site better.",
-      "© 2001 - 2025, Pro Bono Net, All Rights Reserved."
-    ]
+      "Legal Topics navigation menu",
+      "Find Legal Help dropdown menu",
+      "Quick Exit button linking to google.com",
+      "Footer with copyright 2025 Pro Bono Net",
+      "Language selection dropdown with Spanish, Vietnamese, Chinese, Korean options"
+    ],
+    "images": {
+      "total_in_content": 4,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:29:36.909652"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:21:24.940679"
 }

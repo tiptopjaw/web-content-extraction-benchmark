@@ -1,27 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.uh.edu/recreation/fitness/personal-training/index.php",
   "file_id": "0414",
-  "downloaded_at": "2025-12-20T18:26:35.924083",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "university",
+        "fitness",
+        "personal-training",
+        "campus-recreation"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Personal Training",
     "author": null,
     "publish_date": null,
-    "main_content": "Program Philosophy\nCampus Recreation supports the University of Houston's mission by providing affordable Personal Training as an opportunity for learning, discovery, and engagement to the UH community. We strive to provide UH students with personal and professional development through employment as Certified Personal Trainers. Our goal is to educate clients to exercise safely and effectively for life. Your Personal Trainer will work with you to develop an exercise program based on your unique history, attitudes, and obligations to help you reach your fitness and wellness goals.\n\nPersonal Training Sessions Packages and Cost\nFitness Assessment $28\nIn Person Packages INDIVIDUAL\n4 Session $175\n8 Session $310\n12 Session $453\n16 Session $596\n20 Session $735\nAll packages include a FREE Fitness Assessment\n\nAll personal training sessions will be purchased at the Campus Recreation and Wellness Center – Welcome Desk Member Services.\nAll sessions must be purchased in advance of the conduct of any individual training appointments.\nThese rates are Non-Negotiable.\nTo purchase PT packages you must be a member of the CRWC.\n\nRefunds:\nPersonal training sessions are nontransferable and nonrefundable.\n\nCredentials\nOur trainers are University of Houston Students, who are certified through nationally accredited organizations, such as the American Council on Exercise (ACE), the National Academy, of Sports Medicine (NASM), the American College of Sports Medicine (ACSM) and others.\n\nPersonal Training Request\nPlease complete the Personal Training Request Form.\n\nPersonal Training Policies\nAll Personal Training should be purchased and paid for at the Member Services desk. Training packages must be purchased in advance of training sessions and fitness assessments. Clients must pay in full for their packages.\nClients may elect to transfer to a different trainer at any time for any reason by contacting the administrative staff.\nTraining sessions are 55 minutes in length and must be conducted at the Campus Recreation and Wellness Center.\nIndividual training sessions will be conducted as one-on-one training sessions only.\nPersonal Training may only be conducted by current, on-duty Campus Recreation staff.\nClients must have a valid Cougar Card with them to enter the facility or a valid CRWC membership card.\n\nFitness Assessments\nFitness assessments are a great tool to help you make exercise a part of your daily life. By evaluating your fitness level and health risk, we can establish a personalized exercise program designed to help you achieve your health and fitness goals. Assessments are available for $28.",
+    "main_content": "Campus Recreation supports the University of Houston's mission by providing affordable Personal Training as an opportunity for learning, discovery, and engagement to the UH community. We strive to provide UH students with personal and professional development through employment as Certified Personal Trainers. Our goal is to educate clients to exercise safely and effectively for life. Your Personal Trainer will work with you to develop an exercise program based on your unique history, attitudes, and obligations to help you reach your fitness and wellness goals.\n\nPersonal Training Sessions Packages and Cost: Fitness Assessment is $28. In Person Packages include: 4 Session package for $175, 8 Session package for $310, 12 Session package for $453, 16 Session package for $596, 20 Session package for $735. All packages include a FREE Fitness Assessment.\n\nAll personal training sessions will be purchased at the Campus Recreation and Wellness Center – Welcome Desk Member Services. All sessions must be purchased in advance of the conduct of any individual training appointments. These rates are Non-Negotiable. To purchase PT packages you must be a member of the CRWC. Personal training sessions are nontransferable and nonrefundable.\n\nOur trainers are University of Houston Students, who are certified through nationally accredited organizations, such as the American Council on Exercise (ACE), the National Academy of Sports Medicine (NASM), the American College of Sports Medicine (ACSM) and others.\n\nPlease complete the Personal Training Request Form to request personal training.\n\nPersonal Training Policies: All Personal Training should be purchased and paid for at the Member Services desk. Training packages must be purchased in advance of training sessions and fitness assessments. Clients must pay in full for their packages. Clients may elect to transfer to a different trainer at any time for any reason by contacting the administrative staff. Training sessions are 55 minutes in length and must be conducted at the Campus Recreation and Wellness Center. Individual training sessions will be conducted as one-on-one training sessions only. Personal Training may only be conducted by current, on-duty Campus Recreation staff. Clients must have a valid Cougar Card with them to enter the facility or a valid CRWC membership card.\n\nFitness assessments are a great tool to help you make exercise a part of your daily life. By evaluating your fitness level and health risk, we can establish a personalized exercise program designed to help you achieve your health and fitness goals. Assessments are available for $28.",
     "with": [
       "Campus Recreation supports the University of Houston's mission by providing affordable Personal Training as an opportunity for learning, discovery, and engagement to the UH community.",
-      "Our trainers are University of Houston Students, who are certified through nationally accredited organizations, such as the American Council on Exercise (ACE), the National Academy, of Sports Medicine (NASM), the American College of Sports Medicine (ACSM) and others.",
-      "All packages include a FREE Fitness Assessment",
-      "Personal training sessions are nontransferable and nonrefundable.",
+      "Your Personal Trainer will work with you to develop an exercise program based on your unique history, attitudes, and obligations to help you reach your fitness and wellness goals.",
+      "Our trainers are University of Houston Students, who are certified through nationally accredited organizations, such as the American Council on Exercise (ACE), the National Academy of Sports Medicine (NASM), the American College of Sports Medicine (ACSM) and others.",
+      "All personal training sessions will be purchased at the Campus Recreation and Wellness Center – Welcome Desk Member Services.",
       "Training sessions are 55 minutes in length and must be conducted at the Campus Recreation and Wellness Center."
     ],
     "without": [
       "Skip to main content",
-      "UH Home > Campus Recreation > Fitness > Personal Training",
-      "Related Links Personal Training Request Form",
-      "University of Houston Houston, Texas 77204 (713) 743-2255",
-      "©2025 University of Houston. All rights reserved."
-    ]
+      "Visit | Apply | Give",
+      "©2025 University of Houston. All rights reserved.",
+      "Report a problem with this page",
+      "Privacy Notice"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:26:35.924089"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:26:44.935350"
 }

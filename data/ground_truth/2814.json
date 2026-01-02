@@ -1,25 +1,55 @@
 {
+  "schema_version": "2.0",
   "url": "https://alinacierdem.com/a-different-way-to-code",
   "file_id": "2814",
-  "downloaded_at": "2025-12-20T23:54:46.447328",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "development",
+        "containers",
+        "devcontainers",
+        "guide"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "A different way to code",
     "author": "Ali Naci Erdem",
     "publish_date": "2025-12-15",
-    "main_content": "Many years ago, when I had enough time to work on extracurricular activities, I developed a little helper CLI for libdragon - a Nintendo 64 toolchain and library - to enable development without having a full Linux system. Not having enough time was the main drive for me even back then. When you occasionally find time to work on something, you don’t want to spend your precious time building the development environment itself. Containerization was at rescue. Technically, it’s a solution to “it works on my machine” problem by shipping your machine as an OCI image. It solved the problem. Mostly.\n\nI still need to remember the correct incantation to start and maintain a Docker container and thus I’ve created this thin wrapper around it. The upstream library repository builds a base image, which is pulled and started as a container mounting your current working directory as a bind mount. It also keeps track of the config to know which upstream toolchain image to use, where to clone the library and whether it’ll be a submodule or a subtree. Then it orchestrates the rest for you. Instead of running make, you run libdragon make instead, and everything, just works ™️. Even though not the most performant, it’s a great way to work and it is 100% reproducible as long as you have a Docker compatible environment.\n\nI’ve recently made the decision to move to Linux from Windows and not to a regular distro either. I’m using Fedora Silverblue (Bluefin), which is an immutable Linux. Basically it takes the containerization idea to the extreme and uses containers for updating the OS itself. You’re running on a readonly filesystem (except for /etc and a few other configuration paths, including the user home). No more fighting with the package manager or graphics card drivers. Switch to an OS image and it should just work. This comes with a few drawbacks though. Primarily you’re suggested to use Flakpak for GUI apps or brew for cli tools.\n\nIf you need a development environment, you shouldn’t install them locally, but use a containerized environment. Conveniently, there is a standard for shipping development environments called devcontainers. With a compatible IDE, (e.g vscode) it is possible to “boot” into the OCI image. This is essentially a generalized way of doing what I did with my CLI wrapper.\n\nIt all starts with a config file at .devcontainer/devcontainer.json. For a simple Node.js environment for example:\n\n{\n    \"image\": \"node:22.14\",\n    \"containerUser\": \"node\"\n}\n\nThis basically tells devcontainer to use node:22.14 image as the node user (non-root, which is the best practice in general). VSCode does a lot of magic behind the scenes, like forwarding your ssh-agent, enabling your host global git config, and passing through host windowing system. This means you’re not limited to cli-only apps and you have full access to GUI APIs and your GPU. To enter the container, open the command pallette and\n\nBeing a javascript developer, one of the things I’ve tried was Electron:\n\n.devcontainer/devcontainer.json:\n\n{\n\t\"build\": { \"dockerfile\": \"Dockerfile\" },\n\t\"containerUser\": \"node\"\n}\n\nWith .devcontainer/Dockerfile:\n\nFROM node:22\n\nRUN apt-get update && apt-get install \\\n    libgbm-dev libgles2-mesa-dev libgtk-3-0 libasound2 libxcb-dri3-0 \\\n    libxtst6 libnss3 libatk-bridge2.0-0 libxss1 \\\n    -yq --no-install-suggests --no-install-recommends \\\n    && apt-get clean\n\nAs you see, you can reference a Dockerfile (relative to the config file) and install any required dependencies to set things up. One other trick I had to do was disabling sandboxing (this is normally not recommended for running Chrome, but this is not some random 3rd party website and will jun in a Docker container anyways) and forcing it to use Wayland in the startup script (Without this, 3d accelaration didn’t work):\n\n\"scripts\": {\n  \"start\": \"electron --no-sandbox --ozone-platform=wayland .\"\n}\n\nI’ve managed to make tauri and Playwright work on a devcontainer as well with some tinkering. I admit that the initial setup is sometimes painful. For example you base image is missing a package and you need to fight with the package manager and OS to make it work. Fortunately you only do this once and from that point on it is fully reproducible. To be honest I haven’t tried them on Windows or macOS. I don’t really care about Windows much, but I’ll eventually experiment with macOS and share those configs as github repositories.\n\nI’m currently fully into developing in devcontainers. The biggest selling point in my opinion is the incredible reproducibility and it doesn’t matter if you were away from a project for years, you can get it up and running in minutes (just wait for the images to download). Everything is conveniently stored in the repository including vscode extensions:\n\n{\n    \"customizations\": {\n        \"vscode\": {\n            \"extensions\": [\"wakatime.vscode-wakatime\"]\n        }\n    }\n}\n\nI haven’t yet perfected the way I use devcontainers but I’m convinced that it’s becoming the least-friction way of coding, especially when I occasionally work on something or if I’m going to share the setup with others. Even in libdragon-docker, I’ve started suggesting using a devcontainer instead of using the CLI.\n\n### Bonus Tips\n\n#### SSH agent forwarding\n\nTo enable SSH agent forwarding, make sure the agent is running and you have this configuration in ~/.ssh/config:\n\nHost github.com\n  AddKeysToAgent yes\n  ForwardAgent Yes\n\n#### Docker in Docker\n\nIt is possible to run docker commands against your host, using the dind image. One container is used to create the privilidged docker layer and docker cli in the other can connect to it via DOCKER_HOST: tcp://docker:2376. This is how the tool is developed end to end in a devcontainer.\n\n#### Multiple devcontainer configurations\n\nIf you define multiple folders in .devcontainer, vscode will simply ask you which one to use when you want to switch to the container.\n\n#### Wakatime\n\nIf you’re using Wakatime, enter your wakatime API key in you global vscode settings.json:\n\n  \"wakatime.apiKey\": \"<your-API-key>\",\n\nReach me out for any comments or questions on Twitter.",
+    "main_content": "Many years ago, when I had enough time to work on extracurricular activities, I developed a little helper CLI for libdragon - a Nintendo 64 toolchain and library - to enable development without having a full Linux system. Not having enough time was the main drive for me even back then. When you occasionally find time to work on something, you don't want to spend your precious time building the development environment itself. Containerization was at rescue. Technically, it's a solution to 'it works on my machine' problem by shipping your machine as an OCI image. It solved the problem. Mostly.\n\nI've recently made the decision to move to Linux from Windows and not to a regular distro either. I'm using Fedora Silverblue (Bluefin), which is an immutable Linux. Basically it takes the containerization idea to the extreme and uses containers for updating the OS itself. You're running on a readonly filesystem. No more fighting with the package manager or graphics card drivers. Switch to an OS image and it should just work.\n\nIf you need a development environment, you shouldn't install them locally, but use a containerized environment. Conveniently, there is a standard for shipping development environments called devcontainers. With a compatible IDE, it is possible to 'boot' into the OCI image. This is essentially a generalized way of doing what I did with my CLI wrapper.\n\nIt all starts with a config file at .devcontainer/devcontainer.json. VSCode does a lot of magic behind the scenes, like forwarding your ssh-agent, enabling your host global git config, and passing through host windowing system. This means you're not limited to cli-only apps and you have full access to GUI APIs and your GPU.\n\nI haven't yet perfected the way I use devcontainers but I'm convinced that it's becoming the least-friction way of coding, especially when I occasionally work on something or if I'm going to share the setup with others. The biggest selling point in my opinion is the incredible reproducibility and it doesn't matter if you were away from a project for years, you can get it up and running in minutes.",
     "with": [
-      "Many years ago, when I had enough time to work on extracurricular activities, I developed a little helper CLI for libdragon - a Nintendo 64 toolchain and library - to enable development without having a full Linux system.",
-      "I’m currently fully into developing in devcontainers. The biggest selling point in my opinion is the incredible reproducibility and it doesn’t matter if you were away from a project for years, you can get it up and running in minutes (just wait for the images to download).",
-      "If you need a development environment, you shouldn’t install them locally, but use a containerized environment. Conveniently, there is a standard for shipping development environments called devcontainers.",
-      "I haven’t yet perfected the way I use devcontainers but I’m convinced that it’s becoming the least-friction way of coding, especially when I occasionally work on something or if I’m going to share the setup with others."
+      "Containerization was at rescue. Technically, it's a solution to 'it works on my machine' problem by shipping your machine as an OCI image.",
+      "I'm using Fedora Silverblue (Bluefin), which is an immutable Linux. Basically it takes the containerization idea to the extreme and uses containers for updating the OS itself.",
+      "If you need a development environment, you shouldn't install them locally, but use a containerized environment.",
+      "VSCode does a lot of magic behind the scenes, like forwarding your ssh-agent, enabling your host global git config, and passing through host windowing system.",
+      "I haven't yet perfected the way I use devcontainers but I'm convinced that it's becoming the least-friction way of coding."
     ],
     "without": [
-      "Ali Naci Erdem Personal Blog",
       "© Ali Naci Erdem 2025",
-      "Reach me out for any comments or questions on Twitter.",
-      "December 15, 2025"
-    ]
+      "Ali Naci Erdem personal blog logo",
+      "Social media navigation icons",
+      "RSS Feed for Ali Naci Erdem's Blog",
+      "Privacy Policy link or footer navigation"
+    ],
+    "images": {
+      "total_in_content": 2,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "/_astro/devcontainer.CuxHcX8e_Z2lmBg4.webp",
+          "filename": "devcontainer.CuxHcX8e_Z2lmBg4.webp",
+          "alt": "Corne split keyboard",
+          "caption": "Corne split keyboard",
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:54:46.447334"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:05:17.270215"
 }

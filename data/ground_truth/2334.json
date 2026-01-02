@@ -1,27 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://emschwartz.me/projects#scour",
   "file_id": "2334",
-  "downloaded_at": "2025-12-20T23:29:15.322412",
+  "_internal": {
+    "page_type": {
+      "primary": "directory",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "portfolio",
+        "personal website",
+        "projects",
+        "developer"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Projects",
-    "author": null,
+    "title": "Projects | Evan Schwartz",
+    "author": "Evan Schwartz",
     "publish_date": null,
-    "main_content": "Scour\n🐿️ Scour is a service I'm building that watches noisy content feeds for articles and posts that match your interests. It works for RSS, Hacker News, Reddit, Bluesky, Substack, Medium, and more.\nGive it a try and let me know what you think!\nHere are the blog posts I've written while working on it:\n\nTigerlings\nTigerBeetle is the financial transactions database built for unparalleled performance and mission-critical safety.\nTigerlings is an interactive tutorial that teaches how to use TigerBeetle by fixing small scripts. Each script has a small error the user needs to correct. I created Tigerlings while contracting with TigerBeetle.\n\nAutometrics\nAutometrics is a set of open source libraries that make it easy to understand how code is performing in production. It enables developers to instrument functions with Prometheus metrics to track the request rate, error rate, and latency of any function. The fun part is that they also insert links to live charts directly into each function's documentation so developers can jump directly from their editors to looking at the performance of their system in realtime (watch the demo here).\nI came up with the initial idea for Autometrics while working at Fiberplane on how to make observability more accessible and appealing to developers. I built the first implementation in Rust (autometrics-rs) and have been collaborating with other developers inside and outside of the company to develop the concept further and create libraries in different programming languages.\n\nTurboVPB & Turbo Phonebank\nWhile taking time off in-between jobs, I got involved with the Sunrise Movement doing phonebanking for climate-focused, progressive political candidates in the US. I was frustrated by how manual some of the phone calling platforms were and decided to build a browser extension, TurboVPB, to speed up these calls.\nI'm proud to say that TurboVPB has been used to place more than 5 million calls and send more than 500,000 text messages -- and counting.\nBased on the experience of building this browser extension, I also built a standalone phonebanking platform called Turbo Phonebank (using Typescript, Preact, Supabase, and Vercel). This has been used to contact more than 50,000+ people.\n\nInterledger\nInterledger is a protocol for routing money across payment networks, akin to packet switching on the internet. While working at Ripple, the then-CTO, Stefan Thomas, and I co-invented Interledger to enable interoperability between disparate financial networks and ledgers. I helped develop the initial concept, core protocols, reference implementation in Typescript, and then led the reimplementation in Rust. I currently serve on the board of the Interledger Foundation.",
+    "main_content": "Scour is a service I'm building that watches noisy content feeds for articles and posts that match your interests. It works for RSS, Hacker News, Reddit, Bluesky, Substack, Medium, and more. Give it a try and let me know what you think!\n\nTigerBeetle is the financial transactions database built for unparalleled performance and mission-critical safety. Tigerlings is an interactive tutorial that teaches how to use TigerBeetle by fixing small scripts. Each script has a small error the user needs to correct. I created Tigerlings while contracting with TigerBeetle.\n\nAutometrics is a set of open source libraries that make it easy to understand how code is performing in production. It enables developers to instrument functions with Prometheus metrics to track the request rate, error rate, and latency of any function. The fun part is that they also insert links to live charts directly into each function's documentation so developers can jump directly from their editors to looking at the performance of their system in realtime.\n\nTurboVPB is a browser extension to speed up phone banking for climate-focused, progressive political candidates. Based on the experience of building this browser extension, I also built a standalone phonebanking platform called Turbo Phonebank.\n\nInterledger is a protocol for routing money across payment networks, akin to packet switching on the internet. While working at Ripple, the then-CTO, Stefan Thomas, and I co-invented Interledger to enable interoperability between disparate financial networks and ledgers.",
     "with": [
-      "🐿️ Scour is a service I'm building that watches noisy content feeds for articles and posts that match your interests.",
+      "Scour is a service I'm building that watches noisy content feeds for articles and posts that match your interests.",
       "Tigerlings is an interactive tutorial that teaches how to use TigerBeetle by fixing small scripts.",
       "Autometrics is a set of open source libraries that make it easy to understand how code is performing in production.",
-      "I'm proud to say that TurboVPB has been used to place more than 5 million calls and send more than 500,000 text messages -- and counting.",
+      "TurboVPB is a browser extension to speed up phone banking for climate-focused, progressive political candidates.",
       "Interledger is a protocol for routing money across payment networks, akin to packet switching on the internet."
     ],
     "without": [
-      "About Projects Blog Github 🐿️ Scour",
+      "Evan Schwartz",
+      "Projects | Evan Schwartz",
       "🐿️ Try Scour! Get a feed of great content tailored to your interests for free in < 1 minute.",
-      "Powered by Bear ʕ•ᴥ•ʔ",
-      "Toast this post",
-      "Evan Schwartz"
-    ]
+      "Powered by Bear",
+      "Feed"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:29:15.322418"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:41:31.662664"
 }

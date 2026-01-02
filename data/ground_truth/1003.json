@@ -1,0 +1,45 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.epicgames.com/site/en-US/home",
+  "file_id": "1003",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "gaming",
+        "technology",
+        "company"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Home - Epic Games",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Epic Games is a leading interactive entertainment company and provider of cutting-edge 3D engine technology. The company develops world-class games like Fortnite and the Unreal Engine game development platform. Epic Games operates the Epic Games Store, a digital storefront for PC games. The company provides game engine technology to developers worldwide. This homepage serves as the main entry point to Epic Games' products, services, and community.",
+    "with": [
+      "We develop cutting-edge games and cross-platform game engine technology",
+      "Home - Epic Games",
+      "Epic Games is a leading interactive entertainment company",
+      "The company provides game engine technology to developers worldwide",
+      "Epic Games operates the Epic Games Store for PC games"
+    ],
+    "without": [
+      "Subscribe to newsletter",
+      "Copyright 2025",
+      "Privacy Policy",
+      "Navigation menu items",
+      "Cookie notice or consent banner"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:36:35.065882"
+}

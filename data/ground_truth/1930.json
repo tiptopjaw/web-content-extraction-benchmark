@@ -1,33 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://myusf.usfca.edu/dean-of-students/ocrs/sliding",
   "file_id": "1930",
-  "downloaded_at": "2025-12-20T22:23:57.663845",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "resource",
+        "mental-health",
+        "guide",
+        "university"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Low-Cost/Sliding-Scale or No-Cost Mental Health Providers",
     "author": null,
     "publish_date": null,
-    "main_content": "Please note that USF offers this list as an informational resource. Inclusion does not constitute endorsement of the listed treatment providers or facilities. Availability of services cannot be guaranteed by USF. It is the responsibility of the student to contact providers to make appointments. Users assume responsibility for evaluating and selecting among the providers included in these listings.\n\nInsurance may not be accepted for low/no-cost and sliding-scale services. Generally, low/no-cost and sliding-scale fees are based on client income/ability to pay. Fees noted (as available) on this list are subject to change and should be confirmed with the provider. Any cost/payment is to be determined between the provider and individual seeking services.\n\n• Access Institute for Psychological Services \n\t110 Gough St. Suite 301\n\t(415) 861-5449\n\tPsychotherapy & Medication\n\tFees based on income\n• Center for Somatic Psychotherapy\n\tAffiliated with the CA Institute of Integral Studies\n\t220 Montgomery St. Suite 600\n\t(415) 217-8895\n\tPsychotherapy\n\tScale: $35-110 per session\n• Christian Counseling Centers\n\t801 Portola Dr. Suite 108\n\t(415) 674-7504\n\tPsychotherapy\n• CA Institute of Integral Studies (CIIS) Psychological Services Center\n\t507 Polk St, Suite 420\n\t(415) 346-1011\n\tPsychotherapy & Psychological testing\n\tFees based on income\n• California Pacific Medical Center Counseling Clinic\n\t(415) 600-3247\n\tPsychotherapy and Psychiatry\n\tLow fee\n• Dimensions Health Clinic\n\t3850 17th Street\n\t(415) 934-7757\n\tLGBTQIA focus\n\tPsychotherapy for queer, trans, and questioning persons ages 12 to 25; weekly support group for transgender & gender-variant persons.\n\tMental health services are FREE\n• Free HELP—San Francisco: Download charts listing resources for free mental health assistance, food, shelter, medical aid, and help with neighborhood problems in San Francisco\n• Golden Gate Integral Counseling Center (CA Institute of Integral Studies) \n\t507 Polk Street, Suite 450\n\t415-561-0230\n\tPsychotherapy\n\tFees based on income\n• Greenlight Clinic \n\t336 Bon Air Center\n\tSuite 5112\n\tGreenbrae, California 94904\n\t(415) 742-4306\n\thello@greenlightclinic.org\n\tPsychotherapy\n\tFree services (individual and group) for ages 14 to 26\n• Holos Institute \n\tInner Richmond District\n\t(415) 862-0594\n\tPsychotherapy\n\tFees based on income\n• Hyde Street Community Services/Tenderloin Outpatient Clinic\n\t815 Hyde Street, 1st Floor\n\tSan Francisco, CA 94109\n\t(415) 673-5700, info@hydestreetcs.org\n\tMedication services, case management for low-income, underserved, and homeless San Francisco residents; mental health assessment and therapy through Tenderloin clinic\n\tServices are free for SF residents with low financial resources\n• Integral Counseling Center (CA Institute of Integral Studies)\n\t2140 Pierce Street\n\t(415) 776-3109\n\tPsychotherapy\n\tFees based in income\n• Marina Counseling Center\n\t2137 Lombard St.@ Fillmore\n\t(415) 563-2137\n\tPsychotherapy\n\tFees based in income\n• New Perspectives Center for Counseling\n\t5026 Geary Blvd.\n\t(415) 752-5275\n\tPsychotherapy\n\tFees based on income\n• Open Path\n\tMultiple SF locations (network of private therapists)\n\t(800) 268-2833\n\tPsychotherapy\n\tFor uninsured or underinsured clients who can't afford full therapy fees\n\tScale: $30–60 per individual session (up to $80 for couples therapy), plus a one-time $59 lifetime membership fee\n• Queer LifeSpace \n\t2275 Market Street\n\t(415) 358-2000\n\tPsychotherapy—LGBTQIA focus\n\tScale: $30 and up for individuals, $50 and up for couples, $15 and up for groups, based on income\n• SF Therapy Collective\n\t2275 Market Street Suite E\n\t(415) 659-8282\n\tPsychotherapy, Psychiatry, Groups—LGBTQIA focus\n\tScale: Psychotherapy— $80 and up for individuals and $100 and up for couples; Psychiatry: Initial—$350 and up, follow-up—$150 and up\n• The San Francisco Marriage and Couples Center \n\tMultiple SF locations\n\t(415) 494-7074\n\tFees based on income\n• Well Clinic\n\t383 Rhode Island St., Suite 201\n\t100 Bush St., Suite #508\n\t(415) 952-0290 (both locations)\n\tPsychotherapy, Psychiatry\n\tFees based on income\n\nThis list is not exhaustive other local providers may also be listed on our Search for Providers webpage.",
+    "main_content": "Please note that USF offers this list as an informational resource. Inclusion does not constitute endorsement of the listed treatment providers or facilities. Availability of services cannot be guaranteed by USF. It is the responsibility of the student to contact providers to make appointments. Users assume responsibility for evaluating and selecting among the providers included in these listings. Insurance may not be accepted for low/no-cost and sliding-scale services. Generally, low/no-cost and sliding-scale fees are based on client income/ability to pay. Fees noted (as available) on this list are subject to change and should be confirmed with the provider. Any cost/payment is to be determined between the provider and individual seeking services.\n\nThe following mental health providers offer low-cost, sliding-scale, or no-cost services:\n\nAccess Institute for Psychological Services: 110 Gough St. Suite 301, (415) 861-5449. Psychotherapy & Medication. Fees based on income.\n\nCenter for Somatic Psychotherapy: Affiliated with the CA Institute of Integral Studies, 220 Montgomery St. Suite 600, (415) 217-8895. Psychotherapy. Scale: $35-110 per session.\n\nChristian Counseling Centers: 801 Portola Dr. Suite 108, (415) 674-7504. Psychotherapy.\n\nCA Institute of Integral Studies (CIIS) Psychological Services Center: 507 Polk St, Suite 420, (415) 346-1011. Psychotherapy & Psychological testing. Fees based on income.\n\nCalifornia Pacific Medical Center Counseling Clinic: (415) 600-3247. Psychotherapy and Psychiatry. Low fee.\n\nDimensions Health Clinic: 3850 17th Street, (415) 934-7757. LGBTQIA focus. Psychotherapy for queer, trans, and questioning persons ages 12 to 25; weekly support group for transgender & gender-variant persons. Mental health services are FREE.\n\nFree HELP—San Francisco: Download charts listing resources for free mental health assistance, food, shelter, medical aid, and help with neighborhood problems in San Francisco.\n\nGolden Gate Integral Counseling Center (CA Institute of Integral Studies): 507 Polk Street, Suite 450, 415-561-0230. Psychotherapy. Fees based on income.\n\nGreenlight Clinic: 336 Bon Air Center, Suite 5112, Greenbrae, California 94904, (415) 742-4306. Psychotherapy. Free services (individual and group) for ages 14 to 26.\n\nHolos Institute: Inner Richmond District, (415) 862-0594. Psychotherapy. Fees based on income.\n\nHyde Street Community Services/Tenderloin Outpatient Clinic: 815 Hyde Street, 1st Floor, San Francisco, CA 94109, (415) 673-5700. Medication services, case management for low-income, underserved, and homeless San Francisco residents; mental health assessment and therapy through Tenderloin clinic. Services are free for SF residents with low financial resources.\n\nIntegral Counseling Center (CA Institute of Integral Studies): 2140 Pierce Street, (415) 776-3109. Psychotherapy. Fees based in income.\n\nMarina Counseling Center: 2137 Lombard St.@ Fillmore, (415) 563-2137. Psychotherapy. Fees based in income.\n\nNew Perspectives Center for Counseling: 5026 Geary Blvd., (415) 752-5275. Psychotherapy. Fees based on income.\n\nOpen Path: Multiple SF locations (network of private therapists), (800) 268-2833. Psychotherapy. For uninsured or underinsured clients who can't afford full therapy fees. Scale: $30–60 per individual session (up to $80 for couples therapy), plus a one-time $59 lifetime membership fee.\n\nQueer LifeSpace: 2275 Market Street, (415) 358-2000. Psychotherapy—LGBTQIA focus. Scale: $30 and up for individuals, $50 and up for couples, $15 and up for groups, based on income.\n\nSF Therapy Collective: 2275 Market Street Suite E, (415) 659-8282. Psychotherapy, Psychiatry, Groups—LGBTQIA focus. Scale: Psychotherapy— $80 and up for individuals and $100 and up for couples; Psychiatry: Initial—$350 and up, follow-up—$150 and up.\n\nThe San Francisco Marriage and Couples Center: Multiple SF locations, (415) 494-7074. Fees based on income.\n\nWell Clinic: 383 Rhode Island St., Suite 201, 100 Bush St., Suite #508, (415) 952-0290. Psychotherapy, Psychiatry. Fees based on income.\n\nThis list is not exhaustive other local providers may also be listed on our Search for Providers webpage.",
     "with": [
       "Please note that USF offers this list as an informational resource. Inclusion does not constitute endorsement of the listed treatment providers or facilities.",
       "Insurance may not be accepted for low/no-cost and sliding-scale services. Generally, low/no-cost and sliding-scale fees are based on client income/ability to pay.",
-      "Access Institute for Psychological Services: 110 Gough St. Suite 301, (415) 861-5449, Psychotherapy & Medication, Fees based on income",
-      "Dimensions Health Clinic: LGBTQIA focus, Psychotherapy for queer, trans, and questioning persons ages 12 to 25; weekly support group for transgender & gender-variant persons. Mental health services are FREE",
-      "Open Path: For uninsured or underinsured clients who can't afford full therapy fees, Scale: $30–60 per individual session (up to $80 for couples therapy), plus a one-time $59 lifetime membership fee"
+      "Dimensions Health Clinic: 3850 17th Street, (415) 934-7757. LGBTQIA focus. Mental health services are FREE.",
+      "Open Path: Scale: $30–60 per individual session (up to $80 for couples therapy), plus a one-time $59 lifetime membership fee.",
+      "Hyde Street Community Services: Services are free for SF residents with low financial resources."
     ],
     "without": [
-      "Academics",
-      "Student Services",
-      "Health & Wellness",
-      "Campus Life",
-      "Offices",
-      "Schools & Centers",
-      "Search Include USFCA.EDU",
-      "Log In",
+      "Skip to main content",
       "Office of the Dean of Students Menu",
-      "Case Management Office of the Dean of Students 2130 Fulton Street University Center 5th Floor San Francisco, CA 94117 415.422.5330 referralsupport@usfca.edu",
-      "USFCA Mobile Library Directions Feedback Title IX Privacy Statement Web Accessibility"
-    ]
+      "2130 Fulton Street, University Center 5th Floor, San Francisco, CA 94117",
+      "Accessibility Statement",
+      "Copyright 2025"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:23:57.663850"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:07:52.303556"
 }

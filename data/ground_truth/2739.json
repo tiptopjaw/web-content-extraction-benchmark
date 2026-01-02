@@ -1,27 +1,103 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.egyptianhieroglyphs.net/egyptian-hieroglyphs/lesson-1",
   "file_id": "2739",
-  "downloaded_at": "2025-12-20T23:46:34.919899",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "language-learning",
+        "egyptology",
+        "hieroglyphs"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Egyptian Hieroglyphs: Lesson 1",
     "author": null,
     "publish_date": null,
-    "main_content": "General Overview\n\nReading Hieroglyphs\nThe ancient Egyptians created a highly flexible hieroglyphic system of writing. Hieroglyphs could be arranged in both columns and rows and could be read from the left or from the right, depending on how they were written. This allowed the ancient Egyptians to effortlessly integrate their writing with art, blurring the boundary between art and script. In the example below, the god Amun, imn, is written each of the possible combinations.\n\nLeft to Right\nRight to Left\nLeft to Right\nRight to Left\nAlthough the task of reading hieroglyphs from the right direction may seem daunting at first, there is a simple trick that will allow you to easily identify the correct direction from which to begin:\nLook for a hieroglyph with a face and read toward it. \nWhen the figure is facing to the left, begin reading from the left. If they are facing right, begin from the right. When there are hieroglyphs are stacked on top of each other, the top sign should always be read before lower sign.  Another feature of the Egyptian writing system that you might have noticed is “group writing.” Rather than placing hieroglyphs side-by-side, they were arranged in a way to reduce empty space: taller signs stand alone, while smaller signs are stacked on top of each other.\n\nTransliteration and the Alphabet\nTransliteration is the method of converting one script into another, also referred to as transcription. The hieroglyphs in the alphabet are called “uniliterals,” because they represent a single consonant. The ancient Egyptian language also contains biliterals and triliterals, which represent two and three consonants, respectively. The alphabet can be found in the chart below.\nIt will be helpful to memorize the alphabet not only because they occur often in texts, but also because Egyptologists arrange dictionaries in this order. So if you are unsure of the meaning of a word, but know how to transliterate it, knowing the alphabet will help you find the word faster than flipping frantically between the four different types of “H’s” to find the right one.\nThe Alphabet\nHieroglyph\tTransliteration\tDescription\n𓄿\t3\tVulture\n𓇋\ti, j\tReed leaf\n𓇋𓇋\ty\tDouble Reed Leaf\n𓂝\tʿ\tArm\n𓅱 𓏲\tw\tQuail chick, rope curl\n𓃀\tb\tFoot\n𓊪\tp\tStool\n𓆑\tf\tHorned viper\n𓅓　𓐝\tm\tOwl\n𓈖　𓋔\tn\tWater, red crown\n𓂋\tr\tMouth\n𓉔\th\tHouse plan\n𓎛\tḥ\tRope\n𓐍\tḫ\tUnknown\n𓄡\tẖ\tAnimal belly and tail\n𓊃\tz\tDoor bolt\n𓋴\ts\tFolded cloth\n𓈙\tš\tPool\n𓈎\tq\tHill\n𓎡\tk\tBasket with handle\n𓎼\tg\tStand for vessel\n𓏏\tt\tBread loaf\n𓍿\tṯ\tTethering rope\n𓂧\td\tHand\n𓆓\tḏ\tCobra\nYou might have noticed that there aren’t any vowels in the alphabet. They exist in the language, but the hieroglyphic script omitted them, which makes things difficult when it comes to pronunciation.\nThere’s a lot of current research into pronunciation (e.g. Allen’s Ancient Egyptian Phonology), but I was never particularly interested in it. If you are, then I suggest grabbing the book I listed, but it’s far beyond the scope of these lessons. For our purposes, I’ll simply describe the general conventions used in an introductory glyphs course.\nAdd an “e” in between the consonants.\nYup. That’s the basic approach when vocalizing transliterations. There’s some leeway when it comes to names and places (e.g. Amon vs Amun vs Amen), but in general, adding “e” in between consonants is just fine.\n\nPronunciation\nGlyph\tTranslit.\tPronunciation\n𓄿\t3\t“ah” as in “yacht”\n𓇋\ti, j\t“ee” as in “feet”\n𓇋𓇋\ty\t “ee” as in “feet”\n𓂝\tʿ\t“ah” as in “yacht”\n𓅱 𓏲\tw\t“oo” as in “blue”\n𓃀\tb\t“b” as in “bed”\n𓊪\tp\t“p” as in “pet”\n𓆑\tf\t“f” as in “fish”\n𓅓　𓐝\tm\t“m” as in “map”\n𓈖　𓋔\tn\t“n” as in “neat”\n𓂋\tr\t“r” as in “ready”\nGlyph\tTranslit.\tPronunciation\n𓉔\th\t“h” as in “hat”\n𓎛\tḥ\t“h” as in “hat”\n𓐍\tḫ\t“kh” as in Bach\n𓄡\tẖ\t“kyah” similar to the preceding sound\n𓊃\tz\t“s” as in “sand”\n𓋴\ts\t“s” as in “sand”\n𓈙\tš\t“sh” as in “fish”\n𓈎\tq\t“k” as in “kite”\n𓎡\tk\t“k” as in “kite”\n𓎼\tg\t“g” as in “girl”\n𓏏\tt\t“t” as in “tape”\n𓍿\tṯ\t“tch” as in “chart”\n𓂧\td\t“d” as in “dog”\n𓆓\tḏ\t“dj” as in “sledge”\nPronunciation Examples\nWord\tTransliteration\tPronunciation\n𓄔𓅓\tsḏm\tsedjem\n𓄔𓅓𓆑\tsḏm.f\tsedjemef\n𓁹𓋴\tir.s\t ires (ear-ess)\n𓊹𓀭\tnṯr\tnetcher\n𓊹𓊹𓊹\tnṯrw\tnetcheroo\n\nPhonograms, Ideograms, and Determinatives\nHieroglyphs are visual representations of objects or ideas that were familiar to ancient Egyptians. The Egyptologist Alan Gardiner arranged all of the hieroglyphs into a sign list which included twenty-six categories. There are a few different ways hieroglyphs are used.\nWhen hieroglyphs are used to represent these real world things, they are called ideograms. For example, the hieroglyph 𓁷𓏤 (ḥr) represents a face. When it is used as an ideogram, it carries the meaning of “face.” When it is not used as an ideogram, it is used for it’s phonetic value ḥr.\nYou might be wondering how you’d know whether a hieroglyph was being used as a ideogram or not.\nPhonograms are hieroglyphs that represent a specific sound (phonetic value). Using phonograms, scribes could spell out words. For example, we could combine the hieroglyphs for mouth, 𓂋𓏤 (r), and a water ripple, 𓈖 (n), from the alphabet above, and create the word for name, 𓂋𓈖 (rn). Independently, each hieroglyph represents a different idea, “mouth” and “water.” Together, they form an entirely new concept, “name.”\nA determinative is a hieroglyph that does not have a phonetic value so it is not transliterated. They are placed at the end of words and provide a general meaning of the word. For example, we may not know what the word 𓊪𓏏𓊪𓏏𓂻 (ptpt) might mean, but the leg determinative 𓂻 gives us a rough idea: movement. The type of movement could be walking, running, stomping, dancing, or something else. In this case, the the word means “trampling.”\nIdeogram\nRepresents an idea or concept. Vertical dash follows the glyph when used as an ideogram.\nExample:\n𓁷𓏤 (ḥr) – face.\n𓂋𓏤 (r) – mouth.\nPhonogram\nRepresents a vocal sound (phonetic value).\nExample:\n𓁷 (ḥr) –  Preposition “on”\n𓂋 (r) – Preposition “to”\nDeterminative\nGlyph at the end of some words that gives the general meaning of the word.\nExample:\n𓂻 in 𓊪𓏏𓊪𓏏𓂻\nGeneral meaning: movement.\nActual definiton of ptpt: to trample.\n\nMemorization\nThis section will contain either a vocabulary list, sign list, or both. Although it would be great if you memorized the lists, it’s not required at this point. The more you interact with hieroglyphic texts, in these exercises or elsewhere, the more you’ll begin to notice some of the more common signs and words. After a while, you’ll begin to naturally remember them.\nOr you’ll get tired of looking them up and memorize them on the spot. Flashcards are great for that!\nBiliterals\n𓁹\t𓏇\t𓏠\t𓎟\t𓁷\t𓏞\nir\tmi\tmn\tnb\tḥr\tsš\ntriliterals\n𓋹\t𓄤\t𓊹\nʿnḫ\tnfr\tnṯr\n\nExercises\nExercise 1.\nIdentify the direction the hieroglyphs should be read (right to left or left to right), and then in your head, identify the order in which each individual glyph should be read. If you need help, refer to the “Reading Hieroglyphs” section.\n1. 𓅠𓈖𓆑𓇓𓅱𓅓𓉐𓏤 \nTransliteration and Translation\ngm.n.f sw m pr\nHe found him in the house.\nAnswer\nLeft to Right\n2.\nTransliteration and Translation\nnswt bity nb t3wy nb hʿw nb-m3ʿt-rʿ\nKing of Upper and Lower Egypt, Lord of the Two Lands, Lord of Diadems, Nebmaatre (Amenhotep III)\nAnswer\nRight to left.\nThe last sequence of hieroglyphs might be confusing. Why 13, 11, and 12 and not 11-13? This is a common feature called “honorific transposition” and often found in names. When a certain god or goddess is being honored, their name is pushed to the front. In this case, Re is being honored, so his name is at the head. We’ll learn more about this feature in the next lesson.\n3. 𓄔𓅓𓈖𓆑𓌃𓂧𓏏𓀁𓇋𓏠𓈖𓀭 \nTransliteration and Translation\nsḏm.n.f mdt imn\nHe heard the speech of Amun.\nAnswer\nLeft to Right\n4. \nTransliteration and Translation\nḥmt nswt tiy\nRoyal wife, Tiye\nAnswer\nLeft to right.\nThis one is kinda mean, unless you remembered that the sedge (see problem #1 above) is transliterated as nswt. Although you’ve been introduced to honorific transposition, I haven’t mentioned it applies to nswt, among others.\nReturn to Index – Continue to Lesson 2",
+    "main_content": "Egyptian Hieroglyphs: Lesson 1 - General Overview. The ancient Egyptians created a highly flexible hieroglyphic system of writing. Hieroglyphs could be arranged in both columns and rows and could be read from the left or from the right, depending on how they were written. This allowed the ancient Egyptians to effortlessly integrate their writing with art, blurring the boundary between art and script. In the example below, the god Amun, imn, is written each of the possible combinations. Reading Hieroglyphs: The god Amun is shown with horizontal and vertical arrangements, reading left to right and right to left. The key to reading direction is to look for a hieroglyph with a face and read toward it. When the figure is facing to the left, begin reading from the left. If they are facing right, begin from the right. When hieroglyphs are stacked on top of each other, the top sign should always be read before lower sign. Another feature is group writing where hieroglyphs were arranged to reduce empty space: taller signs stand alone, while smaller signs are stacked on top of each other. Transliteration and the Alphabet: Hieroglyphs representing single consonants are called uniliterals. The alphabet includes: Vulture (3), Reed leaf (i/j), Double reed leaf (y), Arm (ʿ), Quail chick/w (w), Foot (b), Stool (p), Horned viper (f), Owl (m), Water/n (n), Mouth (r), House plan (h), Rope (ḥ), Unknown (ḫ), Animal belly (ẖ), Door bolt (z), Folded cloth (s), Pool (š), Hill (q), Basket (k), Stand for vessel (g), Bread loaf (t), Tethering rope (ṯ), Hand (d), Cobra (ḏ). The ancient Egyptian language also contains biliterals and triliterals representing two and three consonants. Pronunciation: Hieroglyphic script omitted vowels, making pronunciation challenging. The general convention is to add an 'e' between consonants. Examples: 3 (ah), i/j (ee), w (oo), b (b), f (f), m (m), n (n), r (r), h (h), ḥ (h), ḫ (kh), ẖ (kyah), z (s), s (s), š (sh), q (k), k (k), g (g), t (t), ṯ (tch), d (d), ḏ (dj). Phonograms, Ideograms, and Determinatives: Hieroglyphs are visual representations of objects or ideas. When used to represent real world things, they are called ideograms. Phonograms represent specific sounds and allow scribes to spell words. Determinatives are placed at the end of words and provide general meaning without phonetic value. For example, the face glyph (ḥr) represents 'face' as an ideogram, but provides phonetic value when used as a phonogram. The leg determinative indicates movement-related concepts. Memorization: Biliterals include ir, mi, mn, nb, ḥr, sš. Triliterals include ʿnḫ, nfr, nṯr. Exercises: Four exercises test reading direction and glyph order identification with answers provided in toggle sections.",
     "with": [
       "The ancient Egyptians created a highly flexible hieroglyphic system of writing.",
-      "Transliteration is the method of converting one script into another, also referred to as transcription.",
-      "Hieroglyphs are visual representations of objects or ideas that were familiar to ancient Egyptians.",
       "Look for a hieroglyph with a face and read toward it.",
-      "The hieroglyphs in the alphabet are called “uniliterals,” because they represent a single consonant."
+      "Hieroglyphs in the alphabet are called uniliterals because they represent a single consonant.",
+      "Phonograms are hieroglyphs that represent a specific sound (phonetic value).",
+      "A determinative is a hieroglyph that does not have a phonetic value so it is not transliterated."
     ],
     "without": [
-      "Home About Blog Sign List Resources",
       "Copyright © 2025 Egyptian Hieroglyphs",
+      "Return to Index – Continue to Lesson 2",
+      "Start Lessons",
       "ABOUT THE AUTHOR",
-      "Like the site? Donate",
-      "Table of Contents"
-    ]
+      "Like the site? Donate"
+    ],
+    "images": {
+      "total_in_content": 9,
+      "annotated_count": 8,
+      "items": [
+        {
+          "src": "https://www.egyptianhieroglyphs.net/wp-content/uploads/2021/03/L1-Left-To-Right-Horizontal.svg",
+          "filename": "L1-Left-To-Right-Horizontal.svg",
+          "alt": "L1 Left To Right Horizontal",
+          "caption": "Left to Right - Hieroglyphs arranged horizontally reading from left to right",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.egyptianhieroglyphs.net/wp-content/uploads/2021/03/L1-Right-To-Left-Horizontal.svg",
+          "filename": "L1-Right-To-Left-Horizontal.svg",
+          "alt": "L1 Right To Left Horizontal",
+          "caption": "Right to Left - Hieroglyphs arranged horizontally reading from right to left",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.egyptianhieroglyphs.net/wp-content/uploads/2021/03/L1-Left-To-Right-Vertical.svg",
+          "filename": "L1-Left-To-Right-Vertical.svg",
+          "alt": "L1 Left To Right Vertical",
+          "caption": "Left to Right - Hieroglyphs arranged vertically reading from left to right",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.egyptianhieroglyphs.net/wp-content/uploads/2021/03/L1-Right-To-Left-Vertical.svg",
+          "filename": "L1-Right-To-Left-Vertical.svg",
+          "alt": "L1 Right To Left Vertical",
+          "caption": "Right to Left - Hieroglyphs arranged vertically reading from right to left",
+          "is_hero": false
+        },
+        {
+          "src": "https://newlook.egyptianhieroglyphs.net/wp-content/uploads/2021/03/L1-Ex1-Sign-Order.svg",
+          "filename": "L1-Ex1-Sign-Order.svg",
+          "alt": null,
+          "caption": "Exercise 1 sign order showing left to right reading direction",
+          "is_hero": false
+        },
+        {
+          "src": "https://newlook.egyptianhieroglyphs.net/wp-content/uploads/2021/03/L1-Ex1-2-Sign-Order.svg",
+          "filename": "L1-Ex1-2-Sign-Order.svg",
+          "alt": null,
+          "caption": "Exercise 2 sign order showing right to left reading direction with honorific transposition",
+          "is_hero": false
+        },
+        {
+          "src": "https://newlook.egyptianhieroglyphs.net/wp-content/uploads/2021/03/L1-Ex1-3-Sign-Order.svg",
+          "filename": "L1-Ex1-3-Sign-Order.svg",
+          "alt": null,
+          "caption": "Exercise 3 sign order showing left to right reading direction",
+          "is_hero": false
+        },
+        {
+          "src": "https://newlook.egyptianhieroglyphs.net/wp-content/uploads/2021/03/L1-Ex1-4-Sign-Order.svg",
+          "filename": "L1-Ex1-4-Sign-Order.svg",
+          "alt": null,
+          "caption": "Exercise 4 sign order showing left to right reading direction",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:46:34.919904"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:29:31.651934"
 }

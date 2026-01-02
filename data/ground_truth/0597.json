@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://yogaalliance.org/what-is-yoga/",
+  "file_id": "0597",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "yoga",
+        "wellness",
+        "guide",
+        "education"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "What is Yoga | Discover Yoga",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Yoga is more than an individual practice—it's a path to connection, shared knowledge, community care, and global well-being. Yoga's history spans thousands of years, with roots in ancient Indian and Kemet civilizations. Beginning as a spiritual discipline passed down through generations, it has evolved into different practices and philosophies. The word yoga comes from the Sanskrit root yuj, meaning 'to unite' or join. This concept of unity lies at the heart of yoga, bringing together the body, mind, and spirit. Your yoga practice can take many forms: from movement, breathwork, singing, volunteering, studying ancient wisdom, meditating, and connecting to something bigger than yourself. Yoga can also be more than a personal practice—it is a powerful tool for collective well-being. As the practice evolves, it continues to address societal challenges and create space for equity, healing, and transformation. Yoga Alliance recognizes different types of yoga: Gentle Yoga focuses on support and relaxation, often using aids like blocks; Spiritually-Oriented Classes combine movement with meditation, emphasizing yoga philosophy, singing, or cultivating spiritual growth; Flow Yoga is a dynamic physical practice with continuous movement; Alignment-Oriented Yoga emphasizes precision of body placement and posture; Fitness Yoga focuses on the physicality to build strength, stamina, and conditioning; Hot Yoga is held in a heated room up to 110 F; Specialty Yoga is designed for specific needs or groups. Each approach has benefits, and there is no 'right way' to practice yoga. However, it's important to honor the roots of yoga and respect its cultural and spiritual significance while adapting it to meet your needs.",
+    "with": [
+      "Yoga is more than an individual practice—it's a path to connection, shared knowledge, community care, and global well-being.",
+      "The word yoga comes from the Sanskrit root yuj, meaning 'to unite' or join.",
+      "Your yoga practice can take many forms, from movement, breathwork, singing, volunteering, studying ancient wisdom, meditating, and connecting to something bigger than yourself.",
+      "Yoga Alliance recognizes Gentle Yoga which focuses on support and relaxation, often using aids like blocks to support students with their practice.",
+      "Each approach has benefits, and there is no 'right way' to practice yoga, but it's important to honor the roots of yoga and respect its cultural and spiritual significance."
+    ],
+    "without": [
+      "Skip to main content",
+      "Join Yoga Alliance",
+      "Find a Yoga Teacher",
+      "Discover Yoga | Deepen Your Practice | Expand Yoga",
+      "Privacy Policy | Terms of Use"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:34:02.564522"
+}

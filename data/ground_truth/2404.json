@@ -1,30 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://blog.hermesloom.org/p/the-secret-to-ai-assisted-coding",
   "file_id": "2404",
-  "downloaded_at": "2025-12-21T00:13:16.823218",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "ai",
+        "programming",
+        "software-development"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "The Secret to AI-assisted Coding",
     "author": "Henophilia",
     "publish_date": "2025-12-20",
-    "main_content": "So of course great kudos to the developers of Cursor, Antigravity, Windsurf, OpenCode and all the other editors. I’m personally using Cursor daily. But already for many months, I have been frustrated why they still operate on the level of lines of code. That seems so “2024” to me. Now that we have all these amazing data structures in computing, why are we not doing anything with them? Why are coding editors still working on the level of text instead of syntax trees? Or even more abstractly, couldn’t they work on the level of a cross-language notation?\n\nAt some point people will realize:\n\nThe secret to AI-assisted coding is not thinking in terms of lines of code or characters, but in terms of higher structures, references. Where an entire application is seen not as a sequence of characters in different files, but as a unified whole, a single coherent system with inputs and outputs, blocks of logic, references etc.\n\nCode editors are not enough for me.\n\nI want an X-ray of my code. Where I really see: Yep, my IDE really understands the code it’s producing.\n\n(To those who say “um, ackshually, LLMs don’t understand anything, they are just probabilistic automata!” I know. I mean “understanding” more in the colloquial sense, in terms of “producing better results” and “working faster”. Importantly, this also means that it should always produce code that generally minimizes resource usage, on all levels.)\n\nThe AI assistants for that type of IDE would no longer work on the level of actual code snippets. They would create a more abstract view of code overall, using a notation yet to be standardized, which unifies all programming paradigms to become able to construct a system from parts.\n\nIt’s the intellectual advancement away from seeing programming languages as different, and towards realizing their shared purpose: taking input data, transforming it and producing output data.\n\nWith AI-assisted coding, we see a very clear trend in how people are using it: in a declarative way. People formulate their ideas, visions, dreams, and then the AI makes it. I believe that we must fully embrace this declarative paradigm.\n\nThe battle has never been “TypeScript vs. Go vs. Rust vs. C++ vs. C# vs. whatever”. The battle has been in our own minds, believing that different languages are competing instead of all being unitable into a shared higher purpose: Democratizing technology by giving all humans trivial access to control any part of any electronic device as well as all the data structures and applications that become possible using modern networks of electronic devices.\n\nWe just need to make the conceptual leap for us, as humanity, to decide together on this kind of new internal notation, sort of the “LLVM for full-stack and infra”, which would be a bit like the notations in mathematics. Only that beyond sigma for sums, a big long S for integrals etc., you would also have globally unified notation for endpoints, interfaces, streams, events, schemas, server config, secrets handling, testing, etc. And then of course there would be bindings/SDKs of this meta language for every “normal” programming language, so that every language suddenly becomes “batteries included”.\n\nLanguage is open, whether it’s human or programming. It’s like money: we have many different currencies, but a single united money system, as all currencies are exchangeable with each other. We all deserve to understand each other, to work together completely regardless of language boundaries, especially when it comes to technology.\n\nProgramming is not writing lines of code! Programming is the holistic understanding of a technological system with clear boundaries to the outside world. Only once developers of AI-assisted coding tools realize that, their tools can get to the “next level” of coding. A place where you never lose the “big picture” view of your entire project, because while you can “zoom into” the depths of each library/module, you would typically work in this mega-powerful “meta language” binding in your favorite language. Or, of course, you could load modules written in any other language. Where you never have to worry about way too verbose AI slop again, because you don’t work on the level of text anymore, and instead on the level of higher-order structures.\n\nThe goal is not for context windows to be infinitely long. As long as we need long context windows, we have failed, because we don’t keep the right content in the context. In the final stage of this kind of editor, the context for each individual prompt would probably be pretty short due to the brevity and preciseness of that “meta language”.\n\nAnd now, to get to the only section not written 100% by a human: To summarize…\n\n• Stop thinking in code, start thinking in systems.\n• AI coding should work on structures and intent, not text snippets.\n• Languages aren’t rivals—they’re interchangeable implementations.\n• We need a unified “meta language” for software, from infra to UI, with bindings in all other languages.\n• Right abstractions make long context windows unnecessary.",
+    "main_content": "So of course great kudos to the developers of Cursor, Antigravity, Windsurf, OpenCode and all the other editors. I'm personally using Cursor daily. But already for many months, I have been frustrated why they still operate on the level of lines of code. That seems so '2024' to me. Now that we have all these amazing data structures in computing, why are we not doing anything with them? Why are coding editors still working on the level of text instead of syntax trees? Or even more abstractly, couldn't they work on the level of a cross-language notation?\n\nAt some point people will realize: The secret to AI-assisted coding is not thinking in terms of lines of code or characters, but in terms of higher structures, references. Where an entire application is seen not as a sequence of characters in different files, but as a unified whole, a single coherent system with inputs and outputs, blocks of logic, references etc.\n\nCode editors are not enough for me. I want an X-ray of my code. Where I really see: Yep, my IDE really understands the code it's producing.\n\nThe AI assistants for that type of IDE would no longer work on the level of actual code snippets. They would create a more abstract view of code overall, using a notation yet to be standardized, which unifies all programming paradigms to become able to construct a system from parts.\n\nIt's the intellectual advancement away from seeing programming languages as different, and towards realizing their shared purpose: taking input data, transforming it and producing output data.\n\nWith AI-assisted coding, we see a very clear trend in how people are using it: in a declarative way. People formulate their ideas, visions, dreams, and then the AI makes it. I believe that we must fully embrace this declarative paradigm.\n\nThe battle has never been 'TypeScript vs. Go vs. Rust vs. C++ vs. C# vs. whatever'. The battle has been in our own minds, believing that different languages are competing instead of all being unitable into a shared higher purpose: Democratizing technology by giving all humans trivial access to control any part of any electronic device as well as all the data structures and applications that become possible using modern networks of electronic devices.\n\nWe just need to make the conceptual leap for us, as humanity, to decide together on this kind of new internal notation, sort of the 'LLVM for full-stack and infra', which would be a bit like the notations in mathematics.\n\nProgramming is not writing lines of code! Programming is the holistic understanding of a technological system with clear boundaries to the outside world. Only once developers of AI-assisted coding tools realize that, their tools can get to the 'next level' of coding.\n\nThe goal is not for context windows to be infinitely long. As long as we need long context windows, we have failed, because we don't keep the right content in the context. In the final stage of this kind of editor, the context for each individual prompt would probably be pretty short due to the brevity and preciseness of that 'meta language'.\n\nSummary: Stop thinking in code, start thinking in systems. AI coding should work on structures and intent, not text snippets. Languages aren't rivals—they're interchangeable implementations. We need a unified 'meta language' for software, from infra to UI, with bindings in all other languages. Right abstractions make long context windows unnecessary.",
     "with": [
       "The secret to AI-assisted coding is not thinking in terms of lines of code or characters, but in terms of higher structures, references.",
+      "Code editors are not enough for me. I want an X-ray of my code. Where I really see: Yep, my IDE really understands the code it's producing.",
+      "The AI assistants for that type of IDE would no longer work on the level of actual code snippets.",
       "Programming is not writing lines of code! Programming is the holistic understanding of a technological system with clear boundaries to the outside world.",
-      "We need a unified “meta language” for software, from infra to UI, with bindings in all other languages.",
-      "The battle has never been “TypeScript vs. Go vs. Rust vs. C++ vs. C# vs. whatever”. The battle has been in our own minds, believing that different languages are competing instead of all being unitable into a shared higher purpose.",
-      "The goal is not for context windows to be infinitely long. As long as we need long context windows, we have failed, because we don’t keep the right content in the context."
+      "The goal is not for context windows to be infinitely long. As long as we need long context windows, we have failed, because we don't keep the right content in the context."
     ],
     "without": [
-      "Subscribe",
-      "Sign in",
-      "© 2025 Henophilia · Privacy ∙ Terms ∙ Collection notice",
-      "Start your Substack",
-      "Get the app",
-      "Substack is the home for great culture",
-      "Write a comment...",
-      "Discussion about this post"
-    ]
+      "Subscribe to our newsletter",
+      "© 2025 Henophilia",
+      "Privacy Policy · Terms · Collection notice",
+      "Sign in to your account",
+      "Start your Substack"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-21T00:13:16.823224"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:06:46.725552"
 }

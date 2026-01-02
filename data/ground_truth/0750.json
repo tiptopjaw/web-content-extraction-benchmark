@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://cycloneplumbingusa.com/how-much-does-it-cost-to-plumb-a-new-house/",
+  "file_id": "0750",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "plumbing",
+        "construction",
+        "costs",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "How Much Does It Cost to Plumb a New House? 2025 Estimate",
+    "author": "Cyclone Plumbing",
+    "publish_date": "2025-06-18",
+    "main_content": "Building a house from the ground up involves installing all the water supply lines, drainpipes, fixtures and connections needed for plumbing. In simple terms, plumbing a new home means running fresh water lines, sewer/drain lines, vents and gas lines before the walls go up, then hooking up sinks, toilets, showers and appliances later on. Homeowners often ask \"How much does it cost to plumb a new house?\" On average, new construction plumbing costs are commonly estimated by square footage – roughly $4.50 per square foot for rough-in work. For example, that implies about $4,500–$6,000 for a 1,000-sqft home, or around $9,000 for a 2,000-sqft house on the low end.\n\nPlumbing a house means installing the entire water and waste pipe system in the building. The main steps include: Planning & Permits, Water Service & Sewer Hookup, Rough-In Piping, Inspection, Backfill & Foundation Drain, Finish Plumbing, and Testing & Final Inspection. Each of these steps adds to the timeline and cost.\n\nThe cost for plumbing a new house can vary widely because of several key factors: Home Size and Layout, Number of Bathrooms & Fixtures, Fixture Count and Type, Material Choices, Labor Rates, Permits & Inspections, Excavation & Site Prep, Complexity & Distance, and Timing and Coordination.\n\nA common way to estimate plumbing budgets is by square footage. The rule-of-thumb is about $4.00–$5.00 per square foot for rough-in plumbing. For a 1,000 sq ft home: ~$4,500 – $8,000. For 1,500 sq ft: ~$6,750 – $12,000. For 2,000 sq ft: ~$8,000 – $12,000. For 2,500+ sq ft: $10,000+.\n\nEach fixture or room has its own installation cost. Typical costs for one full bath (toilet + sink + shower/tub) range from $1,600 to $2,900 for rough-in plumbing per bathroom. A standard kitchen sink install is around $350–$500. A laundry room hookup typically costs $300–$1,500.\n\nThe type of pipe material used has a big impact on price. PEX Tubing costs roughly $0.50–$2.00 per linear foot and is typically the least expensive. Copper Pipe costs about $2.00–$10.00 per foot and is the most expensive option. CPVC/PVC costs about $0.50–$3.00 per foot as a middle-ground option.\n\nLocation matters for plumbing costs. In high-cost regions like California, a full plumbing job for a 2,000-sqft home might be $12,000–$20,000. In lower-cost regions like Texas, Florida or Ohio, a comparable job might only cost $8,000–$12,000.\n\nTo save on plumbing costs: Plan ahead and finalize layout before construction starts, cluster plumbing fixtures near each other, buy materials in bulk, get multiple quotes from reputable contractors, choose cost-effective materials like PEX instead of copper, limit expensive extras, plan excavation wisely, and negotiate package deals.\n\nPlumbing is an essential part of any new home. The total cost depends on the size of your house, the materials used, the number of bathrooms and kitchens, and where you live. On average, how much it costs to plumb a new house ranges from $8,000 to $20,000.",
+    "with": [
+      "Building a house from the ground up involves installing all the water supply lines, drainpipes, fixtures and connections needed for plumbing.",
+      "On average, new construction plumbing costs are commonly estimated by square footage – roughly $4.50 per square foot for rough-in work.",
+      "The cost for plumbing a new house can vary widely because of several key factors including home size, number of bathrooms, and material choices.",
+      "A common way to estimate plumbing budgets is by square footage. The rule-of-thumb is about $4.00–$5.00 per square foot for rough-in plumbing.",
+      "PEX Tubing costs roughly $0.50–$2.00 per linear foot and is typically the least expensive, while Copper Pipe costs about $2.00–$10.00 per foot."
+    ],
+    "without": [
+      "Call for Request a Free Quote",
+      "© 2023 All Rights Reserved",
+      "Home | About Us | Our Services",
+      "Privacy Policy",
+      "Stay Connected with Us"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://cycloneplumbingusa.com/wp-content/uploads/2025/05/How-Much-Does-It-Cost-to-Plumb-a-New-House.webp",
+          "filename": "How-Much-Does-It-Cost-to-Plumb-a-New-House.webp",
+          "alt": "How Much Does It Cost to Plumb a New House",
+          "caption": "How Much Does It Cost to Plumb a New House",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:12:51.990863"
+}

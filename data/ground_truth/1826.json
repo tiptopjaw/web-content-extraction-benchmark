@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.w3schools.com/cybersecurity/",
+  "file_id": "1826",
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "tutorial",
+        "education",
+        "cybersecurity"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Cyber Security Tutorial",
+    "author": null,
+    "publish_date": null,
+    "main_content": "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more. Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, Python, Bootstrap, Java and XML. Cyber Security tutorial section with links to comprehensive learning resources about protecting systems, networks, and data from digital attacks. The page includes tutorials on various cybersecurity topics with Learn and Tutorial links, as well as References for further study.",
+    "with": [
+      "W3Schools offers free online tutorials, references and exercises in all the major languages of the web.",
+      "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, Python, Bootstrap, Java and XML.",
+      "Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.",
+      "Cyber Security Tutorial section with links to comprehensive learning resources.",
+      "Learn and Tutorial links provided for each topic with References for further study."
+    ],
+    "without": [
+      "Sign In to your account",
+      "Become a PLUS user and unlock powerful features",
+      "Get Certified promotional offer",
+      "W3Schools on YouTube, LinkedIn, Discord, Facebook, Instagram",
+      "Join our Newsletter subscription"
+    ],
+    "images": {
+      "total_in_content": 4,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:26:57.153392"
+}

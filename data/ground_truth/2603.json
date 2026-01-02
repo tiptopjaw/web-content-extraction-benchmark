@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.alicemaz.com/writing/program.html",
+  "file_id": "2603",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "programming",
+        "education",
+        "technology",
+        "tutorial"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "how I think when I think about programming",
+    "author": "alice maz",
+    "publish_date": "2022-02-19",
+    "main_content": "this is a post I've wanted to write for some time. in it, I attempt to explain, on a very basic level, how I think about programming. my hope is to give newer programmers some background knowledge and bigger-picture context. to help give form and structure to what is often presented as just a bunch of shit to remember\n\nI don't attempt to teach programming per se. I don't cover all the details needed to write a program that compiles and runs. there are very many guides for that. I don't discuss computer science, nor do I get into type theory, though both of these topics can serve as a highly eluciditory basis for understanding programming. I talk about \"fundamentals\" a lot, but my fundamentals aren't a set of overarching theories. just a bag of tools\n\nmy goal is to impart some general heuristics about how to think about programming for the subset of people who happen to think like me\n\nthe volume of software in existence is massive. hundreds of ecosystems, thousands of tools, millions of libraries. if you tried to learn them all as individual things, it would be impossible. but they're all built out of the same basic parts\n\nabstraction in programming means to paper over the underlying workings of a system with shorthands or conveniences. complexity is added so you can pretend it isn't there. no matter how you dress it up, when you're using a computer, you are always somewhere in the jenga pagoda\n\nthe first set of basics are assignment, flow control, and scope. all examples are in c unless otherwise stated. don't be scared if you're used to python or js. c is very easy to write. it's only hard to write correctly\n\nassignment is conceptually very simple. you are storing a value in some named piece of storage. the thing to remember is that variables are not objects. they are names of boxes in which we deposit objects\n\nprograms become truly expressive once you have a way to change the future order of execution based on some present state. mechanisms that do this are called control-flow constructs, and the two most common are branches and loops\n\nthe area of influence a block has, including storage it owns and storage it can access, is called its scope. a block that has a name and can be invoked from somewhere else and passed information is called a function\n\nmemory has no inherent structure or meaning to it. it is a very long series of one-byte boxes, numbered starting from 0, all the way up into the billions. all meaning that the sequences of bytes in memory contain is imposed by the programmer\n\nby convention, usually memory has a handful of read-only sections, plus two major writable sections, called stack and heap. the stack is a last-in, first-out queue that starts at the last address in memory, and grows downward, toward the lower addresses. the heap starts from somewhere after the 0 address and grows up toward higher addresses\n\ntraversing pointers to use or manipulate values stored at their address is often called indirection because it is an indirect mechanism of data access. recursion is the idea of a function calling itself, effecting sequential repeated execution in a manner not unlike a loop\n\nit is absolutely essential to have an intuitive grasp on indirection and recursion. this is perhaps the most important factor distinguishing a clumsy programmer from a deft one. indirection and recursion are harder at first than storage and flow because their usage forms conceptual graph structures that you must be able to see in your head to manipulate and traverse\n\nfundamentally, an object is a thing that bundles state and functionality together. a class is a blueprint for a type of object, describing what state variables it has, and what functions, called methods, can operate on that state. and then an object is a concrete instantiation of that class, with its own storage, independent from all others\n\nno outside entities can read from or write to an object's internal state. it is, as the parlance goes, encapsulated. methods are the sole means of access or mutation. the point of all this is to force all stateful computation through a small set of gatekeeper functions\n\nthere is so, so much more in oop, but none of it is truly fundamental. I don't mean to pick on the paradigm, but for various reasons it tends to be the worst in terms of making simple things complicated. all these details are not really important. my actual point is this: there is nothing special about the object abstraction. it's just built up out of our fundamental kata\n\nprogramming languages are a set of techniques provided for the benefit of the human programmer. but to run them, they must be compiled to machine code, which is nothing but a long sequence of binary digits. interpreting these number streams is famously difficult for humans, though not impossible\n\nI firmly believe every high-level programmer worth their salt needs to understand c, and every c programmer needs to understand assembly. but to actually be good, you need to know what's happening underneath your feet\n\non a basic level, a computer can be thought of as a cpu that executes instructions, a set of boxes called registers that hold one value each, and a long, homogeneous series of bytes that constitute main memory. blocks and higher-level flow-control constructs don't exist in assembly. all flow control compiles down to simple jumps\n\nthe last thing to understand here is that the function, just like the branch or the loop, is just another kind of jump. it's all just jumps\n\nno one really teaches you how to debug. you just kind of have to figure it out. this is a shame, because debugging is conceptually pretty simple. the basic principle is again: feedback, response\n\nthe best way to learn to program, I think, is by coming up with some small project that seems tractable and figuring out whatever you need to solve it. javascript or python are probably the most reasonable beginner languages. they both have their quirks, but they have a wealth of learning material\n\nI think the future belongs to people who can use code to gain leverage on the world and to create new things that are more than just software. I think being a domain expert who can program well will be more valuable than a great programmer with no other talents. I think being a great programmer, but also able to work across multiple fields, bridge gaps, draw novel inferences, is and will continue to be a superpower",
+    "with": [
+      "this is a post I've wanted to write for some time. in it, I attempt to explain, on a very basic level, how I think about programming.",
+      "abstraction in programming means to paper over the underlying workings of a system with shorthands or conveniences. complexity is added so you can pretend it isn't there.",
+      "memory has no inherent structure or meaning to it. it is a very long series of one-byte boxes, numbered starting from 0, all the way up into the billions.",
+      "it is absolutely essential to have an intuitive grasp on indirection and recursion. this is perhaps the most important factor distinguishing a clumsy programmer from a deft one.",
+      "I firmly believe every high-level programmer worth their salt needs to understand c, and every c programmer needs to understand assembly."
+    ],
+    "without": [
+      "alice maz",
+      "home • writing • software • hypertext • about",
+      "last updated 2022-02-19",
+      "brought to you by scheme",
+      "Copyright"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "assets/img/writing/program/title.jpg",
+          "filename": "title.jpg",
+          "alt": null,
+          "caption": "a schematic overview of charles babbage's analytical engine",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:18:58.244105"
+}

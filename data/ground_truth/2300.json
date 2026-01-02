@@ -1,27 +1,75 @@
 {
+  "schema_version": "2.0",
   "url": "https://help.smartsheet.com/learning-track/level-3-solutions/project-management-tutorial",
   "file_id": "2300",
-  "downloaded_at": "2025-12-20T23:05:55.818996",
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "tutorial",
+        "project-management",
+        "smartsheet",
+        "help-center"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Project Management Tutorial",
     "author": null,
     "publish_date": null,
-    "main_content": "Smartsheet provides essential tools for effective project management to empower your teams to execute together with speed and accountability and reach successful outcomes faster.\n\nFollow these step-by-step instructions to modify project settings.\n\nProject settings are now sheet settings in table, board, and timeline views. Learn more about working with sheet settings. You can access Project Settings from Gantt, grid, or table view:\n\nFrom Gantt view: Right-select any column header in the Gantt view and select Project Settings, or select the Project Settings icon in the top right corner of the sheet.\n\nGantt Timescale Settings only appear when editing Project Settings from Gantt view.\n\nFrom grid view: Right-click any column header in the sheet and select Edit Project Settings.\n\nFrom table view: Select sheet settings icon on the toolbar and edit the start or end date.\n\nSwitch to Gantt or grid view to edit any other project settings.\n\nDependency settings\nThe following image shows a project's dependency settings.\n\nDate range display  \nUse the Start date and End date columns to track the start and end dates.\n\nTo use Gantt view, your sheet must have both a start date and an end date — and those dates can’t be calculated with formulas. If your sheet has more than one date column, you must set both a start date and an end date in Project Settings for Gantt view to work.\n\nTimeline view is more flexible — it only needs one date column to display, as long as you're not using Project Settings.\n\n% Complete column\nPercentage complete automation is optional. Select the column you want to assign as your % Complete column to opt in. This column overlays a % complete indicator within the task bars only for the Gantt chart, allowing you to see automated % complete calculations.\n\nIf you enable dependencies and use hierarchy in your sheet, Smartsheet automatically calculates the % complete in parent rows based on their child row duration and % complete values. To format values in this column as percentages, select the column header at the top, then select the % icon in the left toolbar.\n\nDependencies\nTo enable dependencies, you must assign Predecessor and Duration columns.  If your sheet doesn’t already have these columns, Smartsheet automatically creates them for you.\n\nPredecessor: This column creates dependencies between tasks in the schedule.\nDuration: This column automates scheduling task start and end dates. It represents the number of working days the task must take to complete.\n\nEnabling dependencies impacts a row's start and end dates as it automatically calculates and adjusts these date values based on changes to the row's Duration and Predecessor values.\n\nWith dependencies enabled, you can set working days, set working hours, and exclude specific dates, such as holidays. By default, Smartsheet considers each working day to include 8 hours.\n\nOnce dependencies are enabled:\n\nRows with Duration and/or Predecessor values have their start and end dates calculated automatically.\nThe system automatically adds the given duration to the start date to calculate end dates (taking into account non-working days).\nIf a predecessor drives a task's start or end date, you can manually change it by clicking the cell and selecting a new date.\nThis overrides the association with the predecessor and removes the predecessor value from the row.\nIf a parent row has a predecessor value listed, this dependency relationship drives the start dates for each child row.\nRemoving the predecessor value on the parent row makes child rows editable, so you can change dates manually.\nPredecessor-dependent task start and end dates are uneditable from a report, a row update request, or any mobile app. To work around this, manually update a task's start date or duration to update the end date automatically.\n\nSee Activate dependencies and use predecessors for more details.\n\nGantt timescale settings\nThe following image shows the Gantt timescale settings.\n\nEdit the following timescale settings used in Gantt view:\n\nConfigure the appearance of the Primary and Secondary headings. These appear along the timescale at the top of the Gantt view. Switch between days, weeks, months, quarters, and years, and select the styling of dates.\nSelect a day as the Start day for week and a month for Start of fiscal year.\nChoose any column to Display as the label to the right of the Gantt bar. For example, select a contact list column as the display label to see a list of the people assigned to each task next to the Gantt bar.\nChoose whether Gantt view Opens to today’s date.\nThis option is only available to the sheet’s Owner and Admins.\nThis setting is your preference and doesn't influence how your collaborators view the Gantt view.\nIf someone with Editor or Viewer permissions wants the Gantt view to open to today, you can create a report from your sheet. Any user who has access to the report can access the Gantt Timescale Settings to enable the option Open to today's date.\n\nResource Management settings\nThe Resource Management section is only available for Business or Enterprise plans.\n\nYou can learn about Resource Management settings at Resource Management project settings.\n\nFollow these step-by-step instructions to create milestones in your project sheet.\n\nIn the Gantt and timeline views, a diamond shape represents a milestone.\n\nCreate a milestone\nGantt view\nActivate dependencies from the settings on your sheet.\n\nIn Gantt view, milestones cannot be shown unless you activate dependencies; otherwise, all items will be display as bars.\n\nYou can create a milestone by setting the item’s duration value to zero (and ensuring the start and end dates have the same value).\n\nTimeline view\nIf you have dependencies deactivated in your sheet:\n\nIf there is only one date column, then all the rows in the sheet appear as milestones.\nIf there are two or more date columns, you can create a milestone by providing either a start OR an end date.\n\nIf you have dependencies activated in your sheet:\n\nProvide either a start OR end date for the item.\nSet the item’s duration value to zero (and ensure the start and end dates have the same value).\n\n% complete rollups aren't available for parent tasks that contain subtasks that are milestones.\n\nFollow these step-by-step instructions to setup your parent rollup functionality in a project sheet.\n\nYou can create parent rows by indenting other rows beneath them. These indented rows become child rows. Learn more in Hierarchy: Indenting & Outdenting Rows.\n\nStart Date, End Date, Duration, and % Complete for parent rows\nThe Start Date for a parent is the earliest start date from all of its child rows. Similarly, the End Date is the latest end date from all its child rows.\n\nThe Duration on the parent reflects the number of working days between the parent row's Start Date and End Date. Instead of a sum of their durations, it provides a full-time span from the start of the earliest subtask to the end of the latest subtask.\n\nThe % Complete on the parent row calculates a weighted percentage based on the Duration and % Complete entered on each child row. In this way, completing child rows with shorter durations doesn't impact the parent row % Complete as much as completing a longer duration child row.\n\nThe parent row rollup includes subtasks with a given Duration and a % Complete value.\n\nParent rows don't calculate % Complete rollups when child rows contain milestones (duration = 0).\n\nParent rollup functionality tips\n\nYou can’t edit the Start Date, End Date, Duration, and % Complete columns in parent rows with dependencies enabled. To edit these values, you can deactivate the dependency functionality on the sheet or create additional columns not affected by dependencies for your calculations.\nYou can’t use custom formulas to change the display or bars in the Gantt view.\nThe parent task bars in dependency-enabled sheets have a grey background in the Gantt and calendar views.\nParent rows always reflect duration in partial working days, even if you use other formats to show duration for the child rows.",
+    "main_content": "Smartsheet provides essential tools for effective project management to empower your teams to execute together with speed and accountability and reach successful outcomes faster. Follow these step-by-step instructions to modify project settings. Project settings are now sheet settings in table, board, and timeline views. You can access Project Settings from Gantt, grid, or table view. Use the Start date and End date columns to track the start and end dates. To use Gantt view, your sheet must have both a start date and an end date — and those dates can't be calculated with formulas. The following image shows a project's dependency settings. To enable dependencies, you must assign Predecessor and Duration columns. If your sheet doesn't already have these columns, Smartsheet automatically creates them for you. The Duration column automates scheduling task start and end dates. It represents the number of working days the task must take to complete. Follow these step-by-step instructions to create milestones in your project sheet. In the Gantt and timeline views, a diamond shape represents a milestone. You can create a milestone by setting the item's duration value to zero. Follow these step-by-step instructions to setup your parent rollup functionality in a project sheet. You can create parent rows by indenting other rows beneath them. These indented rows become child rows. The Start Date for a parent is the earliest start date from all of its child rows. The End Date is the latest end date from all its child rows. The Duration on the parent reflects the number of working days between the parent row's Start Date and End Date. The % Complete on the parent row calculates a weighted percentage based on the Duration and % Complete entered on each child row.",
     "with": [
       "Smartsheet provides essential tools for effective project management to empower your teams to execute together with speed and accountability and reach successful outcomes faster.",
-      "To enable dependencies, you must assign Predecessor and Duration columns. If your sheet doesn’t already have these columns, Smartsheet automatically creates them for you.",
+      "To use Gantt view, your sheet must have both a start date and an end date — and those dates can't be calculated with formulas.",
+      "To enable dependencies, you must assign Predecessor and Duration columns.",
       "In the Gantt and timeline views, a diamond shape represents a milestone.",
-      "The Start Date for a parent is the earliest start date from all of its child rows. Similarly, the End Date is the latest end date from all its child rows.",
       "The % Complete on the parent row calculates a weighted percentage based on the Duration and % Complete entered on each child row."
     ],
     "without": [
-      "To learn more about Smartsheet Regions, click here.",
-      "Help Center | Community | University | Go to Smartsheet.com",
-      "Was this article helpful? Yes No",
+      "Help Center",
+      "Documentation",
+      "Smartsheet University",
       "©2025. All Rights Reserved Smartsheet Inc.",
-      "Download desktop app"
-    ]
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 27,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://i.ytimg.com/vi/_7bQQ0gYaH4/maxresdefault.jpg",
+          "filename": "maxresdefault.jpg",
+          "alt": null,
+          "caption": "Project Management Tutorial",
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn.bfldr.com/NB5M6M91/at/67wmpcch4cq4p4n5cptm77/Project_Settings_Gantt_View.jpg",
+          "filename": "Project_Settings_Gantt_View.jpg",
+          "alt": "Dependency settings in the Project Settings dialog",
+          "caption": "Dependency settings in the Project Settings dialog",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.bfldr.com/NB5M6M91/at/9p2sjw6jxpqg4v4vcct74g9q/Edit_Gantt_timescale_settings.jpg",
+          "filename": "Edit_Gantt_timescale_settings.jpg",
+          "alt": "Project Settings",
+          "caption": "Project Settings",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.bfldr.com/NB5M6M91/at/pvwz7c4mgvswtrkqt3qt86c/Milestone_symbol_in_timeline.jpg",
+          "filename": "Milestone_symbol_in_timeline.jpg",
+          "alt": "Milestone diamond symbol in timeline view",
+          "caption": "Milestone diamond symbol in timeline view",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:05:55.819002"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:30:23.029668"
 }

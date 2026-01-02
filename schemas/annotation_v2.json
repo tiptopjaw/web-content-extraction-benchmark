@@ -1,0 +1,153 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "annotation_v2.json",
+  "title": "Web Content Extraction Benchmark Annotation v2",
+  "description": "Schema for ground truth annotations with image extraction support",
+  "type": "object",
+  "required": ["schema_version", "url", "file_id", "ground_truth", "model", "annotated_at"],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "2.0",
+      "description": "Schema version identifier"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Original URL of the web page"
+    },
+    "file_id": {
+      "type": "string",
+      "pattern": "^[0-9]{4}$",
+      "description": "4-digit file identifier (e.g., '0001')"
+    },
+    "_internal": {
+      "type": "object",
+      "description": "Internal metadata - stripped before public release",
+      "properties": {
+        "page_type": {
+          "type": "object",
+          "required": ["primary", "confidence", "needs_review"],
+          "properties": {
+            "primary": {
+              "type": "string",
+              "enum": ["article", "product", "collection", "service", "documentation", "recipe", "review", "forum", "directory", "homepage", "other"],
+              "description": "Primary page classification"
+            },
+            "confidence": {
+              "type": "string",
+              "enum": ["high", "medium", "low"],
+              "description": "Classification confidence level"
+            },
+            "needs_review": {
+              "type": "boolean",
+              "description": "Flag for manual review when confidence is low"
+            },
+            "review_reason": {
+              "type": ["string", "null"],
+              "description": "Explanation when needs_review is true"
+            },
+            "tags": {
+              "type": "array",
+              "items": {"type": "string"},
+              "description": "Additional descriptive tags"
+            }
+          }
+        }
+      }
+    },
+    "ground_truth": {
+      "type": "object",
+      "required": ["title", "main_content", "with", "without", "images"],
+      "properties": {
+        "title": {
+          "type": ["string", "null"],
+          "description": "Page title"
+        },
+        "author": {
+          "type": ["string", "null"],
+          "description": "Content author"
+        },
+        "publish_date": {
+          "type": ["string", "null"],
+          "description": "Publication date (ISO format preferred)"
+        },
+        "main_content": {
+          "type": "string",
+          "minLength": 100,
+          "description": "Primary text content of the page"
+        },
+        "with": {
+          "type": "array",
+          "items": {"type": "string"},
+          "minItems": 5,
+          "maxItems": 5,
+          "description": "5 sentences that MUST be in any good extraction"
+        },
+        "without": {
+          "type": "array",
+          "items": {"type": "string"},
+          "minItems": 5,
+          "maxItems": 5,
+          "description": "5 items that should NOT be extracted (boilerplate)"
+        },
+        "images": {
+          "type": "object",
+          "required": ["total_in_content", "annotated_count", "items"],
+          "properties": {
+            "total_in_content": {
+              "type": "integer",
+              "minimum": 0,
+              "description": "Total number of content images found in page"
+            },
+            "annotated_count": {
+              "type": "integer",
+              "minimum": 0,
+              "maximum": 10,
+              "description": "Number of images annotated (max 10)"
+            },
+            "items": {
+              "type": "array",
+              "maxItems": 10,
+              "items": {
+                "type": "object",
+                "required": ["src", "filename", "is_hero"],
+                "properties": {
+                  "src": {
+                    "type": "string",
+                    "description": "Full image URL (use data-src for lazy-loaded)"
+                  },
+                  "filename": {
+                    "type": "string",
+                    "description": "Image filename for matching"
+                  },
+                  "alt": {
+                    "type": ["string", "null"],
+                    "description": "Alt text attribute"
+                  },
+                  "caption": {
+                    "type": ["string", "null"],
+                    "description": "Caption from figcaption or adjacent text"
+                  },
+                  "is_hero": {
+                    "type": "boolean",
+                    "description": "True if this is the main/hero image"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "model": {
+      "type": "string",
+      "description": "LLM model used for annotation"
+    },
+    "annotated_at": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Annotation timestamp (ISO 8601)"
+    }
+  }
+}

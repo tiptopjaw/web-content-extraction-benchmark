@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://abseil.io/fast/hints",
+  "file_id": "2511",
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "guide",
+        "performance",
+        "c++"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Performance Hints",
+    "author": "Jeff Dean, Sanjay Ghemawat",
+    "publish_date": "2023-07-27",
+    "main_content": "Over the years, we (Jeff & Sanjay) have done a fair bit of diving into performance tuning of various pieces of code, and improving the performance of our software has been important from the very earliest days of Google, since it lets us do more for more users. We wrote this document as a way of identifying some general principles and specific techniques that we use when doing this sort of work, and tried to pick illustrative source code changes (change lists, or CLs) that provide examples of the various approaches and techniques. Most of the concrete suggestions below reference C++ types and CLs, but the general principles apply to other languages. The document focuses on general performance tuning in the context of a single binary, and does not cover distributed systems or machine learning (ML) hardware performance tuning (huge areas unto themselves). We hope others will find this useful. The importance of thinking about performance: Knuth is often quoted out of context as saying 'premature optimization is the root of all evil'. The full quote reads: 'We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.' This document is about that critical 3%. Estimation: If you can develop an intuition for how much performance might matter in the code you are writing, you can make a more informed decision. The document provides a table of rough costs for basic low-level operations including L1 cache reference (0.5 ns), L2 cache reference (3 ns), Main memory reference (50 ns), Disk seek (5,000,000 ns), and more. Measurement: Being able to measure things effectively is the number one tool you'll want to have in your arsenal when doing performance-related work. API considerations: Some of the techniques suggested below require changing data structures and function signatures, which may be disruptive to callers. Try to organize code so that the suggested performance improvements can be made inside an encapsulation boundary without affecting public interfaces. Algorithmic improvements: The most critical opportunities for performance improvements come from algorithmic improvements, e.g., turning an O(N²) algorithm to O(N lg(N)) or O(N), avoiding potentially exponential behavior, etc. Better memory representation: Careful consideration of memory footprint and cache footprint of important data structures can often yield big savings. Reduce allocations: Memory allocation adds costs: it increases the time spent in the allocator, newly-allocated objects may require expensive initialization, and every allocation tends to be on a new cache line. Avoid unnecessary work: Perhaps one of the most effective categories of improving performance is avoiding work you don't have to do. This can take many forms, including creating specialized paths through code for common cases that avoid more general expensive computation, precomputation, deferring work until it is really needed, hoisting work into less-frequently executed pieces of code, and other similar approaches.",
+    "with": [
+      "Over the years, we (Jeff & Sanjay) have done a fair bit of diving into performance tuning of various pieces of code, and improving the performance of our software has been important from the very earliest days of Google.",
+      "Knuth is often quoted out of context as saying 'premature optimization is the root of all evil'. The full quote reads: 'We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil.'",
+      "Being able to measure things effectively is the number one tool you'll want to have in your arsenal when doing performance-related work.",
+      "The most critical opportunities for performance improvements come from algorithmic improvements, e.g., turning an O(N²) algorithm to O(N lg(N)) or O(N), avoiding potentially exponential behavior, etc.",
+      "Memory allocation adds costs: it increases the time spent in the allocator, newly-allocated objects may require expensive initialization, and every allocation tends to be on a new cache line."
+    ],
+    "without": [
+      "Toggle navigation",
+      "Copyright 2025 Abseil",
+      "Privacy Policy",
+      "Bootstrap navbar toggle button",
+      "Subscribe to newsletter signup form"
+    ],
+    "images": {
+      "total_in_content": 2,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:34:17.988809"
+}

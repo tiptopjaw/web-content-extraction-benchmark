@@ -1,0 +1,68 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.inria.fr/en/internet-of-things",
+  "file_id": "2785",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "research",
+        "internet-of-things",
+        "inria"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Internet of Things | Inria",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The Internet of Things (IoT) is the interconnection between the Internet and objects, places and physical environments. It assigns a unique digital identity to objects, places and even environmental phenomena (a sudden rise in temperature, a volcanic eruption, a deterioration in air or water quality), giving them a life in the digital world. It is made up of \"objects\", means of communication, servers and various entities capable of processing, storing and restoring data related to \"objects\". The objects are very diverse. They can be composed of any everyday object to which an identifier has been assigned or any \"sensor\" and are connected to the Internet via communication technologies that are just as varied, ranging from a wired connection to any type of short-range wireless communication (Wi-Fi, Bluetooth) or long-range such as 5G. Connected objects and other sensor networks enable the capture, transmission and collection of a wide range of data, which is used in an ever-increasing number of applications, from precision agriculture to logistics, including smart cities. These applications face many challenges in terms of hardware and software. The objects are materially constrained (limited memory and computing capacity), they rely on batteries with limited energy and are potentially mobile. If they communicate wirelessly, data transmission is also a challenge, as bandwidth is limited and nearby objects can potentially interfere with each other if they communicate on the same frequencies at the same time. How to make more and more different objects communicate, following different mobility patterns (trajectory, speed, etc.) using different technologies with a minimum of energy? What data should be transmitted to whom, when and how so that it makes sense and that its transmission does not consume too much energy or bandwidth? How to ensure the security of the data and these objects and guarantee privacy? And finally, what to do with these data? How to store, process and share it efficiently? These last challenges are linked to data science, artificial intelligence and high performance computing.",
+    "with": [
+      "The Internet of Things (IoT) is the interconnection between the Internet and objects, places and physical environments.",
+      "It assigns a unique digital identity to objects, places and even environmental phenomena, giving them a life in the digital world.",
+      "Connected objects and other sensor networks enable the capture, transmission and collection of a wide range of data.",
+      "The objects are materially constrained (limited memory and computing capacity), they rely on batteries with limited energy and are potentially mobile.",
+      "These last challenges are linked to data science, artificial intelligence and high performance computing."
+    ],
+    "without": [
+      "Skip to main content",
+      "All content about Internet of Things",
+      "Follow us | Inria",
+      "Sitemap | Inria",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 6,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "/sites/default/files/2021-09/Inria-IoT.jpg",
+          "filename": "Inria-IoT.jpg",
+          "alt": "puces rfid",
+          "caption": "© Inria / Photo C. Morel",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/2025-02/A_iot_objet_internet_1827x1026IoT.png",
+          "filename": "A_iot_objet_internet_1827x1026IoT.png",
+          "alt": "Illustration des objets connectés (IoT) comme par exemple son smartphone, maison connectée avec l'électroménager, etc.",
+          "caption": "© Adobe Stock / Irina Strelnikova",
+          "is_hero": true
+        },
+        {
+          "src": "/sites/default/files/2021-09/A_Inria-0206-021_livre-blanc-vehicules-autonomes-connectes-robotique-transport_1826x1027.jpg",
+          "filename": "A_Inria-0206-021_livre-blanc-vehicules-autonomes-connectes-robotique-transport_1826x1027.jpg",
+          "alt": "Véhicules, plateformes robotisées de l'équipe RITS ",
+          "caption": "© Inria / Photo H. Raguet",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:55:25.001897"
+}

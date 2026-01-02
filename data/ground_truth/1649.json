@@ -1,0 +1,44 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.tiktok.com/@iamezinma/video/7507654289062399262",
+  "file_id": "1649",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "social media",
+        "platform"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "TikTok - Make Your Day",
+    "author": null,
+    "publish_date": null,
+    "main_content": "",
+    "with": [
+      "TikTok - Make Your Day",
+      "data-csr=\"1\"",
+      "min-height: 100vh",
+      "display: flex",
+      "flex-direction: column"
+    ],
+    "without": [
+      "Navigation menu",
+      "Footer links",
+      "Subscribe button",
+      "Cookie notice",
+      "Privacy Policy link"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:39:10.051148"
+}

@@ -1,27 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.accountingverse.com/accounting-basics/",
   "file_id": "1284",
-  "downloaded_at": "2025-12-20T21:41:02.177949",
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "accounting",
+        "course",
+        "tutorial"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Accounting Basics: Accounting 101",
+    "title": "Accounting 101: The Basics - Accountingverse",
     "author": null,
-    "publish_date": "2022-01-01",
-    "main_content": "Accounting Basics. Easy to understand lessons of basic accounting presented in a comprehensive way to help build and solidify your knowledge of accounting fundamentals. This course offers free online tutorials on accounting basics. It aims to build and solidify one's knowledge of the foundations which are vital in building a career in accounting & finance or in managing a small business. The lessons here will serve as a primer for beginners and a refresher for those who already have some accounting background. Accounting is known as the language of business. Through a series of steps known as accounting cycle, it gathers information about business transactions, and collates and summarizes them to generate reports for a business entity.\n\nChapter 1: Introduction to Accounting\nThis chapter provides a fresh look into accounting. We will define accounting and break the definition down into simple points; learn about the role of accounting in the financial world, its branches, areas of accounting practice, and the types and forms of business.\n\nChapter 2: Fundamental Accounting Concepts\nThis chapter covers the core concepts in accounting that you need to know before moving on to the more intricate topics. The concepts here will serve as the foundation upon which your accounting knowledge will build upon.\n\nChapter 3: The Financial Statements\nThe preparation of the financial statements is the seventh step in the 9-step accounting cycle. However, we decided to present this first before getting into the whole process for you to have a picture of what we are trying to produce in an accounting system.\n\nChapter 4: Analyzing, Recording, and Classifying\nThis chapter deals with the first 4 steps of the 9-step accounting cycle. The first four steps actually represent the analyzing, recording, and classifying phases of accounting.\n\nChapter 5: Adjusting Entries\nAdjusting entries are made to update the accounts in the accounting system. Some accounts are not up-to-date hence requiring adjustments to get them to their correct balances. Adjusting entries are made for accrual of income, accrual of expense, deferrals, prepayments, depreciation, and allowances.\n\nChapter 6: How to Prepare Financial Statements\nMost businesses today have automated accounting systems. Financial statements can be prepared with a few clicks of a button. However, as accountants, we need to know how to prepare them manually and make it a part of our system. We will also be able to interpret and analyze financial statements better.\n\nChapter 7: Closing Entries\nClosing journal entries are made at year-end to prepare temporary or nominal accounts for the next accounting period. The amounts of nominal accounts in one period should be closed or brought to zero so that they won't be mixed with those of the next period.\n\nChapter 8: Post-Closing Trial Balance\nThe last step in the accounting cycle is to prepare a post-closing trial balance. A post-closing trial balance is prepared after closing entries are made and posted to the ledger. It is the third trial balance in the accounting cycle.\n\nChapter 9: Reversing Entries\nPreparing reversing entries is an optional step in the accounting cycle. Reversing entries are made at the beginning of the new accounting period to enable a smoother accounting process.",
+    "publish_date": null,
+    "main_content": "Accounting is known as the language of business. Through a series of steps known as accounting cycle, it gathers information about business transactions, and collates and summarizes them to generate reports for a business entity. This course offers free online tutorials on accounting basics. It aims to build and solidify one's knowledge of the foundations which are vital in building a career in accounting & finance or in managing a small business. The lessons here will serve as a primer for beginners and a refresher for those who already have some accounting background. The course covers nine chapters: Introduction to Accounting covering definition, users, types and business forms; Fundamental Accounting Concepts including the accounting equation, double-entry system and accounting cycle; The Financial Statements covering income statement, balance sheet, cash flow and owner's equity; Analyzing, Recording, and Classifying covering business transactions, debits/credits, chart of accounts and journal entries; Adjusting Entries for accruals, deferrals, depreciation and allowances; How to Prepare Financial Statements; Closing Entries; Post-Closing Trial Balance; and Reversing Entries.",
     "with": [
-      "Accounting is known as the language of business. Through a series of steps known as accounting cycle, it gathers information about business transactions, and collates and summarizes them to generate reports for a business entity.",
-      "This course offers free online tutorials on accounting basics. It aims to build and solidify one's knowledge of the foundations which are vital in building a career in accounting & finance or in managing a small business.",
-      "The lessons here will serve as a primer for beginners and a refresher for those who already have some accounting background.",
-      "This chapter provides a fresh look into accounting. We will define accounting and break the definition down into simple points; learn about the role of accounting in the financial world, its branches, areas of accounting practice, and the types and forms of business.",
-      "This chapter covers the core concepts in accounting that you need to know before moving on to the more intricate topics. The concepts here will serve as the foundation upon which your accounting knowledge will build upon."
+      "Accounting is known as the language of business.",
+      "Through a series of steps known as accounting cycle, it gathers information about business transactions, and collates and summarizes them to generate reports for a business entity.",
+      "This course offers free online tutorials on accounting basics.",
+      "It aims to build and solidify one's knowledge of the foundations which are vital in building a career in accounting & finance or in managing a small business.",
+      "The lessons here will serve as a primer for beginners and a refresher for those who already have some accounting background."
     ],
     "without": [
-      "For All Things Accounting.",
-      "✓ Checked for updates, Accountingverse.com",
-      "Like and share!",
-      "Your Online Resource For All Things Accounting\nBased on international financial reporting standards, \nand with references to US or local GAAP as needed\nCopyright © 2010-2022",
-      "Quick Links\nAccounting Basics\nFinancial Accounting\nManagerial Accounting\nAccounting Dictionary"
-    ]
+      "Copyright © 2010-2022",
+      "Terms of Use | Privacy Policy",
+      "Courses > Basics > Financial > Managerial > Dictionary > Misc",
+      "Ezoic ad placeholder elements",
+      "Like and share social media buttons"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:41:02.177956"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:25:29.703296"
 }

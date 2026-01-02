@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.rhs.org.uk/advice/beginners-guide",
+  "file_id": "1680",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "gardening",
+        "guide",
+        "beginners",
+        "RHS",
+        "how-to"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Beginner's guide to gardening",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Beginner's guide to gardening. Just a little know-how will soon have you reaping gardening rewards. Start small and use our advice and step-by-step guides to help you get started. Planning your garden. Browse the top gardening jobs this month online and on our app. Beginner gardening inspiration. Discover our ideas to help you decide what will work for your lifestyle. Getting started. Explore our advice to help you assess your space and develop an understanding of your plot. Caring for your garden. Find out how and when to maintain and care for your garden. Choosing plants. Explore our advice to help you choose plants that will thrive in your garden. Get growing. Follow our handy tips and simple step-by-step instructions and get your garden thriving. Growing edibles. Not sure what to grow or where to start? We have all the tips and advice you need. RHS Grow app: Download the app to identify plants, keep track of the plants you have, receive care tips, and get help and advice. Gardening jobs for this month: Find out what you can do in your garden right now. Topics include: Debunking gardening myths, budget-friendly garden design, bringing colour into your garden, creating your garden plan, getting to know your garden, composting, identifying common weeds, lawn care, award-winning flowering trees, plant types, propagation, sowing seeds indoors and outdoors, growing vegetables in containers, and allotment basics.",
+    "with": [
+      "Just a little know-how will soon have you reaping gardening rewards. Start small and use our advice and step-by-step guides to help you get started.",
+      "Download the app to identify plants, keep track of the plants you have, receive care tips, and get help and advice.",
+      "Find out what you can do in your garden right now.",
+      "Discover our ideas to help you decide what will work for your lifestyle.",
+      "Explore our advice to help you assess your space and develop an understanding of your plot."
+    ],
+    "without": [
+      "Become a member",
+      "Search all advice",
+      "Join the RHS",
+      "Gardening with the RHS",
+      "Find a plant"
+    ],
+    "images": {
+      "total_in_content": 38,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "/getmedia/1e2d3269-7219-46ef-9093-472720d96a93/dig.jpg?width=940&height=627&ext=.jpg",
+          "filename": "dig.jpg",
+          "alt": null,
+          "caption": "Debunking the top five gardening myths",
+          "is_hero": false
+        },
+        {
+          "src": "/getmedia/82a10975-4f28-48f1-9c01-ac9f24b35430/Floral-Fantasia-bedding-display.jpg?width=940&height=627&ext=.jpg",
+          "filename": "Floral-Fantasia-bedding-display.jpg",
+          "alt": null,
+          "caption": "Bring colour into your garden",
+          "is_hero": false
+        },
+        {
+          "src": "/getmedia/d305d87b-ff07-486a-92a8-c77b4a572d33/AdamFrost-assessing-940x627.jpg?width=940&height=627&ext=.jpg",
+          "filename": "AdamFrost-assessing-940x627.jpg",
+          "alt": null,
+          "caption": "Get to know your garden - assess your site",
+          "is_hero": false
+        },
+        {
+          "src": "/getmedia/b6ad8146-b35b-4adc-bca8-25af894ab81f/Compost3_940x627.jpg?width=940&height=627&ext=.jpg",
+          "filename": "Compost3_940x627.jpg",
+          "alt": null,
+          "caption": "Composting basics",
+          "is_hero": false
+        },
+        {
+          "src": "/getmedia/b8721cf0-311f-4c0f-91fd-c735ae0acd9a/sowing-seeds-into-coir-pots.jpg",
+          "filename": "sowing-seeds-into-coir-pots.jpg",
+          "alt": null,
+          "caption": "Sowing seeds into coir pots",
+          "is_hero": true
+        },
+        {
+          "src": "/getmedia/95C5FE33-CA82-4946-AC96-902C2B2EEC60/PUB0009083_915281?width=432&height=288&ext=.jpg",
+          "filename": "PUB0009083_915281",
+          "alt": null,
+          "caption": "Growing vegetables in containers",
+          "is_hero": false
+        },
+        {
+          "src": "/getmedia/1b91b371-5a92-4286-ad14-c7fcd1da991d/Web-Use-RHS_REDHILL_ALLOTMENTS_004.jpg",
+          "filename": "Web-Use-RHS_REDHILL_ALLOTMENTS_004.jpg",
+          "alt": null,
+          "caption": "Allotments",
+          "is_hero": false
+        },
+        {
+          "src": "/getmedia/413cacf6-ef61-4980-9ba0-39016893cfb8/allotment-header.jpg",
+          "filename": "allotment-header.jpg",
+          "alt": null,
+          "caption": "Allotment basics",
+          "is_hero": false
+        },
+        {
+          "src": "/getmedia/1b63c7d7-62ab-4887-b989-f694d94b2500/how-to-propagate-plants-and-save-money.jpg?width=940&height=627&ext=.jpg",
+          "filename": "how-to-propagate-plants-and-save-money.jpg",
+          "alt": "How to propagate plants and save money",
+          "caption": "How to propagate plants and save money",
+          "is_hero": false
+        },
+        {
+          "src": "/getmedia/648de598-bfff-4f01-be60-064949216d1b/how-to-sow-seeds.jpg?width=940&height=627&ext=.jpg",
+          "filename": "how-to-sow-seeds.jpg",
+          "alt": "How to sow seeds",
+          "caption": "How to sow seeds",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:46:46.315826"
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://blog.rust-lang.org/2025/12/19/what-do-people-love-about-rust",
+  "file_id": "2340",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "rust",
+        "programming-language",
+        "community"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "What do people love about Rust?",
+    "author": "Niko Matsakis",
+    "publish_date": "2025-12-19",
+    "main_content": "Rust has been named Stack Overflow's Most Loved (now called Most Admired) language every year since our 1.0 release in 2015. When we sat down to crunch the vision doc data, one of the things we really wanted to explain was: What is it that inspires that strong loyalty to Rust? Based on the interviews, the answer is at once simple and complicated. The short version is that Rust empowers them to write reliable and efficient software. The first thing we noticed is that, throughout every conversation, no matter whether someone is writing their first Rust program or has been using it for years, no matter whether they're building massive data clusters or embedded devices or just messing around, there are a consistent set of things that they say they like about Rust. The first is reliability. People love that 'if it compiles, it works' feeling. Another, of course, is efficiency. This comes up in particular at the extremes, both very large scale (data centers) and very small scale (embedded). Many people cite the importance of Rust's supportive tooling, which helps them get up and going quickly, and in particular the compiler's error messages. Finally, one of Rust's most important virtues is its extensibility. Both in the language itself and through the crates.io ecosystem, Rust is designed to let end-users create libraries and abstractions that meet their needs. Reliability, efficiency, tooling, ecosystem—these are all things that people appreciate about Rust. But what they love isn't any one of those things. It's the way the combination makes Rust a trusted, versatile tool that you can bring to virtually any problem. Take away the reliability, and you don't trust it: you're second-guessing every deployment, afraid to refactor, hesitant to let junior developers touch the critical paths. Take away the efficiency and low-level control, and there are places you can't go: embedded systems, real-time applications, anywhere that cost-per-cycle matters. Take away the tooling and ecosystem, and you can't get started: or you can, but it's a slog, and you never feel productive. When all these pieces come together, something interesting happens: Rust becomes a gateway into domains that would otherwise be inaccessible. Each of Rust's attributes are necessary for versatility across domains. But when taken too far, or when other attributes are missing, they can become an obstacle. We recommend creating an RFC that defines the goals we are shooting for as we work on Rust. We recommend doubling down on extensibility as a core strategy. Rust's extensibility has been key to its versatility. We recommend finding ways to help users navigate the crates.io ecosystem. What people love about Rust is the way it empowers them to tackle tough problems and new domains.",
+    "with": [
+      "Rust has been named Stack Overflow's Most Loved (now called Most Admired) language every year since our 1.0 release in 2015.",
+      "Based on the interviews, the answer is at once simple and complicated. The short version is that Rust empowers them to write reliable and efficient software.",
+      "The first is reliability. People love that 'if it compiles, it works' feeling.",
+      "Another, of course, is efficiency. This comes up in particular at the extremes, both very large scale (data centers) and very small scale (embedded).",
+      "When all these pieces come together, something interesting happens: Rust becomes a gateway into domains that would otherwise be inaccessible."
+    ],
+    "without": [
+      "Rust Blog",
+      "Dec. 19, 2025 · Niko Matsakis on behalf of Vision Doc group",
+      "Documentation | Contact the Rust Team | Code of Conduct | Licenses",
+      "Mastodon | Bluesky | YouTube | Discord | GitHub icons",
+      "Maintained by the Rust Team. See a typo? Send a fix here!"
+    ],
+    "images": {
+      "total_in_content": 6,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:43:38.583834"
+}

@@ -1,27 +1,68 @@
 {
+  "schema_version": "2.0",
   "url": "https://pages.marketintelligence.spglobal.com/2025-top-pc-insurance-company-performance-rankings.html",
   "file_id": "1745",
-  "downloaded_at": "2025-12-20T22:34:07.867977",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "medium",
+      "needs_review": false,
+      "review_reason": "Page combines article content about insurance rankings with marketing/landing page elements",
+      "tags": [
+        "insurance",
+        "rankings",
+        "financial",
+        "data-analytics"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "2025 Top P&C Insurance Company Performance Rankings - Infographic",
     "author": null,
     "publish_date": null,
-    "main_content": "Each year, S&P Global Market Intelligence releases a series of performance rankings for property and casualty insurance companies based in the United States. These rankings evaluate the performance of the top 100 net written premium writers for the previous year (2024). Furthermore, we provide distinct rankings for companies focused on personal lines and commercial lines within this same group of 100 companies.\n\nDiscover Unique Insights. Visualize Opportunities. Fuel Your Insurance Workflow. That's the Power of S&P Capital IQ Pro.\n\nMaking smart decisions to stay ahead of the market has never been more important. Unlock a world of insurance opportunities with asset-level data, custom mapping solutions, company financials, in-depth research, and essential news coverage.",
+    "main_content": "Each year, S&P Global Market Intelligence releases a series of performance rankings for property and casualty insurance companies based in the United States. These rankings evaluate the performance of the top 100 net written premium writers for the previous year (2024). Furthermore, we provide distinct rankings for companies focused on personal lines and commercial lines within this same group of 100 companies. If you are a client, you can access the full article, rankings, and template on S&P Capital IQ Pro. Discover Unique Insights. Visualize Opportunities. Fuel Your Insurance Workflow. That's the Power of S&P Capital IQ Pro. Making smart decisions to stay ahead of the market has never been more important. Unlock a world of insurance opportunities with asset-level data, custom mapping solutions, company financials, in-depth research, and essential news coverage.",
     "with": [
       "Each year, S&P Global Market Intelligence releases a series of performance rankings for property and casualty insurance companies based in the United States.",
       "These rankings evaluate the performance of the top 100 net written premium writers for the previous year (2024).",
       "Furthermore, we provide distinct rankings for companies focused on personal lines and commercial lines within this same group of 100 companies.",
-      "Discover Unique Insights. Visualize Opportunities. Fuel Your Insurance Workflow. That's the Power of S&P Capital IQ Pro.",
-      "Making smart decisions to stay ahead of the market has never been more important. Unlock a world of insurance opportunities with asset-level data, custom mapping solutions, company financials, in-depth research, and essential news coverage."
+      "Discover Unique Insights. Visualize Opportunities. Fuel Your Insurance Workflow.",
+      "Unlock a world of insurance opportunities with asset-level data, custom mapping solutions, company financials, in-depth research, and essential news coverage."
     ],
     "without": [
-      "Discover more about S&P Global's offerings",
-      "Featured Index TV",
-      "451 Research Generative AI Market Monitor",
-      "Register",
-      "Privacy Policy | Cookie Notice | Terms of Use | Do Not Sell My Personal Information"
-    ]
+      "S&P Global Market Intelligence dropdown navigation",
+      "Social media icons (Twitter, Facebook, Instagram, LinkedIn, YouTube)",
+      "Cookie Notice, Privacy Policy, Terms of Use links",
+      "2025 S&P Global Inc. All rights reserved footer",
+      "Register for demo form fields"
+    ],
+    "images": {
+      "total_in_content": 14,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://pages.marketintelligence.spglobal.com/rs/565-BDO-100/images/MI-Image-Buildings-750x288-231207.png",
+          "filename": "MI-Image-Buildings-750x288-231207.png",
+          "alt": "Hero Card Banner Image",
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://pages.marketintelligence.spglobal.com/rs/565-BDO-100/images/MI-Image-Highway-360x240-231207.png",
+          "filename": "MI-Image-Highway-360x240-231207.png",
+          "alt": "Banner Card Img",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://pages.marketintelligence.spglobal.com/rs/565-BDO-100/images/Global-Insurance-Solutions.png",
+          "filename": "Global-Insurance-Solutions.png",
+          "alt": "Global-Insurance-Solutions.png",
+          "caption": "Global Insurance Solutions",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:34:07.867983"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:07:06.924157"
 }

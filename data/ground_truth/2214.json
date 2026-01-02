@@ -1,27 +1,118 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.worldbank.org/en/programs/icp/brief/foodpricesfornutrition",
   "file_id": "2214",
-  "downloaded_at": "2025-12-20T23:51:15.181980",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "medium",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "data",
+        "nutrition",
+        "world-bank",
+        "research",
+        "global-health"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Food Prices for Nutrition DataHub: global statistics on the Cost and Affordability of Healthy Diets",
     "author": null,
     "publish_date": null,
-    "main_content": "The Food Prices for Nutrition DataHub provides access to global statistics on the cost and affordability of healthy diets and related indicators. These data use food item availability and prices from the International Comparison Program (ICP), combined with food composition data and nutritional requirements from a wide range of sources including the Healthy Diet Basket based on national dietary guidelines.\n\nThe 42 indicators and their metadata cover:\n\nDiet cost\n\nCost of a healthy diet, per person per day\nCost of an energy sufficient diet and a nutrient adequate diet, per person per day\nCost per person per day, cost share, and cost relative to starchy staples of different food groups \n\nDiet affordability\n\nPrevalence of unaffordability and number of people unable to afford each diet\nRatio of each diet cost to observed national average food expenditures\nRatio of each diet cost to the food component of the international poverty lines as defined by the World Bank's income group classification\n\nFor further information on definitions and methods please refer to Methodology. \n\n[ Back to page top ] \n\nDATA HIGHLIGHTS\n\nGlobal improvement, uneven progress: Access to healthy diets is improving worldwide, but large regional disparities remain.\n2024 global cost: The average cost of a healthy diet reached $4.46 per person per day (PPP) in 2024.\nGlobal affordability: Around 2.6 billion people could not afford a healthy diet in 2024, 48.8 million fewer than in 2023.\nRegional challenges:\nSub-Saharan Africa and low-income countries faced two consecutive years of worsening affordability since 2022.\nFood inflation in these regions has eased only marginally, leaving diet costs near record highs.\nA somewhat worsening trend has also been observed in the Middle East and North Africa, Afghanistan and Pakistan region.\nThe cost of each of the six food groups making up the cost of a healthy diet in 2021 is also provided.\nThe most expensive food group is animal-sourced foods, priced on average at $1.00 for the daily quantity needed in a healthy diet. The highest cost is in low-income countries at $1.31 and in Sub-Saharan Africa at $1.22.\nVegetables are the second most expensive at $0.76 globally, with Latin America & Caribbean having the highest cost of $1.02.\nFruits cost $0.67 on average, and East Asia and Pacific has the highest cost of $0.95.\n\n[ Back to page top ] \n\nFood Prices for Nutrition was established to provide governments and development agencies with accurate and updated metrics to inform agricultural, food systems, social protection, and health and nutrition interventions. \n\nFood Prices for Nutrition's outputs – indicators of the cost and affordability of diets and food groups and data for over 170 countries - use observed consumer prices and household expenditures to provide an operational measure of people’s access to locally available foods in the proportions needed for health.\n\nThe cost and affordability (CoAHD) indicators developed by Food Prices for Nutrition underlie the estimates published in United Nations' 2020 report The State of Food Security and Nutrition in the World (SOFI) that over 3 billion – or two in five people on the planet - could not afford a healthy diet in 2017. These data were used to frame the 2021 UN Food System Summit summary and statement of action. Ongoing global food inflation and supply shocks further underscore the need for timely data on the cost and affordability of healthy diets and nutritious food items and groups. The Food Prices for Nutrition Datahub, as the authoritative source for internationally standardized statistics, indicators, and granular data, meets this need for a global cohort of policy makers, development analysts, and other users.\n\nSince 2022, in close collaboration with Food Prices for Nutrition global partners, the World Bank and the Food and Agriculture Organization (FAO) have led the methodological improvement for these indicators, and systematically monitor and disseminate the data series. The latest data and estimates reported in the SOFI 2025 report show that the total number of people unable to afford a healthy diet in 2024 was around about 2.6 billion, about one third of the global population. This is a reduction in the global prevalence of unnaffordability following the peak of the COVID-19 pandemic in 2020. However, the recovery has been uneven, with a worsening trend in low-income countries and the sub-Saharan African region.\n\nFood Prices for Nutrition supports efforts within the framework of the Sustainable Development Goals (SDGs) to end hunger, achieve food security and improved nutrition, and promote sustainable agriculture by 2030 (SDG 2). It can also support the monitoring of progress towards the World Bank’s objective of building food systems that can feed everyone, everywhere, every day by promoting “nutrition-sensitive agriculture” and improving food safety. \n\n[ Back to page top ]\n\n \n\nThe Food Prices for Nutrition DataHub's diet cost and affordability indicators use the least cost combination of locally available foods to meet the needs of a representative adult requiring 2,330 kcal per day at three levels of diet quality: a healthy diet; a nutrient adequate diet; and an energy sufficient diet. \n\n[ Back to page top ]\n\n \n\nCOST INDICATORS\n\nCost of a Healthy Diet: A healthy diet meets nutritional standards set by dietary guidelines, with sufficient diversity and quantity within and between food groups to achieve nutrient adequacy and protect against diet-related diseases. To measure access and affordability, the cost of meeting food-based dietary guidelines is computed using the least expensive foods available in each category at each place and time (see \"Methods and options to monitor the cost and affordability of a healthy diet globally\", \"Methods for monitoring the cost of a healthy diet based on price data from the International Comparison Program”  and \"Brief note: Methods and data sources\" (Herforth et al. 2024). The cost of a healthy diet is the preferred indicator of diet costs as it uses the most affordable foods available at local markets to meet dietary needs for an active and healthy life, using standards adopted by national governments around the world. Total cost per day can be disaggregated by food group, showing the cost per day of the least expensive locally available items in each food group (fruits; vegetables; starchy staples; animal-source foods; legumes, nuts, and seeds; and oils and fats)\n\nCost of a Nutrient Adequate Diet: A nutrient adequate diet meets all essential nutrient requirements, with sufficient diversity and quantity of locally available foods to stay within the upper and lower bounds for total protein, fats, and carbohydrates as well as essential vitamins and minerals required to avoid nutrient deficiencies or toxicity. Computation of the least-cost nutrient adequate diet requires linear programming optimization modeling, and is based on nutrient requirements only, rather than food groups specified in dietary guidelines.\n\nCost of an Energy Sufficient Diet: An energy sufficient diet provides enough of a starchy staple food for day-to-day subsistence, without either nutrient adequacy or adherence to dietary guidelines. The least-cost version of this subsistence diet uses the most affordable locally available starchy staple, achieving energy balance but not nutrient adequacy or other dietary needs.\n\nFor each of the diets listed above, costs per day are based on requirements for a median adult woman aged 19-30 in a healthy population as defined by the World Health Organization. For the Cost of a Nutrient Adequate Diet and the Cost an Energy Sufficient Diet, please refer to the Food Policy article “Cost and affordability of nutritious diets at retail prices: Evidence from 177 countries” (Bai et al. 2021).  Information on the variation in the cost of nutrient adequacy by age, sex and reproductive status can be found in the Lancet article \"Global variation in the cost of a nutrient-adequate diet by population group: an observational study\" (Bai, Herforth and Masters 2022).\n\n[ Back to page top ]\n\n \n\nAFFORDABILITY INDICATORS\n\nThe affordability of each diet is measured by comparing diet costs to available income and four affordability metrics for each level of diet quality are calculated. According to an updated method applied in 2024, the first three indicators rely on the food expenditure share and basic non-food expenditure share of low-income consumers by countries’ income group classification, based on recent household survey data compiled by the World Bank. This updated method was also used for The State of Food Security and Nutrition in the World (SOFI) 2024 report. The fourth metric uses actual food expenditure. The metrics available are:\n\nThe prevalence of unaffordability (PUA) of each level of diet quality, using household income or expenditure data for each country from the World Bank’s Poverty and Inequality Platform.\n\nThe number of people unable to afford (NUA) each level of diet quality, using the prevalence of unaffordability multiplied by the total population in each country.\n\nThe ratio of a country’s diet cost to the food component of the international poverty line, with the food component defined as the food expenditure share of low-income consumers multiplied by international poverty lines by countries’ income group classification. \n\nThe ratio of a country’s diet costs to observed food expenditures per capita per day from national accounts, as reported by the International Comparison Program.\n\n[ Back to page top ]",
+    "main_content": "The Food Prices for Nutrition DataHub provides access to global statistics on the cost and affordability of healthy diets and related indicators. These data use food item availability and prices from the International Comparison Program (ICP), combined with food composition data and nutritional requirements from the Healthy Diet Basket based on national dietary guidelines. The 42 indicators cover diet cost (cost of a healthy diet, nutrient adequate diet, and energy sufficient diet per person per day) and diet affordability (prevalence of unaffordability and number of people unable to afford each diet). In 2024, the average cost of a healthy diet reached $4.46 per person per day globally, and around 2.6 billion people could not afford a healthy diet. Sub-Saharan Africa and low-income countries faced two consecutive years of worsening affordability since 2022. The most expensive food group is animal-sourced foods at $1.00 on average, with vegetables second at $0.76 globally. Food Prices for Nutrition was established to provide governments and development agencies with accurate metrics to inform agricultural, food systems, social protection, and health interventions. The cost and affordability indicators underlie estimates in the UN's State of Food Security and Nutrition in the World reports and support monitoring of SDG 2 to end hunger.",
     "with": [
       "The Food Prices for Nutrition DataHub provides access to global statistics on the cost and affordability of healthy diets and related indicators.",
-      "Around 2.6 billion people could not afford a healthy diet in 2024, 48.8 million fewer than in 2023.",
-      "Food Prices for Nutrition was established to provide governments and development agencies with accurate and updated metrics to inform agricultural, food systems, social protection, and health and nutrition interventions.",
-      "The Food Prices for Nutrition DataHub's diet cost and affordability indicators use the least cost combination of locally available foods to meet the needs of a representative adult requiring 2,330 kcal per day at three levels of diet quality: a healthy diet; a nutrient adequate diet; and an energy sufficient diet.",
-      "The affordability of each diet is measured by comparing diet costs to available income and four affordability metrics for each level of diet quality are calculated."
+      "The 42 indicators and their metadata cover diet cost and diet affordability metrics across 170+ countries.",
+      "In 2024, the average cost of a healthy diet reached $4.46 per person per day globally.",
+      "Around 2.6 billion people could not afford a healthy diet in 2024, with Sub-Saharan Africa facing worsening affordability trends.",
+      "The most expensive food group is animal-sourced foods at $1.00, followed by vegetables at $0.76 globally."
     ],
     "without": [
-      "International Comparison Program (ICP)",
-      "Email Print Tweet Facebook Share more",
-      "Download Food Prices for Nutrition data from the World Bank’s DataBank",
-      "This site uses cookies to optimize functionality and give you the best possible experience.",
-      "Contact us at   FPN@worldbank.org, and follow #FoodPricesForNutrition on Twitter and LinkedIn"
-    ]
+      "Social media share buttons and icons",
+      "Subscribe to newsletter prompts",
+      "Footer navigation and legal links",
+      "Cookie consent notice",
+      "Print and email page tools"
+    ],
+    "images": {
+      "total_in_content": 20,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "/content/dam/photos/480x125/2022/jun/banner-FPN-header-480-x-125.jpg",
+          "filename": "banner-FPN-header-480-x-125.jpg",
+          "alt": "fpn banner",
+          "caption": "fpn banner",
+          "is_hero": true
+        },
+        {
+          "src": "https://datawrapper.dwcdn.net/ATxUC/full.png",
+          "filename": "full.png",
+          "alt": "(TBD) A world map showing the number of people unable to afford a healthy diet by size of bubble for each country, and the percentage of each country's population affected, shown by shade of color.",
+          "caption": "A world map showing the number of people unable to afford a healthy diet",
+          "is_hero": false
+        },
+        {
+          "src": "https://worldbank.scene7.com/is/image/worldbankprod/new-ladder-July-13?wid=780&hei=439&qlt=85,0&resMode=sharp",
+          "filename": "new-ladder-July-13",
+          "alt": "ladder of unaffordability showing three diet standards and a woman and ladder",
+          "caption": "ladder of unaffordability showing three diet standards and a woman and ladder",
+          "is_hero": false
+        },
+        {
+          "src": "https://worldbank.scene7.com/is/image/worldbankprod/Data-Bank-Dec-2025-update?wid=780&hei=439&qlt=85,0&resMode=sharp",
+          "filename": "Data-Bank-Dec-2025-update",
+          "alt": "Data-Bank-Dec-2025-update.png",
+          "caption": "Data-Bank-Dec-2025-update.png",
+          "is_hero": false
+        },
+        {
+          "src": "https://worldbank.scene7.com/is/image/worldbankprod/Data-Catalog-Dec-2025?wid=780&hei=439&qlt=85,0&resMode=sharp",
+          "filename": "Data-Catalog-Dec-2025",
+          "alt": "Data-Catalog-Dec-2025.png",
+          "caption": "Data-Catalog-Dec-2025.png",
+          "is_hero": false
+        },
+        {
+          "src": "https://worldbank.scene7.com/is/image/worldbankprod/Data-360-780-439?wid=780&hei=439&qlt=85,0&resMode=sharp",
+          "filename": "Data-360-780-439",
+          "alt": "Data-360-780-439.png",
+          "caption": "Data-360-780-439.png",
+          "is_hero": false
+        },
+        {
+          "src": "https://worldbank.scene7.com/is/image/worldbankprod/website-computer-screen-SHOWING-COURSE?wid=780&hei=439&qlt=85,0&resMode=sharp",
+          "filename": "website-computer-screen-SHOWING-COURSE",
+          "alt": "website-computer-screen-SHOWING-COURSE.png",
+          "caption": "website-computer-screen-SHOWING-COURSE.png",
+          "is_hero": false
+        },
+        {
+          "src": "https://worldbank.scene7.com/is/image/worldbankprod/CoAHD-2025?wid=780&hei=439&qlt=85,0&resMode=sharp",
+          "filename": "CoAHD-2025",
+          "alt": "CoAHD-2025.png",
+          "caption": "CoAHD-2025.png",
+          "is_hero": false
+        },
+        {
+          "src": "https://worldbank.scene7.com/is/image/worldbankprod/SOFI-2025?wid=780&hei=439&qlt=85,0&resMode=sharp",
+          "filename": "SOFI-2025",
+          "alt": "SOFI-2025.jpg",
+          "caption": "SOFI-2025.jpg",
+          "is_hero": false
+        },
+        {
+          "src": "https://worldbank.scene7.com/is/image/worldbankprod/smaller-June-12-HDB-infographicH3-updated-0-5x?wid=780&hei=439&qlt=85,0&resMode=sharp",
+          "filename": "smaller-June-12-HDB-infographicH3-updated-0-5x",
+          "alt": "infographic of constructing Healthy Diet Basket",
+          "caption": "infographic of constructing Healthy Diet Basket",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:51:15.181985"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:09:24.790099"
 }

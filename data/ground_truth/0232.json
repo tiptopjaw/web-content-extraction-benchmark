@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.simplilearn.com/tutorials/cyber-security-tutorial/cyber-security-for-beginners",
+  "file_id": "0232",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "guide",
+        "tutorial",
+        "education"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "An Ultimate Guide to Cyber Security for Beginners",
+    "author": "Sachin Satish",
+    "publish_date": "2025-06-27",
+    "main_content": "Cybersecurity is a popular topic, but do you know why it is essential? We are living in a digital era where data is everything. We must understand that private information is much more vulnerable than ever before. Data breaches and identity theft cases often affect millions of consumers. Cybersecurity is the technology and process designed to protect networks and devices from attacks, damage, or unauthorized access. Cybersecurity is essential for a country's military, hospitals, large corporations, small businesses, and other organizations and individuals since data is now the cornerstone of any organization. The CIA Triad consists of three principles: Confidentiality, Integrity, and Availability. Confidentiality asserts that only authorized parties can access sensitive information. Integrity asserts that only authorized people and means can alter, add, or remove sensitive information. Availability asserts that systems, functions, and data must be available on demand. Specialties in cybersecurity include access control systems, telecommunications security, security management practices, security architecture, law and ethics, application security, cryptography, computer operations security, and physical security. Basic terminologies include network (connection between computers), internet (global computer network), IP address (unique identifier for devices), MAC address (unique identification number), DNS (phonebook of the internet), DHCP (assigns IP addresses), router (routes data), and bots (automated computer programs). Common types of attacks include DDoS (flooding traffic to restrict access), Man in the Middle (intercepting communications), Password Attacks (cracking passwords through various methods like dictionary attacks, brute force, keyloggers), Email Attacks (phishing, spoofing, malicious attachments), and Malware (viruses, worms). Job roles in cybersecurity include Chief Information Security Officer, Forensic Computer Analyst, Information Security Analyst, Penetration Tester, IT Security Engineer, Security Architect, Security Systems Administrator, and IT Security Consultant. Top certifications include CEH (Certified Ethical Hacker) and CompTIA Security+.",
+    "with": [
+      "Cybersecurity is the technology and process designed to protect networks and devices from attacks, damage, or unauthorized access.",
+      "The CIA Triad consists of three principles: Confidentiality, Integrity, and Availability.",
+      "Confidentiality asserts that only authorized parties can access sensitive information and functions.",
+      "A network is a connection between two or more computers that communicate.",
+      "CEH (Certified Ethical Hacker) training helps in reverse engineering to protect corporate infrastructures from data breaches."
+    ],
+    "without": [
+      "Subscribe to our newsletter",
+      "Copyright 2009-2025 Simplilearn Solutions",
+      "Privacy Policy and Terms and Conditions",
+      "Follow us on Facebook, Twitter, LinkedIn, YouTube",
+      "Get the Android App or iOS App"
+    ],
+    "images": {
+      "total_in_content": 14,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://www.simplilearn.com/ice9/free_resources_article_thumb/cia_triad.png",
+          "filename": "cia_triad.png",
+          "alt": "CIA Triad",
+          "caption": "CIA triad",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.simplilearn.com/ice9/free_resources_article_thumb/network_connection.png",
+          "filename": "network_connection.png",
+          "alt": "Network Connection",
+          "caption": "Network Connection",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.simplilearn.com/ice9/free_resources_article_thumb/dns_server_illustration.png",
+          "filename": "dns_server_illustration.png",
+          "alt": "Domain Server",
+          "caption": "DNS Server Illustration",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.simplilearn.com/ice9/free_resources_article_thumb/dhcp_providing_ip_address.png",
+          "filename": "dhcp_providing_ip_address.png",
+          "alt": "DHCP",
+          "caption": "DHCP providing IP addresses",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.simplilearn.com/ice9/free_resources_article_thumb/ddos_illustration.png",
+          "filename": "ddos_illustration.png",
+          "alt": "DDoS Illustration",
+          "caption": "DDoS Illustration",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.simplilearn.com/ice9/free_resources_article_thumb/man_in_the_middle1.png",
+          "filename": "man_in_the_middle1.png",
+          "alt": "Man in the middle attack",
+          "caption": "Man in the middle attack (1)",
+          "is_hero": false
+        },
+        {
+          "src": "https://s3.amazonaws.com/static2.simplilearn.com/ice9/free_resources_article_thumb/man_in_the_middle2.png",
+          "filename": "man_in_the_middle2.png",
+          "alt": "Man in the middle attack",
+          "caption": "Man in the middle attack (2)",
+          "is_hero": false
+        },
+        {
+          "src": "https://s3.amazonaws.com/static2.simplilearn.com/ice9/free_resources_article_thumb/how_email_works.png",
+          "filename": "how_email_works.png",
+          "alt": "How email works",
+          "caption": "How email works",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.simplilearn.com/ice9/free_resources_article_thumb/ceh_logo.png",
+          "filename": "ceh_logo.png",
+          "alt": "CEH Certification",
+          "caption": "CEH Certification",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.simplilearn.com/ice9/free_resources_article_thumb/comptia_security.png",
+          "filename": "comptia_security.png",
+          "alt": "CompTIA Security+",
+          "caption": "CompTIA Security+",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:30:27.241463"
+}

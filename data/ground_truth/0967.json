@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "url": "https://mikekhorev.com/seo-expert",
+  "file_id": "0967",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "seo",
+        "consulting",
+        "b2b",
+        "saas",
+        "marketing"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Organic SEO Consultant | Hire and Independent SEO Expert - Mike Khorev",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Hire the #1 ranked SEO expert and SEO consultant to help you grow organic traffic, increase leads and sales. I help SaaS, B2B, IT, technology, software and startup companies to rank on the first page of Google. I design, develop and execute SEO campaigns to rank websites on the first page of Google. Whether you have an in-house SEO team or are looking for an organic SEO expert or SEO consultant, I can help you accelerate growth with results-oriented SEO and content marketing strategies. I will work with you as an extension or addition to your team to optimize your on and off-site SEO, create SEO-optimized pages and create a content calendar to help you drive targeted organic traffic, increase leads and grow revenue. Most of the companies that hire me as an SEO expert triple their organic traffic and on average see a 90% increase in leads generation and a 60% increase in sales Year Over Year. SEO pricing starts at $3500/month and is fully customizable to your company's needs.",
+    "with": [
+      "Hire the #1 ranked SEO expert and SEO consultant to help you grow organic traffic, increase leads and sales.",
+      "I help SaaS, B2B, IT, technology, software and startup companies to rank on the first page of Google.",
+      "Most of the companies that hire me as an SEO expert triple their organic traffic and on average see a 90% increase in leads generation and a 60% increase in sales Year Over Year.",
+      "After working with companies as an organic SEO consultant for over 8 years I created the SEO Growth Program that is designed to help B2B and SaaS companies to rank their websites on the first page of Google.",
+      "SEO pricing starts at $3500/month and is fully customizable to your company's needs."
+    ],
+    "without": [
+      "Mike Khorev - SEO Consultant",
+      "Schedule a call",
+      "Subscribe to our newsletter",
+      "© 2025 Mike Khorev",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://mikekhorev.com/wp-content/uploads/2025/06/mike-khorev-seo2-scaled.jpg",
+          "filename": "mike-khorev-seo2-scaled.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:25:31.196226"
+}

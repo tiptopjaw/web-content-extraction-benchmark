@@ -1,27 +1,54 @@
 {
+  "schema_version": "2.0",
   "url": "https://doit.illinois.gov/initiatives/cybersecurity/best-practices.html",
   "file_id": "0327",
-  "downloaded_at": "2025-12-20T18:56:49.808883",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "government",
+        "cybersecurity",
+        "guide",
+        "best-practices"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Best Practices for Cybersecurity",
     "author": null,
     "publish_date": null,
-    "main_content": "One of the best practices is creating a culture of cybersecurity in your organization. Strategically speaking a culture of cybersecurity means that elected officials and top managers fully embrace and support cybersecurity and play important roles in it, including, but not limited to, practicing it appropriately, insisting that others in government do so as well, and holding all accountable when they do not.\n\nWhat does that look like in action? This could be done in several ways:\n\n- At a minimum some type of annual training.\n- Could be a quick discussion of a recent phishing example during weekly meetings.\n- It could be proactive phishing with an emphasis on training and learning.\n- Sharing articles with managers. Don’t wait for the perfect training. Just start somewhere. \n\nNeed a free training template document or other resources? Explore the Resource and Security Awareness page\n\nSecond, local governments must address their lack of funding which is ranked as one of the top barriers faced by everyone.\n\n- Begin your efforts with no and low-cost basics such as adopting and implementing cybersecurity policies and end user training.\n- Before your local entity can ask for more money for their cyber security budget, you must gain an understanding of your organization’s critical mission and what supports those critical missions. This is often best achieved by simply starting with a risk assessment. This CANNOT just be completed by the IT department or IT third party vendor the city or county uses. This must be a joint project between management and technical staff.\n  -  Remember- the Risk is owned by the business and ultimately responsible.\n\nThere are several nationally (and internationally) recognized guides for maturing your cybersecurity efforts. \n\nThe NIST Cybersecurity Framework is a guide intended for all organizations regardless of sector or size. Organizations will vary in how they customize practices described in this document. Organizations can determine activities that are important to critical service delivery and can prioritize investments to maximize impact. some of the available Cybersecurity Frameworks available to your organization. These frameworks outline steps which organizations of all sizes and business practices use to implementing best practices. \n\nThe CIS Critical Security Controls (CIS Controls) are a set of best practices for computer security. They are developed by a global IT community and provide specific and actionable ways to protect organizations and their data from known cyber-attack vectors. There are 18 different CIS Controls, which cover various aspects of cybersecurity and help defeat over 85% of common attacks. The CIS Controls are trusted by security leaders in both the private and public sector and support compliance in a multiframework environment.\n\n- These controls are what the Illinois Cyber Navigator program use for risk assessment for local units of government.\n\nIt is very important for both IT and Management to identify what you “don’t know”. Sweeping it under the rug or not addressing only creates space for attackers to take advantage of your organization.\n\n- A risk assessment generally can help facilitate learning what you don’t know as well clearing up misunderstandings as to what you think you know about your organization.",
+    "main_content": "One of the best practices is creating a culture of cybersecurity in your organization. Strategically speaking a culture of cybersecurity means that elected officials and top managers fully embrace and support cybersecurity and play important roles in it, including, but not limited to, practicing it appropriately, insisting that others in government do so as well, and holding all accountable when they do not. What does that look like in action? This could be done in several ways: At a minimum some type of annual training, could be a quick discussion of a recent phishing example during weekly meetings, it could be proactive phishing with an emphasis on training and learning, and sharing articles with managers. Don't wait for the perfect training. Just start somewhere. Second, local governments must address their lack of funding which is ranked as one of the top barriers faced by everyone. Begin your efforts with no and low-cost basics such as adopting and implementing cybersecurity policies and end user training. Before your local entity can ask for more money for their cyber security budget, you must gain an understanding of your organization's critical mission and what supports those critical missions. This is often best achieved by simply starting with a risk assessment. This CANNOT just be completed by the IT department or IT third party vendor the city or county uses. This must be a joint project between management and technical staff. Remember- the Risk is owned by the business and ultimately responsible. There are several nationally and internationally recognized guides for maturing your cybersecurity efforts. The NIST Cybersecurity Framework is a guide intended for all organizations regardless of sector or size. Organizations will vary in how they customize practices described in this document. Organizations can determine activities that are important to critical service delivery and can prioritize investments to maximize impact. The CIS Critical Security Controls (CIS Controls) are a set of best practices for computer security. They are developed by a global IT community and provide specific and actionable ways to protect organizations and their data from known cyber-attack vectors. There are 18 different CIS Controls, which cover various aspects of cybersecurity and help defeat over 85% of common attacks. The CIS Controls are trusted by security leaders in both the private and public sector and support compliance in a multiframework environment. These controls are what the Illinois Cyber Navigator program use for risk assessment for local units of government. It is very important for both IT and Management to identify what you don't know. Sweeping it under the rug or not addressing only creates space for attackers to take advantage of your organization. A risk assessment generally can help facilitate learning what you don't know as well clearing up misunderstandings as to what you think you know about your organization.",
     "with": [
       "One of the best practices is creating a culture of cybersecurity in your organization.",
-      "Second, local governments must address their lack of funding which is ranked as one of the top barriers faced by everyone.",
-      "There are several nationally (and internationally) recognized guides for maturing your cybersecurity efforts.",
+      "Before your local entity can ask for more money for their cyber security budget, you must gain an understanding of your organization's critical mission and what supports those critical missions.",
       "The NIST Cybersecurity Framework is a guide intended for all organizations regardless of sector or size.",
-      "The CIS Critical Security Controls (CIS Controls) are a set of best practices for computer security."
+      "The CIS Critical Security Controls (CIS Controls) are a set of best practices for computer security.",
+      "It is very important for both IT and Management to identify what you don't know."
     ],
     "without": [
       "Skip to main content",
-      "Home | Initiatives | Security | Best Practices",
-      "Springfield: 217-524-DoIT (217-524-3648)",
-      "Governor JB Pritzker © 2025 State of Illinois",
-      "Agencies Services Support DoIT Employment"
-    ]
+      "Copyright 2025 State of Illinois",
+      "Contact Information: 217-524-3648",
+      "Privacy Info",
+      "Back to top"
+    ],
+    "images": {
+      "total_in_content": 5,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://s7d1.scene7.com/is/image/isp/security-best-practices-banner-1?qlt=100&ts=1733160198193&$ImageComponent$&fit=constrain",
+          "filename": "security-best-practices-banner-1",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:56:49.808890"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:52:04.472110"
 }

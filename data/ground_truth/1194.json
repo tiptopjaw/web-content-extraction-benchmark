@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "url": "https://coursehorse.com/classes-near-me/all/artificial-intelligence",
+  "file_id": "1194",
+  "_internal": {
+    "page_type": {
+      "primary": "directory",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "AI",
+        "classes",
+        "courses",
+        "training"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Best AI Classes, Bootcamps & Certificates Near Me",
+    "author": null,
+    "publish_date": null,
+    "main_content": "AI Classes Near Me - Find AI classes, bootcamps, and certificates near you. This comprehensive directory helps you discover artificial intelligence training programs including FinTech Bootcamp, Part-Time Data Science Bootcamp, Machine Learning Immersive, and more. CourseHorse provides a curated selection of AI and data science courses with options for live online and in-person instruction.",
+    "with": [
+      "AI Classes Near Me - Find AI classes, bootcamps, and certificates near you.",
+      "This comprehensive directory helps you discover artificial intelligence training programs.",
+      "FinTech Bootcamp, Part-Time Data Science Bootcamp, Machine Learning Immersive, and more.",
+      "CourseHorse provides a curated selection of AI and data science courses.",
+      "Options for live online and in-person instruction available."
+    ],
+    "without": [
+      "Search for classes...",
+      "Data Topics navigation menu",
+      "Copyright footer information",
+      "Cookie preference notice",
+      "Corporate training link"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "/classes-near-me/activestorage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzAwNTEsInB1ciI6ImJsb2JfaWQifX0=--abfbfc0b724164463784d5dd8349d15c361daa9c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJ3ZWJwIiwicmVzaXplX3RvX2xpbWl0IjpbMTkyMCwxMDgwXSwicXVhbGl0eSI6ODV9LCJwdXIiOiJ2YXJpYXRpb24ifX0=--b301cb4781eb81df5ed274a9e03b1e68ef8a07af/7%20student%20teaching%20julia%20(2).png",
+          "filename": "7%20student%20teaching%20julia%20(2).png",
+          "alt": "AI Classes: Live & Hands-on, In NYC or Online, Learn From Experts, Free Retake, Small Class Sizes, 1-on-1 Bonus Training. Named a Top Bootcamp by Forbes, Fortune, & Time Out. Noble Desktop. Learn More.",
+          "caption": "AI Classes: Live & Hands-on, In NYC or Online, Learn From Experts, Free Retake",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:03:15.821258"
+}

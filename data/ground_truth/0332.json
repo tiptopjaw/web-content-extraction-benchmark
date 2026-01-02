@@ -1,0 +1,75 @@
+{
+  "schema_version": "2.0",
+  "url": "https://careerfoundry.com/en/blog/data-analytics/what-is-data-analytics/",
+  "file_id": "0332",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "guide",
+        "data-analytics",
+        "education"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "What is Data Analytics? A Complete Guide for Beginners",
+    "author": "Emily Stevens",
+    "publish_date": "2023-11-17",
+    "main_content": "In this guide, you'll find a complete and comprehensive introduction to data analytics—starting with a simple, easy-to-understand definition and working up to some of the most important tools and techniques. Data analytics is the process of analyzing raw data in order to draw out meaningful, actionable insights, which are then used to inform and drive smart business decisions. A data analyst will extract raw data, organize it, and then analyze it, transforming it from incomprehensible numbers into coherent, intelligible information. Most companies are collecting loads of data all the time—but, in its raw form, this data doesn't really mean anything. This is where data analytics comes in. Data analytics helps you to make sense of the past and to predict future trends and behaviors; rather than basing your decisions and strategies on guesswork, you're making informed choices based on what the data is telling you. The four main types of data analysis are descriptive, diagnostic, predictive, and prescriptive. Descriptive analytics looks at what has happened in the past using data aggregation and data mining. Diagnostic analytics explores the 'why' by identifying anomalies and discovering causal relationships. Predictive analytics tries to predict what is likely to happen in the future based on historical data and probability theory. Prescriptive analytics advises on the actions and decisions that should be taken based on the predicted outcomes. A data analyst is someone who is capable of translating numbers into plain English in order for a company to improve their business. Data analysts typically follow a five-step process: define the question, collect the data, clean the data, analyze the data, and visualize and share findings. Key tools include Microsoft Excel, Tableau, SAS, RapidMiner, and Power BI. Essential skills include mathematical ability, programming languages like SQL, R, or Python, an analytical mindset, data visualization, problem-solving, communication, and adaptability. The global data analytics market was valued at $272 billion USD in 2022 and is predicted to rise to $745 billion by 2030.",
+    "with": [
+      "Data analytics is the process of analyzing raw data in order to draw out meaningful, actionable insights.",
+      "A data analyst will extract raw data, organize it, and then analyze it, transforming it from incomprehensible numbers into coherent, intelligible information.",
+      "The four main types of data analysis are descriptive, diagnostic, predictive, and prescriptive.",
+      "Predictive analytics estimates the likelihood of a future outcome based on historical data and probability theory.",
+      "In 2022, the global data analytics market was valued at $272 billion USD and is predicted to rise to $745 billion by 2030."
+    ],
+    "without": [
+      "Start your free data analytics course",
+      "Login to your account",
+      "Courses offered by CareerFoundry",
+      "Subscribe to newsletter",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 15,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://cdn.careerfoundry.com/en/wp-content/uploads/2021/01/data_analyst_looking_at_graphs.webp",
+          "filename": "data_analyst_looking_at_graphs.webp",
+          "alt": "What is data analytics? A data analyst in side profile, looking at data visualizations on a screen",
+          "caption": "What is data analytics? A data analyst in side profile, looking at data visualizations on a screen",
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn.careerfoundry.com/en/wp-content/uploads/old-blog-uploads/the-four-main-types-of-data-analysis.jpg",
+          "filename": "the-four-main-types-of-data-analysis.jpg",
+          "alt": "The four main types of data analytics: Descriptive, diagnostic, predictive, and prescriptive",
+          "caption": "The four main types of data analytics: Descriptive, diagnostic, predictive, and prescriptive",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.careerfoundry.com/en/wp-content/uploads/old-blog-uploads/the-data-analysis-process.jpg",
+          "filename": "the-data-analysis-process.jpg",
+          "alt": "The five steps in the data analysis process: Define the question, gather your data, clean the data, analyse the data, and visualize and share your findings",
+          "caption": "The five steps in the data analysis process: Define the question, gather your data, clean the data, analyse the data, and visualize and share your findings",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.careerfoundry.com/en/wp-content/uploads/2021/03/data-visualizations.webp",
+          "filename": "data-visualizations.webp",
+          "alt": "What is data analytics? Here, data visualizations are shown on a tablet and a smartphone",
+          "caption": "What is data analytics? Here, data visualizations are shown on a tablet and a smartphone",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:54:33.600549"
+}

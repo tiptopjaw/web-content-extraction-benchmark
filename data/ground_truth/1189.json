@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.0",
+  "url": "https://online.osu.edu/content-hub/blogs/whats-the-difference-between-asynchronous-and-synchronous-learning/",
+  "file_id": "1189",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "online-learning",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "What's the Difference Between Asynchronous and Synchronous Learning?",
+    "author": "Darrell Simmons",
+    "publish_date": "2024-08-20",
+    "main_content": "How do online classes work? We tapped online learning experts to explain the pros and cons of synchronous vs. asynchronous learning. This article explores the key differences between these two learning modalities, helping students understand which approach best fits their learning style and schedule. Asynchronous learning allows students to access course materials and complete assignments on their own schedule, while synchronous learning requires real-time interaction with instructors and classmates through live sessions. Both approaches offer distinct advantages depending on student needs, career goals, and personal circumstances. Understanding these differences can help working professionals and busy students make informed decisions about their online education journey.",
+    "with": [
+      "How do online classes work? We tapped online learning experts to explain the pros and cons of synchronous vs. asynchronous learning.",
+      "Asynchronous learning allows students to access course materials and complete assignments on their own schedule.",
+      "Synchronous learning requires real-time interaction with instructors and classmates through live sessions.",
+      "Both approaches offer distinct advantages depending on student needs, career goals, and personal circumstances.",
+      "Understanding these differences can help working professionals and busy students make informed decisions about their online education journey."
+    ],
+    "without": [
+      "Ohio State Online",
+      "Apply Now",
+      "Request Information",
+      "Copyright 2024",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 6,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://online.osu.edu/wp-content/uploads/2024/08/photo-smiling-man-looking-at-ipad.jpg",
+          "filename": "photo-smiling-man-looking-at-ipad.jpg",
+          "alt": "A smiling man looks at an iPad.",
+          "caption": "A smiling man looks at an iPad",
+          "is_hero": true
+        },
+        {
+          "src": "https://online.osu.edu/wp-content/uploads/2024/08/oso-asynchronous-and-synchronous-learning-venn-diagram-870x7002x-1024x824.webp",
+          "filename": "oso-asynchronous-and-synchronous-learning-venn-diagram-870x7002x-1024x824.webp",
+          "alt": "Venn diagram showing the differences and similarities of learning asynchronously and synchronously.",
+          "caption": "Venn diagram showing the differences and similarities of learning asynchronously",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:01:26.794549"
+}

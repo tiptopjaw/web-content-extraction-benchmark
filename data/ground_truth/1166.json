@@ -1,27 +1,96 @@
 {
+  "schema_version": "2.0",
   "url": "https://grow.google/certificates/",
   "file_id": "1166",
-  "downloaded_at": "2025-12-20T20:32:22.372912",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "certificates",
+        "professional training",
+        "Google"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Online Courses with Certificates - Grow with Google",
     "author": null,
     "publish_date": null,
-    "main_content": "Google Career Certificates\n\nJob ready skills you can put to work\n\nLevel up your career with flexible online training. Get the hands-on experience and practical AI skills you need to help you stand out to employers in high-paying fields.\n\nGet professional job training from Google\n\nLearn at your own pace\nComplete the online certificate program on your own terms.\n3-6 mos\nto complete with under 10 hours of flexible study per week\n\nStand out to employers\nMake your resume competitive with a credential from Google.\n75%\nof certificate graduates report a positive career outcome (e.g., new job, promotion, or raise) within six months of completion.²\n\nA path to high-paying fields\nConnect with top employers who are currently hiring.\n$96,000+\nmedian salary across certificate fields¹\n\nNo experience necessary\nLearn job-ready skills.\n1.6M+\njob postings across certificate fields¹\n\nFoundational Certificates\nEarn a credential that can help lead to jobs in high-paying fields\n\nData Analytics\n4.8\n(159,174 reviews)³\nData analysts collect, transform, and organize data in order to help make informed business decisions. Learn more\nIf you like: uncovering trends and patterns, visualizations\n\nProject Management\n4.9\n(121,054 reviews)³\nProject managers ensure projects within an organization are managed and completed with maximum value. Learn more\nIf you like: solving problems, organization, working with people\n\nCybersecurity\n4.8\n(46,535 reviews)³\nCybersecurity analysts are responsible for monitoring and protecting information and systems. Learn more\nIf you like: investigating, solving puzzles\n\nDigital Marketing & E-commerce\n4.8\n(35,362 reviews)³\nDigital marketers use online tools to reach customers. E-commerce specialists grow online sales. Learn more\nIf you like: uncovering trends and patterns, visualizations\n\nIT Support\n4.8\n(187,814 reviews)³\nIT Specialists troubleshoot problems so computers and networks run correctly. Learn more\nIf you like: solving problems, helping others\n\nUX Design\n4.8\n(84,508 reviews)³\nUX designers make digital and physical products easier and more enjoyable to use. Learn more\nIf you like: understanding people, drawing, thinking creatively\n\nGain skills fast or build on your existing certificate\n\nGoogle Career Essentials\nQuickly gain valuable competencies to add a skill to your resume, apply a new skill to uplevel your work, or simply learn something new.\n\nAdvanced Google Career Certificates\nGo deeper in the field and gain more technical skills to take the next step in your career. Build on your Google Career Certificate and earn a credential in just a few months.\n\nMade by partners\nAdd to your skills with training from expert partners and unlock industry-specific job opportunities. Build on your Google Career Certificate and earn a credential in just 1-2 months.\n\nGet on the fast track to high-paying jobs with top employers\n\nFlexible learning\nPrepare for a new career in 3-6 months. No relevant experience or degrees required.\n\nFree career support\nCertificate graduates in the US will gain access to CareerCircle, which offers personalized coaching, mock interviews, and resume-building tools.\n\nConnect with top employers\nUse CareerCircle’s exclusive job board to connect directly with employers looking to hire Google Career Certificate graduates in the U.S.\n\nCONNECT WITH +150 TOP EMPLOYERS, INCLUDING THESE:\n\ncertificate testimonial\n“I appreciate the fact that these certificates were created. They provide opportunities for people who might not have any resources to get it the traditional way, but in my opinion, I didn’t want to do it traditionally. Now I've gotten a new job and can keep building on my experience!”\nTrin completed the Google Digital Marketing and E-commerce Certificate and went from a barista to a media planner with full salary and benefits.\n\nFrequently asked questions",
+    "main_content": "Google Career Certificates offer job ready skills you can put to work. Level up your career with flexible online training with hands-on experience and practical AI skills to stand out to employers in high-paying fields. The programs can be completed in 3-6 months with under 10 hours of flexible study per week, and no prior experience is required. 75% of certificate graduates report a positive career outcome such as new job, promotion, or raise within six months of completion. The median salary across certificate fields is $96,000+, with over 1.6 million job postings available.\n\nFoundational Certificates include: Data Analytics (4.8 stars, 159,174 reviews), Project Management (4.9 stars, 121,054 reviews), Cybersecurity (4.8 stars, 46,535 reviews), Digital Marketing & E-commerce (4.8 stars, 35,362 reviews), IT Support (4.8 stars, 187,814 reviews), and UX Design (4.8 stars, 84,508 reviews).\n\nAdditional programs include Google Career Essentials for quick skill-building (Accelerate Your Job Search with AI, People Management Essentials, Prompting Essentials, Agile Essentials, AI Essentials), Advanced Google Career Certificates (Advanced Data Analytics, Business Intelligence, IT Automation with Python), and partner programs.\n\nCertificate graduates gain access to CareerCircle for free career support including personalized coaching, mock interviews, and resume-building tools, plus exclusive job board access to connect with over 150 top employers including Bayer, Booz Allen Hamilton, Deloitte, Ford, Salesforce, Target, Verizon, and more.",
     "with": [
       "Job ready skills you can put to work",
-      "Level up your career with flexible online training. Get the hands-on experience and practical AI skills you need to help you stand out to employers in high-paying fields.",
-      "75% of certificate graduates report a positive career outcome (e.g., new job, promotion, or raise) within six months of completion.",
+      "Level up your career with flexible online training",
+      "Get professional job training from Google",
       "Earn a credential that can help lead to jobs in high-paying fields",
-      "Get on the fast track to high-paying jobs with top employers"
+      "75% of certificate graduates report a positive career outcome within six months of completion"
     ],
     "without": [
-      "Jump to Content",
-      "Career Certificates",
-      "New! Learn from Google leaders with our latest course, People Management Essentials. Enroll now",
-      "Grow with Google / Certificates",
-      "CONNECT WITH +150 TOP EMPLOYERS, INCLUDING THESE:"
-    ]
+      "Career Certificates navigation menu",
+      "Copyright 2025 Google",
+      "Subscribe to newsletter",
+      "Employer logo gallery",
+      "Cookie consent banner"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 7,
+      "items": [
+        {
+          "src": "https://storage.googleapis.com/grow-with-goog-publish-prod-media/images/Overview-hero.original.format-webp.webp",
+          "filename": "Overview-hero.original.format-webp.webp",
+          "alt": null,
+          "caption": "People learning professional skills",
+          "is_hero": true
+        },
+        {
+          "src": "https://storage.googleapis.com/grow-with-goog-publish-prod-media/images/Data_Analytics-2x.original.format-webp.webp",
+          "filename": "Data_Analytics-2x.original.format-webp.webp",
+          "alt": "Data_Analytics",
+          "caption": "Data Analytics Certificate",
+          "is_hero": false
+        },
+        {
+          "src": "https://storage.googleapis.com/grow-with-goog-publish-prod-media/images/Project_Management-2x.original.format-webp.webp",
+          "filename": "Project_Management-2x.original.format-webp.webp",
+          "alt": "Project_Management",
+          "caption": "Project Management Certificate",
+          "is_hero": false
+        },
+        {
+          "src": "https://storage.googleapis.com/grow-with-goog-publish-prod-media/images/Cybersecurity-2x.original.format-webp.webp",
+          "filename": "Cybersecurity-2x.original.format-webp.webp",
+          "alt": "Cybersecurity",
+          "caption": "Cybersecurity Certificate",
+          "is_hero": false
+        },
+        {
+          "src": "https://storage.googleapis.com/grow-with-goog-publish-prod-media/images/Digital_Marketing__E-commerce-2x.original.format-webp.webp",
+          "filename": "Digital_Marketing__E-commerce-2x.original.format-webp.webp",
+          "alt": "Digital Marketing & E-commerce",
+          "caption": "Digital Marketing & E-commerce Certificate",
+          "is_hero": false
+        },
+        {
+          "src": "https://storage.googleapis.com/grow-with-goog-publish-prod-media/images/IT_Support-2x.original.format-webp.webp",
+          "filename": "IT_Support-2x.original.format-webp.webp",
+          "alt": "IT Support",
+          "caption": "IT Support Certificate",
+          "is_hero": false
+        },
+        {
+          "src": "https://storage.googleapis.com/grow-with-goog-publish-prod-media/images/UX_Design-2x.original.format-webp.webp",
+          "filename": "UX_Design-2x.original.format-webp.webp",
+          "alt": "UX_Design",
+          "caption": "UX Design Certificate",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:32:22.372918"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:52:46.731443"
 }

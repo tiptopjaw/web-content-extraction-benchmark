@@ -1,27 +1,53 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.tvgrapevine.com/tvgrapevines-best-fiction-of-2022-tales-of-the-wasteland",
   "file_id": "2731",
-  "downloaded_at": "2025-12-20T23:36:39.862763",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "books",
+        "fiction",
+        "recommendations"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "TVGrapevine’s Best Fiction of 2022: Tales of the Wasteland",
+    "title": "TVGrapevine's Best Fiction of 2022: Tales of the Wasteland",
     "author": "Sammi Turano",
-    "publish_date": "2025-12-18",
-    "main_content": "As an avid reader, I am always looking for new books to add to my collection. Lately, I have been obsessed with celebrity memoirs, but I love a good fiction book or mystery at times.\n\nImagine my excitement and delight when I found out my high school buddy Mike Soldano wrote not one, but SEVEN books! These books are called Tales from the Wasteland and take readers on a special post-apocalyptic, sci-fi journey.\n\nThe first book is called The Coyote and kicks off the seven-part journey of apprentice Coyote Nathan, who is trying to survive in this brand-new, scary world. Each book takes him on different journeys, all of which test him in many different ways…..and you will need to read the books to see exactly what that means! (And yes, I am being deliberately vague in order to avoid spoiling everything!)\n\nMike has a talent like no other when it comes to taking us on these incredible adventures. He has a way of making us visualize each moment, each battle, each thing that Nathan and the gang face. Mike is a true, rare talent and I look forward to seeing what he does next.\n\nFor these reasons, and many more, Tales from the Wasteland is TVGrapevine’s Best Fiction of 2022.",
+    "publish_date": "2022-12-13",
+    "main_content": "As an avid reader, I am always looking for new books to add to my collection. Lately, I have been obsessed with celebrity memoirs, but I love a good fiction book or mystery at times. Imagine my excitement and delight when I found out my high school buddy Mike Soldano wrote not one, but SEVEN books! These books are called Tales from the Wasteland and take readers on a special post-apocalyptic, sci-fi journey. The first book is called The Coyote and kicks off the seven-part journey of apprentice Coyote Nathan, who is trying to survive in this brand-new, scary world. Each book takes him on different journeys, all of which test him in many different ways. Mike has a talent like no other when it comes to taking us on these incredible adventures. He has a way of making us visualize each moment, each battle, each thing that Nathan and the gang face. Mike is a true, rare talent and I look forward to seeing what he does next. For these reasons, and many more, Tales from the Wasteland is TVGrapevine's Best Fiction of 2022.",
     "with": [
       "As an avid reader, I am always looking for new books to add to my collection.",
       "Imagine my excitement and delight when I found out my high school buddy Mike Soldano wrote not one, but SEVEN books!",
-      "The first book is called The Coyote and kicks off the seven-part journey of apprentice Coyote Nathan, who is trying to survive in this brand-new, scary world.",
-      "Mike has a talent like no other when it comes to taking us on these incredible adventures.",
-      "For these reasons, and many more, Tales from the Wasteland is TVGrapevine’s Best Fiction of 2022."
+      "These books are called Tales from the Wasteland and take readers on a special post-apocalyptic, sci-fi journey.",
+      "The first book is called The Coyote and kicks off the seven-part journey of apprentice Coyote Nathan.",
+      "For these reasons, and many more, Tales from the Wasteland is TVGrapevine's Best Fiction of 2022."
     ],
     "without": [
-      "Home",
-      "About/Media Kit",
-      "Interviews",
-      "News",
-      "Breaking News"
-    ]
+      "Subscribe to our newsletter",
+      "Copyright 2025 TV Grapevine",
+      "Home News About/Media Kit Interviews",
+      "Breaking News Show Renewals for 2025",
+      "Click to rate this post!"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://www.tvgrapevine.com/wp-content/uploads/2022/12/91ZDKyL8zmL._CLa_30252550_81ik2ArKM2L.jpg91rC5cZfzNL.jpg_00137525501650013752550687016502550_._SY300_-1.jpg",
+          "filename": "91ZDKyL8zmL._CLa_30252550_81ik2ArKM2L.jpg91rC5cZfzNL.jpg_00137525501650013752550687016502550_._SY300_-1.jpg",
+          "alt": "TVGrapevine's Best Fiction of 2022: Tales of the Wasteland",
+          "caption": "TVGrapevine's Best Fiction of 2022: Tales of the Wasteland",
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:36:39.862768"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:26:20.029533"
 }

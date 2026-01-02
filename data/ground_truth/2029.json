@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://qc-cleaning.com/testimonials/",
+  "file_id": "2029",
+  "_internal": {
+    "page_type": {
+      "primary": "review",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "testimonials",
+        "cleaning-service",
+        "reviews",
+        "home-cleaning"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Testimonials & Cleaning Service Reviews - QC Cleaning",
+    "author": null,
+    "publish_date": null,
+    "main_content": "We at QC Cleaning take pride in our customer satisfaction and are happy to receive all of the positive feedback we get from our clients online since 2006 in over 150 reviews. Everyone wants a pristine home or office environment without putting in all the time and effort to maintain a spotless space – from dusting, to vacuuming, to washing floors. We keep your home in shipshape with our cleaning and maid services depending on your needs and your schedule. Aside from our quality services, our client's time and keeping to schedule is what we pride ourself on most. We are pleased to share these maid and cleaning service reviews as many of our clients have been with us for over a decade.\n\nTestimonials include: \"This was by far the friendliest cleaning crew I have ever dealt with. Very professional and made themselves available last minute so that I could have a professionally cleaned house before out of town family arrived. I am going to continue to use them and already made my next appointment. Marta is a lovely person, returned my call immediately and she and her crew did an immaculate job!\" - Theresa S.\n\n\"Marta & team cleaned my home for about 5 years. She did a great job! I wished she could come with me when I moved to a different state. I would highly recommend.\" - Sheetal D.\n\n\"Very thorough, reliable and professional! Have been using them for at least 10 years.\" - Kelly L.\n\n\"Have had my home cleaned for 15 years. They are the best cleaners I have had in that time. For reference, it's a large home – 6 bedrooms, 5 baths, 2 kitchens, and every part of the home is cleaned just as well as another.\" - Customer\n\n\"The QC Guarantee: With us your house will shine! We clean and treat your home as we treat our own homes. Choose us as your trusted cleaner and get a deep cleaning for half of the price with your first clean.\" -Marta, Owner – QC Cleaning.",
+    "with": [
+      "We at QC Cleaning take pride in our customer satisfaction and are happy to receive all of the positive feedback we get from our clients online since 2006 in over 150 reviews.",
+      "This was by far the friendliest cleaning crew I have ever dealt with. Very professional and made themselves available last minute so that I could have a professionally cleaned house before out of town family arrived.",
+      "Marta & team cleaned my home for about 5 years. She did a great job! I wished she could come with me when I moved to a different state. I would highly recommend.",
+      "Very thorough, reliable and professional! Have been using them for at least 10 years.",
+      "With us your house will shine! We clean and treat your home as we treat our own homes."
+    ],
+    "without": [
+      "Press to call or text at (484) 334-3033",
+      "Home | About Us | Cleaning Services | Home Organizing | Testimonials | Appointment",
+      "© 2004-2025 QC Cleaning, Inc.",
+      "Mon-Fri: 7 AM - 5 PM, Sat: 8 AM - 1 PM, Sun: Closed",
+      "Connect with us on Facebook, Instagram, Yelp"
+    ],
+    "images": {
+      "total_in_content": 8,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://qc-cleaning.com/wp-content/uploads/2022/06/house-cleaners-in-phoenixville-pa-qc-cleaning-service.jpg",
+          "filename": "house-cleaners-in-phoenixville-pa-qc-cleaning-service.jpg",
+          "alt": "House Cleaners in Phoenixville, Pa - QC Cleaning",
+          "caption": "House Cleaners in Phoenixville, Pa - QC Cleaning",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:20:51.691942"
+}

@@ -1,27 +1,69 @@
 {
+  "schema_version": "2.0",
   "url": "https://nptiflorida.edu/npti-tampa/",
   "file_id": "1082",
-  "downloaded_at": "2025-12-20T20:53:19.315722",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "fitness",
+        "personal-training",
+        "certification",
+        "tampa"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Tampa FL Personal Trainer Certification Courses",
+    "title": "Tampa FL Personal Trainer Certification Courses - NPTI",
     "author": null,
     "publish_date": null,
-    "main_content": "Tampa Personal Trainer Certification Courses\n\nBecome a professional personal trainer at NPTI Tampa in just 18 weeks! Properly educated personal trainers create a safer training environment that translates into fewer injuries and reduced employer liability. NPTI Tampa personal trainers are earning their diploma through classroom-based college courses that combine the scientific theory of human movement and exercise programming with 218 hours of hands-on client personal trainer simulation in an educational lab setting inside Flex & Flow Fitness.\n\nAbout Our Tampa Personal Trainer Certification Courses\n\nIf you’re looking to become a certified personal trainer in Tampa, look no further than the National Personal Training Institute of Florida. Our Tampa location offers a comprehensive and hands-on personal trainer school program that will prepare you for a successful career in the fitness industry.\n\nThe program offers a balanced blend of classroom instruction and hands-on training, creating a dynamic learning environment that maximizes your understanding and retention. Our experienced instructors are passionate about fitness and are committed to providing you with the best possible education.\n\nBut we don’t stop at theory. Practical training is a crucial component of our program, and you’ll have ample opportunities to apply your learning in real-world scenarios. Through supervised practice and actual client interactions, you will gain valuable experience that will boost your confidence and prepare you for the challenges of working as a professional personal trainer.\n\nWe believe that a well-rounded approach is the key to producing exceptional trainers, and that’s precisely what our program delivers. Whether your goal is to work in a gym, start your own fitness business, or help individuals achieve their wellness objectives, our personal trainer certification program equips you with the tools to make a meaningful impact in the lives of others.\n\nOur personal trainer certification program in Tampa, FL is designed to provide you with the knowledge, skills, and confidence you need to excel as a personal trainer. Our curriculum includes both classroom instruction and practical training, so you’ll have the opportunity to put your knowledge into practice and gain real-world experience.\n\nInterested in Our Tampa Personal Trainer Certification Courses? Work with NPTI Florida!\n\nAt NPTI, we’re committed to helping you achieve your goals and become the best personal trainer you can be. Whether you’re just starting your career in fitness or looking to take your skills to the next level, our personal trainer certification in Tampa can help you get there. \n\nNPTI Tampa is an ACCSC accredited institution. Students have confidence in knowing that they are attending a school that has undergone a rigorous accreditation process that has evaluated educational quality in the programs offered and that NPTI has shown that it is meeting the ACCSC’s established standards. NPTI Tampa is veteran owned and operated.\n\nSo why wait? Contact us today to learn more about our Tampa fitness programs and start your journey to becoming a certified personal trainer.\n\nTampa Personal Trainer Certification In Just 4 Months\n\nThere aren’t many cities to get in the best shape of your life that are comparable to Tampa, Florida. There are even fewer places to become a highly qualified professional personal fitness instructor than the National Personal Fitness Training Institute.\n\nOur extensive 600-hour program is led by highly skilled instructors that have worked in a variety of settings as personal trainers. They will teach you everything that you need to know about exercise science in a hands-on practical setting utilizing state-of-the-art equipment.\n\nNPTI Tampa is accredited by the Accrediting Commission of Career Schools and Colleges (ACCSC). By attending an ACCSC-accredited institution, you should have confidence in knowing that you are attending a school that has undergone a rigorous accreditation process that has evaluated educational quality in the programs offered and that your school has shown that it is meeting ACCSC’S established standards of education.\n\nApproved for the GI Bill for Veterans. Go to: Chapter 30 (Active Duty GI Bill) Pamphlet or Call (844) NPTIFIT(678-4348) for more information.\n\nNPTI Tampa Catalog\nFitness Career Guide\nVeterans Benefits Support\n\nAdmissions & Aid Schedule A Tour Apply Today\n\nNPTI Tampa Class Dates 2025-2026 600 Courses\n\nNPTI Florida Tampa 2025–2026 class schedule for the Personal Fitness Training Program.",
+    "main_content": "NPTI Tampa offers comprehensive personal trainer certification courses designed to prepare students for successful careers in the fitness industry. The 600-hour program combines scientific theory of human movement and exercise programming with 218 hours of hands-on client personal trainer simulation in an educational lab setting at Flex & Flow Fitness, completing in just 18 weeks. The program provides a balanced blend of classroom instruction and practical training, creating a dynamic learning environment that maximizes understanding and retention through supervised practice and actual client interactions. NPTI Tampa is accredited by the Accrediting Commission of Career Schools and Colleges (ACCSC), ensuring educational quality meets established standards and providing confidence in the school's rigorous accreditation process. Approved for the GI Bill for veterans, the program is veteran-owned and operated with unlimited career potential and fitness jobs globally available after graduation. Whether your goal is to work in a gym, start your own fitness business, or help individuals achieve their wellness objectives, this personal trainer certification program equips you with the tools to make a meaningful impact in the lives of others.",
     "with": [
-      "Become a professional personal trainer at NPTI Tampa in just 18 weeks!",
-      "NPTI Tampa personal trainers are earning their diploma through classroom-based college courses that combine the scientific theory of human movement and exercise programming with 218 hours of hands-on client personal trainer simulation.",
-      "Our Tampa location offers a comprehensive and hands-on personal trainer school program that will prepare you for a successful career in the fitness industry.",
-      "NPTI Tampa is an ACCSC accredited institution. Students have confidence in knowing that they are attending a school that has undergone a rigorous accreditation process.",
-      "Our extensive 600-hour program is led by highly skilled instructors that have worked in a variety of settings as personal trainers."
+      "Become a professional personal trainer at NPTI Tampa in just 18 weeks through classroom-based college courses that combine scientific theory with hands-on training.",
+      "NPTI Tampa is accredited by the Accrediting Commission of Career Schools and Colleges (ACCSC).",
+      "The 600-hour program includes 218 hours of hands-on client personal trainer simulation in an educational lab setting inside Flex & Flow Fitness.",
+      "Approved for the GI Bill for Veterans pursuing personal trainer certification in Tampa, FL.",
+      "The program prepares you for a successful career in the fitness industry whether working in a gym, starting your own business, or helping individuals achieve wellness objectives."
     ],
     "without": [
-      "Orlando: 407-772-0057",
-      "Home » Tampa FL Personal Trainer Certification Courses",
-      "Request More Information",
-      "Call Us Now! 844-NPTIFIT / 813-374-2017",
-      "Copyright  ©2024 NPTIFLORIDA.EDU. All Rights Reserved."
-    ]
+      "Apply Now",
+      "Schedule A Tour",
+      "Contact us today to learn more",
+      "844-NPTIFIT",
+      "Copyright 2024 NPTIFLORIDA"
+    ],
+    "images": {
+      "total_in_content": 5,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://nptiflorida.edu/wp-content/uploads/2025/08/image-1-scaled.png",
+          "filename": "image-1-scaled.png",
+          "alt": "image",
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://nptiflorida.edu/wp-content/uploads/2022/04/accsc-npti.png",
+          "filename": "accsc-npti.png",
+          "alt": "ACCSC",
+          "caption": "NPTI Tampa is accredited by the Accrediting Commission of Career Schools and Colleges (ACCSC)",
+          "is_hero": false
+        },
+        {
+          "src": "https://nptiflorida.edu/wp-content/uploads/2025/04/NPTI-Tampa-2025-2026-Personal-Fitness-Training-Class-Dates_page-0001.jpg",
+          "filename": "NPTI-Tampa-2025-2026-Personal-Fitness-Training-Class-Dates_page-0001.jpg",
+          "alt": "NPTI Florida Tampa 2025–2026 class schedule for the Personal Fitness Training Program.",
+          "caption": "NPTI Florida Tampa 2025–2026 class schedule for the Personal Fitness Training Program",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:53:19.315728"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:20:11.912453"
 }

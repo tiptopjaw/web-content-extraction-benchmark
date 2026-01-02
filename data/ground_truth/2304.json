@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.casact.org/newsletter-article/candidate-experience-consulting-firm-vs-insurance-carrier",
+  "file_id": "2304",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "career",
+        "actuarial",
+        "interview",
+        "consulting",
+        "insurance"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Candidate Experience: Consulting Firm vs. Insurance Carrier",
+    "author": null,
+    "publish_date": null,
+    "main_content": "A common question asked by candidates searching for their first actuarial job is, \"Should I work for a consulting firm or a traditional insurance carrier?\" In Future Fellows December 2008 & March 2009, we addressed several myths about the similarities and differences of consulting firms vs. insurance carriers from the points of view of long-term actuaries. For this article, we decided to interview people at an earlier point in their careers: candidates. The article features interviews with actuarial candidates sharing their experiences working at consulting firms versus insurance carriers, discussing the pros and cons of each work environment, the types of projects and responsibilities, work-life balance considerations, and career development opportunities.",
+    "with": [
+      "A common question asked by candidates searching for their first actuarial job is, \"Should I work for a consulting firm or a traditional insurance carrier?\"",
+      "In Future Fellows December 2008 & March 2009, we addressed several myths about the similarities and differences of consulting firms vs. insurance carriers",
+      "For this article, we decided to interview people at an earlier point in their careers: candidates.",
+      "The article discusses the differences between working at consulting firms versus traditional insurance carriers.",
+      "Candidates share their experiences about career development and work-life balance."
+    ],
+    "without": [
+      "Exams & Admissions navigation menu",
+      "CAS logo and branding",
+      "Footer links and copyright information",
+      "Social media sharing buttons",
+      "Search functionality and login links"
+    ],
+    "images": {
+      "total_in_content": 2,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:32:06.508986"
+}

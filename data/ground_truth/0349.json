@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://graymatterlifting.com/garage-gym-reviews/machine-reviews/",
+  "file_id": "0349",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "reviews",
+        "machines",
+        "garage-gym",
+        "equipment"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Machine Reviews - Gray Matter Lifting",
+    "author": "Joe Gray",
+    "publish_date": "2023-03-30",
+    "main_content": "Looking for the best Machines for your garage gym? Below are all of the Machine Reviews I have done with items I have handled myself. In a home or garage gym, you often can't own a full line of commercial machines. So you make compromises and put together a few pieces that do fit. You might be able to fit more if the pieces fold away, store away, or otherwise breakdown. But your best bet is likely to snag a machine that does a lot. We just don't want a jack of all trades, master of none situation. So picking the right machine is crucial. One of the best places to grab home gym machines is from Strength Warehouse USA. They have offerings from a ton of companies. Ultimately your choice to include a machine in your gym will be based on your needs, goals, budget, and space. Machine Reviews",
+    "with": [
+      "Looking for the best Machines for your garage gym? Below are all of the Machine Reviews I have done with items I have handled myself.",
+      "In a home or garage gym, you often can't own a full line of commercial machines.",
+      "You might be able to fit more if the pieces fold away, store away, or otherwise breakdown.",
+      "But your best bet is likely to snag a machine that does a lot.",
+      "Ultimately your choice to include a machine in your gym will be based on your needs, goals, budget, and space."
+    ],
+    "without": [
+      "My Home Gym navigation menu",
+      "Footer social media icons and links",
+      "Sidebar contact information and bio image",
+      "Tag cloud and testimonial carousel",
+      "Affiliate disclosure and copyright notices"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://i0.wp.com/graymatterlifting.com/wp-content/uploads/2023/03/The-Garage-Gym-Basics-Machines.png?resize=960%2C540&ssl=1",
+          "filename": "The-Garage-Gym-Basics-Machines.png",
+          "alt": "Machine Reviews",
+          "caption": "Machine Reviews",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:00:00.999963"
+}

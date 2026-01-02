@@ -1,26 +1,45 @@
 {
+  "schema_version": "2.0",
   "url": "https://cameroncounts.wordpress.com/2025/12/20/new-diamond-journal-2",
   "file_id": "2537",
-  "downloaded_at": "2025-12-21T00:13:16.507055",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "mathematics",
+        "blog",
+        "academic-journal"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "New diamond journal",
     "author": "Peter Cameron",
     "publish_date": "2025-12-20",
-    "main_content": "Welcome to a new diamond open access journal, JoNAS (the Journal of Non-Associative Structures).\n\nFrom the web page:\n\nJoNAS, the Journal of Non-Associative Structures, is a diamond open-access, electronic, international research journal that publishes research and survey articles in mathematics since 2026. It is dedicated to publishing high-quality original research articles in non-associative algebra and its applications to geometry, combinatorics, mathematical analysis, mathematical physics, and other areas of pure and applied mathematics. The journal does not charge author processing fees of any sort, and all published articles are available for free.\n\nThis led me to wonder about the term “non-associative”, which could have two possible meanings: not necessarily associative, or definitely not associative. In terms of things that are much studied, there seem three different cases:\n\n- Non-associative except in very degenerate special cases, such as Lie algebras.\n- Mostly non-associative, but associative in some very interesting special cases, such as loops. (Though only an extremist would consider group theory to be a subdiscipline of loop theory!)\n- Mostly associative, but non-associative in some very interesting special cases. Stretching the meaning a bit, I would put Jordan algebras here. Most of them are built from associative algebras using the Jordan product, but there are exceptional Jordan algebras.\n\nI am guessing that they would welcome papers on Jordan algebras but not hard-core group theory.",
+    "main_content": "Welcome to a new diamond open access journal, JoNAS (the Journal of Non-Associative Structures). From the web page: JoNAS, the Journal of Non-Associative Structures, is a diamond open-access, electronic, international research journal that publishes research and survey articles in mathematics since 2026. It is dedicated to publishing high-quality original research articles in non-associative algebra and its applications to geometry, combinatorics, mathematical analysis, mathematical physics, and other areas of pure and applied mathematics. The journal does not charge author processing fees of any sort, and all published articles are available for free. This led me to wonder about the term \"non-associative\", which could have two possible meanings: not necessarily associative, or definitely not associative. In terms of things that are much studied, there seem three different cases: Non-associative except in very degenerate special cases, such as Lie algebras. Mostly non-associative, but associative in some very interesting special cases, such as loops. (Though only an extremist would consider group theory to be a subdiscipline of loop theory!) Mostly associative, but non-associative in some very interesting special cases. Stretching the meaning a bit, I would put Jordan algebras here. Most of them are built from associative algebras using the Jordan product, but there are exceptional Jordan algebras. I am guessing that they would welcome papers on Jordan algebras but not hard-core group theory.",
     "with": [
       "Welcome to a new diamond open access journal, JoNAS (the Journal of Non-Associative Structures).",
       "JoNAS, the Journal of Non-Associative Structures, is a diamond open-access, electronic, international research journal that publishes research and survey articles in mathematics since 2026.",
-      "This led me to wonder about the term “non-associative”, which could have two possible meanings: not necessarily associative, or definitely not associative.",
+      "The journal does not charge author processing fees of any sort, and all published articles are available for free.",
+      "Non-associative except in very degenerate special cases, such as Lie algebras.",
       "I am guessing that they would welcome papers on Jordan algebras but not hard-core group theory."
     ],
     "without": [
-      "Home About Books Contents Foundations Lecture notes Quotes",
-      "Share this: Email Print X Facebook Reddit",
-      "This entry was posted in Uncategorized and tagged groups, Jordan algebras, Lie algebras, loops, non-associative.",
-      "Enter your email address to subscribe to this blog and receive notifications of new posts by email.",
-      "Peter Cameron's Blog always busy counting, doubting every figured guess . . ."
-    ]
+      "Peter Cameron's Blog",
+      "Home | About | Books | Contents | Foundations | Lecture notes",
+      "Blog at WordPress.com",
+      "Privacy Policy",
+      "Share this: Email | Print | X | Facebook | Reddit"
+    ],
+    "images": {
+      "total_in_content": 4,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-21T00:13:16.507061"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:44:07.927524"
 }

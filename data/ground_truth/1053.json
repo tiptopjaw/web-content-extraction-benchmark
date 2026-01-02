@@ -1,27 +1,54 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.dxomark.com/cameras/",
   "file_id": "1053",
-  "downloaded_at": "2025-12-20T20:38:03.314288",
+  "_internal": {
+    "page_type": {
+      "primary": "directory",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "camera-sensors",
+        "rankings",
+        "database",
+        "filters"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Camera sensor rankings",
+    "title": "Sensors Database - DXOMARK",
     "author": null,
     "publish_date": null,
-    "main_content": "The DXOMARK scores in the rankings below reflect the device’s performance and the quality of the user experience. These scores, trusted by the industry, are backed up by exhaustive protocols that gather hundreds of measurements run in DXOMARK’s state-of-the-art laboratories. With DXOMARK you can display the cameras with three different views - Grid, List or Graph in order for you to have the best solution to compare the filtered results. Choose the cameras you want to compare from the results below. Then in the selection box, you can check up to three cameras at a time to compare their data. OVERALL SCORE: Measures camera performance for a general-purpose use case, based on the combination of three use case scores: Portrait, Landscape and Sports. PORTRAIT: Measures in bits the number of colors that the sensor is able to distinguish. LANDSCAPE: Measures in exposure value (EV) the maximum difference between light and dark details that a sensor can record. SPORTS: Measures the highest ISO a photographer could use without compromise of image quality.",
+    "main_content": "Camera sensor rankings. The DXOMARK scores in the rankings below reflect the device's performance and the quality of the user experience. These scores, trusted by the industry, are backed up by exhaustive protocols that gather hundreds of measurements run in DXOMARK's state-of-the-art laboratories. With DXOMARK you can display the cameras with three different views - Grid, List or Graph in order for you to have the best solution to compare the filtered results. Choose the cameras you want to compare from the results below. Then in the selection box, you can check up to three cameras at a time to compare their data. The camera categories include: Compact, High-end compact, Hybrid, Entry-level DSLR, Semi-pro DSLR, and Professional. Sensor formats available: 1/2.3\", 1/1.7\", 2/3\", 1\", 4/3\", APS-C, APS-H, FF (Full Frame), and MF (Medium Format). Brands available: Canon, Nikon, Sony, Leica, Pentax, Olympus, Samsung, Fujifilm, Panasonic, Phase One, Hasselblad, Pixii, Konica Minolta, Nokia, Leaf, Ricoh, Mamiya, Casio, Sigma, YI, DJI, GoPro, YUNEEC. The overall score measures camera performance for a general-purpose use case, based on the combination of three use case scores: Portrait, Landscape and Sports.",
     "with": [
-      "The DXOMARK scores in the rankings below reflect the device’s performance and the quality of the user experience.",
-      "These scores, trusted by the industry, are backed up by exhaustive protocols that gather hundreds of measurements run in DXOMARK’s state-of-the-art laboratories.",
+      "The DXOMARK scores in the rankings below reflect the device's performance and the quality of the user experience.",
       "With DXOMARK you can display the cameras with three different views - Grid, List or Graph in order for you to have the best solution to compare the filtered results.",
-      "OVERALL SCORE: Measures camera performance for a general-purpose use case, based on the combination of three use case scores: Portrait, Landscape and Sports.",
-      "PORTRAIT: Measures in bits the number of colors that the sensor is able to distinguish."
+      "Choose the cameras you want to compare from the results below.",
+      "Measures camera performance for a general-purpose use case, based on the combination of three use case scores: Portrait, Landscape and Sports.",
+      "Measures in exposure value (EV) the maximum difference between light and dark details that a sensor can record."
     ],
     "without": [
-      "Skip to content",
-      "Search for your device brand or model…",
-      "Copyright © 2008-2025 DXOMARK. All rights reserved - Terms & Conditions - Cookies Management",
-      "Follow on Facebook",
-      "Back to top"
-    ]
+      "Search for your device brand or model",
+      "Copyright © 2008-2025 DXOMARK",
+      "Join Us",
+      "B2B Solutions",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 10,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://www.dxomark.com/wp-content/themes/flatsome-child/assets/img/ranking/sensor-ranking-bg.jpg",
+          "filename": "sensor-ranking-bg.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:38:03.314294"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:10:47.521298"
 }

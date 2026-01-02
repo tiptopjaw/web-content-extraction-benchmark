@@ -1,27 +1,68 @@
 {
+  "schema_version": "2.0",
   "url": "https://ilsi.org/pubs/nutrition-reviews/",
   "file_id": "1637",
-  "downloaded_at": "2025-12-20T22:49:13.682764",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "journal",
+        "publication",
+        "nutrition",
+        "academic"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Nutrition Reviews",
     "author": null,
     "publish_date": null,
-    "main_content": "Nutrition Reviews is a leading peer-reviewed journal dedicated to the publication of authoritative literature reviews that analyze and synthesize existing and emerging knowledge in the field of nutrition science. It is published monthly by the International Life Sciences Institute (ILSI) in partnership with Oxford University Press.\n\nEditor-in-Chief: Douglas Taren, PhD, MS\n\nAssociate Editors:\n- Brian Finck, PhD, Washington University in St. Louis, St. Louis, Missouri, USA\n- Corrine Hanson, PhD, RD, LMNT, FAND, University of Nebraska Medical Center, Omaha, Nebraska, USA\n- Kathleen Holton, PhD, American University, Washington, DC, USA\n- Joshua W. Miller, PhD, Rutgers, The State University of New Jersey, New Brunswick, New Jersey, USA\n- Muzi Na, PhD, Pennsylvania State University, University Park, Pennsylvania, USA\n- Rachel Novotny, PhD, RD, University of Hawaii at Manoa, Honolulu, Hawaii, USA\n- Alejandra de Jesús Cantoral Preciado, PhD, Ibero-American University, Mexico City, Mexico\n- Manuel Ruz, PhD, University of Santiago, Santiago, Chile\n- Leslie Shen, PhD, CCRP, Texas Tech University Health Sciences Center, Lubbock, Texas\n- Carolyn Slupsky, PhD, University of California, Davis, California, USA\n- Kristina A. Varady, PhD, University of Illinois Chicago, Illinois, USA\n- V. Saroja Voruganti, PhD, University of North Carolina at Chapel Hill, Kannapolis, NC, USA\n\nManaging Editor: James M. Cameron, MA\n\nJournal Impact Factor 2024: 5.9\nFive-Year Impact Factor: 6.6\n\nNutrition Reviews is ranked 13th among nutrition and dietetics journals.\n\nEarly Career Editorial Board\nMeet the members of the Nutrition Reviews Early Career Editorial Board. These early career members add vital new perspectives, energy, and intellectual diversity to the board, which all help the journal look to the future.\n\nNutrition Reviews Podcast\nEach month, Nutrition Reviews publishes a new podcast episode featuring conversations with authors of reviews published in the journal to learn more about who they are, why they wrote their review, and how they think the review should be used to advance nutritional sciences. Listen to Nutrition Reviews podcast episodes.\n\nArticle Collections\nNutrition Reviews curates collections of articles on timely topics, which include top articles in the field identified by Nutrition Reviews editors. The Nutrition Reviews Article Collection Archive features access to:\n- The most highly cited articles in the journal.\n- Articles on omega-3 fatty acids.\n- Articles relevant to nutrition and cognitive function.\n- Reviews focused on stress, sleep, and nutrition.\n\nCollections about other important topics are also available to browse online.\n\nMission and History\nNutrition Reviews was founded in 1942 in response to a recognized need for expert analysis and synthesis of the vast amounts of nutrition science research being generated worldwide. Today, that need is greater still, and Nutrition Reviews continues to serve it with the same goal in mind: To help nutrition scientists, scholars, practitioners, and policymakers stay abreast of significant developments in the field through concise reports prepared with objectivity and a critical focus.\n\nSubmit Your Work\nInterested in publishing an article or supplement? Nutrition Reviews publishes literature reviews with a focus on:\n- Current and emerging topics in nutrition science.\n- Food science.\n- Clinical nutrition.\n- And more.\n\nArticles selected for publication should clearly outline both the biological and practical nutritional implications of a timely topic. Submissions from related disciplines are welcome. Examples include:\n- Microbiology.\n- Biochemistry.\n- Public health.\n- Psychology.\n- Sociology.\n- Economics.\n\nLearn more with the Nutrition Reviews author guidelines.\n\nSign up for electronic content alerts | Subscribe to Nutrition Reviews | Submit an article to Nutrition Reviews | RSS Feeds | Nutrition Reviews' Editorial Board | Listen to Nutrition Reviews podcast episodes | Follow Nutrition Reviews on Twitter and LinkedIn\n\nQuestions? Have an idea for a supplement? Contact the editorial office at nutritionreviews@ilsi.org.",
+    "main_content": "Nutrition Reviews is a leading peer-reviewed journal dedicated to the publication of authoritative literature reviews that analyze and synthesize existing and emerging knowledge in the field of nutrition science. It is published monthly by the International Life Sciences Institute (ILSI) in partnership with Oxford University Press. Editor-in-Chief: Douglas Taren, PhD, MS. Associate Editors include Brian Finck, PhD (Washington University in St. Louis), Corrine Hanson, PhD, RD, LMNT, FAND (University of Nebraska Medical Center), Kathleen Holton, PhD (American University), Joshua W. Miller, PhD (Rutgers University), and others. Managing Editor: James M. Cameron, MA. Journal Impact Factor 2024: 5.9, Five-Year Impact Factor: 6.6. The journal is ranked 13th among nutrition and dietetics journals. Each month, Nutrition Reviews publishes a new podcast episode featuring conversations with authors of reviews published in the journal. The journal curates collections of articles on timely topics including the most highly cited articles, articles on omega-3 fatty acids, nutrition and cognitive function, and reviews on stress, sleep, and nutrition. Nutrition Reviews was founded in 1942 in response to a recognized need for expert analysis and synthesis of nutrition science research. The journal welcomes submissions on current and emerging topics in nutrition science, food science, clinical nutrition, and related disciplines including microbiology, biochemistry, public health, psychology, sociology, and economics. Contact: nutritionreviews@ilsi.org",
     "with": [
-      "Nutrition Reviews is a leading peer-reviewed journal dedicated to the publication of authoritative literature reviews that analyze and synthesize existing and emerging knowledge in the field of nutrition science.",
+      "Nutrition Reviews is a leading peer-reviewed journal dedicated to the publication of authoritative literature reviews.",
       "It is published monthly by the International Life Sciences Institute (ILSI) in partnership with Oxford University Press.",
-      "Nutrition Reviews was founded in 1942 in response to a recognized need for expert analysis and synthesis of the vast amounts of nutrition science research being generated worldwide.",
-      "Journal Impact Factor 2024: 5.9, Five-Year Impact Factor: 6.6, Nutrition Reviews is ranked 13th among nutrition and dietetics journals.",
-      "Articles selected for publication should clearly outline both the biological and practical nutritional implications of a timely topic."
+      "Journal Impact Factor 2024: 5.9, Five-Year Impact Factor: 6.6.",
+      "Each month, Nutrition Reviews publishes a new podcast episode featuring conversations with authors.",
+      "Nutrition Reviews was founded in 1942 in response to a recognized need for expert analysis and synthesis of nutrition science research."
     ],
     "without": [
-      "Skip to content",
-      "About ILSI, Science and Research, Publications, Events, Donate",
       "Copyright ©2025 International Life Sciences Institute",
-      "Manage Cookie Consent, This site uses cookies to provide you with a personalized browsing experience.",
-      "ILSI's Mission, Principles and Policies, Mission and Vision, Principles for Scientific Integrity"
-    ]
+      "Skip to content",
+      "ILSI Privacy Notice",
+      "Connect with ILSI on social media",
+      "Cookie consent management"
+    ],
+    "images": {
+      "total_in_content": 4,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://ilsi.org/wp-content/uploads/2023/02/nutritionreviews_81_3cover_303x400.jpg",
+          "filename": "nutritionreviews_81_3cover_303x400.jpg",
+          "alt": "Browse Nutrition Reviews journal articles",
+          "caption": "Browse Nutrition Reviews journal articles",
+          "is_hero": true
+        },
+        {
+          "src": "https://ilsi.org/wp-content/uploads/2023/02/podcast_600x400-px-300x200.jpg",
+          "filename": "podcast_600x400-px-300x200.jpg",
+          "alt": "Access Nutrition Reviews Podcast episodes",
+          "caption": "Access Nutrition Reviews Podcast episodes",
+          "is_hero": false
+        },
+        {
+          "src": "https://ilsi.org/wp-content/uploads/2023/08/Why-Publish-NR.jpg",
+          "filename": "Why-Publish-NR.jpg",
+          "alt": "Why Publish - NR",
+          "caption": "Why Publish - NR",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:49:13.682769"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:37:05.463022"
 }

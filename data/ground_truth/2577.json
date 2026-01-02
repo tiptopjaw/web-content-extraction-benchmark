@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "url": "http://miod.online.fr/software/openbsd/stories/boot_hppa.html",
+  "file_id": "2577",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "openbsd",
+        "hardware",
+        "technical",
+        "blog"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "The scariest boot loader code",
+    "author": "Miod Vallat",
+    "publish_date": null,
+    "main_content": "In 1999, a company I had been working for in the past decommissioned some hardware, including an HP 9000/720 workstation, a somewhat early PA-RISC model. After the person for which the software had been bought left the company, the machine was left in a corner in the printers room, acting as a boot server for the various X terminals in use at the company. I had remained in good terms with enough key people there, that they told me I could drop by to say hello and get that machine if I was interested in it. But I was not interested in running HP/UX on it. I wanted to run OpenBSD. This porting effort was mostly the work of one man, the late Michael Shalayeff, who had been working on-and-off on it since 1998, slowly making progress despite the lack of documentation. The HP machine used to have two 425MB SCSI internal disk drives, but one of the disks was dying, and the system would not come up multiuser without some manual interaction. HP needed a way to make the 715 more appealing than the 712 to a large enough part of the workstation market. A key feature of Unix workstations is that, if there is no keyboard plugged in on powerup, they recognize this and switch to serial console. However, if you were to dare powering up a 712 without the keyboard plugged in, its firmware would complain that the keyboard is missing and freeze, refusing to boot the operating system. It shouldn't be surprising that the HP-UX FAQ eventually grew an entry for 'how can I make a 712 run headless'. And anyway, we OpenBSD people definitely wanted to be able to use our 712 that way, without any outside help. We knew better. We knew we could do better. And then it dawned on me. Of course we could do this! So here I was, 'challenge accepted': allow the OpenBSD boot blocks to display and modify the firmware's 'console path'. The HP-UX FAQ would warn that, if you were to make a mistake when setting the console path from the HP-UX diagnostic tools, you would need an HP field engineer to service your machine with a special 'dagger' board. The first part of changing things being knowing what you are working on, my first step was to collect and display the console path. The next day, I managed to switch my 712 to the canonical 9600 8N1 serial settings. But as soon as you start hitting the low speeds, that wall of text takes more and more time to appear. At the slowest possible speed of 50bps, it takes a bit short of 6 minutes for it to appear in its entirety. So what seemed to be a simple 'ok, let's try all the available speeds' turned out to last two good hours, and I really was relieved once completed and all tested speeds had worked.",
+    "with": [
+      "I had remained in good terms with enough key people there, that they told me I could drop by to say hello and get that machine if I was interested in it.",
+      "But I was not interested in running HP/UX on it. I wanted to run OpenBSD.",
+      "And then it dawned on me. Of course we could do this!",
+      "So here I was, 'challenge accepted': allow the OpenBSD boot blocks (which were extendable with machine-specific commands) to display and modify the firmware's 'console path'.",
+      "At the slowest possible speed of 50bps, it takes a bit short of 6 minutes for it to appear in its entirety."
+    ],
+    "without": [
+      "OpenBSD stories",
+      "miod@online.fr",
+      "miod > software > OpenBSD > stories",
+      "Privacy Policy",
+      "Cookie notice"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:03:07.035897"
+}

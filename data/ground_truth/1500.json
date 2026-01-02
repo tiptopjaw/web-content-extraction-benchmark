@@ -1,27 +1,75 @@
 {
+  "schema_version": "2.0",
   "url": "https://forefrontdermatology.com/location/milwaukee-wi-53202/",
   "file_id": "1500",
-  "downloaded_at": "2025-12-20T22:50:05.585240",
+  "_internal": {
+    "page_type": {
+      "primary": "directory",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "healthcare",
+        "dermatology",
+        "location-page",
+        "business-listing"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Dermatologists Milwaukee, WI: Dermatology Clinic in Milwaukee, WI | Forefront Dermatology",
     "author": null,
     "publish_date": null,
-    "main_content": "Your Trusted Skin Care Provider in Milwaukee\nCompassionate care from experienced, board-certified dermatologists.\n\nBoard-certified dermatologists near you.\nAt Forefront Dermatology, our team of board-certified medical, and surgical dermatologists offers a highly personalized approach to meeting all of your skin care needs. We are proud to serve Milwaukee, West Milwaukee and surrounding areas. We provide comprehensive dermatology care and exceptional patient experience in a convenient location.\n\n735 N. Water Street, Suite 830\nMilwaukee, Wisconsin 53202\n(414) 273-1222\nGet directions\n\nHours:\nMonday 8:30am - 4:00pm\nTuesday 8:30am - 4:00pm\nWednesday 1:00pm - 4:00pm\nThursday 8:30am - 4:00pm\nFriday Closed\nSaturday Closed\nSunday Closed\n*Hours are subject to change, please call to confirm.\n\nMedical Dermatology\nFrom annual skin exams to skin cancer screenings, our dermatologists and medical staff are experts in treating all skin types and tones, skin cancer, acne, eczema, moles, rashes, fungus, and more.\n\nSkin Cancer Surgery\nSkin cancer is the most common type of cancer. At Forefront Dermatology, we offer skin cancer screenings and a number of treatment options, including Mohs surgery, and more.\n\nMeet our team\nErik C. Alexander, MD, FAAD\nBoard-Certified Dermatologist\n\nWhat our patients have to say\nThis is a great practice. Friendly staff, prompt appointments, expert medical knowledge, and a willing attitude to problem solve.\nForefront Patient\n\nI am very pleased with the care I have been given at Forefront Dermatology. Everyone that I have met there is very professional and caring.\nForefront Patient\n\nMy first appointment was great. Loved the staff and the experience!\nForefront Patient\n\nWhy Choose Forefront Dermatology?\nAt Forefront, we’re dedicated to caring for the health and well-being of each of our patients. If you find yourself asking others or searching online for “The best dermatologist near me,” you can feel confident that we’ll provide the most advanced care possible. Our large network of board-certified dermatologists has the experience and knowledge to treat even the most difficult cases. \nMany of our offices are equipped to handle advanced dermatology needs and are supported by Mohs surgeons, who are experts in the treatment of skin cancers affecting the face, neck, hands, and feet. With our dermatopathology lab, we’re able to carefully examine biopsy results and view the full medical history of each patient. \n\nTeen Skincare Products: A Gift Guide for Parents, by Dermatologists\nIf you’re the parent of a teen, don’t be surprised if their holiday wish list this year includes serums, toners, masks, and a slew of other fancy skincare products. Today’s kids flock to social media “experts” for advice on how to achieve a clear, glowing (even glassy) complexion, and no matter how young these influencers […]\n\nInsurance Accepted",
+    "main_content": "Your Trusted Skin Care Provider in Milwaukee. Compassionate care from experienced, board-certified dermatologists. At Forefront Dermatology, our team of board-certified medical, and surgical dermatologists offers a highly personalized approach to meeting all of your skin care needs. We are proud to serve Milwaukee, West Milwaukee and surrounding areas. We provide comprehensive dermatology care and exceptional patient experience in a convenient location. Medical Dermatology: From annual skin exams to skin cancer screenings, our dermatologists and medical staff are experts in treating all skin types and tones, skin cancer, acne, eczema, moles, rashes, fungus, and more. Skin Cancer Surgery: Skin cancer is the most common type of cancer. At Forefront Dermatology, we offer skin cancer screenings and a number of treatment options, including Mohs surgery, and more. Dr. Erik C. Alexander, MD, FAAD - Board-Certified Dermatologist. Patient Testimonials: This is a great practice. Friendly staff, prompt appointments, expert medical knowledge, and a willing attitude to problem solve. I am very pleased with the care I have been given at Forefront Dermatology. Everyone that I have met there is very professional and caring. My first appointment was great. Loved the staff and the experience! Why Choose Forefront Dermatology: At Forefront, we're dedicated to caring for the health and well-being of each of our patients. If you find yourself asking others or searching online for 'The best dermatologist near me,' you can feel confident that we'll provide the most advanced care possible. Our large network of board-certified dermatologists has the experience and knowledge to treat even the most difficult cases. Many of our offices are equipped to handle advanced dermatology needs and are supported by Mohs surgeons, who are experts in the treatment of skin cancers affecting the face, neck, hands, and feet. Location: 735 N. Water Street, Suite 830, Milwaukee, Wisconsin 53202. Phone: (414) 273-1222. Hours: Monday 8:30am - 4:00pm, Tuesday 8:30am - 4:00pm, Wednesday 1:00pm - 4:00pm, Thursday 8:30am - 4:00pm, Friday Closed, Saturday Closed, Sunday Closed. Insurance Accepted: United Healthcare, Anthem Blue Cross, Medicare, Humana, Network Health.",
     "with": [
+      "Compassionate care from experienced, board-certified dermatologists.",
       "At Forefront Dermatology, our team of board-certified medical, and surgical dermatologists offers a highly personalized approach to meeting all of your skin care needs.",
-      "From annual skin exams to skin cancer screenings, our dermatologists and medical staff are experts in treating all skin types and tones, skin cancer, acne, eczema, moles, rashes, fungus, and more.",
       "Skin cancer is the most common type of cancer. At Forefront Dermatology, we offer skin cancer screenings and a number of treatment options, including Mohs surgery, and more.",
-      "At Forefront, we’re dedicated to caring for the health and well-being of each of our patients. If you find yourself asking others or searching online for “The best dermatologist near me,” you can feel confident that we’ll provide the most advanced care possible.",
-      "Our large network of board-certified dermatologists has the experience and knowledge to treat even the most difficult cases."
+      "At Forefront, we're dedicated to caring for the health and well-being of each of our patients.",
+      "735 N. Water Street, Suite 830, Milwaukee, Wisconsin 53202"
     ],
     "without": [
-      "Call: (414) 273-1222",
       "Book Appointment Online",
       "Patient Portal",
-      "Pay my BillPayments",
-      "© FOREFRONT DERMATOLOGY 2025 ALL RIGHTS RESERVED."
-    ]
+      "Pay my Bill",
+      "© FOREFRONT DERMATOLOGY 2025",
+      "Find Another Location"
+    ],
+    "images": {
+      "total_in_content": 10,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://forefrontdermatology.com/wp-content/themes/forefrontderm/images/hero-image-for-locations-without-cosmetic.jpg",
+          "filename": "hero-image-for-locations-without-cosmetic.jpg",
+          "alt": "Hero Image",
+          "caption": "Milwaukee dermatology clinic exterior",
+          "is_hero": true
+        },
+        {
+          "src": "https://forefrontdermatology.com/wp-content/uploads/2015/04/Alexander-Erik_web-200x200.jpg",
+          "filename": "Alexander-Erik_web-200x200.jpg",
+          "alt": "875Milwaukee, Wisconsin",
+          "caption": "Dr. Erik C. Alexander, MD, FAAD - Board-Certified Dermatologist",
+          "is_hero": false
+        },
+        {
+          "src": "https://forefrontdermatology.com/wp-content/themes/forefrontderm/images/location-dermatologist-check@2x.jpg",
+          "filename": "location-dermatologist-check@2x.jpg",
+          "alt": "dermatologist",
+          "caption": "Dermatologist providing patient care",
+          "is_hero": false
+        },
+        {
+          "src": "https://forefrontdermatology.com/wp-content/uploads/2025/12/Teen-skin-care-gift-ideas.jpg",
+          "filename": "Teen-skin-care-gift-ideas.jpg",
+          "alt": "Teen Skincare Products: A Gift Guide for Parents, by Dermatologists",
+          "caption": "Teen Skincare Products: A Gift Guide for Parents, by Dermatologists",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:50:05.585247"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:02:34.527652"
 }

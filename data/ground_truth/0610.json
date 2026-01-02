@@ -1,26 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://academics.lmu.edu/extension/programs/digitalmarketing/",
   "file_id": "0610",
-  "downloaded_at": "2025-12-20T19:11:05.079985",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "university",
+        "course",
+        "marketing"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Digital Marketing Professional",
-    "author": null,
+    "title": "Digital Marketing Professional - Loyola Marymount University",
+    "author": "Loyola Marymount University",
     "publish_date": null,
-    "main_content": "The digital marketing course is for those who have a practical understanding and comfortable with using the Internet for all that the digital world offers and want to learn digital marketing fundamentals as they apply to the profession at the entry-level. This course also serves business professionals and veteran marketers who want to understand ever-evolving digital marketing tools and methodologies available to maximize business success.\n\nDigital marketing students will be equipped to think conceptually and analytically to evaluate, then choose the appropriate digital marketing technologies, apply them in strategies to meet more discerning marketing objectives, campaigns, KPIs, ROI, etc. Students will learn what is changing in the \"new marketing world\" and how to use the latest tools to their optimal advantage. The instructor will guide students on how to balance customer needs with business success to produce high-quality omni-channel content as deliverables, KPIs supportive of quarterly/annual ROI.\n\nStudents will be provided clear frameworks for learning how to create innovative digital experiences. Learning opportunities will provide succinct, well-defined business examples that demonstrate conceptual development that aligns with the marketing strategy required to meet the business challenge. Additional topics cover share methods for creating effective targeted content, persona driven creative messaging, storytelling, data measurement/analysis, strategy, deployment, brand assessment, sales, CRM, content management, metrics formulation, integration, etc. By the end of the course, students will demonstrate how to execute strategic digital marketing deliverables for campaigns for compelling events and customer engagements, to build and sustain valuable customer relationships, and brand experiences throughout the marketing and sales funnels to advance sustainable sales goals and repeat customer business.\n\nContact us at extension@lmu.edu to get started!\n\nSchedule + Registration\nSpring 2026\nTuesdays Evenings\n1/27/2026 - 3/24/2026\n6:15 PM - 8:15 PM\nRegister Here\n\nInstructor\nSean J. Combs '08\nSean J. Combs received a BA in Industrial Design from UCLA, completed an Industrial Design Master’s program at Konstfack University in Stockholm, Sweden and earned an MBA specializing in Entrepreneurship and International Business from Loyola Marymount University. His technology career spans over three decades and includes classical marketing consulting, digital marketing, brand strategy, and business management. His industry experience began in corporate fraud analysis reviewing hundreds of publicly traded technology companies’ businesses, extending to media, entertainment, SaaS and everything in-between. Sean, is a California native, growing up in San Francisco, where he attended St. Ignatius College Preparatory while rowing for the SI Crew. Sean lives in Los Angeles with his family and loves playing lacrosse in his spare time.\n\nCourse Description\nOBJECTIVES\nDigital marketing continuously evolves with new and shifting platforms, technologies, and strategies. Consequently, “best practices” that worked just a few years ago may fall short today. In this intensive course, the objectives are as follows:\nStudents will learn how to critically evaluate various digital marketing options - including website content, search engine optimization, display advertising, social networks, and mobile - by analyzing case studies, conducting market research, and applying various frameworks.\nStudents will then create digital marketing campaign plans to meet specific, measurable business goals.\nOUTCOMES\nAt the end of this course, students will be certified as a Digital Marketing Professional and be able to:\nCritically evaluate various forms of new media and determine their uses, benefits, and drawbacks.\nApply digital marketing strategies and create metrics to implement, manage, and measure new media.\nWork in a marketing team to plan and create a new media campaign to meet professional marketing objectives.",
+    "main_content": "Digital Marketing Professional course at Loyola Marymount University Extension. The digital marketing course is for those who have a practical understanding and comfortable with using the Internet for all that the digital world offers and want to learn digital marketing fundamentals as they apply to the profession at the entry-level. This course also serves business professionals and veteran marketers who want to understand ever-evolving digital marketing tools and methodologies available to maximize business success. Digital marketing students will be equipped to think conceptually and analytically to evaluate, then choose the appropriate digital marketing technologies, apply them in strategies to meet more discerning marketing objectives, campaigns, KPIs, ROI, etc. Students will learn what is changing in the 'new marketing world' and how to use the latest tools to their optimal advantage. The instructor will guide students on how to balance customer needs with business success to produce high-quality omni-channel content as deliverables, KPIs supportive of quarterly/annual ROI. Students will be provided clear frameworks for learning how to create innovative digital experiences. Course Schedule: Spring 2026, Tuesdays Evenings, 1/27/2026 - 3/24/2026, 6:15 PM - 8:15 PM. Instructor: Sean J. Combs '08, who received a BA in Industrial Design from UCLA, completed an Industrial Design Master's program at Konstfack University in Stockholm, Sweden and earned an MBA specializing in Entrepreneurship and International Business from Loyola Marymount University. His technology career spans over three decades and includes classical marketing consulting, digital marketing, brand strategy, and business management. Course Objectives: Students will learn how to critically evaluate various digital marketing options including website content, search engine optimization, display advertising, social networks, and mobile by analyzing case studies, conducting market research, and applying various frameworks. Students will then create digital marketing campaign plans to meet specific, measurable business goals. Course Outcomes: At the end of this course, students will be certified as a Digital Marketing Professional and be able to critically evaluate various forms of new media and determine their uses, benefits, and drawbacks, apply digital marketing strategies and create metrics to implement, manage, and measure new media, and work in a marketing team to plan and create a new media campaign to meet professional marketing objectives. Contact: extension@lmu.edu",
     "with": [
       "The digital marketing course is for those who have a practical understanding and comfortable with using the Internet for all that the digital world offers and want to learn digital marketing fundamentals as they apply to the profession at the entry-level.",
-      "Digital marketing students will be equipped to think conceptually and analytically to evaluate, then choose the appropriate digital marketing technologies, apply them in strategies to meet more discerning marketing objectives, campaigns, KPIs, ROI, etc.",
-      "At the end of this course, students will be certified as a Digital Marketing Professional and be able to: Critically evaluate various forms of new media and determine their uses, benefits, and drawbacks.",
-      "Sean J. Combs received a BA in Industrial Design from UCLA, completed an Industrial Design Master’s program at Konstfack University in Stockholm, Sweden and earned an MBA specializing in Entrepreneurship and International Business from Loyola Marymount University."
+      "Students will learn what is changing in the 'new marketing world' and how to use the latest tools to their optimal advantage.",
+      "Sean J. Combs '08 received a BA in Industrial Design from UCLA, completed an Industrial Design Master's program at Konstfack University in Stockholm, Sweden and earned an MBA specializing in Entrepreneurship and International Business from Loyola Marymount University.",
+      "Students will then create digital marketing campaign plans to meet specific, measurable business goals.",
+      "At the end of this course, students will be certified as a Digital Marketing Professional and be able to critically evaluate various forms of new media."
     ],
     "without": [
-      "About Workforce Initiatives Programs Student Resources Alumni Register",
-      "Skip to Search Skip to Main Content Skip to Footer Links",
-      "Westchester Main Campus 1 LMU Drive Los Angeles, CA 90045 310.338.2700",
-      "©  Loyola Marymount University",
-      "Apply Visit Give"
-    ]
+      "Apply for Admission",
+      "Copyright 2025 Loyola Marymount University",
+      "Privacy Policy",
+      "Skip to Main Content",
+      "YouTube Facebook Twitter Instagram LinkedIn TikTok"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T19:11:05.079990"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:37:55.591840"
 }

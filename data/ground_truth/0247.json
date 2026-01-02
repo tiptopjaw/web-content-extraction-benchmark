@@ -1,27 +1,75 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.dentalcare.com/en-us",
   "file_id": "0247",
-  "downloaded_at": "2025-12-20T18:10:39.214363",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "dentalcare",
+        "professional",
+        "education",
+        "healthcare"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Dental Care Information for Professionals | Dentalcare.com",
     "author": null,
     "publish_date": null,
-    "main_content": "TOGETHER WE CAN BUILD HEALTHIER & BRIGHTER SMILES\n150+ FREE Continuing Education Courses\nSearch Courses\nFeatured Courses\nEvidence-Based Guidelines for the Use of Over-the-Counter Oral Care Prophylactic Medicine\nCredit Hours: 1.5 Hour(s)\nPractical Panoramic Imaging\nCredit Hours: 3 Hour(s)\nIntraoral Imaging Techniques: Beyond the Textbook\nCredit Hours: 2 Hour(s)\nInterested in Crest + Oral-B Products?\nElectric\nManual\nToothpaste\nWhitening\nKids\nOther\nView All\nCrest+Oral-B iO Electric Toothbrush System - Professional Personal Use\nOrder Now\nCrest+Oral-B iO Transformational Gum Health Electric Toothbrush System\nOrder Now\nCrest + Oral-B iO Ortho Essentials Electric Rechargeable System\nOrder Now\nCrest + Oral-B iO9 Whitening & Gum Health System Black\nOrder Now\nOral-B Cross Action Compact Manual\nOrder Now\nOral-B Cross Action All-in-One Manual\nOrder Now\nOral-B Kids Graphics 6+ year manual\nOrder Now\nCROSSACTION™ Technology - Provides superior plaque removal\nOrder Now\nCrest Pro-Health Gum Detoxify\nOrder Now\nCrest Kids Color Changing Toothpaste\nOrder Now\nCrest Pro-Health Gum Detoxify Toothpaste Sample Size\nOrder Now\nClinically Proven Healthier Gums\nLearn More\nCrest 3DWhitestrips Professional White, 20 treatments\nOrder Now\nCrest 3DWhite Whitestrips with Light, Professional Exclusive\nOrder Now\nCrest Daily Whitening Serum\nOrder Now\nShop our Crest Whitening Special!\nOrder Now",
+    "main_content": "Dentalcare.com provides free continuing education, patient education and practice management resources to help dental professionals succeed with their patients. Together we can build healthier & brighter smiles with 150+ FREE Continuing Education Courses. Featured courses include Evidence-Based Guidelines for the Use of Over-the-Counter Oral Care Prophylactic Medicine (1.5 hours), Practical Panoramic Imaging (3 hours), and Intraoral Imaging Techniques: Beyond the Textbook (2 hours). The site offers professional resources including Crest and Oral-B products for dental professionals through the ProShop. Continuing education courses are available covering various topics including radiographic imaging, oral care medicine, and dental techniques.",
     "with": [
-      "TOGETHER WE CAN BUILD HEALTHIER & BRIGHTER SMILES",
-      "150+ FREE Continuing Education Courses",
+      "Dentalcare.com provides free continuing education, patient education and practice management resources to help dental professionals succeed with their patients.",
+      "Together we can build healthier & brighter smiles with 150+ FREE Continuing Education Courses.",
       "Evidence-Based Guidelines for the Use of Over-the-Counter Oral Care Prophylactic Medicine",
-      "Practical Panoramic Imaging",
-      "Intraoral Imaging Techniques: Beyond the Textbook"
+      "Panoramic radiographic imaging technique, error recognition and error correction are the primary areas of emphasis in this course.",
+      "This course will briefly review the basics of intraoral imaging, but most importantly will go beyond those basics by highlighting common difficulties with sensors."
     ],
     "without": [
+      "Search",
       "REGISTER",
       "LOGIN",
-      "Continuing Education",
-      "Professional Resources",
-      "For Your Patients"
-    ]
+      "Privacy Policy",
+      "Your Privacy Choices"
+    ],
+    "images": {
+      "total_in_content": 38,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://downloads.ctfassets.net/u2qv1tdtdbbu/4qnsj02J68vxj7ZIlrlCTA/19791da9475e632adca5e338efd203f4/DCcom_homepage_CE_video_10242024_COMPRESSED.gif?w=3840&q=70&fm=avif",
+          "filename": "DCcom_homepage_CE_video_10242024_COMPRESSED.gif",
+          "alt": "Dentalcare home page header image with teeth brushing",
+          "caption": "Dentalcare home page header image with teeth brushing",
+          "is_hero": true
+        },
+        {
+          "src": "https://images.ctfassets.net/u2qv1tdtdbbu/1To3w4cLjHGH3u62hTkw79/5173370a91908c38b49dcd769e860fe9/LIVE_-_CE1014_-_1000x1000.jpg?w=3840&q=70&fm=avif",
+          "filename": "LIVE_-_CE1014_-_1000x1000.jpg",
+          "alt": null,
+          "caption": "Evidence-Based Guidelines for the Use of Over-the-Counter Oral Care Prophylactic Medicine course",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.ctfassets.net/u2qv1tdtdbbu/5V3r2VWsroer4hf8K0tVHp/330ea6e73f5741c81d936811302386f9/ce589-intro.jpg?w=3840&q=70&fm=avif",
+          "filename": "ce589-intro.jpg",
+          "alt": null,
+          "caption": "Practical Panoramic Imaging course",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.ctfassets.net/u2qv1tdtdbbu/7vbH639EoFZujIJ18v1q95/b205b7fdc8dc906f3d1480522cc2d2f8/ce660_-_MainCourseImage_sm.png?w=3840&q=70&fm=avif",
+          "filename": "ce660_-_MainCourseImage_sm.png",
+          "alt": null,
+          "caption": "Intraoral Imaging Techniques course",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:10:39.214368"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:32:46.752452"
 }

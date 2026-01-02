@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.eventective.com/cleveland-oh/event-planners/",
+  "file_id": "0191",
+  "_internal": {
+    "page_type": {
+      "primary": "directory",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "event-planners",
+        "business-directory",
+        "local-services",
+        "cleveland"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Wedding & Event Planners in Cleveland, OH | 28 Planners",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Event Planners near Cleveland, OH: 1. Clear Canvas Events - Cleveland, OH - $1,500-$2,000/event - Completely outsource the tasks of all your events and work with a professional team of upbeat experts that drive clear results for maximum event success! With Clear Canvas, you're assured of reliable, experienced professionals who are dedicated to helping bring your vision to life. 2. Epic Event Creations - Cleveland, OH - $375-$5,000/event - At Epic Event Creations our team of Event Planners specialize in unique event creations, organizing bespoke parties, weddings, and corporate events for the most discerning clientele in Ohio and across the country. 3. Indian Wedding Planner Ohio, South Asian Wedding Planner - Cleveland, OH - The best Indian Wedding Planner, Professional & Affordable South Asian Wedding Planner, Indian Wedding Consultant. 4. Vladikman1 Studio LLC - Cleveland, OH - Are you planning a wedding or special event and want to make it truly unforgettable? We offer a wide range of services including hair styling, makeup, lighting, DJ. 5. Your Event, Your Way LLC - Cleveland, OH - My goal as a professional consultant is to offer the Bride & Groom/Client the peace of mind by staying on top of the wedding/special event details so they can enjoy a stress-free day. 6. Covesa Kelly Events - Cleveland, OH - CKE is a premier Event Planning and Design Company based in Cleveland, Ohio and planning events all over the world! We specialize in five star customer service, and memorable events for all involved. 7. This is the Flex LLC - Cleveland, OH - We are a full service Event/Party Planning Company Serving Cleveland and its Surrounding Areas. We are here to take the stress out of your event. 8. Eloquets Enterprise Event Planning LLC - Cleveland, OH - Established in 1998, Eloquets Enterprise has successfully planned events for a diverse clientele. 9. Party411Events - Cleveland, OH - Party411 Events is a full service event planner/coordinator and decorator founded in 1996. We offer part or full coordination. 10. GhostLight Productions, LLC - Beachwood, OH (7.8 miles) - Award winning event producers who specialize in elaborate fundraising galas, grand openings of theaters/performance centers, conferences, anniversary celebrations, and wedding décor. 11. All Events Planned - Chagrin Falls, OH (15 miles) - We have been planning successful and memorable weddings and events for over 16 years. 12. Sterling Event Services LLC - Novelty, OH (15 miles) - About Janet Abbey, Cleveland Event Planner. I have planned, coordinated, and managed over 150 weddings and over 200 social and corporate events. 13. Sand & Beach Travel - Macedonia, OH (16 miles) - Benefits of our Free Honeymoon Planning Service & DESTINATION WEDDING: Best Price Guarantee, exceptional personalized service. 14. Fairy Tale Concierge - Medina, OH (26 miles) - A full service travel planner specializing in All-Inclusive vacations, cruises, and Disney Destinations. Additional listings include: Shanikquas EventFul Possibilities LLC, Patra Designs, Kirkbrides, Exclusively Yours - Weddings, Events & Officiants, Style My Event By Felder & Co., Shi Shi Events, Roses By Red Event Planning, Infinity Love 4 Event Planning, NLG RECENT PLANNING, NLG Event Planning LLC, Wizard Of Ah's, Avant-Garde Art & Craft Shows, DRIVE, Elegant Events By Maria.",
+    "with": [
+      "Clear Canvas Events - Completely outsource the tasks of all your events and work with a professional team of upbeat experts.",
+      "Epic Event Creations - Our team of Event Planners specialize in unique event creations, organizing bespoke parties, weddings, and corporate events.",
+      "CKE is a premier Event Planning and Design Company based in Cleveland, Ohio and planning events all over the world.",
+      "Party411 Events is a full service event planner/coordinator and decorator founded in 1996.",
+      "There are 28 Event Planners in and around Cleveland at Eventective.com."
+    ],
+    "without": [
+      "Sign In",
+      "List Your Business",
+      "Find a Venue",
+      "© 2025 Eventective, Inc. | All Rights Reserved",
+      "Privacy"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://media.eventective.com/3478694_md.jpg",
+          "filename": "3478694_md.jpg",
+          "alt": "Clear Canvas Events",
+          "caption": "Clear Canvas Events",
+          "is_hero": true
+        },
+        {
+          "src": "https://media.eventective.com/3478693_md.jpg",
+          "filename": "3478693_md.jpg",
+          "alt": "Clear Canvas Events",
+          "caption": "Clear Canvas Events",
+          "is_hero": false
+        },
+        {
+          "src": "https://media.eventective.com/2343679_md.jpg",
+          "filename": "2343679_md.jpg",
+          "alt": "Epic Event Creations",
+          "caption": "Epic Event Creations",
+          "is_hero": false
+        },
+        {
+          "src": "https://media.eventective.com/4163715_md.jpg",
+          "filename": "4163715_md.jpg",
+          "alt": "Indian Wedding Planner Ohio, South Asian Wedding Planner",
+          "caption": "Indian Wedding Planner Ohio, South Asian Wedding Planner",
+          "is_hero": false
+        },
+        {
+          "src": "https://media.eventective.com/3443137_md.jpg",
+          "filename": "3443137_md.jpg",
+          "alt": "Vladikman1 Studio LLC",
+          "caption": "Vladikman1 Studio LLC",
+          "is_hero": false
+        },
+        {
+          "src": "https://media.eventective.com/364729.jpg",
+          "filename": "364729.jpg",
+          "alt": "Your Event, Your Way LLC - Cleveland",
+          "caption": "Your Event, Your Way LLC - Cleveland",
+          "is_hero": false
+        },
+        {
+          "src": "https://media.eventective.com/1545333.jpg",
+          "filename": "1545333.jpg",
+          "alt": "Covesa Kelly Events",
+          "caption": "Covesa Kelly Events",
+          "is_hero": false
+        },
+        {
+          "src": "https://media.eventective.com/1271154.jpg",
+          "filename": "1271154.jpg",
+          "alt": "Covesa Kelly Events",
+          "caption": "Covesa Kelly Events",
+          "is_hero": false
+        },
+        {
+          "src": "https://media.eventective.com/3049081_md.jpg",
+          "filename": "3049081_md.jpg",
+          "alt": "This is the Flex LLC",
+          "caption": "This is the Flex LLC",
+          "is_hero": false
+        },
+        {
+          "src": "https://media.eventective.com/549558.jpg",
+          "filename": "549558.jpg",
+          "alt": "Eloquets Enterprise Event Planning LLC - Cleveland",
+          "caption": "Eloquets Enterprise Event Planning LLC - Cleveland",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:34:17.923916"
+}

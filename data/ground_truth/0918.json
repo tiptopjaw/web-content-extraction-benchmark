@@ -1,27 +1,117 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.health.com/oral-care-awards-2023-8414002",
   "file_id": "0918",
-  "downloaded_at": "2025-12-20T20:40:03.209048",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "oral-care",
+        "dental-hygiene",
+        "product-awards",
+        "health"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Oral Care Awards 2023: The Top 17 Products for Optimal Dental Hygiene",
+    "title": "2023 Oral Care Awards: Top Products for Dental Hygiene",
     "author": "Health Editorial Team",
     "publish_date": "2024-02-16",
-    "main_content": "Good oral care goes beyond achieving a bright smile and preventing cavities or tooth loss; it can also offer insight into your overall health. Beyond flashing your pearly whites, maintaining proper dental hygiene is pivotal to staving off various health issues. \"The bacteria from your mouth can lead into your bloodstream, which can infect different parts of your body, “ said  Irina Kessler, DDS, a dentist at New York Family Dental Arts, in New York City. “There is scientific evidence that supports [that] an unhealthy mouth has negative effects on the heart, brain, and blood vessels, which can increase your risk for developing disease.” While brushing and flossing can help to control the bacteria in your mouth, regular checkups and dental cleanings are equally important. \"If the mouth is constantly acidic and overpopulated by acid-loving, oral disease-causing bacteria, [it] will remain compromised,\" said Laura German Lawrence, DMD, director of dental services at Signature Health in Painesville, Ohio. \"An oral hygiene routine must be closely followed that raises the pH of the mouth to a level that only the healthy ‘commensal’ bacteria can survive in, and allows demineralized tooth structure to remineralize with proper levels of calcium, phosphate, and fluoride.\" Still, you want to ensure that when choosing products with the aforementioned ingredients, you administer them in the way that is most effective. If it’s a toothpaste you’re using, be sure to brush with it for at least two minutes, for example; this should appropriately removes food particles, plaque, and bacteria from the surface of your teeth, said dental hygienist Rebecca Recchia, RDH, of New York Family Dental Arts: \"The most common thing patients get wrong is spending an inadequate amount of time on brushing and flossing. When you brush for less than two minutes, you are almost certainly missing various particles and spots in your mouth.\" How We Chose the Winners To select our top picks, we enlisted the expert guidance of dental professionals who drew on their  years of experience, the guidance they give their own patients, the products they personally use, and their knowledge of how to build an effective oral care regimen. We also conducted thorough research and editor testing, meticulously fact-checking our choices to ensure that they are of a high quality. Our aim is to help you maintain proper oral hygiene. Here are the winners of Health's 2023 Oral Care Awards. Toothpastes Colgate Total Plaque Pro-Release Plaque is the basis for most dental problems, so it is vital to ensure that it is regularly removed. Incorporating a daily brushing routine with a product like Colgate Total Plaque Pro Release can help. Its foaming action allows it to effectively eliminate the sticky film that hardens and contributes to gingivitis and decay. Crest Pro-Health Clean Mint Toothpaste Dr. Lawrence is a fan of Crest Pro-Health toothpaste. She underscored the significance of brushing your teeth before bed, noting that you produce less saliva as you sleep. If you skip that important step, \"it gives the bad bacteria the perfect environment to create problems,\" she explained. And when used in the AM, this toothpaste's minty flavor combats morning breath. Made By Dentist Total Care Toothpaste Formulated with .24 percent fluoride, Made by Dentists Total Care Toothpaste is Dr. Kessler ‘s favorite way to keep cavities at bay. “It's refreshing, has no sulfates, and is not abrasive,” she said. Cocofloss Cocoshine Toothpaste You’ll find it easy to remove surface stains with Cocofloss Cocoshine Whitening Toothpaste. Its active ingredient, baking soda, acts as a mild abrasive, and  the paste creates a shiny surface without the use of bleach. This non-GMO product also contains no sulfates, parabens, propylene glycol, triclosan, peroxide, artificial dyes, or artificial sweeteners. Crest 3D White Brilliance Recchia uses Crest 3D White Brilliance toothpaste. She recommends seeing a dental hygienist at least twice annually, too.: “You should add an extra visit or two each year if you have had past problems with dental decay or gum disease,” she noted. Sensodyne Pronamel Active Shield Whitening Toothpaste If you’ve ever experienced a jolt of nerve pain after consuming something hot or cold, Sensodyne's Pronamel Active Shield Whitening Toothpaste will offer relief. It coats your most sensitive zones, and makes eating easier. Sensitive teeth are commonly caused by gum recession or enamel erosion, and that can lead to exposed root surfaces. Discuss additional treatment options with your dentist: \"Excessive gum recession can be repaired by moving the tissue of your palate and grafting it to the [problematic] area,\" said Dr. Kessler. This procedure, called genioplasty, is usually performed by a specialist. The Original Tom's of Maine Sensitive + Whitening Fluoride Free Toothpaste The Original Tom's of Maine Fluoride Free Sensitive + Whitening Fluoride Free toothpaste is formulated without animal ingredients, artificial fragrances, or preservatives. In addition to brushing with it, you can also apply it directly to sensitive areas for targeted relief. Toothbrushes Curaprox Travel Set Whether you’re planning a weekend getaway or opting for a suitcase-free holiday, the Curaprox Travel Set is the ideal way to maintain an oral care routine on the go. Its compact design is similar to the size of a deck of cards; it includes a travel toothbrush, toothpaste, and interdental brushes. Dr. Plotka's Mouthwatchers Get in deep between your teeth with Dr. Plotka's Mouth Watchers. Each bristled tip on this toothbrush measures just one micron—making it thinner than a human hair—which allows you to remove even the smallest pieces of debris from your gums. Oral-B iO Series 10 Dr. Lawrence opts for an Oral-B iO electric toothbrush with a medium head. \"Electric toothbrushes provide a superior clean,” she said, noting that the iO’s bristles do the job “without being overly aggressive.” A built-in sensor provides feedback on your brushing pressure, letting you know whether it's too hard or too soft,  so that you can adjust the intensity accordingly.  Philips Sonicare 9900 Prestige Flosses Cocofloss The Original Dental Floss Dr. Plotka's Flossing Toothbrush Mouthwashes TheraBreath Healthy Gums Oral Rinse Listerine Total Care Alcohol-Free Anticavity Mouthwash Teeth Whiteners Crest 3D Whitestrips Professional Effects Crest 3D Whitestrips with Light Technology Meet the Oral Care Awards 2023 Experts",
+    "main_content": "Good oral care goes beyond achieving a bright smile and preventing cavities or tooth loss; it can also offer insight into your overall health. Beyond flashing your pearly whites, maintaining proper dental hygiene is pivotal to staving off various health issues. The bacteria from your mouth can lead into your bloodstream, which can infect different parts of your body. There is scientific evidence that supports that an unhealthy mouth has negative effects on the heart, brain, and blood vessels, which can increase your risk for developing disease. While brushing and flossing can help to control the bacteria in your mouth, regular checkups and dental cleanings are equally important. If the mouth is constantly acidic and overpopulated by acid-loving, oral disease-causing bacteria, it will remain compromised. An oral hygiene routine must be closely followed that raises the pH of the mouth to a level that only the healthy 'commensal' bacteria can survive in, and allows demineralized tooth structure to remineralize with proper levels of calcium, phosphate, and fluoride. The most common thing patients get wrong is spending an inadequate amount of time on brushing and flossing. When you brush for less than two minutes, you are almost certainly missing various particles and spots in your mouth. Here are the winners of Health's 2023 Oral Care Awards: TOOTHPASTES: Colgate Total Plaque Pro-Release - Plaque is the basis for most dental problems, so it is vital to ensure that it is regularly removed. Incorporating a daily brushing routine with a product like Colgate Total Plaque Pro Release can help. Its foaming action allows it to effectively eliminate the sticky film that hardens and contributes to gingivitis and decay. Crest Pro-Health Clean Mint Toothpaste - Dr. Lawrence is a fan of Crest Pro-Health toothpaste. She underscored the significance of brushing your teeth before bed, noting that you produce less saliva as you sleep. If you skip that important step, it gives the bad bacteria the perfect environment to create problems, she explained. Made By Dentists Total Care Toothpaste - Formulated with .24 percent fluoride, Made by Dentists Total Care Toothpaste is Dr. Kessler's favorite way to keep cavities at bay. It's refreshing, has no sulfates, and is not abrasive. Cocofloss Cocoshine Toothpaste - You'll find it easy to remove surface stains with Cocofloss Cocoshine Whitening Toothpaste. Its active ingredient, baking soda, acts as a mild abrasive, and the paste creates a shiny surface without the use of bleach. Crest 3D White Brilliance - Recchia uses Crest 3D White Brilliance toothpaste. She recommends seeing a dental hygienist at least twice annually. You should add an extra visit or two each year if you have had past problems with dental decay or gum disease. Sensodyne Pronamel Active Shield Whitening Toothpaste - If you've ever experienced a jolt of nerve pain after consuming something hot or cold, Sensodyne's Pronamel Active Shield Whitening Toothpaste will offer relief. It coats your most sensitive zones, and makes eating easier. The Original Tom's of Maine Sensitive + Whitening Fluoride Free Toothpaste - The Original Tom's of Maine Fluoride Free Sensitive + Whitening Fluoride Free toothpaste is formulated without animal ingredients, artificial fragrances, or preservatives. TOOTHBRUSHES: Curaprox Travel Set - Whether you're planning a weekend getaway or opting for a suitcase-free holiday, the Curaprox Travel Set is the ideal way to maintain an oral care routine on the go. Its compact design is similar to the size of a deck of cards; it includes a travel toothbrush, toothpaste, and interdental brushes. Dr. Plotka's Mouthwatchers - Get in deep between your teeth with Dr. Plotka's Mouth Watchers. Each bristled tip on this toothbrush measures just one micron—making it thinner than a human hair—which allows you to remove even the smallest pieces of debris from your gums. Oral-B iO Series 10 - Dr. Lawrence opts for an Oral-B iO electric toothbrush with a medium head. Electric toothbrushes provide a superior clean, she said, noting that the iO's bristles do the job without being overly aggressive. Philips Sonicare 9900 Prestige - TOOTHBRUSHES: Philips Sonicare 9900 Prestige. FLOSSES: Cocofloss - Cocofloss Coconut-Oil Infused Woven Dental Floss is made from patented woven nylon threads that scrub into the pits and fissures of your teeth. Eez-Thru Floss - Eez-Thru Floss features a patented design that makes it easy to navigate around dental work, including braces, bridges, and implants. MOUTHWASHES: Colgate Total 12 Hour Breath Freshening Mint - Colgate Total 12 Hour Breath Freshening Mint eliminates bad breath bacteria for 12 hours. Therabreath Fresh Breath Oral Rinse - Therabreath Fresh Breath Oral Rinse is recommended by dentists and is clinically proven to neutralize sulfur-producing bacteria. Waterpik Sonic-Fusion 2.0 - Waterpik Sonic-Fusion 2.0 combines water flossing and sonic brushing into one device. Davids Natural Tongue Scraper - Davids Natural Tongue Scraper is an eco-friendly tool made in the USA from recycled stainless steel. TEETH WHITENERS: Colgate Optic White Advanced - Colgate Optic White Advanced contains 4 percent hydrogen peroxide. Popwhite Whitening Toner - Popwhite Whitening Toner is a fluoride rinse that whitens teeth while strengthening enamel. Supersmile Whitening Toothpaste - Supersmile Whitening Toothpaste uses Calprox, a proprietary ingredient that safely removes surface stains.",
     "with": [
       "Good oral care goes beyond achieving a bright smile and preventing cavities or tooth loss; it can also offer insight into your overall health.",
+      "The bacteria from your mouth can lead into your bloodstream, which can infect different parts of your body.",
+      "Electric toothbrushes provide a superior clean, she said, noting that the iO's bristles do the job without being overly aggressive.",
       "Here are the winners of Health's 2023 Oral Care Awards.",
-      "Plaque is the basis for most dental problems, so it is vital to ensure that it is regularly removed.",
-      "Dr. Lawrence opts for an Oral-B iO electric toothbrush with a medium head. \"Electric toothbrushes provide a superior clean,” she said.",
-      "To select our top picks, we enlisted the expert guidance of dental professionals who drew on their years of experience, the guidance they give their own patients, the products they personally use, and their knowledge of how to build an effective oral care regimen."
+      "Each bristled tip on this toothbrush measures just one micron—making it thinner than a human hair—which allows you to remove even the smallest pieces of debris from your gums."
     ],
     "without": [
-      "If you click on links we provide, we may receive compensation.",
       "Skip to content",
-      "Visit Health's homepage",
-      "Newsletters",
-      "In This Article"
-    ]
+      "Subscribe to our newsletter",
+      "Privacy Policy",
+      "Follow us on Facebook",
+      "Copyright 2024"
+    ],
+    "images": {
+      "total_in_content": 34,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://www.health.com/thmb/KhH7rJe6QNZqq2UgLN97bejHmmA=/2000x0/filters:no_upscale():max_bytes(150000):strip_icc()/health-accolades-TEMPLATE-GettyImages-1289220809-Oral-Card-Awards-desktop-cf3d54bb8cf44f8c8a4a106d2195da46.jpg",
+          "filename": "health-accolades-TEMPLATE-GettyImages-1289220809-Oral-Card-Awards-desktop-cf3d54bb8cf44f8c8a4a106d2195da46.jpg",
+          "alt": "Oral Care Awards 2023",
+          "caption": "Oral Care Awards 2023",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.health.com/thmb/ChgKoH8dDpUvEgOXkrKA_Ybrql0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/health-accolades-PRODUCT-IMAGES-Oral-Care-Awards-COLGATEPlaqueWhiteningTubeFront-4000x2667-8073d739d4964176958fe963fb4580cb.jpg",
+          "filename": "health-accolades-PRODUCT-IMAGES-Oral-Care-Awards-COLGATEPlaqueWhiteningTubeFront-4000x2667-8073d739d4964176958fe963fb4580cb.jpg",
+          "alt": "Oral Care Awards 2023",
+          "caption": "Colgate Total Plaque Pro-Release",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.health.com/thmb/63spAgt-_AJoxXcRQqrtzqep11E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/health-accolades-PRODUCT-IMAGES-Oral-Care-Awards-CrestPro-HealthCleanMintToothpaste2-4000x2667-09dc9d6bf9194584bef7e85a75f58697.jpg",
+          "filename": "health-accolades-PRODUCT-IMAGES-Oral-Care-Awards-CrestPro-HealthCleanMintToothpaste2-4000x2667-09dc9d6bf9194584bef7e85a75f58697.jpg",
+          "alt": "Oral Care Awards 2023",
+          "caption": "Crest Pro-Health Clean Mint Toothpaste",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.health.com/thmb/iLjiG45hukFcNOGkoCOWJklJ_uY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/health-accolades-PRODUCT-IMAGES-Oral-Care-Awards-MadeByDentists-4000x2667-8bdc96153131420baae7c8d33b73c4cf.jpg",
+          "filename": "health-accolades-PRODUCT-IMAGES-Oral-Care-Awards-MadeByDentists-4000x2667-8bdc96153131420baae7c8d33b73c4cf.jpg",
+          "alt": "Oral Care Awards 2023",
+          "caption": "Made By Dentists Total Care Toothpaste",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.health.com/thmb/Ht9JogoJ4NdO08aZKptDXPg_r9Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/health-accolades-PRODUCT-IMAGES-Oral-Care-Awards-cocofloss-8e078576946c44aa909ea2447d1d66fe.jpg",
+          "filename": "health-accolades-PRODUCT-IMAGES-Oral-Care-Awards-cocofloss-8e078576946c44aa909ea2447d1d66fe.jpg",
+          "alt": "Oral Care Awards 2023",
+          "caption": "Cocofloss Cocoshine Toothpaste",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.health.com/thmb/Hzec3W0feRyETltnZPypJDklRmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/health-accolades-PRODUCT-IMAGES-Oral-Care-Awards-Crest-Brilliance-4000x2667-7de7807da67f474487ff6086ffebf0df.jpg",
+          "filename": "health-accolades-PRODUCT-IMAGES-Oral-Care-Awards-Crest-Brilliance-4000x2667-7de7807da67f474487ff6086ffebf0df.jpg",
+          "alt": "Oral Care Awards 2023",
+          "caption": "Crest 3D White Brilliance",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.health.com/thmb/eaYBfZETEGeOdPhvMwYy_rWOaag=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/health-accolades-PRODUCT-IMAGES-Oral-Care-Awards-SensodynePronamelActiveShield-4000x2667-f888e517b0fd42f384cd848467f4aec7.jpg",
+          "filename": "health-accolades-PRODUCT-IMAGES-Oral-Care-Awards-SensodynePronamelActiveShield-4000x2667-f888e517b0fd42f384cd848467f4aec7.jpg",
+          "alt": "Oral Care Awards 2023",
+          "caption": "Sensodyne Pronamel Active Shield Whitening Toothpaste",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.health.com/thmb/OCBwFdbzS1VREjnGnLnoz9NfnRs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/health-accolades-PRODUCT-IMAGES-Oral-Care-Awards-TomsSensitiveWhiteningTube-4000x2667-7ada332fafef45b4a1667f7b660b0701.jpg",
+          "filename": "health-accolades-PRODUCT-IMAGES-Oral-Care-Awards-TomsSensitiveWhiteningTube-4000x2667-7ada332fafef45b4a1667f7b660b0701.jpg",
+          "alt": "Oral Care Awards 2023",
+          "caption": "Tom's of Maine Sensitive + Whitening Fluoride Free Toothpaste",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.health.com/thmb/WQ5edGiziNHPQWfQ9e-z4d-lQbw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/health-accolades-PRODUCT-IMAGES-Oral-Care-Awards-CURAPROX-4000x2667-8f7d359794ff48d3969572141b56f61a.jpg",
+          "filename": "health-accolades-PRODUCT-IMAGES-Oral-Care-Awards-CURAPROX-4000x2667-8f7d359794ff48d3969572141b56f61a.jpg",
+          "alt": "Oral Care Awards 2023",
+          "caption": "Curaprox Travel Set",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.health.com/thmb/AVGr3n-Sxo5qkF1VBGWNr3N3zEY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/health-accolades-PRODUCT-IMAGES-Oral-Care-Awards-Dr.plotka-4000x2667-b43642a6f757453580479dbd89a62f0a.jpg",
+          "filename": "health-accolades-PRODUCT-IMAGES-Oral-Care-Awards-Dr.plotka-4000x2667-b43642a6f757453580479dbd89a62f0a.jpg",
+          "alt": "Oral Care Awards 2023",
+          "caption": "Dr. Plotka's Mouthwatchers",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:40:03.209055"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:09:21.786828"
 }

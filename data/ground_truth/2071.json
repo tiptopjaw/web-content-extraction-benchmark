@@ -1,27 +1,54 @@
 {
+  "schema_version": "2.0",
   "url": "https://travelnoire.com/top-car-rental-company-us-2025",
   "file_id": "2071",
-  "downloaded_at": "2025-12-20T22:26:35.703569",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "travel-news",
+        "car-rentals",
+        "jd-power",
+        "rankings"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "This Is The Top Car Rental Company In The US, According To The 2025 J.D. Power Study",
     "author": "Faith Katunga",
     "publish_date": "2025-10-20",
-    "main_content": "Enterprise Rent-A-Car has claimed the top spot in the J.D. Power 2025 North America Rental Car Satisfaction Study, as reported by Travel + Leisure. The comprehensive study, which surveyed more than 8,200 business and leisure travelers who rented vehicles at airport locations over the past year, awarded Enterprise an impressive score of 734 out of a possible 1,000 points for overall customer satisfaction. This achievement represents a notable change from the previous year’s rankings, when National Car Rental held the premier position and Enterprise followed in second place. The annual study, conducted between August 2024 and August 2025, evaluates customer experiences across seven critical dimensions, including ease of rental, pick-up and drop-off processes, level of trust, vehicle quality, staff interactions, value for price, and effectiveness of digital tools. National Car Rental secured the second position with a score of 721, demonstrating strong performance despite being edged out by its corporate sibling. Both Enterprise and National operate under the same parent company, Enterprise Mobility. Advantage Rent A Car tied with Sixt for third place, with both companies scoring 711 points, well above the industry average of 691. Hertz rounded out the top five performers in the study. At the opposite end of the spectrum, Dollar, Fox Rent A Car, and Payless received the lowest satisfaction ratings among the 13 companies evaluated. A key finding from the J.D. Power study showed that customers who bypassed the rental counter experienced higher satisfaction levels and saved nearly eight minutes during the vehicle pick-up process. Customers who went straight to their vehicles reported an average satisfaction score of 704, compared to 662 for those who stopped at the counter first. Despite the clear advantages, approximately 80% of customers still visit the rental counter before picking up their vehicles. The average time to complete rental pick-up was just over 14 minutes for customers who skipped the counter, compared to more than 22 minutes for those who stopped at it.",
+    "main_content": "Enterprise Rent-A-Car has claimed the top spot in the J.D. Power 2025 North America Rental Car Satisfaction Study. The comprehensive study, which surveyed more than 8,200 business and leisure travelers who rented vehicles at airport locations over the past year, awarded Enterprise an impressive score of 734 out of a possible 1,000 points for overall customer satisfaction. This achievement represents a notable change from the previous year's rankings, when National Car Rental held the premier position and Enterprise followed in second place. The annual study, conducted between August 2024 and August 2025, evaluates customer experiences across seven critical dimensions, including ease of rental, pick-up and drop-off processes, level of trust, vehicle quality, staff interactions, value for price, and effectiveness of digital tools. National Car Rental secured the second position with a score of 721, demonstrating strong performance despite being edged out by its corporate sibling. Both Enterprise and National operate under the same parent company, Enterprise Mobility. Advantage Rent A Car tied with Sixt for third place, with both companies scoring 711 points, well above the industry average of 691. Hertz rounded out the top five performers in the study. At the opposite end of the spectrum, Dollar, Fox Rent A Car, and Payless received the lowest satisfaction ratings among the 13 companies evaluated. A key finding from the J.D. Power study showed that customers who bypassed the rental counter experienced higher satisfaction levels and saved nearly eight minutes during the vehicle pick-up process. Customers who went straight to their vehicles reported an average satisfaction score of 704, compared to 662 for those who stopped at the counter first. Despite the clear advantages, approximately 80% of customers still visit the rental counter before picking up their vehicles. The average time to complete rental pick-up was just over 14 minutes for customers who skipped the counter, compared to more than 22 minutes for those who stopped at it.",
     "with": [
-      "Enterprise Rent-A-Car has claimed the top spot in the J.D. Power 2025 North America Rental Car Satisfaction Study, as reported by Travel + Leisure.",
+      "Enterprise Rent-A-Car has claimed the top spot in the J.D. Power 2025 North America Rental Car Satisfaction Study.",
       "The comprehensive study, which surveyed more than 8,200 business and leisure travelers who rented vehicles at airport locations over the past year, awarded Enterprise an impressive score of 734 out of a possible 1,000 points for overall customer satisfaction.",
       "National Car Rental secured the second position with a score of 721, demonstrating strong performance despite being edged out by its corporate sibling.",
       "A key finding from the J.D. Power study showed that customers who bypassed the rental counter experienced higher satisfaction levels and saved nearly eight minutes during the vehicle pick-up process.",
       "The average time to complete rental pick-up was just over 14 minutes for customers who skipped the counter, compared to more than 22 minutes for those who stopped at it."
     ],
     "without": [
-      "Subscribe to Travel Noire Get more travel content",
-      "Popular posts 1 Did You Know? Queen Elizabeth Once Stepped In To Prevent Snoop Dogg From Being Banned From The UK",
-      "Trending stories in world travel",
-      "Culture Plan & Shop Travel Guides News",
-      "© 2025 Travel Noire. All rights reserved. Terms & Conditions • Cookie Policy"
-    ]
+      "Join The Newsletter",
+      "Subscribe to travel noire",
+      "Get more travel content",
+      "Copyright 2025 Travel Noire",
+      "Popular posts"
+    ],
+    "images": {
+      "total_in_content": 8,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://cms.travelnoire.com/cdn-cgi/image/format=auto,slow-connection-quality=30,onerror=redirect/https://cms.travelnoire.com/wp-content/uploads/2025/10/GettyImages-2172157235-1568x1045.jpg",
+          "filename": "GettyImages-2172157235-1568x1045.jpg",
+          "alt": "A smiling woman sitting in a car reaches out to receive car keys, representing a positive car rental experience.",
+          "caption": "Photo Credit: Fotografía de eLuVe / Getty Images",
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:26:35.703576"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:31:30.703158"
 }

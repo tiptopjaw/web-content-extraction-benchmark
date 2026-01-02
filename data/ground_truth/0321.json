@@ -1,0 +1,104 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.camelsandchocolate.com/restaurants-in-oklahoma-city/",
+  "file_id": "0321",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "travel",
+        "food",
+        "restaurants",
+        "Oklahoma City",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "America's Most Underrated Food City: Here Are the Best Restaurants in OKC",
+    "author": "Kristin",
+    "publish_date": "2019-07-25",
+    "main_content": "We've spent the equivalent of a month in Oklahoma City spread throughout five visits, and you know there's one thing we love to do on our urban travels: eat our way through any city. It was high time we create the ultimate dining guide to restaurants in Oklahoma City, as determined by us. Dining in OKC is on par with any major city (trust me). These are the best restaurants in Oklahoma City that need to be on your list. With so many repeat visits to Oklahoma City over the past few years, we've been able to eat at several of these restaurants two or three times now—and desperately crave a lot of them when we're gone. Below are 30+ places where we have dined and fallen in love; in a city so large, note that this is by no means a comprehensive round-up of everywhere there is to go—in fact, it just scratches the surface in a destination where the food scene is on the brink of explosion. But it's a pretty tasty sampler platter of everything there is to eat in OKC, if we do say so ourselves, so tuck in your napkin, pull up a chair, and toast to Middle America's most underrated and delicious food city.",
+    "with": [
+      "We've spent the equivalent of a month in Oklahoma City spread throughout five visits, and you know there's one thing we love to do on our urban travels: eat our way through any city.",
+      "Dining in OKC is on par with any major city (trust me). These are the best restaurants in Oklahoma City that need to be on your list.",
+      "Below are 30+ places where we have dined and fallen in love; in a city so large, note that this is by no means a comprehensive round-up of everywhere there is to go—in fact, it just scratches the surface in a destination where the food scene is on the brink of explosion.",
+      "If you have just one dinner in Oklahoma City, do yourself a favor and make sure it's Grey Sweater.",
+      "The Jones Assembly is industrial marquee with a monstrous dining room, two high-end cocktail bars—one that overlooks the floor below—and some of the best wood-fired pizzas and main dishes in Oklahoma."
+    ],
+    "without": [
+      "Subscribe to our newsletter",
+      "Copyright 2019-2025 Camels & Chocolate",
+      "Privacy Policy",
+      "Main navigation menu items",
+      "Social media icons and links"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 8,
+      "items": [
+        {
+          "src": "https://www.camelsandchocolate.com/wp-content/uploads/2019/07/Grey-Sweater-OKC-5.jpg",
+          "filename": "Grey-Sweater-OKC-5.jpg",
+          "alt": "Grey Sweater: Best Restaurants in OKC",
+          "caption": "Grey Sweater: Best Restaurants in OKC",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.camelsandchocolate.com/wp-content/uploads/2019/07/Mary-Eddys-7.jpg",
+          "filename": "Mary-Eddys-7.jpg",
+          "alt": "The Best Restaurants in Oklahoma City",
+          "caption": "The Best Restaurants in Oklahoma City",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.camelsandchocolate.com/wp-content/uploads/2019/07/Grey-Sweater-OKC-3.jpg",
+          "filename": "Grey-Sweater-OKC-3.jpg",
+          "alt": "Grey Sweater: Best Restaurants in OKC",
+          "caption": "Grey Sweater: Best Restaurants in OKC",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.camelsandchocolate.com/wp-content/uploads/2019/07/La-Baguette-Deep-Deuce-1.jpg",
+          "filename": "La-Baguette-Deep-Deuce-1.jpg",
+          "alt": "La Baguette Deep Deuce: The Best Restaurants in OKC",
+          "caption": "La Baguette Deep Deuce: The Best Restaurants in OKC",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.camelsandchocolate.com/wp-content/uploads/2019/07/Jones-Assembly-OKC-8.jpg",
+          "filename": "Jones-Assembly-OKC-8.jpg",
+          "alt": "Jones Assembly: The Best Restaurants in OKC",
+          "caption": "Jones Assembly: The Best Restaurants in OKC",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.camelsandchocolate.com/wp-content/uploads/2019/07/Stitch-OKC-1.jpg",
+          "filename": "Stitch-OKC-1.jpg",
+          "alt": "Stitch plant shop: The Best Restaurants in OKC",
+          "caption": "Stitch plant shop: The Best Restaurants in OKC",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.camelsandchocolate.com/wp-content/uploads/2019/07/Vast-OKC-1.jpg",
+          "filename": "Vast-OKC-1.jpg",
+          "alt": "Vast: Best Restaurants in Oklahoma City",
+          "caption": "Vast: Best Restaurants in Oklahoma City",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.camelsandchocolate.com/wp-content/uploads/2019/07/Kitchen-324-OKC-2.jpg",
+          "filename": "Kitchen-324-OKC-2.jpg",
+          "alt": "Kitchen No. 324: Best Restaurants in OKC",
+          "caption": "Kitchen No. 324: Best Restaurants in OKC",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:50:26.156151"
+}

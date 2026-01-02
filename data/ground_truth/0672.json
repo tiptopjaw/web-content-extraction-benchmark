@@ -1,0 +1,96 @@
+{
+  "schema_version": "2.0",
+  "url": "https://sproutsocial.com/insights/social-media-ecommerce/",
+  "file_id": "0672",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "social media",
+        "ecommerce",
+        "marketing",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "How to use social media ecommerce effectively in 2025",
+    "author": "Rebecca MacFarlane",
+    "publish_date": "2025-11-11",
+    "main_content": "It seems unimaginable for a new business to launch without any social media presence—and with good reason. Social networks have evolved from promotional platforms into ecommerce engines, shaping how people shop, what they buy and which brands they trust. In the Q2 2025 Sprout Social Pulse Survey, 76% of all social users say social media (e.g. ads, influencer posts, brand content) had influenced some of their purchases within the past six months. As social ecommerce grows more sophisticated and central to consumer journeys, brands will need to establish customer experiences on social media that keep up with and exceed consumer expectations. Social media ecommerce is the practice of marketing an ecommerce business using social media to drive traffic, loyalty and sales. Brands may even close sales directly on social media networks. This practice is known as social commerce. The primary goal of social media ecommerce is to increase online sales, either by directing traffic to a digital storefront or selling products directly on social networks. The ecommerce sector is thriving, with global revenue projected to reach $3.66 trillion in 2025. Social media is driving a significant portion of that revenue, with social media sales accounting for approximately 17.11% of total online sales. Consumers are increasingly turning to social for product discovery as well as purchasing, with Instagram as a key platform for product discovery, with 61% of respondents using it to find their next purchase. For Gen Z, TikTok is the network of choice, with 77% using the platform to seek out new products or product updates. Younger generations are leading the pack of social consumers, with 76% of users saying social media influenced some of their purchases, jumping to 90% for Gen Z. Benefits of social ecommerce include reducing friction in the buying process, increasing customer loyalty, and improving ROI. The five pillars of a successful ecommerce social media marketing strategy are: authenticity and UGC, shoppertainment, frictionless experience, personalization, and performance tracking. Examples of successful social media ecommerce include Care to Beauty leveraging influencer marketing, Guinness partnering with Art Of for merchandise, and BÉIS using shoppertainment with human claw machine activations.",
+    "with": [
+      "Social networks have evolved from promotional platforms into ecommerce engines, shaping how people shop, what they buy and which brands they trust.",
+      "In the Q2 2025 Sprout Social Pulse Survey, 76% of all social users say social media had influenced some of their purchases within the past six months.",
+      "Social media ecommerce is the practice of marketing an ecommerce business using social media to drive traffic, loyalty and sales.",
+      "The five pillars of a successful ecommerce social media marketing strategy are authenticity and UGC, shoppertainment, frictionless experience, personalization, and performance tracking.",
+      "Younger generations are leading the pack of social consumers, with 90% of Gen Z saying social media influenced some of their purchases."
+    ],
+    "without": [
+      "Schedule a demo",
+      "Try for free",
+      "Privacy Policy",
+      "Skip to main content",
+      "Read all articles by Rebecca MacFarlane"
+    ],
+    "images": {
+      "total_in_content": 24,
+      "annotated_count": 7,
+      "items": [
+        {
+          "src": "https://brandfolder.sproutsocial.com/VXTUTVL1/at/wbt3kbmc3zhkfn5v5zw3mb/social-media-ecommerce-tips_Final_780x440.png?auto=webp&format=png",
+          "filename": "social-media-ecommerce-tips_Final_780x440.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://media.sproutsocial.com/uploads/2025/09/sprout-social-brands-stand-out-on-social.png",
+          "filename": "sprout-social-brands-stand-out-on-social.png",
+          "alt": "A list of the things that consumers say make their favorite brands stand out on social media, according to the 2025 Sprout Social Index.",
+          "caption": "A list of the things that consumers say make their favorite brands stand out on social media, according to the 2025 Sprout Social Index.",
+          "is_hero": false
+        },
+        {
+          "src": "https://media.sproutsocial.com/uploads/2025/02/platforms-where-users-make-purchases.jpg",
+          "filename": "platforms-where-users-make-purchases.jpg",
+          "alt": "Stats showing the percentage of social users who make a purchase on Facebook (39%), TikTok (36) and Instagram (29), according to the 2025 Sprout Social Index. ",
+          "caption": "Stats showing the percentage of social users who make a purchase on Facebook (39%), TikTok (36%) and Instagram (29%), according to the 2025 Sprout Social Index.",
+          "is_hero": false
+        },
+        {
+          "src": "https://media.sproutsocial.com/uploads/2025/11/marques-brownlee-ridge-youtube-partnership.png",
+          "filename": "marques-brownlee-ridge-youtube-partnership.png",
+          "alt": "A YouTube video from The Ridge in collaboration with Marques Brownlee.",
+          "caption": "A YouTube video from The Ridge in collaboration with Marques Brownlee.",
+          "is_hero": false
+        },
+        {
+          "src": "https://media.sproutsocial.com/uploads/2025/09/sprout-social-brand-content-traits.png",
+          "filename": "sprout-social-brand-content-traits.png",
+          "alt": "A list of the most and least important traits of brand content, according to social users.",
+          "caption": "A list of the most and least important traits of brand content, according to social users.",
+          "is_hero": false
+        },
+        {
+          "src": "https://media.sproutsocial.com/uploads/2025/11/patrick-ta-AR-filter-tiktok.png",
+          "filename": "patrick-ta-AR-filter-tiktok.png",
+          "alt": "An AR filter shoppertainment post from Patrick Ta.",
+          "caption": "An AR filter shoppertainment post from Patrick Ta.",
+          "is_hero": false
+        },
+        {
+          "src": "https://media.sproutsocial.com/uploads/2025/11/beis-tiktok-claw-machine.png",
+          "filename": "beis-tiktok-claw-machine.png",
+          "alt": "A TikTok post from BEIS featuring a human claw machine.",
+          "caption": "A TikTok post from BEIS featuring a human claw machine.",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:51:03.240408"
+}

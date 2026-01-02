@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.realtymogul.com/knowledge-center/article/real-estate-investing-beginners-real-estate-101",
+  "file_id": "1530",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "real-estate",
+        "investing",
+        "education",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Real Estate Investing for Beginners Real Estate 101",
+    "author": null,
+    "publish_date": "2022-07-08",
+    "main_content": "Real Estate Investing for Beginners is designed to provide you with a broad introduction to real estate investing, beginning by answering a question that few people, even some seasoned real estate investors, cannot fully answer! Real Estate Investing for Beginners covers everything you need to know to get started. This comprehensive guide will walk you through the fundamentals of real estate investment strategies and help you understand the various approaches available to new investors. Whether you're looking to generate passive income, build long-term wealth, or diversify your investment portfolio, real estate offers unique opportunities that can help you achieve your financial goals.",
+    "with": [
+      "Real Estate Investing for Beginners is designed to provide you with a broad introduction to real estate investing",
+      "This comprehensive guide will walk you through the fundamentals of real estate investment strategies",
+      "Real estate investing offers unique opportunities that can help you achieve your financial goals",
+      "The article covers everything you need to know to get started with real estate investing",
+      "Whether you're looking to generate passive income, build long-term wealth, or diversify your investment portfolio"
+    ],
+    "without": [
+      "RealtyMogul logo",
+      "Footer navigation links",
+      "Privacy Policy",
+      "Terms of Service",
+      "Subscribe to newsletter"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://realtymogul.brightspotgocdn.com/dims4/default/5a95bcc/2147483647/strip/true/crop/960x400+20+0/resize/1440x600!/quality/90/?url=https%3A%2F%2Fbrightspot-go-k1-realtymogul.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0d%2F90%2Fa0ccac064e14b4ca2350a322f0e0%2Fbusiness-strat.jpg",
+          "filename": "",
+          "alt": "Real-Estate-Investing-for-Beginners",
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:11:48.134376"
+}

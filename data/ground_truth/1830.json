@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.kyvosinsights.com/blog/top-data-analytics-trends-in-2025/",
+  "file_id": "1830",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "analytics",
+        "trends",
+        "blog"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Top 5 Data Analytics Trends in 2025",
+    "author": "Brahmajeet Desai",
+    "publish_date": "2024-12-30",
+    "main_content": "2025 is here, and data leaders can no longer keep AI innovation at bay while making critical decisions. As anticipated, AI-inspired tech is already firmly entrenched in business strongholds. If 2024 was an inflection point for its rampant adoption, this coming year will see newer ways of embedding artificial intelligence into every facet of modern enterprises.\n\nHere are some trends that might reshape the way enterprises use data.\n\nEdge Analytics Will Gain More Edge: As edge computing brings data processing and analytics closer to the source, real-time insights from streaming data in split seconds are not a distant possibility anymore. With this, data doesn't need to travel across an extensive network to be stored in a central location. It's rather analyzed right where it's created. This not only eliminates latency but also enables faster analytics on streaming data at a much lesser bandwidth usage.\n\nAgentic AI Will Boost Hyper-Personalization: The rise of agentic systems has opened a new chapter in AI evolution—where autonomous AI agents can handle almost any operation with zero human intervention. These systems can ingest vast data volumes from any source to perform complex multistep analytics with ease. In the same vein, fully automated BI platforms powered by conversational AI agents will ensure hyper-personalization of data storytelling. Instead of focusing on generic factors like demographics, these systems can provide highly individualized and context-rich experiences using ML, NLP and real-time advanced analytics.\n\nConfidential Computing and Homomorphic Encryption Will Make Inroads: With AI-based analytics gaining center stage, it's necessary to scaffold the learning mechanisms of the underlying tech for its responsible applications. Confidential computing via a trusted execution environment within a CPU refers to the isolation of data in a secure ecosystem at the time of processing. Homomorphic encryption allows for analyzing or processing encrypted data without exposing or decrypting it. Data remains secure and encrypted even when executing AI models or extracting insights on the cloud, thus preserving its integrity at every step.\n\nUnstructured and Semi-Structured Data Will Change the Game: A Gartner report states that 80-90% of all the enterprise data generated every year is in semi-structured or unstructured formats—images, PDFs, text, videos, voice, etc. Stats from IDC further say that only 10% of the total data volumes get stored, and even less is analyzed. Kyvos has already made giant strides in this direction with a semantic layer that unifies the entirety of enterprise data into a common platform.\n\nSmall Language Models Will Get Traction: Not all AI, BI and analytics functions thrive on large language models. Enter small language models or SLMs. These are compressed versions of LLMs and have a compact architecture that needs fewer computational resources. Though LLMs serve as the starting points for building SLMs, the latter is trained on an extensively focused dataset to offer tailored capabilities for any business domain. Moreover, due to their smaller size, they are more responsive, cost-effective, faster and adaptable for real-time applications like chatbots.\n\nIf 2024 proclaimed the supremacy of Gen AI-powered analytics, 2025 will take it to the next level. We're talking of a future where users need not train on any BI tool to answer complex business questions. With just a simple natural language question, they will get all the information they seek. This will come with an assurance of accuracy and no worries about the security of sensitive information used to generate the responses.",
+    "with": [
+      "5 Data Analytics Trends for 2025",
+      "As edge computing brings data processing and analytics closer to the source, real-time insights from streaming data in split seconds are not a distant possibility anymore.",
+      "The rise of agentic systems has opened a new chapter in AI evolution—where autonomous AI agents can handle almost any operation with zero human intervention.",
+      "Homomorphic encryption allows for analyzing or processing encrypted data without exposing or decrypting it.",
+      "Kyvos is already higher up this ladder with advanced conversational analytics."
+    ],
+    "without": [
+      "Kyvos Insights",
+      "Schedule a demo",
+      "Start trial",
+      "Pricing",
+      "© 2025 Kyvos Insights"
+    ],
+    "images": {
+      "total_in_content": 35,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:29:29.392940"
+}

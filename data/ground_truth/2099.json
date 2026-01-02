@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.todaymade.com/blog/web-design-trends",
+  "file_id": "2099",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "web-design",
+        "design-trends",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Web Design Trends 2025: Tips and Examples to Stay Competitive",
+    "author": "Stan Murash",
+    "publish_date": "2025-10-03",
+    "main_content": "Web design is at the heart of the digital experience, shaping how site visitors interact with brands and absorb information. As we approach 2025, the design landscape continues to evolve, driven by new technologies, changing user expectations, and the growing need for accessibility and sustainability. The latest web design trends are not merely aesthetic shifts but a reflection of deeper technological advancements and behavioral patterns. From AI-powered personalization to eco-friendly practices, current trends are transforming websites into dynamic, engaging, and purpose-driven platforms. Understanding these trends is essential for designers, marketers, and businesses looking to create memorable digital experiences that foster human connection. Whether you're redesigning an existing site or starting fresh, knowing what's on the horizon ensures your project remains relevant and competitive. In this article, we'll explore the top web design trends for 2025, offering actionable insights and inspiring examples. Web design in 2025 will be defined by innovation, inclusivity, and sustainability. As the digital landscape continues to evolve, designers and businesses must adapt by embracing emerging trends to remain relevant and engaging.",
+    "with": [
+      "Artificial intelligence has revolutionized various industries, and web design is no exception. In 2025, AI-powered personalization will move from being a nice-to-have feature to an essential component of modern websites.",
+      "Flat design is giving way to something far more engaging — 3D. As we move into 2025, immersive 3D elements, along with geometric shapes, are no longer reserved for gaming or architecture.",
+      "Sustainability is becoming a crucial consideration in web design, reflecting a broader global emphasis on environmental responsibility for website visitors.",
+      "Voice User Interfaces (VUIs) are transforming the way people interact with technology. As voice assistants like Alexa, Siri, and Google Assistant become household staples, websites are adapting to meet the growing demand for voice-activated features.",
+      "Dark mode has evolved from a trendy feature to an essential design element, gaining widespread popularity for its aesthetic appeal and functional benefits."
+    ],
+    "without": [
+      "Subscribe to our newsletter",
+      "Copyright 2025 TodayMade Design Ltd",
+      "Privacy Policy | Terms of Service",
+      "Book a demo",
+      "Follow us on LinkedIn"
+    ],
+    "images": {
+      "total_in_content": 34,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://cdn.prod.website-files.com/655375faf5e7806a315ace40/67600b3f09a17a9779a9808f_Cover1.webp",
+          "filename": "67600b3f09a17a9779a9808f_Cover1.webp",
+          "alt": "image",
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/655375faf5e7806a315ace40/66df0b465def5ae74e00c825_img-stan.webp",
+          "filename": "66df0b465def5ae74e00c825_img-stan.webp",
+          "alt": null,
+          "caption": "Stan Murash - Author",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/655375faf5e7806a315ace40/676015bd66ce000a815fc3d5_67600b8a7e3265c730a98fdd_%25D0%2597%25D0%25BD%25D1%2596%25D0%25BC%25D0%25BE%25D0%25BA%2520%25D0%25B5%25D0%25BA%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B0%25202024-12-04%2520%25D0%25BE%252015.26.34.webp",
+          "filename": "676015bd66ce000a815fc3d5_67600b8a7e3265c730a98fdd_%25D0%2597%25D0%25BD%25D1%2596%25D0%25BC%25D0%25BE%25D0%25BA%2520%25D0%25B5%25D0%25BA%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B0%25202024-12-04%2520%25D0%25BE%252015.26.34.webp",
+          "alt": "Image showcasing the AI Gift Idea Wizard",
+          "caption": "Image showcasing the AI Gift Idea Wizard",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/655375faf5e7806a315ace40/6887a9a9d28413e4bf503cc4_1.png",
+          "filename": "6887a9a9d28413e4bf503cc4_1.png",
+          "alt": "Amazon AI-powered personalization",
+          "caption": "Amazon AI-powered personalization",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/655375faf5e7806a315ace40/676015bd66ce000a815fc44d_67600c54ec36558a53f38349_%25D0%2597%25D0%25BD%25D1%2596%25D0%25BC%25D0%25BE%25D0%25BA%2520%25D0%25B5%25D0%25BA%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B0%25202024-12-04%2520%25D0%25BE%252015.26.43.webp",
+          "filename": "676015bd66ce000a815fc44d_67600c54ec36558a53f38349_%25D0%2597%25D0%25BD%25D1%2596%25D0%25BC%25D0%25BE%25D0%25BA%2520%25D0%25B5%25D0%25BA%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B0%25202024-12-04%2520%25D0%25BE%252015.26.43.webp",
+          "alt": "An image of a national park featuring immersive 3D elements showcasing three bears and two seals",
+          "caption": "An image of a national park featuring immersive 3D elements showcasing three bears and two seals",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/655375faf5e7806a315ace40/6887a9cd25994e26dffa601d_2.png",
+          "filename": "6887a9cd25994e26dffa601d_2.png",
+          "alt": "Nike's 3D interactive sneaker model",
+          "caption": "Nike's 3D interactive sneaker model",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/655375faf5e7806a315ace40/676015bd66ce000a815fc3d8_67600dd7331ae16044e148e8_%25D0%2597%25D0%25BD%25D1%2596%25D0%25BC%25D0%25BE%25D0%25BA%2520%25D0%25B5%25D0%25BA%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B0%25202024-12-04%2520%25D0%25BE%252015.26.55.webp",
+          "filename": "676015bd66ce000a815fc3d8_67600dd7331ae16044e148e8_%25D0%2597%25D0%25BD%25D1%2596%25D0%25BC%25D0%25BE%25D0%25BA%2520%25D0%25B5%25D0%25BA%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B0%25202024-12-04%2520%25D0%25BE%252015.26.55.webp",
+          "alt": "An example of sustainable web design showcased on the Patagonia website",
+          "caption": "An example of sustainable web design showcased on the Patagonia website",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/655375faf5e7806a315ace40/6887a9ed613387f45fd5c8ec_3.png",
+          "filename": "6887a9ed613387f45fd5c8ec_3.png",
+          "alt": "Patagonia sustainable web design",
+          "caption": "Patagonia sustainable web design",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/655375faf5e7806a315ace40/6887aa0c6c5970fc2e013212_4.png",
+          "filename": "6887aa0c6c5970fc2e013212_4.png",
+          "alt": "Domino's Pizza voice user interface",
+          "caption": "Domino's Pizza voice user interface",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/655375faf5e7806a315ace40/676015bd66ce000a815fc3d2_67601090e3c8aa5c4e01a13f_%25D0%2597%25D0%25BD%25D1%2596%25D0%25BC%25D0%25BE%25D0%25BA%2520%25D0%25B5%25D0%25BA%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B0%25202024-12-04%2520%25D0%25BE%252015.27.12.webp",
+          "filename": "676015bd66ce000a815fc3d2_67601090e3c8aa5c4e01a13f_%25D0%2597%25D0%25BD%25D1%2596%25D0%25BC%25D0%25BE%25D0%25BA%2520%25D0%25B5%25D0%25BA%25D1%2580%25D0%25B0%25D0%25BD%25D0%25B0%25202024-12-04%2520%25D0%25BE%252015.27.12.webp",
+          "alt": "A design page illustrating the standardization of dark mode for Spotify",
+          "caption": "A design page illustrating the standardization of dark mode for Spotify",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:38:23.653070"
+}

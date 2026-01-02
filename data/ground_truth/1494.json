@@ -1,27 +1,75 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.insureon.com/small-business-insurance/hired-non-owned-auto/cost",
   "file_id": "1494",
-  "downloaded_at": "2025-12-20T22:46:43.890002",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "insurance",
+        "business",
+        "guide",
+        "costs"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Hired and non-owned auto insurance cost",
+    "title": "Hired and Non-Owned Auto Insurance Cost: Fast & Free Quotes | Insureon",
     "author": null,
     "publish_date": null,
-    "main_content": "Hired and non-owned auto insurance (HNOA) covers vehicles that your business uses but does not own. The cost of the policy depends on several factors, including the number and type of vehicles you use. Though Insureon does not have exact figures for hired and non-owned auto insurance, you can use commercial auto insurance premiums for reference. The average cost of commercial auto insurance is $147 per month. Our figures are calculated using the median cost of policies sold by leading insurance companies to Insureon's small business customers. The exact cost of HNOA liability coverage will depend on the vehicles' value, how often they are driven, and the amount of coverage you choose. Hired and non-owned auto insurance covers hired autos, such as the rental cars, leased automobiles, and personal vehicles that are used for business purposes. It helps cover costs in an accident, such as property damage, bodily injuries, and legal expenses. Because vehicles used for commercial purposes have higher liabilities, hired and non-owned auto insurance usually costs more than personal auto insurance and about the same as a commercial auto policy. The amount of coverage is just one factor that will impact the cost of your hired and non-owned auto insurance policy. Your insurance provider will also look at a number of other factors when calculating your premium, such as: Policy limits and deductible, Industry risks, Driving records and demographics, Location, Number of vehicles, Type of vehicles, Claims history. The deductible you choose impacts the cost of your HNOA insurance coverage. The higher your deductible, the less expensive your premium will be. As with your personal auto policy, if you want auto insurance that pays for a wide range of damage, you will pay more. Higher coverage limits cost more than basic coverage. Among Insureon policyholders, the average policy limit is $1 million for auto insurance. Businesses with a large fleet of high-value vehicles might choose higher limits to cover potentially higher claims. If you work in an industry where you're on the road a lot or there are higher risks, you’ll probably have to pay more for hired and non-owned vehicle coverage. For example, you’d pay more to insure vehicles used to transport heavy machinery as a general contractor than vehicles used for basic transportation needs for a consulting firm. Your employees' driving records will affect the cost of hired and non-owned auto coverage. An employee with a history of collisions and speeding tickets can cause higher premiums. This policy would also cost more for companies that hire younger, inexperienced employees, as opposed to older, more experienced drivers. Your location, such as your city or state, could impact your hired auto coverage costs. Higher population density often equates to a more substantial risk of vehicle accidents, physical damage, and incidents. Additionally, state laws and regulations can dictate the amount of coverage your business needs, which also impacts cost. A New York small business will likely pay higher rates than an Oklahoma business for the same liability insurance. The more vehicles you own, the more opportunities there are for a car accident. That's why it costs more to insure more vehicles. Even if you are an independent contractor or sole proprietor who drives your own car occasionally for work, it's still a good idea to buy HNOA coverage because your personal auto insurance policy will not provide coverage for any work-related errands. Without this liability protection, you might end up paying for medical bills and legal costs out of pocket if someone sues over an injury or property damage from an accident. The kind of vehicle you drive will have an impact on your hired and non-owned car insurance costs. A higher value vehicle (e.g., a luxury personal car or rented truck) will have a higher premium than a lower value vehicle. Insurers also look at how much potential damage your car, van, or truck could cause in an accident. Insurance companies will look at your claims history to determine how risky you are to insure. Companies that have made past HNOA claims will pay more for insurance than those with a clean history. A small business can take several steps to reduce the cost of hired and non-owned auto insurance. However, getting the right auto insurance should take priority. A cheaper policy won't do you any good if it doesn't provide coverage when you need it. Strategies to keep costs down include: When you purchase hired and non-owned auto liability coverage, you can choose to pay your premium in either monthly or annual installments. The annual premium often costs less than paying month by month. Choosing a higher deductible is an effortless way to save on your premium, but make sure to choose a deductible you can still afford. If you can’t pay it, you can’t collect on a claim. The fewer claims your business makes, the less your insurance premiums cost. You should aim to minimize risks to avoid claims and keep your premium low. A good risk management strategy to reduce HNOA claims includes: Frequent car inspections and maintenance, Keeping records of employees' driving history, Avoiding texts or calls to employees on the road, Mandatory drug and alcohol tests after an accident, Only allow experienced drivers with clean records to drive for your business. Insureon is the #1 independent agency for online delivery of small business insurance. We help business owners compare insurance quotes from top-rated providers, buy policies, and manage their insurance online. By completing Insureon’s easy online application today, you can compare free quotes for HNOA and other property and liability policies from top-rated U.S. insurance companies. Our insurance agents are available to help answer any questions related to your business needs. Once you find the right policy, you can begin coverage in less than 24 hours and get a certificate of insurance for your small business.",
+    "main_content": "Hired and non-owned auto insurance (HNOA) covers vehicles that your business uses but does not own. The cost of the policy depends on several factors, including the number and type of vehicles you use. Though Insureon does not have exact figures for hired and non-owned auto insurance, you can use commercial auto insurance premiums for reference. The average cost of commercial auto insurance is $147 per month. The exact cost of HNOA liability coverage will depend on the vehicles' value, how often they are driven, and the amount of coverage you choose. Hired and non-owned auto insurance covers hired autos, such as the rental cars, leased automobiles, and personal vehicles that are used for business purposes. It helps cover costs in an accident, such as property damage, bodily injuries, and legal expenses. Because vehicles used for commercial purposes have higher liabilities, hired and non-owned auto insurance usually costs more than personal auto insurance and about the same as a commercial auto policy. The amount of coverage is just one factor that will impact the cost of your hired and non-owned auto insurance policy. Your insurance provider will also look at a number of other factors when calculating your premium, such as: policy limits and deductible, industry risks, driving records and demographics, location, number of vehicles, type of vehicles, and claims history. The deductible you choose impacts the cost of your HNOA insurance coverage. The higher your deductible, the less expensive your premium will be. Higher coverage limits cost more than basic coverage. Among Insureon policyholders, the average policy limit is $1 million for auto insurance. If you work in an industry where you're on the road a lot or there are higher risks, you'll probably have to pay more for hired and non-owned vehicle coverage. Your employees' driving records will affect the cost of hired and non-owned auto coverage. An employee with a history of collisions and speeding tickets can cause higher premiums. This policy would also cost more for companies that hire younger, inexperienced employees, as opposed to older, more experienced drivers. Your location could impact your hired auto coverage costs. Higher population density often equates to a more substantial risk of vehicle accidents, physical damage, and incidents. The more vehicles you own, the more opportunities there are for a car accident. That's why it costs more to insure more vehicles. The kind of vehicle you drive will have an impact on your hired and non-owned car insurance costs. A higher value vehicle will have a higher premium than a lower value vehicle. Insurance companies will look at your claims history to determine how risky you are to insure. Companies that have made past HNOA claims will pay more for insurance than those with a clean history. A small business can take several steps to reduce the cost of hired and non-owned auto insurance. When you purchase hired and non-owned auto liability coverage, you can choose to pay your premium in either monthly or annual installments. The annual premium often costs less than paying month by month. Choosing a higher deductible is an effortless way to save on your premium, but make sure to choose a deductible you can still afford. The fewer claims your business makes, the less your insurance premiums cost. You should aim to minimize risks to avoid claims and keep your premium low. Insureon is the #1 independent agency for online delivery of small business insurance. We help business owners compare insurance quotes from top-rated providers, buy policies, and manage their insurance online. By completing Insureon's easy online application today, you can compare free quotes for HNOA and other property and liability policies from top-rated U.S. insurance companies. Once you find the right policy, you can begin coverage in less than 24 hours and get a certificate of insurance for your small business.",
     "with": [
-      "Hired and non-owned auto insurance (HNOA) covers vehicles that your business uses but does not own.",
+      "The cost of hired and non-owned auto insurance depends on employee driving records, vehicle use, and other factors.",
       "The average cost of commercial auto insurance is $147 per month.",
-      "The exact cost of HNOA liability coverage will depend on the vehicles' value, how often they are driven, and the amount of coverage you choose.",
-      "Because vehicles used for commercial purposes have higher liabilities, hired and non-owned auto insurance usually costs more than personal auto insurance and about the same as a commercial auto policy.",
-      "Insureon is the #1 independent agency for online delivery of small business insurance."
+      "Hired and non-owned auto insurance covers hired autos, such as the rental cars, leased automobiles, and personal vehicles that are used for business purposes.",
+      "The deductible you choose impacts the cost of your HNOA insurance coverage. The higher your deductible, the less expensive your premium will be.",
+      "Insurance companies will look at your claims history to determine how risky you are to insure."
     ],
     "without": [
       "Small Business Insurance",
+      "Need a policy recommendation? Answer 3 questions.",
       "Log in to Insureon Customer Portal",
-      "Get Quotes",
       "Choose from the nation's best insurance providers",
-      "© 2025 Insureon, a division of Specialty Program Group LLC / DBA SPG Insurance Solutions ALL RIGHTS RESERVED"
-    ]
+      "© 2025 Insureon, a division of Specialty Program Group LLC"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://www.insureon.com/-/media/insurance-policies/insurance-policy-imagery/hired-non-owned-auto/hero_desktop_hired-non-owned-auto.jpg?h=530&iar=0&w=1920&rev=dbab1e9981fa4b919234a71a5e04d13c",
+          "filename": "hero_desktop_hired-non-owned-auto.jpg",
+          "alt": "Person behind the wheel of a vehicle.",
+          "caption": "Person behind the wheel of a vehicle.",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.insureon.com/-/media/insurance-policies/insurance-policy-imagery/hired-non-owned-auto/desktop_hnoa_cost.jpg?h=1396&iar=0&w=1801&rev=6244bf5b10c64a6580dd24f4d855b4bc",
+          "filename": "desktop_hnoa_cost.jpg",
+          "alt": "Hired and non-owned auto (HNOA) insurance cost factors graphic.",
+          "caption": "Hired and non-owned auto (HNOA) insurance cost factors graphic.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.insureon.com/-/media/cta/image_get-small-business-insurance.png?h=300&iar=0&w=456&rev=e92b85c4bc1b4d319c29b170152111ee",
+          "filename": "image_get-small-business-insurance.png",
+          "alt": "Small business owner looking for insurance quotes on their tablet.",
+          "caption": "Small business owner looking for insurance quotes on their tablet.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.insureon.com/-/media/blog/posts/2019/photo_inside-a-car-being-driven.jpg?rev=8aafc42f6ee849e6ad5e6b3518029392&hash=E7C6AEBC570212D6B5CC715544906F56&mh=250",
+          "filename": "photo_inside-a-car-being-driven.jpg",
+          "alt": "A man's hand on the steering wheel of a car driving down a road.",
+          "caption": "A man's hand on the steering wheel of a car driving down the road.",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:46:43.890007"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:38:18.763669"
 }

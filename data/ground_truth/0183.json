@@ -1,0 +1,82 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.liberty.edu/online/tuition-and-fees/",
+  "file_id": "0183",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "tuition",
+        "financial",
+        "university"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Online Tuition and Financing | Liberty University",
+    "author": "Enrollment Team",
+    "publish_date": null,
+    "main_content": "Liberty University Online Tuition and Fees - Consistent Tuition Rates for a Decade. As a nonprofit institution, Liberty University strives to keep costs affordable. Most online tuition rates rank in the top 35% for affordability for 2025, and online undergraduate tuition rates have been frozen for the last 10 years.\n\nTuition Rates:\n\nUndergraduate: Full-time $390/hour, Part-time $455/hour, Military $250/hour\nGraduate: Full-time $580/hour, Part-time $645/hour, Military $290/hour\nSeminary: Block rate $2,850/semester, Graduate Military $2,850/semester, Doctoral Military $2,850/semester\nDoctorate: Full-time $610/hour, Part-time $675/hour, Military as low as $375/hour\n\nFull-Time Per Hour Rate includes: Undergraduate $390, R.N.-B.S.N. $330, Master's Programs $580, M.Ed. and M.A. in Teaching Programs $430, School of Divinity Master's Programs $2,850 block rate, Ed.S. and Doctorate Programs $610, D.N.P. $850, Military Undergraduate $250, Military Graduate $290, Technology Fee $349 per semester, Book and Online Content Fees $636 estimate.\n\nPart-Time Per Hour Rate includes: Undergraduate $455, R.N.-B.S.N. $330, Master's Programs $645, M.Ed. and M.A. in Teaching Programs $645, School of Divinity Master's Programs $410, Ed.S. and Doctorate Programs $675, D.N.P. $850, Military Undergraduate $250, Military Graduate $290.\n\nSpecial Program Rates available for various programs.\n\nFinancial Resources: Net Price Calculator, Payment Plans, Textbooks & Software, Financial Check-In.\n\nDiscounts & Assistance: First Responder Discount, Military Tuition Discount, Scholarships, Corporate Tuition Assistance.\n\nFinancial Aid Options: Financial Aid Process, Financial Aid FAQs, Grants, Loans.",
+    "with": [
+      "Liberty University Online Tuition and Fees – Consistent Tuition Rates for a Decade – Affordable Online Education",
+      "As a nonprofit institution, Liberty University strives to keep costs affordable for you.",
+      "Most of our online tuition rates rank in the top 35% for affordability for 2025 when compared to our leading online competitors",
+      "Online undergraduate tuition rates have been frozen for the last 10 years",
+      "Undergraduate – Full-time $390 per hour, Part-time $455/hour, Military $250/hour"
+    ],
+    "without": [
+      "Apply Now – App Fee Waived This Week",
+      "Chat Live – (800) 424-9595",
+      "Liberty University Online Programs",
+      "Request Information",
+      "Privacy Policy | Liberty University"
+    ],
+    "images": {
+      "total_in_content": 11,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://www.liberty.edu/online/wp-content/uploads/Tuition-And-Fees-2-1-scaled.jpg",
+          "filename": "Tuition-And-Fees-2-1-scaled.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://www.liberty.edu/online/wp-content/uploads/First-Responder-discount.jpg",
+          "filename": "First-Responder-discount.jpg",
+          "alt": "First Responder Discount",
+          "caption": "First Responder Discount",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.liberty.edu/online/wp-content/uploads/Tuition-Assistance-1.jpg",
+          "filename": "Tuition-Assistance-1.jpg",
+          "alt": "Tuition Assistance",
+          "caption": "Tuition Assistance",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.liberty.edu/online/wp-content/uploads/Small-Business-Discount-LUO.jpg",
+          "filename": "Small-Business-Discount-LUO.jpg",
+          "alt": "Small Business Discount LUO",
+          "caption": "Small Business Discount LUO",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.liberty.edu/online/wp-content/uploads/payment-plans-header.jpg",
+          "filename": "payment-plans-header.jpg",
+          "alt": " ",
+          "caption": "Payment Plans Header",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:30:38.083891"
+}

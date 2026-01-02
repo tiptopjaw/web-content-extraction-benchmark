@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://electricaltrends.com/industry-news/",
+  "file_id": "0300",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "news",
+        "industry-news",
+        "rss-feed",
+        "electrical-industry"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Industry News",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Industry News feed featuring aggregated news articles from the electrical industry. Recent news items include: Altadena's recovery efforts a year after the Eaton fire from WSIU; Norman Fields Gottscho Capital Management LLC acquires 7,303 shares of WESCO International; David Lee LeGrand obituary; Habitat dedicates 43rd build with Southwire; StretchSense raises $2.3M for XR training gloves from Siemens; Siemens MT0100A Control Transformer product listing; Brooks and Capehart on Trump's approval ratings and mental acuity; Siemens offers free Solid Edge Community Edition for makers; ABB acquires IPEC to enhance electrical monitoring; Shifting segment margins reshaping Siemens valuation; Smart Grid Analytics market report by Schneider Electric; Acuity AYI valuation check as CEO Neil Ashe earns EdisonReport 2025 Person of the Year; Weigh in Motion System market featuring Kistler and Siemens; AWS plans new data center in Georgia with Schneider Electric; Sonepar names new East, West Regional Presidents; Edison neglected maintenance before Eaton Fire; Distressed Debt Legal Insights - District Court reverses Wesco ruling; Factors affecting distance-corrected near visual acuity in intraocular lenses; Siemens Energy AG earnings call transcripts; Siemens 3RV1921-1M AUXILIARY product; Slovenia orders passenger fleet from Siemens and Magyar Vagon; Chip Industry Week in Review; Siemens A6X30149670 asynchronous motor; Eaton fire survivors and SCE compensation program; Siemens Uroskop Luminos Agile Max Table I/O board; HVDC Converter Station market report; Medium Power EV Busbars market analysis; MCU ecosystems and chiplets insights; Why liquid cooling is non-negotiable in AI; Legrand shares gap down; Xsens and Siemens Process Simulate ergonomics; Siemens and AWS CES 2026 coverage; Nearly a year after Eaton Fire, Altadena's Christmas Tree Lane; AdventHealth invests in next-generation MRI technology with Siemens; Insurtech Lumera buys Acuity; Edison makes first payment in Eaton Fire compensation program; Siemens launches PAVE360 automotive; Commonwealth Fusion Systems at CES 2025; Will Eaton stock rebound; Commercial Energy as a Service market; Atkore seeing interest from PE firms; Orbis electric car cooling tech for data centers; ABB advances electrification at Boliden's Aitik facility; E&R Industrial names new CEO; CISA flags ICS vulnerabilities in Rockwell products; Eaton expands Henrico County Virginia manufacturing; ABB powers Spain plant with EV charging; Schneider Electric inks Rs 718 crore deal for Tamil Nadu expansion; Product Pick of the Week Daltile's Luminique from Cooper Lighting; Lighting takes 8 spots in BD&C Top 75 Products for 2025; Smart Grid Data Analytics market report; ABB strengthens grid automation with Netcontrol acquisition; ABB powers VITRO Santa Rosa data center; ABB introduces electromagnetic flowmeter with MQTT; Schneider Electric completes acquisition of SEIPL; It's making a list, checking your data center twice; WESCO International stock analysis; Rockwell Automation and Bolder Industries carbon black facilities; Leading companies in Power Plant Control System market; Leading companies in Electric Motor and Generator market; Schneider Electric commits investment in Tamil Nadu; ABB Strengthens Grid Automation with Netcontrol; Electricians market competition analysis; California cuts PG&E and Edison profits for grid investments; Schneider Electric named top employer in Middle East; ABB Generations 2025 maritime frontiers; Schneider Electric to invest 718 crore in Tamil Nadu; Why analysts think Acuity could be undervalued; Segment evaluation in Transformer market; 20 years strong Fenner Conveyors and ABB.",
+    "with": [
+      "Altadena's recovery efforts a year after the Eaton fire - WSIU",
+      "Norman Fields Gottscho Capital Management LLC Acquires 7,303 Shares of WESCO International Inc (WCC)",
+      "ABB Expands Grid Automation Capabilities with Planned Acquisition of Netcontrol",
+      "Schneider Electric Commits Rs 718 Crore Investment In Tamil Nadu, Focuses On Manufacturing Expansion",
+      "CISA flags ICS vulnerabilities in products from Siemens, Schneider Electric, Rockwell, and others"
+    ],
+    "without": [
+      "Subscribe to Electrical Trends",
+      "© Copyright GrandNews Theme Demo - Theme by ThemeGoods",
+      "Home » Industry News",
+      "Older posts",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 19,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:45:45.306928"
+}

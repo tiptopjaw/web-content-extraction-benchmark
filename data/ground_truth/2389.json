@@ -1,27 +1,69 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.makeuseof.com/this-is-my-secret-to-perfect-answers-from-gemini",
   "file_id": "2389",
-  "downloaded_at": "2025-12-21T00:05:17.531034",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "ai",
+        "gemini",
+        "productivity",
+        "guide"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "This is my secret to perfect answers from Gemini",
     "author": "Brady Snyder",
     "publish_date": "2025-12-19",
-    "main_content": "By now, you've probably written your fair share of prompts for AI chatbots like Gemini or ChatGPT. With powerful large language models (LLMs) powering these chatbots behind the scenes, it doesn't take much instruction for Gemini or ChatGPT to produce a decent output. However, the quality of the prompt you provide an AI model directly correlates to the quality of the output you receive. If you want better responses from your AI chatbots, you need to give them better prompts—it's a science.\n\nTo level up your prompts, you'll want to start prompt engineering, which involves optimizing and crafting LLM inputs specific to your task. I'm a hardcore Gemini user, and I recently learned about a prompt engineering technique called meta-prompting. Essentially, this method uses AI to generate prompts that will eventually be fed into a chatbot. It's an easy way to improve your prompting skills while barely lifting a finger, and if you aren't using it, you're starting behind the curve.\n\nWhat is meta-prompting?\nBroad instructions used to generate specific prompts\n\nIf you're new to the world of prompt engineering (like I was just a few weeks ago), this Prompt Engineering Guide is a valuable resource as you learn the various strategies for writing successful AI input prompts. Let's start by explaining what meta-prompting actually is—it's a prompting technique that helps AI chatbots like Gemini understand how to approach a problem. Meta prompts add structure and syntax to guide the LLM powering a chatbot in the right direction.\n\nYou can write meta prompts yourself, but a quicker, easier way to start meta-prompting is to ask Gemini to generate the detailed inputs on its own. I got this idea from Google DeepMind UX Engineer Anna Bortsova, who uses Gemini to create meta prompts that are fed into Google AI tools like Veo 3. Bortsova's prompts created with Gemini can be pages in length, adding more detail and specificity than you'd get with instructions written by a human.\n\n\"There are no rules here—we're experimenting—but I’ve found a few things that help steer Gemini to really rich prompts,\" Bortsova writes. \"You want to define a very specific task: 'write a detailed prompt that an LLM will understand.' And you want to be clear about your format and style: say, an 8-second stop-motion animation of paper-engineered scenes. Then give it constraints, such as foil or shiny paper, rather than just general paper. Then let it do its thing.\"\n\nIf there's anyone who knows how to use Gemini best, it's a Google DeepMind engineer. So, I used Gemini to create my own meta prompts, and the results were stunning.\n\nMeta-prompting changed the way I use AI\nGemini helps me generate photos and build custom apps\n\nMeta-prompting with Gemini expands what is possible when using AI apps, because detailed and optimized prompts become the standard. When I used Google's Antigravity app to build the custom Android and web app pictured above, I didn't write the prompt given to Antigravity. Instead, I gave the following prompt to Gemini, asking it to write instructions for the agentic integrated development environment (IDE):\n\nCreate a detailed prompt for an AI-based IDE that will build a simple play-counter app for every title in this user's discogs library: https://www.discogs.com/user/dippinthrutherecords\n\nThere should be a simple interface in the web app where I can tally how many times I've played each release and see a ranking of the ones I've played most\n\nonly include albums that I have in the discogs collection\n\nGemini returned a detailed prompt that, frankly, I don't understand much. The meta-prompt created with Gemini is extremely specific, defining the structure and syntax Antigravity needs to use to fulfill my request. It includes deep coding knowledge to point the AI agent in the right direction. All of this came from the very simple prompt you see above, and I was thrilled with the results.\n\nHere's the meta prompt Gemini came up with for Antigravity:\n\n# Role\n\nYou are an expert React/Next.js developer with experience in third-party API integration and local state management.\n\n# Project Goal\n\nBuild a personal web application called \"Vinyl Spin Counter.\"\n\nThe app must fetch the record collection of a specific Discogs user and provide a simple interface to track how many times each record has been played.\n\n# Data Source\n\n* **Target User:** `dippinthrutherecords`\n\n* **Source URL:** https://www.discogs.com/user/dippinthrutherecords\n\n* **API:** Use the Discogs API (`GET /users/{username}/collection/folders/0/releases`) to fetch the collection.\n\n* *Note:* Focus only on the standard \"Collection\" (Folder ID 0). Do not fetch the Wantlist.\n\n# Tech Stack\n\n* **Framework:** Next.js (App Router).\n\n* **Styling:** Tailwind CSS.\n\n* **Icons:** Lucide React (for play buttons/ranking icons).\n\n* **Data Persistence:** Use `localStorage` for the MVP (Minimum Viable Product) to store the play counts so data persists between page reloads.\n\n* **State Management:** React Hooks (Zustand or standard `useState`/`useEffect`).\n\n# Core Features\n\n## 1. The Collection Grid (Home View)\n\n* Fetch all releases from the `dippinthrutherecords` collection.\n\n* Display them in a responsive grid (using Tailwind).\n\n* **Card Layout:**\n\n* Album Art (Thumbnail).\n\n* Artist Name & Album Title (Truncated if too long).\n\n* **Prominent Counter UI:** A large number showing \"Total Spins\" with a large `+` button to increment the count and a smaller `-` button to correct mistakes.\n\n## 2. The Leaderboard (Stats View)\n\n* A separate tab or modal showing a ranked list of the \"Top 10 Most Spun Records.\"\n\n* Sort the data based on the highest play counts stored in the local state.\n\n## 3. Search & Filter\n\n* A simple text search bar at the top to filter the grid by Artist or Album Name instantly.\n\n# Step-by-Step Implementation Plan\n\n1. **Setup & Types:** Initialize the project and define the TypeScript interface for a `DiscogsRelease`.\n\n2. **API Client:** Create a utility function to fetch the collection data. *Important: Handle pagination if the collection is large (Discogs pages results).*\n\n3. **State Logic:** Create a custom hook `useSpinTracker` that:\n\n* Loads play counts from `localStorage` on mount.\n\n* Merges play counts with the fetched Discogs data (using the Release ID as the key).\n\n* Exposes `incrementSpin(id)` and `decrementSpin(id)` functions.\n\n4. **UI Components:** Build the `ReleaseCard` and `Leaderboard` components.\n\n5. **Assembly:** Assemble the main page.\n\n# Special Instructions\n\n* **API Token:** If the Discogs API requires authentication for this public collection, allow me to define a `DISCOGS_TOKEN` in a `.env.local` file and use it in the headers.\n\n* **Aesthetic:** Dark mode by default. Use a \"Vinyl Record\" aesthetic (dark greys, circular motifs for avatars).\n\nLet's start by setting up the project and defining the API fetch logic.\n\nWith only a few follow-up prompts, Antigravity was able to create my custom Vinyl Spin Counter app based on Gemini's instructions. The working, installable Android APK demonstrated all the benefits of meta prompting. The final output was better than it would've been had I given Antigravity a simple, human-written prompt. Additionally, the meta prompting strategy was more efficient, requiring fewer requests. This helps power users avoid hitting rate limits or wasting tokens too quickly.\n\nWhile you can use an AI chatbot to help write meta prompts for complex tasks, it'll work for simple ones, too. In the gallery below, you can see the difference between images created with prompts I wrote myself and ones made with meta prompts from Gemini:\n\nIn my view, there are very few situations where you wouldn't want to have an AI chatbot write desired prompts on your behalf. There's almost no downside—it's often quicker than painstakingly writing a custom prompt while including additional details that will improve the quality of Gemini's output.\n\nWhen to use meta-prompting\nAnytime specificity matters, use AI to write prompts\n\nBy now, you're probably wondering when to use Gemini to generate meta prompts. Meta prompting can be useful for any LLM-related task, but it's most helpful for tasks and topics you aren't familiar with. For example, when I used Gemini to write a coding prompt for Google Antigravity, the meta prompt it generated included computer science knowledge I would've never known to include.\n\nWhether you're trying to generate an image or build an app, meta prompting with Gemini can help you achieve better results.",
+    "main_content": "If you're writing your own prompts, you're missing out on better outputs that need fewer tweaks. To level up your prompts, you'll want to start prompt engineering, which involves optimizing and crafting LLM inputs specific to your task. I'm a hardcore Gemini user, and I recently learned about a prompt engineering technique called meta-prompting. Essentially, this method uses AI to generate prompts that will eventually be fed into a chatbot. It's an easy way to improve your prompting skills while barely lifting a finger, and if you aren't using it, you're starting behind the curve. Meta-prompting with Gemini expands what is possible when using AI apps, because detailed and optimized prompts become the standard. With only a few follow-up prompts, Antigravity was able to create my custom Vinyl Spin Counter app based on Gemini's instructions. The working, installable Android APK demonstrated all the benefits of meta prompting. The final output was better than it would've been had I given Antigravity a simple, human-written prompt. Additionally, the meta prompting strategy was more efficient, requiring fewer requests. This helps power users avoid hitting rate limits or wasting tokens too quickly. In my view, there are very few situations where you wouldn't want to have an AI chatbot write desired prompts on your behalf. There's almost no downside—it's often quicker than painstakingly writing a custom prompt while including additional details that will improve the quality of Gemini's output. Meta prompting can be useful for any LLM-related task, but it's most helpful for tasks and topics you aren't familiar with.",
     "with": [
       "I'm a hardcore Gemini user, and I recently learned about a prompt engineering technique called meta-prompting.",
       "Essentially, this method uses AI to generate prompts that will eventually be fed into a chatbot.",
       "Meta-prompting with Gemini expands what is possible when using AI apps, because detailed and optimized prompts become the standard.",
-      "The final output was better than it would've been had I given Antigravity a simple, human-written prompt.",
+      "With only a few follow-up prompts, Antigravity was able to create my custom Vinyl Spin Counter app based on Gemini's instructions.",
       "Meta prompting can be useful for any LLM-related task, but it's most helpful for tasks and topics you aren't familiar with."
     ],
     "without": [
       "Sign in to your MUO account",
-      "PC & Mobile",
       "Copyright © 2025 Valnet Inc.",
-      "Trending Now",
-      "Share your thoughts"
-    ]
+      "Subscribe to our newsletter",
+      "Follow us on social media",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 20,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/12/gemini-meta-prompting-1.jpg?&fit=crop&w=1600&h=900",
+          "filename": "gemini-meta-prompting-1.jpg",
+          "alt": "The Gemini app landing page showing Gemini 3 Flash.",
+          "caption": "The Gemini app landing page showing Gemini 3 Flash.",
+          "is_hero": true
+        },
+        {
+          "src": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/12/gemini-meta-prompting-5.jpg?q=49&fit=crop&w=825&dpr=2",
+          "filename": "gemini-meta-prompting-5.jpg",
+          "alt": "Using meta prompting to generate an image with AI.",
+          "caption": "Using meta prompting to generate an image with AI.",
+          "is_hero": false
+        },
+        {
+          "src": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2025/12/gemini-meta-prompting-3.jpg?q=49&fit=crop&w=825&dpr=2",
+          "filename": "gemini-meta-prompting-3.jpg",
+          "alt": "Meta prompting explaining the logic behind a prompt.",
+          "caption": "Meta prompting explaining the logic behind a prompt.",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-21T00:05:17.531040"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:59:44.181227"
 }

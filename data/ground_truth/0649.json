@@ -1,35 +1,61 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.kaleido.io/blockchain-as-a-service",
   "file_id": "0649",
-  "downloaded_at": "2025-12-20T18:07:56.580080",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "blockchain",
+        "BaaS",
+        "enterprise",
+        "cloud-services"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Blockchain-as-a-Service | Launch Blockchain Networks Instantly",
     "author": null,
     "publish_date": null,
-    "main_content": "Simplify and accelerate the development of next-gen blockchain applications, unlocking new business value with ease and confidence. Create and customize enterprise-grade networks in a fraction of the time and at a fraction of the cost. We’ve brought the benefits of software as a service and blockchain technology together on a platform that is protocol-agnostic and committed to building products that function across public and private ecosystems. Reliable blockchain nodes and network configuration across private and public protocols. Private chains: World leaders in private chain infrastructure, having run 1000s of chains for enterprises. Customizable connections: Customizable configuration to tailor transaction processing on a per-chain basis. Public RPC: Foremost blockchain and consensus experts, we're constantly expanding our public connectivity to provide reliable access for our customers. Enterprise-grade infrastructure: Kaleido is ISO 27k and SOC 2 Type 2 compliant with built-in HA/DR and automatic failover. Build blockchains on your chosen protocol with multi-region, multi-cloud hosting options. The chain is only 5-10% of a full solution. Kaleido offers a full-stack of plug-and-play services to help you get complete enterprise solutions to production faster. Kaleido is hands down the leader in Blockchain-as-a-service. They support the major protocols and technologies that we need across our projects. Our production workloads have run on them for several years. CTO, Financial Services Industry. Enterprise-grade quality comes standard—and pluggable tools make building easier. Blockchain-as-a-Service (BaaS) providers offer the necessary cloud-based infrastructure and management tools for businesses to develop and maintain applications. Operating like a web hosting service, they manage the necessary backend operations for an app or platform and provide the underlying blockchain technology. Kaleido goes a step further, providing enterprise-ready networks on a proven platform with all the pluggable features you need to radically accelerate development. Full feature API: Make blockchain just another endpoint so you can accelerate deployment of d’Apps. Digital assets: A full suite of capabilities to create, manage, and swap tokens- both fungible and non-fungible. Integration tools: Event Streams and REST APIs make it easy to integrate your blockchain application with existing systems. Admin dashboards: Full visibility into your nodes, runtime, activity logs and utilization. Insights and monitoring: Real-time blockchain monitoring, analytics, and alerts to simplify management. Data explorer: Includes native smart contract management, Block Explorer, and Token Explorer. Key management: Integrated key management with multiple options to ensure your keys stay safe and secure. Pluggable security: Control access with pluggable security and click-button governance. Build faster with open source. Kaleido Blockchain as a Service is backed by Hyperledger FireFly, the first open source Supernode. With a powerful Web3 Gateway and a vibrant open source community, Hyperledger FireFly simplifies development and makes it easy to manage multiple use cases across both public and private chains from a single console. Rated #1 Asset tokenization & blockchain on G2. 1B+ Blocks mined on Kaleido chains. 10K+ Developers across 30+ countries. 1000+ Digital transformation projects. High-quality blockchain infrastructure for the most demanding use cases. Banking & financial services: Create innovative products based on blockchain and digital assets. Supply chain: Modernize paper-based processes to increase efficiency. Government & public sector: Digitize legacy systems to better serve the public. Healthcare: Transform medical data sharing to improve patient outcomes. Media & entertainment: Build NFT-based experiences that customers love. Insurance: Streamline claims processing and increase customer satisfaction. Kaleido is the #1 blockchain and digital asset platform on G2. Learn why companies ranging from large global institutions to cutting-edge start-ups have chosen Kaleido as the #1 asset tokenization and blockchain as a service provider. 93% Ease of Use. 95% Quality of Support. Synaptic Health Alliance uses Kaleido to run a leading healthcare blockchain consortia. Unionbank of the Philippines uses Kaleido to provide financial inclusion to millions of Filipinos through Project i2i. The Institutes RiskStream Collaborative uses Kaleido to improve insurance customer experiences. Covantis modernizes global trade operations with blockchain running on Kaleido. Blockchain made radically simple for the enterprise.",
+    "main_content": "Kaleido's Blockchain-as-a-Service platform enables businesses to create blockchain networks on the protocols of their choice in a fraction of the time at a fraction of the cost. The platform offers reliable blockchain nodes and network configuration across private and public protocols, allowing enterprises to create and customize enterprise-grade networks with ease. Kaleido is protocol-agnostic and committed to building products that function across public and private ecosystems.\n\nThe platform provides world-class private chain infrastructure, having run thousands of chains for enterprises. It offers customizable configuration to tailor transaction processing on a per-chain basis, public RPC for reliable blockchain access, and enterprise-grade infrastructure with ISO 27k and SOC 2 Type 2 compliance, built-in HA/DR and automatic failover.\n\nKey features include a full feature API to make blockchain just another endpoint for accelerating d'App deployment, a full suite of digital asset capabilities for creating and managing tokens (both fungible and non-fungible), integration tools like Event Streams and REST APIs, admin dashboards for visibility into nodes and runtime, real-time blockchain monitoring and analytics, data explorer with native smart contract management, integrated key management with multiple security options, and pluggable security with click-button governance.\n\nThe chain is only 5-10% of a full solution, and Kaleido offers a full-stack of plug-and-play services to help enterprises get complete solutions to production faster. The platform is backed by Hyperledger FireFly, the first open source Supernode, which simplifies development and makes it easy to manage multiple use cases across both public and private chains from a single console.\n\nKaleido supports major protocols including Ethereum, Polygon, Avalanche, Hyperledger Fabric, Hyperledger Besu, Quorum, and Corda. Industries served include Banking & Financial Services, Supply Chain, Government & Public Sector, Healthcare, Media & Entertainment, Insurance, ESG & Climate, and Gaming. The platform has 1 billion+ blocks mined, 10,000+ developers across 30+ countries, and has powered 1,000+ digital transformation projects.",
     "with": [
-      "Simplify and accelerate the development of next-gen blockchain applications, unlocking new business value with ease and confidence.",
-      "Create and customize enterprise-grade networks in a fraction of the time and at a fraction of the cost.",
-      "Kaleido goes a step further, providing enterprise-ready networks on a proven platform with all the pluggable features you need to radically accelerate development.",
-      "Kaleido is the #1 blockchain and digital asset platform on G2.",
-      "Blockchain made radically simple for the enterprise."
+      "Create blockchain networks on the protocols of your choice in a fraction of the time at a fraction of the cost.",
+      "Kaleido is hands down the leader in Blockchain-as-a-service. They support the major protocols and technologies that we need across our projects.",
+      "Blockchain-as-a-Service (BaaS) providers offer the necessary cloud-based infrastructure and management tools for businesses to develop and maintain applications.",
+      "The chain is only 5-10% of a full solution. Kaleido offers a full-stack of plug-and-play services to help you get complete enterprise solutions to production faster.",
+      "Kaleido Blockchain as a Service is backed by Hyperledger FireFly, the first open source Supernode."
     ],
     "without": [
-      "Log In",
       "Try It Free",
-      "Products",
-      "Solutions",
-      "Developers",
-      "Resources",
-      "Company",
+      "Request a Demo",
       "© Kaleido, Inc. 2025",
       "Privacy Policy",
-      "Acceptable Use Policy",
-      "Terms of Service",
-      "Latest News",
-      "Newsletter"
-    ]
+      "Subscribe to newsletter"
+    ],
+    "images": {
+      "total_in_content": 27,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://cdn.prod.website-files.com/5dfc18aeef0cf9644ab5ccca/680f96239c116b32e6a9ea90_Chain%20Infrastructure%202%20(2).png",
+          "filename": "680f96239c116b32e6a9ea90_Chain%20Infrastructure%202%20(2).png",
+          "alt": "Screenshot of the Environment Dashboard in Kaleido's Blockchain-as-a-Service platform",
+          "caption": "Screenshot of the Environment Dashboard in Kaleido's Blockchain-as-a-Service platform",
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/5dfc18aeef0cf9644ab5ccca/680f966028ca8745ca13c5c5_Environment%20home%20in%20screen.png",
+          "filename": "680f966028ca8745ca13c5c5_Environment%20home%20in%20screen.png",
+          "alt": "Infographic shows the components of Kaleido Blockchain as a Service for Enterprise Blockchain Infrastructure",
+          "caption": "Infographic shows the components of Kaleido Blockchain as a Service for Enterprise Blockchain Infrastructure",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:07:56.580088"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:45:41.380429"
 }

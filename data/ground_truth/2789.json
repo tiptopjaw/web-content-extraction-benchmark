@@ -1,0 +1,69 @@
+{
+  "schema_version": "2.0",
+  "url": "https://accessibleai.dev/post/writingaireadydotnetcode",
+  "file_id": "2789",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "guide",
+        "dotnet",
+        "ai",
+        "coding"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "16 Tips for Writing AI-Ready C# Code",
+    "author": "Matt Eland",
+    "publish_date": "2025-12-13",
+    "main_content": "Over the past year, I've been using an increasing amount of AI assistance across various tools to write and refine C# codebases. I wanted to distill some of the key takeaways from that development as well as insights gleaned from several AI workshops I led this week with Leading EDJE into an article to help you write and maintain C# codebases that are optimized for AI agents. In this article we'll walk through 16 of my current best practices for building C# codebases that are as easy as possible to use from AI tools like Copilot, Cursor, or Claude Code. A common standard for AI tooling is to use an Agents.md file located in the root of your repository. This file should contain common instructions that the AI agent should receive for any request you might make of the agent. Many AI agents will look at your README.md file when getting oriented on your code. README.md files often contain common context on what your codebase represents as well as standard practices for configuring, building, deploying, and testing your application. Compiler warnings are not 'pieces of flair' for your codebase. Rather, your compiler warnings should indicate that something is potentially wrong with something in your codebase and should be addressed. Some AI models and tools generate code that is oddly formatted and does not match the rest of your codebase. These code files might have no indentation whatsoever or deviate from your team's standards for curly brace placement or other common practices you've adopted. One problem I often encounter with AI agents is that they generate code that is correct but fails to bring in the using statements to support it. If your solution has many projects that all rely on similar NuGet packages, you may benefit from centralized package version management in a Directory.Packages.props file. If I had a nickel for every time AI created a new service and interface definition and then failed to register that service correctly for dependency injection somewhere, I'd have a lot of nickels. One thing I've noticed about AI tooling is that it doesn't always pull in all the files relevant to a task unless I've specifically mentioned them or referenced their existence. By using var instead of using the exact type name, it makes it easier for your AI agents to generate compliant code and make structural changes in a codebase. The with keyword is fantastic when working with record types because it lets you quickly clone an object with slightly different characteristics without needing to fully represent the properties of that object at the time of instantiation. One area where I've seen AI agents struggle significantly is with complicated setup logic for mocking libraries like Moq. The final tip I want to touch on is that what you name things matters. To illustrate what I mean, let's look at two different variable declarations in the lovely token visualizer at the token visualizer website. While 16 tips seems like a significant amount, I feel like this article is just scratching the surface on the topic of improving our codebases to make them more easily digestible to AI systems.",
+    "with": [
+      "Over the past year, I've been using an increasing amount of AI assistance across various tools to write and refine C# codebases.",
+      "A common standard for AI tooling is to use an Agents.md file located in the root of your repository.",
+      "Many AI agents will look at your README.md file when getting oriented on your code.",
+      "Compiler warnings are not 'pieces of flair' for your codebase.",
+      "One problem I often encounter with AI agents is that they generate code that is correct but fails to bring in the using statements to support it."
+    ],
+    "without": [
+      "Copyright © 2025 Matt Eland. All Rights Reserved.",
+      "Home | Books | Courses | About",
+      "Subscribe to YouTube channel",
+      "Privacy Policy link",
+      "Cookie notice"
+    ],
+    "images": {
+      "total_in_content": 6,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "/img/A_AIReadyCode.png",
+          "filename": "A_AIReadyCode.png",
+          "alt": "16 Tips for Writing AI-Ready C# Code",
+          "caption": "16 Tips for Writing AI-Ready C# Code",
+          "is_hero": true
+        },
+        {
+          "src": "../../img/TokenizedVars1.png",
+          "filename": "TokenizedVars1.png",
+          "alt": "Tokenized Variables with an underscore",
+          "caption": "Tokenized Variables with an underscore",
+          "is_hero": false
+        },
+        {
+          "src": "../../img/TokenizedVars2.png",
+          "filename": "TokenizedVars2.png",
+          "alt": "Tokenized Variables without an underscore",
+          "caption": "Tokenized Variables without an underscore",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:56:32.986060"
+}

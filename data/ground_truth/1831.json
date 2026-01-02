@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.thesoftwarereport.com/the-top-25-data-management-and-analytics-companies-of-2025/",
+  "file_id": "1831",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "awards",
+        "data-management",
+        "analytics",
+        "listicle"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "The Top 25 Data Management and Analytics Companies of 2025",
+    "author": null,
+    "publish_date": "2025-07-08",
+    "main_content": "The Software Report is pleased to announce The Top 25 Data Management and Analytics Companies of 2025. This year's awardees are providing the essential infrastructure that enables businesses to manage, integrate, and analyze data at scale. As organizations race to operationalize AI and make real-time decisions, these companies are solving the complex challenges beneath the surface to ensure that data is accessible, trusted, and ready for use across the enterprise to produce the crucial insights needed to perform. Their platforms span everything from data integration and governance to advanced analytics and AI-driven pipelines, forming the backbone of modern data operations. Some are focused on eliminating the fragmentation that holds businesses back. Starburst, for example, unifies distributed data across cloud, hybrid, and on-premises environments, enabling enterprises to access and analyze information without the cost or disruption of large-scale migrations. Others, like CData, simplify the connectivity layer itself, providing seamless, real-time access to hundreds of applications and systems across the modern data stack. Meanwhile, Snowplow is building high-fidelity behavioral data pipelines that fuel AI and personalization, helping digital-first organizations turn raw data into governed, AI-ready assets. The recipients of this year's award were selected based on a thorough evaluation of their technological capabilities, market impact, and ability to help enterprises operationalize data to accomplish their goals.",
+    "with": [
+      "The Software Report is pleased to announce The Top 25 Data Management and Analytics Companies of 2025.",
+      "This year's awardees are providing the essential infrastructure that enables businesses to manage, integrate, and analyze data at scale.",
+      "As organizations race to operationalize AI and make real-time decisions, these companies are solving the complex challenges beneath the surface.",
+      "Starburst, based in Boston, Massachusetts, is a leading data platform provider designed to give enterprises fast, secure, and scalable access to distributed data—wherever it lives.",
+      "CData, headquartered in Chapel Hill, North Carolina, is a leading data connectivity company dedicated to simplifying access to any data, anywhere."
+    ],
+    "without": [
+      "Sign Up for Free Email Newsletter",
+      "© The Software Report. All Rights Reserved.",
+      "Contact us: [email protected]",
+      "Skip to content",
+      "The Software Report is your comprehensive source for business news"
+    ],
+    "images": {
+      "total_in_content": 20,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://www.thesoftwarereport.com/wp-content/uploads/2025/07/Starburst-1.png",
+          "filename": "Starburst-1.png",
+          "alt": null,
+          "caption": "Starburst logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.thesoftwarereport.com/wp-content/uploads/2025/07/Cdata.png",
+          "filename": "Cdata.png",
+          "alt": null,
+          "caption": "CData logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.thesoftwarereport.com/wp-content/uploads/2025/07/Snowflake.png",
+          "filename": "Snowflake.png",
+          "alt": null,
+          "caption": "Snowflake logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.thesoftwarereport.com/wp-content/uploads/2025/07/SAS.png",
+          "filename": "SAS.png",
+          "alt": null,
+          "caption": "SAS logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.thesoftwarereport.com/wp-content/uploads/2025/07/Splunk.png",
+          "filename": "Splunk.png",
+          "alt": null,
+          "caption": "Splunk logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.thesoftwarereport.com/wp-content/uploads/2025/07/Tiger-Analytics.png",
+          "filename": "Tiger-Analytics.png",
+          "alt": null,
+          "caption": "Tiger Analytics logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.thesoftwarereport.com/wp-content/uploads/2025/07/Alteryx.png",
+          "filename": "Alteryx.png",
+          "alt": null,
+          "caption": "Alteryx logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.thesoftwarereport.com/wp-content/uploads/2025/07/dbt-Labs.png",
+          "filename": "dbt-Labs.png",
+          "alt": null,
+          "caption": "dbt Labs logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.thesoftwarereport.com/wp-content/uploads/2025/07/Cribl.png",
+          "filename": "Cribl.png",
+          "alt": null,
+          "caption": "Cribl logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.thesoftwarereport.com/wp-content/uploads/2025/07/Neo4j.png",
+          "filename": "Neo4j.png",
+          "alt": null,
+          "caption": "Neo4j logo",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:30:55.012976"
+}

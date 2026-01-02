@@ -1,0 +1,68 @@
+{
+  "schema_version": "2.0",
+  "url": "https://som.yale.edu/executive-education/for-individuals/leadership/digital-marketing",
+  "file_id": "0606",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "executive-education",
+        "digital-marketing",
+        "yale-som"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Digital Marketing: A Strategic Perspective Online Program | Yale School of Management",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Ninety-one percent of consumers are more likely to shop with brands who recognize, remember, and provide them with relevant product offerings. However, according to a survey done by Accenture, consumers feel their digital experiences are falling short of expectations. As customers' preferences continue to evolve, it's essential for businesses to generate value through customer-centric digital marketing strategies, and effectively use various digital marketing channels and tools to enhance performance. The Digital Marketing: A Strategic Perspective online program from the Yale School of Management Executive Education empowers marketers and business professionals to transcend silos in their organization and lead integrated, marketing-related digital transformation. Over the course of eight weeks, guided by Yale School of Management faculty, you'll explore how social media, SEO, content marketing, mobile technologies and other key digital marketing tools can be leveraged to create and extract value for your customer. You'll also consider how analytics and experimentation can be used to reveal opportunities for strategic innovation, and be analyzed to inform evidence-based insights. Explore the process of digital transformation, and discover how to integrate marketing insights into the greater strategic objectives of your organization. Program Dates: Registration closes February 03, 2026, Start date February 11, 2026. Length: 8 weeks (excluding orientation). Commitment: 6 - 8 hours per week. Fee: $2,100. Outcome: Practical digital marketing insights, skills, and frameworks. What to Expect: Use analytics, data, and experimentation to identify opportunities for digital marketing innovation; Explore the potential to create and capture value in the customer journey, and how to best guide consumers with content marketing; Capitalize on value from owned media via search engine optimization (SEO), paid media strategies, dashboard analytics, and social media marketing; Identify effective paid media strategies for specific customer journey points; Learn to prepare your organization for digital transformation. Who Should Attend: Both junior and mid-career marketers who wish to improve their digital marketing skills for better business performance; Non-marketing professionals who are interested in exploring different functions within a business and how digital marketing can inform their strategic business decisions; Business leaders and entrepreneurs who aim to gain a better customer understanding and who hope to harness digital marketing channels to create value in the consumer journey; Professionals wanting to formalize their experience and knowledge with a certificate of participation from one of the world's leading business schools. Agenda: Orientation Module; Module 1: Frameworks for generating customer value; Module 2: Paid Media: Advertising that reaches customers; Module 3: Owned Media: Impactful content marketing; Module 4: Social media: Listening, promotion, and engagement; Module 5: Expanding value using mobile and emerging technologies; Module 6: Using analytics to innovate; Module 7: Organizational considerations for digital transformation; Module 8: Digital marketing, regulation, and the future. Program Co-conveners: Jiwoong Shin, Professor of Marketing, Areas of Expertise: Analytics, Brand Management, Digital Marketing, Game Theory, Marketing Strategy, Social Media, Word-of-Mouth. K. Sudhir, James L. Frank '32 Professor of Private Enterprise and Management, Professor of Marketing & Director of the China India Insights Program, Areas of Expertise: Big Data, Brand Management, Economics, Emerging Markets, Globalization, Health Care, Marketing, Social Enterprise, Social Media. A program fee reduction of 15% is available for those working in the nonprofit or government sectors; Yale University alumni; small groups of 3-6; and those who have previously participated in a Yale Executive Education program with Yale SOM or 2U/GetSmarter. This course is presented entirely online in collaboration with leaders in digital education, GetSmarter, a brand of 2U, Inc.",
+    "with": [
+      "The Digital Marketing: A Strategic Perspective online program from the Yale School of Management Executive Education empowers marketers and business professionals to transcend silos in their organization and lead integrated, marketing-related digital transformation.",
+      "Over the course of eight weeks, guided by Yale School of Management faculty, you'll explore how social media, SEO, content marketing, mobile technologies and other key digital marketing tools can be leveraged to create and extract value for your customer.",
+      "Program Dates: Registration closes February 03, 2026, Start date February 11, 2026.",
+      "Commitment: 6 - 8 hours per week. Fee: $2,100.",
+      "This course is presented entirely online in collaboration with leaders in digital education, GetSmarter, a brand of 2U, Inc."
+    ],
+    "without": [
+      "Degree Programs - MBA, MBA for Executives, Master of Advanced Management",
+      "Yale School of Management Edward P. Evans Hall 165 Whitney Avenue New Haven, CT 06511-3729",
+      "Follow us on Instagram, LinkedIn, Facebook, YouTube, Threads",
+      "© Copyright 2025 Yale School of Management. All rights reserved.",
+      "Privacy Policy - Terms of Use - Accessibility - Site Map"
+    ],
+    "images": {
+      "total_in_content": 15,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "/sites/default/files/styles/widescreen_420_/public/oembed_thumbnails/S5CCAiTyK9cXVkP3p2LEPT0ryFf9hdvJQIbqM5l-c-Q.jpg.webp?itok=VKhSqWd3",
+          "filename": "S5CCAiTyK9cXVkP3p2LEPT0ryFf9hdvJQIbqM5l-c-Q.jpg.webp",
+          "alt": "Preview image for the video \"Digital Marketing: A Strategic Perspective | Yale SOM Executive Education Online Program Trailer\".",
+          "caption": "Digital Marketing: A Strategic Perspective | Yale SOM Executive Education Online Program Trailer",
+          "is_hero": true
+        },
+        {
+          "src": "/sites/default/files/styles/scaled_140_/public/2022-04/shin_jiwoong_1143x1334_0.jpg.webp?itok=enjHQGRK",
+          "filename": "shin_jiwoong_1143x1334_0.jpg.webp",
+          "alt": "Jiwoong Shin",
+          "caption": "Jiwoong Shin - Professor of Marketing",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/styles/scaled_140_/public/2022-05/sudhir_k_1143x1334.jpg.webp?itok=8TJCX4uV",
+          "filename": "sudhir_k_1143x1334.jpg.webp",
+          "alt": "K. Sudhir",
+          "caption": "K. Sudhir - James L. Frank '32 Professor of Private Enterprise and Management, Professor of Marketing & Director of the China India Insights Program",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:36:41.449186"
+}

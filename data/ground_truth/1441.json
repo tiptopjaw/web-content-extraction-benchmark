@@ -1,27 +1,96 @@
 {
+  "schema_version": "2.0",
   "url": "https://uxcam.com/blog/mobile-ux/",
   "file_id": "1441",
-  "downloaded_at": "2025-12-20T20:33:18.597535",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "guide",
+        "UX design",
+        "mobile design"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Mobile UX Design: The Ultimate Guide 2025",
+    "title": "Mobile UX Design - The Ultimate Guide 2025",
     "author": "Annemarie Bufe",
     "publish_date": "2025-01-03",
-    "main_content": "To create a successful app, it's not enough to simply have a brilliant concept. The design and functionality of your app, specifically its Mobile User Experience (UX), are crucial components for its success. Consider this striking statistic: \"…the average app loses 77% of its DAUs within the first 3 days after the install.\" — Andrew Chen. To combat this trend and retain more daily active users, providing an exceptional mobile app user experience is key. In this guide, you will learn the fundamentals of designing a great mobile application that makes users happy. What is Mobile UX Design? Mobile UX is the subjective experience a user has with a mobile app. UX designers are tasked with crafting products that are not only enjoyable to use but also deliver a pertinent and impactful experience for users. In the realm of mobile UX design, it's essential to take into account the complete customer journey, which includes all aspects of interaction, content, and even sound design. Understanding the distinction between UX (User Experience) and UI (User Interface) is vital. UX design involves far more than the visual components of the UI. In mobile UX design, the focus extends beyond mere visual aesthetics to encompass the emotional responses, objectives, and obstacles faced by users. Why Is Mobile UX Design Important? 57% of users say they won't recommend a business with a poorly designed mobile presence. The goal of mobile UX designers is to design the experience that users have before, during, and after using the app. The design should be useful, usable, desirable, findable, accessible, and credible, as outlined in Peter Morville's user experience honeycomb. 1. Useful: The system must fulfill the users’ wishes and needs. 2. Usable: The system must be as easy and self-descriptive as possible. 3. Desirable: The style of the system must evoke positive emotions and appreciation. Users must want to use your system. 4. Findable: Navigating through the system must be easy and self-descriptive. Moreover, users must find important information quickly. 5. Accessible: Disabled users, e.g., users with very poor eyesight, must have the chance to use your system and get the same user experience as non-disabled users. 6. Credible: Users must trust you and your product. To implement these principles, designers should: Conduct user research to understand their target audience and their needs. Create user personas and scenarios to guide their design decisions. Use a mobile-first approach, prioritizing the most important content and interactions for the mobile experience. Use responsive design to ensure that the design adapts to different screen sizes and orientations. Pay attention to the visual design of the mobile UX, using a consistent color palette, typography, and imagery. Use appropriate visual cues, such as icons and buttons, to guide users through the interface. Consider the use of animations and micro-interactions to enhance the user experience and provide feedback to users. Finally, designers should iterate on their designs based on user feedback and analytics data to continuously improve the mobile UX. What Are the Differences Between Desktop and Mobile App UX Design? To give your users the best experience possible, you must know the differences between desktop and mobile app UX design. You shouldn’t follow the same design principles for both. 1. Size Desktop: Computers are big, so you can put a lot of information on one page and it will still look great and organized. Smartphone: If you were to shrink your website to the regular size of a 4-5 ½ inch mobile device without changing anything, it would look awful and confuse your users. Pay attention: You have to decide which information is important enough to make it to a smartphone design. If something doesn’t need to be there, skip it, or place it under a menu or on another page. Moreover, because of the bigger screen size of desktops, you can arrange your content in several columns next to each other. For a great mobile UX design, you have to structure your content in just one column. Users scroll down to see all the content. Session replay is a valuable tool that allows you to see how your mobile app performs on different device sizes and configurations. You'll be able to observe real user journeys and uncover opportunities for improvements - all while getting a better grip of how customers engage with the product. Whether it's discovering device-specific problems or identifying areas that need improvement, session replay will help you acquire invaluable feedback from users. It can reveal a range of potential issues with its performance, such as content that is too small to read or buttons that are placed too closely together on touchscreen devices, which can make them difficult to accurately tap. With UXCam's session replay, you can fine-tune your mobile UX design to ensure that users have a seamless and enjoyable experience no matter what device they are using. 2. Screen orientation Desktop: They are horizontally oriented. Users can’t change this orientation. Smartphone: On mobile devices, users have the option to change the screen orientation if they want. 94% of users use their smartphone vertically, while 6% do so horizontally. Designers should take this into consideration when creating mobile interfaces. Portrait mode is typically better suited for tasks that involve reading and scrolling, while landscape mode is better suited for tasks that involve watching videos or playing games. Designers should also keep in mind that users may switch between orientations depending on the task they are performing. For example, a user may switch to landscape mode to watch a video and then switch back to portrait mode to read an article. To accommodate this, designers should ensure that the layout and design of the interface adapt seamlessly to different screen orientations. This means that the layout should be designed to work well in both portrait and landscape mode and that the design elements should be optimized for both orientations. You can track changes in behavior based on screen orientation with heatmaps. For example, a heatmap may show that a button placed at the bottom of the screen is not getting enough attention in portrait mode, but is getting more attention in landscape mode. This information can help designers make informed decisions about how to optimize the layout and design for different orientations. UXCam's heatmaps can also be used to track user behavior over time, which can be especially useful when comparing usage between different screen orientations. This can help designers understand how users engage with the interface over time, and can help identify any changes in behavior that may be related to changes in screen orientation. 3. Screen size UX designers must take into account the fact that many users prefer to use their mobile phones with one thumb. 49% of users prefer to use their mobile phones with just one thumb. The bigger the screen size, the fewer points that can be reached comfortably with one thumb. This means that the layout and design of the interface should be optimized for one-handed use, with important elements and buttons placed within easy reach of the thumb. Furthermore, this also means that designers should be mindful of the screen size when designing for mobile devices. The larger the screen size, the fewer points on the screen can be comfortably reached with one thumb. This means that designers must carefully consider the placement of elements and buttons on larger screens to ensure that they are easily accessible for one-handed use. Pay attention: To make sure that the mobile app or website is easily accessible for one-handed use, designers can use techniques like: Placing important elements and buttons within the thumb's reach. Utilizing gesture-based navigation to minimize the need to reach for buttons. Making sure that the layout is consistent across different screen sizes. Avoiding placing important elements or buttons at the top or bottom of the screen, as these areas are harder to reach with one thumb. By taking these factors into account, designers can create mobile interfaces that are comfortable and easy to use for the majority of users, regardless of screen size. Again, heatmaps can be a valuable tool for analyzing user behavior on different screen sizes. For example, heatmaps can show how users engage with the interface on small screens, such as those of smartphones, versus larger screens, such as tablets. A heatmap may show that a button placed at the bottom of the screen is getting a lot of attention on a smartphone, but is not getting enough attention on a tablet. This information can help designers make informed decisions about how to optimize the layout and design for different screen sizes. You can use UXCam's mobile app heatmaps for free. 4. Navigation and input Desktop: A keyboard and a mouse are the most common input devices for desktops. Sometimes you will find desktops with a touchscreen but, even then, those tend to have an additional mouse and keyboard of their own. Smartphone: On a mobile device, users don’t have a mouse or a physical keyboard to rely on. To type or select elements, mobile device users have to use their touchscreens. Pay attention: If your users have to type anything — for example, during the sign-in process — you should offer them a keyboard. Help your users and make the input much more comfortable by offering them different keyboards.",
+    "main_content": "To create a successful app, it's not enough to simply have a brilliant concept. The design and functionality of your app, specifically its Mobile User Experience (UX), are crucial components for its success. Consider this striking statistic: the average app loses 77% of its DAUs within the first 3 days after the install. To combat this trend and retain more daily active users, providing an exceptional mobile app user experience is key. In this guide, you will learn the fundamentals of designing a great mobile application that makes users happy. Mobile UX is the subjective experience a user has with a mobile app. UX designers are tasked with crafting products that are not only enjoyable to use but also deliver a pertinent and impactful experience for users. In the realm of mobile UX design, it's essential to take into account the complete customer journey, which includes all aspects of interaction, content, and even sound design. Understanding the distinction between UX (User Experience) and UI (User Interface) is vital. UX design involves far more than the visual components of the UI. In mobile UX design, the focus extends beyond mere visual aesthetics to encompass the emotional responses, objectives, and obstacles faced by users. 57% of users say they won't recommend a business with a poorly designed mobile presence. The goal of mobile UX designers is to design the experience that users have before, during, and after using the app. The design should be useful, usable, desirable, findable, accessible, and credible, as outlined in Peter Morville's user experience honeycomb. The seven principles of the honeycomb are: Useful - The system must fulfill the users' wishes and needs; Usable - The system must be as easy and self-descriptive as possible; Desirable - The style of the system must evoke positive emotions and appreciation; Findable - Navigating through the system must be easy and self-descriptive; Accessible - Disabled users must have the chance to use your system; Credible - Users must trust you and your product. To implement these principles, designers should conduct user research, create user personas, use a mobile-first approach, employ responsive design, pay attention to visual design, use appropriate visual cues, consider animations and micro-interactions, and iterate based on user feedback and analytics data.",
     "with": [
       "Mobile UX is the subjective experience a user has with a mobile app.",
       "57% of users say they won't recommend a business with a poorly designed mobile presence.",
-      "The goal of mobile UX designers is to design the experience that users have before, during, and after using the app.",
-      "To give your users the best experience possible, you must know the differences between desktop and mobile app UX design.",
-      "UX designers must take into account the fact that many users prefer to use their mobile phones with one thumb."
+      "The design should be useful, usable, desirable, findable, accessible, and credible.",
+      "94% of users use their smartphone vertically, while 6% do so horizontally.",
+      "49% of users prefer to use their mobile phones with just one thumb."
     ],
     "without": [
       "Try our product analytics for free. No card required.",
-      "4.7 STARS ON G2",
+      "Start free trial",
       "Back to blog",
-      "Why UXCam",
-      "Product"
-    ]
+      "Login",
+      "Get a demo"
+    ],
+    "images": {
+      "total_in_content": 24,
+      "annotated_count": 7,
+      "items": [
+        {
+          "src": "https://images.ctfassets.net/vv1yxl437u7d/t5lLwfTd2SuJabQJG9fBa/0274881e7d6d57aba91bff7ba1a51494/UX_Honeycomb.webp",
+          "filename": "UX_Honeycomb.webp",
+          "alt": null,
+          "caption": "mobile ux - UX honeycomb",
+          "is_hero": true
+        },
+        {
+          "src": "https://images.ctfassets.net/vv1yxl437u7d/4STaPcLPUxRUvVDC8YEACZ/e79cd0b65bbdaee8191bf3aa78c975fa/Blog_Feautre_1200x630_MobileUXDesign_CompleteGuide2022_02.png?w=2400&h=1260&q=95&fm=png",
+          "filename": "Blog_Feautre_1200x630_MobileUXDesign_CompleteGuide2022_02.png",
+          "alt": "desktop vs mobile user experience",
+          "caption": "desktop vs mobile user experience",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.ctfassets.net/vv1yxl437u7d/4jA8GSBc7fCHCYBfmAqXxe/bea33e0d600fac80f4fbae1702215f0b/Blog_Feautre_1200x630_MobileUXDesign_CompleteGuide2022_03.png?w=2400&h=1260&q=95&fm=png",
+          "filename": "Blog_Feautre_1200x630_MobileUXDesign_CompleteGuide2022_03.png",
+          "alt": "mobile ux screen orientation",
+          "caption": "mobile ux screen orientation",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.ctfassets.net/vv1yxl437u7d/2Svho6tfi7Dp2uOB7xBhCB/282e3b4013d25df9b50ec94a7feb592b/Blog_Feautre_1200x630_MobileUXDesign_CompleteGuide2022_04.png?w=2400&h=1260&q=95&fm=png",
+          "filename": "Blog_Feautre_1200x630_MobileUXDesign_CompleteGuide2022_04.png",
+          "alt": "Mobile UX Design natural movement",
+          "caption": "Mobile UX Design natural movement",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.ctfassets.net/vv1yxl437u7d/4O7me13lZF4d57pQjwjRcK/673fc943598da165c902414141948b09/Blog_Feautre_1200x630_MobileUXDesign_CompleteGuide2022_05.png?w=2400&h=1260&q=95&fm=png",
+          "filename": "Blog_Feautre_1200x630_MobileUXDesign_CompleteGuide2022_05.png",
+          "alt": "app UX design",
+          "caption": "app UX design",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.ctfassets.net/vv1yxl437u7d/6H2Jlk832modUyPXTSq6B/6804918e1f968598160cfd351ddfc4f5/Blog_Feautre_1200x630_MobileUXDesign_CompleteGuide2022_07.png?w=2400&h=1260&q=95&fm=png",
+          "filename": "Blog_Feautre_1200x630_MobileUXDesign_CompleteGuide2022_07.png",
+          "alt": "Mobile app UX gestures",
+          "caption": "Mobile app UX gestures",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.ctfassets.net/vv1yxl437u7d/3SeMEOQUfPyW5FF0CKIbMn/05cde65bf498560ff4c77b24f7eb7186/Blog_Feautre_1200x630_MobileUXDesign_CompleteGuide2022_09.png?w=2400&h=1260&q=95&fm=png",
+          "filename": "Blog_Feautre_1200x630_MobileUXDesign_CompleteGuide2022_09.png",
+          "alt": "Mobile app form UX",
+          "caption": "Mobile app form UX",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:33:18.597541"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:23:58.932175"
 }

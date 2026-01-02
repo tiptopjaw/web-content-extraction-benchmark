@@ -1,27 +1,61 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.merceddoulaservices.com/home",
   "file_id": "1730",
-  "downloaded_at": "2025-12-20T22:23:28.001588",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "business",
+        "doula",
+        "yoga",
+        "local-service"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Home",
-    "author": "Clarissa Hernandez-Hidalgo",
+    "author": null,
     "publish_date": null,
-    "main_content": "Merced's Local Full Spectrum Doula Since 2020\n\nMerced Doula Services LLC.\n\nSpecializing in YOUR doula & yoga needs\nMerced County Registered Yoga Teacher and Full Spectrum Doula\n\nAsk about our Payment Options Today!\nMerced County Medi-Cal Contracted Provider\n\nMerced Doula Services is a partnership between Merced Doula Services LLC and Clarissa Hidalgo Yoga. Owned and operated by Clarissa Hernandez-Hidalgo, we strive to provide you with the highest quality of services in both the yoga and doula worlds. Photos by Dawn Kelly Photography and Shawn Overton of Blue Road Photography",
+    "main_content": "Merced's Local Full Spectrum Doula Since 2020. Merced Doula Services LLC. Specializing in YOUR doula & yoga needs. Merced County Registered Yoga Teacher and Full Spectrum Doula. Ask about our Payment Options Today! Merced County Medi-Cal Contracted Provider. Merced Doula Services is a partnership between Merced Doula Services LLC and Clarissa Hidalgo Yoga. Owned and operated by Clarissa Hernandez-Hidalgo, we strive to provide you with the highest quality of services in both the yoga and doula worlds. Photos by Dawn Kelly Photography and Shawn Overton of Blue Road Photography.",
     "with": [
       "Merced's Local Full Spectrum Doula Since 2020",
-      "Merced Doula Services LLC.",
-      "Specializing in YOUR doula & yoga needs",
+      "Merced Doula Services LLC. Specializing in YOUR doula & yoga needs",
       "Merced County Registered Yoga Teacher and Full Spectrum Doula",
-      "Merced Doula Services is a partnership between Merced Doula Services LLC and Clarissa Hidalgo Yoga. Owned and operated by Clarissa Hernandez-Hidalgo, we strive to provide you with the highest quality of services in both the yoga and doula worlds."
+      "Ask about our Payment Options Today! Merced County Medi-Cal Contracted Provider",
+      "Owned and operated by Clarissa Hernandez-Hidalgo"
     ],
     "without": [
       "Skip to main content",
-      "Home About Contact Me Birth Doula Services Private Yoga Sessions Community Yoga Classes FAQs",
-      "This site uses cookies from Google to deliver its services and to analyze traffic.",
-      "Google Sites Report abuse Page details",
-      "Embedded Files"
-    ]
+      "Skip to navigation",
+      "Search this site",
+      "Page updated",
+      "This site uses cookies from Google"
+    ],
+    "images": {
+      "total_in_content": 2,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://lh3.googleusercontent.com/sitesv/AAzXCkfkHBx5FCdH0zvLBqM7pDU78D_PCG00rkg_ql-ItYIJo46if8MmaJroXN8QaO_GLEUxCG_eA4bAsHCQ-rSiyozggAwrnXQ9vZ8pkjrg-ThRFcwf-x7Fj_3pgxZvbRV1aOYxuDeuXllgB7ENBw2NUs6mPWq5j2hNHq4102bSXAUzDy2jyR_mMzv4BBMgGHZVCnPkYsbjmEiGwl1aL25qg3uHkPgPouqVgOk1HKQ=w1280",
+          "filename": "AAzXCkfkHBx5FCdH0zvLBqM7pDU78D_PCG00rkg_ql-ItYIJo46if8MmaJroXN8QaO_GLEUxCG_eA4bAsHCQ-rSiyozggAwrnXQ9vZ8pkjrg-ThRFcwf-x7Fj_3pgxZvbRV1aOYxuDeuXllgB7ENBw2NUs6mPWq5j2hNHq4102bSXAUzDy2jyR_mMzv4BBMgGHZVCnPkYsbjmEiGwl1aL25qg3uHkPgPouqVgOk1HKQ=w1280",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://lh3.googleusercontent.com/sitesv/AAzXCkeudZZMCgZWdT4bPtTQGJhIPjaAiDDaGQLfWj4_4NVVUmcFyZh6VfpaXf0QVGVzQBLnHAd4VEyZ0UYTeIHY2XCI0gjCjpANlq0hW-N1QcI8lFgvyV5-MscRFF7XufMmTkaCQAW1TOpnkKdoRiOfRSeIyTlzm10IoFe3_luPGy7u0DNVf8WyXdc1Zv2a3qA4jwMcfXyqSdfPaosRG7sKlhCTWUehoXS7ivWj=w1280",
+          "filename": "AAzXCkeudZZMCgZWdT4bPtTQGJhIPjaAiDDaGQLfWj4_4NVVUmcFyZh6VfpaXf0QVGVzQBLnHAd4VEyZ0UYTeIHY2XCI0gjCjpANlq0hW-N1QcI8lFgvyV5-MscRFF7XufMmTkaCQAW1TOpnkKdoRiOfRSeIyTlzm10IoFe3_luPGy7u0DNVf8WyXdc1Zv2a3qA4jwMcfXyqSdfPaosRG7sKlhCTWUehoXS7ivWj=w1280",
+          "alt": null,
+          "caption": "Photos by Dawn Kelly Photography and Shawn Overton of Blue Road Photography",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:23:28.001593"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:03:31.488705"
 }

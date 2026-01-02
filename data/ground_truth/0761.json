@@ -1,25 +1,45 @@
 {
+  "schema_version": "2.0",
   "url": "https://wintersession.uconn.edu/2020/11/05/online-vs-distance-learning-whats-the-difference/",
   "file_id": "0761",
-  "downloaded_at": "2025-12-20T20:58:11.263525",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "university",
+        "online-learning"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Online vs. Distance Learning: What’s the difference?",
-    "author": null,
+    "title": "Online vs. Distance Learning: What's the difference? | UConn Winter Session",
+    "author": "Anonymous",
     "publish_date": "2020-11-05",
-    "main_content": "So you decided to enroll in a Winter Session course! You’re looking through the online course list, excited to pick your class when you see two phrases: online and distance learning. So what’s the difference? Does it affect the cost? Do you have to attend lectures online or be available for a particular time during the three weeks?\n\nWe understand how many questions you might have and how confusing this can all be. The Office of Summer and Winter Programs wants you to be the most-prepared when choosing a course and is now leading efforts in order to clarify the definitions for the terms “online” and “distance learning” when it comes to UConn’s Winter Session. \n\nCourse Modalities for Winter 2021\n\nOnline (WW) - These classes never meet in person, and you are not expected to be available at any specific time or day for classroom instruction from your professor. These courses are taught asynchronously with no pre-assigned meeting times. Students will have access to class materials online using HuskyCT as well as being able to contact their instructor and (or) teaching assistant(s) at any point during the course.\n\nDistance Learning (DL) – Distance Learning classes also do not require in person attendance, but you are expected to be available for instruction synchronously at the times for which the class is scheduled on Student Admin. You will need to participate online using WebEx, Blackboard Collaborate, or Microsoft Teams. \n\nDo Online and DL courses have the same cost? \n\nIn regards to the cost between these two modes of learning for the Winter Session, the only difference is that courses listed as “Online” will incur the $20.00 per credit Online Course Fee, while courses listed as “Distance Learning” will not incur the Online Course Fee. \n\nWe hope that this has helped you differentiate the meaning behind what an online versus distance learning class entails. We understand it’s tricky to figure this out and want to bring you as much clarity and transparency as possible. If you have any more questions about these modalities or are in need of more information please feel free to contact the Office of Summer and Winter Programs at summerwinter@uconn.edu.",
+    "main_content": "So you decided to enroll in a Winter Session course! You're looking through the online course list, excited to pick your class when you see two phrases: online and distance learning. So what's the difference? Does it affect the cost? Do you have to attend lectures online or be available for a particular time during the three weeks? We understand how many questions you might have and how confusing this can all be. The Office of Summer and Winter Programs wants you to be the most-prepared when choosing a course and is now leading efforts in order to clarify the definitions for the terms \"online\" and \"distance learning\" when it comes to UConn's Winter Session. Course Modalities for Winter 2021: Online (WW) - These classes never meet in person, and you are not expected to be available at any specific time or day for classroom instruction from your professor. These courses are taught asynchronously with no pre-assigned meeting times. Students will have access to class materials online using HuskyCT as well as being able to contact their instructor and (or) teaching assistant(s) at any point during the course. Distance Learning (DL) – Distance Learning classes also do not require in person attendance, but you are expected to be available for instruction synchronously at the times for which the class is scheduled on Student Admin. You will need to participate online using WebEx, Blackboard Collaborate, or Microsoft Teams. Do Online and DL courses have the same cost? In regards to the cost between these two modes of learning for the Winter Session, the only difference is that courses listed as \"Online\" will incur the $20.00 per credit Online Course Fee, while courses listed as \"Distance Learning\" will not incur the Online Course Fee. We hope that this has helped you differentiate the meaning behind what an online versus distance learning class entails. We understand it's tricky to figure this out and want to bring you as much clarity and transparency as possible. If you have any more questions about these modalities or are in need of more information please feel free to contact the Office of Summer and Winter Programs at summerwinter@uconn.edu.",
     "with": [
       "Online (WW) - These classes never meet in person, and you are not expected to be available at any specific time or day for classroom instruction from your professor.",
+      "These courses are taught asynchronously with no pre-assigned meeting times.",
       "Distance Learning (DL) – Distance Learning classes also do not require in person attendance, but you are expected to be available for instruction synchronously at the times for which the class is scheduled on Student Admin.",
-      "In regards to the cost between these two modes of learning for the Winter Session, the only difference is that courses listed as “Online” will incur the $20.00 per credit Online Course Fee, while courses listed as “Distance Learning” will not incur the Online Course Fee."
+      "You will need to participate online using WebEx, Blackboard Collaborate, or Microsoft Teams.",
+      "courses listed as \"Online\" will incur the $20.00 per credit Online Course Fee, while courses listed as \"Distance Learning\" will not incur the Online Course Fee."
     ],
     "without": [
-      "Skip to Navigation",
-      "Experience UConn's three-week winter session from December 29, 2025 to January 16, 2026.",
+      "UConn Winter Session",
+      "Office of Summer and Winter Programs",
       "© University of Connecticut",
-      "Disclaimers, Privacy & Copyright",
-      "Web cookies (also called HTTP cookies, browser cookies, or simply cookies) are small pieces of data that websites store on your device"
-    ]
+      "Skip to Navigation",
+      "Search this site"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:58:11.263530"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:15:03.821176"
 }

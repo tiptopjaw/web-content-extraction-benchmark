@@ -1,0 +1,82 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.hotelsbyday.com/en/hotels/united-states/new-york",
+  "file_id": "1904",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "hotels",
+        "day-use",
+        "booking",
+        "travel"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Day Use Hotels in New York | Hourly Rates | HotelsByDay",
+    "author": null,
+    "publish_date": null,
+    "main_content": "91 day use hotels in New York, United States. Book hourly hotels and day rooms for short stays, business, or a daycation. Best Western Premier Herald Square - rated 4.4/5 (1557 reviews), Pay Later at property, Free cancellation, from $84 for 10AM-3PM. AC Hotel New York Times Square - rated 4.4/5 (1725 reviews), Workspace, Cozy/Romantic, Work Friendly, from $259 for multiple time slots. La Quinta Times Square South - rated 4.4/5 (814 reviews), Pay Later at property, Free cancellation, from $89 for 10AM-4PM. The Wall Street Inn - rated 4.2/5 (372 reviews), Pay Later at property, Free cancellation. Filter by Location, Reservation policy, Hotel Services, Business Amenities, Fitness Features, and Accessibility. Sort by Earliest Check-in, Latest Check-out, Lowest price, Highest price, Top Rated, Nearest, or Coins Boost.",
+    "with": [
+      "91 day use hotels in New York, United States",
+      "Best Western Premier Herald Square - rated 4.4/5 with 1557 reviews",
+      "AC Hotel New York Times Square offers day use rooms from $259 with workspace amenities",
+      "La Quinta Times Square South features Pay Later at property and Free cancellation options",
+      "Filter by Location, Hotel Services, Business Amenities, Fitness Features and Accessibility"
+    ],
+    "without": [
+      "HotelsByDay logo and navigation menu",
+      "Cookie consent notice and privacy policy links",
+      "Language selector (EN/ES/FR)",
+      "Google Tag Manager scripts",
+      "Search form input fields and date picker"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://api.hotelsbyday.com/api/media/v1/en/image/hotel/61735/day-use@400x250",
+          "filename": "day-use@400x250",
+          "alt": "Day use room with natural light at Best Western Premier Herald Square.",
+          "caption": "Day use room with natural light at Best Western Premier Herald Square.",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.hotelsbyday.com/images/widgets/mystery-hotel/mystery-hotel-mobile.png?v=20251217123528",
+          "filename": "mystery-hotel-mobile.png",
+          "alt": "Mystery Hotel",
+          "caption": "Mystery Hotel - Discounted deal today in this area",
+          "is_hero": true
+        },
+        {
+          "src": "https://api.hotelsbyday.com/api/media/v1/en/image/hotel/74466/king-room@400x250",
+          "filename": "king-room@400x250",
+          "alt": "Day use room with workspace, large windows and private bathroom at AC Hotel New York Times Square.",
+          "caption": "Day use room with workspace, large windows and private bathroom at AC Hotel New York Times Square.",
+          "is_hero": true
+        },
+        {
+          "src": "https://api.hotelsbyday.com/api/media/v1/en/image/hotel/36884/guest-room-window@400x250",
+          "filename": "guest-room-window@400x250",
+          "alt": "Guest room in La Quinta Times Square South, complete with double bed, large window, TV, and workspace.",
+          "caption": "Guest room in La Quinta Times Square South, complete with double bed, large window, TV, and workspace.",
+          "is_hero": true
+        },
+        {
+          "src": "https://api.hotelsbyday.com/api/media/v1/en/image/hotel/78576/lobby-seating@400x250",
+          "filename": "lobby-seating@400x250",
+          "alt": "Lobby seating at The Wall Street Inn.",
+          "caption": "Lobby seating at The Wall Street Inn.",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:59:19.324175"
+}

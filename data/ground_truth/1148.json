@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://apnews.com/hub/gardening",
+  "file_id": "1148",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "gardening",
+        "hub",
+        "AP News",
+        "category page"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Gardening | AP News",
+    "author": null,
+    "publish_date": null,
+    "main_content": "AP News Gardening section featuring articles about seasonal gardening tips, plant care, pest management, wildlife in gardens, and horticultural techniques. Articles cover topics including forcing spring bulbs, building rain barrels, controlling garden pests like squash beetles and potato beetles, growing vegetables in containers, creating pollinator habitats, and maintaining gardens through different seasons.",
+    "with": [
+      "AP News Gardening section featuring articles about seasonal gardening tips, plant care, and horticultural techniques.",
+      "Articles cover topics including forcing spring bulbs, building rain barrels, and controlling garden pests.",
+      "The gardening hub includes content about wildlife habitat creation and pollinator-friendly gardening.",
+      "Content addresses growing vegetables, managing pests like squash beetles and potato beetles.",
+      "Seasonal gardening advice covers topics from spring planting through fall garden preparation."
+    ],
+    "without": [
+      "Stay informed on the latest coverage on Gardening with AP News, including Gardening Tips and News.",
+      "AP News logo and navigation menu",
+      "World, U.S., Politics, Sports, Entertainment, Business, Science menu items",
+      "Newsletter signup and subscription prompts",
+      "Advertisement placeholders and footer links"
+    ],
+    "images": {
+      "total_in_content": 38,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://dims.apnews.com/dims4/default/4c46af1/2147483647/strip/true/crop/3000x1998+0+1/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F19%2F0a%2Fdb042ec52a475c91811d62b07069%2F27e248213bd546aa99a6646e63814d09",
+          "filename": "",
+          "alt": "A holiday arrangement made of various greenery is displayed at a home on Long Island, N.Y., on Dec. 2, 2025. (Jessica Damiano via AP)",
+          "caption": "A holiday arrangement made of various greenery is displayed at a home on Long Island",
+          "is_hero": false
+        },
+        {
+          "src": "https://dims.apnews.com/dims4/default/30bd961/2147483647/strip/true/crop/3024x2014+0+127/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F15%2Fed%2F87ff3b498279163af8e458a3b7c0%2F8621a114c51d4d6a9bef17c092094e71",
+          "filename": "",
+          "alt": "This Oct. 16, 2021, image provided by Jessica Damiano shows garlic bulbs and cloves resting on a cleared garden bed in advance of planting. (Jessica Damiano via AP)",
+          "caption": "Garlic bulbs and cloves harvested from the garden",
+          "is_hero": false
+        },
+        {
+          "src": "https://dims.apnews.com/dims4/default/e1ee0e9/2147483647/strip/true/crop/4032x2686+0+1/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F93%2F3d%2F5feeca0d06b0dc1dbe14be5ef6b7%2Ff9bfbd0e4fc849818b9f78a262a45f46",
+          "filename": "",
+          "alt": "Fallen leaves cover the base of a row of trees at a garden in Long Island, N.Y., on Nov. 3, 2025. (Jessica Damiano via AP)",
+          "caption": "Fallen leaves cover the base of a row of trees at a garden in Long Island, N.Y.",
+          "is_hero": false
+        },
+        {
+          "src": "https://dims.apnews.com/dims4/default/119606a/2147483647/strip/true/crop/3000x1998+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fdd%2Fe7%2F0e0e27f75ddec1d70105bddad457%2F614ffb5aa13f42349960ac1167807d17",
+          "filename": "",
+          "alt": "An Eastern Black Swallowtail caterpillar feeds on a fennel plant in Spring, Texas on Aug. 14, 2020. (AP Photo/David J. Phillip, File)",
+          "caption": "An Eastern Black Swallowtail caterpillar feeds on a fennel plant",
+          "is_hero": false
+        },
+        {
+          "src": "https://dims.apnews.com/dims4/default/e1c160d/2147483647/strip/true/crop/4032x2686+0+169/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F71%2Ff1%2Fcb5a9c79b73eb6a31464c86e2fa6%2F61e518e930634c9a9624aeb9260d2bf4",
+          "filename": "",
+          "alt": "This Oct. 14, 2025, image provided by Jessica Damiano shows a shovel plunged into soil around a cherry laurel shrub. Gardeners can transplant spring- and early summer-blooming plants like cherry laurel in fall but should wait until spring to relocate late-summer and fall bloomers. (Jessica Damiano via AP)",
+          "caption": "A shovel plunged into a garden bed for fall preparation",
+          "is_hero": false
+        },
+        {
+          "src": "https://dims.apnews.com/dims4/default/34ec9e5/2147483647/strip/true/crop/4032x2686+0+169/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F75%2F48%2Fc2ae9b4cc820b0413c855224a24b%2F9cfc9be04c45456e9017c0f110ba839c",
+          "filename": "",
+          "alt": "This August 17, 2023, image provided by Jessica Damiano shows newly harvested beets on Long Island, N.Y. Sautéing beet greens with oil, salt, pepper, and garlic is a great way to get a second side dish from one plant. (Jessica Damiano via AP)",
+          "caption": "Newly harvested beets from the garden",
+          "is_hero": false
+        },
+        {
+          "src": "https://dims.apnews.com/dims4/default/7a949bc/2147483647/strip/true/crop/4032x2686+0+169/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4d%2Fd2%2Faf36cf67dbaf3b754b825b136c23%2F9c3b5c4f7bd84dadb8a48c75f52f7427",
+          "filename": "",
+          "alt": "This Aug. 31, 2025, image provided by Jessica Damiano shows the water stream from a sprinkler in a home garden on Long Island, N.Y. (Jessica Damiano via AP)",
+          "caption": "The water stream from a rain barrel showing rainwater harvesting system",
+          "is_hero": false
+        },
+        {
+          "src": "https://dims.apnews.com/dims4/default/7cab11b/2147483647/strip/true/crop/4032x2686+0+169/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc8%2F1a%2F63b5dd82998e7bfcb80844b54e18%2F455fdc56dcdd4777a057d84c84ab35f7",
+          "filename": "",
+          "alt": "This March 17, 2024, image provided by Jessica Damiano shows forced spring bulbs for sale in Long Island, N.Y. (Jessica Damiano via AP)",
+          "caption": "Forced spring bulbs blooming indoors during winter months",
+          "is_hero": false
+        },
+        {
+          "src": "https://dims.apnews.com/dims4/default/8f8635c/2147483647/strip/true/crop/1920x1279+0+81/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F03%2F12%2F96210f755d5d952c68ee27bc6fc0%2F4d57e8950e7647adba4dc86a949279c3",
+          "filename": "",
+          "alt": "This Sept. 24, 2024, image provided by Jessica Damiano shows tomatoes maturing on the vine on Long Island, N.Y. Tomatoes are considered ripe when they are uniform in color. (Jessica Damiano via AP)",
+          "caption": "Tomatoes maturing on the vine in a garden",
+          "is_hero": false
+        },
+        {
+          "src": "https://dims.apnews.com/dims4/default/4c23a7d/2147483647/strip/true/crop/4032x2686+0+169/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F34%2Fce%2Feb846903b0875372273fc466b53b%2F808c8c3f9cba4efa9cb3ed239cf041aa",
+          "filename": "",
+          "alt": "This June 9, 2025 image provided by Jessica Damiano shows blooming clover in a Long Island, New York, lawn. (Jessica Damiano via AP)",
+          "caption": "Blooming clover in a lawn showing sustainable lawn care",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:48:07.476413"
+}

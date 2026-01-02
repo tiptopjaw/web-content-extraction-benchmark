@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "url": "https://tastewise.io/blog/health-and-nutrition-trends",
+  "file_id": "0004",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": ["nutrition", "food", "trends", "data"]
+    }
+  },
+  "ground_truth": {
+    "title": "Health And Nutrition Trends For 2026",
+    "author": "Kelia Losa Reinoso",
+    "publish_date": "2025-08-25",
+    "main_content": "The food and beverage industry is constantly evolving, driven by changing consumer preferences, technological advancements, and a growing awareness of health and sustainability. As we look ahead to 2026, several key trends are poised to reshape how we think about nutrition and eating. Tastewise's AI-powered food trends analytics platform has identified emerging patterns that are set to define the next year in food and nutrition.\n\nUnderstanding these trends is crucial for businesses looking to stay ahead of the curve and meet consumer demand. From the rise of personalized nutrition to the increasing popularity of plant-based alternatives, the food landscape is transforming rapidly.\n\nOne of the most significant trends is the move toward data-driven food choices. Consumers are increasingly using technology to make informed decisions about what they eat, leveraging apps and platforms that provide detailed nutritional information and personalized recommendations based on individual health goals and preferences.\n\nSustainability continues to be a major factor in food choices. More consumers are seeking out products that are not only healthy for them but also healthy for the planet. This includes a preference for locally sourced ingredients, reduced food waste, and environmentally friendly packaging.\n\nThe intersection of technology and nutrition is creating new opportunities for personalized wellness. From genetic testing that informs dietary recommendations to smart appliances that help with meal planning, technology is enabling a new level of customization in how we approach food and nutrition.",
+    "with": [
+      "The food and beverage industry is constantly evolving, driven by changing consumer preferences, technological advancements, and a growing awareness of health and sustainability.",
+      "As we look ahead to 2026, several key trends are poised to reshape how we think about nutrition and eating.",
+      "Understanding these trends is crucial for businesses looking to stay ahead of the curve and meet consumer demand.",
+      "One of the most significant trends is the move toward data-driven food choices.",
+      "Sustainability continues to be a major factor in food choices. More consumers are seeking out products that are not only healthy for them but also healthy for the planet."
+    ],
+    "without": [
+      "Tastewise Blog",
+      "Sign up for our newsletter",
+      "Follow us on social media",
+      "Privacy Policy",
+      "Terms of Service"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:03:00Z"
+}

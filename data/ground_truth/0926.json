@@ -1,0 +1,53 @@
+{
+  "schema_version": "2.0",
+  "url": "https://bonnieplants.com/blogs/garden-fundamentals/choose-your-garden-type",
+  "file_id": "0926",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "garden",
+        "how-to",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Choosing The Right Type of Garden for You",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Debating whether to plant an in-ground, raised bed, or container garden? We've outlined the pros and cons to help you choose the best garden type for you.\n\nIn-ground gardens: The traditional choice, planting directly in the ground. Pros: Uses natural soil, typically requires less initial investment, ideal for large spaces. Cons: Soil quality may need improvement, harder on your back, may have drainage issues.\n\nRaised bed gardens: Gardens planted in elevated soil containers. Pros: Better drainage, easier on your back and knees, prevents soil compaction, can extend growing season. Cons: Requires building or purchasing beds, soil will dry out faster, more expensive initial setup.\n\nContainer gardens: Growing plants in pots and containers. Pros: Perfect for small spaces, balconies, and patios, highly portable, no soil preparation needed. Cons: Limited root space, requires more frequent watering, may need more fertilizer.\n\nConsider your space, budget, physical ability, and the types of plants you want to grow when choosing your garden type.",
+    "with": [
+      "Debating whether to plant an in-ground, raised bed, or container garden? We've outlined the pros and cons to help you choose the best garden type for you.",
+      "In-ground gardens: The traditional choice, planting directly in the ground. Pros: Uses natural soil, typically requires less initial investment, ideal for large spaces.",
+      "Raised bed gardens: Gardens planted in elevated soil containers. Pros: Better drainage, easier on your back and knees, prevents soil compaction, can extend growing season.",
+      "Container gardens: Growing plants in pots and containers. Pros: Perfect for small spaces, balconies, and patios, highly portable, no soil preparation needed.",
+      "Consider your space, budget, physical ability, and the types of plants you want to grow when choosing your garden type."
+    ],
+    "without": [
+      "Free Shipping on orders over $50!",
+      "Bonnie Rewards is here! Get $10 by just signing up*",
+      "Find a Retailer",
+      "Shop Now",
+      "What will you grow?"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "//bonnieplants.com/cdn/shop/articles/Lifestyle_Kelly-Chris-Davis-2011-06-30_IMG_7586_363db498-58ce-4529-a673-906030c40f25.jpg?v=1642542012&width=1000",
+          "filename": "Lifestyle_Kelly-Chris-Davis-2011-06-30_IMG_7586_363db498-58ce-4529-a673-906030c40f25.jpg",
+          "alt": "A man waters a raised bed, with a container garden behind him.",
+          "caption": "A man waters a raised bed, with a container garden behind him.",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:11:43.851908"
+}

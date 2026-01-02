@@ -1,31 +1,68 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.teladochealth.com/expert-care/condition-management/weight-management",
   "file_id": "1487",
-  "downloaded_at": "2025-12-20T22:42:36.809883",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "healthcare",
+        "weight-management",
+        "telehealth",
+        "landing-page"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Online Weight Management Program | Teladoc Health",
     "author": null,
     "publish_date": null,
-    "main_content": "Start your wellness journey today\nGet a smart scale, a personalized action plan and ongoing expert coaching and support—all paid for by your employer or health plan. Claim your benefit today.\n\nReally. It’s $0 cost to you.\nYour employer, health plan or healthcare provider has your back. They’ve already covered the entire cost of the program for you.\n\nWEIGHT MANAGEMENT PROGRAM\nGet started today to receive:\n• A smart scale shipped to your door at no cost to you\n• Personalized content to manage food, activity and weigh-ins\n• Dedicated expert coaching to get advice on nutrition, meal planning and more\n\nImportant notice on devices*\n\nWeight loss & healthy living tailored to you\nYour health goals and challenges are unique. Get personalized tools and support from expert coaches to help you take care of your health.\n\n“All I can say is I love it.”\nHere's what some of our members have to say:\n\nThis program helped me when I thought that nothing could help me. I've learned small tweaks that have really helped me drastically. I'm down 20-25 pounds since starting Livongo.\nRashida R.\n\nI have confidence that I don't think I've ever had. Yes, the number on the scale is a tool, a resource, but it doesn't run my life as it did a year ago.\nNancy G.\n\nI'm down 20 pounds. I have energy, I have a bounce in my step and I feel alive. My anxiety and appetite are controlled.\nAnnie L.\n\nI was in the right place, in the right frame of mind and the right program came along. It's not a diet. It's my life, and the important thing was getting my life back.\nBob M.\n\nReach your goals easier with the Teladoc Health app\n• View weight trends\n• Message a coach for advice\n• Share reports with your doctor\n• Snap a photo to log your food\n• Set goals and track progress\n• Get personalized eating tips\n\nStill have questions?\nIs this really no cost to me? How can that be?\nYes! It is completely at no cost to you. Your employer, health plan or health provider pays for the program on your behalf. Shipping is included too. You are not billed anything for joining and using Teladoc Health.\n\nWhat happens after I enroll?\nAfter you enroll, you will be shipped the Teladoc Health Welcome Kit. Your Welcome Kit includes the Teladoc Health scale for you to start checking your weight. You'll also be able to download and log in to the Teladoc Health mobile app, where you can personalize your program and see your progress.\n\nWill my information be safe?\nTeladoc Health takes your privacy seriously. Your health information is protected by federal and state laws, including HIPAA. Please see our Notice of Privacy Practices for more information on how Teladoc Health uses your health information.\n\nWho is eligible for Teladoc Health?\nYou must be eligible through your employer, health plan or health provider. If you are pregnant or have a body mass index (BMI) that's too low, you do not qualify for our Weight Management program. If you have diabetes, you may qualify for our Weight Management program, but you do not qualify for our Diabetes Prevention Program. Chat with us or call us at 800-835-2362 if you have questions regarding your eligibility.\n\nDo I have to download the mobile app?\nWe do ask that you download the Teladoc Health app so you get the most out of Teladoc Health, including easy weight, activity and food tracking. You can download the Teladoc Health app here.\n\nGLP-1 FAQs\nDoes Livongo offer GLP-1 medication for weight loss to members enrolled in a condition management program?\nTeladoc Health care providers can prescribe GLP-1s for weight loss for eligible members enrolled in Weight Management when clinically appropriate.\n\nAm I eligible to receive GLP-1s for weight loss through my condition management program?\nIt depends on many factors:\n• You must be enrolled in our Weight Management program that offers GLP-1 care. This program offers additional support beyond our standard Weight Management program. Your employer or plan sponsor must opt in to access this program.\n• You must meet certain clinical criteria. Once enrolled, you need to schedule a visit with a Teladoc Health care provider. They’ll assess whether a GLP-1 medication is right for you. Members must also have already shown a strong attempt at lifestyle modifications and were unsuccessful.\n\nWhat is the process for getting a GLP-1 prescription for weight loss if I am eligible through my program?\nDepending on your program, you may need to schedule a visit with a Teladoc Health care provider. If not, you can schedule a visit with your regular primary care provider. During your visit, your care provider will review your medical history and your current and previous medications. If you meet certain criteria, the care provider may suggest starting a weight loss medication. Together, you can decide if it’s right for you. Your care provider will also educate you on how to use it, the expected impact, side effects, and how to monitor it.\nAfter your care provider submits the prescription, it may take several weeks to get it filled. You can expect some administrative follow-up to get the medication approved. Check with your insurance provider to learn about any requirements you may need to meet:\n• You may need prior authorization.\n• You may need to meet program engagement requirements to get your medication covered.\n• You or your provider may need to submit more documentation, prior authorizations or appeal letters if the medication is denied.\n• You’ll be informed if the medication is denied. And your provider may suggest a different one.\n\nWhat will I have to pay for this medication?\nOut-of-pocket costs for these medications are quite high. Your insurance may or may not cover the cost of certain GLP-1s. If you're concerned about costs, we have discounted self-pay options available. There are also patient assistance programs that may help with costs. However, many programs expire after some time.\n\nExplore more Weight Management resources\nWeighing in with confidence: build your weigh in routine\nQuestions to ask your doctor about weight loss medication\nFinding healthy food in any neighborhood\nManaging triggers to avoid overeating\nWhy eat healthier?\n\n*Livongo is now part of Teladoc Health, and we are in a brand transition phase. You may receive Livongo-branded and Teladoc Health-branded products during this transition. Other than brand name, there is no difference between products.\nThe testimonials, opinions and statements reflect one individuals' personal experience with Teladoc Health. Results and experiences may vary from person to person and will be unique to each individual. The testimonials are voluntarily provided and are not paid. The individual in the photo is not the individual who provided this testimonial.\nThe device or devices and any components shown are representative examples only. The actual model you receive may be different.",
+    "main_content": "Start your wellness journey today with Teladoc Health's online weight management program. Get a smart scale, a personalized action plan and ongoing expert coaching and support—all paid for by your employer or health plan. The program includes personalized content to manage food, activity and weigh-ins, plus dedicated expert coaching to get advice on nutrition, meal planning and more. Your health goals and challenges are unique, and you'll get personalized tools and support from expert coaches to help you take care of your health. The Teladoc Health app allows you to view weight trends, message a coach for advice, share reports with your doctor, snap a photo to log your food, set goals and track progress, and get personalized eating tips. Testimonials from program members highlight significant results: one member lost 20-25 pounds, another reports newfound confidence and life improvement, and others praise the program for helping them regain control of their lives. The program is completely at no cost to you—your employer, health plan or healthcare provider pays for the program on your behalf. After enrollment, you will receive a Teladoc Health Welcome Kit including the smart scale, and can download the mobile app to personalize your program and track progress. Teladoc Health takes privacy seriously, with health information protected by federal and state laws including HIPAA. Eligibility requires enrollment through your employer, health plan or health provider. The program may also offer GLP-1 medication support for eligible members when clinically appropriate, though certain criteria must be met and costs may vary depending on insurance coverage.",
     "with": [
-      "Start your wellness journey today",
-      "Get a smart scale, a personalized action plan and ongoing expert coaching and support—all paid for by your employer or health plan.",
-      "Your employer, health plan or healthcare provider has your back. They’ve already covered the entire cost of the program for you.",
-      "Weight loss & healthy living tailored to you",
+      "Start your wellness journey today. Get a smart scale, a personalized action plan and ongoing expert coaching and support—all paid for by your employer or health plan.",
+      "Your health goals and challenges are unique. Get personalized tools and support from expert coaches to help you take care of your health.",
+      "This program helped me when I thought that nothing could help me. I've learned small tweaks that have really helped me drastically. I'm down 20-25 pounds since starting Livongo.",
+      "Yes! It is completely at no cost to you. Your employer, health plan or health provider pays for the program on your behalf.",
       "Teladoc Health care providers can prescribe GLP-1s for weight loss for eligible members enrolled in Weight Management when clinically appropriate."
     ],
     "without": [
+      "Teladoc Health",
       "Sign in",
       "Register now",
-      "Individuals",
-      "Organizations",
-      "Clinicians",
-      "Headquarters Teladoc Health, Inc. 155 East 44th Street, Suite 1700 New York, NY 10017",
       "© Teladoc Health, Inc.",
-      "Apple App store",
-      "Google Play store"
-    ]
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 8,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "/adobe/dynamicmedia/deliver/dm-aid--03b678d4-0138-48e8-9aaa-170abf280890/TDH-devices.png.webp?preferwebp=true&width=800&quality=90",
+          "filename": "TDH-devices.png.webp",
+          "alt": "Teladoc Health smart scale with UI from the app",
+          "caption": "Teladoc Health smart scale with UI from the app",
+          "is_hero": true
+        },
+        {
+          "src": "/adobe/dynamicmedia/deliver/dm-aid--4653c4f1-00f6-45c7-a662-03b4b55284e9/wm-banner.png.webp?preferwebp=true&width=800&quality=90",
+          "filename": "wm-banner.png.webp",
+          "alt": "Woman eating a salad",
+          "caption": "Woman eating a salad",
+          "is_hero": false
+        },
+        {
+          "src": "/adobe/dynamicmedia/deliver/dm-aid--d3b4484b-0bf9-43ac-98a9-55808e3ee4c2/condition-management-food.jpg.webp?preferwebp=true&width=800&quality=90",
+          "filename": "condition-management-food.jpg.webp",
+          "alt": "Condition management app screen",
+          "caption": "Condition management app screen showing food logging feature",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:42:36.809889"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:35:10.992740"
 }

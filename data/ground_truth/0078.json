@@ -1,0 +1,103 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.konahr.com/hr-services-new-york-city/",
+  "file_id": "0078",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "hr-consulting",
+        "new-york-city",
+        "business-services",
+        "local-business"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "HR Services in New York City for Local Businesses",
+    "author": null,
+    "publish_date": null,
+    "main_content": "NYC HR Consulting for Building Stronger, Happier Teams. Kona HR is your comprehensive services partner in New York City, New York for HR, Payroll, Property & Casualty, employee benefits, and International Operations. We service companies of all sizes, from the SMB and start-up market to enterprise-level businesses, with particular expertise in professional services organizations. Our broad range of services focuses on creating a full Human Resources functionality in your business regardless of scale. We are your strategic partner and an ongoing, customized support system for your company's unique needs. Services offered include Compensation, Benefits, Payroll, HR Management, Business Insurance, Outsourcing, and Finance & Accounting. Kona HR Consulting plays a pivotal role in helping businesses orchestrate the rise of fortified and jubilant teams, with domain mastery encompassing the intricate web of human resources. Our consulting is an artful fusion of analysis and innovation, meticulously scrutinizing HR practices to extract areas primed for enhancement. We help businesses understand team dynamics and overcome challenges, from communication hurdles to role ambiguity, paving the way for holistic solutions. Our strategies focus on cultivating a positive realm, nurturing potent communication, and crafting avenues for individual evolution. We harness the power of communication and collaboration to forge productivity and team cohesion. Our tailored growth initiatives unlock latent potential through learning opportunities, skill honing, and nurturing a mindset of perpetual growth. Kona HR Consulting transforms teams into vibrant ecosystems where communication channels thrive, goals crystallize, and support systems flourish.",
+    "with": [
+      "Kona HR is your comprehensive services partner in New York City, New York for HR, Payroll, Property & Casualty, employee benefits, and International Operations.",
+      "We service companies of all sizes, from the SMB and start-up market to enterprise-level businesses, with particular expertise in professional services organizations.",
+      "Our broad range of services focuses on creating a full Human Resources functionality in your business regardless of scale.",
+      "Kona HR Consulting plays a pivotal role in helping businesses orchestrate the rise of fortified and jubilant teams.",
+      "By delving into the intricacies of team dynamics, we unearth treasures that facilitate obstacle traversal."
+    ],
+    "without": [
+      "Skip to content navigation",
+      "Services dropdown menu items",
+      "Contact Us button",
+      "Main office: 230 Park Avenue, 3rd Floor, New York, NY 10169",
+      "Social media icons (Facebook, Twitter, LinkedIn, Blogger)"
+    ],
+    "images": {
+      "total_in_content": 10,
+      "annotated_count": 8,
+      "items": [
+        {
+          "src": "https://www.konahr.com/wp-content/uploads/2021/11/newyork-city-2.jpg",
+          "filename": "newyork-city-2.jpg",
+          "alt": "hr services for local. hr services in new york city",
+          "caption": "HR services for local. HR services in New York City",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.konahr.com/wp-content/uploads/2023/08/team-6-scaled-e1693402183902-768x768.jpeg",
+          "filename": "team-6-scaled-e1693402183902-768x768.jpeg",
+          "alt": "two people sitting at a table with a laptop",
+          "caption": "Two people sitting at a table with a laptop",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.konahr.com/wp-content/uploads/2023/08/team-1-scaled-e1693402419739-768x768.jpeg",
+          "filename": "team-1-scaled-e1693402419739-768x768.jpeg",
+          "alt": "hr services in connecticut. hr services in new york city",
+          "caption": "HR services in Connecticut. HR services in New York City",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.konahr.com/wp-content/uploads/2023/08/team-3-scaled-e1693402520702-768x768.jpeg",
+          "filename": "team-3-scaled-e1693402520702-768x768.jpeg",
+          "alt": "a man and woman are writing on a board",
+          "caption": "A man and woman are writing on a board",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.konahr.com/wp-content/uploads/2023/08/team-5-scaled-e1693402599357-768x762.jpeg",
+          "filename": "team-5-scaled-e1693402599357-768x762.jpeg",
+          "alt": "a group of people sitting around a wooden table",
+          "caption": "A group of people sitting around a wooden table",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.konahr.com/wp-content/uploads/2023/08/team-2-scaled-e1693402686249-768x767.jpeg",
+          "filename": "team-2-scaled-e1693402686249-768x767.jpeg",
+          "alt": "hr services in connecticut. hr services in new york city. workplace conflicts",
+          "caption": "HR services in Connecticut. HR services in New York City. Workplace conflicts",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.konahr.com/wp-content/uploads/2023/08/team-4-e1739389664841-768x635.jpeg",
+          "filename": "team-4-e1739389664841-768x635.jpeg",
+          "alt": "outsourcing. internship program",
+          "caption": "Outsourcing. Internship program",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.konahr.com/wp-content/uploads/2022/06/the-advantages-of-working-with-a-financial-consultant-exploring-different-types-and-benefits-of-financial-consulting-services-768x513.jpg",
+          "filename": "the-advantages-of-working-with-a-financial-consultant-exploring-different-types-and-benefits-of-financial-consulting-services-768x513.jpg",
+          "alt": "financial consultant",
+          "caption": "Financial consultant",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:33:13.729491"
+}

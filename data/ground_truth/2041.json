@@ -1,27 +1,97 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.xbox.com/en-US/games/gameratings",
   "file_id": "2041",
-  "downloaded_at": "2025-12-20T22:10:40.845871",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "gaming",
+        "esrb",
+        "ratings",
+        "parental-controls",
+        "xbox"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Game Rating Information - ESRB | Xbox",
     "author": null,
     "publish_date": null,
-    "main_content": "The ESRB rating system is an unbiased, standardized way to help you determine whether an Xbox game is appropriate for your child. Ratings are determined by the Entertainment Software Rating Board (ESRB). The ESRB is a self-regulatory body that independently applies and enforces ratings, advertising guidelines, and online privacy principles adopted by the industry. Visit esrb.org/ratings-guide/ for more information.\n\nESRB Rating Symbols\n\nEVERYONE\nTitles rated E (Everyone) have content that may be suitable for all ages. Titles in this category may contain minimal cartoon, fantasy or mild violence and/or infrequent use of mild language.\n\nEVERYONE 10+\nTitles rated E10+ (Everyone 10+) have content that may be suitable for ages 10 and older. Titles in this category may contain more cartoon, fantasy or mild violence, mild language, and/or minimal suggestive themes.\n\nTEEN\nTitles rated T (Teen) have content that may be suitable for ages 13 and older. Titles in this category may contain violence, suggestive themes, crude humor, minimal blood, simulated gambling, and/or infrequent use of strong language.\n\nMATURE\nTitles rated M (Mature) have content that may be suitable for persons ages 17 and older. Titles in this category may contain intense violence, blood and gore, sexual content, and/or strong language.\n\nRATING PENDING\nTitles listed as RP (Rating Pending) have been submitted to the ESRB and are awaiting final rating. This symbol appears only in advertising prior to a game's release.\n\nADULTS ONLY\nTitles rated AO (Adults Only) have content that should only be played by persons 18 years and older. Titles in this category may include prolonged scenes of intense violence and/or graphic sexual content and nudity. Microsoft does not support AO titles.\n\nESRB Content Descriptors\n\nAlcohol Reference: Reference to and/or images of alcoholic beverages\nAnimated Blood: Cartoon or pixilated depictions of blood\nBlood: Depictions of blood\nBlood and Gore: Depictions of blood or the mutilation of body parts\nComic Mischief: Scenes depicting slapstick or gross vulgar humor\nCrude Humor: Moderately vulgar antics, including bathroom humor\nDrug Reference: Reference to and/or images of illegal drugs\nFantasy Violence: Violent actions of a fantasy nature, involving human or non-human characters in situations easily distinguishable from real life\nGambling Themes: Prominently featured images or activities that are typically associated with real-world gambling even if they are not directly simulating a gambling experience\nIntense Violence: Graphic and realistic-looking depictions of physical conflict. May involve extreme and/or realistic blood, gore, weapons, and depictions of human injury and death\nLanguage: Mild references to profanity, sexuality, violence, alcohol, or drug use\nLyrics: Mild references to profanity, sexuality, violence, alcohol, or drug use in music\nMature Humor: Vulgar and/or crude jokes and antics including \"bathroom\" humor\nNudity: Graphic or prolonged depictions of nudity\nPartial Nudity: Brief and mild depictions of nudity\nReal Gambling: Betting like behavior\nSexual Content: Non-explicit depictions of sexual behavior, possibly including partial nudity\nSexual Themes: References to sex or sexuality\nSexual Violence: Depictions of rape or other sexual acts\nSimulated gambling: Player can gamble without betting or wagering real cash or currency. Typically assigned to simulations of casino-based gambling.\nStrong Language: Profanity and explicit references to sexuality, violence, alcohol, or drug use\nStrong Lyrics: Profanity and explicit references to sex, violence, alcohol, or drug use in music\nStrong Sexual Content: Graphic depiction of sexual behavior, possibly including nudity\nSuggestive Themes: Mild provocative references or materials\nTobacco Reference: Reference to and/or images of tobacco products\nUse of Alcohol: The consumption of alcoholic beverages\nUse of Drugs: The consumption or use of illegal drugs\nUse of Tobacco: The consumption of tobacco products\nViolence: Scenes involving aggressive conflict\nViolent references: References to violent acts\n\nInteractive Elements\n\nIn-Game Purchases: Contains in-game offers to purchase digital goods or premiums with real world currency, including but not limited to bonus levels, skins, music, virtual coins and other forms of in-game currency, subscriptions, season passes and upgrades (e.g., to disable ads).\nShares Location: Includes the ability to display the user’s location to other users of the app.\nIn-Game Purchases (Includes Random Items): Contains in-game offers to purchase digital goods or premiums with real world currency (or with virtual coins or other forms of in-game currency that can be purchased with real world currency) for which the player doesn’t know prior to purchase the specific digital goods or premiums they will be receiving (e.g., loot boxes, item packs, mystery awards).\nUnrestricted Internet: Provides unrestricted access to the internet (e.g., browser, search engine).\nUsers Interact: Indicates possible exposure to unfiltered/uncensored user-generated content, including user-to-user communications and media sharing via social media and networks.\n\nXbox Family Settings app\nEasily manage your children’s gaming activities on Xbox consoles, all from your phone and in real time.",
+    "main_content": "The ESRB rating system is an unbiased, standardized way to help you determine whether an Xbox game is appropriate for your child. Ratings are determined by the Entertainment Software Rating Board (ESRB). The ESRB is a self-regulatory body that independently applies and enforces ratings, advertising guidelines, and online privacy principles adopted by the industry.\n\nESRB Rating Symbols:\n\nEVERYONE: Titles rated E (Everyone) have content that may be suitable for all ages. Titles in this category may contain minimal cartoon, fantasy or mild violence and/or infrequent use of mild language.\n\nEVERYONE 10+: Titles rated E10+ (Everyone 10+) have content that may be suitable for ages 10 and older. Titles in this category may contain more cartoon, fantasy or mild violence, mild language, and/or minimal suggestive themes.\n\nTEEN: Titles rated T (Teen) have content that may be suitable for ages 13 and older. Titles in this category may contain violence, suggestive themes, crude humor, minimal blood, simulated gambling, and/or infrequent use of strong language.\n\nMATURE: Titles rated M (Mature) have content that may be suitable for persons ages 17 and older. Titles in this category may contain intense violence, blood and gore, sexual content, and/or strong language.\n\nRATING PENDING: Titles listed as RP (Rating Pending) have been submitted to the ESRB and are awaiting final rating. This symbol appears only in advertising prior to a game's release.\n\nADULTS ONLY: Titles rated AO (Adults Only) have content that should only be played by persons 18 years and older. Titles in this category may include prolonged scenes of intense violence and/or graphic sexual content and nudity. Microsoft does not support AO titles.\n\nESRB Content Descriptors include: Alcohol Reference, Animated Blood, Blood, Blood and Gore, Comic Mischief, Crude Humor, Drug Reference, Fantasy Violence, Gambling Themes, Intense Violence, Language, Lyrics, Mature Humor, Nudity, Partial Nudity, Real Gambling, Sexual Content, Sexual Themes, Sexual Violence, Simulated gambling, Strong Language, Strong Lyrics, Strong Sexual Content, Suggestive Themes, Tobacco Reference, Use of Alcohol, Use of Drugs, Use of Tobacco, Violence, and Violent references.\n\nInteractive Elements include: In-Game Purchases, Shares Location, In-Game Purchases (Includes Random Items), Unrestricted Internet, and Users Interact.\n\nXbox Family Settings app allows you to easily manage your children's gaming activities on Xbox consoles, all from your phone and in real time.",
     "with": [
       "The ESRB rating system is an unbiased, standardized way to help you determine whether an Xbox game is appropriate for your child.",
-      "Titles rated M (Mature) have content that may be suitable for persons ages 17 and older. Titles in this category may contain intense violence, blood and gore, sexual content, and/or strong language.",
-      "Microsoft does not support AO titles.",
-      "In-Game Purchases (Includes Random Items): Contains in-game offers to purchase digital goods or premiums with real world currency for which the player doesn’t know prior to purchase the specific digital goods or premiums they will be receiving (e.g., loot boxes, item packs, mystery awards).",
-      "Easily manage your children’s gaming activities on Xbox consoles, all from your phone and in real time."
+      "Ratings are determined by the Entertainment Software Rating Board (ESRB).",
+      "Titles rated M (Mature) have content that may be suitable for persons ages 17 and older.",
+      "Titles rated E (Everyone) have content that may be suitable for all ages.",
+      "Easily manage your children's gaming activities on Xbox consoles, all from your phone and in real time."
     ],
     "without": [
-      "Skip to main content",
-      "Home Game Pass​ Games Devices Play Store Community Support My Xbox Developers More",
-      "Follow Xbox on Facebook Follow Xbox on X Follow Xbox on Instagram Join Xbox channel on WhatsApp Follow Xbox on TikTok Follow Xbox on YouTube Follow Xbox on LinkedIn",
-      "Browse Xbox consoles Xbox games Xbox Game Pass Xbox accessories",
-      "© Microsoft 2025"
-    ]
+      "Xbox consoles",
+      "Xbox games",
+      "Xbox Game Pass",
+      "Xbox Support",
+      "Privacy and Cookies"
+    ],
+    "images": {
+      "total_in_content": 19,
+      "annotated_count": 7,
+      "items": [
+        {
+          "src": "https://assets.xboxservices.com/assets/90/0c/900c2983-dcde-414f-9725-e894d4aa3b63.svg?n=ESRB-E_500x500.svg",
+          "filename": "900c2983-dcde-414f-9725-e894d4aa3b63.svg",
+          "alt": "ESRB Rating Everyone",
+          "caption": "ESRB Rating Everyone",
+          "is_hero": false
+        },
+        {
+          "src": "https://assets.xboxservices.com/assets/dd/00/dd00d53a-23be-40cc-9109-d384ee5d4082.svg?n=ESRB-E-10%252b_500x500.svg",
+          "filename": "dd00d53a-23be-40cc-9109-d384ee5d4082.svg",
+          "alt": "ESRB Rating Everyone Ten plus",
+          "caption": "ESRB Rating Everyone Ten plus",
+          "is_hero": false
+        },
+        {
+          "src": "https://assets.xboxservices.com/assets/89/ac/89ac0825-1221-4107-96f2-77ef19b06e6b.svg?n=ESRB-T_500x500.svg",
+          "filename": "89ac0825-1221-4107-96f2-77ef19b06e6b.svg",
+          "alt": "ESRB Rating Teen",
+          "caption": "ESRB Rating Teen",
+          "is_hero": false
+        },
+        {
+          "src": "https://assets.xboxservices.com/assets/bd/66/bd668d08-3b14-4ffd-b623-b7af9e21f8f7.svg?n=ESRB-Mature_500x500.svg",
+          "filename": "bd668d08-3b14-4ffd-b623-b7af9e21f8f7.svg",
+          "alt": "ESRB Rating Mature",
+          "caption": "ESRB Rating Mature",
+          "is_hero": false
+        },
+        {
+          "src": "https://assets.xboxservices.com/assets/00/06/000687de-755f-4013-85b3-80ffc2aac6a4.svg?n=ESRB-Rating-Pending_500x500.svg",
+          "filename": "000687de-755f-4013-85b3-80ffc2aac6a4.svg",
+          "alt": "ESRB Rating - Rating Pending",
+          "caption": "ESRB Rating - Rating Pending",
+          "is_hero": false
+        },
+        {
+          "src": "https://assets.xboxservices.com/assets/c1/d3/c1d3ced6-b303-4ce7-81ca-6709f0a83ee6.svg?n=ESRB-A_500x500.svg",
+          "filename": "c1d3ced6-b303-4ce7-81ca-6709f0a83ee6.svg",
+          "alt": "ESRB Rating Adults Only",
+          "caption": "ESRB Rating Adults Only",
+          "is_hero": false
+        },
+        {
+          "src": "https://assets.xboxservices.com/assets/6c/7a/6c7a6ca4-c550-46d0-9fae-e2dad526b0d6.jpg?n=FE-Safety_Feature-0_9938825_1040x585.jpg",
+          "filename": "6c7a6ca4-c550-46d0-9fae-e2dad526b0d6.jpg",
+          "alt": "Collection of app screenshots of parental controls and online safety settings",
+          "caption": "Collection of app screenshots of parental controls and online safety settings",
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:10:40.845875"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:24:07.161177"
 }

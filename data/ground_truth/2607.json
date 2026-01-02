@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://ptreview.sublinear.info/2025/12/news-for-november-2025",
+  "file_id": "2607",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "research",
+        "monthly-digest",
+        "property-testing"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "News for November 2025",
+    "author": "Akash",
+    "publish_date": "2025-12-15",
+    "main_content": "Last month the community had a lot to say as a result of which we have a rare treat featuring eighteen papers. Results ranging from (almost) tight lower bounds for testing boolean monotonicity to low rank approximation of Hankel Matrices, to compressed sensing, to PCPs, to results about testing and learning convex functions, a trio of papers with Oded Goldreich as (co)-author, there are many many many more papers covered in this month's potpourri. Featured in this spectacular collection of papers, we have a rare treat which seeks to understand in this age of LLMs, how Mathematical Explorations and Discoveries work at scale. Without further ado, let us examine our spread. Boolean function monotonicity testing requires (almost) n^1/2 queries by Mark Chen, Xi Chen, Hao Cui, William Pires, Jonah Stockwell. The problem of testing boolean monotonicity over the hypercube, {0,1}^n, is no stranger to regular PTReview readers. Finally, we have a result which puts this venerable to rest by proving an adaptive two-sided lower bound of Omega(N^{1/2-c}) queries for testing boolean monotonicity over the boolean hypercube. Low-soundness direct-product testers and PCPs from Kaufman–Oppenheim complexes by Ryan O'Donnell and Noah Singer shows an agreement test for direct product testing with two provers in the low soundness regime. Support Recovery in One-bit Compressed Sensing with Near-Optimal Measurements and Sublinear Time by Xiaxin Li, Arya Mazumdar presents efficient algorithms that return a sparse vector whose support is a great proxy for the support of our unknown signal. Computational Complexity in Property Testing by Renato Ferreira Pinto Jr., Diptaksho Palit, Sofya Raskhodnikova studies the tradeoff between the query complexity and the time complexity aspects of property testing tasks. Interactive proof systems for FARNESS by Oded Goldreich, Tal Herman, Guy N. Rothblum continues a line of work on interactive proofs of proximity for distribution testing problems. Learning and Testing Convex Functions by Renato Ferreira Pinto Jr., Cassandra Marcussen, Elchanan Mossel, Shivam Nadimpalli studies functions f: R^d -> R under Gaussian measure and formalizes convexity testing as distinguishing convex functions from those that are epsilon-far in L^2 equipped with the Gaussian Measure. Testing Noisy Low-Degree Polynomials for Sparsity by Yiqiao Bao, Anindya De, Shivam Nadimpalli, Rocco A. Servedio, Nathan White gives explicit conditions under which sparsity can be tested with a constant number of samples, depending on the degree, noise rate, and sparsity parameter s. Mathematical exploration and discovery at scale by Bogdan Georgiev, Javier Gómez-Serrano, Terence Tao, Adam Zsolt Wagner asks, fairly openly, what it might even mean for modern AI systems to participate in mathematical discovery.",
+    "with": [
+      "The problem of testing boolean monotonicity over the hypercube, {0,1}^n, is no stranger to regular PTReview readers.",
+      "This paper asks, fairly openly, what it might even mean for modern AI systems to participate in mathematical discovery.",
+      "The paper studies functions f: R^d -> R under Gaussian measure and formalizes convexity testing as distinguishing convex functions from those that are ε-far in L^2 equipped with the Gaussian Measure.",
+      "Low-soundness direct-product testers and PCPs from Kaufman–Oppenheim complexes by Ryan O'Donnell and Noah Singer shows an agreement test for direct product testing with two provers.",
+      "Computational Complexity in Property Testing studies the tradeoff between the query complexity and the time complexity aspects of property testing tasks."
+    ],
+    "without": [
+      "Proudly powered by WordPress",
+      "Property Testing Review - The latest in property testing and sublinear time algorithms",
+      "Leave a reply",
+      "Search for:",
+      "Archives"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:20:57.940704"
+}

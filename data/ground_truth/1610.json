@@ -1,0 +1,103 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.nourishmovelove.com/fitness-beginner-workout-plan/",
+  "file_id": "1610",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "fitness",
+        "workout-plan",
+        "beginner",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Beginner Workout Plan (30-Day Routine)",
+    "author": "Lindsey Bomgren, CPT",
+    "publish_date": "2025-11-17",
+    "main_content": "This 30-day at-home beginner workout plan is designed to build strength, improve functional fitness and support fat loss through a mix of strength and mobility-focused workouts. It's ideal for anyone starting or restarting their fitness journey, offering a structured yet flexible schedule to help develop consistency and confidence. With simple, effective movements like squats, lunges, push-ups and rows, this plan targets every major muscle group for real, sustainable results.\n\nStarting an exercise routine can feel daunting – trust me, I've been there. Whether it's coming back after time off or picking up weights for the very first time, those first workouts can feel both exciting and intimidating. What's most important in any fitness routine is consistency.\n\nWhen I first got serious about strength training, I didn't overcomplicate it. I started simple, with a structured plan that told me exactly what to do each day. That's why I created this 30-day beginner dumbbell workout plan: to take away the guesswork and help you start moving. All you need to do is press play and follow along.\n\nThis 30-day workout challenge includes full-body dumbbell workouts designed for both building muscle and weight loss. You'll find a mix of upper and lower-body strength sessions, along with mobility-focused workouts to improve your range of motion and support recovery.\n\nWhether you're getting back into fitness or just starting out, these are the goals you'll be working toward over the next 30 days: ease back into movement and re-establish an active lifestyle, build a consistent home workout routine, develop foundational strength and lean muscle, improve endurance, coordination and balance, build the strength to properly perform exercises like Romanian deadlifts, lunges, leg extensions, calf raises, lateral raises, skull crushers, tricep extensions, shoulder presses, push-ups, pull-ups, bicep curls, lat pulldowns, and crunches, burn calories and support healthy weight management sustainably, boost your energy, mood and confidence through regular movement, and feel stronger, more capable and more consistent by the end of the month.\n\nThe plan includes 3-5 workouts per week with rest days, following a 5-day training split that can be adapted. Workouts vary from 20-30 minutes a day and require a set of dumbbells and optional resistance band or kettlebell.\n\nFAQs address how beginners can build muscle (focus on progressive overload with foundational exercises 3-4 times per week), how often beginners should work out (3-5 workouts per week), how many sets and reps beginners should do (2-3 sets of 8-12 reps), and what the 3-3-3 rule for working out is (focus on 3 workouts per week, stick with each routine for 3 weeks, aim to progress every 3 sessions).",
+    "with": [
+      "This 30-day at-home beginner workout plan is designed to build strength, improve functional fitness and support fat loss through a mix of strength and mobility-focused workouts.",
+      "When I first got serious about strength training, I didn't overcomplicate it. I started simple, with a structured plan that told me exactly what to do each day.",
+      "The best beginner-friendly strength training exercises are simple but effective: squats, lunges, push-ups, rows, shoulder presses and deadlifts.",
+      "Beginners can build muscle by focusing on progressive overload or gradually increasing the weight, reps or intensity of workouts over time.",
+      "A good starting point is 2-3 sets of 8-12 reps for most strength exercises."
+    ],
+    "without": [
+      "Free Weekly Workout Plans in Your Inbox. sign up",
+      "Home Workouts | Workout Plans | Recipes | Lifestyle",
+      "Follow us on YouTube, Instagram, Pinterest, Facebook",
+      "Your review helps us keep creating free workouts",
+      "Copyright 2025 Nourish Move Love"
+    ],
+    "images": {
+      "total_in_content": 47,
+      "annotated_count": 8,
+      "items": [
+        {
+          "src": "https://www.nourishmovelove.com/wp-content/uploads/2025/11/BeginnerCalendar_3Days-1024x791.jpg",
+          "filename": "BeginnerCalendar_3Days-1024x791.jpg",
+          "alt": "30 day beginner workout plan calenar graphic - 3 days per week",
+          "caption": "30 day beginner workout plan calendar graphic - 3 days per week",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.nourishmovelove.com/wp-content/uploads/2025/11/BeginnerCalendar_4DaysWeek-1024x791.jpg",
+          "filename": "BeginnerCalendar_4DaysWeek-1024x791.jpg",
+          "alt": "30 day beginner workout plan calenar graphic - 4 days per week",
+          "caption": "30 day beginner workout plan calendar graphic - 4 days per week",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.nourishmovelove.com/wp-content/uploads/2024/11/BeginnerCalendar_5Days_1-1024x791.jpg",
+          "filename": "BeginnerCalendar_5Days_1-1024x791.jpg",
+          "alt": "30 day beginner workout plan calenar graphic",
+          "caption": "30 day beginner workout plan calendar graphic",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.nourishmovelove.com/wp-content/uploads/2024/10/arm-day-workout-with-dumbbell-1024x683.jpg",
+          "filename": "arm-day-workout-with-dumbbell-1024x683.jpg",
+          "alt": "woman holding dumbbell on shoulder",
+          "caption": "Woman holding dumbbell on shoulder",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.nourishmovelove.com/wp-content/uploads/2024/11/standing-crunch-beginner-hiit-workout-1024x683.jpg",
+          "filename": "standing-crunch-beginner-hiit-workout-1024x683.jpg",
+          "alt": "two women performing a standing crunch",
+          "caption": "Two women performing a standing crunch",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.nourishmovelove.com/wp-content/uploads/2025/01/918A9339-1024x683.jpg",
+          "filename": "918A9339-1024x683.jpg",
+          "alt": "two women holding a dumbbell at chest height and performing a balance crossbody crunch as part of a beginner workout",
+          "caption": "Two women holding a dumbbell at chest height and performing a balance crossbody crunch as part of a beginner workout",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.nourishmovelove.com/wp-content/uploads/2025/03/918A8860-683x1024.jpg",
+          "filename": "918A8860-683x1024.jpg",
+          "alt": "woman performing a kneeling single arm press in a full body workout for women",
+          "caption": "Woman performing a kneeling single arm press in a full body workout for women",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.nourishmovelove.com/wp-content/uploads/2023/12/BeginnerWorkoutPlan3-683x1024.jpg",
+          "filename": "BeginnerWorkoutPlan3-683x1024.jpg",
+          "alt": "woman performing bicep curl as part of beginner workout plan",
+          "caption": "Woman performing bicep curl as part of beginner workout plan",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:31:06.515101"
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": "2.0",
+  "url": "https://fin.link/advisors/35103/",
+  "file_id": "0777",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "marketplace",
+        "financial",
+        "listing-unavailable"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "FinLink - Trusted Marketplace for Financial Professionals",
+    "author": null,
+    "publish_date": null,
+    "main_content": "This listing is no longer available. We apologize for any inconvenience. We work hard to ensure each listing is actively maintained to ensure you have the best experience in the marketplace as possible.",
+    "with": [
+      "This listing is no longer available.",
+      "We apologize for any inconvenience.",
+      "We work hard to ensure each listing is actively maintained to ensure you have the best experience in the marketplace as possible.",
+      "FinLink is a marketplace that provides financial professionals with a platform for buying, selling, and merging practices.",
+      "Visit our support page for FAQs, Testimonials, and How to Get Started!"
+    ],
+    "without": [
+      "Get started",
+      "Pricing",
+      "© Copyright 2025. All Rights Reserved.",
+      "Privacy Policy",
+      "Terms of Service"
+    ],
+    "images": {
+      "total_in_content": 4,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://successionlinkstatic.nyc3.digitaloceanspaces.com/prod-files-euvic/img/banner-advisors-listing.jpg",
+          "filename": "banner-advisors-listing.jpg",
+          "alt": "SL advisors Listing",
+          "caption": "SL advisors Listing",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:18:27.227051"
+}

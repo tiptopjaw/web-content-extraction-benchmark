@@ -1,0 +1,62 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.hackster.io/wstanislaus/vivado-led-control-via-pynq-on-kr260-e391cf",
+  "file_id": "2543",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "tutorial",
+        "fpga",
+        "embedded",
+        "vivado"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Vivado LED Control via PYNQ on KR260",
+    "author": "William Stanislaus",
+    "publish_date": "2025-12-19",
+    "main_content": "This project demonstrates how to create a simple PL design in Vivado to control the user-defined LEDs (DS7 and DS8) on the KR260 carrier board. The design uses an AXI GPIO IP core connected to the Zynq UltraScale+ Processing System (PS) via an AXI SmartConnect, enabling software control of the LEDs from Linux running on the APU. When developing FPGA applications on the KR260, you often need to create custom PL designs that interact with the PS, rapidly prototype and test hardware designs without lengthy compilation cycles, validate hardware functionality before integrating with more complex applications, and prepare hardware designs for integration with RPU firmware or custom Linux drivers. This project simplifies this workflow by using Vivado's IP Integrator for visual design, leveraging PYNQ for Python-based hardware interaction, and enabling rapid iteration through network boot and dynamic bitstream loading. The step-by-step guide covers creating a Vivado project, adding the Zynq UltraScale+ PS and AXI GPIO IP, configuring the design, adding pin constraints for the KR260 board, synthesizing and implementing the design, generating the bitstream, exporting hardware, copying files to the NFS share, creating a PYNQ notebook, and validating on the KR260. The PYNQ Python code loads the bitstream, accesses the AXI GPIO, and controls LED patterns to blink DS7 and DS8 in a walking pattern.",
+    "with": [
+      "This project demonstrates how to create a simple PL design in Vivado to control the user-defined LEDs (DS7 and DS8) on the KR260 carrier board.",
+      "The design uses an AXI GPIO IP core connected to the Zynq UltraScale+ Processing System (PS) via an AXI SmartConnect, enabling software control of the LEDs from Linux running on the APU.",
+      "Traditional FPGA development workflows require writing HDL code, synthesizing and implementing the design, generating bitstreams, and writing C/C++ applications to interact with hardware.",
+      "PYNQ's Overlay class loads the bitstream into the FPGA, parses the .hwh file to understand the hardware structure, and creates Python objects for each IP core.",
+      "This project provides a foundation for more advanced PL development including adding more GPIO, custom IP integration, interrupt support, and RPU integration."
+    ],
+    "without": [
+      "Subscribe to our Newsletter",
+      "Sign up for Hackster",
+      "Log in to your account",
+      "Privacy Policy",
+      "Copyright 2025"
+    ],
+    "images": {
+      "total_in_content": 11,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://hackster.imgix.net/uploads/attachments/1912550/_bpPpjStRjv.blob?auto=compress%2Cformat&w=400&h=300&fit=min",
+          "filename": "_bpPpjStRjv.blob",
+          "alt": "Vivado LED Control via PYNQ on KR260",
+          "caption": "Vivado LED Control via PYNQ on KR260",
+          "is_hero": true
+        },
+        {
+          "src": "https://hackster.imgix.net/uploads/attachments/1476891/1658215540464231_G3GiSguQxK.png?auto=compress%2Cformat&w=48&h=48&fit=fill&bg=ffffff",
+          "filename": "1658215540464231_G3GiSguQxK.png",
+          "alt": "AMD Kria™ KR260 Robotics Starter Kit",
+          "caption": "AMD Kria™ KR260 Robotics Starter Kit",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:47:14.825272"
+}

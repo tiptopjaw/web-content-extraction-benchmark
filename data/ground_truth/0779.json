@@ -1,0 +1,61 @@
+{
+  "schema_version": "2.0",
+  "url": "https://boostsuite.com/best-online-legal-services/",
+  "file_id": "0779",
+  "_internal": {
+    "page_type": {
+      "primary": "review",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "legal-services",
+        "reviews",
+        "comparison",
+        "small-business"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "The 8 Best Online Legal Services: Reviewed & Ranked (2025)",
+    "author": "Aaron Kra",
+    "publish_date": "2024-04-09",
+    "main_content": "Choosing the right online legal service can save your business time, money, and costly mistakes. From LLC formation and compliance to affordable access to attorneys or legal documents, today's top providers offer tailored solutions for different business needs. But the wrong choice could leave you paying too much or missing critical protection. To help you decide, we reviewed and ranked the eight best online legal services for small businesses in 2025. The four stages of the selection process were: Reviews, Website Analysis, Speaking with Real Customers, and Speaking with Their Sales Team. The rating factors used were: Offerings, Value, Transparency, Customer Support, and Overall User Experience. Northwest Registered Agent is rated 9.31/10 and is best for LLC formation and privacy with $39 + state fees, including 1 year of registered agent service. Harbor Compliance is rated 8.24/10 and specializes in licensing, annual reports, and BOI reporting with dedicated representatives. LegalZoom is the most established service but has pricing clarity issues and separates compliance tools from legal plans. LegalNature excels at document customization with optional formation services. LegalShield offers attorney access starting at $49/month with document review caps. LawDepot provides DIY templates at around $49/month after trial. Nolo offers educational resources and WillMaker software with optional formation packages. Blumberg Excelsior is a legacy company since 1887 offering corporate kits and formation services.",
+    "with": [
+      "Choosing the right online legal service can save your business time, money, and costly mistakes.",
+      "The first stage in finding the best online legal service was to check online reviews.",
+      "Northwest Registered Agent offers unmatched support for small business owners forming an LLC.",
+      "LegalShield provides businesses with affordable access to attorneys through a subscription-based model.",
+      "The rating factors used were: Offerings, Value, Transparency, Customer Support, and Overall User Experience."
+    ],
+    "without": [
+      "Boost Suite logo and header image",
+      "Navigation menu items and dropdowns",
+      "Affiliate disclosure notice",
+      "Call-to-action buttons and affiliate links",
+      "Breadcrumb navigation and meta information"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://boostsuite.com/wp-content/uploads/2025/08/best-online-legal-services-selection-process-boost-suite.png",
+          "filename": "best-online-legal-services-selection-process-boost-suite.png",
+          "alt": "Illustration showing the four stages of selecting the best online legal services",
+          "caption": "Illustration showing the four stages of selecting the best online legal services",
+          "is_hero": false
+        },
+        {
+          "src": "https://boostsuite.com/wp-content/uploads/2025/08/online-legal-services-rating-factors-boost-suite.png",
+          "filename": "online-legal-services-rating-factors-boost-suite.png",
+          "alt": "Illustration showing the four stages of selecting the best online legal services",
+          "caption": "Illustration showing the rating factors used to evaluate online legal services",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:19:18.054415"
+}

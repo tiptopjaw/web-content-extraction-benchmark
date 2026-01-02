@@ -1,0 +1,110 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.centrum.com/product-comparison-page/",
+  "file_id": "1081",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "health",
+        "wellness",
+        "multivitamins",
+        "supplements"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Complete Multivitamins with Micronutrients | Centrum",
+    "author": null,
+    "publish_date": null,
+    "main_content": "It’s time to rethink what a multivitamin can do. Taking Centrum Silver daily may slow cognitive aging up to 60%. The COSMOS-Mind study was a large, gold standard clinical trial conducted by leading researchers at Wake Forest University School of Medicine and Brigham and Women's Hospital, Harvard Medical School, and the Harvard T.H. Chan School of Public Health. The study followed 2,262 healthy women and men aged 65+ for 3 years, looking at daily multivitamin use and cognitive function. Centrum Silver was the multivitamin used in the trial. People taking the multivitamin did better on thinking and memory tests than those taking a placebo. Why Vitamins & Supplements: Vitamins work hard to keep our bodies functioning properly and they help drive essential processes needed in our everyday lives. Made with You in Mind - For Your Body's Needs: Committed to helping you feel your best, we've crafted an array of vitamins and dietary supplements that work in harmony with your body and support your body's unique needs. Proven Nutritional Science: Through our expertise, we use the latest in nutritional science to carefully select the right nutrients that deliver the effective vitamins and dietary supplements. A Legacy of Health: We've been at the forefront of the vitamin and dietary supplement category for over 40 years and have become the most recommended multivitamin brand. Featured Products: Centrum Minis Women 50+ - Two easy-to-swallow miniature multivitamin tablets daily are designed to help support heart health, brain function, eye health, and bone strength in women 50+. Centrum Silver Adults - A daily multivitamin formulated for adults 50+ to help promote heart health, brain function, and eye health. Centrum Silver Men - Specially formulated for men 50+ to help support heart health, brain function, healthy eyes, and muscle function.",
+    "with": [
+      "Taking Centrum Silver daily may slow cognitive aging up to 60%",
+      "COSMOS-Mind was a large, gold standard clinical trial conducted by leading researchers at Wake Forest University School of Medicine and Brigham and Women's Hospital",
+      "The study followed 2,262 healthy women and men aged 65+ for 3 years",
+      "Centrum Silver was the multivitamin used in the trial",
+      "We've been at the forefront of the vitamin and dietary supplement category for over 40 years"
+    ],
+    "without": [
+      "Subscribe to newsletter",
+      "Copyright 2025",
+      "Privacy Policy",
+      "Terms & Conditions",
+      "Select Location and Language"
+    ],
+    "images": {
+      "total_in_content": 21,
+      "annotated_count": 9,
+      "items": [
+        {
+          "src": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/bp-wellness-centrum/en_US/sliced-images/our-story/Woman-holding-basket-of-green-produce.webp?auto=format",
+          "filename": "Woman-holding-basket-of-green-produce.webp",
+          "alt": "Woman holding basket of green produce",
+          "caption": "Woman holding basket of green produce",
+          "is_hero": false
+        },
+        {
+          "src": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/bp-wellness-centrum/en_US/sliced-images/Science/Woman-running-on-a-mountain.webp?auto=format",
+          "filename": "Woman-running-on-a-mountain.webp",
+          "alt": "Woman Running on a Mountain",
+          "caption": "Woman Running on a Mountain",
+          "is_hero": false
+        },
+        {
+          "src": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/bp-wellness-centrum/en_US/pages/COSMOS-updates/teal-brain.jpg?auto=format",
+          "filename": "teal-brain.jpg",
+          "alt": "For Your Body’s Needs ",
+          "caption": "For Your Body's Needs",
+          "is_hero": false
+        },
+        {
+          "src": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/bp-wellness-centrum/en_US/sliced-images/global/modules/Young-woman-drinking-bottle-of-water.jpg?auto=format",
+          "filename": "Young-woman-drinking-bottle-of-water.jpg",
+          "alt": "Young woman drinking bottle of water",
+          "caption": "Young woman drinking bottle of water",
+          "is_hero": false
+        },
+        {
+          "src": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/bp-wellness-centrum/en_US/sliced-images/homepage/Leafy-greens-background.jpg?auto=format",
+          "filename": "Leafy-greens-background.jpg",
+          "alt": "Vitamins & Minerals Found in Our Products",
+          "caption": "Vitamins & Minerals Found in Our Products",
+          "is_hero": false
+        },
+        {
+          "src": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/bp-wellness-centrum/en_US/sliced-images/homepage/Sky-background.jpg?auto=format",
+          "filename": "Sky-background.jpg",
+          "alt": "Our Product Benefits",
+          "caption": "Our Product Benefits",
+          "is_hero": false
+        },
+        {
+          "src": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/bp-wellness-centrum/en_US/sliced-images/global/products/NewLook-Centrum-Minis-Women-50plus.jpg?auto=format",
+          "filename": "NewLook-Centrum-Minis-Women-50plus.jpg",
+          "alt": "Centrum Minis Women 50+",
+          "caption": "Centrum Minis Women 50+",
+          "is_hero": true
+        },
+        {
+          "src": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/bp-wellness-centrum/en_US/sliced-images/global/products/NewLook-Centrum-Silver-Adults-50plus.jpg?auto=format",
+          "filename": "NewLook-Centrum-Silver-Adults-50plus.jpg",
+          "alt": "Centrum Silver Adults",
+          "caption": "Centrum Silver Adults",
+          "is_hero": true
+        },
+        {
+          "src": "https://i-cf65.ch-static.com/content/dam/cf-consumer-healthcare/bp-wellness-centrum/en_US/sliced-images/global/products/NewLook-Centrum-Silver-Men-50plus.jpg?auto=format",
+          "filename": "NewLook-Centrum-Silver-Men-50plus.jpg",
+          "alt": "Centrum Silver Men 50+",
+          "caption": "Centrum Silver Men 50+",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:19:44.130388"
+}

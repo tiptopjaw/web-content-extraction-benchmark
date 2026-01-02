@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://mhealth.jmir.org/2019/6/e14273",
+  "file_id": "2020",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "medical research",
+        "mindfulness",
+        "digital health",
+        "randomized controlled trial"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Efficacy of the Mindfulness Meditation Mobile App \"Calm\" to Reduce Stress Among College Students: Randomized Controlled Trial",
+    "author": "Jennifer Huberty",
+    "publish_date": "2019-06-25",
+    "main_content": "Elevated stress has been reported in more than 75% of college students (ie, aged 18-33 years), and college students often report higher levels of stress than people of other age groups. Some studies showed that more than 85% of college students reported feeling overwhelmed. This is likely due to the unique set of stressors and demands they experience as they gain autonomy from their parents, learn to manage finances, balance an increased academic workload and extracurricular activities, and make career choices. These demands may lead to increased anxiety, loneliness, depression, sleep disturbance, and even suicidal ideation.\n\nBackground: College students experience high levels of stress. Mindfulness meditation delivered via a mobile app may be an appealing, efficacious way to reduce stress in college students.\n\nObjective: We aimed to test the initial efficacy and sustained effects of an 8-week mindfulness meditation mobile app—Calm—compared to a wait-list control on stress, mindfulness, and self-compassion in college students with elevated stress. We also explored the intervention's effect on health behaviors (ie, sleep disturbance, alcohol consumption [binge drinking], physical activity, and healthy eating [fruit and vegetable consumption]) and the feasibility and acceptability of the app.\n\nMethods: This study was a randomized, wait-list, control trial with assessments at baseline, postintervention (8 weeks), and at follow-up (12 weeks). Participants were eligible if they were current full-time undergraduate students and (1) at least 18 years of age, (2) scored ≥14 points on the Perceived Stress Scale, (3) owned a smartphone, (4) were willing to download the Calm app, (5) were willing to be randomized, and (7) were able to read and understand English. Participants were asked to meditate using Calm at least 10 minutes per day.\n\nResults: A total of 88 participants were included in the analysis. The mean age (SD) was 20.41 (2.31) years for the intervention group and 21.85 (6.3) years for the control group. There were significant differences in all outcomes (stress, mindfulness, and self-compassion) between the intervention and control groups after adjustment for covariates postintervention (all P<.04). These effects persisted at follow-up (all P<.03), except for the nonreacting subscale of mindfulness (P=.08). Effect sizes ranged from moderate (0.59) to large (1.24) across all outcomes. The majority of students in the intervention group reported that Calm was helpful to reduce stress and stated they would use Calm in the future. The intervention group participated in meditation for an average of 38 minutes/week during the intervention and 20 minutes/week during follow-up.\n\nConclusions: Calm is an effective modality to deliver mindfulness meditation in order to reduce stress and improve mindfulness and self-compassion in stressed college students. Our findings provide important information that can be applied to the design of future studies or mental health resources in university programs.",
+    "with": [
+      "A total of 88 participants were included in the analysis.",
+      "There were significant differences in all outcomes (stress, mindfulness, and self-compassion) between the intervention and control groups.",
+      "Effect sizes ranged from moderate (0.59) to large (1.24) across all outcomes.",
+      "The majority of students in the intervention group reported that Calm was helpful to reduce stress.",
+      "Calm is an effective modality to deliver mindfulness meditation in order to reduce stress and improve mindfulness and self-compassion in stressed college students."
+    ],
+    "without": [
+      "JMIR Publications",
+      "Submit Article",
+      "Skip to Main Content",
+      "Login or Register",
+      "Browse Journal"
+    ],
+    "images": {
+      "total_in_content": 5,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://asset.jmir.pub/assets/db97db6974db2acde8854271b5df7f5f.png",
+          "filename": "db97db6974db2acde8854271b5df7f5f.png",
+          "alt": null,
+          "caption": "Figure 1. Enrollment flow diagram.",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:18:57.698592"
+}

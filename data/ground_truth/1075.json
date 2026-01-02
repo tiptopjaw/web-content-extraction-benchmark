@@ -1,26 +1,54 @@
 {
+  "schema_version": "2.0",
   "url": "https://readingandmath.org/about/in-the-news/",
   "file_id": "1075",
-  "downloaded_at": "2025-12-20T20:50:19.744715",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "news",
+        "press",
+        "education",
+        "tutoring"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "In The News - High-Impact Tutoring - Reading Corps, Math Corps",
     "author": null,
     "publish_date": null,
-    "main_content": "We’re changing the world, one student at a time.\n\nOur Programs in the News\n\nHigh-impact tutoring program seeks to improve Brown County reading proficiency rates\nAt the local level, 115 students within Brown County benefited from Reading Corps services over the past year. These 115 local students received 6,312 tutoring sessions, accounting to over 119,000 minutes of invaluable literacy support. – Go Press Times\n\nReading Corps brings high-impact tutoring to schools across Wisconsin\nThe program uses one-on-one or two-on-one tutors to teach children in kindergarten through third grade to read, using the now-preferred approach known as “science of reading.” – Wisconsin Public Radio\n\nMany Wisconsin students struggle with reading. How does one tutoring group help schools?\nOnly 33% of Wisconsin fourth-graders are at or above proficient reading levels. That’s where Reading Corps comes in. Kindergarten and first-grade students who worked with the program saw a year’s worth of improvement in a semester. – Green Bay Press Gazette\n\nThis Nonprofit Runs the Nation’s 3 Largest Tutoring Programs. Here’s What It’s Learned\nTutoring is having quite the moment, for pretty obvious reasons. What’s less clear is whether “high-dosage tutoring” will turn out to be another overhyped fad or something that actually makes a difference. – Rick Hess, Education Week\n\nFlorida Early Learning Corps Receives $1M Investment\n“I am really grateful for the opportunity to champion early childhood education in the Legislature and to make sure that we are empowering the best practices that we know exist,” said Senator Calatayud, who carried the proposal throughout the last legislative session. – The Miami Times\n\nAmeriCorps delivers large grant to Poughkeepsie\nAmeriCorps State and National Director Sonali Nijhawan was in Poughkeepsie on Thursday to present a $240,000 American Rescue Plan grant to expand AmeriCorps programs in the City of Poughkeepsie and Dutchess County in partnership with local institutions. – Mid Hudson News\n\nWorld Tutor Day is this week\nWith a reminder of the importance of tutors, Sadie O’Connor, president of Reading Corps and Math Corps talks about the need for tutors in Minnesota and how you can help. – CBS News\n\nOn the importance of getting kids reading for fun\nTips for getting your kids into books from the director of Reading Corps. – CBS News\n\nLawmakers get a tour of a newer tutoring program in Idaho\nWhile it hasn’t been around long, it’s already making a difference in the classroom. – KMVT\n\nAmeriCorps looking for tutors in the Hattiesburg area\nAmeriCorps is looking for tutors to assist students in the Hattiesburg Public School System with developing their reading and math skills – WDAM\n\nTEACHER VOICE: Through tutoring, I discovered I love teaching middle schoolers\nTutoring can jump-start careers for college grads and help address the post-pandemic teacher shortage – The Hechinger Report\n\nReading tutors help prepare early learners for kindergarten\nShevrin Jones, executive director of Florida’s Reading Corps, says reading is the one foundation for children that can’t be overlooked – K-12 Dive\n\nIt’s time to declare an education emergency\nWe must act to reverse a disaster. – StarTribune\n\nMedia Inquiries:\nContact:\nSuzanne Pagel\nsuzanne.pagel@ampact.us\n952-960-4724\n\nAmeriCorps in Action.\n\nFinding His Path and His People: A Conversation With MNGOT Member Caleb\nCaleb comes from a family of educators — but even so, when he signed up to be a Math Corps…\n\nSTEM Career Fair Promotes New Opportunities for Tutors\nIn partnership with Cummins Inc., Math Corps hosted its first-ever virtual STEM Career Fair on Tuesday, November 4. With over…\n\nFinding Purpose in the Classroom: A Conversation with MNGOT Member Tamara\nWhen Tamara signed up to be a Reading Corps tutor, she didn’t imagine it would open the door to a…",
+    "main_content": "Our Programs in the News\n\nHigh-impact tutoring program seeks to improve Brown County reading proficiency rates: At the local level, 115 students within Brown County benefited from Reading Corps services over the past year. These 115 local students received 6,312 tutoring sessions, accounting to over 119,000 minutes of invaluable literacy support. – Go Press Times\n\nReading Corps brings high-impact tutoring to schools across Wisconsin: The program uses one-on-one or two-on-one tutors to teach children in kindergarten through third grade to read, using the now-preferred approach known as \"science of reading.\" – Wisconsin Public Radio\n\nMany Wisconsin students struggle with reading. How does one tutoring group help schools?: Only 33% of Wisconsin fourth-graders are at or above proficient reading levels. That's where Reading Corps comes in. Kindergarten and first-grade students who worked with the program saw a year's worth of improvement in a semester. – Green Bay Press Gazette\n\nThis Nonprofit Runs the Nation's 3 Largest Tutoring Programs. Here's What It's Learned: Tutoring is having quite the moment, for pretty obvious reasons. What's less clear is whether \"high-dosage tutoring\" will turn out to be another overhyped fad or something that actually makes a difference. – Rick Hess, Education Week\n\nFlorida Early Learning Corps Receives $1M Investment: \"I am really grateful for the opportunity to champion early childhood education in the Legislature and to make sure that we are empowering the best practices that we know exist,\" said Senator Calatayud, who carried the proposal throughout the last legislative session. – The Miami Times\n\nAmeriCorps delivers large grant to Poughkeepsie: AmeriCorps State and National Director Sonali Nijhawan was in Poughkeepsie on Thursday to present a $240,000 American Rescue Plan grant to expand AmeriCorps programs in the City of Poughkeepsie and Dutchess County in partnership with local institutions. – Mid Hudson News\n\nWorld Tutor Day is this week: With a reminder of the importance of tutors, Sadie O'Connor, president of Reading Corps and Math Corps talks about the need for tutors in Minnesota and how you can help. – CBS News\n\nOn the importance of getting kids reading for fun: Tips for getting your kids into books from the director of Reading Corps. – CBS News\n\nLawmakers get a tour of a newer tutoring program in Idaho: While it hasn't been around long, it's already making a difference in the classroom. – KMVT\n\nAmeriCorps looking for tutors in the Hattiesburg area: AmeriCorps is looking for tutors to assist students in the Hattiesburg Public School System with developing their reading and math skills – WDAM\n\nTEACHER VOICE: Through tutoring, I discovered I love teaching middle schoolers: Tutoring can jump-start careers for college grads and help address the post-pandemic teacher shortage – The Hechinger Report\n\nReading tutors help prepare early learners for kindergarten: Shevrin Jones, executive director of Florida's Reading Corps, says reading is the one foundation for children that can't be overlooked – K-12 Dive\n\nIt's time to declare an education emergency: We must act to reverse a disaster. – StarTribune\n\nMedia Inquiries: Contact Suzanne Pagel suzanne.pagel@ampact.us 952-960-4724",
     "with": [
+      "Our Programs in the News",
       "High-impact tutoring program seeks to improve Brown County reading proficiency rates",
-      "Only 33% of Wisconsin fourth-graders are at or above proficient reading levels. That’s where Reading Corps comes in.",
-      "Tutoring is having quite the moment, for pretty obvious reasons. What’s less clear is whether “high-dosage tutoring” will turn out to be another overhyped fad or something that actually makes a difference.",
-      "Reading Corps, Math Corps, and Early Learning Corps are AmeriCorps tutoring programs proven to help students build strong skills."
+      "Reading Corps brings high-impact tutoring to schools across Wisconsin",
+      "Only 33% of Wisconsin fourth-graders are at or above proficient reading levels. That's where Reading Corps comes in.",
+      "Tutoring is having quite the moment, for pretty obvious reasons. What's less clear is whether 'high-dosage tutoring' will turn out to be another overhyped fad or something that actually makes a difference."
     ],
     "without": [
-      "Skip to content",
-      "Home About Programs Impact Get Involved Find Support",
       "Subscribe to our Newsletter",
-      "© Copyright 2025, Ampact All Rights Reserved Privacy Policy",
-      "Accessibility Tools Increase Text Decrease Text Grayscale High Contrast"
-    ]
+      "© Copyright 2025, Ampact",
+      "Become a Tutor",
+      "Find Support",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 6,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://readingandmath.org/wp-content/uploads/2025/04/NSSA-Badges.png",
+          "filename": "NSSA-Badges.png",
+          "alt": "National Student Support Accelerator Tutoring Program Design badges for Reading Corps and Math Corps 2024-2027.",
+          "caption": "National Student Support Accelerator Tutoring Program Design badges for Reading Corps and Math Corps 2024-2027.",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:50:19.744720"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:18:03.447097"
 }

@@ -1,0 +1,84 @@
+{
+  "schema_version": "2.0",
+  "url": "https://planktonvalhalla.com/20251219-carving-nature-at-your-joints",
+  "file_id": "2735",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "philosophy",
+        "science",
+        "essay",
+        "boundaries",
+        "information-theory",
+        "purpose"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Carving Nature at Your Joints",
+    "author": "Marco Giancotti",
+    "publish_date": "2025-12-19",
+    "main_content": "These are the conclusions—or maybe a sort of capstone—for what you might call the Plankton Valhalla Purpose Series of essays. It all began with an observation: the 'boundaries' we see in reality—the distinction between discrete 'things' in the world around us, concrete or abstract—are figments of our imagination. The fundamental laws of physics do not account for any of them: boundaries shouldn't exist. We found that recursion, the simple situation of something affecting its own future state, is all you need to turn randomness into patterns. I call these unlikely-made-likely results of recursion Water Lilies. They constitute almost everything remotely stable and predictable in our Universe. Human beings use imagined Water Lilies, called 'goals', to design action plans in order to make useful things happen in reality. Information is those differences which make a difference. A difference which makes a difference is an idea or unit of information. But this is not how the average Occidental sees the event sequence of tree felling. He says, 'I cut down the tree' and he even believes that there is a delimited agent, the 'self,' which performed a delimited 'purposive' action upon a delimited object. The raison d'être of all information's difference-making is, of course, purpose. If information is about making some—any—difference, meaning is the specific difference being made in a given case. The anteater, unlike the insectivorous bird, does not devote its cognitive energies to tracking individual insects, sampling their trajectories, and making a fine-grained prediction of their future locations; it just averages over the ant-infested area, and lets its tongue take up the slack. For the anteater, the number of ants has no meaning. The difference between 'this ant' and 'that ant' plays essentially no role in achieving its caloric needs. Thus, no boundaries need exist in its mind between individual ants. We see boundaries because we have goals; we have goals in order to stay alive. We need to use a few tricks to enormously simplify our inner simulations while retaining a modicum of useful foresight. We do that by only focusing on the few differences that make a significant difference for a given purpose, and ignoring all the rest. In our minds we sever the countless ties and interactions that exist between things, retaining only the handful that we care most about. Severing those ties has the effect of turning what is really a seamless network of connections into a set of discrete 'things'. Processing information is living.",
+    "with": [
+      "Information is those differences which make a difference.",
+      "A difference which makes a difference is an idea or unit of information.",
+      "The raison d'être of all information's difference-making is, of course, purpose.",
+      "For the anteater, the number of ants has no meaning. The difference between 'this ant' and 'that ant' plays essentially no role in achieving its caloric needs.",
+      "We see boundaries because we have goals; we have goals in order to stay alive."
+    ],
+    "without": [
+      "Home | Archives | About | Subscribe | RSS",
+      "Copyright 2025 Plankton 💠 Valhalla",
+      "dark mode sans font settings",
+      "Older: Purpose From First Principles",
+      "Subscribe to our newsletter"
+    ],
+    "images": {
+      "total_in_content": 5,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://planktonvalhalla.com/20251219-carving-nature-at-your-joints/henri_martin.webp",
+          "filename": "henri_martin.webp",
+          "alt": null,
+          "caption": "Buste De Jeune Fille Avec Un Couronne De Laurier, Henri Martin",
+          "is_hero": true
+        },
+        {
+          "src": "/20251219-carving-nature-at-your-joints/ilse-orsel-IG8PKLJAYg0-unsplash.webp",
+          "filename": "ilse-orsel-IG8PKLJAYg0-unsplash.webp",
+          "alt": null,
+          "caption": "Photo by Ilse Orsel, Unsplash - A white seagull with an orange beak perched atop a black information sign displaying the lowercase 'i' symbol, against a clear blue sky",
+          "is_hero": false
+        },
+        {
+          "src": "/20251219-carving-nature-at-your-joints/bateson_tree_mind.webp",
+          "filename": "bateson_tree_mind.webp",
+          "alt": null,
+          "caption": "Image by Nano Banana Pro—don't use it as an anatomy reference! - Diagram illustrating Bateson's feedback loop: five panels connected by arrows in a circle showing 'Differences in Tree', 'Differences in Retina', 'Differences in Brain', 'Differences in Muscles', and 'Differences in Movement of Axe'",
+          "is_hero": false
+        },
+        {
+          "src": "/20251219-carving-nature-at-your-joints/jan-meeus-7LsuYqkvIUM-unsplash.webp",
+          "filename": "jan-meeus-7LsuYqkvIUM-unsplash.webp",
+          "alt": null,
+          "caption": "Photo by Jan Meeus, Unsplash - A European robin with distinctive orange-red breast perched on a moss-covered branch, singing with beak open",
+          "is_hero": false
+        },
+        {
+          "src": "/20251219-carving-nature-at-your-joints/anteater.webp",
+          "filename": "anteater.webp",
+          "alt": null,
+          "caption": "The Great Anteater, Joseph Wolf - 19th-century natural history illustration showing two giant anteaters in a tropical forest, one large with its long string-like tongue extending out of its elongated snout, a smaller one visible in front of it",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:27:24.170111"
+}

@@ -1,24 +1,82 @@
 {
+  "schema_version": "2.0",
   "url": "https://moz.com/beginners-guide-to-seo",
   "file_id": "0980",
-  "downloaded_at": "2025-12-20T21:12:59.899540",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "seo",
+        "guide",
+        "education",
+        "tutorial"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Beginner's Guide to SEO (Search Engine Optimization)",
+    "title": "Beginner's Guide to SEO (Search Engine Optimization) - Moz",
     "author": null,
     "publish_date": "2022-10-05",
-    "main_content": "Welcome to your SEO learning journey! You'll get the most out of this guide if your desire to learn search engine optimization (SEO) is exceeded only by your willingness to execute and test concepts. This guide is designed to describe all major aspects of SEO, from finding the terms and phrases (keywords) that can generate qualified traffic to your website, to making your site friendly to search engines, to building links and marketing the unique value of your site. The world of search engine optimization is complex and ever-changing, but you can easily understand the basics, and even a small amount of SEO knowledge can make a big difference. Free SEO education is also widely available on the web, including in guides like this! (Woohoo!) Combine this information with some practice and you are well on your way to becoming a savvy SEO.\n\nThe basics of search engine optimization. Ever heard of Maslow's hierarchy of needs? It's a theory of psychology that prioritizes the most fundamental human needs (like air, water, and physical safety) over more advanced needs (like esteem and social belonging). The theory is that you can't achieve the needs at the top without ensuring the more fundamental needs are met first. Love doesn't matter if you don't have food. Our founder, Rand Fishkin, made a similar pyramid to explain the way folks should go about SEO, and we've affectionately dubbed it \"Mozlow's hierarchy of SEO needs.\" Here's what it looks like: As you can see, the foundation of good SEO begins with ensuring crawl accessibility, and moves up from there. Using this beginner's guide, we can follow these seven steps to successful SEO: 1. Crawl accessibility so engines can read your website 2. Compelling content that answers the searcher’s query 3. Keyword optimized to attract searchers & engines 4. Great user experience including a fast load speed and compelling UX 5. Share-worthy content that earns links, citations, and amplification 6. Title, URL, & description to draw high click-through-rate (CTR) in the rankings 7. Snippet/schema markup to stand out in SERPs. We'll spend time on each of these areas throughout this guide, but we wanted to introduce it here because it offers a look at how we structured the guide as a whole. Explore the chapters:\n\nChapter 0: Quick Start Guide to SEO. Speed up to catch up. Go from zero to hero with our step-by-step refresh on the core fundamentals for setting your site up for SEO success.\n\nChapter 1: SEO 101. What is it, and why is it important? For true beginners. Learn what search engine optimization is, why it matters, and all the need-to-know basics to start yourself off right. Download your free Quick Start Worksheet.\n\nChapter 2: How Search Engines Work – Crawling, Indexing, and Ranking. First, you need to show up. If search engines literally can't find you, none of the rest of your work matters. This chapter shows you how their robots crawl the Internet to find your site and add it to their indexes.\n\nChapter 3: Keyword Research. Understand what your audience wants to find. Our approach targets users first because that's what search engines reward. This chapter covers keyword research and other methods to determine what your audience is seeking.\n\nChapter 4: On-Page SEO. Use your research to craft your message. This is a hefty chapter, covering optimized design, user experience, information architecture, and all the ways you can adjust how you publish content to maximize its visibility and resonance with your audience.\n\nChapter 5: Technical SEO. Basic technical knowledge will help you optimize your site for search engines and establish credibility with developers. By implementing responsive design, robot directives, and other technical elements like structured data and meta tags, you can tell Google (a robot itself) what your site is all about. This helps it rank for the right things.\n\nChapter 6: Link Building & Establishing Authority. Turn up the volume. Once you've got everything in place, it's time to expand your influence by earning attention and links from other sites and influencers.\n\nChapter 7: Measuring, Prioritizing, & Executing SEO Success. Set yourself up for success. An essential part of SEO is knowing what's working (and what isn't), adjusting your approach as you go along.\n\nChapter 8: SEO Glossary of Terms. Understand key terms and phrases. Learning SEO can sometimes feel like learning another language, with all the jargon and industry terms you're expected to know. This chapter-by-chapter glossary will help you get a handle on all the new words.\n\nMoz Academy SEO Essentials Certification. Organize your learning with Moz's SEO Essentials Certification. Learn with on-demand videos and task lessons, test your knowledge with exams at the end of each section, and top it all off with shiny new credentials to share with your professional network.\n\nHow much of this guide do I need to read? If you're serious about improving search traffic we do recommend reading the Beginner's Guide to SEO front-to-back. We've tried to make it as concise and easy to understand as possible, and learning the basics of SEO is a vital first step in achieving your online business goals. Go through at the pace that suits you best, and be sure to take note of the dozens of resources we link to throughout the chapters — they're also worthy of your attention. If you want to take a more guided approach to learning SEO or training your entire team, check out the Moz Academy SEO Essentials Certification. We've consolidated all the resources you need to learn SEO fundamentals alongside unique learning methods, task lessons and quizzes to test your knowledge. You can also display your knowledge with your Linkedin Moz SEO Essentials certification badge. Getting excited yet? You should be! Without further ado, let's launch into Chapter 0: Quick Start Guide.",
+    "main_content": "Welcome to your SEO learning journey! You'll get the most out of this guide if your desire to learn search engine optimization (SEO) is exceeded only by your willingness to execute and test concepts. This guide is designed to describe all major aspects of SEO, from finding the terms and phrases (keywords) that can generate qualified traffic to your website, to making your site friendly to search engines, to building links and marketing the unique value of your site. The world of search engine optimization is complex and ever-changing, but you can easily understand the basics, and even a small amount of SEO knowledge can make a big difference.\n\nThe foundation of good SEO begins with ensuring crawl accessibility, and moves up from there. Using this beginner's guide, we can follow these seven steps to successful SEO: Crawl accessibility so engines can read your website; Compelling content that answers the searcher's query; Keyword optimized to attract searchers & engines; Great user experience including a fast load speed and compelling UX; Share-worthy content that earns links, citations, and amplification; Title, URL, & description to draw high click-through-rate (CTR) in the rankings; Snippet/schema markup to stand out in SERPs.\n\nThe guide covers multiple chapters including: Quick Start Guide to SEO, SEO 101, How Search Engines Work – Crawling, Indexing, and Ranking, Keyword Research, On-Page SEO, Technical SEO, Link Building & Establishing Authority, and Measuring, Prioritizing, & Executing SEO Success. If you're serious about improving search traffic we do recommend reading the Beginner's Guide to SEO front-to-back.",
     "with": [
-      "Welcome to your SEO learning journey! You'll get the most out of this guide if your desire to learn search engine optimization (SEO) is exceeded only by your willingness to execute and test concepts.",
-      "Using this beginner's guide, we can follow these seven steps to successful SEO: 1. Crawl accessibility so engines can read your website 2. Compelling content that answers the searcher’s query 3. Keyword optimized to attract searchers & engines 4. Great user experience including a fast load speed and compelling UX 5. Share-worthy content that earns links, citations, and amplification 6. Title, URL, & description to draw high click-through-rate (CTR) in the rankings 7. Snippet/schema markup to stand out in SERPs.",
-      "If you're serious about improving search traffic we do recommend reading the Beginner's Guide to SEO front-to-back. We've tried to make it as concise and easy to understand as possible, and learning the basics of SEO is a vital first step in achieving your online business goals."
+      "You'll get the most out of this guide if your desire to learn search engine optimization (SEO) is exceeded only by your willingness to execute and test concepts.",
+      "The foundation of good SEO begins with ensuring crawl accessibility, and moves up from there.",
+      "Crawl accessibility so engines can read your website; Compelling content that answers the searcher's query; Keyword optimized to attract searchers & engines.",
+      "Great user experience including a fast load speed and compelling UX; Share-worthy content that earns links, citations, and amplification.",
+      "If you're serious about improving search traffic we do recommend reading the Beginner's Guide to SEO front-to-back."
     ],
     "without": [
-      "Products Moz Pro Moz Local Moz API Moz Data STAT Product Updates",
-      "Get started with Moz Pro! Unlock the power of advanced SEO tools and data-driven insights.",
-      "© 2021 - 2025 SEOMoz, Inc., a Ziff Davis company. All rights reserved. Moz is a registered trademark of SEOMoz, Inc.",
-      "Last chance to save up to 40% - ends today!"
-    ]
+      "Skip to content",
+      "Products Free SEO Tools Learn SEO Blog Why Moz Log in",
+      "© 2021 - 2025 SEOMoz, Inc., a Ziff Davis company. All rights reserved.",
+      "Privacy Terms of Use Accessibility",
+      "Share Facebook Twitter LinkedIn Copy link"
+    ],
+    "images": {
+      "total_in_content": 11,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://moz.com/files/learn/guides/BGSEOIntro.svg?dm=1562702786",
+          "filename": "BGSEOIntro.svg",
+          "alt": null,
+          "caption": "The Beginner's Guide to SEO banner image",
+          "is_hero": true
+        },
+        {
+          "src": "https://moz.com/files/learn/guides/Mozlows-01-outline.svg?dm=1554154345",
+          "filename": "Mozlows-01-outline.svg",
+          "alt": "Guide to SEO Basics",
+          "caption": "Mozlow's hierarchy of SEO needs - Guide to SEO Basics",
+          "is_hero": false
+        },
+        {
+          "src": "https://moz.com/files/learn/guides/BGSEO-Quickstart.svg?dm=1671725853",
+          "filename": "BGSEO-Quickstart.svg",
+          "alt": "Quick Start Guide to SEO",
+          "caption": "Quick Start Guide to SEO chapter thumbnail",
+          "is_hero": false
+        },
+        {
+          "src": "https://moz.com/files/learn/guides/BGSEOSEO101.svg?dm=1562715658",
+          "filename": "BGSEOSEO101.svg",
+          "alt": "SEO 101",
+          "caption": "SEO 101 chapter thumbnail",
+          "is_hero": false
+        },
+        {
+          "src": "https://moz.com/files/learn/guides/BGSEOHow-Engines-Work.svg?dm=1562715402",
+          "filename": "BGSEOHow-Engines-Work.svg",
+          "alt": "How Search Engines Work: Crawling, Indexing, and Ranking",
+          "caption": "How Search Engines Work: Crawling, Indexing, and Ranking chapter thumbnail",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:12:59.899545"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:29:30.181744"
 }

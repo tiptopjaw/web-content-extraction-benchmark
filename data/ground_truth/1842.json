@@ -1,0 +1,102 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.hbook.com/section/bookreviews",
+  "file_id": "1842",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "books",
+        "reviews",
+        "children's literature"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Book Reviews",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Book Reviews listing page containing multiple reviews of children's and young adult literature. Featured reviews include: Review of Dear Acorn (Love, Oak): Letter Poems to Friends by Joyce Sidman; illus. by Melissa Sweet - In eight pairs of poems, Sidman creates dialogues between two subjects, some in nature (cloud and droplets), some human-made elements (button and coat). Board Book Roundup: That's About the Size of It by Rachel G. Payne - An average of six-by-six inches is what I see most often. It's a good size for perusing, carrying, and even stacking by board books' very young audience. Review of Trapped in the Tar Pit: How Paleontologists Unearthed a City's Prehistoric Past by Jessica Stremer; illus. by Alexander Vidal - The fascinating story of the La Brea Tar Pits gets a wonderful introduction in Stremer's (Plight of the Pelican, rev. 7/20). Review of The Winter of the Dollhouse by Laura Amy Schlitz - Tiph is a child who is pulled in many directions. She loves her younger half siblings but is fed up with the chaos of a house with babies. Review of Moon Song by Michaela Goade; illus. by the author - As a family goes to bed on a cold night, a young girl begins a story to ease her cousin to sleep. The tale unfolds as a walk through the world around them. Fanfare 2025 Annotations by Horn Book - There's nothing like a good library haul! Here's mine, following the January/February 2026 Horn Book Magazine issue-to-press date. It's the issue that begins our hundred-and-second year and contains all the 2025 Boston Globe–Horn Book Awards speeches along with Fanfare. Review of Imogen: The Life and Work of Imogen Cunningham by Elizabeth Partridge; illus. by Yuko Shimizu - Imogen Cunningham (1883–1976) was born into a large, loving family in the Pacific Northwest at the tail end of the nineteenth century. Fanfare 2025 extras - Read more by and about some of our Fanfare 2025 authors and illustrators below. Review of The Last Resort by Erin Entrada Kelly; illus. by Naomi Franquiz - In this supernatural murder mystery, the versatile Kelly (2025 Newbery medalist for The First State of Being, rev. 5/24) skillfully balances otherworldly horrors with more realistic concerns.",
+    "with": [
+      "In eight pairs of poems, Sidman creates dialogues between two subjects, some in nature (cloud and droplets), some human-made elements (button and coat).",
+      "An average of six-by-six inches is what I see most often. It's a good size for perusing, carrying, and even stacking by board books' very young audience.",
+      "The fascinating story of the La Brea Tar Pits gets a wonderful introduction in Stremer's (Plight of the Pelican, rev. 7/20).",
+      "Tiph is a child who is pulled in many directions. She loves her younger half siblings but is fed up with the chaos of a house with babies.",
+      "As a family goes to bed on a cold night, a young girl begins a story to ease her cousin to sleep. The tale unfolds as a walk through the world around them."
+    ],
+    "without": [
+      "SUBSCRIBE",
+      "Login",
+      "Copyright 2024 The Horn Book, Inc.",
+      "Privacy Policy",
+      "Filter by Category"
+    ],
+    "images": {
+      "total_in_content": 27,
+      "annotated_count": 8,
+      "items": [
+        {
+          "src": "https://s3.amazonaws.com/ArchiveImages/HB/2025/08/9780358334767.jpg",
+          "filename": "9780358334767.jpg",
+          "alt": "Review of Dear Acorn (Love, Oak): Letter Poems to Friends",
+          "caption": "Review of Dear Acorn (Love, Oak): Letter Poems to Friends",
+          "is_hero": false
+        },
+        {
+          "src": "/binaries/content/gallery/hbook/2025/12/teckentrup.jpg/teckentrup.jpg/hbook%3ASevenHundred",
+          "filename": "hbook%3ASevenHundred",
+          "alt": "Board Book Roundup: That's About the Size of It",
+          "caption": "Board Book Roundup: That's About the Size of It",
+          "is_hero": false
+        },
+        {
+          "src": "https://s3.amazonaws.com/ArchiveImages/HB/2025/09/9781665953177.jpg",
+          "filename": "9781665953177.jpg",
+          "alt": "Review of Trapped in the Tar Pit: How Paleontologists Unearthed a City’s Prehistoric Past",
+          "caption": "Review of Trapped in the Tar Pit: How Paleontologists Unearthed a City's Prehistoric Past",
+          "is_hero": false
+        },
+        {
+          "src": "https://s3.amazonaws.com/ArchiveImages/HB/2025/08/9781536236088.jpg",
+          "filename": "9781536236088.jpg",
+          "alt": "Review of The Winter of the Dollhouse",
+          "caption": "Review of The Winter of the Dollhouse",
+          "is_hero": false
+        },
+        {
+          "src": "https://s3.amazonaws.com/ArchiveImages/HB/2025/08/9780316461634.jpg",
+          "filename": "9780316461634.jpg",
+          "alt": "Review of Moon Song",
+          "caption": "Review of Moon Song",
+          "is_hero": false
+        },
+        {
+          "src": "/binaries/content/gallery/hbook/2025/12/fanfare-square-png.png/fanfare-square-png.png/hbook%3ASevenHundred",
+          "filename": "hbook%3ASevenHundred",
+          "alt": "Fanfare 2025 Annotations",
+          "caption": "Fanfare 2025 Annotations",
+          "is_hero": false
+        },
+        {
+          "src": "https://s3.amazonaws.com/ArchiveImages/HB/2025/09/9781984835185.jpg",
+          "filename": "9781984835185.jpg",
+          "alt": "Review of Imogen: The Life and Work of Imogen Cunningham",
+          "caption": "Review of Imogen: The Life and Work of Imogen Cunningham",
+          "is_hero": false
+        },
+        {
+          "src": "https://s3.amazonaws.com/ArchiveImages/HB/2025/08/9781546132431.jpg",
+          "filename": "9781546132431.jpg",
+          "alt": "Review of The Last Resort",
+          "caption": "Review of The Last Resort",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:35:57.482493"
+}

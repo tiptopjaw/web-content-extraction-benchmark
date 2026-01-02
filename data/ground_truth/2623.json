@@ -1,25 +1,82 @@
 {
+  "schema_version": "2.0",
   "url": "https://openpath.quest/2025/something-big-happened-in-1998",
   "file_id": "2623",
-  "downloaded_at": "2025-12-20T23:50:32.616949",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "history",
+        "open-source",
+        "os"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Something Big Happened in 1998",
     "author": "Chad Whitacre",
     "publish_date": "2025-12-19",
-    "main_content": "37signals recently launched a source-available software product that they choose to call open source, in open defiance of the Open Source Initiative’s Open Source Definition (OSI’s OSD). Paul Sawers has a good roundup of responses (here’s my contribution).\n\nMoving a conversation from X to GitHub is almost always a good idea, so I opened a PR inviting 37signals to join Fair Source, the initiative we launched a year ago to carve out a niche for the best of non-compete, source-available, eventually Open Source licensing. DHH graciously hosted some healthy back and forth (most of it after closing the PR). Fair Source collaborator Zeke Gabrielse since furthered the case on his blog. I want to zoom in on one particular claim that came up.\n\nThe Etymological Ploy\n\nDetractors of OSI and the Open Source Definition sometimes attempt to undermine them by contesting the history of the term “open source.” David, for example (emphasis mine):\n\nOSI failed to gain the open source trademark for a reason. It was already in wide circulation by the time they sought to institutionalize a specific definition that was different from the one derived from the words.\n\nThis is false.\n\nYes, OSI abandoned its application to trademark “open source.” Yes, this is an inconvenient truth for an organization that understands itself to be the “steward of the Open Source Definition.” Yes, representatives of OSI have at times been clumsy (to put it mildly) in handling this truth, and that has eroded trust.\n\nYes, Christine Peterson’s statement, “I am the originator of the term ‘open source software’,” needs some qualification to fully square with anecdotal evidence of the term’s appearance prior to OSI’s founding, such as Dieter Plaetinck has collected. That said, while there were a handful of outlier references to “open source” prior to OSI, “wide circulation” there was not.\n\nA Clearer Picture\n\nLet’s look at four charts that paint a more complete picture of the history of the term “open source,” and its prevalence before and after the founding of OSI in February of 1998. We’ll move from broad to specific datasets.\n\nBooks\n\nGoogle provides a tool to search and compare terms across essentially all English books. Comparing the frequency of “free software” and “open source” shows a clear explosion in usage of the latter, coincident with the founding of the Open Source Initiative. Prior to that, “open source” does not appear to have been “in wide circulation.”\n\n(Both “open source” and “free software” have additional meanings unrelated to our subject, such as open source intelligence, and freeware. I take it that the noise for both is roughly equal, so their relative frequency is still indicative.)\n\nMagazines\n\nIn the 1980s and 1990s, print magazines were an important venue for communication. PC Magazine, PC World, and Byte are the three most relevant for us with accessible archives. Internet Archive has a partial archive for the first. Vintage Apple has full archives for the other two.\n\nThe pattern is similar in magazines as in books: effectively nobody was talking about Open Source until OSI introduced it with the Open Source Definition.\n\nUsenet\n\nUsenet was an online forum that lasted from 1979 into the ’20s. It was an important venue of early Internet activity, including collaborative software development. Internet Archive has a historical collection.\n\nI analyzed the ~53 million posts to the comp.* newsgroups from 1986 to 2013. I found a clear explosion in usage of the term “open source” at the founding of OSI. 0.004% of posts mentioned the term pre-OSI, compared with 0.686% post-OSI. That’s a 19,282% increase.\n\nThe conversation in comp.* would have been much more technical than in the general computing magazines, let alone the Google Books corpus. If there is one place to expect “open source” to have been “in wide circulation,” it would be here. It wasn’t, until OSI came along.\n\nThe Hecker Memo\n\nPerhaps the starkest illustration of the watershed in the etymology of “open source” that occurred at OSI’s founding is Frank Hecker’s memo, which we have in two versions:\n\n1. “Netscape Source Code as Netscape Product,” published internally at Netscape on November 11, 1997\n2. “Setting Up Shop: The Business of Open-Source Software,” reworked for an external audience in May, 1998\n\nWhat happened in between? The founding of OSI. In fact, it was precisely Frank’s memo that led Netscape to publish their source code. Frank was a sales engineer, offering up a (failed) hail mary against the 800 lb. gorilla, Microsoft. Free software advocates seized the moment to accelerate their own agenda, and the Open Source movement was born.\n\n(Incidentally, Frank decided to publish the original memo for the first time just last year, during an email exchange he and I had while I was writing “The Historical Case for Fair Source.” Kinda fun. :)\n\nIn the post-OSI version of Frank’s memo, I count 305 usages of the term “open source,” where of course its meaning is bound to the then-freshly minted Open Source Definition. In the pre-OSI original? Exactly one.\n\nForest and Trees\n\nYes, there’s a couple trees back there. Let’s not lose sight of the forest. Something big happened in 1998. Whatever your opinion of events since, it’s reasonable to accept that the Open Source Initiative founded the Open Source movement with the Open Source Definition.\n\nWhat Now?\n\nI for one happily acknowledge a debt of awe and gratitude to the (imperfect) founders of OSI and the Open Source movement. The best way I know to pay this debt is forward: to contribute constructively to the future of both.\n\nI appreciate Dieter brainstorming better “ways the OSI could introduce itself and its mission.” Wikipedia’s framing seems balanced: “The Open Source Definition (OSD) is the most widely accepted standard for open-source software.”\n\nI also appreciate Kyle Mitchell’s conclusion (emphasis mine):\n\n[N]o person and no organization [legally] owns the phrase “open source” as we know it. […] Our right to speak the term freely, and to argue for our own meanings, understandings, and aspirations, isn’t impinged by anyone’s private property.\n\nThat right extends to debate about how we ought or ought not use the term, for OSI partisans as well as those annoyed, bemused, and abused by them. But that debate must be won by reason and suasion, not harassment and naked claims to authority.\n\nThere’s a real beauty in the (unintended) placement of the term “open source” outside the realm of legal recourse. It fits the broader political economy of Open Source: in the words of RFC 2119, we are in the realm not of MUST or MAY but of SHOULD. There are deep conversations to be had here about Open Source, society at large, and the role of OSI. Let’s do more of that, and less bad etymology.",
+    "main_content": "37signals recently launched a source-available software product that they choose to call open source, in open defiance of the Open Source Initiative's Open Source Definition. The author opened a PR inviting 37signals to join Fair Source, the initiative they launched a year ago. Detractors of OSI sometimes attempt to undermine them by contesting the history of the term 'open source,' claiming it was already in wide circulation by the time OSI sought to institutionalize a specific definition. This is false. While there were a handful of outlier references to 'open source' prior to OSI, 'wide circulation' there was not. Charts from Google Books show a clear explosion in usage of 'open source' coincident with the founding of OSI in February 1998. The pattern is similar in magazines: effectively nobody was talking about Open Source until OSI introduced it with the Open Source Definition. Analysis of ~53 million Usenet posts to comp.* newsgroups from 1986 to 2013 found a clear explosion at OSI's founding: 0.004% of posts mentioned the term pre-OSI, compared with 0.686% post-OSI, a 19,282% increase. The Hecker Memo illustrates this watershed: the post-OSI version has 305 usages of 'open source' bound to the OSD, while the pre-OSI original has exactly one. Something big happened in 1998. It is reasonable to accept that OSI founded the Open Source movement with the Open Source Definition.",
     "with": [
-      "37signals recently launched a source-available software product that they choose to call open source, in open defiance of the Open Source Initiative’s Open Source Definition (OSI’s OSD).",
-      "Something big happened in 1998. Whatever your opinion of events since, it’s reasonable to accept that the Open Source Initiative founded the Open Source movement with the Open Source Definition.",
-      "I analyzed the ~53 million posts to the comp.* newsgroups from 1986 to 2013. I found a clear explosion in usage of the term “open source” at the founding of OSI. 0.004% of posts mentioned the term pre-OSI, compared with 0.686% post-OSI. That’s a 19,282% increase."
+      "Something big happened in 1998. Whatever your opinion of events since, it's reasonable to accept that the Open Source Initiative founded the Open Source movement with the Open Source Definition.",
+      "Charts from Google Books show a clear explosion in usage of 'open source' coincident with the founding of the Open Source Initiative.",
+      "Analysis of ~53 million posts to the comp.* newsgroups found a clear explosion in usage of the term 'open source' at the founding of OSI.",
+      "In the post-OSI version of Frank's memo, I count 305 usages of the term 'open source,' where of course its meaning is bound to the then-freshly minted Open Source Definition. In the pre-OSI original? Exactly one.",
+      "This debate must be won by reason and suasion, not harassment and naked claims to authority."
     ],
     "without": [
-      "Disclosure / advertisement: I work for Sentry.",
-      "tl;dr It is reasonable to accept that OSI founded Open Source with the Open Source Definition.",
-      "© Chad Whitacre ❧ Home",
       "Subscribe for Updates",
-      "Email updates powered by Buttondown."
-    ]
+      "© Chad Whitacre",
+      "Email updates powered by Buttondown",
+      "RSS social link icon",
+      "Open Path - Home"
+    ],
+    "images": {
+      "total_in_content": 10,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "books.webp",
+          "filename": "books.webp",
+          "alt": null,
+          "caption": "Google Books Ngram chart comparing 'open source' and 'free software' frequency from 1970-2022",
+          "is_hero": false
+        },
+        {
+          "src": "magazines.webp",
+          "filename": "magazines.webp",
+          "alt": null,
+          "caption": "Magazine archives chart showing Open Source mentions in PC Magazine, PC World, and Byte",
+          "is_hero": false
+        },
+        {
+          "src": "comp.webp",
+          "filename": "comp.webp",
+          "alt": null,
+          "caption": "Usenet comp.* newsgroups chart showing 'open source' usage explosion at OSI founding",
+          "is_hero": false
+        },
+        {
+          "src": "hecker.webp",
+          "filename": "hecker.webp",
+          "alt": null,
+          "caption": "Hecker Memo chart comparing pre-OSI and post-OSI usage of 'open source' term",
+          "is_hero": false
+        },
+        {
+          "src": "trees.webp",
+          "filename": "trees.webp",
+          "alt": null,
+          "caption": "Forest and trees summary visualization of the etymology of 'open source'",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:50:32.616954"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:28:42.520921"
 }

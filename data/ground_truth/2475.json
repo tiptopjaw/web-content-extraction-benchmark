@@ -1,0 +1,90 @@
+{
+  "schema_version": "2.0",
+  "url": "https://bassmusicianmagazine.com/2025/12/new-album-hearty-breakfast-sensible-dinner",
+  "file_id": "2475",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "music",
+        "album-review",
+        "bass-cd",
+        "jazz",
+        "progressive-rock"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "New Album: Hearty Breakfast, Sensible Dinner",
+    "author": "Bass Musician",
+    "publish_date": "2025-12-16",
+    "main_content": "Mike Goodspeed's 'Hearty Breakfast, Sensible Dinner' oscillates between progressive rock, folk and cinematic music. The album is out on New Year's Day, 2026, marking his first release since 2024's 'Family Truckster.' Throughout 2025, Goodspeed continued to release singles, with each track finding its own unique lane while evading easy classification.\n\nThe lead-off track 'Coming To Getcha' features Zappa-inspired writing and stick work by Jesse Stiglich. The folksy tracks 'Hard To Fathom' and 'Uncertainty' showcase gentle, aching double bass melodies. Cinematic pieces like 'Abandoned' and 'Timeline Of The Far Future' explore mysterious territory using the full range of the 5-string double bass. 'Blue Icicles' ventures into ambient territory with a hypnotic open harmonic motif, while 'Night Runner' features a furious tapped ostinato on Goodspeed's G&L ASAT 4-string.\n\nA notable cover of Peter Gabriel's 'I Don't Remember' sees Goodspeed attacking his fretless Carvin to imitate Tony Levin's classic Chapman Stick part. The new track 'Duly Noted' is a straight-ahead instrumental rock tune featuring Brazilian percussionist Alessandro Moleta, closing the album on an upbeat note.\n\nThe album offers plenty to ponder while retaining a sense of fun and adventure. Goodspeed's releases are available on Spotify, Apple Music, Amazon Music, and are in rotation on Amazing Radio. For more information, visit www.mikegoodspeedmusic.com.",
+    "with": [
+      "Mike Goodspeed's 'Hearty Breakfast, Sensible Dinner' oscillates between progressive rock, folk and cinematic music.",
+      "The album is out on New Year's Day, 2026, marking his first release since 2024's 'Family Truckster.'",
+      "Lead off track 'Coming To Getcha' features Zappa-inspired writing and the stick work of fellow Massachusetts resident Jesse Stglich.",
+      "The folksy 'Hard To Fathom' and 'Uncertainty' feature gentle, aching double bass melodies.",
+      "Goodspeed's releases are available on Spotify, Apple Music, Amazon Music, and are in rotation on Amazing Radio."
+    ],
+    "without": [
+      "Subscribe to our newsletter",
+      "Copyright 2025 Bass Musician Magazine",
+      "Main navigation menu items",
+      "Social media follow buttons",
+      "Ad server banner placeholders"
+    ],
+    "images": {
+      "total_in_content": 24,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "https://bassmusicianmagazine.com/wp-content/uploads/2025/12/New-Album-Hearty-Breakfast-Sensible-Dinner.jpg",
+          "filename": "New-Album-Hearty-Breakfast-Sensible-Dinner.jpg",
+          "alt": "New Album- Hearty Breakfast, Sensible Dinner",
+          "caption": "New Album- Hearty Breakfast, Sensible Dinner",
+          "is_hero": true
+        },
+        {
+          "src": "https://i0.wp.com/bassmusicianmagazine.com/wp-content/uploads/2025/12/New-Album-Corcoran-Holt-Freedom-of-Art-.jpg?resize=400%2C240&quality=89&ssl=1",
+          "filename": "New-Album-Corcoran-Holt-Freedom-of-Art-.jpg",
+          "alt": "New Album- Corcoran Holt, Freedom of Art ",
+          "caption": "New Album: Corcoran Holt, Freedom of Art",
+          "is_hero": false
+        },
+        {
+          "src": "https://i0.wp.com/bassmusicianmagazine.com/wp-content/uploads/2025/11/New-Album-Bassist-and-Composer-Rafael-Enciso-Crossfade.jpg?resize=400%2C240&quality=89&ssl=1",
+          "filename": "New-Album-Bassist-and-Composer-Rafael-Enciso-Crossfade.jpg",
+          "alt": "New Album: Bassist and Composer Rafael Enciso, Crossfade",
+          "caption": "New Album: Bassist and Composer Rafael Enciso, Crossfade",
+          "is_hero": false
+        },
+        {
+          "src": "https://i0.wp.com/bassmusicianmagazine.com/wp-content/uploads/2025/11/New-Album-Jakob-Dreyer-Roots-and-Things.jpg?resize=400%2C240&quality=89&ssl=1",
+          "filename": "New-Album-Jakob-Dreyer-Roots-and-Things.jpg",
+          "alt": "New Album: Jakob Dreyer, Roots and Things",
+          "caption": "New Album: Jakob Dreyer, Roots and Things",
+          "is_hero": false
+        },
+        {
+          "src": "https://i0.wp.com/bassmusicianmagazine.com/wp-content/uploads/2025/11/New-Album-Alune-Wade-New-African-Orleans.jpg?resize=400%2C240&quality=89&ssl=1",
+          "filename": "New-Album-Alune-Wade-New-African-Orleans.jpg",
+          "alt": "New Album: Alune Wade, New African Orleans",
+          "caption": "New Album: Alune Wade, New African Orleans",
+          "is_hero": false
+        },
+        {
+          "src": "https://i0.wp.com/bassmusicianmagazine.com/wp-content/uploads/2025/11/New-Album-Jon-von-Boehm-Reflections.jpg?resize=400%2C240&quality=89&ssl=1",
+          "filename": "New-Album-Jon-von-Boehm-Reflections.jpg",
+          "alt": "New Album: Jon von Boehm, Reflections",
+          "caption": "New Album: Jon von Boehm, Reflections",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:33:40.772009"
+}

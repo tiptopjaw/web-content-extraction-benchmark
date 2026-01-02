@@ -1,27 +1,83 @@
 {
+  "schema_version": "2.0",
   "url": "https://informaconnect.com/art-of-catering-food/top-5-food-trends-at-aocf-2025/",
   "file_id": "1135",
-  "downloaded_at": "2025-12-20T21:26:44.904456",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "food",
+        "catering",
+        "trends",
+        "culinary",
+        "guide"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Top 5 Food Trends at AOCF 2025",
+    "title": "Top 5 Food Trends at AOCF 2025 | Art of Catering Food",
     "author": null,
     "publish_date": null,
-    "main_content": "The Art of Catering Food remains a platform for showcasing the latest trends and bringing visionary chefs together. Throughout the two-day conference, our creative chefs introduced attendees to new ingredients, and fresh ideas for menus, recipes, and stations. The culinary inspiration was limitless! Using information provided by Cater + Event, we compiled a selection of some trends presented at AOCF that are currently shaping the catering landscape.\n\n1. Mini Desserts\nThe trend toward mini desserts has been growing, as noted by Spuntino Catering and Chef Toni Roberts, the pastry chef at The Ritz-Carlton, Chicago - driven by the popularity of grazing tables and personalized culinary experiences. Bite-sized treats are becoming more popular as they offer variety and cater to different guest preferences without overwhelming portions.\nChef Nettie Frank walked attendees through how to repurpose leftover desserts into new bite-sized offerings during her session Let Them Eat Cake: 10 New Sweet & Savory Dessert Ideas. Her Cake Fries are also a great example of incorporating sustainable practices into every aspect of your catering to reduce food waste.\n\n2. Saucy Green\nAs consumers gravitate towards natural, clean products and plant-forward movements, classic herbs and whole-ingredient green sauces are gaining popularity in diverse applications. Unique pestos, chimichurri, salsa verde, and many more green herbaceous sauces are adding visual appeal and vibrant flavor to menus nationwide.\nJenny Bast (Catering Creations) and Jonadel Tarrayo (Daniel et Daniel) sampled a Pickled Jalapeno Chimichurri sauce during their session Creating Culinary Flavor Bombs in Bulk, which explored a variety of techniques and examples of how flavor bombs (or little bursts of flavor) are used in their kitchens, months after they have been created.\n\n3. Plant-Based BBQ\nSustainability continues to thrive, with zero-waste menus that use every part of an ingredient, from root-to-stem cooking to repurposing food scraps. Chefs are also focusing on sustainable sourcing through local farms, while plant-based and alternative proteins are gaining popularity.\nJeffrey Schlissel (The Bacon Cartel) unveiled simple yet powerful techniques to elevate plant-based dishes, transforming them into a symphony of flavors that will delight your guests' palates during Mastering Legume-Cuterie: Plant-based BBQ with Higher ROI.\nHis plant-based charcuterie board (right) featured: smoked fennel, smoked plums, smoked hearts of palm with steak seasoning, cashew-based black garlic cheese (gouda), kimchi Brussel sprouts, Mexican-rubbed butternut squash, artichokes, broccoli stocks, peppers, coffee-rubbed carrots, and smoked dehydrated chickpeas.\n\n4. Fermented / Pickled Foods\nThere has been an explosion of awareness, interest, and demand for fermented foods. These items are zesty, spicy and flavorful, and feature healthful benefits, are good for gut health, reducing inflammation, and bolstering the immune system. Fermentation is also a great medium for reducing food waste—it lets you create new and exciting flavors out of things that are normally seen as scrap or waste.\nAn assortment of uniquely pickled items was sampled during Pickle Me This: Big Flavors in Your Culinary Arsenal, From Fermentation to Vinegar Classics, by Paul Buchanan (Primal Alchemy Catering) and Dave MacLennan (Even Keel Fish Shack).\n\n5. Vegan Delights\nPlant-based cuisine continues to evolve in 2025, where vegetables are not just side dishes but the main attraction, prepared with the same care and creativity traditionally reserved for meat-based dishes. Plant-based dishes, including root vegetables, are being used creatively in fine dining and taken to new heights of sophistication and flavor.\nAJ Harris's (Dish Food & Events) Carrot Wellington CATIE award-winning dish is a creative twist on the traditional beef wellington, showcasing the growing trend of reimagining classic meat-based dishes with plant-based ingredients. This dish was served during Monday's Lunch & Learn and features a Parsnip Purée, Chestnut Cream, Dill Oil, Lemon, Red Mustard Frills, and Red Vein Sorrel.\n\nGet the full recipe book (it's free)\nSimply click the button below to instantly access the full collection of 20 FREE recipes prepared on-site by our chefs at AOCF 2025.\nHappy cooking!",
+    "main_content": "The Art of Catering Food remains a platform for showcasing the latest trends and bringing visionary chefs together. Throughout the two-day conference, our creative chefs introduced attendees to new ingredients, and fresh ideas for menus, recipes, and stations. The culinary inspiration was limitless!\n\n1. Mini Desserts: The trend toward mini desserts has been growing, driven by the popularity of grazing tables and personalized culinary experiences. Bite-sized treats are becoming more popular as they offer variety and cater to different guest preferences without overwhelming portions. Chef Nettie Frank walked attendees through how to repurpose leftover desserts into new bite-sized offerings during her session \"Let Them Eat Cake: 10 New Sweet & Savory Dessert Ideas.\" Her Cake Fries are also a great example of incorporating sustainable practices into every aspect of your catering to reduce food waste.\n\n2. Saucy Green: As consumers gravitate towards natural, clean products and plant-forward movements, classic herbs and whole-ingredient green sauces are gaining popularity in diverse applications. Unique pestos, chimichurri, salsa verde, and many more green herbaceous sauces are adding visual appeal and vibrant flavor to menus nationwide. Jenny Bast (Catering Creations) and Jonadel Tarrayo (Daniel et Daniel) sampled a Pickled Jalapeno Chimichurri sauce during their session \"Creating Culinary Flavor Bombs in Bulk,\" which explored a variety of techniques and examples of how flavor bombs are used in their kitchens.\n\n3. Plant-Based BBQ: Sustainability continues to thrive, with zero-waste menus that use every part of an ingredient, from root-to-stem cooking to repurposing food scraps. Chefs are also focusing on sustainable sourcing through local farms, while plant-based and alternative proteins are gaining popularity. Jeffrey Schlissel (The Bacon Cartel) unveiled simple yet powerful techniques to elevate plant-based dishes during \"Mastering Legume-Cuterie: Plant-based BBQ with Higher ROI.\" His plant-based charcuterie board featured smoked fennel, smoked plums, smoked hearts of palm with steak seasoning, cashew-based black garlic cheese, kimchi Brussel sprouts, and more.\n\n4. Fermented / Pickled Foods: There has been an explosion of awareness, interest, and demand for fermented foods. These items are zesty, spicy and flavorful, and feature healthful benefits, are good for gut health, reducing inflammation, and bolstering the immune system. Fermentation is also a great medium for reducing food waste—it lets you create new and exciting flavors out of things that are normally seen as scrap or waste. An assortment of uniquely pickled items was sampled during \"Pickle Me This: Big Flavors in Your Culinary Arsenal, From Fermentation to Vinegar Classics\" by Paul Buchanan and Dave MacLennan.\n\n5. Vegan Delights: Plant-based cuisine continues to evolve in 2025, where vegetables are not just side dishes but the main attraction, prepared with the same care and creativity traditionally reserved for meat-based dishes. Plant-based dishes, including root vegetables, are being used creatively in fine dining and taken to new heights of sophistication and flavor. AJ Harris's (Dish Food & Events) Carrot Wellington CATIE award-winning dish is a creative twist on the traditional beef wellington, showcasing the growing trend of reimagining classic meat-based dishes with plant-based ingredients.",
     "with": [
-      "The Art of Catering Food remains a platform for showcasing the latest trends and bringing visionary chefs together.",
       "The trend toward mini desserts has been growing, as noted by Spuntino Catering and Chef Toni Roberts, the pastry chef at The Ritz-Carlton, Chicago - driven by the popularity of grazing tables and personalized culinary experiences.",
-      "As consumers gravitate towards natural, clean products and plant-forward movements, classic herbs and whole-ingredient green sauces are gaining popularity in diverse applications.",
+      "Classic herbs and whole-ingredient green sauces are gaining popularity in diverse applications, with unique pestos, chimichurri, salsa verde, and many more green herbaceous sauces adding visual appeal and vibrant flavor to menus nationwide.",
       "Sustainability continues to thrive, with zero-waste menus that use every part of an ingredient, from root-to-stem cooking to repurposing food scraps.",
+      "Fermented foods are zesty, spicy and flavorful, feature healthful benefits, are good for gut health, reducing inflammation, and bolstering the immune system.",
       "Plant-based cuisine continues to evolve in 2025, where vegetables are not just side dishes but the main attraction, prepared with the same care and creativity traditionally reserved for meat-based dishes."
     ],
     "without": [
-      "Get Notified for 2026",
-      "Copyright © 2025 Informa Limited. Registered in England & Wales with number 01835199, registered office 5 Howick Place, London, SW1P 1WG.",
-      "Home About Recipes Resources Image Gallery Sponsors Contact",
-      "August 10 - 11, 2026 Allium Rooftop by Blue Plate Catering Chicago, IL",
-      "Catersource + The Special Event Show artofcateringfood Catersource + The Special Event"
-    ]
+      "aocf26-logo-informa - site logo",
+      "Copyright 2025 Informa Limited",
+      "Get Notified for 2026 - navigation CTA",
+      "Privacy Policy link",
+      "August 10 - 11, 2026 - event date in header"
+    ],
+    "images": {
+      "total_in_content": 7,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://knect365.imgix.net/uploads/2S8A6856-optimized-5000-c214465df7f34a16fbfd778c5c85b442.jpg?auto=format&fit=max",
+          "filename": "2S8A6856-optimized-5000-c214465df7f34a16fbfd778c5c85b442.jpg",
+          "alt": null,
+          "caption": "Mini desserts trend - bite-sized treats for grazing tables",
+          "is_hero": true
+        },
+        {
+          "src": "https://knect365.imgix.net/uploads/COPY-76763b3be7ee0815a655d95514e21c83.jpg?auto=format&fit=max",
+          "filename": "COPY-76763b3be7ee0815a655d95514e21c83.jpg",
+          "alt": null,
+          "caption": "Green sauces and chimichurri preparation",
+          "is_hero": false
+        },
+        {
+          "src": "https://knect365.imgix.net/uploads/DG3-4594-optimized-5000-0970cd8638dcd3c10fc167700b540918.jpg?auto=format&fit=max",
+          "filename": "DG3-4594-optimized-5000-0970cd8638dcd3c10fc167700b540918.jpg",
+          "alt": null,
+          "caption": "Plant-based BBQ charcuterie board with smoked vegetables",
+          "is_hero": false
+        },
+        {
+          "src": "https://knect365.imgix.net/uploads/7R9A9066-ff2a35803936b1908b2dab6993ef5ddc.jpg?auto=format&fit=max",
+          "filename": "7R9A9066-ff2a35803936b1908b2dab6993ef5ddc.jpg",
+          "alt": null,
+          "caption": "Fermented and pickled foods display",
+          "is_hero": false
+        },
+        {
+          "src": "https://knect365.imgix.net/uploads/COPYZ-b57ad12ec0a3bf77be1d59a731b15a6c.jpg?auto=format&fit=max",
+          "filename": "COPYZ-b57ad12ec0a3bf77be1d59a731b15a6c.jpg",
+          "alt": null,
+          "caption": "Vegan Carrot Wellington dish presentation",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:26:44.904464"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:44:33.975130"
 }

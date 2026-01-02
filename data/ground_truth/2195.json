@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://greenstocknews.com/stocks/blockchain-stocks",
+  "file_id": "2195",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "stocks",
+        "blockchain",
+        "financial",
+        "directory"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "List of Blockchain Stocks - Green Stock News",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Blockchain Stocks Directory: COINBASE (NASDAQ:COIN) - Last Trade: $245.19, Change: +$5.99 (+2.50%), Volume: 8.88M, Shares Out: 228.18M, Market Cap: $55.950B. IREN (NASDAQ:IREN) - Last Trade: $40.00, Change: +$4.20 (+11.73%), Volume: 38.84M, Market Cap: $11.550B. CIPHER MINING (NASDAQ:CIFR) - Last Trade: $16.21, Change: +$1.06 (+7.00%), Volume: 47.77M, Market Cap: $6.400B. GALAXY DIGITAL (TSX:GLXY) - Last Trade: C$33.24, Change: +$2.24 (+7.23%), Market Cap: C$6.390B. RIOT PLATFORMS (NASDAQ:RIOT) - Last Trade: $14.50, Change: +$1.12 (+8.37%), Market Cap: $5.390B. TERAWULF (NASDAQ:WULF) - Last Trade: $12.52, Change: +$0.73 (+6.19%), Market Cap: $5.240B. CORE SCIENTIFIC (NASDAQ:CORZ) - Last Trade: $15.60, Change: +$1.04 (+7.14%), Market Cap: $4.840B. HUT 8 (NASDAQ:HUT) - Last Trade: $44.12, Change: +$5.53 (+14.33%), Market Cap: $4.770B. MARA HOLDINGS (NASDAQ:MARA) - Last Trade: $10.14, Change: +$0.45 (+4.64%), Volume: 97.31M, Market Cap: $3.830B. CLEANSPARK (NASDAQ:CLSK) - Last Trade: $12.03, Change: +$0.83 (+7.41%), Market Cap: $3.070B. Plus 40+ additional blockchain stocks with trading data including BITDEER TECHNOLOGIES, BITFARMS, HIVE DIGITAL TECHNOLOGIES, and others listed with real-time market data.",
+    "with": [
+      "COINBASE (NASDAQ:COIN) - Last Trade: $245.19, Change: +$5.99 (+2.50%), Volume: 8.88M, Market Cap: $55.950B",
+      "IREN (NASDAQ:IREN) - Last Trade: $40.00, Change: +$4.20 (+11.73%), Volume: 38.84M, Market Cap: $11.550B",
+      "Blockchain Stocks Directory with real-time trading data including Last Trade, Change, Volume, Shares Out, and Market Cap columns",
+      "DMG Blockchain Solutions Reports Fourth Quarter and Full Year 2025 Audited Results",
+      "Stocks list features sorting functionality and watchlist follow buttons for tracking blockchain investments"
+    ],
+    "without": [
+      "Green Stock Newswire",
+      "Free Daily Green Stock Newsletter",
+      "Market Data",
+      "Heat Map",
+      "Stock Screener"
+    ],
+    "images": {
+      "total_in_content": 26,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:03:19.673358"
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.bokun.io/how-to-create-tour-packages",
+  "file_id": "1476",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "tourism",
+        "business",
+        "guide",
+        "marketing"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "How to Create & Market Five-Star Tour Packages",
+    "author": "Charlotte Gannon",
+    "publish_date": "2025-10-30",
+    "main_content": "Tour packages are beneficial for both travellers and tour operators. They help travellers simplify vacation planning, especially in new destinations where they don't know the best things to book and want curated experiences. Travellers can look for packages that cover various aspects of their planning, such as accommodations, activities, and transportation, and fill their day-to-day schedules. They enable tour operators to diversify their product lines, stand out from the competition, attract a broader audience, win new customers, and earn more revenue from each booking.\n\nThe first steps to creating tour packages include researching existing tour packages to see what others provide and what's popular in your area, considering different target markets like families with kids, solo travellers, couples or honeymooners, seniors or retirees, and bachelor or bachelorette groups. You should also understand customers' interests and preferences for each customer group, account for traveller budgets by thinking about average costs for travel plans in your area, evaluate your product line and hone in on your unique selling points, and look at previous customer reviews and social media or email enquiries to see if customers have suggested or requested packages.\n\nCompetitor research involves checking OTAs like Viator, GetYourGuide, Expedia, Tiqets, and Booking.com to see what's trending, then browsing Google and major competitors' websites. Understanding your target audiences comes primarily from customer reviews on OTAs, Google, and competitor websites to gauge the types of travellers booking experiences.\n\nWhen designing tour packages, create listings on both your website and OTAs like Viator. Customers typically look for what experiences or services are included, detailed itineraries, pricing showing list prices with discounted rates, duration, age range, minimum and maximum capacities, cancellation policies, and the ability to instantly check availability. Give packages catchy but clear titles that give customers a preview of what the package provides without being excessively long or using unnecessary special characters.\n\nPricing strategies include creating flat rates, offering rates for private experiences, enabling bulk discounts, setting pricing categories for different age groups, and using dynamic pricing to adjust rates based on booking cutoff dates, seasons, early bookings, and group sizes. Working with partners is essential for creating comprehensive packages that include tours and activities, accommodations, transportation services, meals and dining experiences, equipment rentals, and tickets and passes.\n\nMarketing strategies include email marketing to past customers segmented by previous bookings, social media marketing through photos and videos with influencer partnerships, website SEO with dedicated pages using relevant keywords, leveraging partners' marketing channels for cross-promotion, and encouraging customer reviews on Tripadvisor, Viator, Google, and your website.",
+    "with": [
+      "Tour packages are beneficial for both travellers and tour operators.",
+      "They help travellers simplify vacation planning (especially in new destinations where they don't know the best things to book and want curated experiences).",
+      "Working with partners is highly beneficial when creating tour packages because it allows you to offer more (diversity, convenience) to potential customers.",
+      "Pricing strategies include creating flat rates, offering rates for private experiences, enabling bulk discounts for travellers booking group trips, and setting pricing categories.",
+      "A key tip for all promotional content: Always remember to emphasise the value that packages offer, such as bundled pricing, curated experiences, and the convenience of including everything planned."
+    ],
+    "without": [
+      "Start Free Trial",
+      "©2025 Bokun. All rights reserved.",
+      "Privacy Policy",
+      "We use cookies to ensure that we give you the best experience on our website.",
+      "Manage | Sell | Grow"
+    ],
+    "images": {
+      "total_in_content": 13,
+      "annotated_count": 7,
+      "items": [
+        {
+          "src": "https://www.bokun.io/wp-content/uploads/2024/06/bernie-almanzar-CUzEBQz4ThE-unsplash-1-scaled.webp",
+          "filename": "bernie-almanzar-CUzEBQz4ThE-unsplash-1-scaled.webp",
+          "alt": "Post Image",
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://www.bokun.io/wp-content/uploads/2024/07/viator-search-results-dubai-tour-packages-1.png",
+          "filename": "viator-search-results-dubai-tour-packages-1.png",
+          "alt": "Viator search results: Dubai Tour Packages",
+          "caption": "Viator search results: Dubai Tour Packages",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.bokun.io/wp-content/uploads/2024/07/google-serps-tour-packages-in-dubai.png",
+          "filename": "google-serps-tour-packages-in-dubai.png",
+          "alt": "Google SERPS: Tour packages in Dubai",
+          "caption": "Google SERPS: Tour packages in Dubai",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.bokun.io/wp-content/uploads/2024/07/viator-premium-desert-safari-dubai-tour.jpg",
+          "filename": "viator-premium-desert-safari-dubai-tour.jpg",
+          "alt": "Viator: Premium Desert Safari Dubai tour package, BBQ Dinner, Sandboarding, Camel Ride",
+          "caption": "Viator: Premium Desert Safari Dubai tour package, BBQ Dinner, Sandboarding, Camel Ride",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.bokun.io/wp-content/uploads/2024/07/bokun-experience-descriptive-name.png",
+          "filename": "bokun-experience-descriptive-name.png",
+          "alt": "Give your experience a short but descriptive name",
+          "caption": "Give your experience a short but descriptive name",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.bokun.io/wp-content/uploads/2024/07/bokun-discover-partners.png",
+          "filename": "bokun-discover-partners.png",
+          "alt": "Discover Partners",
+          "caption": "Discover Partners",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.bokun.io/wp-content/uploads/2024/07/supplier-contract-with-vendors.png",
+          "filename": "supplier-contract-with-vendors.png",
+          "alt": "Supplier contract with vendors example",
+          "caption": "Supplier contract with vendors example",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:32:44.369999"
+}

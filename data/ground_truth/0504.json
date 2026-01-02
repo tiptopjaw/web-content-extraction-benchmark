@@ -1,0 +1,53 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ricksteves.com/travel-tips/trip-planning/travel-insurance",
+  "file_id": "0504",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "travel",
+        "guide",
+        "insurance"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Travel Insurance Coverage Tips by Rick Steves",
+    "author": "Rick Steves",
+    "publish_date": null,
+    "main_content": "Do I Need Travel Insurance? Travel insurance can minimize the considerable financial risks of traveling: accidents, illness, missed flights, canceled tours, lost baggage, theft, terrorism, travel-company bankruptcies, emergency evacuation, and getting your body home if you die. What are the chances you'll need it? Hard to say. How willing are you to take risks? That's up to you. Deciding whether to invest in travel insurance has always been a tricky decision, and of course the coronavirus pandemic has made that choice even more complicated. The insurance menu includes five main courses: trip cancellation and interruption, medical, evacuation, baggage, and flight insurance. Supplemental policies can be added to cover specific concerns, such as identity theft or political evacuation. Comprehensive insurance covers all of the above plus expenses incurred if your trip is delayed, if you miss your flight, or if your tour company changes your itinerary. Insurance prices can vary widely. Most standard insurance covering emergency health care and cancellations runs about 5–10 percent of the total trip. A policy that covers nonemergency cancellations can cost from 20 to 50 percent of the trip. Age is one of the biggest factors affecting the price: Rates go up dramatically for every decade over 50, while coverage is generally inexpensive or even free for children. For trip-cancellation or interruption insurance, it's expensive to cancel or interrupt any prepaid travel, and for a small fraction of the trip cost, you can alleviate the risk of losing money if something unforeseen gets in the way. While most standard policies provide coverage for flight cancellations and trip interruptions due to unforeseen events, most COVID-19–related issues are excluded from coverage, including disease avoidance, stay-at-home orders, new COVID-19 outbreaks, and going against government travel warnings. Health emergencies are the primary cause for trip cancellations and interruptions, and they can come with high medical bills as well as extended lodging bills for travel partners. Evacuation insurance covers the cost of getting you to a place where you can receive appropriate medical treatment in the event of an emergency. \"Cancel for any reason\" (CFAR) policies are the only way to ensure that you'll get some reimbursement if you cancel a trip because of a pandemic. Travel always involves risks. And while insurance can help mitigate many of the expenses incurred if things go wrong, it won't eliminate all risk, and likely won't entirely reimburse every expense.",
+    "with": [
+      "Travel insurance can minimize the considerable financial risks of traveling: accidents, illness, missed flights, canceled tours, lost baggage, theft, terrorism, travel-company bankruptcies, emergency evacuation, and getting your body home if you die.",
+      "The insurance menu includes five main courses: trip cancellation and interruption, medical, evacuation, baggage, and flight insurance.",
+      "Comprehensive insurance covers all of the above (plus expenses incurred if your trip is delayed, if you miss your flight, or if your tour company changes your itinerary).",
+      "While most standard policies provide coverage for flight cancellations and trip interruptions due to unforeseen events, most COVID-19–related issues are excluded from coverage.",
+      "\"Cancel for any reason\" (CFAR) policies are the only way to ensure that you'll get some reimbursement if you cancel a trip because of a pandemic."
+    ],
+    "without": [
+      "My Account chevron-down options menu",
+      "Rick Steves' Europe logo navigation",
+      "Copyright 2025 Rick Steves' Europe, Inc.",
+      "Privacy Policy and Terms of Service links",
+      "Travel Insurance Providers sidebar advertisement"
+    ],
+    "images": {
+      "total_in_content": 4,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://d3dqioy2sca31t.cloudfront.net/Projects/cms/production/000/030/444/medium/4921a1ca8f2b63bde04b8348ba8365c6/article-tips-planning-helicopter-rescue.jpg",
+          "filename": "article-tips-planning-helicopter-rescue.jpg",
+          "alt": "Helicopter lifting people",
+          "caption": "When considering an insurance plan, it's good to know what it does and doesn't cover.",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:11:09.550032"
+}

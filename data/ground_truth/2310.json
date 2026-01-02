@@ -1,51 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.smithhanley.com/2019/04/16/actuarys-industry-choice/",
   "file_id": "2310",
-  "downloaded_at": "2025-12-20T23:16:12.443540",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "career-advice",
+        "actuarial",
+        "consulting",
+        "insurance"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Actuary’s Industry Choice:  Consulting or Insurance?",
+    "title": "Actuary's Industry Choice - Consulting or Insurance?",
     "author": "Jacqueline Paige",
     "publish_date": "2019-04-16",
-    "main_content": "You know the stereotype of an actuary’s industry choice between consulting and insurance, right? Consulting means more money and more variety but worse work/life balance and less job security. Working for an insurance company means garnering in-depth specialization skills, great job security, better support for exam taking, better work/life balance but rigid career path and less stimulating, varied work. Are these stereotypes accurate? How should you fulfill the right actuary’s industry choice?\n\nYour Skills and Goals\n\nConsulting: Do you thrive interacting with others and working on teams? Are you a strong communicator and enjoy meeting new people? Do you view longer work hours and travel as a long-term investment in your career? Are you able to manage your own schedule so the student part of your actuarial career proceeds efficiently and effectively? Do you have a natural curiosity and flexibility in teasing out the answer to a variety of business problems?\n\nInsurance: Does your personal motivation come from applying your technical skills successfully? Do you value your time outside of work equal to or as important as the time spent on your career? Does structure in your company and career make you more comfortable than seemingly random work assignments across many actuarial specialty areas? Do you want terrific support on the student portion of your actuarial career in order to ensure success achieving your FSA or FCAS?\n\nYour Supervisors\n\nRegardless of industry you want your direct supervisor and their supervisor to be people you want to work for. The managers you most closely interact with will set the tone for your career. You want them to be bright and motivated individuals. Your rapport with them and belief in the work they are asking of you is critical to your success. Just because you don’t “click” with a manager, doesn’t mean they are a bad manager, they just might not be the right manager for you. Make sure your actuary’s industry choice includes an assessment of the people in that industry and your fit with them.\n\nActuary’s Industry Choice by Career Time Period\n\nThe First Five Years\n\nThere is a real temptation to choose the insurance industry to start your actuarial career because the support in studying and taking your exams is greater than the support you will get on the consulting side of the business. “Let me finish my exams in a supportive environment and get my FSA or FCAS and then I will move over to the consulting side of the business where more opportunities for advancement exist.” Unfortunately, if you don’t have any consulting experience by the time you get your FSA or FCAS, most consulting companies won’t take the risk of investing in you. You will be expensive and an unknown quantity regarding your client interaction skills. As Tom Miller says in Achieving Your Pinnacle: A Career Guide for Actuaries: big salary + zero consulting experience = low probability of consulting hire.\n\nSince you will be doing similar work in both industries, an emphasis on data intensive responsibilities, choosing the consulting industry could get you better, more varied experience faster. Of course, going with a larger insurance firm with a rotational student program would also provide terrific, varied work experience.\n\nMid-Career, Years 6 to 14\n\nThis is the time period when your individual performance will clearly impact your career success. Stronger achievers will begin to noticeably separate from their peers due to better on-the-job performance, faster exam progress or both. Product specialization begins to cement. At insurance companies you will have your first meaningful supervisory experience. Your success in managing others, in people skills, will determine your ability to move up in the insurance hierarchy. Successful people skills in consulting need to translate into meaningful client development.\n\nLate Career,Years 15+\n\nIn the insurance industry your career will start to plateau. As you moved through your exams you received increased responsibilities and pay. The insurance industry standardizes your job and compensation in line with exam achievements. An FSA or FCAS will typically be promoted to a Director or AVP, but it becomes far more difficult to move up to the VP or SVP level simply because of fewer available spots. People management skills, business savvy, work ethic and a strong professional network will determine your ability to advance.\n\nIn consulting, actuaries can also top out at the Senior Consultant level. Moving up to a Principal means you are able to have significant impact on your firm’s business development needs. The same skills that lead to advancement in the insurance industry, people management, savvy, work ethic and network, apply here as well. Closing “deals” successfully also could mean significant compensation increases beyond what is possible on the insurance industry side.\n\nCompensation\n\nInterestingly, not much has been said about compensation. While the bonus potential is probably higher in consulting, particularly later in one’s career when business development is critical to success, the base salaries are not that different between the two industries. In both industries annual increases probably won’t keep you at market rate over time. If you are a high performer, you might have to do a job switch to keep your compensation competitive to the market.\n\nWant to discuss an actuary’s industry choice further? Contact Smith Hanley Associates’ Actuarial Recruiter, Rory Hauser at rhauser@smithhanley.com.",
+    "main_content": "You know the stereotype of an actuary's industry choice between consulting and insurance, right? Consulting means more money and more variety but worse work/life balance and less job security. Working for an insurance company means garnering in-depth specialization skills, great job security, better support for exam taking, better work/life balance but rigid career path and less stimulating, varied work. Are these stereotypes accurate? How should you fulfill the right actuary's industry choice? Your Skills and Goals. Consulting: Do you thrive interacting with others and working on teams? Are you a strong communicator and enjoy meeting new people? Do you view longer work hours and travel as a long-term investment in your career? Are you able to manage your own schedule so the student part of your actuarial career proceeds efficiently and effectively? Do you have a natural curiosity and flexibility in teasing out the answer to a variety of business problems? Insurance: Does your personal motivation come from applying your technical skills successfully? Do you value your time outside of work equal to or as important as the time spent on your career? Does structure in your company and career make you more comfortable than seemingly random work assignments across many actuarial specialty areas? Do you want terrific support on the student portion of your actuarial career in order to ensure success achieving your FSA or FCAS? Your Supervisors. Regardless of industry you want your direct supervisor and their supervisor to be people you want to work for. The managers you most closely interact with will set the tone for your career. You want them to be bright and motivated individuals. Your rapport with them and belief in the work they are asking of you is critical to your success. Just because you don't 'click' with a manager, doesn't mean they are a bad manager, they just might not be the right manager for you. Make sure your actuary's industry choice includes an assessment of the people in that industry and your fit with them. The First Five Years. There is a real temptation to choose the insurance industry to start your actuarial career because the support in studying and taking your exams is greater than the support you will get on the consulting side of the business. Unfortunately, if you don't have any consulting experience by the time you get your FSA or FCAS, most consulting companies won't take the risk of investing in you. You will be expensive and an unknown quantity regarding your client interaction skills. Since you will be doing similar work in both industries, an emphasis on data intensive responsibilities, choosing the consulting industry could get you better, more varied experience faster. Mid-Career, Years 6 to 14. This is the time period when your individual performance will clearly impact your career success. Stronger achievers will begin to noticeably separate from their peers due to better on-the-job performance, faster exam progress or both. Product specialization begins to cement. At insurance companies you will have your first meaningful supervisory experience. Your success in managing others, in people skills, will determine your ability to move up in the insurance hierarchy. Successful people skills in consulting need to translate into meaningful client development. Late Career, Years 15+. In the insurance industry your career will start to plateau. As you moved through your exams you received increased responsibilities and pay. The insurance industry standardizes your job and compensation in line with exam achievements. An FSA or FCAS will typically be promoted to a Director or AVP, but it becomes far more difficult to move up to the VP or SVP level simply because of fewer available spots. In consulting, actuaries can also top out at the Senior Consultant level. Moving up to a Principal means you are able to have significant impact on your firm's business development needs. Compensation. While the bonus potential is probably higher in consulting, particularly later in one's career when business development is critical to success, the base salaries are not that different between the two industries. In both industries annual increases probably won't keep you at market rate over time. If you are a high performer, you might have to do a job switch to keep your compensation competitive to the market.",
     "with": [
-      "You know the stereotype of an actuary’s industry choice between consulting and insurance, right? Consulting means more money and more variety but worse work/life balance and less job security.",
+      "Consulting means more money and more variety but worse work/life balance and less job security.",
       "There is a real temptation to choose the insurance industry to start your actuarial career because the support in studying and taking your exams is greater than the support you will get on the consulting side of the business.",
-      "In the insurance industry your career will start to plateau. As you moved through your exams you received increased responsibilities and pay.",
-      "In consulting, actuaries can also top out at the Senior Consultant level. Moving up to a Principal means you are able to have significant impact on your firm’s business development needs.",
-      "While the bonus potential is probably higher in consulting, particularly later in one’s career when business development is critical to success, the base salaries are not that different between the two industries."
+      "If you don't have any consulting experience by the time you get your FSA or FCAS, most consulting companies won't take the risk of investing in you.",
+      "In the insurance industry your career will start to plateau as you moved through your exams you received increased responsibilities and pay.",
+      "While the bonus potential is probably higher in consulting, particularly later in one's career when business development is critical to success, the base salaries are not that different between the two industries."
     ],
     "without": [
-      "Skip to main content",
+      "© 2025 Smith Hanley Associates LLC",
       "Our Specialties",
       "Search Jobs",
-      "About Us",
-      "News",
-      "Contact Us",
-      "Categories",
-      "Actuarial",
-      "Data Science & Analytics",
-      "Interviewing Advice",
-      "Job Applications",
-      "Market Research & Consumer Insights",
-      "Pharmaceutical",
-      "Recruiting Top Talent",
       "Share it",
-      "Facebook",
-      "Twitter",
-      "LinkedIn",
-      "Email",
-      "Want to know more?",
-      "Get In Touch",
-      "Related Posts",
-      "Top 5 Hiring Trends for 2025",
-      "Happy Thanksgiving",
-      "The Problem with Reactive Recruiting",
-      "Gamification in UX Design:  The Secret Weapon",
-      "© 2025 Smith Hanley Associates LLC",
-      "Privacy",
-      "Site Credits"
-    ]
+      "Want to know more?"
+    ],
+    "images": {
+      "total_in_content": 6,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:16:12.443546"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:36:29.310511"
 }

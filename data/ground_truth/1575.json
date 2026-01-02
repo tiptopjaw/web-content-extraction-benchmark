@@ -1,0 +1,116 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.remax.com/homes-for-sale/nv/sparks/city/3268400",
+  "file_id": "1575",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "real-estate",
+        "property-listings",
+        "homes-for-sale"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Sparks, NV Homes For Sale & Real Estate | RE/MAX",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Real estate listings for homes in Sparks, NV. The page shows 453 homes for sale with various properties including: 7194 Lemur Landing Way # Homesite ($740,950, 4 Beds, 4 Baths, 2,675 Sq Ft, New Listing), 6875 Pah Rah Dr ($508,000, 3 Beds, 3 Baths, 1,958 Sq Ft, Open House, 3D Virtual Tour), 7037 Mount Nimba St # Homesite ($551,133, 3 Beds, 3 Baths, 2,090 Sq Ft, New Listing), 765 Bobcat Ridge Rd # Homesite ($638,753, 4 Beds, 3 Baths, 2,714 Sq Ft, New Listing), 1712 Eagle Landing Dr # Homesite ($630,454, 4 Beds, 3 Baths, 2,714 Sq Ft, New Listing), 3486 Mashie Dr ($439,900, 3 Beds, 3 Baths, 1,422 Sq Ft, New Listing), 343 Richards Way ($409,900, 3 Beds, 1 Bath, 1,044 Sq Ft, New Listing), 1250 Oxford Ave ($485,000, 4 Beds, 2 Baths, 1,428 Sq Ft, Open House, Virtual Tour), 997 Ephedra Ln ($424,900, 2 Beds, 2 Baths, 1,096 Sq Ft, New Listing), 25 El Caballo Trl ($1,000,000, 3 Beds, 2 Baths, 1,964 Sq Ft, New Listing), and many more properties with prices ranging from $269,900 to $1,000,000. Listings include various features and badges such as New Listing, Open House, Virtual Tour, and 3D Virtual Tour.",
+    "with": [
+      "Sparks, NV Homes for Sale and Real Estate",
+      "453 results",
+      "7194 LEMUR LANDING WAY # HOMESITE, SPARKS, NV 89436",
+      "$740,950",
+      "New Listing"
+    ],
+    "without": [
+      "Search Homes For Sale By State",
+      "ADVERTISEMENT",
+      "Northern Nevada Regional MLS",
+      "New Listings Near Me",
+      "RE/MAX"
+    ],
+    "images": {
+      "total_in_content": 26,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://images.remax.com/webapi-properties-nnrmls2/ffbe8c0f2535684d6509d43eac00488c6cb91478-1-medium.jpeg",
+          "filename": "ffbe8c0f2535684d6509d43eac00488c6cb91478-1-medium.jpeg",
+          "alt": "7194 LEMUR LANDING WAY # HOMESITE, SPARKS, NV 89436 - Image ffbe8c0f2535684d6509d43eac00488c6cb91478",
+          "caption": "7194 Lemur Landing Way # Homesite, Sparks, NV 89436",
+          "is_hero": true
+        },
+        {
+          "src": "https://d1fdal7qbcnzat.cloudfront.net/M00000467.png",
+          "filename": "M00000467.png",
+          "alt": "Northern Nevada Regional MLS",
+          "caption": "6875 Pah Rah Dr, Sparks, NV 89436",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.remax.com/webapi-properties-nnrmls2/9e567ea43d021320da11eb48bc921dbd0c819292-1-medium.jpeg",
+          "filename": "9e567ea43d021320da11eb48bc921dbd0c819292-1-medium.jpeg",
+          "alt": "6875 PAH RAH DR, SPARKS, NV 89436 - Image 9e567ea43d021320da11eb48bc921dbd0c819292",
+          "caption": "7037 Mount Nimba St # Homesite, Sparks, NV 89436",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.remax.com/webapi-properties-nnrmls2/480b11c163c8d6020f9fe6540c5b9235deaca2da-1-medium.jpeg",
+          "filename": "480b11c163c8d6020f9fe6540c5b9235deaca2da-1-medium.jpeg",
+          "alt": "7037 MOUNT NIMBA ST # HOMESITE, SPARKS, NV 89436 - Image 480b11c163c8d6020f9fe6540c5b9235deaca2da",
+          "caption": "765 Bobcat Ridge Rd # Homesite, Sparks, NV 89436",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.remax.com/webapi-properties-nnrmls2/91fdd8196a8356df7c740549648dd931d16c7da6-1-medium.jpeg",
+          "filename": "91fdd8196a8356df7c740549648dd931d16c7da6-1-medium.jpeg",
+          "alt": "765 BOBCAT RIDGE RD # HOMESITE, SPARKS, NV 89436 - Image 91fdd8196a8356df7c740549648dd931d16c7da6",
+          "caption": "1712 Eagle Landing Dr # Homesite, Sparks, NV 89436",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.remax.com/webapi-properties-nnrmls2/2dd76d0f764c4be1db1f71e45122d4dd9a0ac503-1-medium.jpeg",
+          "filename": "2dd76d0f764c4be1db1f71e45122d4dd9a0ac503-1-medium.jpeg",
+          "alt": "1712 EAGLE LANDING DR # HOMESITE, SPARKS, NV 89436 - Image 2dd76d0f764c4be1db1f71e45122d4dd9a0ac503",
+          "caption": "3486 Mashie Dr, Sparks, NV 89431",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.remax.com/webapi-properties-nnrmls2/c5edfe634fc3e8946031d00431aa12a5af6166b6-1-medium.jpeg",
+          "filename": "c5edfe634fc3e8946031d00431aa12a5af6166b6-1-medium.jpeg",
+          "alt": "3486 MASHIE DR, SPARKS, NV 89431 - Image c5edfe634fc3e8946031d00431aa12a5af6166b6",
+          "caption": "343 Richards Way, Sparks, NV 89431",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.remax.com/webapi-properties-nnrmls2/996c56de1f3d2d89be6079c61c70e52b1059358f-1-medium.jpeg",
+          "filename": "996c56de1f3d2d89be6079c61c70e52b1059358f-1-medium.jpeg",
+          "alt": "343 RICHARDS WAY, SPARKS, NV 89431 - Image 996c56de1f3d2d89be6079c61c70e52b1059358f",
+          "caption": "1250 Oxford Ave, Sparks, NV 89431",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.remax.com/webapi-properties-nnrmls2/f48d0b3f2e40f2f155bafcf83a9a3aea9f07f8ff-1-medium.jpeg",
+          "filename": "f48d0b3f2e40f2f155bafcf83a9a3aea9f07f8ff-1-medium.jpeg",
+          "alt": "1250 OXFORD AVE, SPARKS, NV 89431 - Image f48d0b3f2e40f2f155bafcf83a9a3aea9f07f8ff",
+          "caption": "997 Ephedra Ln, Sparks, NV 89436",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.remax.com/webapi-properties-nnrmls2/f9b4e7cfa481eee5e3b7c296e3a71e821778dc65-1-medium.jpeg",
+          "filename": "f9b4e7cfa481eee5e3b7c296e3a71e821778dc65-1-medium.jpeg",
+          "alt": "997 EPHEDRA LN, SPARKS, NV 89436 - Image f9b4e7cfa481eee5e3b7c296e3a71e821778dc65",
+          "caption": "25 El Caballo Trl, Sparks, NV 89441",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:22:26.301148"
+}

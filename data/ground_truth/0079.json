@@ -1,27 +1,117 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.nyc.gov/site/hra/index.page",
   "file_id": "0079",
-  "downloaded_at": "2025-12-20T19:24:58.138381",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "government",
+        "social-services",
+        "nyc",
+        "human-resources"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Welcome to the NYC Human Resources Administration - HRA",
     "author": null,
     "publish_date": null,
-    "main_content": "Notice of Class Action Settlement for New Yorkers who received Consumer Directed Personal Assistance Program (CDPAP) services in March of 2025 and meet other criteria. Read the notice: English Español Other languages available through NY State Department of Health Optional Facilitator Selection Form: English HOPE 2026 Learn more and sign up: nyc.gov/hope CityFHEPS Road Map Learn more about the process for signing a lease and moving in once you have a CityFHEPS shopping letter and have found housing. Benefit Replacement Claims. Learn more Recent Announcements The OCSS Brooklyn Borough Office Relocation. Sanctions Are Coming Back! Read more Programs & Initiatives ACCESS HRA Portal Visit HRA's portal to apply and manage your SNAP and Cash benefits online. Child Support Services Help kids get support from both parents. Apply for services. Sign up for job training. Food Help NYC Locate free meals at food pantries and soup kitchens near you. Fair Fares NYC With Fair Fares NYC, eligible City residents may buy a 7-day or 30-day pass for half the price. HIV/AIDS Services Helping people living with HIV/AIDS to live independent, healthy lives. Homebase If you are about to become homeless, Homebase can help you stay out of shelter. Disability Access Learn how to request Reasonable Accommodation for HRA services. Voting.NYC Everything New Yorkers need to vote.",
+    "main_content": "Notice of Class Action Settlement for New Yorkers who received Consumer Directed Personal Assistance Program (CDPAP) services in March of 2025 and meet other criteria. Read the notice in English, Spanish, or other languages available through NY State Department of Health. An Optional Facilitator Selection Form is also available.\n\nHOPE 2026: Learn more and sign up for NYC HOPE at nyc.gov/hope.\n\nCityFHEPS Road Map: Learn more about the process for signing a lease and moving in once you have a CityFHEPS shopping letter and have found housing.\n\nBenefit Replacement Claims: As of September 30, 2025, New York State will stop accepting all benefit replacement claims for SNAP. This does not affect replacement claims for Cash Assistance.\n\nRecent Announcements: The OCSS Brooklyn Borough Office Relocation.\n\nDon't Risk Losing Your SNAP or CA Benefits! Sanctions Are Coming Back!\n\nQuick Links: Community Updates, SNAP Centers & Other DSS/HRA Locations, Child Support Services, NYC Benefits Partners, How to Apply for Cash Assistance, Adult Protective Services, Sexual Assault & Harassment Survivors, Register to Vote, Contact Us.\n\nI speak...: Select from 16 language options including Español, العربية, Shqiptare, 简体中文, 繁體中文, Kreyòl Ayisyen, Italiano, 한국어, Pусский, বাংলা, Français, Polski, Pulaar, اردو, Wolof, יידיש.\n\nPrograms & Initiatives: ACCESS HRA Portal - Visit HRA's portal to apply and manage your SNAP and Cash benefits online. Child Support Services - Help kids get support from both parents. Apply for services. Sign up for job training. Food Help NYC - Locate free meals at food pantries and soup kitchens near you. Fair Fares NYC - With Fair Fares NYC, eligible City residents may buy a 7-day or 30-day pass for half the price. HIV/AIDS Services - Helping people living with HIV/AIDS to live independent, healthy lives. Homebase - If you are about to become homeless, Homebase can help you stay out of shelter. Disability Access - Learn how to request Reasonable Accommodation for HRA services. Voting.NYC - Everything New Yorkers need to vote.",
     "with": [
       "Notice of Class Action Settlement for New Yorkers who received Consumer Directed Personal Assistance Program (CDPAP) services in March of 2025 and meet other criteria.",
-      "HOPE 2026 Learn more and sign up: nyc.gov/hope",
-      "CityFHEPS Road Map Learn more about the process for signing a lease and moving in once you have a CityFHEPS shopping letter and have found housing.",
-      "Visit HRA's portal to apply and manage your SNAP and Cash benefits online.",
-      "If you are about to become homeless, Homebase can help you stay out of shelter."
+      "HOPE 2026: Learn more and sign up for NYC HOPE at nyc.gov/hope.",
+      "CityFHEPS Road Map: Learn more about the process for signing a lease and moving in once you have a CityFHEPS shopping letter and have found housing.",
+      "ACCESS HRA Portal - Visit HRA's portal to apply and manage your SNAP and Cash benefits online.",
+      "Fair Fares NYC - With Fair Fares NYC, eligible City residents may buy a 7-day or 30-day pass for half the price."
     ],
     "without": [
       "Serving New Yorkers with Care & Compassion",
-      "Home About I Need Help Locations Doing Business Partners Careers",
-      "Quick Links Community Updates SNAP Centers & Other DSS/HRA Locations Child Support Services NYC Benefits Partners How to Apply for Cash Assistance Adult Protective Services Sexual Assault & Harassment Survivors Register to Vote Contact Us",
-      "nyc.gov home Services Events Your government 311 Contact NYC government Register to vote Emergency alerts Careers Website feedback Accessibility resources Privacy policy Terms of use About nyc.gov content",
-      "© City of New York. 2025 All Rights Reserved. NYC is a trademark and service mark of the City of New York."
-    ]
+      "311",
+      "Search all NYC.gov websites",
+      "Twitter icon",
+      "Facebook icon"
+    ],
+    "images": {
+      "total_in_content": 22,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "/assets/dhs/images/content/hero/Hope%202026%20social%20media%20940x460.jpg\n                                           ",
+          "filename": "Hope%202026%20social%20media%20940x460.jpg\n                                           ",
+          "alt": "HOPE 2026 Logo \n                                           ",
+          "caption": "HOPE 2026 Logo",
+          "is_hero": true
+        },
+        {
+          "src": "/assets/hra/images/content/hero/cityfheps-roadmap.jpg\n                                           ",
+          "filename": "cityfheps-roadmap.jpg\n                                           ",
+          "alt": "Image of the homescreen for the CityFHEPS Road Map\n                                           ",
+          "caption": "Image of the homescreen for the CityFHEPS Road Map",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/hra/images/content/hero/Skimming-hero.png\n                                           ",
+          "filename": "Skimming-hero.png\n                                           ",
+          "alt": "Person on computer with a warning symbol on top, text on image: As of September 30, 2025, New York State will stop accepting all benefit replacement claims for SNAP.\nThis does not affect replacement claims for Cash Assistance.\n\n                                           ",
+          "caption": "Person on computer with a warning symbol on top, text on image: As of September 30, 2025, New York State will stop accepting all benefit replacement claims for SNAP.",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/hra/images/content/hero/HRA-Location-Changes.jpg\n                                           ",
+          "filename": "HRA-Location-Changes.jpg\n                                           ",
+          "alt": "Blue background with text that says upcoming changes to our locations\n                                           ",
+          "caption": "Blue background with text that says upcoming changes to our locations",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/hra/images/content/hero/aa.jpg\n                                           ",
+          "filename": "aa.jpg\n                                           ",
+          "alt": "Banner that reads: Don't Risk Losing Your SNAP or CA Benefits! \n                                           ",
+          "caption": "Banner that reads: Don't Risk Losing Your SNAP or CA Benefits!",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/home/images/programs/Access-HRA.png",
+          "filename": "Access-HRA.png",
+          "alt": "Logo for ACCESS HRA Portal",
+          "caption": "Logo for ACCESS HRA Portal",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/home/images/programs/child-support-services.jpg",
+          "filename": "child-support-services.jpg",
+          "alt": "Logo for Child Support Services",
+          "caption": "Logo for Child Support Services",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/home/images/programs/hra_food_help_nyc.jpg",
+          "filename": "hra_food_help_nyc.jpg",
+          "alt": "Logo for Food Help NYC",
+          "caption": "Logo for Food Help NYC",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/home/images/programs/Fair-Fares-NYC-Logo.jpg",
+          "filename": "Fair-Fares-NYC-Logo.jpg",
+          "alt": "Logo for Fair Fares NYC ",
+          "caption": "Logo for Fair Fares NYC",
+          "is_hero": false
+        },
+        {
+          "src": "/assets/home/images/programs/hra-hasa.jpg",
+          "filename": "hra-hasa.jpg",
+          "alt": "Logo for HIV/AIDS Services",
+          "caption": "Logo for HIV/AIDS Services",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T19:24:58.138387"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:34:29.894723"
 }

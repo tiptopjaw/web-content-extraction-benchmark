@@ -1,27 +1,76 @@
 {
+  "schema_version": "2.0",
   "url": "https://kansasfarmfoodconnection.org/resources/shows-to-watch-if-you-love-cooking-baking-or-gardening",
   "file_id": "2054",
-  "downloaded_at": "2025-12-20T22:16:23.118468",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "entertainment",
+        "guide",
+        "streaming",
+        "cooking",
+        "gardening"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Shows to Watch if You Love Cooking, Baking or Gardening",
-    "author": null,
+    "author": "Kansas Farm Food Connection",
     "publish_date": "2021-11-11",
-    "main_content": "Does the challenge of a new recipe light your fire? Do you thrive in an apron and oven mitts? Are you at peace while pruning your lilies or weeding your vegetable garden? Whether you’re a connoisseur or not, cooking, baking and gardening can all be soothing activities. And even if you don’t have time to do these things yourself, it’s still fun to watch others. In this Golden Age of Television (er, streaming), there are plenty of shows to indulge in. From chocolate-filled competitions to DIY inspirations, these are some of our favorite shows to watch if you love cooking, baking or gardening. Best Cooking Shows Title: Salt, Fat, Acid, Heat Where to stream: Netflix Watch if you: are craving travel Based on Chef Samin Nosrat’s book of the same name, this show has four episodes — one for each of the elements the delightful Chef Samin believes are key to cooking. You’ll travel around the globe in search of the best examples of cooking with each component. Be warned: Your mouth will water! Title: Selena + Chef Where to stream: HBO Max Watch if you: need a virtual BFF or mentor Originally created during the COVID-19 pandemic, this show features Selena Gomez, who turned quarantine into an opportunity to improve her cooking skills. Each episode, she is (virtually) joined by a different chef who teaches her how to make a new dish. There is plenty of humor — and dashes of trial and error — as the chefs walk Selena through the recipe. Title: Top Chef Where to stream: Hulu Watch if you: enjoy cooking seasoned with drama Some of the most talented chefs from across the United States compete to be crowned “Top Chef America.” With individual, partner and team culinary challenges, the competition can get fierce. But don’t worry, there are still delicious dishes to admire. Title: America’s Test Kitchen Where to stream: PBS Watch if you: like a bit of science sprinkled on your meal It’s called the test kitchen for a reason. The show’s chefs tackle many different versions of recipes and bring you the very best, chock full of explanations about why it’s the cream of the crop. Filled with tips, tricks, product reviews and mouthwatering recipes, America’s Test Kitchen will level up your cooking skills. Best Baking Shows Title: The Great British Baking Show Where to stream: Netflix Watch if you: need a hug (or a handshake!) Filmed in the tranquil English countryside, the Great British Baking Show is the kindest competition you’ll ever watch. Contestants compete in baking challenges featuring weekly themes like pastry, bread, biscuit, cake and more. Far from a cut-throat experience, contestants frequently cheer each other on and help one another with their bakes when possible. (The holiday specials are also a delight.) Title: Nadiya Bakes Where to stream: Netflix Watch if you: need a dose of sunshine If you’re a fan of the Great British Baking Show, you just might recognize this hostess with the mostest. Fan favorite Nadiya got her own baking show and she’s a natural in front of the camera. Each episode includes a peek into food production (which we love) ranging from mushroom to salmon farms, as well as time-saving hacks. Title: Nailed It Where to stream: Netflix Watch if you: want to feel better about your baking skills Hosted by comedian Nicole Byer, Nailed It is sure to make you giggle. In each episode, three not-so-skilled home bakers try their hands at recreating a piece of edible art. Seeing the stark comparison between what the bakers were supposed to create and what they actually make will bring tears of laughter to your eyes. Best Gardening Shows Title: The Big Flower Fight Where to stream: Netflix Watch if you: want to be wowed Amateur florists from around the world compete to win the honor of displaying their work at London's Royal Botanic Gardens. Each week, contestants are challenged to create elaborate sculptures and displays using flowers, shrubs and other plants. The level of craftsmanship is almost as incredible to behold as the stunning creations themselves. Title: Big Dreams, Small Spaces Where to stream: Amazon Prime Watch if you: want inspiration and motivation to create your own outdoor oasis In Big Dreams, Small Spaces, host Monty Don — whose voice and demeaner are to gardening what Bob Ross is to painting — travels around Great Britain to the homes of ordinary folks with extraordinary visions for their home gardens. Monty provides guidance and even lends a hand to dig, weed and trench along the way. If you love home makeover shows, you’ll love this series. Check out his other programs on international garden styles or advice for gardeners (see below). Title: Gardeners’ World Where to stream: Amazon Prime Watch if you: want to level up your gardening skills Another Monty Don gem, this BBC production transports you to gorgeous gardens across the United Kingdom and is packed with advice on pruning, composting and more. Whether a host is exploring a public garden, or a home gardener is sharing a peek into their patch, this peaceful show will take you on a journey filled with color, texture and gardening tips. Now that you know what to queue up, we hope you have plenty of time for binge watching!",
+    "main_content": "Does the challenge of a new recipe light your fire? Do you thrive in an apron and oven mitts? Are you at peace while pruning your lilies or weeding your vegetable garden? Whether you're a connoisseur or not, cooking, baking and gardening can all be soothing activities. And even if you don't have time to do these things yourself, it's still fun to watch others. In this Golden Age of Television (er, streaming), there are plenty of shows to indulge in. From chocolate-filled competitions to DIY inspirations, these are some of our favorite shows to watch if you love cooking, baking or gardening. Best Cooking Shows: Salt, Fat, Acid, Heat (Netflix) - Based on Chef Samin Nosrat's book of the same name, this show has four episodes — one for each of the elements the delightful Chef Samin believes are key to cooking. You'll travel around the globe in search of the best examples of cooking with each component. Selena + Chef (HBO Max) - Originally created during the COVID-19 pandemic, this show features Selena Gomez, who turned quarantine into an opportunity to improve her cooking skills. Each episode, she is (virtually) joined by a different chef who teaches her how to make a new dish. Top Chef (Hulu) - Some of the most talented chefs from across the United States compete to be crowned 'Top Chef America.' With individual, partner and team culinary challenges, the competition can get fierce. America's Test Kitchen (PBS) - The show's chefs tackle many different versions of recipes and bring you the very best, chock full of explanations about why it's the cream of the crop. Best Baking Shows: The Great British Baking Show (Netflix) - Filmed in the tranquil English countryside, the Great British Baking Show is the kindest competition you'll ever watch. Contestants compete in baking challenges featuring weekly themes like pastry, bread, biscuit, cake and more. Nadiya Bakes (Netflix) - Fan favorite Nadiya got her own baking show and she's a natural in front of the camera. Each episode includes a peek into food production ranging from mushroom to salmon farms, as well as time-saving hacks. Nailed It (Netflix) - Hosted by comedian Nicole Byer, Nailed It is sure to make you giggle. In each episode, three not-so-skilled home bakers try their hands at recreating a piece of edible art. Best Gardening Shows: The Big Flower Fight (Netflix) - Amateur florists from around the world compete to win the honor of displaying their work at London's Royal Botanic Gardens. Each week, contestants are challenged to create elaborate sculptures and displays using flowers, shrubs and other plants. Big Dreams, Small Spaces (Amazon Prime) - Host Monty Don — whose voice and demeanor are to gardening what Bob Ross is to painting — travels around Great Britain to the homes of ordinary folks with extraordinary visions for their home gardens. Monty provides guidance and even lends a hand to dig, weed and trench along the way. Gardeners' World (Amazon Prime) - Another Monty Don gem, this BBC production transports you to gorgeous gardens across the United Kingdom and is packed with advice on pruning, composting and more. Related content includes Spotlight on Container Gardening, The Home Baking Association Wants to Help You Bake, and Tips for Growing and Cooking With Herbs.",
     "with": [
-      "Does the challenge of a new recipe light your fire? Do you thrive in an apron and oven mitts? Are you at peace while pruning your lilies or weeding your vegetable garden?",
-      "In this Golden Age of Television (er, streaming), there are plenty of shows to indulge in. From chocolate-filled competitions to DIY inspirations, these are some of our favorite shows to watch if you love cooking, baking or gardening.",
-      "Based on Chef Samin Nosrat’s book of the same name, this show has four episodes — one for each of the elements the delightful Chef Samin believes are key to cooking.",
-      "Filmed in the tranquil English countryside, the Great British Baking Show is the kindest competition you’ll ever watch.",
-      "In Big Dreams, Small Spaces, host Monty Don — whose voice and demeaner are to gardening what Bob Ross is to painting — travels around Great Britain to the homes of ordinary folks with extraordinary visions for their home gardens."
+      "Based on Chef Samin Nosrat's book of the same name, this show has four episodes — one for each of the elements the delightful Chef Samin believes are key to cooking.",
+      "Originally created during the COVID-19 pandemic, this show features Selena Gomez, who turned quarantine into an opportunity to improve her cooking skills.",
+      "Filmed in the tranquil English countryside, the Great British Baking Show is the kindest competition you'll ever watch.",
+      "Hosted by comedian Nicole Byer, Nailed It is sure to make you giggle.",
+      "Host Monty Don — whose voice and demeanor are to gardening what Bob Ross is to painting — travels around Great Britain to the homes of ordinary folks with extraordinary visions for their home gardens."
     ],
     "without": [
-      "Recipes Meet the Farmers Shopping & Dining Health Food Buzz",
-      "Newsletter Signup Sign up for our newsletter to get insider access to Kansas farmers, delicious recipes and food topics that matter. Delivered monthly!",
-      "Kansas Farm Food Connection 2627 KFB PLZ Manhattan, KS 66502 785-587-6821",
-      "Who We Are Kansas Farm Bureau Kansas Livestock Association Kansas Pork Association Kansas Soybean Commission",
-      "©2025 Kansas Farm Food Connection.  |  Design: New Boston Creative Group, LLC  |  Privacy Policy"
-    ]
+      "Newsletter Signup",
+      "Connect with us on Facebook, Pinterest, Instagram and Youtube",
+      "©2025 Kansas Farm Food Connection",
+      "Kansas Farm Bureau, Kansas Livestock Association, Kansas Pork Association",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 10,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://kansasfarmfoodconnection.org/sites/default/files/styles/header/public/gettyimages-905527602.jpg?itok=2WthXS7i",
+          "filename": "gettyimages-905527602.jpg",
+          "alt": "Best streaming shows for cooking, baking and gardening",
+          "caption": "Best streaming shows for cooking, baking and gardening",
+          "is_hero": true
+        },
+        {
+          "src": "https://kansasfarmfoodconnection.org/sites/default/files/styles/gallery/public/gettyimages-928603366.jpg?itok=PwugmOL9",
+          "filename": "gettyimages-928603366.jpg",
+          "alt": "Succulents",
+          "caption": "Succulents - Spotlight on Container Gardening",
+          "is_hero": false
+        },
+        {
+          "src": "https://kansasfarmfoodconnection.org/sites/default/files/styles/gallery/public/4hcongprtzlassist.jpg?itok=abXPu6rc",
+          "filename": "4hcongprtzlassist.jpg",
+          "alt": "Home Baking Workshop 4H National Congress",
+          "caption": "Home Baking Workshop 4H National Congress - The Home Baking Association Wants to Help You Bake",
+          "is_hero": false
+        },
+        {
+          "src": "https://kansasfarmfoodconnection.org/sites/default/files/styles/gallery/public/gettyimages-1318425099.jpg?itok=1EUSaW4q",
+          "filename": "gettyimages-1318425099.jpg",
+          "alt": "Tips to Grow Herbs - Planting Basil",
+          "caption": "Tips to Grow Herbs - Planting Basil - Tips for Growing and Cooking With Herbs",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:16:23.118473"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:26:26.171438"
 }

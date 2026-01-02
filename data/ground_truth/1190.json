@@ -1,0 +1,76 @@
+{
+  "schema_version": "2.0",
+  "url": "https://bootcamp.cpe.vt.edu/programs/ai-machine-learning",
+  "file_id": "1190",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "bootcamp",
+        "technology",
+        "AI",
+        "machine-learning"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Online AI & Machine Learning Bootcamp | Virginia Tech",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Virginia Tech AI & Machine Learning Bootcamp - Gain In-Demand Artificial Intelligence & Machine Learning Skills. Gain the skills in Applied Data Science with Python, Machine Learning, Deep Learning, NLP, and Generative AI, to build or expand a career in the rapidly-growing, lucrative field of AI and machine learning with the part-time Virginia Tech AI & Machine Learning Bootcamp. The bootcamp covers essential technologies including PyTorch, NLTK, DALL-E, ChatGPT, Jupyter Notebook, Keras, LangChain, Huggingface, and Miro. Students work on hands-on projects including Autonomous Driving Vehicles and Capstone Projects. The program transforms professionals from various backgrounds into AI and machine learning practitioners. Continuous learning support is provided throughout the bootcamp journey.",
+    "with": [
+      "Virginia Tech AI & Machine Learning Bootcamp - Gain In-Demand Artificial Intelligence & Machine Learning Skills",
+      "Gain the skills in Applied Data Science with Python, Machine Learning, Deep Learning, NLP, and Generative AI",
+      "The part-time Virginia Tech AI & Machine Learning Bootcamp helps you launch a lucrative tech career",
+      "Students work on hands-on projects including Autonomous Driving Vehicles and Capstone Projects",
+      "The program transforms professionals from various backgrounds into AI and machine learning practitioners"
+    ],
+    "without": [
+      "Apply",
+      "Contact: 434-206-4912",
+      "Programs navigation menu",
+      "Cookie notice",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 20,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://fsa2-assets.imgix.net/assets/UNIV/VPI/FSA-AI-ML-Program-Header-Image-VPI-%E2%80%93-2.jpg?auto=compress%2Cformat&crop=focalpoint&domain=fsa2-assets.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&h=675&ixlib=php-3.3.1&w=1200",
+          "filename": "FSA-AI-ML-Program-Header-Image-VPI-%E2%80%93-2.jpg",
+          "alt": "Two women and a man work on a AI data problem",
+          "caption": "Two women and a man work on a AI data problem",
+          "is_hero": true
+        },
+        {
+          "src": "https://fsa2-assets.imgix.net/assets/New-blog/AI-and-Machine-Learning-Capstone-Project-Overview.png?auto=compress%2Cformat&crop=focalpoint&domain=fsa2-assets.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&h=627&ixlib=php-3.3.1&w=1200",
+          "filename": "AI-and-Machine-Learning-Capstone-Project-Overview.png",
+          "alt": "AI and Machine Learning Capstone Project Overview",
+          "caption": "AI and Machine Learning Capstone Project Overview",
+          "is_hero": false
+        },
+        {
+          "src": "https://fsa2-assets.imgix.net/assets/New-blog/AI-and-Machine-Learning-Project-Example-Autonomous-Driving-Vehicles.png?auto=compress%2Cformat&crop=focalpoint&domain=fsa2-assets.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&h=627&ixlib=php-3.3.1&w=1200",
+          "filename": "AI-and-Machine-Learning-Project-Example-Autonomous-Driving-Vehicles.png",
+          "alt": "AI and Machine Learning Project Example Autonomous Driving Vehicles",
+          "caption": "AI and Machine Learning Project Example Autonomous Driving Vehicles",
+          "is_hero": false
+        },
+        {
+          "src": "https://fsa2-assets.imgix.net/assets/New-blog/Alumni-Story-From-Neuroscience-to-Neural-Networks.png?auto=compress%2Cformat&crop=focalpoint&domain=fsa2-assets.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&h=674&ixlib=php-3.3.1&w=1200",
+          "filename": "Alumni-Story-From-Neuroscience-to-Neural-Networks.png",
+          "alt": "Alumni Story From Neuroscience to Neural Networks",
+          "caption": "Alumni Story From Neuroscience to Neural Networks",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:02:03.831879"
+}

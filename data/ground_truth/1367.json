@@ -1,0 +1,45 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.smithandassociates.com/blog/top-kitchen-appliance-trends-and-tech-in-2025-luxury-smart-and-sustainable-innovations.html",
+  "file_id": "1367",
+  "_internal": {
+    "page_type": {
+      "primary": "other",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "security",
+        "captcha",
+        "verification"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Checking your browser - reCAPTCHA",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Checking your browser before accessing www.smithandassociates.com. If you are not automatically redirected after 5 seconds, click here.",
+    "with": [
+      "Checking your browser before accessing www.smithandassociates.com",
+      "This page is a Google reCAPTCHA verification checkpoint",
+      "The browser check is part of security measures to protect the website",
+      "Users may be redirected automatically after verification completes",
+      "The site www.smithandassociates.com is protected by reCAPTCHA"
+    ],
+    "without": [
+      "Navigation menu links",
+      "Footer with copyright information",
+      "Article body content",
+      "Product descriptions or pricing",
+      "Newsletter subscription forms"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:55:45.834029"
+}

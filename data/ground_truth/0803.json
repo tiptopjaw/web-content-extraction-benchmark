@@ -1,25 +1,54 @@
 {
+  "schema_version": "2.0",
   "url": "https://success.umn.edu/tutoring",
   "file_id": "0803",
-  "downloaded_at": "2025-12-20T21:27:59.075432",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "tutoring",
+        "academic-support",
+        "university"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Tutoring",
     "author": null,
     "publish_date": null,
-    "main_content": "Tutoring support is available from multiple departments. Many of our services are peer led which connects you other students who found success in the same subject. Benefits of Tutoring: review key course concepts one-to-one study time develop new study approaches Services & Resources Tutoring & Academic Success Center Peer tutors provide support for over 250 subject areas including math, biology, physics, chemistry, writing, and more. Peer tutoring aims to help students develop the academic study skills and confidence needed to succeed in their courses. Multicultural Center for Academic Excellence Peer tutors are available at The Multicultural Center for Academic Excellence (MCAE). Tutors provide support for math, science, and more. Academic Departments Department based academic support is provided at tutor/help labs in the following areas: Chemistry CLA language program CSci Tutor Room Physics help lab Spanish & Portuguese lab Additionally, all instructors have office hours available to help students. Office hours are listed on the Canvas course site. Student English Language Support Student English Language Support (SELS) offers free, 45-minute consultations to multilingual undergraduate students to help further develop their English skills. During a consultation, students can work with trained consultants on any English language skill, including speaking, listening, pronunciation, reading, writing, and intercultural communication.",
+    "main_content": "Tutoring support is available from multiple departments. Many of our services are peer led which connects you to other students who found success in the same subject. Benefits of tutoring include: review key course concepts, one-to-one study time, and develop new study approaches. The Tutoring & Academic Success Center provides peer tutors for over 250 subject areas including math, biology, physics, chemistry, writing, and more. Peer tutoring aims to help students develop the academic study skills and confidence needed to succeed in their courses. At the Multicultural Center for Academic Excellence, peer tutors provide support for math, science, and more. Department-based academic support is available at tutor/help labs in Chemistry, CLA language program, CSci Tutor Room, Physics help lab, and Spanish & Portuguese lab. Student English Language Support (SELS) offers free, 45-minute consultations to multilingual undergraduate students to help further develop their English skills including speaking, listening, pronunciation, reading, writing, and intercultural communication.",
     "with": [
-      "Tutoring support is available from multiple departments. Many of our services are peer led which connects you other students who found success in the same subject.",
-      "Peer tutors provide support for over 250 subject areas including math, biology, physics, chemistry, writing, and more. Peer tutoring aims to help students develop the academic study skills and confidence needed to succeed in their courses.",
-      "Department based academic support is provided at tutor/help labs in the following areas: Chemistry, CLA language program, CSci Tutor Room, Physics help lab, Spanish & Portuguese lab.",
-      "Student English Language Support (SELS) offers free, 45-minute consultations to multilingual undergraduate students to help further develop their English skills."
+      "Tutoring support is available from multiple departments. Many of our services are peer led which connects you to other students who found success in the same subject.",
+      "Peer tutors provide support for over 250 subject areas including math, biology, physics, chemistry, writing, and more.",
+      "Peer tutoring aims to help students develop the academic study skills and confidence needed to succeed in their courses.",
+      "Student English Language Support (SELS) offers free, 45-minute consultations to multilingual undergraduate students to help further develop their English skills.",
+      "During a consultation, students can work with trained consultants on any English language skill, including speaking, listening, pronunciation, reading, writing, and intercultural communication."
     ],
     "without": [
+      "Skip to main content",
       "Go to the University of Minnesota Twin Cities home page",
-      "Connect with us: Instagram Email: [email protected] Academic Success Centers provide services to help undergraduate students succeed at the University.",
-      "For Students, Faculty, and Staff One Stop MyU",
-      "Menu Tutoring All Tutoring Resources Tutoring & Academic Success Center Multicultural Center for Academic Excellence Academic Departments Student English Language Support"
-    ]
+      "Connect with us: Instagram",
+      "Academic Success Centers provide services to help undergraduate students succeed at the University",
+      "One Stop"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "/sites/success.umn.edu/files/2020-02/writing_0.png",
+          "filename": "writing_0.png",
+          "alt": "paper, light bulb, and pencil",
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:27:59.075439"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:25:32.263111"
 }

@@ -1,0 +1,61 @@
+{
+  "schema_version": "2.0",
+  "url": "https://tampaymca.org/programs/health-fitness/personal-group-training",
+  "file_id": "1085",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "health-fitness",
+        "personal-training",
+        "ymca",
+        "gym-programs"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Personal and Group Training",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Get more from your workout with training programs from our certified personal trainers, wellness staff and life coaches. The Tampa Y wellness staff is ready to support each individual by being accountability partners, creating programs to help you achieve your goals and create and stick to healthy lifestyle habits. Whether you need someone to guide you in a fitness routine, need to improve strength to master daily activities, need an accountability partner or thrive in a competitive environment, the Y has a training program for you. Personal Training: When you work with a personal trainer at the Y, you will establish goals that suit your fitness level, workout one-on-one time with a certified trainer, learn fun challenging exercises, receive an exercise program specific to your needs, health status, and limitations, learn proper exercise techniques, program design, and progression to avoid exercise-related injuries, receive positive encouragement and accountability to keep you committed to your training program, and receive an InBody scan for free. Small Group Training: Work out with a friend or meet new people and accountability partners! Small group training is the best of personal training and group exercise, with fewer people and a certified personal trainer leading a specialized program. The group works toward similar goals focusing on strength, endurance and agility. Benefits include new friends, accountability partners, workout with people with similar goals, competitive environment, certified personal trainer guidance, and cost-effective semi-personal training. Personal Training Rates (60-minute sessions): 1 session is $75 for members, $82 for non-members; 3 sessions are $215 for members ($72/session), $235 for non-members ($78/session); 6 sessions are $415 for members ($69/session), $455 for non-members ($76/session); 12 sessions are $800 for members ($67/session), $880 for non-members ($73/session); 16 sessions are $1,035 for members ($65/session), $1,138 for non-members ($71/session). Small Group Training Packages: 4 sessions are $60 for members, $80 for non-members; 6 sessions are $90 for members, $102 for non-members; 8 sessions are $120 for members, $136 for non-members; 12 sessions are $180 for members, $204 for non-members; 16 sessions are $240 for members, $272 for non-members. Trainers are available at all 13 Tampa Y locations including Bob Sierra, Campo, Central City, Dade City & East Pasco, Downtown, New Tampa, North Brandon, Northwest & West Park Village, Plant City, South Tampa, and Spurlino.",
+    "with": [
+      "Get more from your workout with training programs from our certified personal trainers, wellness staff and life coaches.",
+      "When you work with a personal trainer at the Y, you will establish goals that suit your fitness level.",
+      "Small group training is the best of personal training and group exercise, with fewer people and a certified personal trainer leading a specialized program.",
+      "Package session quantities vary by location. Each Small Group Training session is typically 60 minutes.",
+      "Learn proper exercise techniques, program design, and progression to avoid exercise-related injuries."
+    ],
+    "without": [
+      "TAMPA METROPOLITAN AREA YMCA",
+      "Skip to main content",
+      "Join Now",
+      "Donate Now",
+      "My Account"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "/sites/default/files/styles/media_half/public/2021-02/health_personal_training_double.jpg.webp?itok=v-jNMAEY",
+          "filename": "health_personal_training_double.jpg.webp",
+          "alt": "senior man lifting dumbbells above head with personal trainer arrow graphic and woman doing a sit up with a personal trainer",
+          "caption": "Senior man lifting dumbbells above head with personal trainer and woman doing sit ups with personal trainer",
+          "is_hero": true
+        },
+        {
+          "src": "/sites/default/files/styles/media_half/public/2021-02/health_group_training_double.jpg.webp?itok=eh_1uCPI",
+          "filename": "health_group_training_double.jpg.webp",
+          "alt": "repetitive arrow graphic pointing left over woman and man in sit up position holding medicine balls",
+          "caption": "Woman and man in sit up position holding medicine balls during group training session",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:21:10.732871"
+}

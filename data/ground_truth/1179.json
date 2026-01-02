@@ -1,0 +1,102 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.siteminder.com/r/hotel-brands/",
+  "file_id": "1179",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "guide",
+        "hotels",
+        "travel"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Hotel brands: Ultimate guide to the top hotel chains - SiteMinder",
+    "author": "Dean Elphick",
+    "publish_date": "2024-02-26",
+    "main_content": "Discover top hotel brands of every global hotel chain: Marriott, Hilton, IHG, Hyatt, Wyndham, Accor, Choice Hotels, and Best Western. The world's eight largest hotel groups manage a significant portion of the global hotel industry's hotel rooms. Marriott International stands as the world's largest hotel chain, followed by Hilton and IHG. Each major hotel brand offers distinct experiences from luxury to economy accommodations. The article provides detailed information about each major hotel chain including their brand portfolios, loyalty programs, and market presence.",
+    "with": [
+      "Marriott International stands as the world's largest hotel chain, followed by Hilton and IHG.",
+      "The world's eight largest hotel groups manage a significant portion of the global hotel industry's hotel rooms.",
+      "Each major hotel brand offers distinct experiences from luxury to economy accommodations.",
+      "Discover top hotel brands of every global hotel chain: Marriott, Hilton, IHG, Hyatt, Wyndham, Accor, Choice Hotels, and Best Western.",
+      "The article provides detailed information about each major hotel chain including their brand portfolios, loyalty programs, and market presence."
+    ],
+    "without": [
+      "Platform Features navigation menu",
+      "Get started button and login links",
+      "Cookie notice and privacy policy links",
+      "Social media sharing buttons",
+      "Footer copyright information"
+    ],
+    "images": {
+      "total_in_content": 20,
+      "annotated_count": 8,
+      "items": [
+        {
+          "src": "https://www.siteminder.com/wp-content/uploads/2024/02/Marriott-Bonvoy.png",
+          "filename": "Marriott-Bonvoy.png",
+          "alt": "hotel brands: marriot bonvoy",
+          "caption": "Marriott Bonvoy hotel brand",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.siteminder.com/wp-content/uploads/2024/02/Hilton.png",
+          "filename": "Hilton.png",
+          "alt": "Hotel brands under the Hilton hotel chain",
+          "caption": "Hilton hotel chain brands",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.siteminder.com/wp-content/uploads/2024/02/IHG.png",
+          "filename": "IHG.png",
+          "alt": "IHG hotel brand",
+          "caption": "IHG hotel brand",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.siteminder.com/wp-content/uploads/2024/02/Hyatt.png",
+          "filename": "Hyatt.png",
+          "alt": "Hotel brands under the Hyatt hotel chain",
+          "caption": "Hyatt hotel chain brands",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.siteminder.com/wp-content/uploads/2024/02/Wyndham.png",
+          "filename": "Wyndham.png",
+          "alt": "Brands under the Wyndham Hotels and Resorts chain",
+          "caption": "Wyndham Hotels and Resorts brands",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.siteminder.com/wp-content/uploads/2024/02/Accor-1.png",
+          "filename": "Accor-1.png",
+          "alt": "Accor hotel brand",
+          "caption": "Accor hotel brand",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.siteminder.com/wp-content/uploads/2024/02/Choice-1.png",
+          "filename": "Choice-1.png",
+          "alt": "Choice hotel brand",
+          "caption": "Choice hotel brand",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.siteminder.com/wp-content/uploads/2024/02/Best-Western-1.png",
+          "filename": "Best-Western-1.png",
+          "alt": "Best Western hotel brand",
+          "caption": "Best Western hotel brand",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:58:17.321596"
+}

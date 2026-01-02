@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "url": "https://codeberg.org/Swindlers-Inc/sqlitez",
+  "file_id": "2510",
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "software",
+        "repository",
+        "zig",
+        "sqlite",
+        "documentation"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Swindlers-Inc/sqlitez: A lightweight SQLite wrapper and schema maintainer - Codeberg.org",
+    "author": "Swindlers-Inc",
+    "publish_date": null,
+    "main_content": "sqlitez - A lightweight SQLite wrapper and schema manager. While one should not encounter any difficulty, when calling the C interface of SQLite from Zig, it may become somewhat tedious: Firstly, all return values need to be checked for error codes; And secondly, one would continuously need to coerce between C- and Zig language types. The sqlitez package provides a wrapper for common sqlite functions that automatically coerce between language types, and return errors when a function call fails. Additionally, the sqlitez package provides a convenient mechanism for maintaining a schema with upgrade scripts. MIT with non-AI clauses. Getting started: Add the dependency to your project, open a database connection using init function, execute SQL statements with exec function, use prepared statements for parameterised queries, binding parameters with bindText, bindInt, etc., evaluating statements with step function, accessing result values with columnText, columnInt, etc., using transactions with Transaction struct, and schema maintenance with SchemaMaintainer struct for upgrade scripts. Development setup requires SQLite, Zig version 0.15.1, and optionally zls. Build with zig build and test with zig build test.",
+    "with": [
+      "The sqlitez package provides a wrapper for common sqlite functions that automatically coerce between language types, and return errors when a function call fails.",
+      "To open a database connection, one simply needs to call the init function of the Connection struct.",
+      "Prepared statements improves efficiency, as they can be used repeatedly without re-compiling.",
+      "The sqlitez package provides a convenient SchemaMaintainer struct that maintains the database schema from a user supplied sequence of upgrade scripts.",
+      "From the project folder run zig build to build the project."
+    ],
+    "without": [
+      "Sign in to watch this repository",
+      "Codeberg has changed its Terms of Use",
+      "Download ZIP",
+      "Open with VS Code",
+      "Codeberg.org"
+    ],
+    "images": {
+      "total_in_content": 2,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:44:16.951383"
+}

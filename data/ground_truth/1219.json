@@ -1,0 +1,68 @@
+{
+  "schema_version": "2.0",
+  "url": "https://jellyfish.co/blog/best-developer-experience-tools/",
+  "file_id": "1219",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "devops",
+        "developer-tools",
+        "software-development"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "14 Best Developer Experience (DevEx) Tools for 2026",
+    "author": "Lauren Hamberg",
+    "publish_date": "2025-12-15",
+    "main_content": "High-quality software comes from happy, satisfied developers. Happy developers can be found in environments that give them space to do their jobs well – workplaces free of friction, with streamlined workflows, and featuring good collaboration. An optimized developer experience (DevEx) is essential for both happy teams and high-quality software development. DevEx tools are software designed to enhance developer productivity, efficiency, and satisfaction throughout the software development lifecycle.\n\nKey Features to Look For in a DevEx Tool:\n- Collaboration Features: Shared workspaces, real-time editing, in-context communication, project management integrations\n- Automation and Integration Features: Automated testing, CI/CD pipelines, version control integration, workflow automation\n- Friction Reduction: Intuitive interfaces, easy setup, high performance, clear error messages\n- Feedback Loops: Real-time feedback, live updates, integrated debugging, code quality analysis\n- Robust Documentation: Comprehensive documentation, clear examples, logical navigation, contextual help\n\n14 Best Developer Experience Tools for Engineering Teams:\n1. Jellyfish - Engineering management platform offering insights into team dynamics and well-being with features including feedback & recognition, workload balancing, collaboration insights, team health metrics, and surveys\n2. LinearB - Software delivery intelligence platform with DORA metrics, workflow automation, and resource allocation\n3. Pluralsight Flow - Software engineering intelligence platform with workflow visualization, cycle time analysis, and team collaboration features\n4. Code Climate Velocity - Enterprise engineering intelligence platform with diagnostic workshops, custom dashboards, and tailored action plans\n5. Haystack - Engineering analytics platform with unified delivery stack, delivery reports, and automated status updates\n6. Postman - API development and testing platform with API design, testing, and documentation features\n7. Vercel - Cloud platform with serverless functions, pre-built templates, and collaboration features\n8. CodeSandbox - Online code editor with live collaboration, instant deployment, and extensive library support\n9. Grafana - Open-source visualization and analytics platform with flexible dashboards, multiple data sources, and alerting\n10. Datadog - Cloud monitoring and observability platform with infrastructure monitoring, APM, and log management\n11. GitHub Copilot - AI-powered code completion tool with context-aware suggestions and multi-language support\n12. GetDX - Developer intelligence platform combining quantitative and qualitative data for holistic DevEx optimization\n13. Sourcegraph - Code intelligence platform with code search, code intelligence, and code navigation\n14. Qovery - Cloud deployment platform with environment management and automated infrastructure management",
+    "with": [
+      "High-quality software comes from happy, satisfied developers.",
+      "An optimized developer experience (DevEx) is essential for both happy teams and high-quality software development.",
+      "DevEx tools are software designed to enhance developer productivity, efficiency, and satisfaction throughout the software development lifecycle.",
+      "Jellyfish is an engineering management platform that goes beyond metrics, offering insights into team dynamics and well-being to foster a positive developer experience.",
+      "The 14 tools covered include Jellyfish, LinearB, Pluralsight Flow, Code Climate Velocity, Haystack, Postman, Vercel, CodeSandbox, Grafana, Datadog, GitHub Copilot, GetDX, Sourcegraph, and Qovery."
+    ],
+    "without": [
+      "Request a demo",
+      "Share on LinkedIn, Twitter, Facebook",
+      "NEW: 25+ new integrations to unify data across your entire SDLC",
+      "Platform | Solutions | Research | Customers | Resources | Pricing",
+      "© 2025 Jellyfish. All rights reserved."
+    ],
+    "images": {
+      "total_in_content": 24,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://jellyfish.co/wp-content/uploads/2025/03/Lauren-Hamburg.jpg",
+          "filename": "Lauren-Hamburg.jpg",
+          "alt": null,
+          "caption": "Lauren Hamberg - Author photo",
+          "is_hero": false
+        },
+        {
+          "src": "https://jellyfish.co/wp-content/uploads/2024/10/blog-How-to-Choose-the-Right-Developer-Experience-Tool.webp",
+          "filename": "blog-How-to-Choose-the-Right-Developer-Experience-Tool.webp",
+          "alt": "14 Best Developer Experience (DevEx) Tools Heading Into 2025",
+          "caption": "14 Best Developer Experience (DevEx) Tools Heading Into 2025",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.jellyfish.co/wp-content/uploads/2024/10/14-Best-DevEx-Tools-Heading-Into-2025.png",
+          "filename": "14-Best-DevEx-Tools-Heading-Into-2025.png",
+          "alt": "14 Best DevEx Tools Heading Into 2025",
+          "caption": "14 Best DevEx Tools Heading Into 2025",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:10:53.865609"
+}

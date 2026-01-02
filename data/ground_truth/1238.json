@@ -1,27 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://programs.austincc.edu/fast-track-careers/",
   "file_id": "1238",
-  "downloaded_at": "2025-12-20T21:10:23.380222",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "career-training",
+        "certificates",
+        "community-college"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Fast Track Careers",
+    "title": "Fast Track Careers | Academic and Career Programs | Austin Community College District",
     "author": null,
     "publish_date": null,
-    "main_content": "Get Skills for Jobs Now\nTrain for a new career quickly and affordably at Austin Community College. ACC’s Fast Track Career Certificates can give you a helpful edge in the job market by equipping you with the in-demand skills Central Texas employers need now. Noncredit and for-credit certificate options are available to help you achieve fast results and long term success.\n\nNoncredit Certificates — 50% Discount\nACC’s Continuing Education Division offers noncredit skill certificates that prepare you to start a new career or advance in your current profession even faster. Register now and save 50% on the cost of most programs. Discounts have been applied to the costs listed below. Financial assistance also may be available; check with the program for details.\n\nReady to register?  Visit the Continuing Education registration page or contact 512-223-7542.\n\nBusiness\nCareer / Credential\tHourly (Entry→Median)\tAnnual (Entry→Median)\tEst. Time\tCost\nAccounting & Bookkeeping\t$14.52 → $20.64 per/hr\t$30,201 → $42,931 annually\t12 Weeks\t$495.00\nAdministrative Assistant\t$12.79 → $20.27 per/hr\t$26,603 → $42,161 annually\t8 Weeks\t$723.00\nProject Manager\t$16.70 → $46.90 per/hr\t$34,736 → $97,552 annually\t12 Weeks\t$1,249.50\nTranslation & Interpreting\t$19.31 → $38.51 per/hr\t$40,164 → $80,100 annually\t3 Semesters\t$592.00\n\nDesign, Manufacturing, Construction & Applied Technologies\nCareer / Credential\tHourly (Entry→Median)\tAnnual (Entry→Median)\tEst. Time\tCost\nAutomotive Mechanic\t—\t$27,644 → $48,366\t12 Weeks\t$598.00\nCertified CAD Drafter\t$17.87 → $27.13\t$37,169 → $56,430\t10 Weeks\t$996.00\nCertified Production Technician\t$12.94 → $19.05\t$26,918 → $68,578\t4 – 8 Weeks\t$1,100.00\nHeavy Equipment Operator\t$14.62 → $20.04\t$30,409 → $41,683\t3 Weeks\t$1,975.00\nHVAC\t$14.31 → $20.31\t$29,764 → $42,244\t12 Weeks\t$1,450.00\nLineworker*\t$19.43 → $30.28\t$40,414 → $62,982\t6 Weeks\t$1,461.00\nPlumbing\t$14.40 → $26.43\t$29,952 → $54,974\t5 Months\t$1,399.50\nTruck Driving*\t$9.98 → $18.07\t$20,758 → $37,585\t5 Weeks\t$4,500.00\nWelding\t$14.29 → $20.14\t$29,723 → $41,891\t12 Weeks\t$900.00\n\nEducation\nCareer / Credential\tHourly (Entry→Median)\tAnnual (Entry→Median)\tEst. Time\tCost\nParaeducator\t$8.91 → $11.81\t$18,532 → $24,564\t3 Weeks\t$126.50\n\nInformation Technology\nCareer / Credential\tHourly (Entry→Median)\tAnnual (Entry→Median)\tEst. Time\tCost\nCisco Certified Network Associate\t$18.21 → $33.10\t$37,876 → $68,848\t6 Months\t$2,608.50\nCompTIA Security+\t$18.71 → $36.61\t$38,916 → $76,148\t12 Weeks\t$297.50\nInformation Security\t$18.71 → $36.61\t$38,916 → $76,148\t56 Hours\t$447.50\nPC Technician\t$18.21 → $33.10\t$37,876 → $68,848\t3 – 6 Months\t$1,150.00\nSoftware Developer Bootcamp*\t$16.86 → $34.51\t$35,068 → $71,780 [c]\t6 Months\t$8,600.00\nWeb Developer\t$16.86 → $34.51\t$35,068 → $71,780\t12 Months\t$1,980.00\n\nHealth Sciences\nCareer / Credential\tHourly (Entry→Median)\tAnnual (Entry→Median)\tEst. Time\tCost\nCertified Nurse Aide\t$8.09 → $10.33\t$16,827 → $21,486\t12 Weeks\t$554.00\nDental Assistant\t$13.77 → $20.11\t$28,641 → $41,820\t12 Months\t$2,099.00\nMedical Assistant\t$12.78 → $16.65\t$26,582 → $34,642\t6 – 12 Months\t$3,837.00\nMedical Billing & Coding\t$12.79 → $16.94\t$26,603 → $35,235\t9 Months\t$2,875.00\nMedical Office Support\t$12.80 → $17.02\t$26,624 → $35,401\t1 Semester\t$1,161.00\nPhlebotomy Technician\t$8.33 → $16.40\t$17,326 → $34,112\t12 Weeks\t$900.00\nVeterinary Assistant\t$9.68 → $16.47\t$34,257 → $42,411\t12 Months\t$1,988.50\n\n*Salary information is based on data analysis of traditional and real-time labor market information (LMI) provided in collaboration with Emsi (Economic Modeling Specialists International), a Strada company.\n\nReady to start working on a for-credit certificate→ Visit the for-credit registration page or contact 512-223-4636.\n\nACC Career Services offers a free, 4-week course called Strategies for Today’s Jobs. You’ll learn to find job openings, write a successful resume, and land interviews in this digital era. Learn more.\n\nReady to get started→\nRegistration instructions differ, depending on the type of certificate you choose to pursue. \n\nIf you’d like to start working on a noncredit certificate, visit the Continuing Education registration page or contact 512-223-7542.\nIf you’d like to start working on a for-credit certificate, visit the for-credit registration page or contact 512-223-4636.",
+    "main_content": "Train for a new career quickly and affordably at Austin Community College. ACC's Fast Track Career Certificates can give you a helpful edge in the job market by equipping you with the in-demand skills Central Texas employers need now. Noncredit and for-credit certificate options are available to help you achieve fast results and long term success.\n\nNoncredit Certificates — 50% Discount: ACC's Continuing Education Division offers noncredit skill certificates that prepare you to start a new career or advance in your current profession even faster. Register now and save 50% on the cost of most programs. Financial assistance also may be available.\n\nBusiness programs include: Accounting & Bookkeeping ($495, 12 Weeks, $14.52-$20.64/hr), Administrative Assistant ($723, 8 Weeks, $12.79-$20.27/hr), Project Manager ($1,249.50, 12 Weeks, $16.70-$46.90/hr), Translation & Interpreting ($592, 3 Semesters, $19.31-$38.51/hr).\n\nDesign, Manufacturing, Construction & Applied Technologies programs include: Automotive Mechanic ($598, 12 Weeks), Certified CAD Drafter ($996, 10 Weeks, $17.87-$27.13/hr), Certified Production Technician ($1,100, 4-8 Weeks), Heavy Equipment Operator ($1,975, 3 Weeks), HVAC ($1,450, 12 Weeks), Lineworker ($1,461, 6 Weeks), Plumbing ($1,399.50, 5 Months), Truck Driving ($4,500, 5 Weeks), Welding ($900, 12 Weeks).\n\nEducation: Paraeducator ($126.50, 3 Weeks, $8.91-$11.81/hr).\n\nInformation Technology programs include: Cisco Certified Network Associate ($2,608.50, 6 Months, $18.21-$33.10/hr), CompTIA Security+ ($297.50, 12 Weeks, $18.71-$36.61/hr), Information Security ($447.50, 56 Hours), PC Technician ($1,150, 3-6 Months), Software Developer Bootcamp ($8,600, 6 Months, $16.86-$34.51/hr), Web Developer ($1,980, 12 Months).\n\nHealth Sciences programs include: Certified Nurse Aide ($554, 12 Weeks, $8.09-$10.33/hr), Dental Assistant ($2,099, 12 Months, $13.77-$20.11/hr), Medical Assistant ($3,837, 6-12 Months, $12.78-$16.65/hr), Medical Billing & Coding ($2,875, 9 Months, $12.79-$16.94/hr), Medical Office Support ($1,161, 1 Semester), Phlebotomy Technician ($900, 12 Weeks, $8.33-$16.40/hr), Veterinary Assistant ($1,988.50, 12 Months).\n\nACC Career Services offers a free, 4-week course called Strategies for Today's Jobs. You'll learn to find job openings, write a successful resume, and land interviews.\n\nReady to get started: For noncredit certificates, visit the Continuing Education registration page or contact 512-223-7542. For for-credit certificates, visit the for-credit registration page or contact 512-223-4636.",
     "with": [
       "Train for a new career quickly and affordably at Austin Community College.",
-      "ACC’s Fast Track Career Certificates can give you a helpful edge in the job market by equipping you with the in-demand skills Central Texas employers need now.",
-      "ACC’s Continuing Education Division offers noncredit skill certificates that prepare you to start a new career or advance in your current profession even faster.",
       "Register now and save 50% on the cost of most programs.",
-      "Registration instructions differ, depending on the type of certificate you choose to pursue."
+      "Certified Nurse Aide ($554, 12 Weeks, $8.09-$10.33/hr)",
+      "CompTIA Security+ ($297.50, 12 Weeks, $18.71-$36.61/hr)",
+      "Welding ($900, 12 Weeks, $14.29-$20.14/hr)"
     ],
     "without": [
-      "Academic & Career Programs",
       "Skip to Main Content",
       "Apply to ACC",
-      "Start Here. Get There.",
-      "Austin Community College District 6101 Highland Campus Drive Austin, Texas 78752-4390 512-223-7000"
-    ]
+      "ACC Home",
+      "Privacy Policy",
+      "Contact ACC"
+    ],
+    "images": {
+      "total_in_content": 2,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:10:23.380229"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:14:24.666950"
 }

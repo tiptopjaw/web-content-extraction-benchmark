@@ -1,27 +1,60 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.morganstanley.com/insights/articles/what-is-a-financial-plan",
   "file_id": "1024",
-  "downloaded_at": "2025-12-20T20:23:06.819431",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "financial-planning",
+        "wealth-management",
+        "guide"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "What Is a Financial Plan and Why Do I Need One?",
+    "title": "What is a Financial Plan? Why You Need One | Morgan Stanley",
     "author": "Anthea N. Tjuanakis Cox, Head of Financial Planning",
     "publish_date": "2025-06-27",
-    "main_content": "If you’re investing, saving money for retirement and paying down debt, you probably feel good about your financial future. That said, even the most experienced investors can have a hard time shaking the feeling that they’re making it up as they go along. And when uncertainty strikes in the form of a market decline, job loss or unexpected expenses, anxiety and worry are never far behind. That’s where a financial plan comes in.\n\nA financial plan aligns your goals with your tolerance for risk and the amount of time you have until major goals such as retirement, while giving you the adaptability to manage whatever life throws your way. Think of it like a roadmap: It can tell you where to go, along with alternative paths to take when you run into a detour or decide to take the scenic route.\n\nTo better understand the value of financial planning, Morgan Stanley Wealth Management’s Global Investment Office polled more than 1,000 respondents to understand financial planning trends among today’s investor population for our 2025 The Power of Financial Planning Survey. Three-quarters (76%) of respondents said they wish they had had a financial plan sooner and 66% reported feeling a lack of strong confidence in their ability to achieve long-term goals.\n\nCreating a financial plan as early as possible can help you feel prepared, no matter what. Here’s how to get started.\n\nWhat is a financial plan?\nA financial plan is more than just an investment strategy. It is a personalized roadmap that can help you make decisions about financial tradeoffs and manage your money throughout your life. With the help of a Financial Advisor, you’ll review your assets, such as your investment portfolio; consider your liabilities, such as debt; and discuss your personal goals. Those details can help you create a step-by-step plan that will map out your timeline to achieve short- and long-term goals.\n\nFor example, your plan can help you determine how you’ll save to buy a home in a way that considers the market and interest rate environment. Or it might account for the way a career pivot or earlier retirement date may change your savings goals. You can also model what-if scenarios so you’re prepared for the things that keep you up at night, for example, inflation or loss of a family member. Modeling different scenarios can help you be more informed and confident about the decisions you make.\n\nWhy do I need a financial plan?\nLike any roadmap, a financial plan can help you avoid feeling stressed. According to our research, people with a financial plan are less likely to worry about whether they are on track to meet their financial goals (36% of survey respondents) compared to people without a financial plan (47%). At the same time, respondents with a financial plan are about 10% more likely to say they are satisfied with their personal relationships, investment portfolio, life direction and financial health.\n\nOne reason for this increased satisfaction is that a financial plan helps remove some of the worry of investing by helping you make decisions and balance trade-offs.\n\nFor example, think back to the early days of the COVID pandemic. In just one month, the market plunged about 34%. For investors who didn’t have a plan in place, the temptation to panic and sell at the market low would have been tremendous. However, investors with a financial plan in place – say, an investor who won’t need their retirement funds for decades – could rest easy, wait for the market to recover and stay on track with their long-term goals. In fact, a Morgan Stanley Global Investment Committee study of nearly 120,000 clients using Morgan Stanley’s Goals Based Planning System during the 2020 COVID market crash found that more than three-quarters of those who were initially considered “on track” in their plan remained so, even at the market’s bottom.\n\nDo I have enough assets for a financial plan?\nOne common misconception is that a financial plan is only for people with significant wealth. However, a financial plan isn’t about what you have. It’s about what you want to achieve. Rather than starting with a specific level of wealth, the key to success is time. Creating a financial plan sooner can give you more time to let your wealth grow, with the added flexibility for when goals change.\n\nStarting sooner instead of starting with more is one of the biggest regrets for most investors: 76% of respondents say they wish they created a financial plan as soon as they started their career. However, only 28% of investors say they started planning when they first started working, while 68% only started thinking about a financial plan when they began saving for retirement.\n\nWhile it’s never too late, it can be beneficial to start sooner, even if you don’t think you have enough assets available to warrant a plan.\n\nWhat if my financial plan needs to change?\nKeep in mind that a financial plan isn’t something you create once and never touch again. It’s meant to evolve as life changes. Whether you’re buying a home, saving to pay for college or preparing for retirement, your financial plan will adjust to reflect your new goals and current circumstances.\n\nTracking your progress against your plan can also help you determine when it’s time to update your strategy, revise your savings targets or adjust your timeline. While more than half of respondents track their account value (83%), changes in their account balances (71%) and total net worth (62%), only 38% track their progress toward their goals. A financial plan can help you create goals and track progress so you can make the right change at the right time as needed.\n\nHow do I get started?\nCreating and managing a financial plan doesn’t have to be difficult or overwhelming. Your Morgan Stanley Financial Advisor can help you develop a personalized plan based on your needs and current portfolio, and then create a benchmark that helps gauge success based on your goals.\n\nIn addition, your Morgan Stanley Financial Advisors can stress test your personalized financial plan against more than 10,000 possible market scenarios so you can be certain that your plan is ready for any uncertainty that comes your way.\n\nThe bottom line: a financial plan is a practical tool you can use to make short-term decisions while keeping your long-term goals in focus, regardless of your circumstances and needs. Having a financial planning conversation with your Morgan Stanley Financial Advisor can be the next step in helping you feel more prepared to tackle your evolving and complex financial life.\n\nTo learn more and view the full survey results used for this article, ask your Financial Advisor for a copy of The Power of Financial Planning: A Road Map to Achieving Goals With Confidence.",
+    "main_content": "If you're investing, saving money for retirement and paying down debt, you probably feel good about your financial future. That said, even the most experienced investors can have a hard time shaking the feeling that they're making it up as they go along. And when uncertainty strikes in the form of a market decline, job loss or unexpected expenses, anxiety and worry are never far behind. That's where a financial plan comes in. A financial plan aligns your goals with your tolerance for risk and the amount of time you have until major goals such as retirement, while giving you the adaptability to manage whatever life throws your way. Think of it like a roadmap: It can tell you where to go, along with alternative paths to take when you run into a detour or decide to take the scenic route. To better understand the value of financial planning, Morgan Stanley Wealth Management's Global Investment Office polled more than 1,000 respondents to understand financial planning trends among today's investor population for our 2025 The Power of Financial Planning Survey. Three-quarters (76%) of respondents said they wish they had had a financial plan sooner and 66% reported feeling a lack of strong confidence in their ability to achieve long-term goals. A financial plan is more than just an investment strategy. It is a personalized roadmap that can help you make decisions about financial tradeoffs and manage your money throughout your life. With the help of a Financial Advisor, you'll review your assets, such as your investment portfolio; consider your liabilities, such as debt; and discuss your personal goals. Those details can help you create a step-by-step plan that will map out your timeline to achieve short- and long-term goals. According to our research, people with a financial plan are less likely to worry about whether they are on track to meet their financial goals (36% of survey respondents) compared to people without a financial plan (47%). At the same time, respondents with a financial plan are about 10% more likely to say they are satisfied with their personal relationships, investment portfolio, life direction and financial health. One common misconception is that a financial plan is only for people with significant wealth. However, a financial plan isn't about what you have. It's about what you want to achieve. Rather than starting with a specific level of wealth, the key to success is time. Creating a financial plan sooner can give you more time to let your wealth grow, with the added flexibility for when goals change. Starting sooner instead of starting with more is one of the biggest regrets for most investors: 76% of respondents say they wish they created a financial plan as soon as they started their career. However, only 28% of investors say they started planning when they first started working, while 68% only started thinking about a financial plan when they began saving for retirement. Keep in mind that a financial plan isn't something you create once and never touch again. It's meant to evolve as life changes. Whether you're buying a home, saving to pay for college or preparing for retirement, your financial plan will adjust to reflect your new goals and current circumstances. A financial plan is a practical tool you can use to make short-term decisions while keeping your long-term goals in focus, regardless of your circumstances and needs.",
     "with": [
       "A financial plan aligns your goals with your tolerance for risk and the amount of time you have until major goals such as retirement, while giving you the adaptability to manage whatever life throws your way.",
       "Three-quarters (76%) of respondents said they wish they had had a financial plan sooner and 66% reported feeling a lack of strong confidence in their ability to achieve long-term goals.",
-      "A financial plan is more than just an investment strategy. It is a personalized roadmap that can help you make decisions about financial tradeoffs and manage your money throughout your life.",
-      "According to our research, people with a financial plan are less likely to worry about whether they are on track to meet their financial goals (36% of survey respondents) compared to people without a financial plan (47%).",
-      "Creating a financial plan sooner can give you more time to let your wealth grow, with the added flexibility for when goals change."
+      "People with a financial plan are less likely to worry about whether they are on track to meet their financial goals (36% of survey respondents) compared to people without a financial plan (47%).",
+      "One common misconception is that a financial plan is only for people with significant wealth. However, a financial plan isn't about what you have. It's about what you want to achieve.",
+      "A financial plan is a practical tool you can use to make short-term decisions while keeping your long-term goals in focus, regardless of your circumstances and needs."
     ],
     "without": [
-      "Investor Relations",
-      "Find a Financial Advisor, Branch and Private Wealth Advisor near you.",
-      "DIY Investors: Why Choose a Morgan Stanley Financial Advisor",
-      "Morgan Stanley Wealth Management",
-      "Check the background of Our Firm and Investment Professionals on FINRA's Broker/Check."
-    ]
+      "Sign Up For Our Newsletter",
+      "Copyright 2025 Morgan Stanley",
+      "Client Login",
+      "Find a Financial Advisor",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 14,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "/content/dam/msdotcom/Insights/articles/what-is-a-financial-plan/wide-financial-plan-2540x800.jpg/_jcr_content/renditions/extrawide_3x1.jpg",
+          "filename": "extrawide_3x1.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "/content/dam/msdotcom/Insights/articles/what-is-a-financial-plan/financial-plan-chart-starting-out-desktop-2540x800.png",
+          "filename": "financial-plan-chart-starting-out-desktop-2540x800.png",
+          "alt": "Bar chart showing comparison between Best Time to Start vs When They Started for Starting Career and Saving for Retirement",
+          "caption": "Bar chart showing comparison between Best Time to Start vs When They Started for Starting Career and Saving for Retirement. Source: Morgan Stanley Wealth Management Global Investment Office, The Power of Financial Planning: A Road Map to Achieving Goals With Confidence Survey",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:23:06.819438"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:03:10.634112"
 }

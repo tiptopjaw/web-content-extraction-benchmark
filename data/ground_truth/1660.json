@@ -1,0 +1,61 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.cpai.com/Education-Resources/me-and-my-family/Auto-tips/How-to-get-the-best-car-insurance-in-5-steps",
+  "file_id": "1660",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "insurance",
+        "guide",
+        "how-to",
+        "personal-finance"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "How to get the best car insurance in 5 steps | AICPA",
+    "author": null,
+    "publish_date": null,
+    "main_content": "5 steps to help you feel confident in getting the best car insurance for your unique situation. Get a quote in under 10 minutes through the AICPA Member Insurance Program and Liberty Mutual. Navigate the car insurance quote process like a pro with these 5 steps: Step 1: Gather your information, Step 2: Review your current coverage, Step 3: Compare car insurance quotes, Step 4: Ask the right questions, Step 5: Choose the best car insurance for you. Understanding the factors that influence your auto insurance rates helps you make informed decisions about your coverage options. The premium you pay is based on factors like your driving record, the type of car you drive, where you live, your age, gender, and marital status. Insurance companies also consider your credit score, claims history, and how you use your vehicle. When you're comparing car insurance quotes, it can be overwhelming. But having all your information ready helps make the process smoother. Make sure you have your current policy declarations page, vehicle registration, and driver's license handy. You should also review your current auto insurance policy to understand what you're currently paying for and identify any gaps in coverage. Get a car insurance quote from Liberty Mutual through the AICPA Member Insurance Program today.",
+    "with": [
+      "5 steps to help you feel confident in getting the best car insurance for your unique situation.",
+      "Navigate the car insurance quote process like a pro with these 5 steps.",
+      "Understanding the factors that influence your auto insurance rates helps you make informed decisions.",
+      "When you're comparing car insurance quotes, it can be overwhelming.",
+      "Get a car insurance quote from Liberty Mutual through the AICPA Member Insurance Program today."
+    ],
+    "without": [
+      "Copyright 2025 AICPA",
+      "Contact Us",
+      "Search",
+      "Plans for Me + My Family",
+      "Education & Resources"
+    ],
+    "images": {
+      "total_in_content": 18,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "/getmedia/17318020-cb75-4e92-9dc9-9feeb63a95b8/article.png",
+          "filename": "article.png",
+          "alt": null,
+          "caption": "Article featured image",
+          "is_hero": true
+        },
+        {
+          "src": "/getmedia/50eb2b81-d5fe-466b-b8b1-7cb99c507b16/Auto-Vehicle.png",
+          "filename": "Auto-Vehicle.png",
+          "alt": null,
+          "caption": "Auto/Vehicle insurance illustration",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:41:37.985359"
+}

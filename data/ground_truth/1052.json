@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.nucamp.co/blog/homepage-nucamp-2025-top-10-best-rated-coding-bootcamps-in-2025",
+  "file_id": "1052",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "education",
+        "coding",
+        "bootcamps",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Top 10 Best Rated Coding Bootcamps in 2025",
+    "author": "Ludo Fourrage",
+    "publish_date": "2025-12-15",
+    "main_content": "Coding bootcamps in 2025 have totally transformed the tech education game. The latest data from Technavio's market analysis shows the industry growing at an impressive 21.17% annually, reaching $2.81 billion by 2028. These programs are making waves because they get straight to the point. You can jump into tech without spending four years and a fortune on college. According to recent industry reports, graduates are seeing average salary increases of $22,000 after completing their programs. Top-rated bootcamps now offer cutting-edge courses in AI, blockchain, and cloud computing, with some programs available for as low as $2,124 during early bird periods. Most bootcamps provide flexible payment plans and scholarships, making them super accessible. With over 75% of graduates landing tech jobs within six months and starting salaries ranging from $70,000 to $90,000, more people are choosing this path. The programs keep evolving with hybrid learning options, career coaching, and project-based coursework that actually prepares you for real jobs in tech. This guide breaks down the best bootcamps of 2025, helping you figure out which one matches your goals.\n\nThe article then covers detailed profiles of Le Wagon, TripleTen, Simplilearn, CourseCareers, Nucamp, SheCodes, CareerFoundry, Clarusway, Tech Elevator, and CodeStack Academy, including their pricing, programs, job placement rates, and unique features. It concludes with insights on the future of coding bootcamps and answers to frequently asked questions about bootcamp costs, job guarantees, and learning formats.",
+    "with": [
+      "Coding bootcamps in 2025 have totally transformed the tech education game.",
+      "The latest data from Technavio's market analysis shows the industry growing at an impressive 21.17% annually, reaching $2.81 billion by 2028.",
+      "According to recent industry reports, graduates are seeing average salary increases of $22,000 after completing their programs.",
+      "With over 75% of graduates landing tech jobs within six months and starting salaries ranging from $70,000 to $90,000.",
+      "This guide breaks down the best bootcamps of 2025, helping you figure out which one matches your goals."
+    ],
+    "without": [
+      "Fill this form to download every syllabus from Nucamp.",
+      "Login",
+      "Newsletter Subscribe",
+      "2025 © Nucamp Inc. All rights reserved.",
+      "Home Community Bootcamps Financing Job Outcomes Business Blogs F.A.Q."
+    ],
+    "images": {
+      "total_in_content": 18,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://storage.googleapis.com/nucamp-production.appspot.com/aiseo-blogs/homepage-nucamp-2025/homepage-nucamp-2025-top-10-best-rated-coding-bootcamps-in-2025/thumbnail01.webp",
+          "filename": "thumbnail01.webp",
+          "alt": "A diverse group of students engaged in a coding bootcamp session.",
+          "caption": "A diverse group of students engaged in a coding bootcamp session.",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:10:27.377148"
+}

@@ -1,27 +1,83 @@
 {
+  "schema_version": "2.0",
   "url": "https://forum.lingq.com/t/best-daily-news-website-for-beginner/37628",
   "file_id": "1126",
-  "downloaded_at": "2025-12-20T21:22:08.789689",
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "language-learning",
+        "english",
+        "news",
+        "beginner",
+        "resources"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Best daily news website for beginner?",
-    "author": null,
+    "author": "LingoLover94",
     "publish_date": "2023-04-05",
-    "main_content": "Best daily news website for beginner?\n\nMy partner watched/ watches BBC news… it’s British English, and though I don’t know how beginner friendly it is there’s no sensational language like I’ve seen on American new channels, and I imagine that must make it easier to watch and understand.\n\nAs you, LingoLover94, mention CNN but feel it’s too hard and charrich87 mentions the BBC News but is unsure of its level, I’ll mention a BBC news site dedicated to English learners \n\nI’ve used it many times in the past with my students learning English \n\nBBC Learning English - BBC Learning English - Homepage\nLearn English with these free learning English videos and materials from BBC Learning English. This site will help you learn English and improve your pronunciation, grammar and vocabulary knowledge.\n\nI haven’t visited it for years - having precious little time to tutor students; and those I have preferring to engage in free-flowing conversations - but check it out!\nI’m sure it’s still as good as always.\n\nHi LingoLover94.  Do a google search on “news in easy english” or “easy news in english”.  You’ll get a lot of hits.  Here are a few that might be useful.\n\nĐọc báo tiếng Anh mỗi ngày cùng Easy English News - TODAI ENGLISH\nRead English news every day with Easy English News - TODAI ENGLISH\nUpdating news, improving listening - speaking English. News is updated continuously daily from official news sources such as CNN, VOA, ..\n\nEnglish news and easy articles for students of English\nNews in Levels « World News for Students of English\nWe write news in three different levels of English. We want to help you understand English more. Now all students can enjoy reading and listening to news.\nEst. reading time: 1 minute\n\nBreaking News English  - Easy English News\nEasy English, news, ideas, online activities and printable handouts that save you time - for news English and current events lessons.\n\nhttps://www.english-online.at/\n\nI would like to read all important news in English. Your mentioned sites usually offer only 4 articles per day.\n\nI only want to read and not watch videos. BBC Learning english offers too few articles per day about news.\n\nI’m afraid that may be the best that is offered.  You’ll have to poke around a bit, but I can’t find any site that has all the important news.\nYou could try taking an article from a regular news site like apnews.com and use openai chatgpt to ask it to simplify the text.\nFor example, I took part of an article from apnews.com and asked chatgpt to:\n\"can you change this text to beginner english:  \"\nand pasted the text into my question after the colon.  It took the text and seemingly simplified it.  Then you can take the generated response and create a lesson from it.\n\nwhen i was a kid, our English teachers made fun of USA Today for being written at a very low level.  They thought we needed to read things that were written in a more sophisticated way, with a higher level of vocabulary.  Taking that principle in reverse, you could try USA Today, even though it’s written for native speakers and not learners.\nYou could try it, at least, and see how it is for your level: https://www.usatoday.com/\n\nI always feel like I’m numbing my brain when I read MSN News as well: MSN\n(your mileage may vary-- keep in mind I’m writing as a native speaker and this may still be hard as a learner!)\nIt collates news from several wire services.\nYou could try the Associated Press: https://apnews.com/\nOr Reuters: https://www.reuters.com/\nOr how about the sensationalist presses of our day (warning: these are right wing news outlets and thus have a definite bias.  But they definitely write more simply.   NY Post headlines can sometimes be funny though)\n\nFox News - Breaking News Updates | Latest News Headlines | Photos & News...\nBreaking News, Latest News and Current News from FOXNews.com. Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.\n\nNew York Post\nYour source for breaking news, news about New York, sports, business, entertainment, opinion, real estate, culture, fashion, and more.\n\nthat’s a neat idea!\n\nYeah, it seems to work pretty well.  Haven’t tried this “simplification” in other languages, but I assume it works.\nMore fun was taking the same article and asking chatgpt to \"take this text and convert into the style of stephen king: \"  (and then giving the text of the article).  It made the article a bit more exciting =D\n\nYou are a genius\n\nI used to use EuroNews when I was a beginner in Spanish/French.\nTend to be pretty short articles with good transcripts/translations into most European languages\n\n@Zoran Could we have a news list what is sorted by new % words (ideally non-known words not blue words) and excludes previously read news items?\n\nLearn a New Language from Content You Love\nThousands of hours of language learning content to choose from in 42 languages, including audio and video, with full transcripts. Import content from your favourite sites and create personalized lessons.",
+    "main_content": "Best daily news website for beginner? - Discussion about finding easy English news sources for language learners. Suggestions include: BBC News (British English, no sensational language), BBC Learning English (dedicated to English learners), News in Levels (three different levels of English), Breaking News English (easy English news with printable handouts), TODAI English (Easy English News from Vietnam), USA Today (written at a lower level), MSN News, AP News, Reuters, Fox News, NY Post, and EuroNews. Users also suggest using ChatGPT to simplify news articles from regular news sites for beginners. The original poster specifically wanted to read all important news in English but found most sites only offer 4 articles per day and prefers reading over watching videos.",
     "with": [
-      "Best daily news website for beginner?",
-      "My partner watched/ watches BBC news… it’s British English, and though I don’t know how beginner friendly it is there’s no sensational language like I’ve seen on American new channels, and I imagine that must make it easier to watch and understand.",
-      "I’ll mention a BBC news site dedicated to English learners",
-      "Do a google search on “news in easy english” or “easy news in english”.  You’ll get a lot of hits.",
-      "You could try taking an article from a regular news site like apnews.com and use openai chatgpt to ask it to simplify the text."
+      "My partner watched/ watches BBC news… it's British English, and though I don't know how beginner friendly it is there's no sensational language like I've seen on American new channels, and I imagine that must make it easier to watch and understand.",
+      "As you, LingoLover94, mention CNN but feel it's too hard and charrich87 mentions the BBC News but is unsure of its level, I'll mention a BBC news site dedicated to English learners.",
+      "We write news in three different levels of English. We want to help you understand English more. Now all students can enjoy reading and listening to news.",
+      "You could try taking an article from a regular news site like apnews.com and use openai chatgpt to ask it to simplify the text.",
+      "I used to use EuroNews when I was a beginner in Spanish/French. Tend to be pretty short articles with good transcripts/translations into most European languages."
     ],
     "without": [
+      "Discourse 3.5.1 - https://github.com/discourse/discourse",
       "LingQ Language Forums",
-      "Discourse 3.5.1 - https://github.com/discourse/discourse version 39084ff7bd3dd57dcff9d0eadf1e0ac5759fef06",
-      "preloader-image",
-      "Learn English with",
-      "Problem Importing from Youtube"
-    ]
+      "Open Forum",
+      "Privacy Policy",
+      "Reading time: 1 mins"
+    ],
+    "images": {
+      "total_in_content": 8,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://forum.lingq.com/uploads/default/original/3X/a/9/a99d07de63351cafb813ff16a49c0c7646dc8036.png",
+          "filename": "a99d07de63351cafb813ff16a49c0c7646dc8036.png",
+          "alt": null,
+          "caption": "TODAI English - Easy English News site showing daily news updates",
+          "is_hero": true
+        },
+        {
+          "src": "https://forum.lingq.com/uploads/default/optimized/3X/f/3/f37d08421cdfd956b8b2b0953c94fe792c62c027_2_690x361.webp",
+          "filename": "f37d08421cdfd956b8b2b0953c94fe792c62c027_2_690x361.webp",
+          "alt": null,
+          "caption": "News in Levels - World News for Students of English with three difficulty levels",
+          "is_hero": false
+        },
+        {
+          "src": "https://forum.lingq.com/uploads/default/original/3X/6/0/60c28c90e5c72c0e6dbc34cda1f729eecef64857.jpeg",
+          "filename": "60c28c90e5c72c0e6dbc34cda1f729eecef64857.jpeg",
+          "alt": null,
+          "caption": "Breaking News English - Easy English News Lessons and printable handouts",
+          "is_hero": false
+        },
+        {
+          "src": "https://forum.lingq.com/uploads/default/optimized/3X/f/0/f03b78d142628e0559215814562c0bf5a388db84_2_690x362.png",
+          "filename": "f03b78d142628e0559215814562c0bf5a388db84_2_690x362.png",
+          "alt": null,
+          "caption": "Fox News - Breaking News Updates and Latest News Headlines",
+          "is_hero": false
+        },
+        {
+          "src": "https://forum.lingq.com/uploads/default/optimized/3X/a/9/a92e84262e8c6a205c7d5c05b17d64d710b1c27d_2_500x500.png",
+          "filename": "a92e84262e8c6a205c7d5c05b17d64d710b1c27d_2_500x500.png",
+          "alt": null,
+          "caption": "New York Post - Breaking News, New York sports, business and entertainment news",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:22:08.789695"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:43:39.691403"
 }

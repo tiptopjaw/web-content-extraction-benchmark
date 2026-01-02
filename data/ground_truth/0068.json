@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.onhires.com/hiring-hub/blockchain-developers",
+  "file_id": "0068",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "recruitment",
+        "blockchain",
+        "developers",
+        "hiring",
+        "staffing"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Hire Blockchain Developerss | OnHires",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Hire Blockchain Developers That Fit Your Vision. Specialized talent for DeFi, dApps, and enterprise blockchain solutions. Expert blockchain developers ready to join your team. Pre-vetted professionals with proven track records in smart contracts, consensus mechanisms, and Web3 protocols. Hire Blockchain Developers Within 48 Hours. Get Matched With Top 1% Talent in 72 Hours. Flexible Hiring Models. Hire developers on a full-time, part-time, or project basis. Scale your team up or down as needed. Save up to 60% on hiring costs compared to in-house recruitment. Zero recruitment fees. Industry-leading Vetting Process. Every candidate undergoes a 6-step rigorous assessment including technical interviews, code reviews, and real-world problem-solving simulations. Blockchain Specializations. DeFi Development, Smart Contracts (Solidity, Rust), dApp Development, NFT Marketplace Development, Enterprise Blockchain Solutions, Layer 2 Scaling Solutions, Cryptocurrency Exchange Development, DAO Development. Hire Blockchain Developers in 3 Simple Steps. Tell Us Your Requirements. Share your project goals, technical requirements, and ideal candidate profile. We customize our search to find developers who align with your vision. We Source and Vet Candidates. Our team pre-vets candidates through technical assessments, ensuring you only meet with qualified professionals. Hire and Onboard. Choose the right fit and start working with your new developer within days. Why Choose OnHires for Blockchain Hiring? Deep Tech Expertise, Faster Hiring, Quality Guaranteed, Cost-Effective. Deep understanding of blockchain technologies, cryptographic principles, and distributed systems. Our recruitment process is optimized for speed without compromising quality. All hires come with a 2-week trial period guarantee. Reduce recruitment costs by up to 60% with our flexible engagement models. OnHires has built a reputation for delivering top-tier tech talent globally, with a focus on blockchain, AI, and emerging technologies.",
+    "with": [
+      "Hire Blockchain Developers That Fit Your Vision.",
+      "Pre-vetted professionals with proven track records in smart contracts, consensus mechanisms, and Web3 protocols.",
+      "Hire Blockchain Developers Within 48 Hours. Get Matched With Top 1% Talent in 72 Hours.",
+      "Every candidate undergoes a 6-step rigorous assessment including technical interviews, code reviews, and real-world problem-solving simulations.",
+      "Our recruitment process is optimized for speed without compromising quality."
+    ],
+    "without": [
+      "Services dropdown navigation",
+      "Industries dropdown navigation",
+      "Resources dropdown navigation",
+      "Hiring Hub dropdown navigation",
+      "Footer navigation and copyright"
+    ],
+    "images": {
+      "total_in_content": 31,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:52:46.149170"
+}

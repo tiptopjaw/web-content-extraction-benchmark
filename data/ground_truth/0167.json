@@ -1,27 +1,117 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.tourradar.com/l/budget",
   "file_id": "0167",
-  "downloaded_at": "2025-12-20T18:52:12.398577",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "travel",
+        "budget-tours",
+        "e-commerce",
+        "category-page"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Budget Tours & Cheap Tour Packages",
+    "title": "Best Budget Tours & Cheap Travel Packages 2026 - TourRadar",
     "author": null,
     "publish_date": null,
-    "main_content": "Get inspired by our selection of the best budget tours and cheap trips that will take you on exciting destinations around the world. Find and book your favorite organized adventure with the best budget tour companies.\n\nWhether you’re planning a cheap tour around the world or you’re a bit undecided and looking for inspiration, our overview of budget tour packages sorted by continent will help you decide. Just click on the continent of your choice and let the adventure begin!\n\nOur travel experts have compiled a selection of destinations with budget tours for you. So take a look around, click on the country that interests you, and pick your favorite!\n\nBudget tours by continent:\n- Europe: 965 Tours\n- Asia: 1,195 Tours\n- Africa: 531 Tours\n- North America: 58 Tours\n- Latin America: 592 Tours\n- Australia / Oceania: 85 Tours\n\nBest cheap travel packages by country:\n- Thailand: 56 Tours\n- Italy: 156 Tours\n- USA: 41 Tours\n- Japan: 35 Tours\n- Iceland: 25 Tours\n- Spain: 125 Tours\n- Malaysia: 11 Tours\n- Costa Rica: (tours count not specified in truncated HTML)\n\nDeals of the week:\n- Taj Mahal Overnight Tour From New Delhi By Car: 2 days, 5.0 rating (68 reviews), from €72 (was €205) -65% off\n- 3 Days Golden Triangle India Tour From Delhi By Car: 3 days, from €80 (was €107) -25% off\n- Private Overnight Taj Mahal & Agra Tour from Delhi: 2 days, from €81 (was €162) -50% off\n- Private Overnight Luxury Taj Mahal & Agra Tour from Delhi: 2 days, 5.0 rating (3 reviews), from €81 (was €162) -50% off\n- Chiang Mai City Package: 3 days, from €82 (was €91) -10% off",
+    "main_content": "Budget Tours & Cheap Tour Packages. Get inspired by our selection of the best budget tours and cheap trips that will take you on exciting destinations around the world. Find and book your favorite organized adventure with the best budget tour companies. Deals of the week: Up to 65% off on budget tours including Taj Mahal Overnight Tour From New Delhi, 3 Days Golden Triangle India Tour, Private Overnight Taj Mahal & Agra Tour, and Chiang Mai City Package. Budget tours by continent: Europe with 965 Tours, Asia with 1,195 Tours, Africa with 531 Tours, North America with 58 Tours, Latin America with 592 Tours, and Australia/Oceania with 85 Tours. Best cheap travel packages by country including Thailand, Italy, USA, Japan, Iceland, Spain, Malaysia, Costa Rica, Canada, Vietnam, Philippines, France, Sri Lanka, Galapagos, Mexico, China, Bulgaria, Panama, and many more destinations around the world.",
     "with": [
       "Get inspired by our selection of the best budget tours and cheap trips that will take you on exciting destinations around the world.",
-      "Whether you’re planning a cheap tour around the world or you’re a bit undecided and looking for inspiration, our overview of budget tour packages sorted by continent will help you decide.",
-      "Our travel experts have compiled a selection of destinations with budget tours for you. So take a look around, click on the country that interests you, and pick your favorite!",
-      "Budget tours by continent: Europe: 965 Tours, Asia: 1,195 Tours, Africa: 531 Tours, North America: 58 Tours, Latin America: 592 Tours, Australia / Oceania: 85 Tours",
-      "Deals of the week: Taj Mahal Overnight Tour From New Delhi By Car: 2 days, 5.0 rating (68 reviews), from €72 (was €205) -65% off"
+      "Taj Mahal Overnight Tour From New Delhi By Car - 2 days from €72",
+      "Europe with 965 Tours, Asia with 1,195 Tours, Africa with 531 Tours, North America with 58 Tours, Latin America with 592 Tours, Australia/Oceania with 85 Tours.",
+      "Thailand with 56 Tours, Italy with 156 Tours, USA with 41 Tours, Japan with 35 Tours, Iceland with 25 Tours, Spain with 125 Tours.",
+      "Find and book your favorite organized adventure with the best budget tour companies."
     ],
     "without": [
       "Shop 2,500 operators",
-      "4.6 stars on (9,570 reviews)",
       "24/7 customer support",
-      "Deals of The Week • Our Bestsellers  Up to 50% OFF",
-      "Destinations / Adventure Styles / Deals / Contact"
-    ]
+      "Free eSIM",
+      "Switch to the app and book faster and easier!",
+      "Deals end: 24 Dec, 2025"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "//cdn.tourradar.com/s3/content-pages/238/1024x460/z3DGaa.jpg",
+          "filename": "z3DGaa.jpg",
+          "alt": "Best budget tour packages",
+          "caption": "Best budget tour packages",
+          "is_hero": true
+        },
+        {
+          "src": "//cdn.tourradar.com/images/responsive/pw/footer_images/trustpilot-almost-excellent.png",
+          "filename": "trustpilot-almost-excellent.png",
+          "alt": "Trustpilot Star",
+          "caption": "Trustpilot 4.6 stars based on 9,570 reviews",
+          "is_hero": false
+        },
+        {
+          "src": "//cdn.tourradar.com/s3/tour/645x430/184472_6463d94d25ef2.jpg",
+          "filename": "184472_6463d94d25ef2.jpg",
+          "alt": "Taj Mahal Overnight Tour From New Delhi By Car",
+          "caption": "Taj Mahal Overnight Tour From New Delhi By Car",
+          "is_hero": false
+        },
+        {
+          "src": "//cdn.tourradar.com/s3/tour/645x430/241149_67a09329e6126.jpg",
+          "filename": "241149_67a09329e6126.jpg",
+          "alt": "3 Days Golden Triangle India Tour From Delhi By Car",
+          "caption": "3 Days Golden Triangle India Tour From Delhi By Car",
+          "is_hero": false
+        },
+        {
+          "src": "//cdn.tourradar.com/s3/content-pages/238/436x336/zdQ0NS.jpeg",
+          "filename": "zdQ0NS.jpeg",
+          "alt": null,
+          "caption": "Budget tours in Europe - 965 Tours",
+          "is_hero": false
+        },
+        {
+          "src": "//cdn.tourradar.com/s3/content-pages/238/436x336/ivCaZk.jpeg",
+          "filename": "ivCaZk.jpeg",
+          "alt": null,
+          "caption": "Budget tours in Asia - 1,195 Tours",
+          "is_hero": false
+        },
+        {
+          "src": "//cdn.tourradar.com/s3/content-pages/238/436x336/wCokHT.jpeg",
+          "filename": "wCokHT.jpeg",
+          "alt": null,
+          "caption": "Budget tours in North America - 58 Tours",
+          "is_hero": false
+        },
+        {
+          "src": "//cdn.tourradar.com/s3/content-pages/238/256x248/pDJX7e.jpeg",
+          "filename": "pDJX7e.jpeg",
+          "alt": "Budget trips to Thailand",
+          "caption": "Budget trips to Thailand - 56 Tours",
+          "is_hero": false
+        },
+        {
+          "src": "//cdn.tourradar.com/s3/content-pages/238/256x248/VFjpof.jpeg",
+          "filename": "VFjpof.jpeg",
+          "alt": "Cheap tours of Italy",
+          "caption": "Cheap tours of Italy - 156 Tours",
+          "is_hero": false
+        },
+        {
+          "src": "//cdn.tourradar.com/s3/content-pages/238/256x248/8k34KL.jpeg",
+          "filename": "8k34KL.jpeg",
+          "alt": "Cheap Japan travel packages",
+          "caption": "Cheap Japan travel packages - 35 Tours",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:52:12.398582"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:46:49.982823"
 }

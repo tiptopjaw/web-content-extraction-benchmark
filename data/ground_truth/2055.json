@@ -1,25 +1,75 @@
 {
+  "schema_version": "2.0",
   "url": "https://seewhatgrows.org/gardening-and-farming-shows-for-the-family/",
   "file_id": "2055",
-  "downloaded_at": "2025-12-20T22:17:03.846629",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "gardening",
+        "family",
+        "entertainment",
+        "recommendations"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Gardening and Farming Shows for the Family",
     "author": "Dennis Charland",
     "publish_date": "2021-10-28",
-    "main_content": "Plant a Seed is major proponent of outdoor learning experiences that can be enjoyed together as a family, namely gardening. That said, there’s no denying the appeal of cozying together up on an autumn/winter weekend to watch something on TV (or your shared devices). With streaming services opening up access to a wide variety of family-friendly programs, the options are seemingly endless. The great news, is that there are a number of shows to merge your household’s love of gardening with tube time. Below are our picks for popular family-friendly gardening shows. Grab a platter of carrot sticks, cauliflower, cucumbers, radishes, dip, and dive on in.\n\nPopular Movies and Programs About Gardening and Farming to Watch With Your Kids\n\nThe Biggest Little Farm\n\nView trailer\n\nFollow a husband and wife duo and their beloved dog as they trade life in the city for the countryside to build one of the most biodiverse farms around. The movie chronicles their mission to grow a self-sustaining utopia. Watch the trials, tribulations, and celebrations as they plant over 10,000 orchard trees, hundreds of crops, and corral farm animals of every species, including the real stars of the show – a pig named Emma and her best friend, Greasy the rooster. The Biggest Little Farm is an educational yet highly entertaining film that will inspire your family to make a change for an even healthier and more sustainable life, at home, and in the community. Available on Netflix Canada.\n\nGrow, Cook, Eat\n\nSource: Amazon Prime UK (watch on YouTube)\n\nThe name gives you the gist, but there’s so much more to this TV series. Hosts Michael Kelly and Karen O’Donohoe find interesting ways to teach viewers about how to grow nutritious produce, whether from a backyard or on the balcony of an apartment in the city. In each episode, the professional and entertaining gardeners focus on a particular vegetable, taking viewers on a journey that includes everything from sowing a seed and harvesting to food preparation and cooking. The show is filmed in Ireland and at press is only available on Amazon Prime in the UK. To watch from Canada, find full episodes from the creator’s YouTube channel via your Smart TV.\n\nKiss The Ground\n\nKiss the Ground is an Official Selection from the Tribeca Film Festival that is also distributed (for free) to schools in over 40 countries around the world. While there are many environmental films that focus on the dire straits of the planet, Kiss The Ground grows hope instead. The documentary film is narrated by Woody Harrelson, and features a revolutionary group of activists, farmers, scientists, and politicians (yes, them too) who come together in a global movement of regenerative agriculture. Regenerative agriculture is a conservation and rehabilitation approach to farming systems which focuses on topsoil regeneration, increasing biodiversity, improving the water cycle, enhancing ecosystem services, supporting biosequestration, and strengthening the health and vitality of farm soil while remaining resilient to climate change. This deeply engaging and well-produced film is available on Netflix Canada.\n\nThis Farming Life\n\nSource: Amazon Prime UK (watch on YouTube)\n\nThis TV series features the struggles and uplifting triumphs of six very different farming families. Set against the breathtaking backdrop of Scotland’s countryside, This Farming Life is a visual treat to be enjoyed right out of the gates. There is lots of drama, plenty of laughs, and a plethora of learning experiences about gardening and farming life throughout. All four seasons are available on Amazon Prime UK, but like with Grow, Cook, Eat (above) you can enjoy full episodes for free by connecting our Smart TV to their new YouTube channel.\n\nStay tuned as we tune-in to discover (and share) more great shows about gardening and farming that you can watch with your family.",
+    "main_content": "Plant a Seed is major proponent of outdoor learning experiences that can be enjoyed together as a family, namely gardening. That said, there's no denying the appeal of cozying together up on an autumn/winter weekend to watch something on TV (or your shared devices). With streaming services opening up access to a wide variety of family-friendly programs, the options are seemingly endless. The great news, is that there are a number of shows to merge your household's love of gardening with tube time. Below are our picks for popular family-friendly gardening shows. Grab a platter of carrot sticks, cauliflower, cucumbers, radishes, dip, and dive on in. The Biggest Little Farm follows a husband and wife duo and their beloved dog as they trade life in the city for the countryside to build one of the most biodiverse farms around. Grow, Cook, Eat finds interesting ways to teach viewers about how to grow nutritious produce, whether from a backyard or on the balcony of an apartment in the city. Kiss The Ground is an Official Selection from the Tribeca Film Festival that is also distributed (for free) to schools in over 40 countries around the world. This Farming Life features the struggles and uplifting triumphs of six very different farming families, set against the breathtaking backdrop of Scotland's countryside.",
     "with": [
       "Plant a Seed is major proponent of outdoor learning experiences that can be enjoyed together as a family, namely gardening.",
-      "The Biggest Little Farm is an educational yet highly entertaining film that will inspire your family to make a change for an even healthier and more sustainable life, at home, and in the community.",
+      "Follow a husband and wife duo and their beloved dog as they trade life in the city for the countryside to build one of the most biodiverse farms around.",
       "Kiss the Ground is an Official Selection from the Tribeca Film Festival that is also distributed (for free) to schools in over 40 countries around the world.",
-      "This TV series features the struggles and uplifting triumphs of six very different farming families."
+      "This Farming Life features the struggles and uplifting triumphs of six very different farming families.",
+      "Stay tuned as we tune-in to discover (and share) more great shows about gardening and farming that you can watch with your family."
     ],
     "without": [
-      "About Our Causes Get Involved Contact Blog Kids Corner Donate",
-      "Stay Informed Email First Name Last Name Company Subscribe",
-      "Info for Kids! Schools (K-3) Libraries Daycares Post-Secondary Students School & Community Gardens Natural Health Industry",
-      "Quicklinks Home Donate Contact Us Become a Friend Terms of Use & Privacy Policy"
-    ]
+      "Connect with us on Facebook, Instagram, YouTube, and LinkedIn",
+      "Subscribe to our newsletter to stay informed",
+      "Charitable Registration Number 80622 2832 RR0001",
+      "Call us toll free: 1.855.440.7333 (SEED)",
+      "About | Our Causes | Get Involved | Contact | Blog | Kids Corner | Donate"
+    ],
+    "images": {
+      "total_in_content": 5,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://seewhatgrows.org/wp-content/uploads/2021/10/Gardening-Shows-for-the-Family-1024x576.jpeg",
+          "filename": "Gardening-Shows-for-the-Family-1024x576.jpeg",
+          "alt": "Gardening and Farming Shows for the Family",
+          "caption": "View trailer",
+          "is_hero": true
+        },
+        {
+          "src": "https://seewhatgrows.org/wp-content/uploads/2021/10/Gardening-Shows-for-Families.jpeg",
+          "filename": "Gardening-Shows-for-Families.jpeg",
+          "alt": "Gardening and Farming Shows for the Family",
+          "caption": "Source: Amazon Prime UK (watch on YouTube)",
+          "is_hero": false
+        },
+        {
+          "src": "https://seewhatgrows.org/wp-content/uploads/2021/10/rsz_1gardening_farming_movies_for_families.jpg",
+          "filename": "rsz_1gardening_farming_movies_for_families.jpg",
+          "alt": "Gardening and Farming Shows for the Family",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://seewhatgrows.org/wp-content/uploads/2021/10/Gardening-Shows.jpeg",
+          "filename": "Gardening-Shows.jpeg",
+          "alt": "Gardening and Farming Shows for the Family",
+          "caption": "Source: Amazon Prime UK (watch on YouTube)",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:17:03.846634"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:26:51.114914"
 }

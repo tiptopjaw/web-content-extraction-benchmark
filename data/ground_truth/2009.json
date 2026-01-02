@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.whitman-walker.org/health-services/dental-health/",
+  "file_id": "2009",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "healthcare",
+        "dental",
+        "medical",
+        "washington-dc"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Dentist in Washington DC | Whitman Walker",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Whitman Walker provides expert dental care services in Washington DC. Our comprehensive dental health services include cleanings, crowns, root canals, and more. We are committed to providing high-quality, compassionate dental care to our community. Whether you need routine preventive care or more complex dental procedures, our experienced team is here to help you achieve and maintain optimal oral health. Book your dental appointment today and experience the Whitman Walker difference.",
+    "with": [
+      "Need a dentist in Washington DC? Whitman Walker provides expert dental care including cleanings, crowns, root canals, and more.",
+      "Book today to schedule your dental appointment with our experienced dental care team.",
+      "Our comprehensive dental health services include cleanings, crowns, root canals, and more.",
+      "We are committed to providing high-quality, compassionate dental care to our community.",
+      "Whitman Walker provides expert dental care services in Washington DC."
+    ],
+    "without": [
+      "Masking Status: Recommended (Optional)",
+      "Access MyChart button",
+      "202.745.7000 phone number",
+      "Give and Stand With Us navigation",
+      "Footer navigation links"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:15:58.110199"
+}

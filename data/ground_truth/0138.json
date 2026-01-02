@@ -1,0 +1,103 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.bloomreach.com/en/blog/machine-learning-to-personalize-shopping-experience",
+  "file_id": "0138",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "ecommerce",
+        "machine-learning",
+        "personalization"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Using Machine Learning To Personalize Shopping Experiences",
+    "author": null,
+    "publish_date": "2025-04-10",
+    "main_content": "See how machine learning personalizes shopping experiences by delivering real-time recommendations. Learn how AI tailors the journey for every customer. The article explores how modern retailers use machine learning algorithms to analyze customer behavior, preferences, and purchase history to create highly personalized shopping experiences. By leveraging real-time data and AI-powered recommendations, businesses can deliver relevant product suggestions that increase engagement and conversions. This approach enables brands to understand individual customer needs and anticipate their next purchase intent with unprecedented accuracy.",
+    "with": [
+      "See how machine learning personalizes shopping experiences by delivering real-time recommendations.",
+      "Learn how AI tailors the journey for every customer.",
+      "By leveraging real-time data and AI-powered recommendations, businesses can deliver relevant product suggestions.",
+      "This approach enables brands to understand individual customer needs and anticipate their next purchase intent.",
+      "Machine learning algorithms analyze customer behavior, preferences, and purchase history."
+    ],
+    "without": [
+      "Schedule a Demo",
+      "Subscribe to our newsletter",
+      "© 2025 Bloomreach",
+      "Privacy Policy",
+      "Cookie Settings"
+    ],
+    "images": {
+      "total_in_content": 29,
+      "annotated_count": 8,
+      "items": [
+        {
+          "src": "https://www.bloomreach.com/wp-content/uploads/2025/04/Machine-Learning-Personalizes-Ecommerce_header-1024x819.png",
+          "filename": "Machine-Learning-Personalizes-Ecommerce_header-1024x819.png",
+          "alt": "Use machine learning to personalize shopping experiences for customers",
+          "caption": "Use machine learning to personalize shopping experiences for customers",
+          "is_hero": true
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXe9PggEM1tQd4brkANTeI0BhY-Tpbr1bmKiC-QM8GXaYSfYw3gdGOr-TY1v3z6ZPBm8egPO6I7QHgNds6eLcN87u0VMyns6q0GnFPMpBjYFuk8W05lDnQ26njPx4LnwmwsxnUKs?key=TbqYi1e2kkh_aTC8NNMYoNgi",
+          "filename": "AD_4nXe9PggEM1tQd4brkANTeI0BhY-Tpbr1bmKiC-QM8GXaYSfYw3gdGOr-TY1v3z6ZPBm8egPO6I7QHgNds6eLcN87u0VMyns6q0GnFPMpBjYFuk8W05lDnQ26njPx4LnwmwsxnUKs",
+          "alt": "Machine learning personalizing ecommerce shopping experiences with customer data",
+          "caption": "Machine learning personalizing ecommerce shopping experiences with customer data",
+          "is_hero": false
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2WMWntuGYCLGLaY7lKSjyDWeU4YDAl4oxewwJ0m_fvqf7dFxXTGjEwDeAy8uUAV0IfzqRcWGff9NzeWWzsPtNGjI8sum0ebNSbPMWSBbwrMWBtd68V9OkxDS2oX2y1mVohZVtww?key=TbqYi1e2kkh_aTC8NNMYoNgi",
+          "filename": "AD_4nXd2WMWntuGYCLGLaY7lKSjyDWeU4YDAl4oxewwJ0m_fvqf7dFxXTGjEwDeAy8uUAV0IfzqRcWGff9NzeWWzsPtNGjI8sum0ebNSbPMWSBbwrMWBtd68V9OkxDS2oX2y1mVohZVtww",
+          "alt": "Using machine learning to personalize shopping experience by segmenting audiences",
+          "caption": "Using machine learning to personalize shopping experience by segmenting audience",
+          "is_hero": false
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXewWGeNwORvLv1sG7EYh4vQp5EmEu4fqgeYa-SN76EbJFhhzDTOUpgTubsEJMCAc4jAJWyenaSkETkkvOs32VQziDOT_RA12bkbodaC5uiTv9Az68jrRT-b3aJBjZ-MvD1Rh74iOQ?key=TbqYi1e2kkh_aTC8NNMYoNgi",
+          "filename": "AD_4nXewWGeNwORvLv1sG7EYh4vQp5EmEu4fqgeYa-SN76EbJFhhzDTOUpgTubsEJMCAc4jAJWyenaSkETkkvOs32VQziDOT_RA12bkbodaC5uiTv9Az68jrRT-b3aJBjZ-MvD1Rh74iOQ",
+          "alt": "How Yves Rocher uses Bloomreach and machine learning to personalize shopping experience",
+          "caption": "How Yves Rocher uses Bloomreach and machine learning to personalize shopping experience",
+          "is_hero": false
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXe7GzreCpWcapJv04U1AJ8a4quegzrjmfZJCc_uJbae_gpXvZWsi2-a9gP3TsdVj8gsnR7KAWkc6L2gdfcFZ6MAd4NNfBO5-Hvkvw05uvj5RJA-hFExx6M4bMuCCfA0oOgnQiT-?key=TbqYi1e2kkh_aTC8NNMYoNgi",
+          "filename": "AD_4nXe7GzreCpWcapJv04U1AJ8a4quegzrjmfZJCc_uJbae_gpXvZWsi2-a9gP3TsdVj8gsnR7KAWkc6L2gdfcFZ6MAd4NNfBO5-Hvkvw05uvj5RJA-hFExx6M4bMuCCfA0oOgnQiT-",
+          "alt": "Natural language processing breaking down a long-tail search query",
+          "caption": "Natural language processing breaking down a long-tail search query",
+          "is_hero": false
+        },
+        {
+          "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfkOLAK_SgZWTsBhVsupN1SGvul_m1bptOagcwq02Jn5YysFj_C4WKp6dfeBBIQOOl5r_l774QBPdwtx38bS433rRVyNr91YQGTp2ZYP9V-I8jIkPbTDkRDkFBmVy2wjm8u78HA9g?key=TbqYi1e2kkh_aTC8NNMYoNgi",
+          "filename": "AD_4nXfkOLAK_SgZWTsBhVsupN1SGvul_m1bptOagcwq02Jn5YysFj_C4WKp6dfeBBIQOOl5r_l774QBPdwtx38bS433rRVyNr91YQGTp2ZYP9V-I8jIkPbTDkRDkFBmVy2wjm8u78HA9g",
+          "alt": "Reducing customer churn with machine learning personalization",
+          "caption": "Reducing customer churn with machine learning personalization",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.bloomreach.com/wp-content/uploads/2025/12/Cross-Sell-Strategies_open-graph-1024x538.jpg",
+          "filename": "Cross-Sell-Strategies_open-graph-1024x538.jpg",
+          "alt": "Driving ecommerce growth with cross-sell strategies",
+          "caption": "Driving ecommerce growth with cross-sell strategies",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.bloomreach.com/wp-content/uploads/2025/12/Omnichannel-Messaging_header-1024x819.jpg",
+          "filename": "Omnichannel-Messaging_header-1024x819.jpg",
+          "alt": "Creating a unified strategy with omnichannel messaging",
+          "caption": "Creating a unified strategy with omnichannel messaging",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:29:34.921653"
+}

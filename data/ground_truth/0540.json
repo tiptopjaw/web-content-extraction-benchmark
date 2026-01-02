@@ -1,0 +1,68 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ifpg.org/top-franchises/the-tutoring-club",
+  "file_id": "0540",
+  "_internal": {
+    "page_type": {
+      "primary": "directory",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "franchise",
+        "education",
+        "tutoring",
+        "business-opportunity"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "The Tutoring Club Franchise Cost and Requirements for 2025",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Tutoring Club is an education company built on the idea of providing long-term, individualized academic assistance to students of all ages and abilities. From early learning to college preparation, we are a partner for parents and students at every point of the scholastic journey.\n\nIt's Your Business: You have the freedom to create your own distinct environment while staying true to the Tutoring Club mission. Implement a flexible schedule of your choosing, build and manage your own team, and create customized academic plans for students based on situation.\n\nYou're an Agent of Change: As a mentor and educator, you play an active role in changing your community one student at a time. Tutoring Club provides the platform to partner with other leaders in your community to foster progress.\n\nThere's Never a Dull Moment: With programs that focus on early learning through full-service college planning, there is no such thing as a stale routine. At Tutoring Club, every day is different because every student is different.\n\nWe Believe in Work-Life Balance: Our service is flexible in every sense of the word. With Tutoring Club, you enjoy the same schedule as your local schools, giving you time to enjoy life outside of the workplace.\n\nYou're Part of the Club: We stay with you every step of the way, from initial training at our corporate headquarters to ongoing education in all aspects of franchise management. Your support network includes your fellow franchisees, many of whom have owned their locations for more than a decade.\n\nYour Service Matters: We are in the business of making better learners. While this certainly can yield a substantial bottom line, it also has a substantial impact on the lives of our students and their families, as well as the welfare of our communities.\n\nYou Hit the Ground Running: We want you to experience financial success as soon as possible, so we keep our startup costs low. The Tutoring Club model requires little build out, and the equipment needed to run your center is far from cost prohibitive.\n\nYou Spend Time with People, Not Supplies: Our service is dependent on people, not merchandise. Compared to most franchise models, Tutoring Club requires very little management of inventory.\n\nCompany Details: Established 1991, First Unit Franchised 2000, Franchised Units 71, Company Owned Units 11. States Registered In: California, Hawaii, Illinois, Indiana, Maryland, Michigan, Minnesota, New York, North Dakota, Rhode Island, South Dakota, Virginia, Washington, Wisconsin. Canada Franchises: Yes, International Franchises: Yes.\n\nSupport and Training: Financial Assistance Provided: Yes, Site Selection Assistance: Yes, Lease Negotiation Assistance: Yes, Recruiting Assistance: Yes, Co-Operative Advertising: No. Training includes initial three-week training at corporate headquarters and highest-performing centers, with ongoing education in sales, education, accounting, operations, marketing.\n\n2025 Franchise Requirements: Cash Investment: $34,500, Total Investment: $66,500, Minimum Net Worth: $50,000, Franchise Fee: $34,500, Royalty: 10%, Ad: 1%, Average Number of Employees: 8, Item 19: Yes, SBA Approved: Yes, Passive Ownership: Yes, Home Based: No, B2B: No, Master Franchise Opportunities: Yes, Veteran Discount: Yes.\n\nAdditional Information: Additional Categories: Child Related, Education, Non Food Franchises. Number of Units Open: 50-100 UNITS. Cash Required: $25,000 - $50,000. Master Franchise: Yes. Passive Franchise: Yes. Home Based Franchise: No. Item 19 Franchise: Yes. Veteran Discount: No. B2B: No. Franchise Opportunities in Canada: Yes. International Franchise Opportunities: Yes. E2 Visa Franchise: No.",
+    "with": [
+      "Tutoring Club is an education company built on the idea of providing long-term, individualized academic assistance to students of all ages and abilities.",
+      "You have the freedom to create your own distinct environment while staying true to the Tutoring Club mission.",
+      "Cash Investment: $34,500, Total Investment: $66,500, Minimum Net Worth: $50,000, Franchise Fee: $34,500, Royalty: 10%.",
+      "Training includes initial three-week training at corporate headquarters and highest-performing centers, with ongoing education in sales, education, accounting, operations, marketing.",
+      "The Tutoring Club is a semi absentee franchise and allows passive ownership."
+    ],
+    "without": [
+      "Call (888) 977-4374 or Contact Us Today",
+      "IFPG Member Login",
+      "Subscribe to our Newsletter",
+      "Privacy Policy | Terms & Conditions",
+      "About IFPG | Memberships | Contact Us"
+    ],
+    "images": {
+      "total_in_content": 18,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://member.ifpg.org/member/images/P/Tutoringclublogo_NEW.jpg",
+          "filename": "Tutoringclublogo_NEW.jpg",
+          "alt": "The Tutoring Club",
+          "caption": "The Tutoring Club",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.ifpg.org/pub/images/20210903115237_franchiseconsultantmeeting.jpg",
+          "filename": "20210903115237_franchiseconsultantmeeting.jpg",
+          "alt": "conference room meeting with 3 people",
+          "caption": "conference room meeting with 3 people",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ifpg.org/pub/images/20201112161544_RedBoswellHeadshot1min.jpg",
+          "filename": "20201112161544_RedBoswellHeadshot1min.jpg",
+          "alt": "Red Boswell Headshot",
+          "caption": "Red Boswell Headshot",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:21:29.534410"
+}

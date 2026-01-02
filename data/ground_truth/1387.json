@@ -1,0 +1,62 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.mobiloud.com/blog/most-cost-effective-mobile-app-development-options",
+  "file_id": "1387",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "guide",
+        "mobile-apps",
+        "development",
+        "business"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "The Best and Most Cost-Effective Mobile App Development Options in 2025",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Discover the 6 most cost-effective mobile app development options. Compare total costs, features, and ROI potential to choose the right solution for your business - from $399/month managed services to custom development.",
+    "with": [
+      "Discover the 6 most cost-effective mobile app development options.",
+      "Compare total costs, features, and ROI potential to choose the right solution for your business.",
+      "From $399/month managed services to custom development.",
+      "Your website is good enough to be your mobile app in 2024.",
+      "We've worked with 2,000+ companies since 2013."
+    ],
+    "without": [
+      "Subscribe to newsletter",
+      "Copyright 2025 MobiLoud",
+      "Privacy Policy",
+      "Book a Consultation",
+      "Case Studies"
+    ],
+    "images": {
+      "total_in_content": 28,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://cdn.prod.website-files.com/63894f0e251e567f6e443bfa/6848059e9aafd3f28c876225_MobiLoud-Convert-Your-Website-to-Native-Mobile-Apps.webp",
+          "filename": "6848059e9aafd3f28c876225_MobiLoud-Convert-Your-Website-to-Native-Mobile-Apps.webp",
+          "alt": null,
+          "caption": "Cost effective mobile app development",
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/63894f0e251e567f6e443bfa/692ded3b6e646a9f5b16980b_react_vs_flutter.webp",
+          "filename": "692ded3b6e646a9f5b16980b_react_vs_flutter.webp",
+          "alt": null,
+          "caption": "React vs Flutter comparison chart",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:03:13.288119"
+}

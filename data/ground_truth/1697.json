@@ -1,0 +1,45 @@
+{
+  "schema_version": "2.0",
+  "url": "https://eventup.com/venues/santa-clarita-ca/",
+  "file_id": "1697",
+  "_internal": {
+    "page_type": {
+      "primary": "directory",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "venue",
+        "directory",
+        "event-planning"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Santa Clarita, CA Event Venues & Rental Space - 300+ Venues",
+    "author": null,
+    "publish_date": null,
+    "main_content": "This is a venue directory page for EventUp.com featuring event venues and rental spaces in Santa Clarita, CA. The page lists over 300 venues available for booking, including spaces for weddings, corporate events, and parties. Venue categories include restaurants, hotels, and unique event spaces. Users can browse and book venues through the platform.",
+    "with": [
+      "EventUp | The leading global venue directory. Browse. Book. Party.",
+      "Rent venues in Santa Clarita, CA, and find the perfect event space for your wedding, corporate event, or party.",
+      "Browse EventUp to find and book the perfect restaurant, hotel, or unique venue for all of your party and event needs.",
+      "This is a venue directory page for EventUp.com featuring event venues and rental spaces in Santa Clarita, CA.",
+      "The page lists over 300 venues available for booking, including spaces for weddings, corporate events, and parties."
+    ],
+    "without": [
+      "Loading indicator animation",
+      "Application root container",
+      "Internet Explorer conditional comments",
+      "Favicon and icon resources",
+      "Analytics and tracking code"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:52:18.332174"
+}

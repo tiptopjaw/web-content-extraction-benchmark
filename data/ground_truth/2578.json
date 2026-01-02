@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "url": "https://pierce.dev/notes/go-ahead-self-host-postgres",
+  "file_id": "2578",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "postgres",
+        "database",
+        "self-hosting",
+        "infrastructure"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Go ahead, self-host Postgres | Pierce Freeman",
+    "author": "Pierce Freeman",
+    "publish_date": "2025-07-02",
+    "main_content": "Self-hosting a database sounds terrifying. That narrative has certainly been pushed over the last 10 years by the big cloud providers. I've been running my own self-hosted postgres for the better part of two years now, serving thousands of users and tens of millions of queries daily. For the most part managed database services aren't running some magical proprietary technology. They're just running the same open-source Postgres you can download with some operational tooling wrapped around it. The main operational difference is that you're responsible for incident response. If your database goes down at 3 AM, you need to fix it. But here's the thing: RDS goes down too. The pendulum has swung too far toward managed services. There's a large sweet spot where self-hosting makes perfect sense, and more teams should seriously consider it. Start small. If you're paying more than $200/month for RDS, spin up a test server and migrate a non-critical database. You might be surprised by how straightforward it is.",
+    "with": [
+      "Self-hosting a database sounds terrifying. That narrative has certainly been pushed over the last 10 years by the big cloud providers",
+      "I've been running my own self-hosted postgres for the better part of two years now, serving thousands of users and tens of millions of queries daily",
+      "For the most part managed database services aren't running some magical proprietary technology",
+      "The main operational difference is that you're responsible for incident response. If your database goes down at 3 AM, you need to fix it",
+      "The pendulum has swung too far toward managed services. There's a large sweet spot where self-hosting makes perfect sense"
+    ],
+    "without": [
+      "Pierce Freeman navigation link",
+      "RSS Feed social icon",
+      "GitHub social icon",
+      "Ctrl+K to Preview",
+      "Three-dot decorative element"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:03:38.780791"
+}

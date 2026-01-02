@@ -1,0 +1,81 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.homelight.com/blog/hiring-a-realtor-to-sell-your-home/",
+  "file_id": "1665",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "real-estate",
+        "home-selling",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "How To Hire a Realtor To Sell Your Home: Who Has What It Takes?",
+    "author": "Steph Mickelson",
+    "publish_date": "2025-11-12",
+    "main_content": "Hiring a Realtor to sell your home is a big decision. The National Association of Realtors report shows that 91% of home sellers in 2025 worked with a real estate agent to put their homes on the market. With more than three million licensed agents in the U.S., finding the right fit requires interviewing at least three agents before signing a contract. The article provides 11 signs to identify the right Realtor: 1) quick response time, 2) experience in your price point and property type, 3) verifiable stats including sale-to-list price ratio and days on market, 4) accurate comparative market analysis, 5) active role in preparing the home for sale, 6) knowledge of local laws and disclosures, 7) deep network of contractors, 8) strong marketing expertise, 9) neighborhood knowledge, 10) comfortable communication style, and 11) glowing client reviews. The ideal window for contacting an agent is around three months prior to selling. Initial consultations are free, and agents are paid a commission, typically 3% of the sale price for listing agents after recent NAR settlement changes. The article advises interviewing multiple agents, checking references, and avoiding mistakes like choosing based solely on commission rates or skipping the interview process.",
+    "with": [
+      "Hiring a Realtor to sell your home is a big decision, and industry experts recommend interviewing at least three agents before signing a contract.",
+      "The right agent with the right experience and knowledge can likely sell your house faster and for more money than the typical area agent.",
+      "Communication is the biggest and most important part of the relationship between a Realtor and the seller.",
+      "Evaluating an agent's marketing plan is highly important because you don't want to hire one who'll just slap it in the multiple listing service (MLS) and that's it.",
+      "HomeLight data shows that the top 5% of real estate agents across the U.S. sell homes faster and for as much as 10% more than the average agent."
+    ],
+    "without": [
+      "Sign in or Sign up",
+      "Find a top agent",
+      "Connect with a Top Agent",
+      "Popular Posts",
+      "Copyright 2025 HomeLight"
+    ],
+    "images": {
+      "total_in_content": 31,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://homelightblog.wpengine.com/wp-content/uploads/2024/03/Untitled-design-17-min-775x437.jpg",
+          "filename": "Untitled-design-17-min-775x437.jpg",
+          "alt": "An image that represents hiring a realtor to sell your house",
+          "caption": "An image that represents hiring a realtor to sell your house",
+          "is_hero": true
+        },
+        {
+          "src": "https://homelightblog.wpengine.com/wp-content/uploads/2024/09/when-to-contact-a-realtor-to-sell-your-house-192x108.png",
+          "filename": "when-to-contact-a-realtor-to-sell-your-house-192x108.png",
+          "alt": "Image of individual using his laptop to search for top realtors",
+          "caption": "Image of individual using his laptop to search for top realtors",
+          "is_hero": false
+        },
+        {
+          "src": "https://homelightblog.wpengine.com/wp-content/uploads/2024/12/Untitled-design-66-192x108.png",
+          "filename": "Untitled-design-66-192x108.png",
+          "alt": "A listing agent meeting with a couple.",
+          "caption": "A listing agent meeting with a couple",
+          "is_hero": false
+        },
+        {
+          "src": "https://homelightblog.wpengine.com/wp-content/uploads/2024/02/Untitled-design-2024-06-28T195818.474-min-192x108.jpg",
+          "filename": "Untitled-design-2024-06-28T195818.474-min-192x108.jpg",
+          "alt": "A Realtor working with a client to sell a house.",
+          "caption": "A Realtor working with a client to sell a house",
+          "is_hero": false
+        },
+        {
+          "src": "https://homelightblog.wpengine.com/wp-content/uploads/2025/11/hiring-a-realtor.png",
+          "filename": "hiring-a-realtor.png",
+          "alt": null,
+          "caption": "Infographic showing the difference between a real estate agent and a Realtor",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:42:04.279662"
+}

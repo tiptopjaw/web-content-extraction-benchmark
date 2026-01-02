@@ -1,27 +1,117 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.collegefactual.com/majors/multi-interdisciplinary-studies/data-analytics/rankings/top-ranked/",
   "file_id": "1937",
-  "downloaded_at": "2025-12-20T22:27:33.601588",
+  "_internal": {
+    "page_type": {
+      "primary": "directory",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "rankings",
+        "colleges",
+        "data-analytics"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "2025 Best Data Analytics Schools",
     "author": null,
     "publish_date": null,
-    "main_content": "Data Analytics is about average in terms of popularity for degree programs. That is, it ranks #236 out of the 395 majors across the country that we analyze each year. As such, the degree program isn't offered at every college in the United States, but there are schools that do have a program in the field that are top-notch when it comes to quality. College Factual reviewed 34 schools in the United States to determine which ones were the best for degree seekers in the field of data analytics. When you put them all together, these colleges and universities awarded 3,495 degrees in data analytics annually. Choosing a Great Data Analytics School. The data analytics program you select can have a big impact on your future. That's why we developed our collection of Best Schools for Data Analytics rankings. We derive our Best Overall Data Analytics School rankings by rolling up our degree-level rankings after weighting them by the number of degrees awarded at each school. You may want to choose one of the degree levels below to find the schools of most interest to you. Data Analytics Rankings by Degree Level. The data analytics school you choose to invest your time and money in matters. To help you make the decision that is right for you, we've developed a number of major-specific rankings, including this list of the Best Data Analytics Schools. You can also filter this list by location to find schools closer to you. In addition to College Factual's rankings, you may want to take a look at College Combat, our unique tool that lets you pit your favorite schools head-to-head and compare how they rate on factors that most interest you. When you have some time, check it out - you may want to bookmark the link so you don't forget it. More information on how we come up with our rankings can be found here: College Factual's Data Methodology. Best Schools for Data Analytics in the United States. If you aren't interested in a particular degree level and want to know which schools are the overall best at delivering an education for the data analytics degrees they offer, see the list below. 10 Top Schools in Data Analytics. 1. University of Pennsylvania. Any student who is interested in data analytics has to look into University of Pennsylvania. Located in the large city of Philadelphia, UPenn is a private not-for-profit university with a very large student population. A Best Colleges rank of #2 out of 2,152 schools nationwide means UPenn is a great university overall. 2. Carnegie Mellon University. It is hard to beat Carnegie Mellon University if you want to pursue a degree in data analytics. Located in the large city of Pittsburgh, Carnegie Mellon is a private not-for-profit university with a large student population. A Best Colleges rank of #8 out of 2,152 colleges nationwide means Carnegie Mellon is a great university overall. 3. Columbia University in the City of New York. Every student pursuing a degree in data analytics has to look into Columbia University in the City of New York. Located in the large city of New York, Columbia is a private not-for-profit university with a fairly large student population. A Best Colleges rank of #15 out of 2,152 schools nationwide means Columbia is a great university overall. 4. New York University. Every student who is interested in data analytics has to look into New York University. Located in the city of New York, NYU is a private not-for-profit university with a very large student population. A Best Colleges rank of #16 out of 2,152 schools nationwide means NYU is a great university overall. 5. University of Minnesota - Twin Cities. Located in the city of Minneapolis, UMN Twin Cities is a public university with a very large student population. A Best Colleges rank of #45 out of 2,152 schools nationwide means UMN Twin Cities is a great university overall. 6. University of Michigan - Ann Arbor. U-M is a fairly large public university located in the medium-sized city of Ann Arbor. A Best Colleges rank of #22 out of 2,152 colleges nationwide means U-M is a great university overall. 7. University of Pittsburgh - Pittsburgh Campus. Located in the large city of Pittsburgh, Pitt is a public university with a very large student population. A Best Colleges rank of #85 out of 2,152 colleges nationwide means Pitt is a great university overall. 8. Drexel University. Located in the city of Philadelphia, Drexel is a private not-for-profit university with a very large student population. A Best Colleges rank of #115 out of 2,152 schools nationwide means Drexel is a great university overall. 9. University of Delaware. UD is a very large public university located in the suburb of Newark. A Best Colleges rank of #96 out of 2,152 schools nationwide means UD is a great university overall. 10. Fordham University. Located in the large city of Bronx, Fordham U is a private not-for-profit university with a large student population. A Best Colleges rank of #67 out of 2,152 colleges nationwide means Fordham U is a great university overall. Data Analytics by Region. View the Best Data Analytics Schools for a specific region near you. Other Rankings. Rankings in Majors Related to Data Analytics. Data Analytics is one of 51 different types of Multi / Interdisciplinary Studies programs to choose from. Data Analytics Focus Areas. Majors Similar to Data Analytics. Notes and References. The bars on the spread charts above show the distribution of the schools on this list +/- one standard deviation from the mean. The Integrated Postsecondary Education Data System (IPEDS) from the National Center for Education Statistics (NCES), a branch of the U.S. Department of Education (DOE) serves as the core of the rest of our data about colleges. Some other college data, including much of the graduate earnings data, comes from the U.S. Department of Education’s (College Scorecard). More about our data sources and methodologies.",
+    "main_content": "College Factual reviewed 34 schools in the United States to determine which ones were the best for degree seekers in the field of data analytics. When you put them all together, these colleges and universities awarded 3,495 degrees in data analytics annually. The data analytics program you select can have a big impact on your future. That's why we developed our collection of Best Schools for Data Analytics rankings. We derive our Best Overall Data Analytics School rankings by rolling up our degree-level rankings after weighting them by the number of degrees awarded at each school. The top-ranked schools for data analytics are: University of Pennsylvania in Philadelphia, PA (ranked #1); Carnegie Mellon University in Pittsburgh, PA (ranked #2); Columbia University in the City of New York in New York, NY (ranked #3); New York University in New York, NY (ranked #4); University of Minnesota - Twin Cities in Minneapolis, MN (ranked #5); University of Michigan - Ann Arbor in Ann Arbor, MI (ranked #6); University of Pittsburgh - Pittsburgh Campus in Pittsburgh, PA (ranked #7); Drexel University in Philadelphia, PA (ranked #8); University of Delaware in Newark, DE (ranked #9); Fordham University in Bronx, NY (ranked #10). The page also lists regional rankings by area including Southeast, New England, Rocky Mountains, Plains States, Middle Atlantic, Far Western US, Southwest, Other U.S. Territories, and Great Lakes.",
     "with": [
       "College Factual reviewed 34 schools in the United States to determine which ones were the best for degree seekers in the field of data analytics.",
       "When you put them all together, these colleges and universities awarded 3,495 degrees in data analytics annually.",
-      "Any student who is interested in data analytics has to look into University of Pennsylvania.",
-      "It is hard to beat Carnegie Mellon University if you want to pursue a degree in data analytics.",
-      "Every student pursuing a degree in data analytics has to look into Columbia University in the City of New York."
+      "The data analytics program you select can have a big impact on your future. That's why we developed our collection of Best Schools for Data Analytics rankings.",
+      "Located in the large city of Philadelphia, UPenn is a private not-for-profit university with a very large student population.",
+      "The Integrated Postsecondary Education Data System (IPEDS) from the National Center for Education Statistics (NCES), a branch of the U.S. Department of Education (DOE) serves as the core of the rest of our data about colleges."
     ],
     "without": [
-      "Find Top Schools in Data Analytics near you: A ranking of the top 34 best Data Analytics students colleges.",
+      "Choose a study area",
       "college factual®",
-      "Find Programs",
-      "Sponsored",
-      "© 2023 All Rights Reserved. College Factual® is a registered trademark of Media Factual."
-    ]
+      "Request Information",
+      "Best Schools for Data Analytics in the United States",
+      "More about our data sources and methodologies"
+    ],
+    "images": {
+      "total_in_content": 13,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://images.collegefactual.com/badges/2025/overall/top-ranked_30.71.png",
+          "filename": "top-ranked_30.71.png",
+          "alt": "Best Data Analytics Schools",
+          "caption": "Best Data Analytics Schools badge",
+          "is_hero": true
+        },
+        {
+          "src": "https://dzhhw2kso6jlo.cloudfront.net/college_crests/v1/215062_crest.jpg",
+          "filename": "215062_crest.jpg",
+          "alt": "UPenn crest",
+          "caption": "University of Pennsylvania crest",
+          "is_hero": false
+        },
+        {
+          "src": "https://dzhhw2kso6jlo.cloudfront.net/college_crests/v1/211440_crest.jpg",
+          "filename": "211440_crest.jpg",
+          "alt": "Carnegie Mellon crest",
+          "caption": "Carnegie Mellon University crest",
+          "is_hero": false
+        },
+        {
+          "src": "https://dzhhw2kso6jlo.cloudfront.net/college_crests/v1/190150_crest.jpg",
+          "filename": "190150_crest.jpg",
+          "alt": "Columbia crest",
+          "caption": "Columbia University crest",
+          "is_hero": false
+        },
+        {
+          "src": "https://dzhhw2kso6jlo.cloudfront.net/college_crests/v1/193900_crest.jpg",
+          "filename": "193900_crest.jpg",
+          "alt": "NYU crest",
+          "caption": "New York University crest",
+          "is_hero": false
+        },
+        {
+          "src": "https://dzhhw2kso6jlo.cloudfront.net/college_crests/v1/174066_crest.jpg",
+          "filename": "174066_crest.jpg",
+          "alt": "UMN Twin Cities crest",
+          "caption": "University of Minnesota Twin Cities crest",
+          "is_hero": false
+        },
+        {
+          "src": "https://dzhhw2kso6jlo.cloudfront.net/college_crests/v1/170976_crest.jpg",
+          "filename": "170976_crest.jpg",
+          "alt": "U-M crest",
+          "caption": "University of Michigan crest",
+          "is_hero": false
+        },
+        {
+          "src": "https://dzhhw2kso6jlo.cloudfront.net/college_crests/v1/215293_crest.jpg",
+          "filename": "215293_crest.jpg",
+          "alt": "Pitt crest",
+          "caption": "University of Pittsburgh crest",
+          "is_hero": false
+        },
+        {
+          "src": "https://dzhhw2kso6jlo.cloudfront.net/college_crests/v1/212054_crest.jpg",
+          "filename": "212054_crest.jpg",
+          "alt": "Drexel crest",
+          "caption": "Drexel University crest",
+          "is_hero": false
+        },
+        {
+          "src": "https://dzhhw2kso6jlo.cloudfront.net/college_crests/v1/130943_crest.jpg",
+          "filename": "130943_crest.jpg",
+          "alt": "UD crest",
+          "caption": "University of Delaware crest",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:27:33.601593"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:12:05.477532"
 }

@@ -1,27 +1,47 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.easttownspa.com/facials.html",
   "file_id": "1499",
-  "downloaded_at": "2025-12-20T22:49:33.426149",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "spa",
+        "facial-treatments",
+        "milwaukee",
+        "beauty",
+        "skincare"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Facial Treatments in Milwaukee",
+    "title": "Facial Skin Care & Treatments Milwaukee - East Town Spa",
     "author": null,
     "publish_date": null,
-    "main_content": "30 Minute Facial $60.00 ​BOOK NOW 60 Minute Facial $85.00 ​BOOK NOW 90 Minute Facial $120.00 ​BOOK NOW 60 & 90 minute facials include a customized 5 min Illuminate LED therapy treatment AVEDA Tulasara Facial - Facial with cleansing, gently dry brushing, facial massage with oleation oil, a mask and tulasara concentration to help your skin to be firm, bright or calming. Tulasara means moving toward balance. Facial dry brushing promotes skin renewal and exfoliation, helping to eliminate toxins and other impurities to help restore radiant, glowing skin. Your service provider will analyze your skin and determine which type of tulasara facial will best serve your skin's needs. Choices of Tulasara facials include: *botanical skin resurfacing *dry/aging/uneven skin tone *dry *oily *sensitive Tulasara Back Facial - Designed to bring purity and balance to the skin on the back, this treatment will focus on cleansing, skin exfoliation and massage therapy. Perfect if you are having skin challenges on your back, seasonal skin changes or a special occasion. Your service provider will analyze your skin and determine which type of tulasara back facial will best serve your skin's needs.- $85 (60min ) BOOK NOW ​ Choices of tulasara back facials include: *botanical skin resurfacing *dry/aging/uneven skin tone *dry *oily *sensitive ​ Vajacial ​with lavender- The ultimate facial that focuses on the bikini line and outer labia. The process removes dead skin cells, treats the ingrown hairs, helps prevention of acne and ingrown hairs. Includes cleanse, steam, exfoliating treatment and masque finished with lavender oil treatment. SAVE $20 when booked with a brazilian wax. Please note if you would like the brazilian wax choose brazillian w/ vajacial option found under waxing services​.- $50 (25min) BOOK NOW Day of Facial add-ons: *add on will be available to book when you click on \"book now\" for the facial you want* Peels- $35 Brow wax-$20 Brow and lip wax-$31 Dermaplaning-$45 ​Hydrojelly masks-From $20 Microdermabrasion-$125 (ask about packages!!) SEE MORE HERE!! See our Pharmaceutical Grade Chemical Peel options here See our Mirconeedling Treatment with SkinPen® options here See our Diamond Glow Facial options here See our HydroPeptide Facial Peel options here See our Microdermabrasion Treatment options here See our Dermaplaning Treatment options here",
+    "main_content": "Facial Treatments in Milwaukee. 30 Minute Facial - $60.00 - BOOK NOW. 60 Minute Facial - $85.00 - BOOK NOW. 90 Minute Facial - $120.00 - BOOK NOW. 60 & 90 minute facials include a customized 5 min Illuminate LED therapy treatment.\n\nAVEDA Tulasara Facial - Facial with cleansing, gently dry brushing, facial massage with oleation oil, a mask and tulasara concentration to help your skin to be firm, bright or calming. Tulasara means moving toward balance. Facial dry brushing promotes skin renewal and exfoliation, helping to eliminate toxins and other impurities to help restore radiant, glowing skin. Your service provider will analyze your skin and determine which type of tulasara facial will best serve your skin's needs.\n\nChoices of Tulasara facials include: botanical skin resurfacing, dry/aging/uneven skin tone, dry, oily, sensitive.\n\nTulasara Back Facial - Designed to bring purity and balance to the skin on the back, this treatment will focus on cleansing, skin exfoliation and massage therapy. Perfect if you are having skin challenges on your back, seasonal skin changes or a special occasion. Your service provider will analyze your skin and determine which type of tulasara back facial will best serve your skin's needs. - $85 (60min) - BOOK NOW.\n\nChoices of tulasara back facials include: botanical skin resurfacing, dry/aging/uneven skin tone, dry, oily, sensitive.\n\nVajacial with lavender - The ultimate facial that focuses on the bikini line and outer labia. The process removes dead skin cells, treats the ingrown hairs, helps prevention of acne and ingrown hairs. Includes cleanse, steam, exfoliating treatment and masque finished with lavender oil treatment. SAVE $20 when booked with a brazilian wax. Please note if you would like the brazilian wax choose brazillian w/ vajacial option found under waxing services. - $50 (25min) - BOOK NOW.\n\nDay of Facial add-ons: Peels - $35, Brow wax - $20, Brow and lip wax - $31, Dermaplaning - $45, Hydrojelly masks - From $20, Microdermabrasion - $125 (ask about packages!!).\n\nRelated treatments: Pharmaceutical Grade Chemical Peel options, Mirconeedling Treatment with SkinPen options, Diamond Glow Facial options, HydroPeptide Facial Peel options, Microdermabrasion Treatment options, Dermaplaning Treatment options.",
     "with": [
       "AVEDA Tulasara Facial - Facial with cleansing, gently dry brushing, facial massage with oleation oil, a mask and tulasara concentration to help your skin to be firm, bright or calming.",
-      "Facial dry brushing promotes skin renewal and exfoliation, helping to eliminate toxins and other impurities to help restore radiant, glowing skin.",
-      "Vajacial ​with lavender- The ultimate facial that focuses on the bikini line and outer labia. The process removes dead skin cells, treats the ingrown hairs, helps prevention of acne and ingrown hairs.",
-      "60 & 90 minute facials include a customized 5 min Illuminate LED therapy treatment",
-      "Your service provider will analyze your skin and determine which type of tulasara facial will best serve your skin's needs."
+      "Tulasara means moving toward balance. Facial dry brushing promotes skin renewal and exfoliation, helping to eliminate toxins and other impurities to help restore radiant, glowing skin.",
+      "Vajacial with lavender - The ultimate facial that focuses on the bikini line and outer labia. The process removes dead skin cells, treats the ingrown hairs, helps prevention of acne and ingrown hairs.",
+      "60 Minute Facial - $85.00 - BOOK NOW. 90 Minute Facial - $120.00 - BOOK NOW.",
+      "Tulasara Back Facial - Designed to bring purity and balance to the skin on the back, this treatment will focus on cleansing, skin exfoliation and massage therapy."
     ],
     "without": [
-      "Happy Holidays Salon SPA MedSpa Lipo Laser Special Photo Gallery Specials GIFT CERTIFICATES Lash Class Careers Products",
-      "TERMS AND CONDITIONS: An automatic 3% processing fee will be added to all card transactions.",
-      "FOLLOW Us On Social Media",
-      "East Town Salon & Spa 718 E. Wells Street Milwaukee, WI 53202",
-      "Monday: 10 AM - 8 PM Tuesday - Friday: 10 AM - 9 PM Saturday: 9 AM - 5 PM Sunday: 9 AM - 4 PM"
-    ]
+      "Happy Holidays",
+      "CALL 414-271-4247",
+      "Privacy Policy",
+      "Follow Us On Social Media",
+      "Terms and Conditions: An automatic 3% processing fee will be added to all card transactions"
+    ],
+    "images": {
+      "total_in_content": 13,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:49:33.426154"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:39:57.041206"
 }

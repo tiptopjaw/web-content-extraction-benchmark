@@ -1,27 +1,54 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.ambetterhealth.com/en/resources/better-health-center/disease-prevention/dental-health-tips/",
   "file_id": "1534",
-  "downloaded_at": "2025-12-20T21:52:04.275063",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "health",
+        "dental",
+        "tips",
+        "wellness"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Brace Yourself for Better Dental Health With These 5 Tooth Care Tips",
-    "author": null,
+    "author": "Ambetter",
     "publish_date": null,
-    "main_content": "Dental hygiene is important. Taking care of your teeth can prevent bad breath, gum disease, and tooth decay. But did you know that poor dental health can affect the overall health of your entire body? An unhealthy mouth, and particularly gum disease, has been linked to stroke and heart disease. To help you optimize your dental health, and the health of your whole body, here are five tooth care tips:\n\n- Brush twice a day. Brushing is one of the easiest and most important ways to maintain good dental health. It helps remove any buildup of plaque or bacteria and cleans off leftover food. Be sure to brush each side of your teeth, including the biting surfaces, your gums, and your tongue. Don't forget to change your toothbrush every three to four months.\n- Floss twice a day. Flossing removes plaque from between your teeth, where the majority of problems arise, including cavities. Slide the floss between your teeth and gently up between the tooth and the gum line.\n- See your dentist every six months. A dental exam removes the plaque that you've missed with brushing and flossing, and can catch tooth decay and gum disease early on.\n- Drink plenty of water. Drinking water is an easy way to wash away food and bacteria throughout your day. As an added bonus, many municipal water supplies contain fluoride, which helps strengthen teeth.\n- Avoid sugary snacks. Food and drinks high in sugar contribute to tooth decay by dissolving enamel. When you do indulge, rinse your mouth with water or brush your teeth.\n\nTake charge of your health! Schedule your annual dental visit today!",
+    "main_content": "Dental hygiene is important. Taking care of your teeth can prevent bad breath, gum disease, and tooth decay. But did you know that poor dental health can affect the overall health of your entire body? An unhealthy mouth, and particularly gum disease, has been linked to stroke and heart disease. To help you optimize your dental health, and the health of your whole body, here are five tooth care tips: Brush twice a day. Brushing is one of the easiest and most important ways to maintain good dental health. It helps remove any buildup of plaque or bacteria and cleans off leftover food. Be sure to brush each side of your teeth, including the biting surfaces, your gums, and your tongue. Don't forget to change your toothbrush every three to four months. Floss twice a day. Flossing removes plaque from between your teeth, where the majority of problems arise, including cavities. Slide the floss between your teeth and gently up between the tooth and the gum line. See your dentist every six months. A dental exam removes the plaque that you've missed with brushing and flossing, and can catch tooth decay and gum disease early on. Drink plenty of water. Drinking water is an easy way to wash away food and bacteria throughout your day. As an added bonus, many municipal water supplies contain fluoride, which helps strengthen teeth. Avoid sugary snacks. Food and drinks high in sugar contribute to tooth decay by dissolving enamel. When you do indulge, rinse your mouth with water or brush your teeth. Take charge of your health! Schedule your annual dental visit today!",
     "with": [
       "Dental hygiene is important. Taking care of your teeth can prevent bad breath, gum disease, and tooth decay.",
-      "But did you know that poor dental health can affect the overall health of your entire body? An unhealthy mouth, and particularly gum disease, has been linked to stroke and heart disease.",
-      "To help you optimize your dental health, and the health of your whole body, here are five tooth care tips:",
+      "An unhealthy mouth, and particularly gum disease, has been linked to stroke and heart disease.",
       "Brush twice a day. Brushing is one of the easiest and most important ways to maintain good dental health.",
-      "Take charge of your health! Schedule your annual dental visit today!"
+      "Flossing removes plaque from between your teeth, where the majority of problems arise, including cavities.",
+      "Many municipal water supplies contain fluoride, which helps strengthen teeth."
     ],
     "without": [
-      "Don’t miss out on your health coverage! Pay now to get the benefits you deserve.",
-      "Shop Plans | For Members | Programs & Savings | Knowledge Center | Select State | Find a Doctor | Login",
-      "Articles You May Be Interested In",
-      "Download the Ambetter Health App",
-      "© Copyright 2025 Centene Corporation. All rights reserved."
-    ]
+      "Pay now to get the benefits you deserve",
+      "© Copyright 2025 Centene Corporation",
+      "Privacy Policy | Terms & Conditions",
+      "¿Hablas Español?",
+      "Download the Ambetter Health App"
+    ],
+    "images": {
+      "total_in_content": 6,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "/content/dam/centene/Centene%20Corporate/web-images/ambetter/bhc-dental.jpg",
+          "filename": "bhc-dental.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:52:04.275071"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:13:28.668310"
 }

@@ -1,0 +1,91 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.movebuddha.com/movers/ny/",
+  "file_id": "0425",
+  "_internal": {
+    "page_type": {
+      "primary": "review",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "moving",
+        "reviews",
+        "New York",
+        "local movers",
+        "interstate movers",
+        "buying guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "10 Best Moving Companies in New York (2025 Reviews)",
+    "author": "Ryan Carrigan",
+    "publish_date": null,
+    "main_content": "Whether you're moving across town in New York City, Brooklyn, or elsewhere in New York — or within 50 miles down the road — hiring a local NY mover is likely your best bet. We've evaluated 133 local New York movers and recommend Zip to Zip Moving Inc thanks to their professionalism and clear rates. Zip to Zip Moving Inc receives high marks from 722 customer reviews, with over 98% positive input. Most feedback highlights efficient service, polite and professional staff, careful handling of property, a quick moving process, and helpful movers. Lifestyle Moving & Storage stands out with consistently high marks: 97% of the 376 feedback entries are positive. Customers frequently mention that the team operates with impressive efficiency, professionalism, and politeness. Men On The Move draws praise for reliability and professionalism. With 682 reviews analyzed—85% positive—Men On The Move stands out with more reliable service, better staff, and smoother moves compared to other movers in the area. Seka Moving earns top marks from customers who praise efficient service, careful handling of belongings, professional and polite staff, speed, and clear communication. In 495 reviews, 85% are positive. Piece of Cake Moving & Storage makes relocating feel like a breeze for most customers, with 94.5% of nearly 9,000 reviews giving positive feedback. Their crews often win praise for being efficient, friendly, and showing care with belongings. Specialty services offered by NY movers include piano moving, with 115 out of 148 total movers offering this service. Antique handling services are available from 82 movers (55.41%) in New York, higher than the national average of 46.07%. Art packing and loading is offered by 91 movers (61.49%) in New York, significantly higher than the national average of 45.57%.",
+    "with": [
+      "Whether you're moving across town in New York City, Brooklyn, or elsewhere in New York — or within 50 miles down the road — hiring a local NY mover is likely your best bet.",
+      "We've evaluated 133 local New York movers and recommend Zip to Zip Moving Inc thanks to their professionalism and clear rates.",
+      "Most feedback highlights efficient service, polite and professional staff, careful handling of property, a quick moving process, and helpful movers.",
+      "In 495 reviews, 85% are positive, suggesting that most find the company reliable and courteous.",
+      "Specialty services offered by NY movers include piano moving, with 115 out of 148 total movers offering this service."
+    ],
+    "without": [
+      "Search moveBuddha...",
+      "Moving Cost Calculator",
+      "Advertising Disclosure",
+      "Toggle primary menu",
+      "© 2025 moveBuddha"
+    ],
+    "images": {
+      "total_in_content": 43,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "/wp-content/themes/movebuddha-2018/img/team-ryan-2.jpg",
+          "filename": "team-ryan-2.jpg",
+          "alt": "ryan carrigan moving expert",
+          "caption": "Ryan Carrigan moving expert",
+          "is_hero": false
+        },
+        {
+          "src": "https://d2bokxcjrqpzdp.cloudfront.net/53491dfe945e526adaef8df7f08c70d8.jpg",
+          "filename": "53491dfe945e526adaef8df7f08c70d8.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://d2bokxcjrqpzdp.cloudfront.net/53f2f27feb9dff879c2c6756e7af6859.png",
+          "filename": "53f2f27feb9dff879c2c6756e7af6859.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://d2bokxcjrqpzdp.cloudfront.net/ea4baec6352fcfa42c08e0f9ed3a09dd.png",
+          "filename": "ea4baec6352fcfa42c08e0f9ed3a09dd.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://d2bokxcjrqpzdp.cloudfront.net/9af9cc36aa7caad9b224840925c9c65b.png",
+          "filename": "9af9cc36aa7caad9b224840925c9c65b.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://d2bokxcjrqpzdp.cloudfront.net/008c35d3708005931a6d40a9cd837bda.png",
+          "filename": "008c35d3708005931a6d40a9cd837bda.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:31:04.480357"
+}

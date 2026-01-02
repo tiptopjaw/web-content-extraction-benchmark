@@ -1,25 +1,82 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.envoyage.com/vacations",
   "file_id": "0125",
-  "downloaded_at": "2025-12-20T18:31:02.433062",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "travel",
+        "vacation-packages",
+        "travel-agency",
+        "service"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Vacation Packages & Custom Getaways 2025 | Envoyage",
     "author": null,
     "publish_date": null,
-    "main_content": "Find Your Perfect Vacation Packages\n\nWhen it comes to vacations, there are as many ways to explore the world as there are cultures to explore. Our family, honeymoon, or adults-only vacations are perfect for fostering connections with friends and family. If you want it all at your fingertips, our all-inclusive or luxury vacations have you covered at some of the world’s most popular resorts. But if you're looking to do more than lounge by the pool, our casino or golf and spa vacations are the places to start. And if you want to go beyond the regular getaway, curate a bespoke adventure with our exotic vacations. Ultimately, whether you’re planning a cruise or a last-minute break to your favorite city—your travel advisor can match you with a vacation package that’s just your style.\n\nCurrent Offers\n\nYour Getaway, Your Way\n\nYour ideal vacation is just a click away.\n\nAll Inclusive\nFamily\nAdults Only\nHoneymoon\nLast Minute\nBeach\nExotic\nLuxury\nCasino\nPride\nGolf and Spa\n\nMeet Our Vacation Experts\n\nTaylor Robertson\nBuffalo, NY\n\nDanielle Lyadri\nLong Island , NY\n\nChris Frohlich\nMontvale, NJ\n\nJulie Reilly\nDoylestown, PA\n\nCarol Rivera\nMontvale, NJ\n\nJaime Levine Vradenburg\nGroup Travel Advisor\nMontvale, NJ\n\nMy Time: Enhanced Vacation Packages\n\nAn elevated level of service, My Time through Envoyage takes your vacation experience to the next level with exclusive perks and special amenities at no additional cost.\n\nChoose Your Own Adventure\n\nAll Inclusive: Have it all when accommodations, meals, drinks, entertainment and activities are all included.\n\nFamily: Experience a getaway with kids, teens and parents in mind.\n\nAdults Only: Spend time in resorts and destinations that cater to the 18+ crowd.\n\nHoneymoon: We'll help plan the perfect, tailor-made honeymoon package for every type of traveler.\n\nCasino: Toss the dice or spin the wheel at one of our thrilling casino destinations.\n\nExotic: Picture yourself on a bucket list escape, like a private South Pacific island or a thrilling African safari.\n\nLast Minute: Decided there's no better time to get away than now? We've got you covered.\n\nGolf and Spa: Tee-off or enjoy a massage at one of our highly ranked golf or spa resorts.\n\nLuxury: Opulent accommodations, exquisite cuisine and personalized service await you.\n\nLGBT-Friendly: Visit a destination that embraces diversity and welcomes LGBTQIA+ travelers with open arms.\n\nCruise: From epic ocean adventures to quaint European river cruises, we'll help you set sail.\n\nThe Gift of Travel\n\nAn amazing experience is the best gift of all. Envoyage's electronic gift cards are an easy way to help create memorable trips and unforgettable memories. Ideal for absolutely every occasion—from holidays and birthdays to anniversaries and wedding gifts—a travel gift card lets the recipient create the vacation of their dreams. And it’s all thanks to you.\n\nUnlock Limitless Possibilities for Every Journey\n\nWith Envoyage, every journey unfolds with limitless possibilities. Our experienced travel advisors transform the complexity of travel into seamless simplicity, specializing in destinations around the world and arranging everything from Caribbean and Mexico all-inclusives and cruises to destination weddings, European adventures and more. We unlock exclusive privileges and the best value travel experiences, while saving you time when it matters most. Delayed flight? Changed plans? With an Envoyage advisor by your side, you can relax knowing everything is taken care of for every journey.",
+    "main_content": "Find Your Perfect Vacation Packages. When it comes to vacations, there are as many ways to explore the world as there are cultures to explore. Our family, honeymoon, or adults-only vacations are perfect for fostering connections with friends and family. If you want it all at your fingertips, our all-inclusive or luxury vacations have you covered at some of the world's most popular resorts. But if you're looking to do more than lounge by the pool, our casino or golf and spa vacations are the places to start. And if you want to go beyond the regular getaway, curate a bespoke adventure with our exotic vacations. Ultimately, whether you're planning a cruise or a last-minute break to your favorite city—your travel advisor can match you with a vacation package that's just your style. Your Getaway, Your Way. Your ideal vacation is just a click away. All Inclusive, Family, Adults Only, Honeymoon, Last Minute, Beach, Exotic, Luxury, Casino, Pride, Golf and Spa. Meet Our Vacation Experts. My Time: Enhanced Vacation Packages. An elevated level of service, My Time through Envoyage takes your vacation experience to the next level with exclusive perks and special amenities at no additional cost. Choose Your Own Adventure. All Inclusive: Have it all when accommodations, meals, drinks, entertainment and activities are all included. Family: Experience a getaway with kids, teens and parents in mind. Adults Only: Spend time in resorts and destinations that cater to the 18+ crowd. Honeymoon: We'll help plan the perfect, tailor-made honeymoon package for every type of traveler. Casino: Toss the dice or spin the wheel at one of our thrilling casino destinations. Exotic: Picture yourself on a bucket list escape, like a private South Pacific island or a thrilling African safari. Last Minute: Decided there's no better time to get away than now? We've got you covered. Golf and Spa: Tee-off or enjoy a massage at one of our highly ranked golf or spa resorts. Luxury: Opulent accommodations, exquisite cuisine and personalized service await you. LGBT-Friendly: Visit a destination that embraces diversity and welcomes LGBTQIA+ travelers with open arms. Cruise: From epic ocean adventures to quaint European river cruises, we'll help you set sail. The Gift of Travel. An amazing experience is the best gift of all. Envoyage's electronic gift cards are an easy way to help create memorable trips and unforgettable memories. Ideal for absolutely every occasion—from holidays and birthdays to anniversaries and wedding gifts—a travel gift card lets the recipient create the vacation of their dreams. Unlock Limitless Possibilities for Every Journey. With Envoyage, every journey unfolds with limitless possibilities. Our experienced travel advisors transform the complexity of travel into seamless simplicity, specializing in destinations around the world and arranging everything from Caribbean and Mexico all-inclusives and cruises to destination weddings, European adventures and more. We unlock exclusive privileges and the best value travel experiences, while saving you time when it matters most. Delayed flight? Changed plans? With an Envoyage advisor by your side, you can relax knowing everything is taken care of for every journey.",
     "with": [
       "When it comes to vacations, there are as many ways to explore the world as there are cultures to explore.",
-      "Our experienced travel advisors transform the complexity of travel into seamless simplicity, specializing in destinations around the world and arranging everything from Caribbean and Mexico all-inclusives and cruises to destination weddings, European adventures and more.",
-      "With Envoyage, every journey unfolds with limitless possibilities."
+      "Our family, honeymoon, or adults-only vacations are perfect for fostering connections with friends and family.",
+      "Your ideal vacation is just a click away with categories including All Inclusive, Family, Adults Only, Honeymoon, Last Minute, Beach, Exotic, Luxury, Casino, Pride, and Golf and Spa.",
+      "An elevated level of service, My Time through Envoyage takes your vacation experience to the next level with exclusive perks and special amenities at no additional cost.",
+      "With Envoyage, every journey unfolds with limitless possibilities as our experienced travel advisors transform the complexity of travel into seamless simplicity."
     ],
     "without": [
-      "Vacations Destinations Cruises Guided Tours Group Travel Trending Now More",
-      "1-888-343-2128 1-201-778-1366 1-888-344-8204 1-888-348-6081 1-888-350-6069 267-225-9213",
-      "© Envoyage 2001-2025, All rights reserved. Privacy Notice | Terms of Use | Booking Terms & Conditions | Do Not Sell My Personal Information",
-      "Don't miss out on travel deals Get hot holiday savings, travel inspo, and expert tips & tricks straight to your inbox.",
-      "Sponsored Vacations"
-    ]
+      "Skip to main content",
+      "Find Your Expert - Meet Our Advisors",
+      "Winner of the World Travel Awards for United States' Leading Travel Agency",
+      "Are you a travel advisor or agency looking to become a member of Envoyage?",
+      "© Envoyage 2001-2025, All rights reserved"
+    ],
+    "images": {
+      "total_in_content": 30,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "/sites/default/files/styles/full_size/public/LT.com%20Family%20Image-838x557.jpg?itok=dsQKPTdM",
+          "filename": "LT.com%20Family%20Image-838x557.jpg",
+          "alt": "A family having fun on vacation on a waterslide",
+          "caption": "A family having fun on vacation on a waterslide",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.envoyage.com/sites/default/files/styles/full_size/public/Vacations_My%20Time_01_792x830_0.jpg?itok=h3lnoPaZ",
+          "filename": "Vacations_My%20Time_01_792x830_0.jpg",
+          "alt": "A couple walks along the ocean on vacation",
+          "caption": "A couple walks along the ocean on vacation",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.envoyage.com/sites/default/files/styles/full_size/public/Vacations_Own%20Adventure_02_1024X1025.jpg?itok=LK_qty1n",
+          "filename": "Vacations_Own%20Adventure_02_1024X1025.jpg",
+          "alt": "A gay couple embrace with the ocean in the background",
+          "caption": "A gay couple embrace with the ocean in the background",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.envoyage.com/sites/default/files/styles/full_size/public/GiftCard_H.jpg?itok=3_beLxgY",
+          "filename": "GiftCard_H.jpg",
+          "alt": "Gift card",
+          "caption": "Gift card",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.envoyage.com/sites/default/files/styles/full_size/public/C-Vacations.png?itok=k2bKLBjM",
+          "filename": "C-Vacations.png",
+          "alt": "sightseeing on vacation",
+          "caption": "Sightseeing on vacation",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:31:02.433070"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:43:11.105207"
 }

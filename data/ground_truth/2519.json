@@ -1,27 +1,82 @@
 {
+  "schema_version": "2.0",
   "url": "https://muratbuffalo.blogspot.com/2025/12/leaseguard-raft-leases-done-right.html",
   "file_id": "2519",
-  "downloaded_at": "2025-12-21T00:05:21.132228",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "distributed-systems",
+        "raft",
+        "consensus",
+        "technical-research"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "LeaseGuard: Raft Leases Done Right!",
-    "author": null,
+    "author": "Murat Demirbas",
     "publish_date": "2025-12-19",
-    "main_content": "Many distributed systems have a leader-based consensus protocol at their heart. The protocol elects one server as the \"leader\" who receives all writes. The other servers are \"followers\", hot standbys who replicate the leader’s data changes. Paxos and Raft are the most famous leader-based consensus protocols.\n\nThese protocols ensure consistent state machine replication, but reads are still tricky. Imagine a new leader L1 is elected, while the previous leader L0 thinks it's still in charge. A client might write to L1, then read stale data from L0, violating Read Your Writes. How can we prevent stale reads? The original Raft paper recommended that the leader communicate with a majority of followers before each read, to confirm it's the real leader. This guarantees Read Your Writes but it's slow and expensive.\n\nA leader lease is an agreement among a majority of servers that one server will be the only leader for a certain time. This means the leader can run queries without communicating with the followers, and still ensure Read Your Writes. The original description of Raft included a lease protocol that was inherited from the earlier Paxos, where followers refuse to vote for a new leader until the old leader's lease expires. This entangles leases and elections, and it delays recovery after a crash. Besides, lease protocols have never been specified in detail, for either Raft or Paxos. For all these reasons, many Raft implementations don't use leases at all, or their leases are buggy.\n\nIn the MongoDB Distributed Systems Research Group, we designed a simple lease protocol tailored for Raft, called LeaseGuard. Our main innovation is to rely on Raft-specific guarantees to design a simpler lease protocol that recovers faster from a leader crash. Here’s a preprint of our SIGMOD'26 paper. This is a joint blog post by A. Jesse Jiryu Davis and Murat Demirbas, published on both of our blogs.\n\nA huge simplification: the log is the lease\nIn Raft, before the leader executes a write command, it wraps the command in a log entry which it appends to its log. Followers replicate the entry by appending it to their logs. Once an entry is in a majority of servers’ logs, it is committed. Raft’s Leader Completeness property guarantees that any newly elected leader has all committed entries from previous leaders. Raft enforces this during elections: a server votes only for a candidate whose log is at least as up to date as its own. (Paxos doesn’t have this property, so a new leader has to fetch entries from followers before it’s fully functional.)\n\nWhen designing LeaseGuard, we used Leader Completeness to radically simplify the lease protocol. LeaseGuard does not use extra messages or variables for lease management, and does not interfere with voting or elections.\n\nIn LeaseGuard, the log is the lease. Committing a log entry grants the leader a lease that lasts until a timeout expires. While the lease is valid, the leader can serve consistent reads locally. Because of Leader Completeness, any future leader is guaranteed to have that same entry in its log. When a new leader L1 is elected, it checks its own log for the previous leader L0's last entry, to infer how long to wait for L0's lease to expire.\n\nIn existing protocols, the log is not the lease: instead, the leader periodically sends a message to followers which says, \"I still have the lease\". But imagine a leader who couldn't execute writes or append to its log --perhaps it's overloaded, or its disk is full or faulty-- but still has enough juice to send lease-extension messages. This lame-duck leader could lock up the whole system. In LeaseGuard, a leader maintains its lease only if it can make progress; otherwise, the followers elect a new one.\n\nWe are excited by the simplicity of this Raft-specific lease protocol. (We were inspired by some prior work, especially this forum post from Archie Cobbs.) In LeaseGuard, there is no separate code path to establish the lease. We decouple leases from elections. The log is the single source of truth for both replication and leasing.\n\nLeaseGuard makes leader failovers smoother and faster\nLeases improve read consistency but can slow recovery after a leader crash. No matter how quickly the surviving servers elect a new leader, it has to wait for the old leader's lease to expire before it can read or write. The system stalls as long as 10 seconds in one of the Raft implementations we studied.\n\nLeaseGuard improves the situation in two ways. First, deferred-commit writes. As soon as a new leader wins election, it starts accepting writes and replicating them to followers. It just defers marking any writes \"committed\" until the old lease expires. Without this optimization, writes enqueue at the new leader until the old lease expires; then there’s a thundering herd. With our optimization, the new leader keeps up with the write load even while it’s waiting.\n\nSecond, inherited lease reads. This is our biggest innovation, and it’s a bit complicated. Consider the situation where L1 was just elected, but L0 is alive and still thinks it’s in charge. Neither leader knows about the other. (Yes, this can really happen during a network partition.) Raft makes sure that L0 can't commit any more writes, but there’s a danger of it serving stale reads. The whole point of leases is to prevent that by blocking L1 from reading and writing until L0’s lease expires. But what if there was a way for both leaders to serve reads, and still guarantee Read Your Writes?\n\nWhen L1 was elected, it already had all of L0’s committed log entries (Leader Completeness), and maybe some newer entries from L0 that aren’t committed yet. L1 knows it has every committed entry, but it doesn’t know the true commit frontier! We call these ambiguous entries the limbo region. For each query, L1 checks if the result is affected by any entries in the limbo region—if not, L1 just runs the query normally. Otherwise, it waits until the ambiguity is resolved.\n\nInherited lease reads require synchronized clocks with known error bounds, but the rest of the protocol only needs local timers with bounded drift. Our two optimizations preserve Read Your Writes and dramatically improve availability.\n\nTransitions in the read/write availability of leaders with LeaseGuard. While the new leader waits for a lease, it can serve some consistent reads and accept writes.\n\nHere's the whole algorithm in pseudo-Python. For more details, please read the paper.\n\nTests and benchmarks\nWhen we started this research, our main goal was to publish a detailed and correct specification, so Raft implementers everywhere could implement leases without bugs. We’re TLA+ fans so obviously we specified the algorithm in TLA+ and checked it guaranteed Read Your Writes and other correctness properties. We discovered our two optimizations while writing the TLA+ spec. The inherited lease reads optimization was especially surprising to us; we probably wouldn’t have realized it was possible if TLA+ wasn’t helping us think.\n\nWe implemented the algorithm in LogCabin, the C++ reference implementation of Raft. (For ease of exposition, we also provide an implementation in a Python simulator.)\n\nIn the following experiment, we illustrate how LeaseGuard improves throughput and reduces time to recovery. We crash the leader 500 ms after the test begins. At the 1000 ms mark, a new leader is elected, and at 1500 ms, the old leader’s lease expires. We ran this experiment with LogCabin in five configurations:\n\nInconsistent: LogCabin running fast and loose, with no guarantee of Read Your Writes.\nQuorum: The default Read Your Writes mechanism, where the leader talks to a majority of followers before running each query, is miserably slow—notice that its Y axis is one tenth as high as the other charts!\nLease: The “log is the lease” protocol with no optimizations. Its throughput is as high as “inconsistent”, but it has a long time to recovery after the old leader crashes.\nDefer commit: The log is the lease, plus our write optimization—you can see that write throughput spikes off the chart at 1500 ms, because the leader has been processing writes while waiting for the lease. As soon as it gets the lease, it commits all the writes at once.\nInherit lease: LeaseGuard with all our optimizations. Read throughput recovers as soon as a new leader is elected, without waiting for the old lease to expire.\n\nConclusion\nUntil now, the absence of a detailed specification for Raft leases led to many flawed implementations: they often failed to guarantee consistent reads, had very low read throughput, or recovered slowly from a leader crash. With LeaseGuard now specified, implemented, and published, we hope it will be readily adopted to enable Raft systems to provide fast reads with strong consistency and recover quickly after a crash.\n\nWe learned yet again the value of TLA+ during this project. TLA+ is useful not just for checking the correctness of a completed design, but for revealing new insights while the design is in progress. Also, we got interested in reasoning about knowledge, also known as epistemic logic. In Raft, servers can look in their logs and know that other servers know certain facts. For example, if a leader has a committed entry, it knows any future leader knows about this entry, but it doesn’t know if a future leader knows the entry was committed. This is a different way for us to think about a distributed system: it’s not just a state machine, it’s a group of agents with limited knowledge. We’re curious about this way of thinking and plan to do more research.",
+    "main_content": "Many distributed systems have a leader-based consensus protocol at their heart. The protocol elects one server as the leader who receives all writes. The other servers are followers, hot standbys who replicate the leader's data changes. Paxos and Raft are the most famous leader-based consensus protocols. These protocols ensure consistent state machine replication, but reads are still tricky. Imagine a new leader L1 is elected, while the previous leader L0 thinks it's still in charge. A client might write to L1, then read stale data from L0, violating Read Your Writes. A leader lease is an agreement among a majority of servers that one server will be the only leader for a certain time. This means the leader can run queries without communicating with the followers, and still ensure Read Your Writes. The original description of Raft included a lease protocol that was inherited from the earlier Paxos, where followers refuse to vote for a new leader until the old leader's lease expires. This entangles leases and elections, and it delays recovery after a crash. In the MongoDB Distributed Systems Research Group, we designed a simple lease protocol tailored for Raft, called LeaseGuard. Our main innovation is to rely on Raft-specific guarantees to design a simpler lease protocol that recovers faster from a leader crash. In LeaseGuard, the log is the lease. Committing a log entry grants the leader a lease that lasts until a timeout expires. While the lease is valid, the leader can serve consistent reads locally. Because of Leader Completeness, any future leader is guaranteed to have that same entry in its log. LeaseGuard improves the situation with two optimizations: deferred-commit writes and inherited lease reads. Deferred-commit writes allows the new leader to start accepting writes and replicating them to followers while deferring the commitment until the old lease expires. Inherited lease reads allows both leaders to serve reads during the transition period while still guaranteeing Read Your Writes. We implemented the algorithm in LogCabin and checked it with TLA+ to guarantee correctness.",
     "with": [
-      "Many distributed systems have a leader-based consensus protocol at their heart.",
+      "In the MongoDB Distributed Systems Research Group, we designed a simple lease protocol tailored for Raft, called LeaseGuard.",
       "In LeaseGuard, the log is the lease. Committing a log entry grants the leader a lease that lasts until a timeout expires.",
-      "LeaseGuard improves the situation in two ways. First, deferred-commit writes. As soon as a new leader wins election, it starts accepting writes and replicating them to followers.",
-      "Second, inherited lease reads. This is our biggest innovation, and it’s a bit complicated.",
-      "Until now, the absence of a detailed specification for Raft leases led to many flawed implementations."
+      "Because of Leader Completeness, any future leader is guaranteed to have that same entry in its log.",
+      "Inherited lease reads require synchronized clocks with known error bounds, but the rest of the protocol only needs local timers with bounded drift.",
+      "We implemented the algorithm in LogCabin, the C++ reference implementation of Raft."
     ],
     "without": [
       "Search This Blog",
-      "On distributed systems broadly defined and other curiosities. The opinions on this site are my own.",
-      "Powered by Blogger",
       "Popular posts from this blog",
-      "Hints for Distributed Systems Design"
-    ]
+      "Powered by Blogger",
+      "Subscribe to newsletter",
+      "Share to Facebook"
+    ],
+    "images": {
+      "total_in_content": 11,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz19UQEyuVT_PNaituSBV1aKdwlwXQ2AFKqeo_NjNhOAzu_Tc-Vf5DgNCEzCzVPIih5agb28K84PPQjJb_Micq_pjEwsOvrcmgoAJP83CRbrAtIKsdda_OIB4VJlg-t5_O0-DNip64_p7RWFQ5uTzoqeZEvvnAazi8juKEZkN0Bubf5mu7PD3hHjEfDVI/w640-h398/plate_21_19_27%20(1).jpeg",
+          "filename": "plate_21_19_27%20(1).jpeg",
+          "alt": null,
+          "caption": "Image: Horologerie, 1765, Diderot and d'Alembert.",
+          "is_hero": true
+        },
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Vlzqffx02r8TLgdRhxbW1gR_Zr4ZYxoN5FNdNonoupKQp4XelmuPbGrwkW_ypIs0Vyz9UnfVypiQ6Am7ZkSaOhOiFDSJUSoI9IIGfp9slUiTJnzUES7JWmGrsoTelMPn88iXwNWV29tIrxRDLWV6MwD55v8z88UNOnoBEtyDgUDkRI_oUKEIMLdTWTU/w400-h178/limbo-range-blog.png",
+          "filename": "limbo-range-blog.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju7FuGOdpoSRuRjrXu9udrlhepB8NSd58IMXM8lSIlp1O6RMmgsh8UdN25e0INxqQONmC03YDcHAw56JKws0WZAUcHCYf_vm2HkCt_qo5mIJhEJT_XQEVe071_9PVXWCy_PB1z2kKL4NnvVB9y0E-FvLmZSD4ci5yOhkXCqmBlXyYCGa09CC3ku3jgWQs/w400-h166/availability_timeline.key.png",
+          "filename": "availability_timeline.key.png",
+          "alt": null,
+          "caption": "Transitions in the read/write availability of leaders with LeaseGuard.",
+          "is_hero": false
+        },
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7kRabnJfGZ5LJ25HGwg50q__KwCPrHT6NcDyZaQoqIblHI03szJrEWYbS8dJuG2QniOjrSFyl2OrAcdcc5raH30NoSyzaHX7J6tzLDN_4xJRJfDBAGH1KbBkfceSSmaYaBSH2NHUv6BB5I2vT7gVd3-uqAVdZl_ZqnbEp-fX8oH0hmoJDrPkPBJohlLc/w386-h640/Screenshot%202025-12-18%20at%209.04.07%E2%80%AFPM.png",
+          "filename": "Screenshot%202025-12-18%20at%209.04.07%E2%80%AFPM.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWVTJNsDoRIVtf1j14orNv_rhapu5MkDCV1wUzEO6oAdIV92172Dy4KSDrXZOQE_FyPUPiFT_6C1PPgNOyGFhPhQXApHxBUCnBfi6AeOSPzNSD-G62VJjTZB7Hkbbp_eWbI2EraOs5X576mwF-sigfNVOV-YeHEzWohBfV9Mr7tz7wmEGFtDqPyyzf1SY/w406-h640/unavailability_experiment_logcabin.png",
+          "filename": "unavailability_experiment_logcabin.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-21T00:05:21.132234"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:37:30.707968"
 }

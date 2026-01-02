@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.earth.org.uk/note-on-site-technicals-10.html",
+  "file_id": "2411",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "blog",
+        "website",
+        "technical"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "On Website Technicals (2018-03)",
+    "author": "Damon Hart-Davis",
+    "publish_date": "2018-03-10",
+    "main_content": "Readability was an important goal for this month. The tools have continued to help me curb my tendency to ramble on and on without a full stop! In passing this also prompted me to be a good deal more generous with images in my text: more and larger.\n\n2018-03-30: SoftwareSourceCode - Discovered the schema.org SoftwareSourceCode markup. Marked up a couple of links to code repos, and many (~90) code snippets, as a test. Google's Structured Data Testing Tool is able to parse all of them.\n\n2018-03-26: Ads on Lite - As an experiment I shall try restoring ads for the 'lite' site. It gets 30% of traffic, but I notice that the majority of ad revenue is from mobile devices on my full site, which is odd.\n\n2018-03-25: TechArticle and Report - For all my main pages I have been using the schema.org Article type. There are subtypes such as TechArticle which I am now using for the more techie pieces (tagged 'tech'), and Report for any (other) 'research' tagged pieces.\n\n2018-03-20: Moar Readability - I continue to chug away, improving the readability scores of pages for which I am now getting warnings. I am feeling a little inspired today by the simplicity of some of the independent creative writing of year 2! Short can be good. Google: Can Take 6+ Months to See Rankings Improve from Quality Improvements.\n\n2018-03-19: Ad Borders - Since the common borderless 'native' Auto Ad format seems to be doing well for revenue, I have stripped the red border and 'Advertisements' tag from the generic ads that I still insert manually and algorithmically.\n\n2018-03-18: Article Tags - I have generalised the tagging mechanism to allow any article zero or more tags. As of today six tag 'words' are defined to indicate things from tech-heavy to social-media targeted.\n\n2018-03-11: Readability - I am now computing (with a view to improving) the Flesch Reading Ease of my core pages, at the moment using the reado npm package. Currently I have set the default warning threshold at 55 'fairly difficult to read', but for core non-technical pieces will aim for ~85 'conversational English for consumers', while maybe letting heavy tech pieces get as low as 40 to 45.\n\n2018-03-10: Site Incremental Build - I have been tweaking the pages-incr make target to ensure that if there is nothing that it can build then it terminates quickly.\n\n2018-03-08: Google AdSense Auto Ad Imbalance - I have an experiment with AdSense Ad Balance testing for a fill rate of 100% or 50% and for now 50% is not looking good. I think that with Auto Ads I am seeing a tiny increase in my still minuscule revenue!",
+    "with": [
+      "Readability was an important goal for this month.",
+      "For all my main pages I have been using the schema.org Article type.",
+      "I am now computing the Flesch Reading Ease of my core pages.",
+      "Since the common borderless 'native' Auto Ad format seems to be doing well for revenue.",
+      "I have an experiment with AdSense Ad Balance testing for a fill rate of 100% or 50%."
+    ],
+    "without": [
+      "Copyright 2007 to 2025 Damon Hart-Davis",
+      "Privacy, about Earth Notes and why you can trust it",
+      "This server is powered by off-grid solar PV",
+      "Popularity rank: 53/459",
+      "Tags: blog, site, tech"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "img/a/h/tools-1280w.l354283.800x200.png",
+          "filename": "tools-1280w.l354283.800x200.png",
+          "alt": "tools",
+          "caption": "tools",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:09:58.049138"
+}

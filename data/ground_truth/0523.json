@@ -1,27 +1,96 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.fgcu.edu/academics/innovate/online/certificates",
   "file_id": "0523",
-  "downloaded_at": "2025-12-20T18:10:59.636781",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "certificates",
+        "professional-development",
+        "fgcu"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Professional Certificate Programs",
     "author": null,
     "publish_date": null,
-    "main_content": "Earn Your Certificate Your Way\nAre you looking to become certified to advance you in your career or earn a certification to prepare for a national exam? No matter the reason, our online learning programs can help you become certified in a multitude of fields. We have partnered with nationally recognized online learning providers to support your educational needs. Our programs range from healthcare, business, fitness, management/corporate, media and design, skilled trades, and much more.\n\nOpen access\nLearn from anywhere with Internet access.\n\nGet certified\nEarn a certificate online 24/7.\n\nSupport\nFind the answers to your questions.\n\nFinancial Support for Military Spouses\nUtilize military spouse benefits to get in-demand career training.\nMY CAA\n\nDon't Know What Certificate You Need?\nLearn more about the certificates we offer through partnerships with leading program providers such as Ed2Go, CareerStep, and many more!\n\nEd2go\nLearn more about the certificates we offer to help you reach your educational/career goals.\n\nCareerStep\nLearn more about the certificates we offer to help you reach your educational/career goals.\n\nLEGAL STUDIES REAL ESTATE\n\nCareer Training Certificate Programs\nWe offer in-depth, career training courses in association with Ed2go, the world's largest provider of online, instructor-supported training to colleges and universities.\nLearn more...\nCareer Training Certificate Programs\nYou can begin these courses whenever you'd like since there are no set start dates. These web-based programs are designed to provide the skills necessary to acquire professional caliber positions for many in-demand occupations, all within a three-month time frame. Coursework is completed independently, but instructors are actively involved in the students' online learning experience. They respond to any questions or concerns as well as encouraging and motivating students to succeed. Each program has a set of lessons and tests; grades are a combination of computer-graded tests and the instructor's evaluation of the students' work. Students love the quality as well as the convenience of anytime, anywhere learning. Gatlin Education Services has information about financial assistance options here.\nCourses are offered in the following content areas: Business and Professional, Healthcare and Fitness, Hospitality, Gaming, Information Technology and Software Development, Management and Corporate, Media and Design, and Skilled Trades and Industrial. If you need more information contact us at (877) 221-5151.\n\nBusiness and Professional\nAdministrative Professional with Microsoft Office Specialist\nCertified Bookkeeper\nCertified Global Business Professional\nChartered Tax Professional\nEntrepreneurship: Start-Up and Business Owner Management\nEvent Management and Design\nFitness Business Management\nFreight Broker/Agent Training\nHelp Desk Analyst: Tier 1 Support Specialist\nManagement for IT Professionals\nManagement Training\nNon-Profit Management\nProject Management Essentials with CAPM Prep\nPurchasing & Supply Chain Management\nRecords Management Certificate\nOMCP Search Marketing Professional\nSix Sigma Black Belt\nSix Sigma Yellow Belt\n\nHealthcare and Fitness\nAdministrative Dental Assistant\nAdvanced Hospital Coding and CCS Prep\nCertified Pharmaceutical Sales Representative\nICD-10 Medical Coding\nFitness Business Management\nCBCS Medical Billing and Coding\nCCA Medical Billing and Coding\nCPC Medical Billing and Coding\nMedical Terminology\nCertified Medical Transcriptionist\nNutrition for Optimal Health, Wellness, and Sports\nNASM Certified Personal Trainer + Corrective Exercise\nNASM Certified Personal Trainer + Performance Enhancement\nNASM Certified Personal Trainer and Exam Preparation\nNASM Corrective Exercise Specialist (CES)\nNASM Performance Enhancement Specialist (PES)\nPersonal Training and Group Exercise Training for Older Adults\nRecords Management Certificate\nVeterinary Assistant\nVeterinary Assistant with Horse Care Management\nVeterinary Office Manager\n\nHospitality and Gaming\nCertified Wedding Planner\nTravel Agent Training\nDigital Game Artist Certificate\nVideo Game Design and Development\n\nInformation Technology and Software Development\nAdministrative Professional with Microsoft Office Specialist 2016\nAdministrative Professional with Microsoft Office Master 2016\nCompTIA· A+ Certification Training\nCompTIA· Linux+ Certification Training\nCompTIA· Certification Training: A+, Network+, Security+\nCompTIA· Security+ Certification Training\nManagement for IT Professionals\nMicrosoft Access 2019\nMicrosoft Excel 2019\nMicrosoft Outlook 2019\nMicrosoft PowerPoint 2019\n\nManagement and Corporate\nChartered Tax Professional\nEntrepreneurship: Start-Up and Business Owner Management\nEvent Management and Design\nFitness Business Management\nManagement for IT Professionals\nManagement Training\nPurchasing & Supply Chain Management\nRecords Management Certificate\nTechnical Writing\n\nMedia and Design\nMarketing Design Certificate\nDigital Arts Certificate\nCertified Residential Interior Designer\nMultimedia Arts Certificate\nDigital Game Artist Certificate\nVideo Game Design and Development\n\nSkilled Trades and Industrial\nChemical Plant Operations\nFreight Broker/Agent Training\nHome Inspection Certificate\nHVAC/R Certified Technician\nOil Refinery Operations\nPower Plant Operations\n\nRegister for FGCU Career Training Certificate Programs\n\nLearn More About Our Partnerships\nBelow you will find our partners and what they can offer to help you reach your educational goals!\n\nCareer Step\nFlorida Gulf Coast University has partnered with Career Step to help people like you train for a rewarding new career. Career Step is the premier provider of healthcare training, with an integrated technology platform that delivers quality, trusted learning content, continuing education, and certification management.\n\nW.I.T.S.\nAll W.I.T.S. graduates are required to complete a minimum of 10 hours of study within a 2 year period to maintain their current status as a W.I.T.S. certified professional. Courses offered include: Personal Fitness Online, Business & Marketing Success Series, CEUs/CECs, and other certifications.\n\nEd2go (Self-Study)\nIn-depth, instructor-guided, career training certificate programs designed to help you achieve professional caliber positions for many occupations. Courses range from 12 to 580 hours and cost varies with programs in skilled trades, hospitality, business/professional, healthcare/fitness, information technology, software development, media and design.\n\nEd2go (Instructor-Facilitated)\nSix-week professional development and training courses, many starting at $99. These course topics cover sales and marketing, accounting, law, healthcare, nutrition, fitness, business administration, database programming, graphic and web design, PC troubleshooting, networking and security, childcare and parenting, and courses for teaching professionals.\n\nThe Center for Legal Studies\nThe Center for Legal Studies is a legal education company focused on providing students the most affordable and effective legal education possible. Florida Gulf Coast University has partnered with the Center for Legal Studies to offer a multitude of legal studies courses in multiple formats including online, DVD, and text-only.\n\nOnCourse Learning\nFlorida Gulf Coast University has partnered with OnCourse Learning to help individuals who want to earn their Florida Real Estate, Broker, Appraisal, or Home Inspection licenses. Programs include pre-license, post-license, and continuing education courses. Build the proper skills, be client-focused, and always stay up-to-date with these courses.\n\nExplore More Online Learning Opportunities\nHealthcare Real Estate Personal Fitness Legal Studies Career Training CAREER CERTIFICATIONS Self Study Courses",
+    "main_content": "Florida Gulf Coast University offers professional certificate programs to help advance careers and earn certifications for national exams. The university has partnered with nationally recognized online learning providers including Ed2Go, CareerStep, W.I.T.S., Center for Legal Studies, and OnCourse Learning. Programs are available in healthcare, business, fitness, management, media and design, skilled trades, information technology, hospitality, and gaming. Courses offer open access learning from anywhere with internet access, with certificates available 24/7. Financial support is available for military spouses through MYCAA benefits. Certificate programs range from 12 to 580 hours and are designed to help students achieve professional caliber positions. Ed2Go offers instructor-guided career training certificate programs as well as six-week professional development courses starting at $99. Career Step provides healthcare training with an integrated technology platform. The Center for Legal Studies offers legal education courses in multiple formats including online, DVD, and text-only. OnCourse Learning provides Florida Real Estate, Broker, Appraisal, and Home Inspection licenses with pre-license, post-license, and continuing education courses.",
     "with": [
       "Are you looking to become certified to advance you in your career or earn a certification to prepare for a national exam?",
       "We have partnered with nationally recognized online learning providers to support your educational needs.",
-      "Our programs range from healthcare, business, fitness, management/corporate, media and design, skilled trades, and much more.",
-      "We offer in-depth, career training courses in association with Ed2go, the world's largest provider of online, instructor-supported training to colleges and universities.",
-      "These web-based programs are designed to provide the skills necessary to acquire professional caliber positions for many in-demand occupations, all within a three-month time frame."
+      "Utilize military spouse benefits to get in-demand career training.",
+      "Florida Gulf Coast University has partnered with Career Step to help people like you train for a rewarding new career.",
+      "Courses are offered in the following content areas: Business and Professional, Healthcare and Fitness, Hospitality, Gaming, Information Technology and Software Development, Management and Corporate, Media and Design, and Skilled Trades and Industrial."
     ],
     "without": [
-      "FGCU Privacy Policy This website stores cookies on your computer to improve your browsing experience. The university does not collect personal information as you browse.",
-      "Apply Directory MyFGCU",
-      "About Academics Admissions & Aid Student Life Community Resources Athletics",
+      "Apply | Directory | MyFGCU",
+      "FGCU Privacy Policy",
       "© Florida Gulf Coast University. All Rights Reserved.",
-      "10501 FGCU Blvd. S. Fort Myers, FL 33965 239-590-1000 Toll Free 800-590-3428"
-    ]
+      "Privacy Statement",
+      "Facebook icon | Instagram icon | X icon | Youtube icon | Linkedin icon"
+    ],
+    "images": {
+      "total_in_content": 21,
+      "annotated_count": 7,
+      "items": [
+        {
+          "src": "https://fgcucdn.fgcu.edu/academics/innovate/online/images/container-600x600.jpg",
+          "filename": "container-600x600.jpg",
+          "alt": "Books, coffee, and a keyboard",
+          "caption": "Books, coffee, and a keyboard",
+          "is_hero": true
+        },
+        {
+          "src": "https://fgcucdn.fgcu.edu/academics/innovate/online/images/careerstep-390x280.jpg",
+          "filename": "careerstep-390x280.jpg",
+          "alt": "Career Step",
+          "caption": "Career Step",
+          "is_hero": false
+        },
+        {
+          "src": "https://fgcucdn.fgcu.edu/academics/innovate/online/images/gridbox8-wits-390x280.jpg",
+          "filename": "gridbox8-wits-390x280.jpg",
+          "alt": "W.I.T.S.",
+          "caption": "W.I.T.S.",
+          "is_hero": false
+        },
+        {
+          "src": "https://fgcucdn.fgcu.edu/academics/innovate/online/images/gridbox8-ed2go-self-390x280.jpg",
+          "filename": "gridbox8-ed2go-self-390x280.jpg",
+          "alt": "Ed2go Self Study",
+          "caption": "Ed2go Self Study",
+          "is_hero": false
+        },
+        {
+          "src": "https://fgcucdn.fgcu.edu/academics/innovate/online/images/gridbox8-ed2go-instructors-390x280.jpg",
+          "filename": "gridbox8-ed2go-instructors-390x280.jpg",
+          "alt": "Ed2go Instructor Led",
+          "caption": "Ed2go Instructor Led",
+          "is_hero": false
+        },
+        {
+          "src": "https://fgcucdn.fgcu.edu/academics/innovate/online/images/legalstudies-390x280.jpg",
+          "filename": "legalstudies-390x280.jpg",
+          "alt": "Center for Legal Studies",
+          "caption": "Center for Legal Studies",
+          "is_hero": false
+        },
+        {
+          "src": "https://fgcucdn.fgcu.edu/academics/innovate/online/images/gridbox8-oncourselearning-390x280.jpg",
+          "filename": "gridbox8-oncourselearning-390x280.jpg",
+          "alt": "OnCourse Learning ",
+          "caption": "OnCourse Learning",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:10:59.636787"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:18:05.380521"
 }

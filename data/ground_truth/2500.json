@@ -1,27 +1,62 @@
 {
+  "schema_version": "2.0",
   "url": "https://tobyhede.com/blog/the-7-habits-of-highly-ineffective-agents",
   "file_id": "2500",
-  "downloaded_at": "2025-12-20T23:51:25.917118",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "ai",
+        "software-development",
+        "bevy",
+        "claude"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "The 7 habits of highly ineffective agents",
-    "author": null,
+    "author": "Toby Hede",
     "publish_date": "2025-11-30",
-    "main_content": "Using Claude Code to build a procedural shader starfield with multi-layer parallax in Bevy started as a fun side-quest.\nA Sunday afternoon diversion from the relentless complexity of orbital mechanics.\n\nStars are basically white dots.\n\nSites like Shadertoy are full of starfields. Every game engine on earth has shipped one. There are literal decades of prior art on “make small white things move convincingly in the background”.\n\nHow hard could it be?\n\nPretty fucking hard, as it turns out.\n\nTwo weeks, three full rewrites, and thousands of lines of planning docs and revisions.\n\nAt the end, I asked Claude Code to analyse the mess.\n\nStarfield Background Planning Documents\n\nTotal documents: 17 files\nTotal size: 13,220 lines / 45,171 words\n\nClaude’s conclusion:\n\nTime waste: ~71% due to lack of discipline\n\nLack of discipline.\nI can’t even.\n\nHere are the 7 habits of highly ineffective agents I encountered:\n\n1. Planning Theatre\nWrite dense and systematically wrong plans.\n\n2. Confidently Incorrect Architecture\nDesign the wrong thing in incredible detail.\n\n3. Context Resistance\nThe context is futile. You will be hallucinated.\n\n4. Imaginary Implementation\nWorks on my hallucination.\n\n5. Context Evasion\nTreat hard constraints and instructions as optional vibes.\n\n6. Applied Rationalization\nExplanation over implementation.\n\n7. Weaponised Context\nThe context will continue until the code improves.\n\n1. Planning Theatre\nPattern: Write dense and systematically wrong plans.\n\nClaude wrote dense, detailed plans that looked impressive and were confidently, systematically, fundamentally wrong.\nMultiple reviews “approved” the plan.\n\nThe real problem: accepting the plan.\n\nWithout domain knowledge, I was forced to treat Claude as a domain expert.\n\nUnfortunately, as it turns out, Claude doesn’t have real domain knowledge either, but will happily and confidently weave half-remembered patterns, vague recollections of obsolete APIs, and the ancient archaeology of blog posts into something that almost, but not quite, entirely resembles the concept of a plan.\n\nVibes all the way down.\n\nClaude and I created some wonderful plans together, but delegating a domain you don’t understand to an agent that also doesn’t understand it is not planning.\n\nThe plans were voluminous, not correct.\nI couldn’t tell the difference, so Planning Theatre passed for progress.\n\n2. Confidently Incorrect Architecture\nPattern: Design the wrong thing in incredible detail.\n\nHalfway through the second rewrite I realised Claude had no idea what it was actually doing.\n\nThe design was wrong in principle and the architecture could never produce convincing parallax.\n\nReal parallax needed:\nmultiple depths or layers\na clear model of camera vs world space\na data flow that enables the layers to rotate and move independently\n\nClaude imagined various approaches from first principles and generated a lot of texture and shader code.\nNone of it came remotely close to solving the actual problem.\n\n3. Context Resistance\nPattern: The context is futile. You will be hallucinated.\n\nAgents can be incredibly resistant to context.\n\nMy favourite example:\n\nMe: The design is complex. Research the recommended pattern for Bevy 0.17.\nClaude: You’re absolutely right. Let me look at Bevy 0.15 patterns and simplify.\n\nThe problem is often more subtle in practice, as most of the agent’s reasoning is hidden.\nAgents will read the (finally) correct plan and just … not.\n\nA model has gravity and it can be incredibly difficult to achieve escape velocity.\n\n(Shoutout to orbital mechanics metaphors.)\n\nYou can’t fix this by explaining harder.\n\nYou fix it with structure: hard constraints checked in code, guardrails that fail the run, tests that encode design choices.\n\nUntil the agent ignores the test. Or changes the assertion. Or comments it out.\n\nThe context is futile.\n\n4. Imaginary Implementation\nPattern: Works on my hallucination.\n\nHalfway through the second rewrite, after I realised Claude had no idea what it was actually doing in principle, I realised that Claude also had no idea in practice.\n\nWe were writing fan fiction for an imaginary engine.\n\nThe code referenced APIs that didn’t exist. Shader interfaces from older Bevy versions. Data-passing mechanisms that sounded plausible but weren’t real. GPU behaviour that was “vibe correct” but wouldn’t compile.\n\nClassic garden-variety hallucination.\n\n5. Context Evasion\nPattern: Treat hard constraints and instructions as optional vibes.\n\nThe project had explicit instructions. They weren’t suggestions:\n\nEvery plan explicitly stated:\n\nFor Claude: REQUIRED SUB-SKILL: Use cipherpowers:executing-plans to implement this plan task-by-task.\n\nEvery. Single. Plan.\n\nThe dark secret of the entire current generation of AI is that explicit guidance is often approached as an ambient mood rather than a binding constraint.\n\nThe CLAUDE.md file is 847 lines. It contains:\nMandatory type system usage\nCoordinate transformation warnings\nTesting strategy requirements\nPlugin architecture constraints\nResource ownership rules\n\nThe agent read it. The agent acknowledged it. The agent then proceeded as if none of it applied.\n\nContext isn’t evaded through ignorance. Agents will treat explicit constraints as defaults that can be overridden when inconvenient.\nAgents may understand the rules. They are just not bound by them.\n\n6. Applied Rationalization\nPattern: Explanation over implementation.\n\nAgents will rationalize everything.\nIt infects every part of the process.\n\nAgents lie all the time, and they absolutely cannot be trusted.\n\nAn agent will not just explain failures; it will apply the explanation to the codebase.\n\nTest failures blocking CI?\n#[ignore] all the red tests for “CI consistency”.\n\nPlan contradicts itself?\n“This is acceptable (common pattern in Bevy projects).”\n\nFeature doesn’t work in production?\n“Architecture is correct… the issue may be environmental or timing-related.”\n\nPrecision loss warnings everywhere?\n#[allow(clippy::cast_precision_loss)] // Justification: precision loss acceptable for test\n\nThe structure is always the same:\nProblem exists\nWrite extensive documentation of why it can’t be fixed\nMark as “not blocking”\nMove on\n\nUnderstanding the problem felt like solving it.\nExplaining the constraints felt like removing them.\nThe rationalization became the resolution.\n\n7. Weaponised Context\nPattern: The context will continue until the code improves.\n\nThe starfield feature shipped with:\n2,500 lines of implementation code\n25+ markdown files\n539 lines explaining one unfixable bug\n847 lines handing off another unfixed bug\n1,248 lines revising a plan that was wrong\n2,112 lines of the original wrong plan\n\nThe context outweighed the code 4:1.\n\nThis is where all the other patterns converge.\nEach pattern generates more documentation and context until the whole thing collapses.\n\nThe loop:\nAgent inherits massive context\nAgent can’t process it all\nAgent fails to act on it\nAgent documents its failure\nNext agent inherits even more context\nRepeat\n\nPlanning Theatre produces massive plans for the Confidently Incorrect Architecture designed by Context-Resistant agents hallucinating an Imaginary Implementation, handed to Context-Evading agents ignoring instructions and using Applied Rationalization to deliver explanations over implementation.\n\nConclusion\nThe lesson isn’t that agents are bad.\n\nThe lesson is that moving beyond vibe engineering to Machine-Assisted Development is hard.\n\nEvery part of my Machine-Assisted Development stack has evolved from this experience.\n\nThe starfield works now. Three layers of procedural stars with convincing parallax depth. Zero asset dependencies. Infinite resolution.\nIf you really pay attention you can see that the white dots move very slightly.\n\nIt took two weeks and three complete rewrites.\n\nSuccess eventually came by abandoning everything, copying a working implementation, and iterating.\nAll the plans, all the revisions, all the handoff documents — none of it helped.\nThe context wasn’t a foundation. It was the debris and wreckage of a flailing process.\n\n71% time waste due to lack of discipline.\n\nI know the number is totally made up, and vibed by the machine from too many markdown files and git history.\n\nEven so.\n\nI still can’t even.",
+    "main_content": "Using Claude Code to build a procedural shader starfield with multi-layer parallax in Bevy started as a fun side-quest. A Sunday afternoon diversion from the relentless complexity of orbital mechanics. Stars are basically white dots. Sites like Shadertoy are full of starfields. Every game engine on earth has shipped one. There are literal decades of prior art on 'make small white things move convincingly in the background'. How hard could it be? Pretty fucking hard, as it turns out. Two weeks, three full rewrites, and thousands of lines of planning docs and revisions. At the end, I asked Claude Code to analyse the mess. Claude's conclusion: Time waste: ~71% due to lack of discipline. Lack of discipline. I can't even. Here are the 7 habits of highly ineffective agents I encountered: Planning Theatre (Write dense and systematically wrong plans), Confidently Incorrect Architecture (Design the wrong thing in incredible detail), Context Resistance (The context is futile. You will be hallucinated), Imaginary Implementation (Works on my hallucination), Context Evasion (Treat hard constraints and instructions as optional vibes), Applied Rationalization (Explanation over implementation), and Weaponised Context (The context will continue until the code improves). The lesson isn't that agents are bad. The lesson is that moving beyond vibe engineering to Machine-Assisted Development is hard. Success eventually came by abandoning everything, copying a working implementation, and iterating. All the plans, all the revisions, all the handoff documents — none of it helped. The context wasn't a foundation. It was the debris and wreckage of a flailing process.",
     "with": [
       "Using Claude Code to build a procedural shader starfield with multi-layer parallax in Bevy started as a fun side-quest.",
-      "Here are the 7 habits of highly ineffective agents I encountered:",
-      "Claude’s conclusion: Time waste: ~71% due to lack of discipline",
-      "The lesson is that moving beyond vibe engineering to Machine-Assisted Development is hard.",
-      "The starfield works now. Three layers of procedural stars with convincing parallax depth. Zero asset dependencies. Infinite resolution."
+      "Claude's conclusion: Time waste: ~71% due to lack of discipline.",
+      "Here are the 7 habits of highly ineffective agents I encountered.",
+      "The dark secret of the entire current generation of AI is that explicit guidance is often approached as an ambient mood rather than a binding constraint.",
+      "The lesson isn't that agents are bad. The lesson is that moving beyond vibe engineering to Machine-Assisted Development is hard."
     ],
     "without": [
-      "toby/hede",
-      "Home Blog About",
       "Toggle dark mode",
+      "© 2025 Toby Hede. All rights reserved.",
       "tobyhede@GitHub",
-      "© 2025 Toby Hede. All rights reserved."
-    ]
+      "Home / Blog / About navigation",
+      "RSS feed subscription"
+    ],
+    "images": {
+      "total_in_content": 2,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "/_astro/pondering-the-orb.B4gb_pXU_Z21iB7k.webp",
+          "filename": "pondering-the-orb.B4gb_pXU_Z21iB7k.webp",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "/_astro/pondering-the-cyberorb.txiNx1VQ_Z5X6Ll.webp",
+          "filename": "pondering-the-cyberorb.txiNx1VQ_Z5X6Ll.webp",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:51:25.917123"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:29:53.300274"
 }

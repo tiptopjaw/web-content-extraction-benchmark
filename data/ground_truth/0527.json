@@ -1,27 +1,117 @@
 {
+  "schema_version": "2.0",
   "url": "https://ecornell.cornell.edu/certificates/",
   "file_id": "0527",
-  "downloaded_at": "2025-12-20T18:13:01.052743",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "certificates",
+        "professional-development",
+        "cornell-university"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Online Certificates - eCornell",
     "author": null,
     "publish_date": "2013-03-23",
-    "main_content": "Cornell Certificate Programs\nExplore 250+ programs for professional development\nFlexibility Meets Excellence.\neCornell, Cornell University’s external education unit, provides executive development and online certificate programs to students around the world. Programs are personally developed by Cornell faculty with expertise in a wide range of topics, including leadership and management, marketing and technology, human resources, healthcare, hospitality and more. Students learn in an interactive, small cohort format to gain skills they can immediately apply in their organizations and earn a certificate from Cornell University. Explore below to find the program that’s right for you.\n\nArtificial Intelligence Certificates\nMachine Learning Certificate\nAI Law and Policy Certificate\nGenerative AI for Productivity Certificate\nMarketing AI Certificate\nAI Strategy Certificate\nAI in Finance Certificate\nAgentic AI Architecture Certificate\nCybersecurity and AI Strategy Certificate\nDesigning and Building AI Solutions Certificate\nAI for Digital Transformation Certificate\nAI in Hospitality Certificate\nPrecision Nutrition and AI Certificate\nApplied Machine Learning and AI Certificate\nAI 360 Certificate\nAI in Healthcare Certificate\nNatural Language Processing With Python Certificate\nNLP for Finance Certificate\nAI Skills for Workplace Communications Certificate\nText Analysis Certificate\nLarge Language Model Fundamentals Certificate\nData Science Certificate\n\nBusiness & Finance Certificates\nAI in Finance Certificate\nAccounting Certificate\nDesigning and Building AI Solutions Certificate\nBusiness Statistics Certificate\nBusiness Analytics Certificate\nBusiness Law Certificate\nBusiness Ethics Certificate\nCorporate Governance Certificate\nBusiness Contracts Certificate\nPresentation Design and Delivery Certificate\nAI for Digital Transformation Certificate\nFamily Business Leadership Certificate\nOmnichannel Leadership Program Certificate\nFood Executive Program Certificate\nFinancial Success for Nonprofits Certificate\nBlockchain Essentials Certificate\nRegulatory and Antitrust Law Certificate\nFood Product Development Certificate\nProduct Management Certificate\nBoard of Directors Forum at Cornell Tech Certificate\nBusiness Management Essentials Certificate\nOrganizational Design Certificate\nOperations Management Certificate\nProcurement Strategy Certificate\nInvestment Strategies Certificate\nFinancial Management Certificate\nSales Growth Certificate\nFashion Design Management Certificate\nBusiness Strategy Certificate\nData Visualization With Tableau Certificate\nExcel VBA Analytics Certificate\nSustainable Business Certificate\nSupply Chain Analytics Certificate\nStartup Funding and Finance Certificate\nBusiness Writing Certificate\nCommunications 360 Certificate\nManagement Accounting for Leaders Certificate\nBusiness Communication Certificate\nFinancial Institutions and Regulations Certificate\nHigher Education Leadership Program Certificate\nCorporate Sustainability Certificate\nBusiness Management in STEM Certificate\nManagement 360 Certificate\nEmployment Law for Leaders Certificate\nEntertainment Law and Business Certificate\nBusiness Economics Certificate\nDigital Business Operations Certificate\nStatistical Foundations Certificate\nInvention and IP Management Certificate\nComplex Decision-Making Certificate\nFinTech Certificate\nData Security and Privacy Policy Certificate\nEmerging Markets Certificate\n\nData Science Certificates\nPython Programming Certificate\nData Science Certificate\nNatural Language Processing With Python Certificate\nMachine Learning Certificate\nBusiness Analytics Certificate\nExcel VBA Analytics Certificate\nStatistical Foundations Certificate\nMarketing Analytics Certificate\nHR Analytics Certificate\nData Management in SQL Certificate\nSupply Chain Analytics Certificate\nProbability Analysis Certificate\nBig Data for Big Policy Problems Certificate\nBig Data for Policy Certificate\nData Science With SQL and Tableau Certificate\nData Analytics Certificate\nPython for Data Science Certificate\nData Visualization With Tableau Certificate\nData Analytics 360 Certificate\nData Science Essentials Certificate\nBusiness Statistics Certificate\nData Analytics in R Certificate\nApplied Statistics Certificate\nData Science Modeling Certificate\nData Ethics Certificate\nOperations Analytics Certificate\nData Science and Decision Making Certificate\n\nDiversity & Inclusion Certificates\nDiversity, Equity, and Inclusion Certificate\nWomen in Leadership Certificate\nDiversity, Equity, and Inclusion for HR Certificate\nEquitable Community Change Certificate\nCommunity-Engaged Learning Certificate\nExecutive Women in Leadership Certificate\nMindful Inclusion Certificate\nDiversity, Equity, and Inclusion: Building a Diverse Workforce Certificate\n\nEngineering Certificates\nInvention and IP Management Certificate\nSystems Thinking Certificate\nSystems Design Certificate\nProbability Analysis Certificate\nSix Sigma Certificate\nProduct Management 360 Certificate\nEngineering Leadership Certificate\nInnovation Strategy Certificate\nMechatronics Certificate\nAgentic AI Architecture Certificate\nFinance for Engineers Certificate\nPresentation Design and Delivery Certificate\nProduct Development Certificate\nFinite Element Analysis Certificate\nRisk Analysis Certificate\nQuantitative Finance Certificate\nFluid Dynamics Simulations  Using Ansys Certificate\nDesign Thinking Certificate\nSpaceflight Mechanics Certificate\nInteractive Device Design Certificate\nDecision Analysis Certificate\nSpreadsheet Modeling Certificate\nCancer Biology for Everyone Certificate\n\nEnvironmental, Social, Governance Certificates\nSustainable Business Certificate\nCorporate Sustainability Certificate\nEquitable Community Change Certificate\nSustainable Preservation Certificate\nCountry Risk Analysis Certificate\nDiversity, Equity, and Inclusion Certificate\nDiversity, Equity, and Inclusion for HR Certificate\nDiversity, Equity, and Inclusion: Building a Diverse Workforce Certificate",
+    "main_content": "eCornell offers 250+ professional development certificate programs developed by Cornell University faculty. Certificate categories include: Artificial Intelligence, Business & Finance, Data Science, Diversity & Inclusion, Engineering, Environmental Social Governance, Food and Plant Science, Healthcare, Hospitality, Human Resources, Law, Leadership, Marketing and Communications, Nutrition, Project Management, Real Estate, Technology, and Beekeeping. Programs are available in online and on-campus formats. Students learn in interactive cohorts and earn certificates from Cornell University upon completion.",
     "with": [
-      "eCornell, Cornell University’s external education unit, provides executive development and online certificate programs to students around the world.",
-      "Programs are personally developed by Cornell faculty with expertise in a wide range of topics, including leadership and management, marketing and technology, human resources, healthcare, hospitality and more.",
-      "Students learn in an interactive, small cohort format to gain skills they can immediately apply in their organizations and earn a certificate from Cornell University.",
-      "Explore below to find the program that’s right for you.",
-      "Cornell Certificate Programs\nExplore 250+ programs for professional development"
+      "eCornell provides executive development and online certificate programs to students around the world.",
+      "Programs are personally developed by Cornell faculty with expertise in a wide range of topics.",
+      "Students learn in an interactive, small cohort format to gain skills they can immediately apply in their organizations.",
+      "Explore 250+ programs for professional development across 19 certificate categories.",
+      "Earn a certificate from Cornell University upon successful completion."
     ],
     "without": [
-      "Enroll by December 22* and save 30% with code LEARN30",
+      "Privacy Policy",
       "Request Info",
       "Login",
-      "Take me to my courses",
-      "Search our site"
-    ]
+      "Enroll by December 22 and save 30% with code LEARN30",
+      "Cornell Certificate Programs - Explore 250+ programs for professional development"
+    ],
+    "images": {
+      "total_in_content": 21,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://ecornell.cornell.edu/wp-content/uploads/sites/8/2024/05/DABAIS_Final__453x433-BW.jpg",
+          "filename": "DABAIS_Final__453x433-BW.jpg",
+          "alt": "Learn more about our Artificial Intelligence Certificates certificate programs",
+          "caption": "Learn more about our Artificial Intelligence Certificates certificate programs",
+          "is_hero": true
+        },
+        {
+          "src": "https://ecornell.cornell.edu/wp-content/uploads/sites/8/2018/08/Finance-and-Business-Performance.png",
+          "filename": "Finance-and-Business-Performance.png",
+          "alt": "Learn more about our Business & Finance Certificates certificate programs",
+          "caption": "Learn more about our Business & Finance Certificates certificate programs",
+          "is_hero": false
+        },
+        {
+          "src": "https://ecornell.cornell.edu/wp-content/uploads/sites/8/2018/08/Data-Science.png",
+          "filename": "Data-Science.png",
+          "alt": "Learn more about our Data Science Certificates certificate programs",
+          "caption": "Learn more about our Data Science Certificates certificate programs",
+          "is_hero": false
+        },
+        {
+          "src": "https://ecornell.cornell.edu/wp-content/uploads/sites/8/2023/03/ILRDI003_453x433-BW.jpg",
+          "filename": "ILRDI003_453x433-BW.jpg",
+          "alt": "Learn more about our Diversity & Inclusion Certificates certificate programs",
+          "caption": "Learn more about our Diversity & Inclusion Certificates certificate programs",
+          "is_hero": false
+        },
+        {
+          "src": "https://ecornell.cornell.edu/wp-content/uploads/sites/8/2018/09/Engineering-3.png",
+          "filename": "Engineering-3.png",
+          "alt": "Learn more about our Engineering Certificates certificate programs",
+          "caption": "Learn more about our Engineering Certificates certificate programs",
+          "is_hero": false
+        },
+        {
+          "src": "https://ecornell.cornell.edu/wp-content/uploads/sites/8/2022/04/CIPAC05_453x433-BW.jpg",
+          "filename": "CIPAC05_453x433-BW.jpg",
+          "alt": "Learn more about our Environmental, Social, Governance Certificates certificate programs",
+          "caption": "Learn more about our Environmental, Social, Governance Certificates certificate programs",
+          "is_hero": false
+        },
+        {
+          "src": "https://ecornell.cornell.edu/wp-content/uploads/sites/8/2021/10/CALSC04_453x433-BW.png",
+          "filename": "CALSC04_453x433-BW.png",
+          "alt": "Learn more about our Food and Plant Science Certificates certificate programs",
+          "caption": "Learn more about our Food and Plant Science Certificates certificate programs",
+          "is_hero": false
+        },
+        {
+          "src": "https://ecornell.cornell.edu/wp-content/uploads/sites/8/2018/08/Healthcare.png",
+          "filename": "Healthcare.png",
+          "alt": "Learn more about our Healthcare Certificates certificate programs",
+          "caption": "Learn more about our Healthcare Certificates certificate programs",
+          "is_hero": false
+        },
+        {
+          "src": "https://ecornell.cornell.edu/wp-content/uploads/sites/8/2018/08/Hospitality.png",
+          "filename": "Hospitality.png",
+          "alt": "Learn more about our Hospitality Certificates certificate programs",
+          "caption": "Learn more about our Hospitality Certificates certificate programs",
+          "is_hero": false
+        },
+        {
+          "src": "https://ecornell.cornell.edu/wp-content/uploads/sites/8/2018/08/Human-Resources.png",
+          "filename": "Human-Resources.png",
+          "alt": "Learn more about our Human Resources Certificates certificate programs",
+          "caption": "Learn more about our Human Resources Certificates certificate programs",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:13:01.052748"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:19:09.407548"
 }

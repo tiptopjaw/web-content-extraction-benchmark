@@ -1,0 +1,90 @@
+{
+  "schema_version": "2.0",
+  "url": "https://mattsmoving.com/exercise-equipment-movers/",
+  "file_id": "0045",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "moving",
+        "exercise-equipment",
+        "gym",
+        "minnesota",
+        "specialty-movers"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Exercise Equipment Movers Minnesota| Matt's Moving",
+    "author": null,
+    "publish_date": "2024-10-02",
+    "main_content": "Matt's Moving Company offers professional exercise equipment and gym equipment moving services in Minnesota, serving the Twin Cities area including Minneapolis and St. Paul. As a licensed, bonded, and insured moving company, we specialize in the safe transport of exercise equipment including treadmills, ellipticals, weight machines, squat racks, and other gym equipment. Whether you're moving equipment from a home gym, commercial gym, or fitness facility, our experienced team has the proper equipment and expertise to handle your move with care. We provide free estimates for all moving services. The page includes a multi-step quote form to request a free estimate for moving services, asking about move distance, location type, items to be moved, square footage, and additional services needed.",
+    "with": [
+      "Matt's Moving Company offers professional exercise equipment and gym equipment moving services in Minnesota.",
+      "We specialize in the safe transport of exercise equipment including treadmills, ellipticals, weight machines, and squat racks.",
+      "As a licensed, bonded, and insured moving company, we serve the Twin Cities area including Minneapolis and St. Paul.",
+      "Whether you're moving equipment from a home gym, commercial gym, or fitness facility, our experienced team handles your move with care.",
+      "We provide free estimates for all moving services throughout Minnesota."
+    ],
+    "without": [
+      "Navigation menu items for Residential Moving, Commercial Moving, Storage, and other services",
+      "Phone number (612) 216-2665 and Get a free quote buttons",
+      "Footer links, copyright notices, and privacy policy",
+      "WooCommerce mini cart and shopping cart widget",
+      "GDPR cookie consent notice and social media links"
+    ],
+    "images": {
+      "total_in_content": 23,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "https://mattsmoving.com/wp-content/uploads/2024/11/Group-611-1.png",
+          "filename": "Group-611-1.png",
+          "alt": null,
+          "caption": "Matt's Moving Company service icon",
+          "is_hero": true
+        },
+        {
+          "src": "https://mattsmoving.com/wp-content/uploads/2024/09/DSC02912-768x523.png",
+          "filename": "DSC02912-768x523.png",
+          "alt": null,
+          "caption": "Professional movers transporting equipment",
+          "is_hero": false
+        },
+        {
+          "src": "https://mattsmoving.com/wp-content/uploads/2024/08/matts-moving-truck.png-1024x575.png",
+          "filename": "matts-moving-truck.png-1024x575.png",
+          "alt": null,
+          "caption": "Matt's Moving Company truck",
+          "is_hero": false
+        },
+        {
+          "src": "https://mattsmoving.com/wp-content/uploads/2024/08/minneapolis-movers-1.jpg.png",
+          "filename": "minneapolis-movers-1.jpg.png",
+          "alt": null,
+          "caption": "Minneapolis movers service area",
+          "is_hero": false
+        },
+        {
+          "src": "https://mattsmoving.com/wp-content/uploads/2024/08/st-paul-movers.jpg.png",
+          "filename": "st-paul-movers.jpg.png",
+          "alt": null,
+          "caption": "St. Paul movers service area",
+          "is_hero": false
+        },
+        {
+          "src": "https://mattsmoving.com/wp-content/uploads/2024/08/minnetonka.jpg.png",
+          "filename": "minnetonka.jpg.png",
+          "alt": null,
+          "caption": "Minnetonka movers service area",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:42:00.595100"
+}

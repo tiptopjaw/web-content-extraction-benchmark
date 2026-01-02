@@ -1,27 +1,47 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.nbcnews.com/feature/art-of-the-startup/luxury-watches-join-rental-rich-trend-n91621",
   "file_id": "0089",
-  "downloaded_at": "2025-12-20T18:05:11.200986",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "business",
+        "startup",
+        "luxury",
+        "rental",
+        "technology"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Luxury Watches Join the Rental-Rich Trend",
     "author": null,
     "publish_date": "2014-04-28",
-    "main_content": "Looking wealthy has never been cheaper. Even if you can't afford the proverbial mansion and yacht — or Ferraris or Hermes bags for that matter — there are now countless businesses that will rent them to you for a fraction of the purchase price. Now a new category has joined the rental-rich trend: luxury watches. A startup company called Eleven James has launched a timepiece timeshare that allows customers to get a new luxury watch every couple of months for an annual fee. The watches range in value from $7,000 to $50,000 or more, and include top names like Rolex, Audemars, Cartier and Patek Philippe. Randy Brandoff, Eleven James' founder and a former executive at fractional-jet giant NetJets, said that today's wealthy want to be smarter about their spending. They prefer to rent rather than own when possible. \"The vast majority of our target consumers have leased a car rather than buying it, rented a vacation home or enjoyed other prized possessions without purchasing them,\" he said. Watches, Brandoff said \"are the next vanguard\" in the luxury rental/timeshare world. Eleven James has several different customer plans, depending on the value and number of watches a customer wants every year. Its \"Aficionado\" plan offers watches valued at between $7,000 and $15,000, and clients pay $2,700 for three two-month long watch rotations per year, or $4,850 for six two-month long rotations per year. In other words, customers can either choose to have a different watch all of the time or some of the time. The other plans work in similar fashion, but offer members the chance to have access to more valuable timepieces. The \"Virtuoso\" plan includes watches in the $30,000 to $50,000 range and costs $9,700 for three watch rotations, or $17,250 for six rotations per year. Paying $9,700 to wear watches you have to give back sounds insane, of course. But Brandoff said that many of his customers want to try out different watches before they sink even more money into a purchase.",
+    "main_content": "Looking wealthy has never been cheaper. Even if you can't afford the proverbial mansion and yacht — or Ferraris or Hermes bags for that matter — there are now countless businesses that will rent them to you for a fraction of the purchase price. Now a new category has joined the rental-rich trend: luxury watches. A startup company called Eleven James has launched a timepiece timeshare that allows customers to get a new luxury watch every couple of months for an annual fee. The watches range in value from $7,000 to $50,000 or more, and include top names like Rolex, Audemars, Cartier and Patek Philippe. Randy Brandoff, Eleven James' founder and a former executive at fractional-jet giant NetJets, said that today's wealthy want to be smarter about their spending. They prefer to rent rather than own when possible. 'The vast majority of our target consumers have leased a car rather than buying it, rented a vacation home or enjoyed other prized possessions without purchasing them,' he said. Watches, Brandoff said 'are the next vanguard' in the luxury rental/timeshare world. Eleven James has several different customer plans, depending on the value and number of watches a customer wants every year. Its 'Aficionado' plan offers watches valued at between $7,000 and $15,000, and clients pay $2,700 for three two-month long watch rotations per year, or $4,850 for six two-month long rotations per year. In other words, customers can either choose to have a different watch all of the time or some of the time. The other plans work in similar fashion, but offer members the chance to have access to more valuable timepieces. The 'Virtuoso' plan includes watches in the $30,000 to $50,000 range and costs $9,700 for three watch rotations, or $17,250 for six rotations per year. Paying $9,700 to wear watches you have to give back sounds insane, of course. But Brandoff said that many of his customers want to try out different watches before they sink even more money into a purchase.",
     "with": [
-      "Looking wealthy has never been cheaper.",
-      "Now a new category has joined the rental-rich trend: luxury watches.",
       "A startup company called Eleven James has launched a timepiece timeshare that allows customers to get a new luxury watch every couple of months for an annual fee.",
       "The watches range in value from $7,000 to $50,000 or more, and include top names like Rolex, Audemars, Cartier and Patek Philippe.",
-      "Randy Brandoff, Eleven James' founder and a former executive at fractional-jet giant NetJets, said that today's wealthy want to be smarter about their spending."
+      "Randy Brandoff, Eleven James' founder and a former executive at fractional-jet giant NetJets, said that today's wealthy want to be smarter about their spending.",
+      "The 'Virtuoso' plan includes watches in the $30,000 to $50,000 range and costs $9,700 for three watch rotations, or $17,250 for six rotations per year.",
+      "Brandoff said that many of his customers want to try out different watches before they sink even more money into a purchase."
     ],
     "without": [
-      "BREAKING: DOJ releases more Jeffrey Epstein files. NBC News is reviewing the latest batch.",
-      "IE 11 is not supported. For an optimal experience visit our site on another browser.",
-      "Get more news on NBC News Now",
+      "Subscribe to NBC News",
       "© 2025 NBCUniversal Media, LLC",
-      "Share & Save —"
-    ]
+      "Privacy Policy",
+      "Search NBC News",
+      "Follow NBC News on social media"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:05:11.200993"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:39:49.453944"
 }

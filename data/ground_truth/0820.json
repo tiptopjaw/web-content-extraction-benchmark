@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.marketermilk.com/blog/seo-trends-2026",
+  "file_id": "0820",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "SEO",
+        "marketing",
+        "trends",
+        "blog post"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "8 top SEO trends I'm seeing in 2026",
+    "author": "Omid Ghiam",
+    "publish_date": "2025-10-21",
+    "main_content": "Last week, I went to the Ahrefs Evolve SEO conference in San Diego, CA. It was the first SEO conference I ever went to. After seeing my site become the #1 trending website in Google in the category of \"SEO\", I thought it was time to go outside and interact with SEOs in the wild. After the conference, I came to the conclusion that most marketers are confused about what SEO is, how it works, and where it's headed. So I decided to take my decade long career in SEO, all the observations I'm seeing right now, and all the conversations I had with real people in the SEO industry, and create my own SEO trends list for 2026. So this is that article. I have nothing to sell you, and this is not sponsored by an agency or AI company trying to influence you in a certain direction. That's not what Marketer Milk stands for. This is everything I'm seeing, and my own predictions, on how to win at SEO in 2026.\n\nIs SEO still relevant in 2026? Yes, SEO is still very much alive in 2026. And on top of that, keywords are still a thing. And so are backlinks. And so is technical SEO. And so is on-page SEO. Nothing has changed. I have not changed my own approach to SEO since 2019. What has changed is the sentiment around SEO. People are now calling it Search Everywhere Optimization. And I think if you thought about SEO as some sort of hacky way to manipulate search rankings, then yes this is new. But if you think about SEO from first principles and realize that it's all about understanding demand (what people are searching) and trying to match it with the best source of supply (content), then nothing has changed. Yes, we now have AI Overviews instead of featured snippets. Google's AI Mode is a thing. And AI search engines like ChatGPT and Perplexity are a new source of organic search distribution. But the SEO strategy required to win, the (right) content creation processes, and the traditional white hat SEO best practices still matter.\n\nHere are the 8 SEO trends for 2026:\n\n1. EEAT becomes most important ranking factor - Google is rewarding smaller blogs written by people with real lived experience, over faceless corporate blogs. I believe it's Google's way to combat all the AI generated content appearing in the search results. EEAT is social proof. Are you more likely to buy a product if the company says it's a good product or if your friend tells you it's a good product? Your friend, of course. Search engine algorithms need a way to figure out which websites are trustworthy enough to rank high. And historically this has been done through backlinks. While still important, it's only one part of the equation.\n\n2. The rise of branded search tactics - Most SEOs focus on growing a website's non-branded search traffic. And while I 100% agree this is where we can show our value and drive real organic growth, I don't think it's an excuse to dismiss branded searches all together. In fact, I have noticed that when a website's branded search volume starts to increase, it creates a \"tide that lifts all boats\" for all keywords a site ranks for.\n\n3. Clickbait title tags with pronouns - One of the biggest SEO trends I'm seeing in 2026 is the use of personal title tags. Google is starting to become more like YouTube. YouTube is all about having a great idea, title, and thumbnail — in that order. The goal is to increase your CTR (click through rate) by envoking an emotion, and using first and second person pronouns to add personality.\n\n4. The rise of YouTube for traditional SEO - AI search and LLMs are freaking marketers out. While I personally think this threat is blown completely out of proportion, I don't think it's an excuse to ignore it completely. From my own experience growing both blogs and YouTube channels, I can tell you that video converts way more than written content. With video, you can build more trust.\n\n5. People see through the facade of AI search - In 2025, we saw everyone talking about how AI search was going to take over Google. While I do believe there are benefits to using LLMs in our workflows, I do think it has been overhyped. And in 2026, I predict many marketers will realize that ChatGPT and Perplexity are just a small part of the SEO market. Google still dominates 90% market share.\n\n6. The rise of black hat LLM SEO tactics - The 2000s are back. Scammy keyword stuffing tactics, paying for low-quality backlinks, shipping thousands of useless articles — all in the name of ranking high. This used to work in Google. But now, the algorithm is mature enough to ignore all that nonsense. However, ChatGPT and other LLM algorithms are not as mature yet.\n\n7. Human content outranks AI generated content - Niche blogging is back baby. Right now is the best time for a solo creator, who's down to write 100% original content from lived experience, to outrank all of the big brands. In 2026, I predict that Google's algorithm will continue to get smarter about what is AI content and what isn't.\n\n8. AI SEO companies struggle to re-sign contracts - There are so many AI tools out there, and a lot of them have been targeting SEOs. What I've come to realize is that there's more perceived value over actual value in AI right now. In 2026, I predict it will get harder for these enterprise AI SEO tools and agencies that produce \"programmatic\" content to re-sign their contracts.\n\nThe big SEO opportunity ahead: In a fast-paced AI world, SEO is... ahh got ya! You started reading that and thought to yourself, \"another AI slop article.\" This is exactly what is wrong with SEO and marketing right now. We are tired of all these \"AI-driven\" tools, fear mongering about being left behind, and AI slop contributing to the dead internet theory. People are craving REAL connection. We want to be seen, understood, valued, and inspired. AI has no soul, it can't do those things. If 2024-2025 was the year of AI, 2026 will be the year things start to shift towards the human. For the first time, human created work stands out from most of the work out there. If you're willing to put care into your work, the type of care where you think more about serving your readers more than you do yourself, you will win in the long term.",
+    "with": [
+      "Yes, SEO is still very much alive in 2026. And on top of that, keywords are still a thing.",
+      "EEAT is social proof. Are you more likely to buy a product if the company says it's a good product or if your friend tells you it's a good product?",
+      "One of the biggest SEO trends I'm seeing in 2026 is the use of personal title tags.",
+      "Human content outranks AI generated content. Niche blogging is back baby.",
+      "People are craving REAL connection. We want to be seen, understood, valued, and inspired."
+    ],
+    "without": [
+      "Join free",
+      "Fuel your inner marketer.",
+      "© 2025 Marketer Milk LLC. All rights reserved.",
+      "Privacy policy",
+      "Subscribe to newsletter"
+    ],
+    "images": {
+      "total_in_content": 27,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://cdn.prod.website-files.com/6243c3bb3b5a1852803d0c7f/65584a89d343e063ecb617b8_omid-ghiam.jpeg",
+          "filename": "65584a89d343e063ecb617b8_omid-ghiam.jpeg",
+          "alt": "Omid Ghiam",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6243c3bb3b5a1852803d0c7f/68f7d3e10d16130639f84c63_seo-trends-2026.jpg",
+          "filename": "68f7d3e10d16130639f84c63_seo-trends-2026.jpg",
+          "alt": "8 top SEO trends I’m seeing in 2026",
+          "caption": "8 top SEO trends I'm seeing in 2026",
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6243c3bb3b5a1852803d0c7f/68f7cce7c3a9b9a6404b822b_marketer-milk-trending.jpg",
+          "filename": "68f7cce7c3a9b9a6404b822b_marketer-milk-trending.jpg",
+          "alt": "Marketer Milk trending in top SEO websites",
+          "caption": "Source: Gaps.com",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6243c3bb3b5a1852803d0c7f/68f7cde02044531ee2d5785e_google-eeat-guidelines.jpg",
+          "filename": "68f7cde02044531ee2d5785e_google-eeat-guidelines.jpg",
+          "alt": "Google EEAT guidelines",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6243c3bb3b5a1852803d0c7f/68f7ce3cd5f7c1cbf017db73_pooky-branded-search.jpg",
+          "filename": "68f7ce3cd5f7c1cbf017db73_pooky-branded-search.jpg",
+          "alt": "Branded search increase from Pooky",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6243c3bb3b5a1852803d0c7f/68f7ce95c18352686985e31c_rechargeable-lights.jpg",
+          "filename": "68f7ce95c18352686985e31c_rechargeable-lights.jpg",
+          "alt": "Pooky ranking for \"rechargeable lights\"",
+          "caption": "Pooky ranking for \"rechargeable lights\"",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6243c3bb3b5a1852803d0c7f/68f7cf1e89301a10e5b734c4_clickbait-ctr.jpg",
+          "filename": "68f7cf1e89301a10e5b734c4_clickbait-ctr.jpg",
+          "alt": "Example of high CTR title with pronouns",
+          "caption": "Example of high CTR title with pronouns",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6243c3bb3b5a1852803d0c7f/68f7cf81e8fef17dd35eb57c_youtube-videos-for-seo.jpg",
+          "filename": "68f7cf81e8fef17dd35eb57c_youtube-videos-for-seo.jpg",
+          "alt": "YouTube videos for SEO",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6243c3bb3b5a1852803d0c7f/68f7d0f33de28f094c54109e_ai-search-facade.jpg",
+          "filename": "68f7d0f33de28f094c54109e_ai-search-facade.jpg",
+          "alt": "The facade of AI search",
+          "caption": "The facade of AI search",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6243c3bb3b5a1852803d0c7f/68f7d1d7292c4a3db9954ac3_black-hat.jpg",
+          "filename": "68f7d1d7292c4a3db9954ac3_black-hat.jpg",
+          "alt": "A black hat",
+          "caption": "A black hat",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:33:59.048524"
+}

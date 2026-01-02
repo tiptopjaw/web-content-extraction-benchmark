@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.finehomesandliving.com/luxury_homes/5-lessons-we-learned-starting-a-moving-company-in-nyc-the-hard-way/article_f13d0203-afa5-495d-96f8-cda672240991.html",
+  "file_id": "0295",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "business",
+        "entrepreneurship",
+        "nyc",
+        "moving-company"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "5 Lessons We Learned Starting a Moving Company in NYC (The Hard Way)",
+    "author": "Nikola Karamanov",
+    "publish_date": "2025-12-18",
+    "main_content": "When we launched our moving company in New York City, we thought we had it all figured out. We had the drive, the muscle, and the determination to build something different. What we didn't have was a roadmap for the countless challenges that come with starting a moving company in the most demanding city in America. Years later, we're still standing—and thriving. But the path here was paved with hard-earned lessons, late nights, and more than a few 'why did we think this was a good idea?' moments. If you're thinking about starting a moving company in NYC, or you're just curious about what it really takes, here are the five biggest lessons we learned the hard way.",
+    "with": [
+      "When we launched our moving company in New York City, we thought we had it all figured out.",
+      "We had the drive, the muscle, and the determination to build something different.",
+      "What we didn't have was a roadmap for the countless challenges that come with starting a moving company in the most demanding city in America.",
+      "Years later, we're still standing—and thriving.",
+      "Here are the five biggest lessons we learned the hard way."
+    ],
+    "without": [
+      "Sign Up",
+      "Log In",
+      "Advertise with us",
+      "Privacy Policy",
+      "Share on Facebook"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://bloximages.newyork1.vip.townnews.com/finehomesandliving.com/content/tncms/assets/v3/editorial/b/40/b400cbe6-7437-4f38-8af6-933169b13273/6944967b2e7ee.image.png?resize=400%2C249",
+          "filename": "6944967b2e7ee.image.png",
+          "alt": "5 Lessons We Learned Starting a Moving Company in NYC (The Hard Way)",
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:44:10.881559"
+}

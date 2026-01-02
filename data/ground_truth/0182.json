@@ -1,0 +1,89 @@
+{
+  "schema_version": "2.0",
+  "url": "https://luisazhou.com/blog/price-your-online-course/",
+  "file_id": "0182",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "business",
+        "online-courses",
+        "pricing",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "How to Price Your Online Course (2025 Course Pricing Guide)",
+    "author": "Luisa Zhou",
+    "publish_date": "2022-07-05",
+    "main_content": "Want to learn how to price your online course? If you're a coach or expert growing your business, your course price is one of the biggest levers you have. A course can help you scale beyond one-on-one work, create more predictable income, and free up your time—but only if you price your course in the right way. Price it too high and people won't buy. Price it too low and you undervalue your expertise (and struggle to hit your income goals). The good news? Pricing your course doesn't have to feel confusing. In this guide, you'll learn exactly how to choose a price that reflects the results you offer and supports a profitable coaching business.\n\nAn online course business can be massively abundant and profitable. It can help you reach more people and scale your existing coaching, consulting, or expert business while requiring less time than your one-on-one services. Let's start with an overview of different price points: A mini course, a simple video training series with about 4-10 videos, each under 15 minutes, can be sold for anywhere from $47 to about $147. A shorter online course with audio/videos and PDF's typically sells for anywhere from $197 to $497. These courses often take 4-6 weeks to complete. And a longer course with audio, videos, and PDF's (a flagship course) sells for around $1,000 to $3,000. These courses often take at least a few months to complete.\n\nYour course price is determined by factors such as: The results you promise, Who your target audience is, Your experience/background, Your course features, and Your costs. To set your course price, think about the results you offer. Because if your course can promise results that people really want, price and format are secondary. Your audience, experience, and course features all impact the price of your course.\n\nBy charging a premium price, you: Build a more profitable business - The price you charge massively impacts how much money you take home. Can grow faster - By asking for a higher price, you can spend more on marketing your course and ultimately grow your business faster. Offer better results - When you don't have to drive as many online course sales to make a good profit, you can spend more of your time on improving your course. Attract the right clients - The more people pay for your course, the more motivated they tend to be.\n\nThe real value of your course doesn't come from the course material or how you present it. Instead, it comes from the transformation you offer. Transformation essentially means: where are your students at the start of your course? And where are they at the end of it? To figure out what transformation or result you offer, ask yourself what someone going through your course or program is going to get from it.\n\nFree courses are typically used to generate leads or to promote a course or a product. Subscription prices typically range from around $10 to $100 a month. Hybrid courses or group coaching, where you offer a self-study course with coaching or consulting, can be sold for $1,000 to $10,000 depending on what you sell, your experience, and so on.\n\nThere you have it! Now you know how to price your online course. What it comes down to is that you offer a transformation people want. With personalized support in place, you'll be able to ask for an even higher rate and create a highly profitable course business. The best place to start is to offer a course at a couple of hundred dollars and then increase the price as you build your course.",
+    "with": [
+      "Want to learn how to price your online course? If you're a coach or expert growing your business, your course price is one of the biggest levers you have.",
+      "A mini course, a simple video training series with about 4-10 videos, each under 15 minutes, can be sold for anywhere from $47 to about $147.",
+      "Your course price is determined by factors such as: The results you promise, Who your target audience is, Your experience/background, Your course features, and Your costs.",
+      "By charging a premium price, you build a more profitable business, can grow faster, offer better results, and attract the right clients.",
+      "The real value of your course doesn't come from the course material or how you present it. Instead, it comes from the transformation you offer."
+    ],
+    "without": [
+      "Free PDF: The 3 worst online course mistakes (and how to fix them)",
+      "Get Instant Access",
+      "Want to know the top 3 reasons most courses fail?",
+      "Subscribe to our newsletter",
+      "Discover the top 3 reasons most courses fail (plus how to fix them so you succeed)"
+    ],
+    "images": {
+      "total_in_content": 20,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "https://luisazhou.com/wp-content/uploads/img-luisa-profile-fullres-1024x1024.jpg",
+          "filename": "img-luisa-profile-fullres-1024x1024.jpg",
+          "alt": null,
+          "caption": "Luisa Zhou, business coach who has helped 4,000+ coaches start and grow profitable businesses",
+          "is_hero": false
+        },
+        {
+          "src": "https://luisazhou.com/wp-content/uploads/Blog-image-Styled-list-2-1024x1024.webp",
+          "filename": "Blog-image-Styled-list-2-1024x1024.webp",
+          "alt": "Visual depicting different course price points",
+          "caption": "Visual depicting different course price points",
+          "is_hero": false
+        },
+        {
+          "src": "https://luisazhou.com/wp-content/uploads/Blog-image-Styled-list-3-1024x1024.webp",
+          "filename": "Blog-image-Styled-list-3-1024x1024.webp",
+          "alt": "Visual that depicts the 5 things that affect your course price ",
+          "caption": "Visual that depicts the 5 things that affect your course price",
+          "is_hero": false
+        },
+        {
+          "src": "https://luisazhou.com/wp-content/uploads/Blog-image-Styled-list-4-1024x1024.webp",
+          "filename": "Blog-image-Styled-list-4-1024x1024.webp",
+          "alt": "Visual that depicts how you can calculate your profit ",
+          "caption": "Visual that depicts how you can calculate your profit",
+          "is_hero": false
+        },
+        {
+          "src": "https://luisazhou.com/wp-content/uploads/Blog-image-Styled-list-5-1024x1024.webp",
+          "filename": "Blog-image-Styled-list-5-1024x1024.webp",
+          "alt": "Visual depicting the benefits of charging higher course prices",
+          "caption": "Visual depicting the benefits of charging higher course prices",
+          "is_hero": false
+        },
+        {
+          "src": "https://luisazhou.com/wp-content/uploads/Blog-image-Styled-list-6-1024x1024.webp",
+          "filename": "Blog-image-Styled-list-6-1024x1024.webp",
+          "alt": "Visual depicting how to troubleshoot your course sales ",
+          "caption": "Visual depicting how to troubleshoot your course sales",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:54:00.062443"
+}

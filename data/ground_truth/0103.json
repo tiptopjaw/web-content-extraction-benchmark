@@ -1,0 +1,89 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.orderexpress.com/plane-ticket-booking-made-easy-step-by-step-guide/",
+  "file_id": "0103",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "travel",
+        "guide",
+        "how-to",
+        "booking"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Plane Ticket Booking Made Easy, Step By Step Guide",
+    "author": "seo_2",
+    "publish_date": "2025-04-30",
+    "main_content": "Booking plane tickets doesn't have to be complicated. With the right knowledge and tools, anyone can find great deals on flights. This comprehensive guide walks you through the entire process, from searching for the best prices to completing your reservation. Understanding how airlines price their tickets can save you significant money. The key is knowing when to book, which days of the week offer the lowest prices, and how to use comparison tools effectively. Flight prices change constantly based on demand, seasonality, and booking patterns. By learning these patterns, you can time your purchase to get the best possible deal. Many travelers don't realize that the time of day you book can also impact the price. Airlines often adjust their prices in response to competitor pricing and booking volumes throughout the day. Using incognito mode or clearing your browser cookies can prevent price tracking that might increase fares. Consider using multiple flight search engines to compare prices across different platforms. Some booking sites offer exclusive deals or price matching guarantees. Being flexible with your travel dates and airports can lead to substantial savings. Don't forget to factor in additional costs like baggage fees and seat selection when comparing total trip expenses. Signing up for price alerts can help you catch deals when prices drop.",
+    "with": [
+      "Booking plane tickets doesn't have to be complicated.",
+      "Understanding how airlines price their tickets can save you significant money.",
+      "Flight prices change constantly based on demand, seasonality, and booking patterns.",
+      "Using incognito mode or clearing your browser cookies can prevent price tracking that might increase fares.",
+      "Being flexible with your travel dates and airports can lead to substantial savings."
+    ],
+    "without": [
+      "Skip to content",
+      "Privacy Policy",
+      "Cookie notice",
+      "Subscribe to newsletter",
+      "Follow us on social media"
+    ],
+    "images": {
+      "total_in_content": 10,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "https://www.orderexpress.com/wp-content/uploads/2025/04/1.Man-excitedly-holding-plane-tickets-and-smiling-1024x683.webp",
+          "filename": "1.Man-excitedly-holding-plane-tickets-and-smiling-1024x683.webp",
+          "alt": "Hombre sosteniendo con entusiasmo boletos de avión y sonriendo",
+          "caption": "Hombre sosteniendo con entusiasmo boletos de avión y sonriendo",
+          "is_hero": true
+        },
+        {
+          "src": "/wp-content/cache/ocean-accelerator/s/m/d/img/5889ac449d5acf62f15778c730da823a.102c1.jpg",
+          "filename": "5889ac449d5acf62f15778c730da823a.102c1.jpg",
+          "alt": "Group of people booking a flight together\n",
+          "caption": "Group of people booking a flight together",
+          "is_hero": false
+        },
+        {
+          "src": "/wp-content/cache/ocean-accelerator/s/m/d/img/76325bfbdb49cf0a03ae28d6517af881.14920.jpg",
+          "filename": "76325bfbdb49cf0a03ae28d6517af881.14920.jpg",
+          "alt": "Group of people reading a step-by-step travel guideline\n",
+          "caption": "Group of people reading a step-by-step travel guideline",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.orderexpress.com/wp-content/uploads/2025/04/1.A-woman-is-booking-a-flight-2-1024x683.avif",
+          "filename": "1.A-woman-is-booking-a-flight-2-1024x683.avif",
+          "alt": "Una mujer está reservando un vuelo",
+          "caption": "Una mujer está reservando un vuelo",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.orderexpress.com/wp-content/uploads/2025/04/1.A-person-holding-a-plane-ticket-1024x683.webp",
+          "filename": "1.A-person-holding-a-plane-ticket-1024x683.webp",
+          "alt": "Una persona con un billete de avión",
+          "caption": "Una persona con un billetes de avión",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.orderexpress.com/wp-content/uploads/2025/04/1.A-person-with-a-laptop-booking-a-flight-1024x683.webp",
+          "filename": "1.A-person-with-a-laptop-booking-a-flight-1024x683.webp",
+          "alt": "una persona con una computadora portátil reservando un vuelo",
+          "caption": "una persona con una computadora portátil reservando un vuelo",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:53:20.511622"
+}

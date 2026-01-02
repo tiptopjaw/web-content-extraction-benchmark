@@ -1,27 +1,117 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.ciodive.com/topic/cloud/",
   "file_id": "0956",
-  "downloaded_at": "2025-12-20T20:55:48.086237",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "cloud-computing",
+        "news",
+        "technology",
+        "enterprise-it"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Cloud",
+    "title": "Latest Cloud Computing News | CIO Dive",
     "author": null,
     "publish_date": null,
-    "main_content": "Cloud\n\nHouse passes bill that could fast-track AI infrastructure projects\nThe SPEED Act aims to cut red tape in order to meet soaring energy demand and growing competition in the global AI race, according to the bill’s sponsors.\nBy Makenzie Holland • Dec. 19, 2025\n\nIBM releases SAP tool as migration deadline looms\nFueled by generative and agentic AI, the IBM Consulting Application Management Suite for SAP aims to simplify the transition to S/4HANA.\nBy Makenzie Holland • Dec. 16, 2025\n\nDigital transformation\nDigital transformation goes beyond technology — if companies want to engage in a new era of technology, they must rethink how work is done too.\nBy CIO Dive staff\n\nOracle defends infrastructure spending spree amid mounting AI demand\nThe company raised its fiscal year capital investments forecast by $15 billion as its cloud backlog surpassed $500 billion.\nBy Matt Ashare • Dec. 11, 2025\n\nSnowflake deepens partnerships as customer AI use ticks up\nAs enterprises seek to build AI agents, vendors are partnering to expand data access, interoperability and AI functionality.\nBy Makenzie Holland • Dec. 4, 2025\n\nSAP deploys EU AI Cloud in latest push for data sovereignty\nThe ERP giant has been working to expand EU-based compute capacity, having pledged more than $20 billion to the effort in September.\nBy Makenzie Holland • Dec. 2, 2025\n\nAWS, Google link up to ease multicloud deployments\nMicrosoft Azure will also join the service in 2026. It's the latest hyperscaler move to ease interoperability.\nBy Makenzie Holland • Dec. 1, 2025\n\nNvidia shows strong AI demand as enterprises grapple with ROI\nThe company sustained its streak of record revenue growth in Q3, propelled by massive AI infrastructure investments from hyperscalers and model developers.\nBy Makenzie Holland • Nov. 20, 2025\n\nEU plans to pull back on digital regulations\nThe new policy package would streamline AI, data and cybersecurity rules for European businesses and defer EU AI Act enforcement by 16 months.\nBy Makenzie Holland • Nov. 19, 2025\n\nEU regulators launch trio of cloud market probes\nMicrosoft Azure and AWS don’t meet gatekeeper thresholds under the EU’s Digital Markets Act. The European Commission is assessing whether they should still qualify.\nBy Makenzie Holland • Nov. 18, 2025\n\nRethinking Cloud Infrastructure in the Post-VMware Era\nFor those still tied to VMware’s licensing model, the pressure to optimize resources and control costs has become a critical concern.\nBy Paul Miller, Chief Technology Officer, Wind River • Nov. 17, 2025\n\nSAP addresses EU’s competition concerns\nThe ERP vendor defended its platform maintenance and support policies as standard industry practices but still committed to a series of changes.\nBy Makenzie Holland • Nov. 14, 2025\n\nBroadcom launches open ecosystem for VMware Cloud Foundation\nThe move comes nearly two years after Broadcom acquired VMware and aligns with its plans to present VCF as a private cloud alternative to hyperscalers.\nBy Makenzie Holland • Nov. 13, 2025\n\nRegulatory risks push cloud leaders to alter infrastructure plans\nHybrid cloud strategies will keep gaining momentum as IT leaders balance innovation with local data requirements.\nBy Makenzie Holland • Nov. 12, 2025\n\nBanks turn to AI supervisors as agent use surges\nFinancial institutions are rapidly deploying AI agents in pursuit of billions in economic value, according to Capgemini.\nBy Makenzie Holland • Nov. 12, 2025\n\nSAP, Snowflake partner to unite cloud products\nUsers of SAP's Business Data Cloud will be able to access Snowflake’s AI and data platform as part of the collaboration announced Tuesday.\nBy Makenzie Holland • Nov. 5, 2025\n\nClorox blames Q1 sales drop on elongated ERP overhaul\nThe company says the majority of the implementation is complete as executives shift focus to rebuilding momentum.\nBy Lindsey Wilkinson • Nov. 4, 2025\n\nOpenAI, AWS sign $38B compute deal\nThe agreement marks the first major hyperscaler infrastructure partnership announced by the AI company since its corporate restructuring.\nBy Makenzie Holland • Nov. 3, 2025\n\nAWS revenue jumps 20% to $33B in third quarter\nThe uptick in growth might indicate that CIOs are moving from a cost savings to a project investment mindset, according to one analyst.\nBy Makenzie Holland • Oct. 31, 2025\n\nMicrosoft reports $49B in cloud revenue despite capacity woes\nIn the midst of an outage, Microsoft’s CFO reported that its Azure revenue growth was hampered by a capacity shortage that will continue throughout its fiscal 2026.\nBy Lindsey Wilkinson • Oct. 30, 2025\n\nAmazon cuts 14K jobs in AI-fueled reorganization\nThe company said the layoffs will result in a leaner structure as it responds to broader market changes driven by AI adoption.\nBy Roberto Torres • Oct. 28, 2025\n\n4 tips for evaluating cloud AI providers\nLeaning into vendor relationships and considering the AI environments best tied to business goals can help shape an effective cloud AI strategy, according to Gartner.\nBy Makenzie Holland • Oct. 28, 2025\n\nEvolving cloud strategy: Why sovereignty and regional autonomy matter more than ever\nThe significance of sovereignty and regional autonomy is increasingly critical in today's digital landscape.\nBy Sandeep Modhvadia, Chief Product Officer, Wind River • Oct. 27, 2025\n\nSAP focuses on cloud gains, touts agentic AI plan\nExecutives pointed to the company’s cloud revenue as an indicator of future growth as customers adopt products across the SAP Business Suite.\nBy Makenzie Holland • Oct. 23, 2025\n\nAI shapes cloud spend amid adoption efforts\nAI adoption is increasing enterprise cloud spending, pushing CIOs to balance cost management with multicloud strategies and energy-intensive infrastructure.\nBy Makenzie Holland • Oct. 21, 2025\n\nAWS outage puts spotlight on IT durability\nThe downtime serves as a reminder to CIOs that recovery strategies separate from their primary cloud vendor are key to business continuity.\nBy Roberto Torres • Oct. 20, 2025",
+    "main_content": "Cloud computing news and articles covering AI infrastructure, cloud platforms, and enterprise technology. Recent stories include: House passes bill to fast-track AI infrastructure projects; IBM releases SAP migration tool as deadline looms; Oracle defends infrastructure spending amid AI demand; Snowflake deepens partnerships for AI use; SAP deploys EU AI Cloud for data sovereignty; AWS and Google link up for multicloud deployments; Nvidia shows strong AI demand; EU plans digital regulation pullback; EU regulators launch cloud market probes; SAP addresses competition concerns; Broadcom launches open ecosystem for VMware Cloud Foundation; Regulatory risks push cloud leaders to alter infrastructure; Banks turn to AI supervisors as agent use surges; SAP and Snowflake partner; Clorox blames ERP overhaul for sales drop; OpenAI and AWS sign $38B compute deal; AWS revenue jumps to $33B; Microsoft reports $49B cloud revenue; Amazon cuts 14K jobs in AI reorganization; 4 tips for evaluating cloud AI providers; SAP focuses on cloud gains and agentic AI; AI shapes cloud spend; AWS outage puts spotlight on IT durability.",
     "with": [
-      "House passes bill that could fast-track AI infrastructure projects",
-      "IBM releases SAP tool as migration deadline looms",
-      "Oracle defends infrastructure spending spree amid mounting AI demand",
-      "AWS, Google link up to ease multicloud deployments",
-      "Nvidia shows strong AI demand as enterprises grapple with ROI"
+      "The SPEED Act aims to cut red tape in order to meet soaring energy demand and growing competition in the global AI race, according to the bill's sponsors.",
+      "Fueled by generative and agentic AI, the IBM Consulting Application Management Suite for SAP aims to simplify the transition to S/4HANA.",
+      "The company raised its fiscal year capital investments forecast by $15 billion as its cloud backlog surpassed $500 billion.",
+      "Microsoft Azure will also join the service in 2026. It's the latest hyperscaler move to ease interoperability.",
+      "AI adoption is increasing enterprise cloud spending, pushing CIOs to balance cost management with multicloud strategies and energy-intensive infrastructure."
     ],
     "without": [
-      "Skip to main content",
       "Don't miss tomorrow's tech industry news",
-      "Get the free newsletter",
-      "CIO Dive news delivered to your inbox",
-      "By signing up to receive our newsletter, you agree to our Terms of Use and Privacy Policy."
-    ]
+      "Subscribe to CIO Dive for top news, trends & analysis",
+      "Latest Cloud Computing News | CIO Dive",
+      "Skip to main content",
+      "View all library items"
+    ],
+    "images": {
+      "total_in_content": 36,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://imgproxy.divecdn.com/8u2ivRiGIG_3saiJ3Mml7wuUNu2yA0lzj5iUKxeoUQU/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ2MTkxNzc3LmpwZw==.webp",
+          "filename": "Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjQ2MTkxNzc3LmpwZw==.webp",
+          "alt": "The top of the U.S. Capitol Building's dome is pictured on a cloudy day.",
+          "caption": "Win McNamee via Getty Images",
+          "is_hero": true
+        },
+        {
+          "src": "https://imgproxy.divecdn.com/ec8BVkBiG754XrsoSAL1vonBkpNQVNNwZOhdXEUXAho/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk0OTA4MzM5LmpwZw==.webp",
+          "filename": "Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTk0OTA4MzM5LmpwZw==.webp",
+          "alt": "A building with the SAP corporate logo is pictured in St.Leon-Rot, Germany on July 29, 2024.",
+          "caption": "Getty Images",
+          "is_hero": false
+        },
+        {
+          "src": "https://imgproxy.divecdn.com/-oi2OSOwnKluRPRrkKrq1uuxWd33fmOEMZynzh-E7lU/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQ4MTk1ODU1LmpwZw==.webp",
+          "filename": "Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQ4MTk1ODU1LmpwZw==.webp",
+          "alt": "In data center, male IT technician running maintenance program on a laptop for server rack of modernized enterprise computer system.",
+          "caption": "Getty Images",
+          "is_hero": false
+        },
+        {
+          "src": "https://imgproxy.divecdn.com/7IORGbLPaRm87VP0ldShojCvCGR8lpTi9ERIV5tBLWY/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM0NzIyNjYzLmpwZw==.webp",
+          "filename": "Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjM0NzIyNjYzLmpwZw==.webp",
+          "alt": "The Oracle logo is displayed on a building at an Oracle campus on September 10, 2025 in Redwood Shores, California.",
+          "caption": "Justin Sullivan / Staff via Getty Images",
+          "is_hero": false
+        },
+        {
+          "src": "https://imgproxy.divecdn.com/UBN9nPeK5z9joqdTH2Ugacar6rrkjH-AjzG49cPPiLE/g:nowe:0:0/c:1536:867/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TYW5fTWF0ZW9fMi5qcGc=.webp",
+          "filename": "Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TYW5fTWF0ZW9fMi5qcGc=.webp",
+          "alt": "Snowflake office building in San Mateo, CA.",
+          "caption": "Permission granted by Snowflake",
+          "is_hero": false
+        },
+        {
+          "src": "https://imgproxy.divecdn.com/WEiZQL8cQi5GoZ2T1-ObFUwV2aK05XHebRocppL6A0Y/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA3ODAzMzYxX1hJZEwyMVkuanBn.webp",
+          "filename": "Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA3ODAzMzYxX1hJZEwyMVkuanBn.webp",
+          "alt": "signage depicting the AWS logo at a tech conference pavillion",
+          "caption": "Sean Gallup via Getty Images",
+          "is_hero": false
+        },
+        {
+          "src": "https://imgproxy.divecdn.com/3S9kt1WnLQ0oWyE--bI5rg2c-QiBz2Tzl0DSxGsHNlo/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA1NzYxODg2X2EzWHNBZ20uanBn.webp",
+          "filename": "Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA1NzYxODg2X2EzWHNBZ20uanBn.webp",
+          "alt": "Nvidia CEO Jensen Huang delivers the keynote address during the Nvidia GTC 2025 at SAP Center on March 18, 2025 in San Jose, California.",
+          "caption": "Justin Sullivan / Staff via Getty Images",
+          "is_hero": false
+        },
+        {
+          "src": "https://imgproxy.divecdn.com/JmDXXLWiEGpj7gcmMLO2kMCwsoVT4RS65HqFfnwVc7k/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SZXRoaW5raW5nX0Nsb3VkX0luZnJhc3RydWN0dXJlLnBuZw==.webp",
+          "filename": "Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9SZXRoaW5raW5nX0Nsb3VkX0luZnJhc3RydWN0dXJlLnBuZw==.webp",
+          "alt": "Network computing technologies, showcasing a futuristic server.",
+          "caption": "stock.adobe.com/emongraphic",
+          "is_hero": false
+        },
+        {
+          "src": "https://imgproxy.divecdn.com/Yjo8mqBMzvesLFckrDXiVL9VWzGmm03aaAlkYTSu2kc/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yVENOQ1lBLmpwZw==.webp",
+          "filename": "Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yVENOQ1lBLmpwZw==.webp",
+          "alt": "A close-up view of a modern glass and metal checkered facade building with a logo that reads, \"Google Cloud.\" ",
+          "caption": "Alamy",
+          "is_hero": false
+        },
+        {
+          "src": "https://imgproxy.divecdn.com/Wkz9hSg674lIZ_NqWptddVx7FXlCyObqUTeXoa0DbTc/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzY3MDY1NTE5X2E0dG9YbUQuanBn.webp",
+          "filename": "Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNzY3MDY1NTE5X2E0dG9YbUQuanBn.webp",
+          "alt": "Cloud computing platforms app icons for AWS, Microsoft Azure, Google cloud and other are pictured on a smartphone screen.",
+          "caption": "Getty Images",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:55:48.086244"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:22:20.352227"
 }

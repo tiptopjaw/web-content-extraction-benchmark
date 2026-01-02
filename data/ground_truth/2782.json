@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "url": "https://lalinsky.github.io/zio/stdio",
+  "file_id": "2782",
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technical",
+        "software",
+        "library",
+        "zig",
+        "async-io"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "std.Io - ZIO",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Using Io interface\n\nIn the upcoming Zig 0.16 release, there is going to be a new `std.Io` interface for doing I/O operations that replaces many part of the standard library. You can read more about in this article. Zio provides an implementation of the interface, so you will be able to use our coroutine runtime with any code using that interface.\n\nYou initialize the Zio runtime the usual way, you use `rt.io()` to get the `std.Io` interface and that's it. Once you have the `io` instance, you can follow any guide you find online or in Zig documentation and it should work, just running I/O operations asynchronously in the background.\n\nBecause Zig 0.16 is not released yet, we have a backported copy of the interface for Zig 0.15 and will be referring to it as `zio.Io` in the code. When migrating to Zig 0.16, simply replace `zio.Io` with `std.Io`, everything else stays the same.\n\nSimplest possible example:\n\nconst std = @import(\"std\");\nconst zio = @import(\"zio\");\n\npub fn main() !void {\n    var gpa = std.heap.GeneralPurposeAllocator(.{}){};\n    defer _ = gpa.deinit();\n    const allocator = gpa.allocator();\n\n    const rt = try zio.Runtime.init(allocator, .{});\n    defer rt.deinit();\n\n    const io = rt.io();\n\n    try io.sleep(.{ .nanoseconds = 10 * std.time.ns_per_ms }, .awake)\n}\n\nIf you want something more complex, here is a TCP echo server:\n\nconst std = @import(\"std\");\nconst zio = @import(\"zio\");\n\nconst Io = zio.Io;  // TODO: use std.Io in Zig 0.16\n\nfn handleClient(io: Io, stream: Io.net.Stream) void {\n    defer stream.close(io);\n\n    std.log.info(\"Client connected from {f}\", .{stream.socket.address});\n\n    var read_buffer: [1024]u8 = undefined;\n    var reader = stream.reader(io, &read_buffer);\n\n    var write_buffer: [1024]u8 = undefined;\n    var writer = stream.writer(io, &write_buffer);\n\n    while (true) {\n        const line = reader.interface.takeDelimiterInclusive('\\n') catch |err| switch (err) {\n            error.EndOfStream => break,\n            else => {\n                std.log.err(\"Read error: {any}\", .{err});\n                return;\n            },\n        };\n\n        std.log.info(\"Received: {s}\", .{line});\n        writer.interface.writeAll(line) catch |err| {\n            std.log.err(\"Write error: {any}\", .{err});\n            return;\n        };\n        writer.interface.flush() catch |err| {\n            std.log.err(\"Flush error: {any}\", .{err});\n            return;\n        };\n    }\n\n    std.log.info(\"Client disconnected\", .{});\n}\n\npub fn main() !void {\n    var gpa = std.heap.GeneralPurposeAllocator(.{}){};\n    defer _ = gpa.deinit();\n    const allocator = gpa.allocator();\n\n    const rt = try zio.Runtime.init(allocator, .{});\n    defer rt.deinit();\n\n    const io = rt.io();\n\n    const addr = try Io.net.IpAddress.parseIp4(\"127.0.0.1\", 8080);\n\n    var server = try addr.listen(io, .{});\n    defer server.socket.close(io);\n\n    std.log.info(\"TCP echo server listening on {f}\", .{server.socket.address});\n    std.log.info(\"Press Ctrl+C to stop the server\", .{});\n\n    var group: Io.Group = .init;\n    defer group.cancel(io);\n\n    while (true) {\n        const stream = try server.accept(io);\n        errdefer stream.close(io);\n\n        try group.concurrent(io, handleClient, .{ io, stream });\n    }\n}",
+    "with": [
+      "In the upcoming Zig 0.16 release, there is going to be a new `std.Io` interface for doing I/O operations that replaces many part of the standard library.",
+      "Zio provides an implementation of the interface, so you will be able to use our coroutine runtime with any code using that interface.",
+      "You initialize the Zio runtime the usual way, you use `rt.io()` to get the `std.Io` interface and that's it.",
+      "Because Zig 0.16 is not released yet, we have a backported copy of the interface for Zig 0.15 and will be referring to it as `zio.Io` in the code.",
+      "When migrating to Zig 0.16, simply replace `zio.Io` with `std.Io`, everything else stays the same."
+    ],
+    "without": [
+      "Skip to content",
+      "Material for MkDocs",
+      "Initializing search",
+      "Press Ctrl+C to stop the server",
+      "Client disconnected"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:55:00.610844"
+}

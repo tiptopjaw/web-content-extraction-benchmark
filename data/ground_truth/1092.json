@@ -1,27 +1,116 @@
 {
+  "schema_version": "2.0",
   "url": "https://skinsignal.com/compare",
   "file_id": "1092",
-  "downloaded_at": "2025-12-20T20:58:33.768186",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "skincare",
+        "product-comparison",
+        "beauty"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Compare Products",
     "author": null,
     "publish_date": null,
-    "main_content": "Selecting between multiple beauty products is a difficult task. Our website makes this task much easier. Use our Product Comparison Tool to put ingredients of two skincare products face to face. You will see how different the products are, and you will be able to choose the best one. Our Comparison Tool is unique! It allows to compare two products, a product and ingredient list, or two ingredient lists. You can manually paste two ingredient lists and see the result. There is no other website in the world offering this feature. We provide this tool for free. We have spent a lot of time collecting all the data but we don't want users to pay for this. No restrictions. You can use it without registration and without usage limits. This is what makes us different from competitors. Our team wants to provide you with the best skincare tools. How to use? Step 1. Visit the categories and find the products you are looking for. Add them to comparison. Step 2. Return to this page and you will see the result. If you wnat to remove the product, find a red round button next to the product title. Click this button and you are done. Frequently Asked Questions Why do I need this tool? Analyzing ingredients without the help of special websites is a very difficult and time consuming task. You will have to dig through a lot of information. Comparing products is even more difficult. You can try to do it yourself, but it will take many hours of your time and you will hardly miss a lot of facts. Our tool makes this process easy and fast. You can compare beauty products within seconds. The tool uses all the power of our database and you receive an in-depth report as a result. You save time and get all the information you need to make a choice. Where do you take the information about components? All the information comes from trusted sources like The Environmental Working Group, PubChem, CIR reports, scientific researches and common information about ingredients. We use only reliable sources of information and update the database regularly. Is this service really free? Yes, you don't have to pay for using our website. All the services we provide are free and don't have usage limits. We hate the concept of different restrictions and popup windows asking user to register before he can continue using the website. But registered users get access to some more features that can't be provided for guests.",
+    "main_content": "SkinSignal's Product Comparison Tool allows users to compare two skincare products face to face. The tool can compare two products, a product and ingredient list, or two ingredient lists. Users can manually paste two ingredient lists to see the results. The service is completely free with no registration required and no usage limits. Recent comparisons include various skincare products like sunscreens, toners, serums, eye creams, and body lotions from brands such as Tizo, Elta MD, Kiehl's, Pyunkang Yul, Beauty Of Joseon, Some By Mi, and Vaseline.",
     "with": [
-      "Selecting between multiple beauty products is a difficult task. Our website makes this task much easier.",
       "Use our Product Comparison Tool to put ingredients of two skincare products face to face.",
       "Our Comparison Tool is unique! It allows to compare two products, a product and ingredient list, or two ingredient lists.",
       "We provide this tool for free. We have spent a lot of time collecting all the data but we don't want users to pay for this.",
-      "Our tool makes this process easy and fast. You can compare beauty products within seconds."
+      "Analyzing ingredients without the help of special websites is a very difficult and time consuming task.",
+      "The tool uses all the power of our database and you receive an in-depth report as a result."
     ],
     "without": [
-      "Ingredient Checker Compare Products Brands Search",
       "Submit",
-      "Essential tools for skincare lovers. Take a look \"inside\" the products you use every day.",
-      "Disclaimer: All the information on the website is not a medical advice. Visit a doctor if you have problems.",
-      "Tizo Am Replenish Non-tinted SPF 40 vs. Elta MD UV Elements Broad-Spectrum SPF 44 Tinted Sunscreen"
-    ]
+      "Privacy policy",
+      "Terms of Service",
+      "Essential tools for skincare lovers",
+      "skinsignalapp@gmail.com"
+    ],
+    "images": {
+      "total_in_content": 14,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://skinsignal.com/api/web/image/products/8/8/28988/tizo-am-replenish-non-tinted-spf-40-1727660892.jpg?w=160&q=25",
+          "filename": "tizo-am-replenish-non-tinted-spf-40-1727660892.jpg",
+          "alt": null,
+          "caption": "Tizo Am Replenish Non-tinted SPF 40",
+          "is_hero": true
+        },
+        {
+          "src": "https://skinsignal.com/api/web/image/products/7/2/8572/elta-md-uv-elements-broad-spectrum-spf-44-tinted-sunscreen-1695419185.jpg?w=160&q=25",
+          "filename": "elta-md-uv-elements-broad-spectrum-spf-44-tinted-sunscreen-1695419185.jpg",
+          "alt": null,
+          "caption": "Elta MD UV Elements Broad-Spectrum SPF 44 Tinted Sunscreen",
+          "is_hero": false
+        },
+        {
+          "src": "https://skinsignal.com/api/web/image/products/9/8/55598/the-mane-choice-multi-vitamin-scalp-nourishing-growth-oil-1730881107.jpg?w=160&q=25",
+          "filename": "the-mane-choice-multi-vitamin-scalp-nourishing-growth-oil-1730881107.jpg",
+          "alt": null,
+          "caption": "The Mane Choice Multi-Vitamin Scalp Nourishing Growth Oil",
+          "is_hero": false
+        },
+        {
+          "src": "https://skinsignal.com/api/web/image/products/5/9/10659/kiehl-s-ultra-facial-toner-1701354879.jpg?w=160&q=25",
+          "filename": "kiehl-s-ultra-facial-toner-1701354879.jpg",
+          "alt": null,
+          "caption": "Kiehl's Ultra Facial Toner",
+          "is_hero": false
+        },
+        {
+          "src": "https://skinsignal.com/api/web/image/products/1/5/10115/pyunkang-yul-mist-toner-1700258154.jpg?w=160&q=25",
+          "filename": "pyunkang-yul-mist-toner-1700258154.jpg",
+          "alt": null,
+          "caption": "Pyunkang Yul Mist Toner",
+          "is_hero": false
+        },
+        {
+          "src": "https://skinsignal.com/api/web/image/products/8/4/8084/beauty-of-joseon-revive-eye-serum-ginseng-plus-retinal-1693341809.jpg?w=160&q=25",
+          "filename": "beauty-of-joseon-revive-eye-serum-ginseng-plus-retinal-1693341809.jpg",
+          "alt": null,
+          "caption": "Beauty Of Joseon Revive Eye Serum: Ginseng + Retinal",
+          "is_hero": false
+        },
+        {
+          "src": "https://skinsignal.com/api/web/image/products/1/1/9111/some-by-mi-retinol-intense-advanced-triple-action-eye-cream-1697680467.jpg?w=160&q=25",
+          "filename": "some-by-mi-retinol-intense-advanced-triple-action-eye-cream-1697680467.jpg",
+          "alt": null,
+          "caption": "Some By Mi Retinol Intense Advanced Triple Action Eye Cream",
+          "is_hero": false
+        },
+        {
+          "src": "https://skinsignal.com/api/web/image/products/4/9/9149/some-by-mi-retinol-intense-reactivating-serum-1697695153.jpg?w=160&q=25",
+          "filename": "some-by-mi-retinol-intense-reactivating-serum-1697695153.jpg",
+          "alt": null,
+          "caption": "Some By Mi Retinol Intense Reactivating Serum",
+          "is_hero": false
+        },
+        {
+          "src": "https://skinsignal.com/api/web/image/products/8/5/63185/vaseline-healthy-bright-gluta-hya-flawless-glow-serum-in-lotion-india-1736597610.jpg?w=160&q=25",
+          "filename": "vaseline-healthy-bright-gluta-hya-flawless-glow-serum-in-lotion-india-1736597610.jpg",
+          "alt": null,
+          "caption": "Vaseline Healthy Bright Gluta-Hya Flawless Glow Serum-in-lotion (India)",
+          "is_hero": false
+        },
+        {
+          "src": "https://skinsignal.com/api/web/image/products/9/3/9593/vaseline-gluta-hya-serum-burst-lotion-flawless-glow-1699303888.jpg?w=160&q=25",
+          "filename": "vaseline-gluta-hya-serum-burst-lotion-flawless-glow-1699303888.jpg",
+          "alt": null,
+          "caption": "Vaseline Gluta-hya Serum Burst Lotion Flawless Glow",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:58:33.768193"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:37:01.295537"
 }

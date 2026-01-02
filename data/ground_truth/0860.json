@@ -1,0 +1,110 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.techelevator.com/about-us/news-media/",
+  "file_id": "0860",
+  "_internal": {
+    "page_type": {
+      "primary": "other",
+      "confidence": "medium",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "press",
+        "media-coverage",
+        "coding-bootcamp",
+        "news"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "News - Coding Bootcamp | Tech Elevator",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Share Coding Bootcamp News With Your Community. Working on a story about coding bootcamps or Tech Elevator? Email contact@techelevator.com to chat. Fortune 500 Company Launches Tech Ready Reskilling Program Powered by Tech Elevator. In 2020, KeyBank, one of the nation's largest bank-based financial services companies, began its partnership with Tech Elevator to future-proof its internal tech teams. Together, we created the Tech Ready reskilling program designed to transform KeyBank employees into software engineers and develop the workforce of the future. If your community would benefit from learning about Tech Elevator programs and open houses, please share on your website, newsletter and social. Press List: A comprehensive collection of media mentions and press coverage featuring Tech Elevator across various local and national outlets. Coverage spans topics including coding bootcamps, career transitions into tech, workforce development, scholarship programs, campus expansions, and alumni success stories. Featured outlets include ABC News, Business Insider, Fortune, Inc., Cleveland Business, Pittsburgh Business Times, Technical.ly, and many more regional and national publications covering the bootcamp's impact on tech education and workforce development.",
+    "with": [
+      "Fortune 500 Company Launches Tech Ready Reskilling Program Powered by Tech Elevator",
+      "In 2020, KeyBank, one of the nation's largest bank-based financial services companies, began its partnership with Tech Elevator to future-proof its internal tech teams.",
+      "Together, we created the Tech Ready reskilling program designed to transform KeyBank employees into software engineers and develop the workforce of the future.",
+      "Working on a story about coding bootcamps or Tech Elevator? Email contact@techelevator.com to chat.",
+      "Coding bootcamps capitalize on demand for 6,500 tech workers in Pittsburgh"
+    ],
+    "without": [
+      "Account Sign In",
+      "Get Started",
+      "Find My Bootcamp",
+      "Connect With Top Talent",
+      "Join Our Team"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 9,
+      "items": [
+        {
+          "src": "https://www.techelevator.com/wp-content/uploads/2022/03/CBUS10News.jpeg",
+          "filename": "CBUS10News.jpeg",
+          "alt": null,
+          "caption": "10 TV News - Coverage of coding boot camp interest in central Ohio",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.techelevator.com/wp-content/uploads/2022/03/download1.jpeg",
+          "filename": "download1.jpeg",
+          "alt": null,
+          "caption": "ABC News Bakersfield - Companies looking for tech-savvy remote workers",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.techelevator.com/wp-content/uploads/2022/03/1200px-Business_Insider_Logo.svg.png",
+          "filename": "1200px-Business_Insider_Logo.svg.png",
+          "alt": null,
+          "caption": "Business Insider - Feature on career changers becoming software developers",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.techelevator.com/wp-content/uploads/2022/03/8be71339-cleveland-logo-738x220-1.gif",
+          "filename": "8be71339-cleveland-logo-738x220-1.gif",
+          "alt": null,
+          "caption": "Cleveland Business Journal - Coverage of Tech Elevator during pandemic",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.techelevator.com/wp-content/uploads/2022/03/image-asset-4.png",
+          "filename": "image-asset-4.png",
+          "alt": null,
+          "caption": "Cleveland.com - Tech Elevator helps students prepare for new economy",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.techelevator.com/wp-content/uploads/2022/03/image-asset-3.png",
+          "filename": "image-asset-3.png",
+          "alt": null,
+          "caption": "Global Cleveland - Immigrant Heritage Year feature on Anthony Hughes",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.techelevator.com/wp-content/uploads/2022/03/pglogo-full.png",
+          "filename": "pglogo-full.png",
+          "alt": null,
+          "caption": "Pittsburgh Post-Gazette - Tech recruiting and hiring coverage",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.techelevator.com/wp-content/uploads/2022/03/ewscripps.brightspotcdn.png",
+          "filename": "ewscripps.brightspotcdn.png",
+          "alt": null,
+          "caption": "WCPO Cincinnati - Tech workforce development and reskilling coverage",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.techelevator.com/wp-content/uploads/2022/03/npr.brightspotcdn.jpg",
+          "filename": "npr.brightspotcdn.jpg",
+          "alt": null,
+          "caption": "WFAE NPR Charlotte - Program for career shifts to tech",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:48:20.126038"
+}

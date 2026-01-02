@@ -1,0 +1,96 @@
+{
+  "schema_version": "2.0",
+  "url": "https://us.olivetreepeople.com/pages/meditation-pricing",
+  "file_id": "1373",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "meditation",
+        "pricing",
+        "wellness",
+        "e-commerce"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Olive Tree Meditation | Pricing | Olive Tree People",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Olive Tree Meditation offers guided sound baths inspired by natural healing through olive tree frequencies. Explore our meditation class packages designed to help you connect with nature's healing frequencies. Each session provides a unique opportunity to experience the transformative power of sound therapy and olive tree-inspired meditation techniques.",
+    "with": [
+      "Connect to olive tree frequencies through guided sound baths inspired by natural healing.",
+      "Olive Tree Meditation offers a transformative meditation experience.",
+      "Sound baths help you achieve deeper relaxation and inner peace.",
+      "Each meditation class is designed to heal and restore your mind and body.",
+      "Experience the healing power of olive tree-inspired frequencies."
+    ],
+    "without": [
+      "Subscribe to our newsletter",
+      "Copyright 2025 Olive Tree People",
+      "Privacy Policy and Terms of Service",
+      "Cart popup and shopping cart navigation",
+      "Social media sharing buttons and links"
+    ],
+    "images": {
+      "total_in_content": 9,
+      "annotated_count": 7,
+      "items": [
+        {
+          "src": "//us.olivetreepeople.com/cdn/shop/files/meditation_class_02_270x.jpg?v=1690355682",
+          "filename": "meditation_class_02_270x.jpg",
+          "alt": null,
+          "caption": "Meditation class session",
+          "is_hero": false
+        },
+        {
+          "src": "//us.olivetreepeople.com/cdn/shop/files/meditation_class_08_270x.jpg?v=1690355705",
+          "filename": "meditation_class_08_270x.jpg",
+          "alt": null,
+          "caption": "Meditation class session",
+          "is_hero": false
+        },
+        {
+          "src": "//us.olivetreepeople.com/cdn/shop/files/meditation_class_05_270x.jpg?v=1690355612",
+          "filename": "meditation_class_05_270x.jpg",
+          "alt": null,
+          "caption": "Meditation class session",
+          "is_hero": false
+        },
+        {
+          "src": "//us.olivetreepeople.com/cdn/shop/files/meditation_class_03_2b3b289e-ff66-4872-84cd-06a9c92da907_270x.jpg?v=1690355638",
+          "filename": "meditation_class_03_2b3b289e-ff66-4872-84cd-06a9c92da907_270x.jpg",
+          "alt": null,
+          "caption": "Meditation class session",
+          "is_hero": false
+        },
+        {
+          "src": "//us.olivetreepeople.com/cdn/shop/files/meditation_class_04_270x.jpg?v=1690358505",
+          "filename": "meditation_class_04_270x.jpg",
+          "alt": null,
+          "caption": "Meditation class session",
+          "is_hero": false
+        },
+        {
+          "src": "//us.olivetreepeople.com/cdn/shop/files/meditation_class_01_3aef2578-db4c-4759-bbe3-f7b32fae57a2_270x.jpg?v=1690358796",
+          "filename": "meditation_class_01_3aef2578-db4c-4759-bbe3-f7b32fae57a2_270x.jpg",
+          "alt": null,
+          "caption": "Meditation class session",
+          "is_hero": true
+        },
+        {
+          "src": "//us.olivetreepeople.com/cdn/shop/files/meditation_class_06_270x.jpg?v=1690358835",
+          "filename": "meditation_class_06_270x.jpg",
+          "alt": null,
+          "caption": "Meditation class session",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:57:19.896708"
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.vibemusicacademy.com/reviews",
+  "file_id": "0655",
+  "_internal": {
+    "page_type": {
+      "primary": "review",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "reviews",
+        "testimonials",
+        "music education",
+        "testimonials page"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Music Teacher Reviews and Testimonials | Vibe Music Academy",
+    "author": null,
+    "publish_date": null,
+    "main_content": "My teacher... ...is very good at assessing a student's abilities and interests and adjusting his lessons accordingly. He makes the lessons fun and challenging. — Karen B.\n\n...has gone out of his way to learn about my son and his interests so when my son was introduced to guitar, he was able to learn and play music that he already enjoys listening to. He is a gifted musician but also highly skilled at teaching. He works well with families and has a flexible schedule. He is fair but firm with students, and I highly recommend Vibe Music Academy! — Martin S.\n\n...is kind, friendly and patient with my son. He has vast musical experience and is an excellent teacher. The highlight for me was hearing my son have a jam session with the teacher - my son played the drums and the teacher played the guitar! — Kelly S.\n\n...walked me through music theory, as well as the details of the guitar. As an adult student, I was nervous about picking up an instrument but I am now pretty confident I can learn how to play the guitar. Thanks for the great lesson and I look forward to many more! — Ted S.\n\n...has a wonderful ability to relate to people. He has excellent skill and enthusiasm, making our son WANT to learn. We highly recommend him... — B. H.\n\n...taught our Kindergarten-aged daughter both piano and guitar lessons. She was not only able to learn from him, but she really enjoyed him as a teacher, as well... I would highly recommend him as a teacher. — Whitni B.\n\nGet your first lesson for free",
+    "with": [
+      "My teacher... is very good at assessing a student's abilities and interests and adjusting his lessons accordingly.",
+      "He has gone out of his way to learn about my son and his interests so when my son was introduced to guitar, he was able to learn and play music that he already enjoys listening to.",
+      "He is kind, friendly and patient with my son. He has vast musical experience and is an excellent teacher.",
+      "As an adult student, I was nervous about picking up an instrument but I am now pretty confident I can learn how to play the guitar.",
+      "He has a wonderful ability to relate to people. He has excellent skill and enthusiasm, making our son WANT to learn."
+    ],
+    "without": [
+      "Why Vibe? navigation menu with Expert Teachers, Location Flexibility, Reviews links",
+      "Instruments navigation menu with Piano, Guitar, Drums, Voice, Strings, Woodwinds, Brass links",
+      "Book a Lesson button in header navigation",
+      "Footer with Back to Top link and social media icons",
+      "Facebook chat widget and embedded scripts in footer"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://images.squarespace-cdn.com/content/v1/563e6766e4b0a1f30148800e/1450206210645-S2ZJ0FZ4LFZN8QM5MY30/Original+Drums.JPG",
+          "filename": "Original+Drums.JPG",
+          "alt": "Original Drums.JPG",
+          "caption": "Teacher reviews from parents and students.",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:46:26.618917"
+}

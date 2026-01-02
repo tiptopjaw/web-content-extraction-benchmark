@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://hotelworkers.org/hire",
+  "file_id": "1906",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "union",
+        "hotel workers",
+        "member portal",
+        "service"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Hotel and Gaming Trades Council (EN)",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Hotel and Gaming Trades Council, AFL-CIO is the union of hotel workers in the New York City metropolitan area, the Capital Region of New York State, and New Jersey, representing nearly 40,000 non-managerial employees. The website provides access to member services including login, account creation, password reset, and verification features. Members can access union benefits, representation, training programs, and news. The site also includes a tool to find union hotels and an interactive union comparison survey for non-union workers to compare union vs non-union employment terms.",
+    "with": [
+      "Hotel and Gaming Trades Council, AFL-CIO is the union of hotel workers in the New York City metropolitan area, the Capital Region of New York State, and New Jersey, representing nearly 40,000 non-managerial employees.",
+      "Reset your password - Please enter your new password below.",
+      "Already have an account? - Please enter your email and password to log in.",
+      "Create an account - Please enter your information below to begin.",
+      "FIND UNION HOTELS - Search for union hotels by name or location across NYC, Long Island, New Jersey, and other regions."
+    ],
+    "without": [
+      "Toggle Navigation",
+      "Sign up for alerts",
+      "Español | 中文",
+      "© 2025 Hotel and Gaming Trades Council, AFL-CIO",
+      "Facebook | Twitter | Instagram"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:00:13.316469"
+}

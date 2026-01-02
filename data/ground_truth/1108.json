@@ -1,0 +1,45 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.holidayvacations.com/tours/new-tours",
+  "file_id": "1108",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "travel",
+        "tours",
+        "listing"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "New Tours",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Discover the latest adventures with our exciting lineup of new tours! We're continuously adding fresh destinations with unique experiences, from extraordinary wonders abroad to hidden gems closer to home, so there's always something new for guests to explore. With our ever-growing portfolio, you can effortlessly turn your bucket list into spectacular memories while we take care of every detail to make your travels exceptional.",
+    "with": [
+      "Discover the latest adventures with our exciting lineup of new tours!",
+      "We're continuously adding fresh destinations with unique experiences, from extraordinary wonders abroad to hidden gems closer to home",
+      "there's always something new for guests to explore",
+      "With our ever-growing portfolio, you can effortlessly turn your bucket list into spectacular memories",
+      "we take care of every detail to make your travels exceptional"
+    ],
+    "without": [
+      "Book Now",
+      "Destinations",
+      "Find a Tour",
+      "Request a Catalog",
+      "Why Holiday Vacations"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:40:28.454501"
+}

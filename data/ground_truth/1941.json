@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://culture.pl/en/article/gaming-literacy-how-to-understand-video-games",
+  "file_id": "1941",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "HTML contains only metadata and empty body (JavaScript-rendered app). Main content not present in provided HTML.",
+      "tags": [
+        "technology",
+        "gaming",
+        "culture",
+        "literacy"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Gaming Literacy: How to Understand Video Games",
+    "author": "Przemek Zieliński",
+    "publish_date": null,
+    "main_content": "",
+    "with": [
+      "Gaming Literacy: How to Understand Video Games is the first of a four-part series called 'Do You Speak Video Games?'",
+      "Billions of us play games, leaving even the snobbiest and most luddite to admit it's no longer a medium that can be glossed over.",
+      "Przemek Zieliński offers Culture.pl readers a model based on language-learning that can broaden how we think about video games.",
+      "The series aims to broaden how we think about video games and our interactions with them.",
+      "This article appears on Culture.pl, a platform focused on cultural discourse."
+    ],
+    "without": [
+      "Privacy Policy link or footer content",
+      "Subscribe to newsletter promotional elements",
+      "Navigation menu items and breadcrumbs",
+      "Cookie consent notice and tracking elements",
+      "Copyright notices and legal disclaimers"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:14:46.034998"
+}

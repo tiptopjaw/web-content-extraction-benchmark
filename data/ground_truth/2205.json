@@ -1,0 +1,110 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.expertsinyourhome.com/resources/house-renovation-costs-a-complete-breakdown-for-homeowners-and-investors",
+  "file_id": "2205",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "home-improvement",
+        "renovation",
+        "guide",
+        "real-estate"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "House Renovation Costs: A Complete Breakdown for Homeowners & Investors",
+    "author": null,
+    "publish_date": null,
+    "main_content": "When it comes to improving your home, one of the first questions is cost. Whether you're a homeowner upgrading your space, an investor improving a rental property, or a family planning a home addition, understanding house renovation costs is key to making smart decisions. Renovation costs can vary widely. The price depends on the room, your location, the materials you choose, and the contractors you hire. Labor and permit fees can differ from region to region, and upgrades that seem small can have big impacts on your budget.\n\nA full home remodel typically includes everything—kitchens, bathrooms, living areas, flooring, and often, upgrades to plumbing and electrical systems. On average, a whole-home remodel can cost between $100,000 and $200,000 for a 2,000-square-foot house, depending on your finishes and location. A partial remodel can involve specific areas of the home, such as a kitchen, bathroom, or basement. These projects typically range from $10,000 to $50,000, depending on the size and materials.\n\nKitchen renovation costs can range from $15,000 for a minor update to $60,000 or more for a complete transformation. On average, a mid-range kitchen remodel is around $30,000. The cost of a bathroom remodel typically ranges from $8,000 to $20,000. A high-end remodel, which might include a custom shower, luxury tile, or spa-style features, can go above $30,000.\n\nFor a standard 2,000-square-foot house, a full-home renovation process usually takes 6 to 12 months. A kitchen remodel typically takes 6 to 8 weeks for a standard mid-range project. Labor is often 30% to 50% of your total cost. This includes general contractors, electricians, plumbers, and finish carpenters.\n\nIf you're a property investor, remodeling isn't just about aesthetics—it's a strategy to improve rental income, boost resale value, and attract quality tenants. Kitchen and bathroom remodels tend to offer the best ROI, while additions may offer long-term value depending on market demand.",
+    "with": [
+      "When it comes to improving your home, one of the first questions is cost.",
+      "A full home remodel typically includes everything—kitchens, bathrooms, living areas, flooring, and often, upgrades to plumbing and electrical systems.",
+      "Kitchen renovation costs can range from $15,000 for a minor update to $60,000 or more for a complete transformation.",
+      "Labor is often 30% to 50% of your total cost. This includes general contractors, electricians, plumbers, and finish carpenters.",
+      "If you're a property investor, remodeling isn't just about aesthetics—it's a strategy to improve rental income, boost resale value, and attract quality tenants."
+    ],
+    "without": [
+      "Subscribe to Our Blog",
+      "© 2025 The Hignell Suite of Companies. All Rights Reserved.",
+      "Cont Lic. #143778",
+      "(530) 924-5564",
+      "Experts In Your Home has been serving Chico and the surrounding areas"
+    ],
+    "images": {
+      "total_in_content": 13,
+      "annotated_count": 9,
+      "items": [
+        {
+          "src": "https://www.expertsinyourhome.com/hs-fs/hubfs/Experts%20in%20Your%20Home/Website/Pillar%20Pages/Pillar%20Page%201%20-%20Home%20Remodeling%20and%20Renovations/Closeup%20image%20a%20bag%20of%20money%20and%20a%20hard%20hat%20on%20a%20wooden%20table.jpg?width=1920&height=1080&name=Closeup%20image%20a%20bag%20of%20money%20and%20a%20hard%20hat%20on%20a%20wooden%20table.jpg",
+          "filename": "Closeup%20image%20a%20bag%20of%20money%20and%20a%20hard%20hat%20on%20a%20wooden%20table.jpg",
+          "alt": "Closeup image a bag of money and a hard hat on a wooden table",
+          "caption": "Closeup image a bag of money and a hard hat on a wooden table",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.expertsinyourhome.com/hubfs/Experts%20in%20Your%20Home/Website/Pillar%20Pages/Pillar%20Page%201%20-%20Home%20Remodeling%20and%20Renovations/1%20small%20toy%20house%20and%20currencies%20dollar.jpg",
+          "filename": "1%20small%20toy%20house%20and%20currencies%20dollar.jpg",
+          "alt": "small toy house and currencies dollar",
+          "caption": "Small toy house and currencies dollar",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.expertsinyourhome.com/hubfs/Experts%20in%20Your%20Home/Website/Pillar%20Pages/Pillar%20Page%201%20-%20Home%20Remodeling%20and%20Renovations/2%20Calculator%2c%20notebook%20and%20pencil.jpg",
+          "filename": "2%20Calculator%2c%20notebook%20and%20pencil.jpg",
+          "alt": "Calculator, notebook and pencil",
+          "caption": "Calculator, notebook and pencil",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.expertsinyourhome.com/hubfs/Experts%20in%20Your%20Home/Website/Pillar%20Pages/Pillar%20Page%201%20-%20Home%20Remodeling%20and%20Renovations/3%20House%20Renovation%20Costs.jpg",
+          "filename": "3%20House%20Renovation%20Costs.jpg",
+          "alt": "House Renovation Costs",
+          "caption": "House Renovation Costs",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.expertsinyourhome.com/hubfs/Experts%20in%20Your%20Home/Website/Pillar%20Pages/Pillar%20Page%201%20-%20Home%20Remodeling%20and%20Renovations/4%20Concept%20of%20event%20planning%20and%20work%20planning.jpg",
+          "filename": "4%20Concept%20of%20event%20planning%20and%20work%20planning.jpg",
+          "alt": "Concept of event planning and work planning",
+          "caption": "Concept of event planning and work planning",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.expertsinyourhome.com/hubfs/Experts%20in%20Your%20Home/Website/Pillar%20Pages/Pillar%20Page%201%20-%20Home%20Remodeling%20and%20Renovations/5%20budgeting%20for%20home%20renovation.jpg",
+          "filename": "5%20budgeting%20for%20home%20renovation.jpg",
+          "alt": "budgeting for home renovation",
+          "caption": "Budgeting for home renovation",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.expertsinyourhome.com/hubfs/Experts%20in%20Your%20Home/Website/Pillar%20Pages/Pillar%20Page%201%20-%20Home%20Remodeling%20and%20Renovations/6%20building%20contractor.jpg",
+          "filename": "6%20building%20contractor.jpg",
+          "alt": "building contractor",
+          "caption": "Building contractor",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.expertsinyourhome.com/hubfs/Experts%20in%20Your%20Home/Website/Pillar%20Pages/Pillar%20Page%201%20-%20Home%20Remodeling%20and%20Renovations/7%20Renovation%20for%20Property%20Investors.jpg",
+          "filename": "7%20Renovation%20for%20Property%20Investors.jpg",
+          "alt": "Renovation for Property Investors",
+          "caption": "Renovation for Property Investors",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.expertsinyourhome.com/hubfs/Experts%20in%20Your%20Home/Website/Pillar%20Pages/Pillar%20Page%201%20-%20Home%20Remodeling%20and%20Renovations/8%20Contractors%20holding%20wooden%20houses%20on%20their%20heads.jpg",
+          "filename": "8%20Contractors%20holding%20wooden%20houses%20on%20their%20heads.jpg",
+          "alt": "Contractors holding wooden houses on their heads",
+          "caption": "Contractors holding wooden houses on their heads",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:06:29.805946"
+}

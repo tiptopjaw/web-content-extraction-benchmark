@@ -1,27 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.faynutrition.com/get-your-price",
   "file_id": "2216",
-  "downloaded_at": "2025-12-20T23:53:08.208815",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "healthcare",
+        "nutrition",
+        "pricing",
+        "insurance"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Get Your Price",
     "author": null,
     "publish_date": null,
-    "main_content": "As low as $0 per session with insurance\nEnter your insurance details and get your estimate instantly. Cost may vary based on your location, age, and insurance coverage.\n\nFrequently Asked Questions\n\nWhat’s the difference between a registered dietitian and a nutritionist?\nA registered dietitian (RD) or registered dietitian nutritionist (RDN) is a credentialed practitioner who has, at least, completed a bachelor’s degree, a supervised practice program, the Commission on Dietetic Registration’s exam, and a state license. Both RD and RDN are protected titles, meaning only those who have completed the qualifications can use the titles. Nutritionist, however, is not a protected title, and anyone can claim it. There is no standardized training for nutritionists, and many nutritionist training programs are unregulated. Registered dietitians can provide preventative care and treat conditions like diabetes, eating disorders, gastrointestinal disorders, and many other medical conditions with medical nutrition therapy.\n\nAre nutritionists covered by insurance?\nNutrition services are only covered by insurance if the nutritionist is a Registered Dietitian (RD) or Registered Dietitian Nutritionist (RDN). When you book through Fay, we guarantee all providers are board-certified RDs / RDNs and capable of accepting your insurance.\n\nAre registered dietitians covered by insurance?\nNutrition services are only covered by insurance if the nutritionist is a Registered Dietitian (RD) or Registered Dietitian Nutritionist (RDN). When you book through Fay, we guarantee all providers are board-certified RDs / RDNs and capable of accepting your insurance. We accept most major insurances including: Blue Cross Blue Shield, United Healthcare, Cigna, Aetna, Anthem, Humana, and over 700+ insurance plans.\n\nHow do I know if my insurance covers nutrition services?\nMost people get their sessions for free when they book with Fay. Without coverage, you could pay closer to $150 per session. To get more confidence about your coverage, you can check your price using our pricing tool.\n\nHow does Fay help get my nutrition counseling services covered?\nFay has a network of credentialed dietitians who are already approved to bill through insurance. We are proud to be partnered with some of the best names in medicine, including Anthem, Blue Cross, United Healthcare, Aetna, Optum, Cigna, Humana, and many more.",
+    "main_content": "Get an estimate for nutrition counseling sessions. As low as $0 per session with insurance. Enter your insurance details and get your estimate instantly. Cost may vary based on your location, age, and insurance coverage. Fay has a network of credentialed dietitians who are already approved to bill through insurance. We accept most major insurances including Blue Cross Blue Shield, United Healthcare, Cigna, Aetna, Anthem, Humana, and over 700+ insurance plans. A registered dietitian (RD) or registered dietitian nutritionist (RDN) is a credentialed practitioner who has completed a bachelor's degree, a supervised practice program, the Commission on Dietetic Registration's exam, and a state license. Both RD and RDN are protected titles, meaning only those who have completed the qualifications can use the titles. Nutrition services are only covered by insurance if the nutritionist is a Registered Dietitian (RD) or Registered Dietitian Nutritionist (RDN). Registered dietitians can provide preventative care and treat conditions like diabetes, eating disorders, gastrointestinal disorders, and many other medical conditions with medical nutrition therapy. Without coverage, you could pay closer to $150 per session.",
     "with": [
       "As low as $0 per session with insurance",
       "Enter your insurance details and get your estimate instantly. Cost may vary based on your location, age, and insurance coverage.",
-      "A registered dietitian (RD) or registered dietitian nutritionist (RDN) is a credentialed practitioner who has, at least, completed a bachelor’s degree, a supervised practice program, the Commission on Dietetic Registration’s exam, and a state license.",
+      "A registered dietitian (RD) or registered dietitian nutritionist (RDN) is a credentialed practitioner who has, at least, completed a bachelor's degree, a supervised practice program, the Commission on Dietetic Registration's exam, and a state license.",
       "Nutrition services are only covered by insurance if the nutritionist is a Registered Dietitian (RD) or Registered Dietitian Nutritionist (RDN).",
       "Fay has a network of credentialed dietitians who are already approved to bill through insurance."
     ],
     "without": [
+      "Fay Nutrition Logo",
       "Find a dietitian",
-      "Log in",
-      "Get started",
-      "© 2025 Fay. All rights reserved.",
-      "Our Policies"
-    ]
+      "Copyright 2025 Fay",
+      "Navigation menu items",
+      "Cookie Preferences"
+    ],
+    "images": {
+      "total_in_content": 2,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:53:08.208821"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:09:57.260422"
 }

@@ -1,0 +1,62 @@
+{
+  "schema_version": "2.0",
+  "url": "https://smarterarticles.co.uk/ai-trains-on-your-art-three-models-that-could-pay-you-back",
+  "file_id": "2722",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "ai",
+        "copyright",
+        "compensation",
+        "policy"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "AI Trains on Your Art: Three Models That Could Pay You Back",
+    "author": "Tim Green",
+    "publish_date": "2025-12-19",
+    "main_content": "When Andrea Bartz, Charles Graeber, and Kirk Wallace Johnson filed their class action lawsuit against Anthropic in 2024, they joined a growing chorus of creators demanding answers to an uncomfortable question: if artificial intelligence companies are building billion-dollar businesses by training on creative works, shouldn't the artists who made those works receive something in return? In June 2025, they received an answer from U.S. District Judge William Alsup that left many in the creative community stunned: \"The training use was a fair use,\" he wrote, ruling that Anthropic's use of their books to train Claude was \"exceedingly transformative.\" The decision underscored a stark reality facing millions of artists, writers, photographers, and musicians worldwide. Whilst courts continue debating whether AI training constitutes copyright infringement, technology companies are already scraping, indexing, and ingesting vast swathes of creative work at a scale unprecedented in human history. The LAION-5B dataset alone contains links to 5.85 billion image-text pairs scraped from the web, many without the knowledge or consent of their creators. But amidst the lawsuits and the polarised debates about fair use, a more practical conversation is emerging: regardless of what courts ultimately decide, what practical models could fairly compensate artists whose work informs AI training sets? And more importantly, what legal and technical barriers must be addressed to implement these models at scale? Several promising frameworks are beginning to take shape, from collective licensing organisations modelled on the music industry to blockchain-based micropayment systems and opt-in contribution platforms. Understanding these models and their challenges is essential for anyone seeking to build a more equitable future for AI and creativity. The Collective Licensing Model has inspired the most significant recent development in AI training compensation: the Really Simple Licensing (RSL) Standard, announced in September 2025 by a coalition including Reddit, Yahoo, Medium, and dozens of other major publishers. The RSL protocol represents the first unified framework for extracting payment from AI companies, allowing publishers to embed licensing terms directly into robots.txt files. Yet the model faces significant hurdles because no major AI company has agreed to honour the RSL standard. Opt-In Contribution Systems flip the default by requiring artists to explicitly opt in to have their work included in training sets, with payment models including one-time fees, revenue-sharing percentages, or tiered compensation based on influence. Micropayment Mechanisms propose paying creators each time their work is accessed, whether during initial training, model fine-tuning, or ongoing crawling for updated data, with implementations like Cloudflare's Pay Per Crawl system using the HTTP 402 status code. The fair use doctrine epitomises copyright complexity, with Judge Alsup's June 2025 ruling finding that using books to train Claude was \"exceedingly transformative\" because the model learns patterns rather than reproducing text, yet just months earlier, in Thomson Reuters v. ROSS Intelligence, Judge Bibas rejected fair use for AI training. The single greatest technical barrier to fair compensation is provenance: reliably tracking which works contributed to which models and how those contributions influenced outputs, with MIT's Data Provenance Initiative revealing systemic documentation failures where datasets are inconsistently documented and poorly understood. Even if perfect provenance existed and legal frameworks mandated compensation, enforcement across borders poses perhaps the most intractable challenge because copyright is territorial whilst AI training is inherently global. What is required is sustained commitment from all stakeholders: AI companies must recognise that sustainable business models require legitimacy, creators must engage pragmatically, policymakers must navigate between protecting creators and enabling innovation, and technologists must prioritise interoperability, transparency, and attribution.",
+    "with": [
+      "When Andrea Bartz, Charles Graeber, and Kirk Wallace Johnson filed their class action lawsuit against Anthropic in 2024, they joined a growing chorus of creators demanding answers to an uncomfortable question: if artificial intelligence companies are building billion-dollar businesses by training on creative works, shouldn't the artists who made those works receive something in return?",
+      "The RSL protocol represents the first unified framework for extracting payment from AI companies, allowing publishers to embed licensing terms directly into robots.txt files.",
+      "The appeal of micropayments lies in their granularity. Instead of guessing the value of content in advance, publishers can set prices reflecting actual demand.",
+      "The fair use doctrine epitomises this complexity. Judge Alsup's June 2025 ruling in Bartz v. Anthropic found that using books to train Claude was \"exceedingly transformative\" because the model learns patterns rather than reproducing text.",
+      "The artists whose work trained today's AI models deserve compensation."
+    ],
+    "without": [
+      "Subscribe to our newsletter",
+      "Copyright 2025 Human in the Loop",
+      "Privacy Policy link",
+      "Navigation menu items",
+      "Cookie consent notice"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://i.snap.as/hoMk7nhK.png",
+          "filename": "hoMk7nhK.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://profile.smarterarticles.co.uk/tim_100.png",
+          "filename": "tim_100.png",
+          "alt": "Tim Green",
+          "caption": "Tim Green",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:24:01.817988"
+}

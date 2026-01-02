@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "url": "https://ashvardanian.com/posts/search-utf8",
+  "file_id": "2492",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "unicode",
+        "performance",
+        "avx-512",
+        "string-search"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Full Unicode Search at 50× ICU Speed with AVX‑512",
+    "author": "Ash Vardanian",
+    "publish_date": "2025-12-15",
+    "main_content": "This article is about the ugliest, but potentially most useful piece of open-source software I've written this year. It's messy, because UTF-8 is messy. The world's most widely used text encoding standard was introduced in 1989. It now covers more than 1 million characters across the majority of used writing systems, so it's not exactly trivial to work with. That's why ICU exists - pretty much the only comprehensive open-source library for Unicode and UTF-8 handling, powering Chrome/Chromium and probably every OS out there. It's feature-rich, battle-tested, and freaking slow. Now StringZilla makes some of the most common operations much faster, leveraging AVX-512 on Intel and AMD CPUs! Namely: Tokenizing text into lines or whitespace-separated tokens, handling 25 different whitespace characters and 9 newline variants; Case-folding text into lowercase form, handling all 1400+ rules and edge cases of Unicode 17 locale-agnostic expansions; Case-insensitive substring search bypassing case-folding for both European and Asian languages. StringZilla takes a different route: it tries very hard to find a fold-safe window in the needle - a slice that can be case-folded into ≤16 bytes, doesn't trigger surprises for a chosen SIMD path, and has enough byte diversity to be a good SIMD filter. The benchmark results show StringZilla achieving 20-150× faster performance than alternatives, or 20,000× faster when comparing to PCRE2 RegEx engine with case-insensitive flag.",
+    "with": [
+      "Now StringZilla makes some of the most common operations much faster, leveraging AVX-512 on Intel and AMD CPUs!",
+      "StringZilla takes a different route: it tries very hard to find a fold-safe window in the needle - a slice that can be case-folded into ≤16 bytes.",
+      "Case-insensitive substring search bypassing case-folding for both European and Asian languages, available since v4.5.",
+      "The benchmark results show StringZilla achieving 20–150× faster performance than alternatives.",
+      "StringZilla is tested against a synthetic suite generated on the fly from the most recent Unicode specs."
+    ],
+    "without": [
+      "Subscribe to newsletter",
+      "Ash's Blog · Copyright",
+      "Privacy Policy",
+      "Archive · Tags · Search",
+      "Cookie notice"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "/search-utf8/search-utf8-example.png",
+          "filename": "search-utf8-example.png",
+          "alt": "Searching UTF-8 in AVX-512: Safer and Faster",
+          "caption": "Searching UTF-8 in AVX-512: Safer and Faster. The example contains multiple confusable characters: German Eszett variants 'ß' and 'ẞ', the Kelvin sign 'K' and ASCII 'k', and Greek mu 'μ' vs the micro sign 'µ'.",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:39:11.514250"
+}

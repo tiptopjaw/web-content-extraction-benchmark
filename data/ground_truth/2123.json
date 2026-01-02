@@ -1,0 +1,97 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.termiopest.com/pest-control-queen-creek",
+  "file_id": "2123",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "pest-control",
+        "local-service",
+        "queen-creek",
+        "arizona",
+        "landing-page"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Queen Creek, AZ Pest Control & Termite Control Specialists",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Termio Pest Control delivers the best pest control in Queen Creek, AZ and the Phoenix area. If you're looking for protection from ants, spiders, termites, or other pests, Termio Pest Control is here to help! With same day service available, we protect homes from ants, spiders, scorpions, termites, and other pests. Termio Pest Control is a locally owned and family operated pest control company, making us the local experts you can count on to eliminate insect and rodent infestations. We offer eco-friendly pest control that is tough on pests but not the environment, using eco-conscious products and services. All services are backed by our satisfaction guarantee, delivering peace of mind with every service. The pest professionals at Termio are passionate about helping property owners resolve pest problems, no matter how tough. Contact us for a free inspection or call (602) 900-0807 to schedule service. Service areas include Chandler, Gilbert, Gold Canyon, Goodyear, Mesa, New River, Peoria, Phoenix, Queen Creek, Scottsdale, Surprise, and Tempe.",
+    "with": [
+      "Queen Creek, AZ Pest Control Services",
+      "If you're looking for protection from ants, spiders, termites, or other pests, Termio Pest Control is here to help!",
+      "As a family-owned and operated pest control company, we are the local experts you can count on to eliminate insect and rodent infestations.",
+      "Tough on pests but not the environment, Termio's pest and termite control services keep homes pest-free using eco-conscious products and services.",
+      "The pest professionals at the Termio are passionate about helping property owners resolve pest problems, no matter how tough!"
+    ],
+    "without": [
+      "Call Termio Pest Control Today! (602) 900-0807",
+      "Same Day Service*",
+      "Account Login",
+      "Get Started",
+      "Mon-Fri: 7:30 am-5:00 pm"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 7,
+      "items": [
+        {
+          "src": "https://cdn.prod.website-files.com/6737b68c1eb9bb0958907b3a/67979c8c6c45c550e3bb6682_Hero%20Image.avif",
+          "filename": "67979c8c6c45c550e3bb6682_Hero%20Image.avif",
+          "alt": "termio pest control technician",
+          "caption": "termio pest control technician",
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6737b68c1eb9bb0958907b3a/67881a5355eb3567448f656a_image%2032.avif",
+          "filename": "67881a5355eb3567448f656a_image%2032.avif",
+          "alt": "termio pest control technician",
+          "caption": "termio pest control technician",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6737b68c1eb9bb0958907b3a/67881a5355eb3567448f6568_MCB.avif",
+          "filename": "67881a5355eb3567448f6568_MCB.avif",
+          "alt": "pest control technician in queen creek",
+          "caption": "pest control technician in queen creek",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6737b68c1eb9bb0958907b45/678a857d2f935632faa75bcf_acrobat-ants-phoenix.avif",
+          "filename": "678a857d2f935632faa75bcf_acrobat-ants-phoenix.avif",
+          "alt": "acrobat ants",
+          "caption": "acrobat ants",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6737b68c1eb9bb0958907b45/678a85515e5b9334cb66a469_arizona-bark-scorpion.avif",
+          "filename": "678a85515e5b9334cb66a469_arizona-bark-scorpion.avif",
+          "alt": "male bark scorpion",
+          "caption": "male bark scorpion",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6737b68c1eb9bb0958907b3a/679913d214d5055181118801_exterior-pest-treatment.avif",
+          "filename": "679913d214d5055181118801_exterior-pest-treatment.avif",
+          "alt": "pest control pro treating outside of home",
+          "caption": "pest control pro treating outside of home",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/6737b68c1eb9bb0958907b3a/679bcca8af70904453f6e814_termio-pest-customer.avif",
+          "filename": "679bcca8af70904453f6e814_termio-pest-customer.avif",
+          "alt": "termio pest control customer",
+          "caption": "termio pest control customer",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:44:22.112624"
+}

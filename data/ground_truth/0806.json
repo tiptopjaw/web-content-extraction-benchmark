@@ -1,27 +1,82 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.bhg.com/decorating/lessons/basics/how-to-arrange-furniture/",
   "file_id": "0806",
-  "downloaded_at": "2025-12-20T21:31:05.499980",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "decorating",
+        "guide",
+        "interior-design",
+        "furniture"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "26 Expert Tips to Help You Arrange Furniture in Every Room",
     "author": "Jessica Bennett",
     "publish_date": null,
-    "main_content": "Arranging furniture can be a daunting design decision, but the layout is crucial to a room's comfort and function. These common scenarios will teach you the basics of furniture arranging so you can maximize every space. Learn how to arrange furniture in living rooms, bedrooms, dining areas, and more with these tricks.\n\n1. Choose a Focal Point\nIdentify the room's focal point, such as a fireplace, large window, or entertainment center. Arrange furniture around this feature to create a cohesive and inviting layout.\n\n2. Create Conversation Areas\nIn living rooms, position sofas and chairs to face each other, facilitating easy conversation. Ensure there's enough space between pieces for comfortable movement.\n\n3. Allow for Traffic Flow\nMaintain clear pathways (at least 3 feet wide) between furniture pieces and doorways. This prevents a cramped feeling and allows easy navigation.\n\n4. Consider Scale and Proportion\nMatch furniture size to the room's dimensions. Oversized pieces can overwhelm a small room, while tiny furniture may look lost in a large space.\n\n5. Use Area Rugs to Define Spaces\nIn open-concept areas, rugs can anchor furniture groupings and delineate different functional zones, like dining and living areas.\n\n6. Balance the Room\nDistribute visual weight evenly. If you have a large piece on one side, balance it with a similarly substantial item on the opposite side.\n\n7. Don't Push Everything Against Walls\nFloating furniture away from walls can make a room feel more intimate and spacious. This works especially well in larger rooms.\n\n8. Think About Function\nArrange furniture based on how you use the room. For example, place a reading chair near a light source, or position a desk to minimize glare on a computer screen.\n\n9. Layer Lighting\nCombine overhead, task, and accent lighting. Place floor lamps near seating areas and table lamps on surfaces where you need focused light.\n\n10. Create Symmetry\nSymmetrical arrangements (matching pieces on either side of a focal point) feel orderly and calm, while asymmetrical layouts can be more dynamic and modern.\n\n11. Use Multipurpose Furniture\nIn small spaces, choose pieces that serve multiple functions, like ottomans with storage or sofa beds.\n\n12. Consider Sightlines\nArrange furniture so that when you enter the room, you see an attractive vignette rather than the back of a sofa or clutter.\n\n13. Leave Space Around Windows\nAvoid blocking windows with tall furniture. Allow natural light to flow into the room and maintain views to the outside.\n\n14. Angle Furniture for Interest\nPlacing a chair or sofa at a 45-degree angle can break up the monotony of straight lines and add visual interest.\n\n15. Create Zones in Large Rooms\nUse furniture groupings to establish separate areas for different activities, such as a reading nook, conversation area, and media space.\n\n16. Measure Before You Buy\nAlways measure your space and furniture pieces to ensure everything will fit comfortably. Create a floor plan using graph paper or an online tool.\n\n17. Use Mirrors to Enhance Space\nPosition mirrors to reflect light and views, making a room feel larger and brighter.\n\n18. Consider Door Swings\nEnsure furniture placement doesn't interfere with the full operation of doors, including closet and cabinet doors.\n\n19. Prioritize Comfort\nArrange seating so that people can easily access side tables for drinks and have adequate legroom.\n\n20. Leave Negative Space\nNot every inch needs to be filled. Empty areas give the eye a place to rest and can make a room feel more spacious.\n\n21. Think Vertically\nUse tall bookshelves or artwork to draw the eye upward, making ceilings feel higher and adding storage without consuming floor space.\n\n22. Create Intimate Dining\nIn dining rooms, allow at least 24 inches of space per person at the table and ensure there's enough room to pull out chairs comfortably.\n\n23. Optimize Bedroom Layout\nPlace the bed first, typically opposite the door or on the longest wall. Leave space on both sides for nightstands and easy access.\n\n24. Use Furniture to Divide Spaces\nIn studio apartments or open layouts, use bookcases, screens, or sofas to create visual separation between living and sleeping areas.\n\n25. Consider Electrical Outlets\nPlace furniture near outlets for lamps, electronics, and charging stations to avoid tripping hazards from extension cords.\n\n26. Be Willing to Experiment\nDon't be afraid to try different arrangements. Sometimes the best layout isn't the most obvious one.",
+    "main_content": "Arranging furniture can be a daunting design decision, but the layout is crucial to a room's comfort and function. These common scenarios will teach you the basics of furniture arranging so you can maximize every space. Learn how to arrange furniture in living rooms, bedrooms, dining areas, and more with these tricks.\n\nLiving Room Furniture Arrangement Tips:\n\nIf you're starting from scratch with an empty room, begin by identifying the room's focal point. It could be a fireplace, a television, or a picture window with a nice view. All of your furniture should then be arranged to accentuate that focal point. Arrange seating around the focal point to encourage conversation. Place the sofa directly across from the focal point and add chairs at angles to create a cozy conversation area.\n\nBedroom Furniture Arrangement Tips:\n\nBefore you buy any new furniture, measure your room and sketch out a floor plan. Use graph paper to create a scale drawing of your room, including doors, windows, and any other fixed elements. Measure your largest pieces of furniture too. This helps you avoid the frustration of furniture that won't fit once it's in the room.\n\nDining Room Furniture Arrangement Tips:\n\nWhen arranging a dining room, first decide how the space will be used most often. Will it primarily be for family dinners, formal dinner parties, homework, or as a home office? The arrangement of the table and chairs should reflect this primary use. Consider a round table for smaller rooms or if you want to encourage conversation during meals.",
     "with": [
       "Arranging furniture can be a daunting design decision, but the layout is crucial to a room's comfort and function.",
       "These common scenarios will teach you the basics of furniture arranging so you can maximize every space.",
-      "Learn how to arrange furniture in living rooms, bedrooms, dining areas, and more with these tricks.",
-      "Identify the room's focal point, such as a fireplace, large window, or entertainment center.",
-      "In living rooms, position sofas and chairs to face each other, facilitating easy conversation."
+      "If you're starting from scratch with an empty room, begin by identifying the room's focal point.",
+      "Arrange seating around the focal point to encourage conversation.",
+      "When arranging a dining room, first decide how the space will be used most often."
     ],
     "without": [
       "Skip to content",
-      "Visit Better Homes and Gardens' homepage",
-      "Search",
+      "Subscribe to BHG",
       "Log In",
-      "Subscribe"
-    ]
+      "Follow Us",
+      "Better Homes & Gardens"
+    ],
+    "images": {
+      "total_in_content": 42,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://www.bhg.com/thmb/PyqtgjA0BKc8suMieL5fWj_UTSE=/1866x0/filters:no_upscale():strip_icc()/neutral-living-room-white-fireplace-594af4cd-dfb9df1c2680468ab84c14d87b0b9eb9.jpg",
+          "filename": "neutral-living-room-white-fireplace-594af4cd-dfb9df1c2680468ab84c14d87b0b9eb9.jpg",
+          "alt": "neutral living room white fireplace",
+          "caption": "neutral living room with white fireplace",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.bhg.com/thmb/1l812w35sxO77XBJU0eisGKoGXw=/1244x0/filters:no_upscale():strip_icc()/living-room-arrangement-illustration-5f2ca7a0-d4971cb7c7094c51adfc394343929827.jpg",
+          "filename": "living-room-arrangement-illustration-5f2ca7a0-d4971cb7c7094c51adfc394343929827.jpg",
+          "alt": "living room arrangement illustration",
+          "caption": "living room arrangement illustration",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.bhg.com/thmb/IS_qfPzj2ir3w2kWYHTu85cehKs=/1244x0/filters:no_upscale():strip_icc()/living-room-floor-plan-63501735-d8d4eec059f74882aea0e402d4df6dae.jpg",
+          "filename": "living-room-floor-plan-63501735-d8d4eec059f74882aea0e402d4df6dae.jpg",
+          "alt": "living room floor plan",
+          "caption": "living room floor plan diagram",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.bhg.com/thmb/lfp7ocX6JAstx_GLRjxIsoPYqNw=/1244x0/filters:no_upscale():strip_icc()/master-bedroom-layout-illustration-94d523ab-12a15f967c6e467aa798f7666e04238e.jpg",
+          "filename": "master-bedroom-layout-illustration-94d523ab-12a15f967c6e467aa798f7666e04238e.jpg",
+          "alt": "master bedroom layout illustration",
+          "caption": "master bedroom layout illustration",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.bhg.com/thmb/C8lKbwfWgo4UFdV_-iloIG6oLvk=/1244x0/filters:no_upscale():strip_icc()/dining-room-layout-illustration-313061e3-d384b7c8cd754b678088e11e974bf9e3.jpg",
+          "filename": "dining-room-layout-illustration-313061e3-d384b7c8cd754b678088e11e974bf9e3.jpg",
+          "alt": "dining room layout illustration",
+          "caption": "dining room layout illustration",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:31:05.499986"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:27:10.671190"
 }

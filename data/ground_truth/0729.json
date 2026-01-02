@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://news.mit.edu/topic/software",
+  "file_id": "0729",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "news",
+        "topic",
+        "software",
+        "mit"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Software | MIT News | Massachusetts Institute of Technology",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Displaying 1 - 15 of 190 news articles related to this topic. MIT Sea Grant students explore the intersection of technology and offshore aquaculture in Norway through the AquaCulture Shock program. New AI agent learns to use CAD to create 3D objects from sketches - the virtual VideoCAD tool could boost designers' productivity. MIT researchers propose a new model for legible, modular software using modular concepts and simple synchronization rules. New machine-learning application to help researchers predict chemical properties - ChemXploreML makes advanced chemical predictions easier and faster. Can AI really code? Study maps the roadblocks to autonomous software engineering - researchers mapped challenges in software development. Memory safety is at a tipping point - Lincoln Laboratory cybersecurity expert calls for unified approach to securing computer memory. Combining technology, education, and human connection to improve online learning - Caitlin Morris designs digital learning platforms. Inroads to personalized AI trip planning - new framework from MIT-IBM Watson AI Lab supercharges language models. Learning how to predict rare kinds of failures - researchers developing algorithms to predict failures when automation meets the real world. Artificial intelligence enhances air mobility planning - Lincoln Laboratory transitioning tools to streamline global transport logistics. Training LLMs to self-detoxify their language - new method helps large language models steer their own responses toward safer outputs. A new way to make graphs more accessible to blind and low-vision readers - Tactile Vega-Lite system developed at MIT CSAIL. A software platform streamlines emergency response - First responders worldwide adopt Lincoln Laboratory's Next-Generation Incident Command System. Expanding robot perception - Associate Professor Luca Carlone working to give robots more human-like awareness. How hard is it to prevent recurring blackouts in Puerto Rico - researchers demonstrate DyMonDS framework can improve resiliency to extreme weather.",
+    "with": [
+      "Displaying 1 - 15 of 190 news articles related to this topic.",
+      "MIT Sea Grant students explore the intersection of technology and offshore aquaculture in Norway.",
+      "New AI agent learns to use CAD to create 3D objects from sketches.",
+      "MIT researchers propose a new model for legible, modular software.",
+      "A software platform streamlines emergency response for first responders worldwide."
+    ],
+    "without": [
+      "Massachusetts Institute of Technology",
+      "Subscribe to MIT Daily/Weekly",
+      "Privacy Policy",
+      "Twitter Facebook Instagram YouTube links",
+      "Terms of Use"
+    ],
+    "images": {
+      "total_in_content": 15,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "/sites/default/files/styles/term_page__news_article/public/images/202512/Farm-Sveinung-Beckett-MIT-Aquaculture-00.jpg?itok=PCKd0MJu",
+          "filename": "Farm-Sveinung-Beckett-MIT-Aquaculture-00.jpg",
+          "alt": "Beckett Devoe stands on the edge of a net pen, looking in, at a salmon farm on an overacast day.",
+          "caption": "Beckett Devoe stands on the edge of a net pen, looking in, at a salmon farm on an overacast day.",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/styles/term_page__news_article/public/images/202511/MIT-Video-CAD-01.jpg?itok=MDN25vPt",
+          "filename": "MIT-Video-CAD-01.jpg",
+          "alt": "A computer rendered design for a machine component",
+          "caption": "A computer rendered design for a machine component",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/styles/term_page__news_article/public/images/202510/MIT-csail-AI-software.jpg?itok=axYGIlLc",
+          "filename": "MIT-csail-AI-software.jpg",
+          "alt": "Illustration of a robotic left hand and a human right hand typing code on a laptop. The screen shows three colored modules, each containing code.",
+          "caption": "Illustration of a robotic left hand and a human right hand typing code on a laptop. The screen shows three colored modules, each containing code.",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/styles/term_page__news_article/public/images/202507/chemxploreml-desktop-00_0.jpg?itok=ti-anky_",
+          "filename": "chemxploreml-desktop-00_0.jpg",
+          "alt": "Screenshots of the orange ChemXploreML interface: Foreground image shows a scatterplot with input options, background image shows the ChemXploreML logo, a robot holding a ring molecule.",
+          "caption": "Screenshots of the orange ChemXploreML interface: Foreground image shows a scatterplot with input options, background image shows the ChemXploreML logo, a robot holding a ring molecule.",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/styles/term_page__news_article/public/images/202507/mit-csail-%20AI-coding.jpg?itok=GMPvu60J",
+          "filename": "mit-csail-%20AI-coding.jpg",
+          "alt": "A 3D cartoon robot appears confused, standing in front of different newspaper headlines about the progress of AI coding. Blocks of code are visible behind a red background.",
+          "caption": "A 3D cartoon robot appears confused, standing in front of different newspaper headlines about the progress of AI coding. Blocks of code are visible behind a red background.",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/styles/term_page__news_article/public/images/202506/memory-safety-tipping-point-lincoln-lab-mit-00.jpg?itok=EMUFWm9M",
+          "filename": "memory-safety-tipping-point-lincoln-lab-mit-00.jpg",
+          "alt": "An editorial illustration depicting an iceberg with the earth balanced at the tipping point. To the left is a blue circle enclosing various computer systems, and to the right is a red orb with an eye coming out of a virus-like depiction, representing cybersecurity threats.",
+          "caption": "An editorial illustration depicting an iceberg with the earth balanced at the tipping point. To the left is a blue circle enclosing various computer systems, and to the right is a red orb with an eye coming out of a virus-like depiction, representing cybersecurity threats.",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/styles/term_page__news_article/public/images/202506/mit-Caitlin-Morris.jpg?itok=ctkQifzS",
+          "filename": "mit-Caitlin-Morris.jpg",
+          "alt": "Caitlin Morris smiles while seated in a makerspace at MIT, with tools, a yellow desk lamp, and design equipment visible in the background.",
+          "caption": "Caitlin Morris smiles while seated in a makerspace at MIT, with tools, a yellow desk lamp, and design equipment visible in the background.",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/styles/term_page__news_article/public/images/202505/mit-watson-travel-planning.jpg?itok=lXwKL4r_",
+          "filename": "mit-watson-travel-planning.jpg",
+          "alt": "Close-up of a person holding a smartphone and a pen with one hand and typing on a laptop with the other ",
+          "caption": "Close-up of a person holding a smartphone and a pen with one hand and typing on a laptop with the other",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/styles/term_page__news_article/public/images/202505/mit-rare-event-modeling.jpg?itok=MbqST43k",
+          "filename": "mit-rare-event-modeling.jpg",
+          "alt": "Realistic photo illustration of a portion of Earth's surface with clusters of city lights connected by arcing lines",
+          "caption": "Realistic photo illustration of a portion of Earth's surface with clusters of city lights connected by arcing lines",
+          "is_hero": false
+        },
+        {
+          "src": "/sites/default/files/styles/term_page__news_article/public/images/202504/mit-lincoln-lab-us-air-mobility-00.jpg?itok=2C-L05KL",
+          "filename": "mit-lincoln-lab-us-air-mobility-00.jpg",
+          "alt": "Twelve people, including three in military field uniforms, pose for a group photo in the Lincoln Laboratory main lobby, with a glass wall behind them",
+          "caption": "Twelve people, including three in military field uniforms, pose for a group photo in the Lincoln Laboratory main lobby, with a glass wall behind them",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:06:29.502352"
+}

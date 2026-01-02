@@ -1,27 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.dictionary.com/browse/restaurant",
   "file_id": "1980",
-  "downloaded_at": "2025-12-20T22:54:42.793412",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "reference",
+        "dictionary",
+        "language",
+        "definitions"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "RESTAURANT Definition & Meaning | Dictionary.com",
     "author": null,
     "publish_date": null,
-    "main_content": "restaurant\nAmerican\n[res-tuh-rahnt, -trahnt] / ˈrɛs təˌrɑnt, -trɑnt /\nnoun\nan establishment where meals are served to customers.\n\nrestaurant\nBritish\n/ ˈrɛstrɒŋ, -rɒnt, ˈrɛstəˌrɒŋ /\nnoun\na commercial establishment where meals are prepared and served to customers\n\"Collins English Dictionary — Complete & Unabridged\" 2012 Digital Edition © William Collins Sons & Co. Ltd. 1979, 1986 © HarperCollins Publishers 1998, 2000, 2003, 2005, 2006, 2007, 2009, 2012\n\nEtymology\nOrigin of restaurant\nAn Americanism first recorded in 1820–30; from French, noun use of present participle of restaurer, from Latin restaurāre “to restore, reestablish”; re- ( def. ), store\n\nCompare meaning\nHow does restaurant compare to similar and commonly confused words? Explore the most common comparisons:\nbistro vs. restaurant\n\nExample Sentences\nExamples are provided to illustrate real-world usage of words in context. Any opinions expressed do not reflect the views of Dictionary.com.\nEven if businesses want to hire, the pickings are slimmer, especially in low-skill occupations at hotels and restaurants.\nFrom MarketWatch\nEven if businesses want to hire, the pickings are slimmer, especially in low-skill occupations at hotels and restaurants.\nFrom MarketWatch\nAs the day wore on, he dropped off more items from hamburger joints, coffee shops, noodle stores and a Middle Eastern restaurant, then more tea, before finally calling it quits at 11:31 p.m.\nFrom The Wall Street Journal\nThe two grew close, Watson said, recalling fond memories of dinners with him at a local Portuguese restaurant.\nFrom The Wall Street Journal\nRising from the former central post office, the Post Tower will soon open with shops, restaurants and a Kimpton hotel.\nFrom The Wall Street Journal\n\nRelated Words\nbar\ncafeteria\ncoffee shop\ndiner\ndining room\ninn\noutlet\nsaloon\n\nDefinitions and idiom definitions from Dictionary.com Unabridged, based on the Random House Unabridged Dictionary, © Random House, Inc. 2023\nIdioms from The American Heritage® Idioms Dictionary copyright © 2002, 2001, 1995 by Houghton Mifflin Harcourt Publishing Company. Published by Houghton Mifflin Harcourt Publishing Company.",
+    "main_content": "restaurant - American spelling: /ˈrɛs təˌrɑnt, -trɑnt/, British spelling: /ˈrɛstrɒŋ, -rɒnt, ˈrɛstəˌrɒŋ/. Definition: an establishment where meals are served to customers. A commercial establishment where meals are prepared and served to customers. Etymology: An Americanism first recorded in 1820-30; from French, noun use of present participle of restaurer, from Latin restaurare 'to restore, reestablish'. Example sentences from various publications illustrate real-world usage of the word in context. Related words include bar, cafeteria, coffee shop, diner, dining room, inn, outlet, and saloon.",
     "with": [
-      "restaurant\nAmerican\n[res-tuh-rahnt, -trahnt] / ˈrɛs təˌrɑnt, -trɑnt /\nnoun\nan establishment where meals are served to customers.",
-      "restaurant\nBritish\n/ ˈrɛstrɒŋ, -rɒnt, ˈrɛstəˌrɒŋ /\nnoun\na commercial establishment where meals are prepared and served to customers",
-      "An Americanism first recorded in 1820–30; from French, noun use of present participle of restaurer, from Latin restaurāre “to restore, reestablish”; re- ( def. ), store",
-      "Even if businesses want to hire, the pickings are slimmer, especially in low-skill occupations at hotels and restaurants.",
-      "As the day wore on, he dropped off more items from hamburger joints, coffee shops, noodle stores and a Middle Eastern restaurant, then more tea, before finally calling it quits at 11:31 p.m."
+      "restaurant is the headword with American and British pronunciations provided",
+      "An establishment where meals are served to customers is the primary definition",
+      "The word originated from French, from Latin restaurare meaning to restore or reestablish",
+      "Example sentences demonstrate real-world usage of the word in news articles",
+      "Related words listed include bar, cafeteria, diner, inn, and other dining-related terms"
     ],
     "without": [
-      "Featured Games Cultural Writing tips",
-      "Popular Searches charcuterie disinterested GIF ambivalent superyacht throw in the towel teleportation",
-      "Word of the Day tergiversate [tur-ji-ver-seyt] Get the Word of the Day",
-      "Over 500,000 expert-authored dictionary and thesaurus entries",
-      "© 2025 Dictionary Media Group, Inc., a division of IXL Learning"
-    ]
+      "Popular Searches navigation links like charcuterie, disinterested, and GIF",
+      "Footer social media icons and brand logos",
+      "Word of the Day promotional content",
+      "Cookie consent and privacy policy notices",
+      "Parent company IXL Learning brand links in footer"
+    ],
+    "images": {
+      "total_in_content": 16,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:54:42.793417"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:10:21.751993"
 }

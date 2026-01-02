@@ -1,0 +1,75 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.complex.com/sneakers",
+  "file_id": "0480",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "sneakers",
+        "news",
+        "lifestyle",
+        "fashion"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Sneakers: Latest Sneaker News, Release Dates & Guides",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Complex Sneakers is the daily destination for sneakerheads. Find the latest on sneaker news, release dates, exclusive collaborations, collections & more. Featured article: The Best Air Jordans of 2025 by Zac Dubasik. Highlights include: The Best Nike Air Foamposite Pros of All Time, Ranked by Ian Stonebrook; Sneaker Release Guide featuring 'Souvenir' Vans Old Skool and 'Bugs Bunny' Air Jordan 8; 'Jurassic Park' x Nike Ja 3 Collab Surfaces by Victor Deng. Latest Cover: Yeat - Pray Love cover story. New Arrivals products: BAPE SK8 STA #1 MENS ($329) and ARIES x Salomon XT-Whisper Black Complex.",
+    "with": [
+      "Complex Sneakers is the daily destination for sneakerheads.",
+      "The Best Air Jordans of 2025 - 'Black Cat' Air Jordan 4? Travis Scott x Fragment x Air Jordan 1 Low? Awake NY x Air Jordan 5? Here's how they rank.",
+      "The Best Nike Air Foamposite Pros of All Time, Ranked by Ian Stonebrook.",
+      "'Souvenir' Vans Old Skool, 'Bugs Bunny' Air Jordan 8, and Other Sneakers Releasing This Week.",
+      "Yeat is an artist who believes in constant evolution. As he steps into a new era, he's transformed himself both mentally and physically."
+    ],
+    "without": [
+      "Mr. x BAPE® | Shop Now",
+      "VANDYTHEPINK® & Pleasures — Fortnite | Available Now",
+      "EXPLORE | SHOP navigation menu",
+      "Subscribe to newsletter",
+      "Copyright 2025 Complex Media"
+    ],
+    "images": {
+      "total_in_content": 5,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://images.complex.com/complex/image/upload/q_auto,f_auto,c_fill,ar_0.80,w_2048,g_auto/v1761149233/complex-app-stories/gtx7beff2qdnnjsotfcz.jpg",
+          "filename": "gtx7beff2qdnnjsotfcz.jpg",
+          "alt": "2025 Complex Cover of Yeat",
+          "caption": "2025 Complex Cover of Yeat - Yeat is an artist who believes in constant evolution. As he steps into a new era, he's transformed himself both mentally and physically, and he's making the best, most mind-bending music of his career.",
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0638/2659/1966/files/kOnxgm31GBAXDTZuNueJghbPzCNn9Vn-mrpEHwVt9IA.jpg?v=1753969985",
+          "filename": "kOnxgm31GBAXDTZuNueJghbPzCNn9Vn-mrpEHwVt9IA.jpg",
+          "alt": null,
+          "caption": "BAPE SK8 STA #1 MENS - A Bathing Ape product",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0638/2659/1966/files/ARIES-x-SOLOMAN-2025-11-057162.jpg?v=1763476870",
+          "filename": "ARIES-x-SOLOMAN-2025-11-057162.jpg",
+          "alt": null,
+          "caption": "ARIES x Salomon XT-Whisper Black Complex collaboration",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.shopify.com/s/files/1/0638/2659/1966/files/atmZJbOMUJEb8SyQF_ZwS8vmGHBQ5K2o0E-Ywig5s8I.jpg?v=1763651367",
+          "filename": "atmZJbOMUJEb8SyQF_ZwS8vmGHBQ5K2o0E-Ywig5s8I.jpg",
+          "alt": null,
+          "caption": "Product image from New Arrivals section",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:05:38.133179"
+}

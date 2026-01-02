@@ -1,0 +1,82 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.homeaglow.com/us/ca/el-cajon/house-cleaning/",
+  "file_id": "0995",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "house-cleaning",
+        "local-service",
+        "el-cajon",
+        "cleaning-services"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Homeaglow House Cleaning Services - El Cajon",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Find professional, affordable house cleaners near you in El Cajon, CA. Homeaglow offers top-rated, certified, and background-checked cleaners. Cleaners on Homeaglow are competing for your business, offering sharper prices than anywhere else. Easily rebook the same great cleaner, or try another. Homeaglow gives you direct contact with your cleaner. When it comes to finding professional, high-quality house cleaning services in El Cajon, Homeaglow is second to none. El Cajon cleaners on Homeaglow offer an honest, trustworthy, and reliable maid service focused on your satisfaction. Cleaners on Homeaglow clean thousands of homes daily and you can rely on them to provide the best house cleaning service in El Cajon and throughout California. Statistics show 460 cleaners in El Cajon, 349 cleanings every week in El Cajon, and 6980 5-star reviews in El Cajon. Featured cleaners include Erwin (4.9 stars, 708 reviews), Christopher (4.9 stars, 486 reviews), Cathi (4.8 stars, 143 reviews), Alyssa (4.8 stars, 389 reviews), Kimberly (5.0 stars, 350 reviews), Mary (4.0 stars, 154 reviews), Carlos (4.9 stars, 313 reviews), Nicholas (5.0 stars, 252 reviews), Yessenia (4.7 stars, 220 reviews), and Georgina (4.9 stars, 202 reviews). Customer reviews highlight thorough, professional cleaners who leave homes spotless and smelling fresh.",
+    "with": [
+      "Find professional, affordable house cleaners near you in El Cajon, CA.",
+      "Cleaners on Homeaglow are competing for your business, offering sharper prices than anywhere else.",
+      "El Cajon cleaners on Homeaglow offer an honest, trustworthy, and reliable maid service focused on your satisfaction.",
+      "Cleaners on Homeaglow clean thousands of homes daily and you can rely on them to provide the best house cleaning service in El Cajon.",
+      "Featured cleaners include Erwin, Christopher, Cathi, Alyssa, Kimberly, Carlos, Nicholas, Yessenia, and Georgina with ratings from 4.0 to 5.0 stars."
+    ],
+    "without": [
+      "Cleaning Services dropdown navigation menu",
+      "Become a Cleaner and Help links",
+      "Sign In button",
+      "Cookie notice and privacy policy",
+      "Social media tracking pixels and analytics scripts"
+    ],
+    "images": {
+      "total_in_content": 39,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://d340nzc93vsu6w.cloudfront.net/pubredesign/img/city_new_hero.png",
+          "filename": "city_new_hero.png",
+          "alt": null,
+          "caption": "El Cajon city hero image",
+          "is_hero": true
+        },
+        {
+          "src": "https://homeaglow.s3.amazonaws.com/DX3TX24JBW59KUIMUCK1.jpg",
+          "filename": "DX3TX24JBW59KUIMUCK1.jpg",
+          "alt": "user-pick",
+          "caption": "Erwin - Top-rated cleaner with 4.9 stars and 708 reviews",
+          "is_hero": false
+        },
+        {
+          "src": "https://homeaglow.s3.amazonaws.com/prod_cp_profile_photo_103964.jpg",
+          "filename": "prod_cp_profile_photo_103964.jpg",
+          "alt": "user-pick",
+          "caption": "Christopher - Top-rated cleaner with 4.9 stars and 486 reviews",
+          "is_hero": false
+        },
+        {
+          "src": "https://d340nzc93vsu6w.cloudfront.net/pubredesign/img/front-view-young-woman.png",
+          "filename": "front-view-young-woman.png",
+          "alt": null,
+          "caption": "Woman with cleaning supplies",
+          "is_hero": false
+        },
+        {
+          "src": "https://d340nzc93vsu6w.cloudfront.net/pubredesign/img/cleaned_house.jpg",
+          "filename": "cleaned_house.jpg",
+          "alt": "cleaned_house",
+          "caption": "Cleaned house showing professional cleaning results",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:34:17.623254"
+}

@@ -1,27 +1,89 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.jbl.com/headphones/",
   "file_id": "0108",
-  "downloaded_at": "2025-12-20T18:19:57.834801",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "e-commerce",
+        "category",
+        "headphones",
+        "jbl"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Headphones - Buy Authentic Products at the Official JBL Shop",
     "author": null,
     "publish_date": null,
-    "main_content": "ROCK YOUR WORLD\nWhen you hear your top tracks with JBL’s signature sound and noise-cancelling tech—you’ll keep adding more to your queue.\n\nOver-Ear Headphones\nFrom big and bold to cool and compact—find the shape that fits your listening style with our selection of over-ear headphones.\n\nOn-Ear Headphones\nFrom big and bold to cool and compact, find the perfect on-ear headphones to match your style at the official JBL shop. Discover authentic sound today.\n\nKids' Headphones\nSafe, lightweight, and sized for kids, JBL headphones deliver legendary sound and fun for young music fans. Perfect for their listening needs!\n\nRefurbished Headphones\nRefurbished In-Ear, Over-Ear, Sport, True Wireless, Bluetooth, Noise-Cancelling, Wireless & Wired Headphones\n\nWired Headphones\nWired headphones for crystal-clear sound, just plug & play! Discover authentic quality at the official JBL shop.",
+    "main_content": "ROCK YOUR WORLD. When you hear your top tracks with JBL's signature sound and noise-cancelling tech—you'll keep adding more to your queue. Over-Ear Headphones: From big and bold to cool and compact—find the shape that fits your listening style with our selection of over-ear headphones. On-Ear Headphones: From big and bold to cool and compact, find the perfect on-ear headphones to match your style at the official JBL shop. Discover authentic sound today. Kids' Headphones: Safe, lightweight, and sized for kids, JBL headphones deliver legendary sound and fun for young music fans. Perfect for their listening needs! Refurbished Headphones: Refurbished In-Ear, Over-Ear, Sport, True Wireless, Bluetooth, Noise-Cancelling, Wireless & Wired Headphones. Wired Headphones: Wired headphones for crystal-clear sound, just plug & play! Discover authentic quality at the official JBL shop.",
     "with": [
-      "ROCK YOUR WORLD",
-      "When you hear your top tracks with JBL’s signature sound and noise-cancelling tech—you’ll keep adding more to your queue.",
-      "From big and bold to cool and compact—find the shape that fits your listening style with our selection of over-ear headphones.",
+      "Experience JBL's signature sound with noise-cancelling tech for an immersive listening experience.",
+      "Rock your world with JBL's signature sound and noise-cancelling technology.",
+      "Over-Ear Headphones: From big and bold to cool and compact—find the shape that fits your listening style.",
       "Safe, lightweight, and sized for kids, JBL headphones deliver legendary sound and fun for young music fans.",
       "Wired headphones for crystal-clear sound, just plug & play! Discover authentic quality at the official JBL shop."
     ],
     "without": [
-      "HOLIDAY GIFT GUIDE Shop Now",
-      "Free Shipping See Details",
+      "Free Shipping | See Details",
+      "Free Extended Returns | Exclusions Apply",
+      "Holiday Gift Guide | Shop Now",
       "SIGN UP FOR THE LATEST HARMAN NEWS & OFFERS!",
-      "View our Privacy Policy",
-      "Follow Us"
-    ]
+      "View our Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "https://www.jbl.com/on/demandware.static/-/Sites/default/dw548c5686/images/Catagory_inear8.jpg",
+          "filename": "Catagory_inear8.jpg",
+          "alt": "Headphones",
+          "caption": "Headphones & Earbuds with Built-In Microphone",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-siteCatalog_MULTI_US/default/dw6dbe95f5/categoryimage/JBL_Live_660NC_Lifestyle Image_01_Battery_Life_904x560px.jpg?sw=800&sh=400",
+          "filename": "JBL_Live_660NC_Lifestyle Image_01_Battery_Life_904x560px.jpg",
+          "alt": "Over-Ear Headphones",
+          "caption": "Over-Ear Headphones",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-siteCatalog_MULTI_US/default/dw0b19008d/JBL_TUNE_670NC_Lifestyle_Image_01_904x560.png?sw=800&sh=400",
+          "filename": "JBL_TUNE_670NC_Lifestyle_Image_01_904x560.png",
+          "alt": "On-Ear Headphones",
+          "caption": "On-Ear Headphones",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-siteCatalog_MULTI_US/default/dwa271e085/categoryimage/kids-headphones.jpg?sw=800&sh=400",
+          "filename": "kids-headphones.jpg",
+          "alt": "Kids' Headphones",
+          "caption": "Kids' Headphones",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-siteCatalog_MULTI_US/default/dw058c1670/categoryimage/refurb-catbanner.jpg?sw=800&sh=400",
+          "filename": "refurb-catbanner.jpg",
+          "alt": "Refurbished Headphones",
+          "caption": "Refurbished Headphones",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-siteCatalog_MULTI_US/default/dwced2e7e7/categoryimage/JBL_Tune_310C_Lifestyle Image_Black_904x560.jpg?sw=800&sh=400",
+          "filename": "JBL_Tune_310C_Lifestyle Image_Black_904x560.jpg",
+          "alt": "Wired Headphones",
+          "caption": "Wired Headphones",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:19:57.834810"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:30:14.944870"
 }

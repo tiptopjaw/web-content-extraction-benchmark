@@ -1,27 +1,60 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.wearefoundingfarmers.com/catering/",
   "file_id": "1227",
-  "downloaded_at": "2025-12-20T21:03:22.265946",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "catering",
+        "events",
+        "restaurant"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Founding Farmers Co. Catering & Events",
+    "title": "Founding Farmers Catering | Founding Farmers",
     "author": null,
     "publish_date": null,
-    "main_content": "OFF-SITE FULL SERVICE EVENT CATERING + DROP OFF CATERING\n\nFounding Farmers Co. Catering & Events\n\nOur food, drink, and hospitality now goes beyond our restaurants to your home, office, and any venue of your choice. With Founding Farmers Co. Catering & Events, our team can help plan your event from start to finish, including customized menus, event design, service teams, bartenders, and more. We also offer drop off catering for office events, parties, and beyond.\n\nLearn More About Off-Site Catering & Events\n\nBest Restaurant Private Dining\n\nLarge Parties & Private Dining at Founding Farmers\n\nLooking to plan an event in one of our restaurants? Our restaurant teams are happy to plan your next event around our tables. Check out our large parties and private dining information for more details.",
+    "main_content": "Founding Farmers Co. Catering & Events offers off-site full-service event catering and drop-off catering. Our food, drink, and hospitality now goes beyond our restaurants to your home, office, and any venue of your choice. With Founding Farmers Co. Catering & Events, our team can help plan your event from start to finish, including customized menus, event design, service teams, bartenders, and more. We also offer drop-off catering for office events, parties, and beyond. For large parties and private dining at our restaurants, our restaurant teams are happy to plan your next event around our tables. We serve award-winning fried chicken and waffles.",
     "with": [
       "Our food, drink, and hospitality now goes beyond our restaurants to your home, office, and any venue of your choice.",
       "With Founding Farmers Co. Catering & Events, our team can help plan your event from start to finish, including customized menus, event design, service teams, bartenders, and more.",
       "We also offer drop off catering for office events, parties, and beyond.",
       "Looking to plan an event in one of our restaurants? Our restaurant teams are happy to plan your next event around our tables.",
-      "Check out our large parties and private dining information for more details."
+      "We serve award-winning fried chicken and waffles."
     ],
     "without": [
-      "Reserve A Table",
-      "Menu | Locations | Large Groups & Private Dining | About | Jobs | Buy",
-      "We serve award-winning fried chicken and waffles.",
-      "You’re gonna want to get our newsletter. We will never send you junk or share your information.",
-      "© 2025 Founding Farmers"
-    ]
+      "Subscribe to newsletter",
+      "Copyright 2025 Founding Farmers",
+      "Reserve A Table button",
+      "Order Now button",
+      "Footer location links"
+    ],
+    "images": {
+      "total_in_content": 4,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://www.wearefoundingfarmers.com/wp-content/uploads/2024/05/Untitled-design-5-1200x800.jpg",
+          "filename": "Untitled-design-5-1200x800.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://www.wearefoundingfarmers.com/wp-content/uploads/2020/08/Contact_Header_02-600x1067.jpg",
+          "filename": "Contact_Header_02-600x1067.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:03:22.265953"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:12:28.994349"
 }

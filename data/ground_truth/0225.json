@@ -1,27 +1,95 @@
 {
+  "schema_version": "2.0",
   "url": "https://turbotax.intuit.com/personal-taxes/online/live/full-service/",
   "file_id": "0225",
-  "downloaded_at": "2025-12-20T19:23:04.137961",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "tax-services",
+        "tax-preparation",
+        "financial-services"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "TurboTax Expert Full Service | Get a Tax Expert to File Your Taxes",
     "author": null,
     "publish_date": null,
-    "main_content": "Limited-time offer\nAn expert files for you. $150, all in.\nIncludes all tax situations. Applies if a TurboTax expert didn't file for you last year. File by 2/28. Offer details\nMeet with a local expert in person or online\nWhether your expert files for you in person or online, they’ll get every tax break you deserve and your taxes done 100% right—guaranteed.\nWork with your perfect tax match every year\nOnce you’ve found a tax expert who understands your needs, you’ll never have to start over. Year after year, you can have your same trusted expert file for you.\nUnlimited expert help\nGet unlimited tax help whenever you need it. Our experts are standing by, even on nights and weekends during tax season.\nOur experts are ready to help\nAn expert matched to your unique needs will file for you and get your best tax outcome possible.\nGetting started is easy\nFirst, match with an expert\nGet matched with a dedicated expert who knows your situation—and handles taxes your way, in person or online.\nSee your price upfront\nSwitch to Expert Full Service and let an expert handle your taxes for just $150—including all tax forms.\nHand off to your expert\nUpload your docs, then your expert takes it from there. Hop on a welcome call for extra support.\nGet support on your schedule\nWe’re not your 9-to-5 tax shop. Connect with your expert even on nights and weekends during tax season. Track their progress and see them finish as soon as January 6.\nThey file. You get every dollar you deserve.\nWhen your return is finished, your expert will walk you through the details and answer any questions. They’ll file for you with 100% accuracy and audit support, guaranteed.\nKeep your expert next year\nThe best part? You can choose to work with the same expert again—someone who already knows you and your taxes.\nRead why our customers love TurboTax Expert Full Service\nRated 4.8 out of 5 stars by our customers\n(4.8/5 | 70,386 reviews)\nStar ratings are from 2025. Product names have been updated to reflect equivalent 2025 product listings. To see more, visit this help page.\nTurboTax Expert Full Service - worth it\n\"This year our tax situation became a bit more complex so I opted for TurboTax Expert Full Service. The software interface was easy to use, and the tax expert I worked with was knowledgeable and helpful. She helped me get our taxes filed the same day I started the service.\"\nNJ1805, California\n2024 Expert Full Service\nFantastic experience\n\"I had a challenging professional and personal year, so I signed up for TurboTax Expert Full Service. I created an account and uploaded all of my documents quickly. Within minutes, I was connected with a tax expert, Sabrina, who made the entire filing experience enjoyable. I'm so grateful for her helpfulness and the outstanding service from TurboTax.\"\nShep65, Texas\n2024 Expert Full Service\nSwitched to TurboTax\n\"My tax expert helped me gather and understand the missing financial documents that I needed and were able to complete my tax return in the same day.\"\nTurb2210, Massachusetts\n2024 Expert Full Service\nGet your taxes done right and your biggest tax refund—guaranteed\nYour tax return, backed for lifeTM\n100% accurate calculations, audit support, and your max refund. All backed for the full 7-year life of your tax return.\nYour best tax outcome\nWhether you file yourself or get expert help, you’ll get your maximum refund guaranteed, or your money back.\nTaxes done right\nTurboTax calculations are 100% accurate so your taxes will be done right, guaranteed, or we'll pay you any IRS penalties.\nFrequently asked questions\nLearn more about each way of doing your taxes\nWhat are the differences between TurboTax Expert Assist and TurboTax Expert Full Service?\nWith Expert Full Service, you’re matched to a dedicated tax expert who will do your taxes, start to finish, and review them with you before filing. Where available, you will have the option to work with a local expert in person. You may see this option after starting with Expert Full Service if it’s available in your area.\nWith Expert Assist, a team of tax experts is available to provide you with unlimited answers and advice as you do your taxes, and can review your return before you file.\nWhen is my tax expert available?\nAfter you’re matched with your dedicated Expert Full Service tax expert, they’ll share the hours they’re available. If you need help when your Expert Full Service tax expert is unavailable, you can reach our other Expert Full Service experts 7 days a week from 5 AM to 9 PM PT from January 5 to April 20, 2026. Outside of tax season, our experts are available Monday-Friday from 5 AM through 5 PM PT.\nHow do I communicate with my tax expert?",
+    "main_content": "TurboTax Expert Full Service offers tax experts who will file your taxes for you. For $150, all tax situations are included when you file by 2/28. You can meet with a local expert in person or work with one online. Experts will get every tax break you deserve and your taxes done 100% right—guaranteed. Once you find a tax expert who understands your needs, you can work with the same trusted expert year after year. Unlimited tax help is available whenever you need it, even on nights and weekends during tax season. The service includes a matching process to find an expert specialized in your specific tax situation including stocks, crypto, property tax, and dependent credits. Getting started involves matching with an expert, seeing your price upfront, handing off your documents to your expert, getting support on your schedule, and having your expert file for you with 100% accuracy. The service offers several guarantees including your tax return backed for life, your maximum refund guaranteed, and 100% accurate calculations with reimbursement for any IRS penalties.",
     "with": [
       "An expert files for you. $150, all in.",
-      "Whether your expert files for you in person or online, they’ll get every tax break you deserve and your taxes done 100% right—guaranteed.",
-      "Once you’ve found a tax expert who understands your needs, you’ll never have to start over. Year after year, you can have your same trusted expert file for you.",
+      "Whether your expert files for you in person or online, they'll get every tax break you deserve and your taxes done 100% right—guaranteed.",
+      "Once you've found a tax expert who understands your needs, you'll never have to start over.",
       "Get unlimited tax help whenever you need it. Our experts are standing by, even on nights and weekends during tax season.",
-      "An expert matched to your unique needs will file for you and get your best tax outcome possible."
+      "They'll file for you with 100% accuracy and audit support, guaranteed."
     ],
     "without": [
-      "File your taxes",
-      "Business taxes",
-      "Refunds & loans",
-      "Resources",
-      "Pricing"
-    ]
+      "Skip To Main Content",
+      "Sign up",
+      "Sign in",
+      "Search",
+      "TurboTax Support and community"
+    ],
+    "images": {
+      "total_in_content": 33,
+      "annotated_count": 7,
+      "items": [
+        {
+          "src": "https://digitalasset.intuit.com/content/dam/intuit/cg/en_us/marketing/campaigns/full-service-150-offer/hero-half-andrew-tax-expert-v2-xs.png",
+          "filename": "hero-half-andrew-tax-expert-v2-xs.png",
+          "alt": "Andrew, a full service tax expert with 17 years of experience, is ready to file your taxes.",
+          "caption": "Andrew, a full service tax expert with 17 years of experience, is ready to file your taxes.",
+          "is_hero": true
+        },
+        {
+          "src": "https://digitalasset.intuit.com/render/content/dam/intuit/cg/en_us/marketing/how-it-works-pages/full-service/expert-full-service-how-it-works-match-local-online-side-by-side-sm.jpg",
+          "filename": "expert-full-service-how-it-works-match-local-online-side-by-side-sm.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://digitalasset.intuit.com/render/content/dam/intuit/cg/en_us/marketing/how-it-works-pages/full-service/expert-full-service-match-specialization-marquee-sm.jpg",
+          "filename": "expert-full-service-match-specialization-marquee-sm.jpg",
+          "alt": "Get matched with Sahar, a TurboTax Full Service Expert with 25 years of experience. She specializes in Stocks, Crypto, Property tax, and Dependent credits.",
+          "caption": "Get matched with Sahar, a TurboTax Full Service Expert with 25 years of experience. She specializes in Stocks, Crypto, Property tax, and Dependent credits.",
+          "is_hero": false
+        },
+        {
+          "src": "https://digitalasset.intuit.com/render/content/dam/intuit/cg/en_us/marketing/how-it-works-pages/full-service/expert-full-service-getting-started-side-by-side-sm.jpg",
+          "filename": "expert-full-service-getting-started-side-by-side-sm.jpg",
+          "alt": "Kitty, A TurboTax expert with 16 years of experience, reviewing your taxes with you before she files them on your behalf.",
+          "caption": "Kitty, A TurboTax expert with 16 years of experience, reviewing your taxes with you before she files them on your behalf.",
+          "is_hero": false
+        },
+        {
+          "src": "https://digitalasset.intuit.com/content/dam/intuit/cg/en_us/brand/badges/LifetimeEnglish-160.svg",
+          "filename": "LifetimeEnglish-160.svg",
+          "alt": "Lifetime tax return guarantee",
+          "caption": "Lifetime tax return guarantee",
+          "is_hero": false
+        },
+        {
+          "src": "https://digitalasset.intuit.com/content/dam/intuit/cg/en_us/brand/badges/GB_Maximum_Refund_Eng_160.svg",
+          "filename": "GB_Maximum_Refund_Eng_160.svg",
+          "alt": "Maximum refund guarantee",
+          "caption": "Maximum refund guarantee",
+          "is_hero": false
+        },
+        {
+          "src": "https://digitalasset.intuit.com/content/dam/intuit/cg/en_us/brand/badges/AccCalc-English-160.svg",
+          "filename": "AccCalc-English-160.svg",
+          "alt": "100% accurate calculations guarantee",
+          "caption": "100% accurate calculations guarantee",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T19:23:04.137971"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:28:07.020671"
 }

@@ -1,27 +1,61 @@
 {
+  "schema_version": "2.0",
   "url": "https://dlr.skift.com/issues/",
   "file_id": "1605",
-  "downloaded_at": "2025-12-20T22:26:11.739104",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "news",
+        "lodging",
+        "hotel",
+        "archive"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Latest News",
+    "title": "Issues - Daily Lodging Report",
     "author": null,
     "publish_date": null,
-    "main_content": "Service Properties Trust sold 5 hotels with a total of 679 keys located in four states for a combined price of $47 million. Plus, more hotel deal news.\n\nNew hotel openings include Hilton's Slackline Moab, Hyatt Place Bozeman and Sonesta's Dry Creek Inn; Shamin breaks ground on 270-room Virginia project.\n\nPark Hotels & Resorts sold five non-core properties for $198 million and exited three others on expiring ground leases this year. Plus more hotel deal news.\n\nThe Park Hyatt Tokyo has reopened following a 19-month restoration. Plus, more hotel business news.\n\nLoews Hotels will build a $410 million luxury hotel in Arlington, Texas, replacing the existing Sheraton Arlington Hotel by September 2026. Plus, more hotel development news.\n\nJLL recently increased its 2025 forecast for Vietnamese hotel investment volume by 25% to $125 million, reflecting a strong belief in the market's growth. Plus, more hotel development news.\n\nHyatt to open Miraval Red Sea in Q1 2026, expand Park Hyatt to five locations, and rebrand Andaz Mayakoba as Alila in Feb 2026. Plus, more hotel development news.\n\nPebblebrook Hotel Trust has completed the sale of the 752-room Westin Michigan Avenue Chicago in Chicago, for $72 million. Plus, more hotel development news.\n\nHotel bookings from China dropped by by more than half the week after the Chinese government's advisory against visiting Japan. Plus, hotel development news.\n\nMarriott and Hyatt revealed their luxury pipelines for 2026 at ILTM, plus more hotel development news.\n\nMarriott adds hotels in Japan, Thailand, and Malaysia. Plus more hotel development news.\n\nBlackstone has closed its acquisition of the 277-room Four Seasons Hotel San Francisco. Plus, other hotel development news.",
+    "main_content": "Latest News: Service Properties Trust sold 5 hotels with a total of 679 keys located in four states for a combined price of $47 million. Plus, more hotel deal news. The Latest Hotel Development & Deal News: New hotel openings include Hilton's Slackline Moab, Hyatt Place Bozeman and Sonesta's Dry Creek Inn; Shamin breaks ground on 270-room Virginia project. Park Hotels & Resorts sold five non-core properties for $198 million and exited three others on expiring ground leases this year. Plus more hotel deal news. The Park Hyatt Tokyo has reopened following a 19-month restoration. Plus, more hotel business news. Loews Hotels will build a $410 million luxury hotel in Arlington, Texas, replacing the existing Sheraton Arlington Hotel by September 2026. Plus, more hotel development news. JLL recently increased its 2025 forecast for Vietnamese hotel investment volume by 25% to $125 million, reflecting a strong belief in the market's growth. Plus, more hotel development news. Hyatt to open Miraval Red Sea in Q1 2026, expand Park Hyatt to five locations, and rebrand Andaz Mayakoba as Alila in Feb 2026. Plus, more hotel development news. Pebblebrook Hotel Trust has completed the sale of the 752-room Westin Michigan Avenue Chicago in Chicago, for $72 million. Plus, more hotel development news. Hotel bookings from China dropped by more than half the week after the Chinese government's advisory against visiting Japan. Plus, hotel development news. Marriott and Hyatt revealed their luxury pipelines for 2026 at ILTM, plus more hotel development news. Marriott adds hotels in Japan, Thailand, and Malaysia. Plus more hotel development news. Blackstone has closed its acquisition of the 277-room Four Seasons Hotel San Francisco. Plus, other hotel development news.",
     "with": [
       "Service Properties Trust sold 5 hotels with a total of 679 keys located in four states for a combined price of $47 million.",
-      "Park Hotels & Resorts sold five non-core properties for $198 million and exited three others on expiring ground leases this year.",
+      "The Park Hyatt Tokyo has reopened following a 19-month restoration.",
       "Loews Hotels will build a $410 million luxury hotel in Arlington, Texas, replacing the existing Sheraton Arlington Hotel by September 2026.",
-      "Hyatt to open Miraval Red Sea in Q1 2026, expand Park Hyatt to five locations, and rebrand Andaz Mayakoba as Alila in Feb 2026.",
+      "JLL recently increased its 2025 forecast for Vietnamese hotel investment volume by 25% to $125 million.",
       "Blackstone has closed its acquisition of the 277-room Four Seasons Hotel San Francisco."
     ],
     "without": [
-      "Daily Lodging Report",
-      "Subscribe",
-      "Advertisement text",
-      "© 2025 Skift All rights reserved",
-      "Privacy Policy Terms of Service"
-    ]
+      "Subscribe to newsletter",
+      "Copyright 2025 Skift",
+      "Privacy Policy link",
+      "Navigation menu items",
+      "Social media links"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://dlr.skift.com/wp-content/uploads/2025/12/oyalton-Riviera-Cancun-An-Autograph-Collection-All-Inclusive-Resort-and-Casino.jpg?w=1024",
+          "filename": "oyalton-Riviera-Cancun-An-Autograph-Collection-All-Inclusive-Resort-and-Casino.jpg",
+          "alt": "aerial view of a sunny all-inclusive resort",
+          "caption": "aerial view of a sunny all-inclusive resort",
+          "is_hero": true
+        },
+        {
+          "src": "https://dlr.skift.com/wp-content/uploads/2025/12/Miraval-the-Red-Sea-exterior-at-sunrise.jpg?w=1024",
+          "filename": "Miraval-the-Red-Sea-exterior-at-sunrise.jpg",
+          "alt": "image of a luxury resort exterior at sunrise",
+          "caption": "image of a luxury resort exterior at sunrise",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:26:11.739111"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:28:49.303462"
 }

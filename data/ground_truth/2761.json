@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://academics.utdallas.edu/degrees",
+  "file_id": "2761",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "university",
+        "academics",
+        "degree-programs",
+        "directory"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Degrees - Academics | The University of Texas at Dallas",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Degrees offered at The University of Texas at Dallas. Academic programs are organized by school and degree level including Bachelors, Masters, Doctoral, and Professional programs. Schools and programs include Harry W. Bass Jr. School of Arts, Humanities, and Technology, School of Behavioral and Brain Sciences, School of Economic, Political and Policy Sciences, Erik Jonsson School of Engineering and Computer Science, School of Interdisciplinary Studies, Naveen Jindal School of Management, School of Natural Sciences and Mathematics, and Joint Programs. Filter by degree type and school to find programs such as Accounting, Actuarial Science, Animation, Biomedical Engineering, Business Administration, Computer Science, Criminology, Data Science, Economics, Electrical Engineering, and many more.",
+    "with": [
+      "The University of Texas at Dallas > Academics > Degrees",
+      "Degrees",
+      "SEARCH FILTERS",
+      "All Schools and Programs",
+      "STEM-Designated"
+    ],
+    "without": [
+      "Skip to main content",
+      "Make a Gift",
+      "Info For Menu",
+      "Galaxy Login",
+      "Email"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://academics.utdallas.edu/files/2025/07/Skybridge-Fall-Gray-2.png",
+          "filename": "Skybridge-Fall-Gray-2.png",
+          "alt": "skybridge and trees",
+          "caption": "UT Dallas campus skybridge with trees",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:33:27.688553"
+}

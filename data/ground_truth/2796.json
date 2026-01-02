@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.derekseaman.com/2025/12/home-assistant-track-whos-in-each-room-with-esphome-bermuda-ble.html",
+  "file_id": "2796",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "smart-home",
+        "home-assistant",
+        "esphome",
+        "ble",
+        "tutorial"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Home Assistant: Track Who's in Each Room with ESPHome + Bermuda BLE",
+    "author": "Derek Seaman",
+    "publish_date": "2025-12-13",
+    "main_content": "Unlike general presence detection, room-based location detection with Bluetooth can tell you who, or what, is in each room. This is great for highly customized automations with Home Assistant, that could, for example, set room lighting or the temperature based on who is in the room not just the mere fact that anyone is in the room. You could also get really advanced and setup your Home Assistant dashboard to automatically change on your phone based on which room you are currently in.\n\nIt's not rocket science to use Home Assistant with Bermuda BLE Trilateration with cheap ESP32 devices running ESPHome used as Bluetooth proxies to setup room-level presence detection with person (or pet) awareness. An alternative to Bermuda BLE Trilateration is using ESPResense, which requires dedicated ESP32s. I found it much harder to configure and tweak than Bermuda BLE.\n\nA Bluetooth proxy is a device running ESPHome that acts as a Bluetooth listener for Home Assistant. Instead of relying on your Home Assistant server's built-in Bluetooth (which has limited range), these proxies extend Bluetooth coverage throughout your home. Each proxy listens for Bluetooth Low Energy (BLE) beacons transmitted by your phone, smart watch or tracking tags. By measuring the signal strength (RSSI) of these beacons at multiple proxy locations, Home Assistant can determine which room you're in.\n\nThe Seeed Xiao ESP32-C6 is a great device at $5 USD. The built-in PCB based Bluetooth/Wi-Fi antenna on the C3 and C6 is quite poor. I'm using their 'A-01' external antenna with great success.\n\nPrivate Bluetooth Addresses: Many modern smart devices—including iPhones and Apple Watches—use Bluetooth Resolvable Private Addresses (RPA) to protect your privacy. The solution is Private BLE Device tracking in Home Assistant. By obtaining your device's Identity Resolving Key (IRK), Home Assistant can identify which rotating addresses belong to your device, enabling reliable presence detection at home without compromising your privacy protection elsewhere.\n\nThe Bermuda BLE Trilateration Github page has very detailed installation and configuration instructions. I installed it via HACS in just a few clicks. If you already have all of your ESPHome devices deployed and IRKs loaded, you are now ready to tweak the Bermuda BLE configuration for room-level presence sensing.\n\nI created a custom template sensor which combines both my ESPHome determined location, plus my location as determined by Home Assistant with the HA companion app on my iPhone. This means when I am 'home' that the sensor will tell me which room I'm in. If I'm not home, then it will display a variety of states such as which zone I'm in or the fact that I'm 'away'.\n\nBy using ESPHome Bluetooth proxy devices sprinkled around your home, you can enable person-specific room-level tracking for very cool Home Assistant automations.",
+    "with": [
+      "Unlike general presence detection, room-based location detection with Bluetooth can tell you who, or what, is in each room.",
+      "A Bluetooth proxy is a device running ESPHome that acts as a Bluetooth listener for Home Assistant.",
+      "By obtaining your device's Identity Resolving Key (IRK), Home Assistant can identify which rotating addresses belong to your device.",
+      "The Bermuda BLE Trilateration Github page has very detailed installation and configuration instructions.",
+      "I created a custom template sensor which combines both my ESPHome determined location, plus my location as determined by Home Assistant with the HA companion app on my iPhone."
+    ],
+    "without": [
+      "Derek Seaman's Tech Blog",
+      "Skip to content",
+      "Buy me a coffee",
+      "Subscribe to newsletter",
+      "Related Posts"
+    ],
+    "images": {
+      "total_in_content": 25,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://www.derekseaman.com/wp-content/uploads/2025-12-12_12-16-37-300x261.jpg",
+          "filename": "2025-12-12_12-16-37-300x261.jpg",
+          "alt": null,
+          "caption": "Seeed ESP32-C6 Bluetooth Proxy",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.derekseaman.com/wp-content/uploads/2025-12-12_13-11-13.jpg",
+          "filename": "2025-12-12_13-11-13.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.derekseaman.com/wp-content/uploads/img_9952-large-1024x616.jpeg",
+          "filename": "img_9952-large-1024x616.jpeg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.derekseaman.com/wp-content/uploads/2025-12-12_13-34-41.jpg",
+          "filename": "2025-12-12_13-34-41.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.derekseaman.com/wp-content/uploads/2025-12-12_13-49-45.jpg",
+          "filename": "2025-12-12_13-49-45.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.derekseaman.com/wp-content/uploads/2025-12-12_13-59-20.jpg",
+          "filename": "2025-12-12_13-59-20.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.derekseaman.com/wp-content/uploads/2025-12-12_14-03-46.jpg",
+          "filename": "2025-12-12_14-03-46.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.derekseaman.com/wp-content/uploads/2025-12-14_08-06-04.jpg",
+          "filename": "2025-12-14_08-06-04.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.derekseaman.com/wp-content/uploads/2025-12-12_20-26-55-1024x445.jpg",
+          "filename": "2025-12-12_20-26-55-1024x445.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.derekseaman.com/wp-content/uploads/2025-12-12_20-46-18.jpg",
+          "filename": "2025-12-12_20-46-18.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:59:32.615765"
+}

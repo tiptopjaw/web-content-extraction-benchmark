@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.pestprosps.com/offers/",
+  "file_id": "2110",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "pest-control",
+        "coupons",
+        "offers",
+        "discounts"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Pest Control Coupons Sacramento CA | Pest Pros Pest Solutions",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Pest Pros Pest Solutions offers special coupons and discounts for pest control services in Sacramento, CA. Current available offers include: 50% OFF Initial Service when you sign up for a monthly subscription service (valid Feb 1, 2024 - Dec 31, 2026, not valid on rodent control programs), $100 OFF Rodent Proofing when rodent proofing and trapping program are purchased together (valid Feb 1, 2024 - Dec 31, 2026), 50% OFF Initial Mosquito Service (valid Mar 1, 2024 - Dec 25, 2026, cannot be combined with other offers), and $100 credit for Refer A Friend program where you receive credit for every referral that signs up for monthly subscription (valid Mar 1, 2024 - Dec 31, 2026). Each coupon can be shared via text, email, or printed.",
+    "with": [
+      "50% OFF Initial Service when you sign up for a monthly subscription service",
+      "$100 OFF Rodent Proofing when rodent proofing and trapping program are purchased together",
+      "50% OFF Initial Mosquito Service",
+      "$100 credit for Refer A Friend program",
+      "When you sign up for monthly subscription service"
+    ],
+    "without": [
+      "Skip to Content",
+      "Call Us Today! 916-588-9345",
+      "Follow Us on Facebook, Instagram, LinkedIn, Yelp, Google",
+      "Pest Pros Pest Solutions Same-Day Services",
+      "© 2025 All Rights Reserved"
+    ],
+    "images": {
+      "total_in_content": 6,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "/assets/pack/background/banner-branded.2411220754549.jpg",
+          "filename": "banner-branded.2411220754549.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:40:48.320574"
+}

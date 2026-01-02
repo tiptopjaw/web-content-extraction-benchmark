@@ -1,27 +1,110 @@
 {
+  "schema_version": "2.0",
   "url": "https://centerforyogala.com/pricing/",
   "file_id": "0962",
-  "downloaded_at": "2025-12-20T20:59:36.530836",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "yoga",
+        "membership",
+        "pricing",
+        "fitness"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Pricing & Memberships",
+    "title": "Memberships - Yoga Prices - Center For Yoga",
     "author": null,
     "publish_date": null,
-    "main_content": "Pricing & Memberships\nNew Membership offers\nIf you have questions about our membership options, please contact our staff by email or phone.\n\nIn Studio Pricing\nMonthly\n$180 / mo\nPracticing 2x/week or more\nMember Benefits\n3 month commitment\nUnlimited access to 75+ weekly classes\nRetail Discounts\n14 yearly guest passes\nReferral Discounts\nWorkshop Discounts\nOptional Mat & Towel Add Ons\n\nAnnual Membership\n$2,040 / yr\nCommit to your practice for 1 year\nMember Benefits\nUnlimited access to 75+ weekly classes\nRetail Discounts\n14 yearly guest passes\nReferral Discounts\nOptional Mat & Towel Add Ons\n\nFitness Room Membership\n$75 / mo\nWhere strength meets serenity\nBenefits\nUnlimited access\nRetail Discounts\nOptional Mat & Towel Add Ons\nContact Studio for\nAdd ons:\nDiscounted Buddy Rates\nDay Passes\nHybrid Fitness Room + Yoga Memberships\n\nFitness Annual Membership\n$799 / yr\nCommit to your fitness for 1 year\nMember Benefits\nUnlimited access\nRetail Discounts\nOptional Mat & Towel Add Ons\nContact Studio for\nAdd Ons:\nDiscounted Buddy Rates\nDay Passes\nHybrid Fitness Room + Yoga Memberships\n\nLivestream Pricing\nMonthly\n$108 / mo\nCFYLA Livestream Membership\nMember Benefits\nFree access to over 100 Interactive classes a month via Zoom\nCancel any time after the initial three-month commitment\nEasily Manage Your Booking Online or Over the Phone\n\nÀ la carte\n$119 / 30 days\nCFYLA Livestream Membership (30 Days)\nMember Benefits\nFree access to over 160 Interactive classes a month via Zoom\nExpires 30 days after you take your first class\nActivated when you take your first class\n\n10 Class Pack\n$149 / for 10 classes\nCFYLA Livestream Class Pack\nPack Benefits\nFree access to over 160 Interactive classes a month via Zoom\nExpires 3 months after you take your first class\nBooking uses a credit. The recording sent to you is available for 48 hours.\n\nClass Packs\nSingle Class\n$35 / per class\nSingle Class Pack\nDropping in\nAccess to all in-studio yoga and fitness classes\nNon-Transferable\nNever expires\n\nClass Packs\nMultiple Options\nThe more classes you buy, the lower your per-class rate.\nPracticing 1x or less\n5 Class Pack\n10 Class Pack\n15 Class Pack\n20 Class Pack\nNever expires\nActive for 6 months. Reactivate anytime for a small fee.\n\nNo Commitment\nNo Commitment Monthly Membership\nOne Month – No Commitment\n$300 / mo\nNo Commitment Membership\nMember Benefits",
+    "main_content": "Pricing and Membership options at Center For Yoga. In Studio Pricing: Monthly Membership at $180/month for those practicing 2x/week or more with 3-month commitment, unlimited access to 75+ weekly classes, retail discounts, 14 yearly guest passes, referral discounts, workshop discounts, and optional mat & towel add-ons. Annual Membership at $2,040/year with unlimited classes and benefits. Fitness Room Membership at $75/month where strength meets serenity with unlimited access. Fitness Annual Membership at $799/year. Livestream Pricing: CFYLA Livestream Membership at $108/month with free access to 100+ interactive classes via Zoom, cancel anytime after 3-month commitment. 30-Day Membership at $119 for 30 days with access to 160+ classes. 10 Class Pack at $149 for 10 classes with 3-month expiration. Class Packs: Single Class at $35 per class, drop-in access to all in-studio yoga and fitness classes. Multiple class pack options available at discounted rates. No Commitment options available.",
     "with": [
-      "Pricing & Memberships",
-      "If you have questions about our membership options, please contact our staff by email or phone.",
-      "Monthly: $180 / mo - Practicing 2x/week or more - Member Benefits: 3 month commitment, Unlimited access to 75+ weekly classes, Retail Discounts, 14 yearly guest passes, Referral Discounts, Workshop Discounts, Optional Mat & Towel Add Ons",
-      "Annual Membership: $2,040 / yr - Commit to your practice for 1 year - Member Benefits: Unlimited access to 75+ weekly classes, Retail Discounts, 14 yearly guest passes, Referral Discounts, Optional Mat & Towel Add Ons",
-      "Livestream Pricing: Monthly $108 / mo - CFYLA Livestream Membership - Member Benefits: Free access to over 100 Interactive classes a month via Zoom, Cancel any time after the initial three-month commitment, Easily Manage Your Booking Online or Over the Phone"
+      "Monthly Membership at $180/month for those practicing 2x/week or more with 3-month commitment",
+      "Unlimited access to 75+ weekly classes with retail discounts, 14 yearly guest passes, referral discounts, workshop discounts",
+      "Annual Membership at $2,040/year with unlimited access to all classes and member benefits",
+      "Livestream Membership at $108/month with free access to over 100 interactive classes via Zoom",
+      "Cancel any time after the initial three-month commitment for livestream membership"
     ],
     "without": [
       "Skip to content",
-      "About Yoga Gym Pricing Reviews Contact",
+      "Get 7 Day Unlimited Pass",
+      "Login / My Account",
       "CALL US TODAY",
-      "The latest workshops & events here!",
-      "Login / My Account"
-    ]
+      "The latest workshops & events here!"
+    ],
+    "images": {
+      "total_in_content": 12,
+      "annotated_count": 9,
+      "items": [
+        {
+          "src": "https://centerforyogala.com/wp-content/uploads/2023/10/CFY-Los-Angeles-Yoga-Group-Candid2.jpg",
+          "filename": "CFY-Los-Angeles-Yoga-Group-Candid2.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://centerforyogala.com/wp-content/uploads/2023/10/CFY-Los-Angeles-Yoga-Training-Marketing-Photos18.jpg",
+          "filename": "CFY-Los-Angeles-Yoga-Training-Marketing-Photos18.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://centerforyogala.com/wp-content/uploads/2023/11/20240323_CFY_185.jpg",
+          "filename": "20240323_CFY_185.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://centerforyogala.com/wp-content/uploads/2023/11/1724292486366-IMG_5512.jpg",
+          "filename": "1724292486366-IMG_5512.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://centerforyogala.com/wp-content/uploads/2023/11/1738553621943-IMG_2649-scaled.jpg",
+          "filename": "1738553621943-IMG_2649-scaled.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://centerforyogala.com/wp-content/uploads/2023/11/2636232.jpg",
+          "filename": "2636232.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://centerforyogala.com/wp-content/uploads/2025/07/Center-For-Yoga-October-2024-181_websize.jpg",
+          "filename": "Center-For-Yoga-October-2024-181_websize.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://centerforyogala.com/wp-content/uploads/2025/07/Center-For-Yoga-October-2024-103_websize-1.jpg",
+          "filename": "Center-For-Yoga-October-2024-103_websize-1.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://centerforyogala.com/wp-content/uploads/2023/10/CFY-Los-Angeles-Photoshoot-Yoga161.jpg",
+          "filename": "CFY-Los-Angeles-Photoshoot-Yoga161.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:59:36.530842"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:23:51.079660"
 }

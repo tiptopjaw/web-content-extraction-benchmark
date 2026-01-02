@@ -1,25 +1,117 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.technewsworld.com/section/mobile-tech/smartphones",
   "file_id": "0949",
-  "downloaded_at": "2025-12-20T20:52:09.589609",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "mobile",
+        "smartphones",
+        "news"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Smartphones",
+    "title": "Smartphones | TechNewsWorld",
     "author": null,
     "publish_date": null,
-    "main_content": "Samsung Raises Foldable Ante With Galaxy Z TriFold\nDecember 3, 2025\nSamsung’s Galaxy Z TriFold debuts as the company’s most advanced foldable yet, pairing a redesigned dual-hinge system with upgraded materials and a 10-inch display that unfolds from a pocketable frame...\n\nApple’s ‘Awe Dropping’ Event: 5 Themes Beyond the Products\nSeptember 12, 2025\nApple’s ‘Awe Dropping’ event revealed more than new devices. Five key themes highlight Apple’s broader strategy, from design and AI to health tracking, shaping its direction for the holiday season and beyond.\n\nNew iPhone Air Steals Show at Apple Event\nSeptember 9, 2025\nApple’s thinnest iPhone yet, the iPhone Air, stole the spotlight at the company’s \"Awe Dropping\" September event with its sleek design and next-gen performance.\n\nSurvey Finds 30% of iPhone Owners Mulling Move to Rivals’ Foldables\nSeptember 3, 2025\nNearly one-third of iPhone owners say they might switch to foldable smartphones from Apple’s rivals if the company delays its own foldable release until 2026, a new survey shows.\n\nWith iPhone 17, Apple Reduces Its Dependency on China\nAugust 20, 2025\nFor nearly a decade, Apple has been trying to lessen its dependency on China for iPhone production. With the iPhone 17, it's taking a big step in that direction.\n\nSamsung Galaxy Fold7 Ushers In a New Era for Foldable Phones\nJuly 14, 2025\nWith its ultra-thin design, flagship camera, and real multitasking, Samsung’s Fold7 makes a strong case for leaving the iPad at home.\n\nCell Phone Satisfaction Tumbles to 10-Year Low in Latest ACSI Survey\nMay 21, 2025\nBattery life, call reliability, and ease of use top user concerns as U.S. smartphone satisfaction dips to decade-low levels, according to ACSI findings.\n\nMy 4 Gripes With Apple and Why WWDC Really Matters This Year\nMarch 28, 2025\nWhile Apple continues to lead in many areas, aspects of its ecosystem have begun to show signs of wear. These four gripes detail missed opportunities and areas for improvement for Apple in 2025.\n\nScreen Time of Americans Above Global Average: Study\nMarch 26, 2025\nWhile staring at screens for more than six hours a day may sound excessive, experts appear conflicted on the subject.\n\nHow the Galaxy S25 Ultra Finally Weaned Me Off My iPhone Addiction\nMarch 20, 2025\nI never thought this day would come. Seriously. After 18 years in Apple’s warm, minimalist embrace, I’ve crossed over to Samsung. And you know what? I’m not looking back.\n\nHow Deepfakes Are Undermining Mobile Commerce Security\nMarch 19, 2025\nDeepfake fraud is rapidly emerging as one of the most dangerous cyberthreats, eroding consumer trust in biometric authentication. AI-generated attacks manipulate Face ID and voice authentication to gain unauthorized access, steal payment details, and bypass traditional security measures, putting bot...\n\nNew HMD X1 ‘Safe’ Phone: Security for Parents, Cool Factor for Kids\nMarch 5, 2025\nWhile smartphones with built-in parental controls may give parents a measure of comfort, they're too uncool for kids. Human Mobile Devices (HMD) addresses that problem with its new HMD X1 phone.\n\nApple’s iPhone 16e Low-Key Launch Event: A Sign of Things To Come?\nFebruary 25, 2025\nApple's toned-down announcement of the iPhone 16e could mark a strategic shift in how the company approaches product differentiation within its lineup.\n\nApple, Samsung Users Unimpressed by AI on Their Phones: Survey\nDecember 18, 2024\nWhile artificial intelligence has energized the marketing departments of smartphone makers like Apple and Samsung, it isn't generating much enthusiasm among users, according to a new survey.\n\nStandout Tech Products of 2024\nDecember 16, 2024\nMany amazing products launched this year, and we’ll cover some of them. One product stood out well above the rest as revolutionary. What made it particularly special was that it was a bold bet that paid off and helped its manufacturer become one of, and for a time, the most valuable company in the...",
+    "main_content": "Smartphones category archive featuring technology news and analysis about mobile devices. Featured article: 'Samsung Raises Foldable Ante With Galaxy Z TriFold' - Samsung's Galaxy Z TriFold debuts as the company's most advanced foldable yet, pairing a redesigned dual-hinge system with upgraded materials and a 10-inch display that unfolds from a pocketable frame. Additional articles include coverage of Apple's 'Awe Dropping' event highlighting five key themes beyond new products; the new iPhone Air stealing the spotlight with its sleek design and next-gen performance; survey findings that 30% of iPhone owners are considering switching to rivals' foldables; analysis of how the iPhone 17 represents Apple's step toward reducing dependency on China; Samsung Galaxy Fold7 ushering in a new era for foldable phones; cell phone satisfaction tumbling to a 10-year low according to ACSI survey; four gripes with Apple and why WWDC matters; screen time of Americans above global average; how the Galaxy S25 Ultra weaned the author off iPhone addiction; deepfakes undermining mobile commerce security; HMD X1 'Safe' Phone addressing parental controls with cool factor for kids; Apple's iPhone 16e low-key launch as a potential strategic shift; Apple and Samsung users unimpressed by AI on their phones according to survey; standout tech products of 2024 review.",
     "with": [
-      "Samsung’s Galaxy Z TriFold debuts as the company’s most advanced foldable yet, pairing a redesigned dual-hinge system with upgraded materials and a 10-inch display that unfolds from a pocketable frame...",
-      "Apple’s ‘Awe Dropping’ event revealed more than new devices. Five key themes highlight Apple’s broader strategy, from design and AI to health tracking, shaping its direction for the holiday season and beyond.",
-      "Nearly one-third of iPhone owners say they might switch to foldable smartphones from Apple’s rivals if the company delays its own foldable release until 2026, a new survey shows."
+      "Samsung's Galaxy Z TriFold debuts as the company's most advanced foldable yet, pairing a redesigned dual-hinge system with upgraded materials and a 10-inch display that unfolds from a pocketable frame.",
+      "Apple's 'Awe Dropping' event revealed more than new devices. Five key themes highlight Apple's broader strategy, from design and AI to health tracking, shaping its direction for the holiday season and beyond.",
+      "Nearly one-third of iPhone owners say they might switch to foldable smartphones from Apple's rivals if the company delays its own foldable release until 2026, a new survey shows.",
+      "Battery life, call reliability, and ease of use top user concerns as U.S. smartphone satisfaction dips to decade-low levels, according to ACSI findings.",
+      "Deepfake fraud is rapidly emerging as one of the most dangerous cyberthreats, eroding consumer trust in biometric authentication."
     ],
     "without": [
-      "Our Full-Service B2B Marketing Programs Deliver Sales-Ready Leads » Learn More",
-      "ADVERTISEMENT",
-      "Engage with IT decision makers and key influencers.",
-      "Government bans on social media for teens are appropriate. Agree or disagree?",
-      "TechNewsWorld Channels"
-    ]
+      "Subscribe to newsletter",
+      "Copyright 2025 TechNewsWorld",
+      "Privacy Policy",
+      "Main navigation menu items",
+      "Advertisement banners and ad code"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://www.technewsworld.com/wp-content/uploads/sites/3/2025/12/Samsung-Galaxy-Z-Trifold-side-view.jpg",
+          "filename": "Samsung-Galaxy-Z-Trifold-side-view.jpg",
+          "alt": "Samsung Galaxy Z TriFold side view",
+          "caption": "Samsung Galaxy Z TriFold side view",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.technewsworld.com/wp-content/uploads/sites/3/2025/09/Apple-Awe-Dropping-event-300x156.jpg",
+          "filename": "Apple-Awe-Dropping-event-300x156.jpg",
+          "alt": "Attendees gather before Apple’s ‘Awe Dropping’ event at the Steve Jobs Theater in Cupertino, California, on Sep. 9, 2025.",
+          "caption": "Attendees gather before Apple's 'Awe Dropping' event at the Steve Jobs Theater",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.technewsworld.com/wp-content/uploads/sites/3/2025/09/Apple-iPhone-Air-profile-300x156.jpg",
+          "filename": "Apple-iPhone-Air-profile-300x156.jpg",
+          "alt": "Apple iPhone Air profile",
+          "caption": "Apple iPhone Air profile",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.technewsworld.com/wp-content/uploads/sites/3/2025/09/foldable-smartphone-300x156.jpg",
+          "filename": "foldable-smartphone-300x156.jpg",
+          "alt": "Book-style foldable smartphone",
+          "caption": "Book-style foldable smartphone",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.technewsworld.com/wp-content/uploads/sites/3/2025/08/India-China-300x156.jpg",
+          "filename": "India-China-300x156.jpg",
+          "alt": "India and China’s manufacturing divide reflects Apple’s shift of iPhone 17 production to South Asia.",
+          "caption": "India and China's manufacturing divide reflects Apple's shift of iPhone 17 production to South Asia",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.technewsworld.com/wp-content/uploads/sites/3/2025/07/TM-Roh-Samsung-Unpacked-300x156.jpg",
+          "filename": "TM-Roh-Samsung-Unpacked-300x156.jpg",
+          "alt": "Samsung’s TM Roh speaks onstage at Unpacked 2025, reinforcing the company’s vision for the future of foldables.",
+          "caption": "Samsung's TM Roh speaks onstage at Unpacked 2025, reinforcing the company's vision for the future of foldables",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.technewsworld.com/wp-content/uploads/sites/3/2024/01/smartphone-user-perplexed-300x156.jpg",
+          "filename": "smartphone-user-perplexed-300x156.jpg",
+          "alt": "dissatisfied smartphone user",
+          "caption": "dissatisfied smartphone user",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.technewsworld.com/wp-content/uploads/sites/3/2025/03/gripes-with-Apple-300x156.jpg",
+          "filename": "gripes-with-Apple-300x156.jpg",
+          "alt": "big gripes with Apple",
+          "caption": "big gripes with Apple",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.technewsworld.com/wp-content/uploads/sites/3/2025/03/Samsung-Galaxy-S25-Ultra-front-view-300x156.jpg",
+          "filename": "Samsung-Galaxy-S25-Ultra-front-view-300x156.jpg",
+          "alt": "Samsung Galaxy S25 Ultra front view",
+          "caption": "Samsung Galaxy S25 Ultra front view",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.technewsworld.com/wp-content/uploads/sites/3/2025/03/HMD-X1-smartphone-300x156.jpg",
+          "filename": "HMD-X1-smartphone-300x156.jpg",
+          "alt": "HMD X1 smartphone developed in partnership with Xplora",
+          "caption": "HMD X1 smartphone developed in partnership with Xplora",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:52:09.589617"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:19:30.197125"
 }

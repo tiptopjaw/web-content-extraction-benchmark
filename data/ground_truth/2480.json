@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.maximevidal.com/ai-sound-house",
+  "file_id": "2480",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "music",
+        "philosophy",
+        "theory",
+        "essay"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "The AI Sound House",
+    "author": null,
+    "publish_date": null,
+    "main_content": "I found a song I really liked. I played it 10,000 times. Then I didn't like it anymore. There's an episode of The Young Pope where Jude Law, playing a pope who is young, asks: 'Who is the most important author of the last 20 years?' And Lenny answers: 'Careful now, not the best, virtuosity is for the arrogant.' I keep on coming back to that distinction. It turns out to be useful for all sorts of things, music included. Consider John Cage's 4'33 or Luigi Russolo's As Slow As Possible whose adaptation is set to end in 2640, or Mieko-Chieko's boundary music. Hmm, not so clear then. Okay, so let's agree that music is sound that has been put together with some goal and can make you feel something. Now, most music is forgettable, let alone important. As our capacity to produce sound approaches infinity, as we drift toward something like the Music Library of Babel, we should expect the ratio to worsen. The good will remain what it has always been: the tiny fraction that makes certain neurons hold hands and skip rope. The ordinary amazing thing is that there's a pathway from sound to feeling. We don't need to understand the whole process to know that it works. This means we can build tools to explore the space of feelings with music. Igor Stravinsky wrote: 'I consider that music is, by its very nature, essentially powerless to express anything at all, whether a feeling, an attitude of mind, or psychological mood... Expression has never been an inherent property of music.' What he meant was: there's the music, and then there's the story you tell yourself about the music. These are not the same thing. Some of what happens when you hear music is intrinsic. It's in the sounds. The way a melody rises and falls, or the way a chord resolves or doesn't. Form. Structure. Tension and release. The rest is extrinsic. You heard this song when you were fourteen and the world was a door that hadn't opened yet. Why does music have this power? It's because music is not about anything. It does not point at experience from the outside. It is the experience. Oliver Sacks wrote that music, 'uniquely among the arts, is both completely abstract and profoundly emotional. It has no power to represent anything particular or external, but it has a unique power to express inner states or feelings. Music can pierce the heart directly; it needs no mediation.' When language fails, music succeeds. Leonard Bernstein noted that music 'can name the unnameable and communicate the unknowable'. When music works completely, you're at star melting level, you get something like what T. S. Eliot tried to describe: 'Music heard so deeply / That it is not heard at all, but you are the music / While the music lasts.' The transparent medium of language lets you forget the words and keep the meaning. The opaque medium of music lets you forget yourself and become the sound. Whatever music is for, one thing it does reliably is bring people together. On November 22, 1963, hours after the assassination of John F. Kennedy, Leonard Bernstein did not call for revenge. He called for music: 'This sorrow and rage will not inflame us to seek retribution; rather they will inflame our art. Our music will never again be quite the same. This will be our reply to violence: to make music more intensely, more beautifully, more devotedly than ever before.' When we wanted to explain ourselves to the cosmos, we sent music. The Voyager Golden Record, now almost one light day away from Earth, carries Bach and Beethoven, Chuck Berry and Blind Willie Johnson, Peruvian panpipes and Azerbaijani bagpipes. This is us, we said to outside-the-solar-system, please understand. Music is a particularly interesting case study by which to pick apart the information-theoretic aspects of valence. Musical features which add mathematical variations or imperfections to the structure of music seem to make music more addictive and allows us to find long-term pleasure in listening to it, by hacking the mechanic(s) by which the brain implements boredom. Tarab, in the Arabic tradition, names the particular ecstasy that arises when performer and listener become so entangled that the boundary dissolves. Dancing is one way of integrating music into the world. Music's circuit can integrate back into reality and terminate in the muscles, the joints, the sweat. It's been 100 years since The Art of Noises was written by composer Luigi Russolo. He was tired of existing instruments: 'Who can hope to discover any new emotions in these instruments? The only emotion that they can still produce is that of widening the mouth into an inevitable yawn!' Notation, the writing out of compositions, is primarily an ingenious expedient for catching an inspiration, with the purpose of exploiting it later. But notation is to improvisation as the portrait to the living model. It is for the interpreter to resolve the rigidity of the signs into the primitive emotion.",
+    "with": [
+      "I consider that music is, by its very nature, essentially powerless to express anything at all, whether a feeling, an attitude of mind, or psychological mood.",
+      "Music, uniquely among the arts, is both completely abstract and profoundly emotional. It has no power to represent anything particular or external, but it has a unique power to express inner states or feelings.",
+      "Music heard so deeply / That it is not heard at all, but you are the music / While the music lasts.",
+      "This is us, we said to outside-the-solar-system, please understand.",
+      "Notation is to improvisation as the portrait to the living model. It is for the interpreter to resolve the rigidity of the signs into the primitive emotion."
+    ],
+    "without": [
+      "turn sound on",
+      "Click to copy link",
+      "tl;dw",
+      "hover to reveal",
+      "no thanks"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "/ai-sound-house/youngpope1.webp",
+          "filename": "youngpope1.webp",
+          "alt": "Who is the most important author of the last 20 years?",
+          "caption": "Who is the most important author of the last 20 years?",
+          "is_hero": false
+        },
+        {
+          "src": "/ai-sound-house/notthebest.webp",
+          "filename": "notthebest.webp",
+          "alt": "Careful now, not the best, virtuosity is for the arrogant.",
+          "caption": "Careful now, not the best, virtuosity is for the arrogant.",
+          "is_hero": false
+        },
+        {
+          "src": "/ai-sound-house/maxime_riding_music_--profile_7e589we_--v_7_4c41e064-d546-4506-9014-f555bdc490d3_0.webp",
+          "filename": "maxime_riding_music_--profile_7e589we_--v_7_4c41e064-d546-4506-9014-f555bdc490d3_0.webp",
+          "alt": "Person riding music, profile view",
+          "caption": "He pursued his way, taking that which his horse chose, for in this he believed lay the essence of adventure — Don Quixote",
+          "is_hero": false
+        },
+        {
+          "src": "/ai-sound-house/IMG_6408.webp",
+          "filename": "IMG_6408.webp",
+          "alt": "later rothko (& me)",
+          "caption": "later rothko (& me)",
+          "is_hero": false
+        },
+        {
+          "src": "/ai-sound-house/listeningdude.webp",
+          "filename": "listeningdude.webp",
+          "alt": "Image",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "/ai-sound-house/pandagibbon.webp",
+          "filename": "pandagibbon.webp",
+          "alt": "panda + noise = gibbon",
+          "caption": "https://arxiv.org/pdf/1412.6572",
+          "is_hero": false
+        },
+        {
+          "src": "/ai-sound-house/glenngouldchair.webp",
+          "filename": "glenngouldchair.webp",
+          "alt": "Glenn Gould's chair",
+          "caption": "The Glenn-Chair-Piano cyborg entity.",
+          "is_hero": false
+        },
+        {
+          "src": "/ai-sound-house/intonarumori.webp",
+          "filename": "intonarumori.webp",
+          "alt": "Intonarumori - Luigi Russolo's new instrument",
+          "caption": "Luigi Russolo's Intonarumori - an instrument he created to make a new kind of music, made from \"found sources\".",
+          "is_hero": false
+        },
+        {
+          "src": "/ai-sound-house/chopinsheet.webp",
+          "filename": "chopinsheet.webp",
+          "alt": "Latent Space",
+          "caption": "Latent Space",
+          "is_hero": false
+        },
+        {
+          "src": "/ai-sound-house/argerich.webp",
+          "filename": "argerich.webp",
+          "alt": "Output",
+          "caption": "Performer: Martha Argerich",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:35:34.922759"
+}

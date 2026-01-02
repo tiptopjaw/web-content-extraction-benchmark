@@ -1,0 +1,97 @@
+{
+  "schema_version": "2.0",
+  "url": "https://artlyst.com/reviews/critics-choice-best-uk-art-exhibitions-2025-artlyst",
+  "file_id": "2477",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "art",
+        "culture",
+        "exhibitions",
+        "review",
+        "uk"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Critics' Choice: Best UK Art Exhibitions 2025 – Artlyst",
+    "author": "News Desk",
+    "publish_date": "2025-12-17",
+    "main_content": "Looking back at 2025, the standout UK Art Exhibitions show that there wasn't a single aesthetic or tidy narrative linking everything together. This selection wasn't created to reward an institution's agenda. The strongest shows didn't need to follow a curator's perspective. They held their ground on the work displayed. They allowed complexity to surface slowly, sometimes awkwardly, without apology. – Paul Carter Robinson Artlyst Editor.\n\nWe asked our critics to choose three standout UK exhibitions.\n\nPaul Carey Kent chose Boris Mikhailov at The Photographers' Gallery, Doug and Mike Starn at HackelBury Gallery, and Jyll Bradley: 'Running and Returning' at The Box, Plymouth.\n\nSue Hubbard selected Chantal Joffe – Victoria Miro, I Remember; Giuseppe Penone at Serpentine; and Lee Miller at Tate Britain.\n\nJames Payne picked Kerry James Marshall at RA; Siena: The Rise of Painting, 1300‑1350 at the National Gallery; and Dermot O'Brien: (Not Only) But Also at Domo Baal.\n\nRevd Jonathan Evens chose 'SEEING THE UNSEEN: Reality and Imagination in the Art of Stanley Spencer' at Stanley Spencer Gallery, Cookham; Mainie Jellett and Evie Hone. The Art of Friendship at National Gallery of Ireland, Dublin; and Anthony Lawrence (1951-2022): A Retrospective at Palais des Vaches, Lower Exbury.\n\nJohn K Grande selected Giuseppe Penone – Thoughts in the Roots at Serpentine Gallery; Lee Miller at Tate Britain; and Paula Rego – Drawing from Life at Cristea Roberts Gallery.\n\nSara Faith chose Do Ho Suh at Tate Modern; Wayne Thiebaud at The Courtauld Gallery; and Ugo Rondinone: The Rainbow Body at Sadie Coles HQ.\n\nDr Clare Finn selected Lee Miller at Tate Britain; Siena: The Rise of Painting 1300-1350 at the National Gallery; and Goya to Impressionism: Masterpieces from the Oskar Reinhart Collection at The Courtauld Gallery.\n\nPaul Carter Robinson chose Kiefer / Van Gogh at Royal Academy; Turner & Constable: Rivals & Originals at Tate Britain; and Maggi Hambling & Sarah Lucas: OOO LA LA at Sadie Coles HQ.\n\nSophie Parkin chose Ithell Colquhoun + Edward Burra at Tate Britain; Sir Peter Cook's Play Pavilion at Serpentine; and highlighted various commercial gallery shows.\n\nJude Montague selected Sussex Modernism at Towner Eastbourne; Three Artists: Sophie Barber, Michael Landy, Isabel Rock at Hastings Contemporary; and Tadek Beutlich exhibitions at Emma Mason Gallery and Ditchling Museum.\n\nNico Kos-Earle chose Peter Doig: House of Music at Serpentine; Oskar Reinhart Collection at the Courtauld; and Maggi Hambling and Sarah Lucas 'OOO LA LA' at Sadie Coles HQ.",
+    "with": [
+      "Looking back at 2025, the standout UK Art Exhibitions show that there wasn't a single aesthetic or tidy narrative linking everything together.",
+      "This selection wasn't created to reward an institution's agenda. The strongest shows didn't need to follow a curator's perspective. They held their ground on the work displayed.",
+      "Lee Miller was a courageous, complex figure who witnessed immense horror during her life.",
+      "Kerry James Marshall at RA was a landmark retrospective of a living artist at the top of his game.",
+      "Vincent van Gogh's presence runs insistently through Anselm Kiefer's work."
+    ],
+    "without": [
+      "Subscribe to our newsletter",
+      "Copyright Artlyst 2025",
+      "Follow on Facebook, X, Instagram, LinkedIn",
+      "Please Consider Supporting Us",
+      "Cookie Consent preferences"
+    ],
+    "images": {
+      "total_in_content": 18,
+      "annotated_count": 7,
+      "items": [
+        {
+          "src": "https://artlyst.com/wp-content/uploads/2025/12/ugo1-Artlyst.jpeg",
+          "filename": "ugo1-Artlyst.jpeg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://artlyst.com/wp-content/uploads/2025/12/Screen-Shot-2025-12-16-at-14.39.21.jpg",
+          "filename": "Screen-Shot-2025-12-16-at-14.39.21.jpg",
+          "alt": "Boris Mikhailov, The Photographers' Gallery",
+          "caption": "From the series \"Sots Art\", 1982-83 © Boris Mikhailov, VG Bild-Kunst, Bonn, Courtesy Boris and Vita Mikhailov",
+          "is_hero": false
+        },
+        {
+          "src": "https://artlyst.com/wp-content/uploads/2025/12/Screen-Shot-2025-12-16-at-15.05.47.jpg",
+          "filename": "Screen-Shot-2025-12-16-at-15.05.47.jpg",
+          "alt": "Chantal Joffe,",
+          "caption": "Chantal Joffe, Matrushka Dolls, 2025",
+          "is_hero": false
+        },
+        {
+          "src": "https://artlyst.com/wp-content/uploads/2025/12/Serp_G.Penone_022.jpg",
+          "filename": "Serp_G.Penone_022.jpg",
+          "alt": "Giuseppe Penone",
+          "caption": "Giuseppe Penone, Albero folgorato (Thunderstruck Tree), 2012. Bronze and gold. ©Photo: George Darrell. Courtesy Giuseppe Penone and Serpentine.",
+          "is_hero": false
+        },
+        {
+          "src": "https://artlyst.com/wp-content/uploads/2024/12/Screen-Shot-2024-12-17-at-12.50.43.jpg",
+          "filename": "Screen-Shot-2024-12-17-at-12.50.43.jpg",
+          "alt": "Lee Miller, Tate Britain",
+          "caption": "Lee Miller, Portrait of Space, Al Bulwayeb, Nr Siwa, Egypt 1937 © Lee Miller Archives",
+          "is_hero": false
+        },
+        {
+          "src": "https://artlyst.com/wp-content/uploads/2025/12/Kiefer.jpeg",
+          "filename": "Kiefer.jpeg",
+          "alt": "Best UK Art Exhibitions 2025",
+          "caption": "Best UK Art Exhibitions 2025",
+          "is_hero": false
+        },
+        {
+          "src": "https://artlyst.com/wp-content/uploads/2025/12/peter-doig.jpeg",
+          "filename": "peter-doig.jpeg",
+          "alt": "Peter Doig",
+          "caption": "Peter Doig",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:34:34.127725"
+}

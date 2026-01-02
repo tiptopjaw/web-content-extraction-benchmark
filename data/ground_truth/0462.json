@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "url": "https://obesitymedicine.org/blog/weight-loss-medications/",
+  "file_id": "0462",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "health",
+        "medicine",
+        "weight-loss",
+        "obesity",
+        "blog"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Top Weight Loss Medications",
+    "author": "Doris Munoz-Mantilla, MD, FOMA, DABOM",
+    "publish_date": "2025-07-29",
+    "main_content": "The pharmacological treatment of obesity is a fast-changing landscape, and care providers must strive continuously to stay current. Before 2012, there were few weight loss medications approved by the FDA. The top anti-obesity medications (AOMs) at that time were phentermine, marketed as Lomaira and Adipex-P, and orlistat, marketed as Xenical and Alli. In the 2020s, glucagon-like peptide-1 receptor agonists (GLP-1 receptor agonists) exploded in popularity and media attention. Next came a dual receptor agonist, Mounjaro, which is indicated for type 2 diabetes, and Zepbound, which is indicated for obesity. Currently, these medications are administered by injection, but oral weight loss drugs in the same category may soon follow. A study from FAIR Health published in May 2025 reports that more than 2% of U.S. adults took a GLP-1 for weight loss in 2024. Determining whether someone is a candidate for weight loss medications begins with BMI. Most medications are prescribed for someone with a BMI of 30 or greater, or a BMI of 27 or greater if the person has weight-related health conditions. The article then provides detailed information on currently available weight loss medications including Semaglutide (Wegovy, Ozempic), Tirzepatide (Zepbound, Mounjaro), Liraglutide (Saxenda), Phentermine (Adipex, Suprenza, Lomaira), Phentermine-topiramate (Qsymia), Naltrexone-bupropion (Contrave), Orlistat (Xenical and Alli), Setmelanotide (Imcivree), and Hydrogel (Plenity). It also discusses upcoming weight loss medications in development, frequently asked questions about weight loss medications, direct purchase options, and provides a comprehensive comparison table of all weight loss medications at a glance.",
+    "with": [
+      "The pharmacological treatment of obesity is a fast-changing landscape, and care providers must strive continuously to stay current.",
+      "Most medications are prescribed for someone with a BMI of 30 or greater, or a BMI of 27 or greater if the person has weight-related health conditions.",
+      "Wegovy is a brand name for semaglutide, a GLP-1 receptor agonist. It was FDA-approved in 2021.",
+      "Zepbound is approved to treat obesity in adults with a BMI of 30 or greater. It is both a GLP-1 and a GIP receptor agonist.",
+      "Based on the latest clinical trials and real-world data, tirzepatide (Zepbound) currently stands out as the most effective FDA-approved prescription medication for weight loss."
+    ],
+    "without": [
+      "Find a Provider",
+      "Subscribe to Our Mailing List",
+      "Connect@OMA",
+      "Academy Login",
+      "Join OMA"
+    ],
+    "images": {
+      "total_in_content": 7,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://dmiusd4kl5bx2.cloudfront.net/featured/_636x568_crop_center-center_none/20589/Weight-loss-medication-blog-image.webp",
+          "filename": "Weight-loss-medication-blog-image.webp",
+          "alt": "Image of a doctor wearing a white coat with a stethoscope around their neck, holding a prescription pad up to the camera with the orange Obesity Medicine Association logo in the bottom right corner",
+          "caption": "Image of a doctor wearing a white coat with a stethoscope around their neck, holding a prescription pad up to the camera with the orange Obesity Medicine Association logo in the bottom right corner",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:02:42.145846"
+}

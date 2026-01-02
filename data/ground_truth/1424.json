@@ -1,0 +1,81 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.hbs.edu/mba",
+  "file_id": "1424",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "mba-program",
+        "harvard-business-school"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "MBA | Harvard Business School",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Harvard Business School (HBS) offers a two-year, full-time MBA Program with a general management curriculum focused on real-world practice. The MBA Program provides students with unparalleled access to faculty, resources, and a powerful network that lasts a lifetime. The section experience creates a community of trust where students challenge and support each other through rigorous case discussions. Students quickly discover that the section experience gets them fully engaged during their time at HBS. The program combines bold ideas, powerful pedagogy, and collaborative cohort-based learning to deliver unparalleled management education. HBS provides financial aid options including tuition assistance, summer fellowships, and career support funds. The case method and field method form the foundation of the academic experience, preparing students to lead in any organization worldwide.",
+    "with": [
+      "Harvard Business School (HBS) offers a two-year, full-time MBA Program with a general management curriculum focused on real-world practice.",
+      "The section experience creates a community of trust where students challenge and support each other through rigorous case discussions.",
+      "Students quickly discover that the section experience gets them fully engaged during their time at HBS.",
+      "The case method and field method form the foundation of the academic experience.",
+      "The program combines bold ideas, powerful pedagogy, and collaborative cohort-based learning."
+    ],
+    "without": [
+      "Skip to Main Content",
+      "Harvard Business School",
+      "Apply",
+      "Search",
+      "Cookie notice"
+    ],
+    "images": {
+      "total_in_content": 9,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://cloudinary.hbs.edu/hbsit/image/fetch/q_auto,c_fill,ar_3:4/f_webp/https%3A%2F%2Fwww.hbs.edu%2Fctfassets%2Fpublic%2Fimages%2F5BmCHLtxZrxOPXHH4JkDNx%2F0.0-mba-students-221003-RL-1252x1800.jpg",
+          "filename": "https%3A%2F%2Fwww.hbs.edu%2Fctfassets%2Fpublic%2Fimages%2F5BmCHLtxZrxOPXHH4JkDNx%2F0.0-mba-students-221003-RL-1252x1800.jpg",
+          "alt": "MBA students discuss the upcoming case discussion on their way to class in Aldrich Hall.",
+          "caption": "MBA students discuss the upcoming case discussion on their way to class",
+          "is_hero": true
+        },
+        {
+          "src": "https://cloudinary.hbs.edu/hbsit/image/fetch/q_auto,c_fill,ar_3:2/f_webp/https%3A%2F%2Fwww.hbs.edu%2Fctfassets%2Fpublic%2Fimages%2F7lSh1KdKCoj2RE5ij8TZlm%2F0.0-classroom-230117-HC-2500x1800.jpg",
+          "filename": "https%3A%2F%2Fwww.hbs.edu%2Fctfassets%2Fpublic%2Fimages%2F7lSh1KdKCoj2RE5ij8TZlm%2F0.0-classroom-230117-HC-2500x1800.jpg",
+          "alt": "A professor leads MBA students in a case discussion.",
+          "caption": "A professor leads MBA students in a case discussion",
+          "is_hero": false
+        },
+        {
+          "src": "https://cloudinary.hbs.edu/hbsit/image/fetch/q_auto,c_fill,ar_3:4/f_webp/https%3A%2F%2Fwww.hbs.edu%2Fctfassets%2Fpublic%2Fimages%2F5t4ACZBm641tMrhQZrQKUo%2F0.0-mba-commencement-220526-RC-1343x1800.jpg",
+          "filename": "https%3A%2F%2Fwww.hbs.edu%2Fctfassets%2Fpublic%2Fimages%2F5t4ACZBm641tMrhQZrQKUo%2F0.0-mba-commencement-220526-RC-1343x1800.jpg",
+          "alt": "MBA graduates celebrate during Commencement.",
+          "caption": "MBA graduates celebrate during Commencement",
+          "is_hero": false
+        },
+        {
+          "src": "https://cloudinary.hbs.edu/hbsit/image/fetch/q_auto,c_fill,ar_3:2/f_webp/https%3A%2F%2Fwww.hbs.edu%2Fctfassets%2Fpublic%2Fimages%2F6wJ5CCUN4JoXx3mY9JubgE%2F0.0-hero-2023-2360x1392.jpg",
+          "filename": "https%3A%2F%2Fwww.hbs.edu%2Fctfassets%2Fpublic%2Fimages%2F6wJ5CCUN4JoXx3mY9JubgE%2F0.0-hero-2023-2360x1392.jpg",
+          "alt": "Students quickly discover that the section experience gets them fully engaged during their first year at HBS and beyond, helping to forge lasting friendships and invaluable contacts for life.",
+          "caption": "Students quickly discover that the section experience gets them fully engaged during their time at HBS",
+          "is_hero": false
+        },
+        {
+          "src": "https://cloudinary.hbs.edu/hbsit/image/fetch/q_auto,c_fill,ar_3:2/f_webp/https%3A%2F%2Fwww.hbs.edu%2Fctfassets%2Fpublic%2Fimages%2F6ifU9PGTgZtTUko0SUTlT3%2FSE-7.0-StudyGroup-221019-RL-1800x1200.jpg",
+          "filename": "https%3A%2F%2Fwww.hbs.edu%2Fctfassets%2Fpublic%2Fimages%2F6ifU9PGTgZtTUko0SUTlT3%2FSE-7.0-StudyGroup-221019-RL-1800x1200.jpg",
+          "alt": "A group of MBA students prepares for a case discussion together in Spangler Center.",
+          "caption": "A group of MBA students prepares for a case discussion together in Spangler Center",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:20:04.605288"
+}

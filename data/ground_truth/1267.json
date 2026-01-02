@@ -1,27 +1,103 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.gallup.com/home.aspx",
   "file_id": "1267",
-  "downloaded_at": "2025-12-20T21:26:44.945837",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "corporate",
+        "research",
+        "consulting",
+        "homepage"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Gallup - Workplace Consulting & Global Research",
     "author": null,
     "publish_date": null,
-    "main_content": "Gallup is more than management consulting. Learn how our understanding of the human experience helps clients and the billions they serve thrive. AI Use at Work Rises. New Gallup data show a continued rise in AI adoption rates across the U.S. workforce from Q2 to Q3 2025. Tracking the World's Emotional Health. Gallup's new report on emotional health shows negative emotions remain far above levels from a decade ago, with implications for global peace and health. Trump's Approval Rating Drops to 36%, New Second-Term Low. President Donald Trump's job approval rating has slipped to a new second-term low point and is approaching his all-time low of 34%. How to Inspire Creativity With Diane Hoskins. A visionary and hands-on leader, Diane Hoskins champions organizational excellence and innovation, spearheading Gensler's industry-leading Research Institute and innovations like the firm's Experience Index. More Americans Say Political Rhetoric Has Gone Too Far. Larger majorities than in 2011 say Republicans (69%) and Democrats (60%) go too far in using inflammatory language to criticize their opponents. Cost Leads Americans' Top-of-Mind Healthcare Concerns. Concerns about and dissatisfaction with healthcare costs in the U.S. underscore Americans' belief that the nation's healthcare system is highly flawed. Trending Insights: U.S. Mental Health Ratings Continue to Worsen. Growing Worry Over Medicare, Social Security. Independents Drive Approval of ACA to New High of 57%. Economic Confidence Slips; Holiday Spending Plans Plummet. Most Lebanese Say Only Army Should Have Weapons. Global Indicators: Measuring progress on what matters most to workplaces and societies at large. Employee Engagement. Economic Performance & Financial Security. Hybrid Work. Employee Retention & Attraction. Life Evaluation Index. Employee Wellbeing. Leadership & Management. Leadership Approval & Trust in Institutions. Organizational Culture. Emotional Wellbeing. Featured Research: West Health-Gallup Center on Healthcare. The West Health-Gallup Center on Healthcare in America delivers rigorous research and data-driven insights to elevate public voices and drive meaningful conversations about the nation's healthcare system. New State Rankings Expose Cracks in America’s Healthcare System. A first-of-its-kind West Health-Gallup study shows that America’s healthcare system is not working for everyone, offering a state-by-state look at how people experience cost, quality and access to care across all 50 states and the District of Columbia. How Do Americans Experience Healthcare in Their State? More Reports: State of the Global Workplace Report. State of the World's Emotional Health. World Happiness Report. Global Leadership Report: What Followers Want. Global Safety Report. Rating World Leaders Report. The State of Higher Education 2025. Teaching for Tomorrow: How Supporting Teachers Today Shapes Classrooms Tomorrow. About Gallup: Analytics & Advice That Empower Leaders. We provide data no one else has, to help you make decisions no one else can. And we go beyond research to help your organization maximize human potential. Our Experience: 90+ years of public opinion survey research expertise. Our Scale: 98%+ of the world's population is represented by Gallup's World Poll. Our Clients: 4,000+ organizations use our workplace performance platform. Our Impact: 36M+ people have discovered their CliftonStrengths. Connect With Us: Learn how we can help you solve your most important challenges.",
+    "main_content": "Gallup is more than management consulting. Learn how our understanding of the human experience helps clients and the billions they serve thrive. Featured content includes: AI Use at Work Rises with new data showing continued rise in AI adoption rates across the U.S. workforce from Q2 to Q3 2025; Tracking the World's Emotional Health showing negative emotions remain far above levels from a decade ago; Trump's Approval Rating Drops to 36%, a new second-term low; How to Inspire Creativity With Diane Hoskins; More Americans Say Political Rhetoric Has Gone Too Far with larger majorities than in 2011; Cost Leads Americans' Top-of-Mind Healthcare Concerns; U.S. Mental Health Ratings Continue to Worsen; Growing Worry Over Medicare, Social Security; Independents Drive Approval of ACA to New High of 57%; Economic Confidence Slips; Holiday Spending Plans Plummet; Most Lebanese Say Only Army Should Have Weapons. Global Indicators measuring progress on what matters most to workplaces and societies. West Health-Gallup Center on Healthcare delivers rigorous research on America's healthcare system. State rankings expose cracks in America's healthcare system. More reports available including State of the Global Workplace Report, State of the World's Emotional Health, World Happiness Report, Global Leadership Report, Global Safety Report, Rating World Leaders Report, The State of Higher Education 2025, and Teaching for Tomorrow.",
     "with": [
-      "Gallup is more than management consulting. Learn how our understanding of the human experience helps clients and the billions they serve thrive.",
       "New Gallup data show a continued rise in AI adoption rates across the U.S. workforce from Q2 to Q3 2025.",
-      "Gallup's new report on emotional health shows negative emotions remain far above levels from a decade ago, with implications for global peace and health.",
-      "We provide data no one else has, to help you make decisions no one else can. And we go beyond research to help your organization maximize human potential.",
-      "The West Health-Gallup Center on Healthcare in America delivers rigorous research and data-driven insights to elevate public voices and drive meaningful conversations about the nation's healthcare system."
+      "Gallup's new report on emotional health shows negative emotions remain far above levels from a decade ago.",
+      "President Donald Trump's job approval rating has slipped to a new second-term low point.",
+      "The West Health-Gallup Center on Healthcare delivers rigorous research and data-driven insights.",
+      "We provide data no one else has, to help you make decisions no one else can."
     ],
     "without": [
-      "About Us Careers Contact Us Subscribe",
-      "Workplace Advisory CliftonStrengths Research & Polling Courses & Events News & Insights",
-      "Shop Sign in",
+      "Subscribe to Our Newsletters",
       "Copyright © 2025 Gallup, Inc. All rights reserved.",
-      "Cookie Preferences Privacy Statement Legal Do Not Sell or Share My Personal Information California Collection Notice"
-    ]
+      "Privacy Statement",
+      "Contact Us",
+      "Cookie Preferences"
+    ],
+    "images": {
+      "total_in_content": 26,
+      "annotated_count": 8,
+      "items": [
+        {
+          "src": "https://imagekit.gallup.com/fusion/tr:n-emd_wp_v12featcont_lg/WORKPLACEV9CMS/bbcf1741-ee9a-4325-be51-7c7508161f32.jpg",
+          "filename": "bbcf1741-ee9a-4325-be51-7c7508161f32.jpg",
+          "alt": "AI Use at Work Rises",
+          "caption": "AI Use at Work Rises",
+          "is_hero": true
+        },
+        {
+          "src": "https://imagekit.gallup.com/fusion/tr:n-emd_wp_v12featcont_lg/POLL/971cee84-0588-4bc5-960f-e7a0559a3326.jpg",
+          "filename": "971cee84-0588-4bc5-960f-e7a0559a3326.jpg",
+          "alt": "Tracking the World's Emotional Health",
+          "caption": "Tracking the World's Emotional Health",
+          "is_hero": false
+        },
+        {
+          "src": "https://imagekit.gallup.com/fusion/tr:n-emd_wp_v12featcont_lg/POLL/be842eb5-6261-470e-8bc2-d8faff7c5e44.jpg",
+          "filename": "be842eb5-6261-470e-8bc2-d8faff7c5e44.jpg",
+          "alt": "Trump's Approval Rating Drops to 36%, New Second-Term Low",
+          "caption": "Trump's Approval Rating Drops to 36%, New Second-Term Low",
+          "is_hero": false
+        },
+        {
+          "src": "https://imagekit.gallup.com/fusion/tr:n-emd_wp_v12featcont_md/LWSCMS/146b5497-bc07-4528-aa11-ceddf5049e7f.jpg",
+          "filename": "146b5497-bc07-4528-aa11-ceddf5049e7f.jpg",
+          "alt": "How to Inspire Creativity With Diane Hoskins",
+          "caption": "How to Inspire Creativity With Diane Hoskins",
+          "is_hero": false
+        },
+        {
+          "src": "https://imagekit.gallup.com/fusion/tr:n-emd_wp_v12featcont_md/POLL/9c36d633-adce-4a37-b515-a763bc690c8d.jpg",
+          "filename": "9c36d633-adce-4a37-b515-a763bc690c8d.jpg",
+          "alt": "More Americans Say Political Rhetoric Has Gone Too Far",
+          "caption": "More Americans Say Political Rhetoric Has Gone Too Far",
+          "is_hero": false
+        },
+        {
+          "src": "https://imagekit.gallup.com/fusion/tr:n-emd_wp_v12featcont_md/POLL/b22b1ea4-6340-4dc8-8f4c-6908d05a2dde.jpg",
+          "filename": "b22b1ea4-6340-4dc8-8f4c-6908d05a2dde.jpg",
+          "alt": "Cost Leads Americans' Top-of-Mind Healthcare Concerns",
+          "caption": "Cost Leads Americans' Top-of-Mind Healthcare Concerns",
+          "is_hero": false
+        },
+        {
+          "src": "https://imagekit.gallup.com/fusion/tr:n-emd_tmpl_dlp_bg_lg/ANALYTICSV9CMS/a91784da-8ccf-4604-9db3-25da924a15b6.jpg",
+          "filename": "a91784da-8ccf-4604-9db3-25da924a15b6.jpg",
+          "alt": "V12 - Featured Research > West Health-Gallup Center on Healthcare > 2025-11 [UPDATE]",
+          "caption": "V12 - Featured Research > West Health-Gallup Center on Healthcare",
+          "is_hero": false
+        },
+        {
+          "src": "https://imagekit.gallup.com/fusion/tr:n-emd_wp_v12featcont_lg/POLL/6a675422-3fda-434f-a2e3-1e55dae87180.jpg",
+          "filename": "6a675422-3fda-434f-a2e3-1e55dae87180.jpg",
+          "alt": "How Do Americans Experience Healthcare in Their State?",
+          "caption": "How Do Americans Experience Healthcare in Their State?",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:26:44.945840"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:20:00.807575"
 }

@@ -1,27 +1,61 @@
 {
+  "schema_version": "2.0",
   "url": "https://nexskillonline.com/blogs/top-5-graphic-design-courses-2025/",
   "file_id": "2317",
-  "downloaded_at": "2025-12-20T23:19:59.431672",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "education",
+        "graphic-design",
+        "courses"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Top 5 Graphic Design Courses in 2025",
     "author": "Ahmad Hasan",
     "publish_date": "2025-04-01",
-    "main_content": "In 2025, graphic design is more dynamic than ever. Here are the top 5 courses you should consider:\n\n1. Coursera - Graphic Design Specialization (CalArts) - Learn core principles of graphic design, typography, and image-making from one of the top art schools.\n\n2. Udemy - The Complete Graphic Design Theory for Beginners Course - This course offers beginner-to-pro lessons in layout, color, and branding.\n\n3. LinkedIn Learning - Become a Graphic Designer Path - Offers a structured learning roadmap from basic skills to software mastery.\n\n4. Domestika - Graphic Design for Beginners - Ideal for visual learners, this platform features high-quality video production and real-world projects.\n\n5. Skillshare - Great Graphic Design: Create Emotional, Gripping Typographic Art - Focuses on typography and creativity, taught by professionals in the field.\n\nThese courses cover essential tools like Photoshop, Illustrator, and Figma, giving you a strong portfolio in 2025.",
+    "main_content": "In 2025, graphic design is more dynamic than ever. Here are the top 5 courses you should consider: Coursera - Graphic Design Specialization (CalArts) - Learn core principles of graphic design, typography, and image-making from one of the top art schools. Udemy - The Complete Graphic Design Theory for Beginners Course - This course offers beginner-to-pro lessons in layout, color, and branding. LinkedIn Learning - Become a Graphic Designer Path - Offers a structured learning roadmap from basic skills to software mastery. Domestika - Graphic Design for Beginners - Ideal for visual learners, this platform features high-quality video production and real-world projects. Skillshare - Great Graphic Design: Create Emotional, Gripping Typographic Art - Focuses on typography and creativity, taught by professionals in the field. These courses cover essential tools like Photoshop, Illustrator, and Figma, giving you a strong portfolio in 2025.",
     "with": [
-      "In 2025, graphic design is more dynamic than ever. Here are the top 5 courses you should consider:",
-      "1. Coursera - Graphic Design Specialization (CalArts) - Learn core principles of graphic design, typography, and image-making from one of the top art schools.",
-      "2. Udemy - The Complete Graphic Design Theory for Beginners Course - This course offers beginner-to-pro lessons in layout, color, and branding.",
-      "5. Skillshare - Great Graphic Design: Create Emotional, Gripping Typographic Art - Focuses on typography and creativity, taught by professionals in the field.",
+      "In 2025, graphic design is more dynamic than ever.",
+      "Coursera - Graphic Design Specialization (CalArts) - Learn core principles of graphic design, typography, and image-making from one of the top art schools.",
+      "Udemy - The Complete Graphic Design Theory for Beginners Course - This course offers beginner-to-pro lessons in layout, color, and branding.",
+      "Domestika - Graphic Design for Beginners - Ideal for visual learners, this platform features high-quality video production and real-world projects.",
       "These courses cover essential tools like Photoshop, Illustrator, and Figma, giving you a strong portfolio in 2025."
     ],
     "without": [
-      "Job Ready Bootcamps 2025 with guaranteed placement",
-      "Welcome to NexSkill Online",
-      "Mission: Gateway to Become a Proficient Technology Expert",
-      "Find Physical Branches",
-      "© 2025 NexSkill Online. All rights reserved."
-    ]
+      "Menu",
+      "© 2025 NexSkill Online. All rights reserved.",
+      "Privacy Policy",
+      "Job Ready Bootcamps 2025",
+      "Download LMS App"
+    ],
+    "images": {
+      "total_in_content": 7,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "/blogs/graphics.jpg",
+          "filename": "graphics.jpg",
+          "alt": "Top 5 Graphic Design Courses in 2025",
+          "caption": "Top 5 Graphic Design Courses in 2025",
+          "is_hero": true
+        },
+        {
+          "src": "/blogs/tools/design-tools.png",
+          "filename": "design-tools.png",
+          "alt": "Illustration for Top 5 Graphic Design Courses in 2025",
+          "caption": "Illustration for Top 5 Graphic Design Courses in 2025",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:19:59.431678"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:37:54.765332"
 }

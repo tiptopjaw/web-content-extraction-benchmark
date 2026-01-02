@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.watchfinder.com/all-watches",
+  "file_id": "1320",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "ecommerce",
+        "luxury-watches",
+        "pre-owned",
+        "listing"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Shop Luxury Watches At Unbeatable Prices - Watchfinder & Co.",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Luxury Watches - Browse our diverse range of luxury watches from more than 50 leading watchmaking brands. Every Watchfinder watch is meticulously inspected and prepared by our highly trained, manufacturer-accredited watchmakers, ensuring only the very best quality.",
+    "with": [
+      "Browse our diverse range of luxury watches from more than 50 leading watchmaking brands.",
+      "Every Watchfinder watch is meticulously inspected and prepared by our highly trained, manufacturer-accredited watchmakers.",
+      "Ensuring only the very best quality.",
+      "The search interface allows filtering watches by brand, price range, and category.",
+      "Top brands include Rolex, Omega, Breitling, Tag Heuer, Cartier, Panerai, IWC, Tudor, Patek Philippe, Audemars Piguet, Hublot, Jaeger-LeCoultre, and Vacheron Constantin."
+    ],
+    "without": [
+      "Sign up for the Watchfinder Newsletter",
+      "© WF&Co. 2025 v.3000.04",
+      "Privacy Policy link in footer",
+      "Cookie consent modal and settings",
+      "Trustpilot reviews widget"
+    ],
+    "images": {
+      "total_in_content": 15,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:39:57.785606"
+}

@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.cozymeal.com/magazine/oklahoma-city-restaurants",
+  "file_id": "0323",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "food",
+        "travel",
+        "guide",
+        "restaurants"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Oklahoma City Restaurants | Top 16 in 2025 | Cozymeal",
+    "author": null,
+    "publish_date": null,
+    "main_content": "There's no shortage of incredible Oklahoma City restaurants! To help you decide where to dine next, we've rounded up 16 must-visit eateries in OKC. From upscale dining to casual hangouts, there are many great Oklahoma City restaurants to dine at. The Mule is one of the most popular Oklahoma City Restaurants. Pearl's Crabtown is one of the best Oklahoma City restaurants. Nonesuch is one of the higher end Oklahoma City restaurants. Burger Punk is a casual Oklahoma City restaurant. Iguana Mexican Grill is one of the fun Oklahoma City restaurants.",
+    "with": [
+      "There's no shortage of incredible Oklahoma City restaurants!",
+      "To help you decide where to dine next, we've rounded up 16 must-visit eateries in OKC.",
+      "There are many great Oklahoma City restaurants to dine at.",
+      "The Mule is one of the most popular Oklahoma City Restaurants.",
+      "Pearl's Crabtown is one of the best Oklahoma City restaurants."
+    ],
+    "without": [
+      "Cooking classes, online cooking experiences, private chefs, food tours, and more",
+      "Sign Up",
+      "LOG In",
+      "800-369-0157",
+      "Are you a chef?"
+    ],
+    "images": {
+      "total_in_content": 30,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,q_auto,w_750/f_auto/oklahoma-city-restaurants-phpBDSOCT",
+          "filename": "oklahoma-city-restaurants-phpBDSOCT",
+          "alt": "There aremany great Oklahoma City restaurants to dine at",
+          "caption": "There are many great Oklahoma City restaurants to dine at",
+          "is_hero": true
+        },
+        {
+          "src": "https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,q_auto,w_750,f_auto/f_auto/Oklahoma-City-Restaurants-5-phpq3W1EE",
+          "filename": "Oklahoma-City-Restaurants-5-phpq3W1EE",
+          "alt": "A selection of dishes and drinks on a wooden table",
+          "caption": "A selection of dishes and drinks on a wooden table",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,q_auto,w_750,f_auto/f_auto/Oklahoma-City-Restaurants-3-phpF71AWu",
+          "filename": "Oklahoma-City-Restaurants-3-phpF71AWu",
+          "alt": "A tomato pasta and breaded chicken dish",
+          "caption": "A tomato pasta and breaded chicken dish",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,q_auto,w_750,f_auto/f_auto/Oklahoma-City-Restaurants-1-phpJxVSNL",
+          "filename": "Oklahoma-City-Restaurants-1-phpJxVSNL",
+          "alt": "A selection of Mediterranean dishes on a table",
+          "caption": "A selection of Mediterranean dishes on a table",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,q_auto,w_750,f_auto/f_auto/Oklahoma-City-Restaurants-2-php8lLtWl",
+          "filename": "Oklahoma-City-Restaurants-2-php8lLtWl",
+          "alt": "The Mule is one of the most popular Oklahoma City Restaurants",
+          "caption": "The Mule is one of the most popular Oklahoma City Restaurants",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,q_auto,w_750,f_auto/f_auto/Oklahoma-City-Restaurants-4-phpfanvYy",
+          "filename": "Oklahoma-City-Restaurants-4-phpfanvYy",
+          "alt": "Pearl's Crabtown is one of the best Oklahoma City restaurants",
+          "caption": "Pearl's Crabtown is one of the best Oklahoma City restaurants",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,q_auto,w_750,f_auto/f_auto/Oklahoma-City-Restaurants-6-phpTJ1WPh",
+          "filename": "Oklahoma-City-Restaurants-6-phpTJ1WPh",
+          "alt": "Three colorful cocktails ",
+          "caption": "Three colorful cocktails",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,q_auto,w_750,f_auto/f_auto/Oklahoma-City-Restaurants-7-phpld0zT3",
+          "filename": "Oklahoma-City-Restaurants-7-phpld0zT3",
+          "alt": "Sushi and sashimi on a plate",
+          "caption": "Sushi and sashimi on a plate",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,q_auto,w_750,f_auto/f_auto/Oklahoma-City-Restaurants-8-phpPKiJhx",
+          "filename": "Oklahoma-City-Restaurants-8-phpPKiJhx",
+          "alt": "Iguana Mexican Grill is one of the fun Oklahoma City restaurants",
+          "caption": "Iguana Mexican Grill is one of the fun Oklahoma City restaurants",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,q_auto,w_750,f_auto/f_auto/Oklahoma-City-Restaurants-9-phpDrAYDm",
+          "filename": "Oklahoma-City-Restaurants-9-phpDrAYDm",
+          "alt": "Burger Punk is a casual Oklahoma City restaurant",
+          "caption": "Burger Punk is a casual Oklahoma City restaurant",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:51:00.147803"
+}

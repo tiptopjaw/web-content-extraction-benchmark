@@ -1,27 +1,54 @@
 {
+  "schema_version": "2.0",
   "url": "https://ferrous-systems.com/blog/student-assistant-rust-analyzer",
   "file_id": "2792",
-  "downloaded_at": "2025-12-20T23:32:33.054568",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "announcement",
+        "job",
+        "rust",
+        "careers"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Student Assistant",
     "author": "Julia",
     "publish_date": "2025-12-18",
-    "main_content": "Student Assistant (all genders)\nFerrous Systems is a development service and training supplier in the space of the Rust programming language. Founded by members of the Rust project, the company engages in all aspects of Rust development and Open-Source sustainability. Our hallmark product is Ferrocene, the first Rust toolchain for safety- and mission-critical needs.\nAs a student assistant you will support the continuous development of rust-analyzer. This tool is a server implementation of the Language Server Protocol for the Rust programming language. It is the backing server that provides features like tab-completion and goto-definition for the Rust programming language for many code editors, including VS Code, Emacs and Vim.\nWe are particularly happy to receive applications from non-cis-male people and from other groups that are underrepresented in the IT labor market.\nWe want you to join our team to:\n- Continuously improve rust-analyzer (bug fixes & features in Rust/TypeScript).\n- Work on tasks independently: you pick up workable issues from the Github repository and provide source code changes that solve the issues.\n- Create pull requests in GitHub that will be reviewed by the community.\n- Triage old and new issues for the project.\n- Publish work related blog posts.\nApply to this position if you have:\n- You are a German resident and enrolled at a German university with the focus on practical computer science, software development or hardware-related programming.\n- You have fundamental knowledge of the Rust programming language.\n- You have fundamental programming skills.\n- You love working independently.\n- You are very well organized when it comes to task assumption & work organization.\n- You are interested in contributing to a vibrant & growing Open-Source community.\n- You have good knowledge of English (B2).\nWe offer you:\n- A committed team that is dedicated to Open-Source work: much of our work is Open Source and can be reused later.\n- A remote first workplace: work from and live anywhere you like in Germany.\n- A 15 - 20 hours/week position is available, with a salary of 20€ per hour.\n- An international and open-minded culture & team with a good work-life balance.\n- We are family and neurodiverse-friendly: complex time needs are respected\nYour application:\nIf you’d like to get to know us better, please send an email to Hiring@ferrous-systems.com with the reference code 02-2026 in the subject line before the closing date of 18. January 2026.\nYou can expect a reply regarding your application status by December 23rd or starting from January 2nd, as our company will be closed over the holiday season. Please attach your CV and include a link to your previous work. We look forward to hearing from you",
+    "main_content": "Ferrous Systems is a development service and training supplier in the space of the Rust programming language. Founded by members of the Rust project, the company engages in all aspects of Rust development and Open-Source sustainability. Our hallmark product is Ferrocene, the first Rust toolchain for safety- and mission-critical needs. As a student assistant you will support the continuous development of rust-analyzer. This tool is a server implementation of the Language Server Protocol for the Rust programming language. It is the backing server that provides features like tab-completion and goto-definition for the Rust programming language for many code editors, including VS Code, Emacs and Vim. We are particularly happy to receive applications from non-cis-male people and from other groups that are underrepresented in the IT labor market. We want you to join our team to continuously improve rust-analyzer (bug fixes & features in Rust/TypeScript), work on tasks independently, create pull requests in GitHub that will be reviewed by the community, triage old and new issues for the project, and publish work related blog posts. Apply to this position if you have fundamental knowledge of the Rust programming language, fundamental programming skills, love working independently, are very well organized when it comes to task assumption & work organization, and have good knowledge of English (B2). We offer you a committed team that is dedicated to Open-Source work, a remote first workplace, a 15 - 20 hours/week position with a salary of 20€ per hour, an international and open-minded culture & team with a good work-life balance, and respect for complex time needs. If you'd like to get to know us better, please send an email to hiring@ferrous-systems.com with the reference code 02-2026 in the subject line before the closing date of 18. January 2026.",
     "with": [
       "Ferrous Systems is a development service and training supplier in the space of the Rust programming language.",
       "As a student assistant you will support the continuous development of rust-analyzer.",
       "We are particularly happy to receive applications from non-cis-male people and from other groups that are underrepresented in the IT labor market.",
       "A 15 - 20 hours/week position is available, with a salary of 20€ per hour.",
-      "If you’d like to get to know us better, please send an email to Hiring@ferrous-systems.com with the reference code 02-2026 in the subject line before the closing date of 18. January 2026."
+      "Please attach your CV and include a link to your previous work."
     ],
     "without": [
-      "Training Rust Experts Ferrocene Open Source Blog Get in touch",
-      "Do you need help with coding? Get in touch Get updates",
-      "You might be also interested in these.",
-      "Ferrous Systems Achieves IEC 61508 (SIL 2) Certification for Rust Core Library Subset",
-      "ISO 9001 certificate"
-    ]
+      "Home",
+      "Training",
+      "Rust Experts",
+      "Get in touch",
+      "Subscribe to Ferrous System's Blog"
+    ],
+    "images": {
+      "total_in_content": 9,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "/images/blog/bookcover_blog_post_announcement.svg",
+          "filename": "bookcover_blog_post_announcement.svg",
+          "alt": "Blog announcement article",
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:32:33.054574"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:57:28.310013"
 }

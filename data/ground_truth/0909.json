@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.trustpilot.com/categories/pest_control_service",
+  "file_id": "0909",
+  "_internal": {
+    "page_type": {
+      "primary": "directory",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "business directory",
+        "reviews",
+        "pest control",
+        "trustpilot"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Best companies in Pest Control Service on Trustpilot",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Best Bee Brothers, LLC - 4.6 TrustScore, 7,174 reviews. Aptive Pest Control - 4.4 TrustScore, 22,539 reviews. BugMD - 3.8 TrustScore, 1,151 reviews. Bed Bug Knocker - 3.6 TrustScore, 395 reviews. No Termite - 3.6 TrustScore, 64 reviews. Tougher Than Tom - 2.7 TrustScore, 284 reviews. Alley Cat - Rodent Exclusion Company - 4.9 TrustScore, 370 reviews. Critter Control of West Palm Beach - 4.9 TrustScore, 91 reviews. Bounty Pest Control - 4.8 TrustScore, 55 reviews. Bug Clinic - 4.7 TrustScore, 67 reviews. C and E Pest Management - 4.7 TrustScore, 42 reviews. Purple Care - 4.7 TrustScore, 24 reviews. Pacificairusa - 4.6 TrustScore, 18 reviews. ePestSupply - 4.5 TrustScore, 1,872 reviews. Qspray.com - 4.5 TrustScore, 40 reviews. Cape Cod Pest Pros - 4.5 TrustScore, 14 reviews. Absolute Pest Control - 4.4 TrustScore, 210 reviews. Magna Pest Solutions - 4.4 TrustScore, 12 reviews. Pestie - 4.3 TrustScore, 923 reviews. On The Green Inc. - 4.3 TrustScore, 15 reviews. 521 companies in Pest Control Service.",
+    "with": [
+      "Best companies in Pest Control Service on Trustpilot",
+      "Aptive Pest Control - 4.4 TrustScore, 22,539 reviews",
+      "Best Bee Brothers, LLC - 4.6 TrustScore, 7,174 reviews",
+      "BugMD - 3.8 TrustScore, 1,151 reviews",
+      "Companies (521)"
+    ],
+    "without": [
+      "Trustpilot logo",
+      "Rating star icons",
+      "Search for a company or category",
+      "Log in",
+      "For businesses"
+    ],
+    "images": {
+      "total_in_content": 40,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://consumersiteimages.trustpilot.net/business-units/56b504db0000ff0005888d5b-198x149-1x.jpg",
+          "filename": "56b504db0000ff0005888d5b-198x149-1x.jpg",
+          "alt": null,
+          "caption": "Best Bee Brothers company logo",
+          "is_hero": true
+        },
+        {
+          "src": "https://consumersiteimages.trustpilot.net/business-units/5ebee85ad159f30001a3a51f-198x149-1x.jpg",
+          "filename": "5ebee85ad159f30001a3a51f-198x149-1x.jpg",
+          "alt": null,
+          "caption": "Aptive Pest Control company logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://consumersiteimages.trustpilot.net/business-units/60ea5fe1486c2200018244fe-198x149-1x.jpg",
+          "filename": "60ea5fe1486c2200018244fe-198x149-1x.jpg",
+          "alt": null,
+          "caption": "BugMD company logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://consumersiteimages.trustpilot.net/business-units/64b6bc5a02ab1414f430d074-198x149-1x.jpg",
+          "filename": "64b6bc5a02ab1414f430d074-198x149-1x.jpg",
+          "alt": null,
+          "caption": "Bed Bug Knocker company logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://consumersiteimages.trustpilot.net/business-units/64832977faa76cdda508b587-198x149-1x.jpg",
+          "filename": "64832977faa76cdda508b587-198x149-1x.jpg",
+          "alt": null,
+          "caption": "No Termite company logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://consumersiteimages.trustpilot.net/business-units/5cd72150478699000150f27f-198x149-1x.jpg",
+          "filename": "5cd72150478699000150f27f-198x149-1x.jpg",
+          "alt": null,
+          "caption": "Alley Cat Rodent Exclusion company logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://consumersiteimages.trustpilot.net/business-units/53baaf400000640005790b66-198x149-1x.jpg",
+          "filename": "53baaf400000640005790b66-198x149-1x.jpg",
+          "alt": null,
+          "caption": "Critter Control company logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://consumersiteimages.trustpilot.net/business-units/5adcdcdfae928d000167902a-198x149-1x.jpg",
+          "filename": "5adcdcdfae928d000167902a-198x149-1x.jpg",
+          "alt": null,
+          "caption": "Bounty Pest Control company logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://consumersiteimages.trustpilot.net/business-units/602d830145331c0001d1a1fb-198x149-1x.jpg",
+          "filename": "602d830145331c0001d1a1fb-198x149-1x.jpg",
+          "alt": null,
+          "caption": "Bug Clinic company logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://consumersiteimages.trustpilot.net/business-units/63ceab1a87cab2e5824841b3-198x149-1x.jpg",
+          "filename": "63ceab1a87cab2e5824841b3-198x149-1x.jpg",
+          "alt": null,
+          "caption": "C and E Pest Management company logo",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:06:42.166153"
+}

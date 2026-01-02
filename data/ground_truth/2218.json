@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.learningrevolution.net/best-online-course-platforms/",
+  "file_id": "2218",
+  "_internal": {
+    "page_type": {
+      "primary": "review",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "online-course-platforms",
+        "software-review",
+        "education-technology",
+        "comparison"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "9 Best Online Course Platforms For Sellers I've Tried (2026)",
+    "author": "Jeff Cobb",
+    "publish_date": "2025-12-11",
+    "main_content": "Thinkific is the best platform to sell online courses. It has a robust no-code curriculum builder and course creation wizard that can have you launching your first course within hours. Thinkific's marketplace model gives your courses exposure to Thinkific's massive audience of learners. The biggest trade-off is Thinkific doesn't have built-in email marketing or advanced marketing features like many competitors. But you can easily integrate with tools like Mailerlite, ConvertKit, and other platforms. Kajabi is an all-in-one platform that combines course delivery with email marketing, websites, and pipelines. It has excellent built-in email marketing, a website builder, and pipeline features for managing sales funnels. However, Kajabi's biggest drawback is its price, which starts at $159/month. Kajabi integrates with Zoom, Facebook, and other platforms, but doesn't integrate with many third-party tools. Teachable is user-friendly and has all the features you need to create professional courses. You can sell single courses, subscriptions, bundles, and packages. Teachable lets you upload video, audio, PDF, and text content. The admin dashboard makes it easy to manage students, track progress, and handle payments. LearnWorlds has the best learning experience features of any course platform. It has interactive videos, embedded PDFs, and an AI assistant. The platform also has its own website builder, advanced assessment features, and a more advanced quiz system than competitors. LearnWorlds starts at $29/month for the Mid tier and $119/month for the Pro tier. Podia is a simple platform that lets you sell courses, coaching, and digital downloads. The biggest advantage is Podia is completely free - no transaction fees and no monthly fee. The downside is Podia doesn't have quizzes, compliance features, or advanced course delivery features. If you're just getting started and want to keep costs low, Podia is a good choice. Kartra is an all-in-one platform that includes courses, email marketing, helpdesk, and checkout. It has a visual campaign builder and extensive automation features. However, Kartra can be complex to set up, and its learning curve is steeper than other platforms. LearnDash is a WordPress plugin that turns any WordPress site into a powerful LMS. It has advanced gamification features including points, badges, and ranks. LearnDash integrates with many WordPress plugins for additional functionality. Circle.so combines community with course delivery. It has a strong focus on community features like threaded discussions and member profiles. Circle is best for creators who want to build a community around their courses. MightyNetworks is a platform for building communities and courses. It has powerful community features including events, livestreams, and member directories. The platform lets you create a hosted network under your own domain.",
+    "with": [
+      "Thinkific is the best platform to sell online courses and has a robust no-code curriculum builder and course creation wizard.",
+      "Kajabi is an all-in-one platform that combines course delivery with email marketing, websites, and pipelines.",
+      "Teachable is user-friendly and has all the features you need to create professional courses.",
+      "LearnWorlds has the best learning experience features of any course platform with interactive videos and embedded PDFs.",
+      "Podia is a simple platform that lets you sell courses, coaching, and digital downloads with no transaction fees."
+    ],
+    "without": [
+      "Skip to content",
+      "Tools & Reviews menu",
+      "Free Toolbox navigation",
+      "Our Courses menu option",
+      "Blog navigation menu"
+    ],
+    "images": {
+      "total_in_content": 42,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://www.learningrevolution.net/wp-content/smush-webp/best-online-course-platforms.jpg.webp",
+          "filename": "best-online-course-platforms.jpg.webp",
+          "alt": "best online course platforms",
+          "caption": "Best Online Course Platforms Comparison",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.learningrevolution.net/wp-content/smush-webp/thinkific-example-1024x514.jpg.webp",
+          "filename": "thinkific-example-1024x514.jpg.webp",
+          "alt": "thinkific best online course platform",
+          "caption": "Thinkific Course Platform Interface",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.learningrevolution.net/wp-content/smush-webp/kajabi-2026-1024x522.jpg.webp",
+          "filename": "kajabi-2026-1024x522.jpg.webp",
+          "alt": "kajabi 2026",
+          "caption": "Kajabi Platform Features 2026",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.learningrevolution.net/wp-content/smush-webp/LearnWorlds1-1024x497.jpg.webp",
+          "filename": "LearnWorlds1-1024x497.jpg.webp",
+          "alt": "LearnWorlds - One of the best online course platforms 2025",
+          "caption": "LearnWorlds Course Platform",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.learningrevolution.net/wp-content/smush-webp/podia-2025-1024x498.jpg.webp",
+          "filename": "podia-2025-1024x498.jpg.webp",
+          "alt": "Podia - One of the best all-in-one online course platform 2025",
+          "caption": "Podia Course Platform Interface",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.learningrevolution.net/wp-content/smush-webp/kartra-2025-1024x495.jpg.webp",
+          "filename": "kartra-2025-1024x495.jpg.webp",
+          "alt": "Kartra - one of the best all-in-one course platforms 2025",
+          "caption": "Kartra Course Platform",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.learningrevolution.net/wp-content/smush-webp/learndash-2025-1024x580.jpg.webp",
+          "filename": "learndash-2025-1024x580.jpg.webp",
+          "alt": "LearnDash - one of the best all-in-one course platforms 2025",
+          "caption": "LearnDash WordPress LMS",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.learningrevolution.net/wp-content/smush-webp/circle-so-1024x587.jpg.webp",
+          "filename": "circle-so-1024x587.jpg.webp",
+          "alt": "circle community platform 2025",
+          "caption": "Circle Community Platform",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.learningrevolution.net/wp-content/smush-webp/mightynetworks-courses-2026-1024x617.jpg.webp",
+          "filename": "mightynetworks-courses-2026-1024x617.jpg.webp",
+          "alt": "mightynetworks courses 2026",
+          "caption": "MightyNetworks Courses",
+          "is_hero": false
+        },
+        {
+          "src": "http://lrsitedev.wpengine.com/wp-content/uploads/Jeff-Cobb-Headshot-2-1024x1024.jpg",
+          "filename": "Jeff-Cobb-Headshot-2-1024x1024.jpg",
+          "alt": "Head shot of Learning Revolution Founder Jeff Cobb",
+          "caption": "Jeff Cobb - Learning Revolution Founder",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:11:32.185780"
+}

@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.harpersbazaar.com/fashion/",
+  "file_id": "1351",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "fashion",
+        "lifestyle",
+        "magazine",
+        "trends"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Fashion 2025 - Runway Trends, Fashion Designers, and Style Tips",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Harper's Bazaar Fashion section presents comprehensive coverage of the latest runway trends, fashion designers to watch, and style advice for the season. Featured articles include Bazaar Editors' picks for the best winter coats for women, The Social Calendar by Harry Winston, and the triangle scarf as winter's latest it accessory. The page highlights the best gloves for winter, sneakers that Bazaar editors are obsessed with, and fashion-approved snow boot outfits proving function and style can coexist. Additional content covers winter scarves, controversial celebrity fashion looks, the rise of quarter zip sweaters, and what to shop at Nordstrom's half-yearly sale. Style guides include the little black dress as a wardrobe icon, the 'undone' fashion trend for spring 2025, the 'Marty Supreme Orange' color trend inspired by celebrities, and eyeglasses as a fashion statement. Holiday content features gifts for women who have everything, chocolate brown as winter's elegant color trend, velvet styling beyond the holiday party, and holiday shipping deadlines. Gift guides cover white elephant gifts, stocking stuffers, personalized jewelry, and black accessories. Luxury content includes Rado watches worth gifting, Pantone's 2026 Color of the Year, Chanel accessories from the NYC-themed show, minimalist winter outfits, and the best gifts for mom. Runway coverage encompasses Gucci's pre-fall 2026 collection, leather bomber jackets for winter, winter sweater trends, and holiday party outfit inspiration. The section also features fashion photography features and Donna Karan's travel and layering expertise.",
+    "with": [
+      "All you need to know about what's new on the runway, the designers to watch, the best fashions of the season, and style advice on how to wear them.",
+      "The Best Winter Coats for Women, According to Bazaar Editors",
+      "Proof that function and style can coexist",
+      "The Little Black Dress Is a Wardrobe Icon",
+      "75 Unique Gifts for Women Who Have It All"
+    ],
+    "without": [
+      "sign in",
+      "Subscribe",
+      "Privacy Notice",
+      "Terms Of Use",
+      "Advertisement - Continue Reading Below"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://hips.hearstapps.com/hmg-prod/images/240606-gabriel-harpers-shot03-0047-67800002522fc.png?crop=0.593xw:0.889xh;0.272xw,0.111xh&resize=640:*",
+          "filename": "240606-gabriel-harpers-shot03-0047-67800002522fc.png",
+          "alt": "a person sitting in a red dress against a textured purple wall",
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://hips.hearstapps.com/hmg-prod/images/1215-coatguide-00b-69444b6975dc0.jpg?crop=0.563xw:1.00xh;0.179xw,0&resize=480:*",
+          "filename": "1215-coatguide-00b-69444b6975dc0.jpg",
+          "alt": "collection of street style outfits by various individuals",
+          "caption": "collection of street style outfits by various individuals",
+          "is_hero": false
+        },
+        {
+          "src": "https://hips.hearstapps.com/hmg-prod/images/tc-harrywinston-digital-article-images-69309719cc3ec.jpg?crop=0.502xw:1.00xh;0.250xw,0&resize=360:*",
+          "filename": "tc-harrywinston-digital-article-images-69309719cc3ec.jpg",
+          "alt": "harry winston",
+          "caption": "harry winston",
+          "is_hero": false
+        },
+        {
+          "src": "https://hips.hearstapps.com/hmg-prod/images/trianglescarf-00-69458ae3610b2.jpg?crop=0.997xw:0.997xh;0.00321xw,0&resize=360:*",
+          "filename": "trianglescarf-00-69458ae3610b2.jpg",
+          "alt": "person wearing a brown fur shawl over a textured sweater",
+          "caption": "person wearing a brown fur shawl over a textured sweater",
+          "is_hero": false
+        },
+        {
+          "src": "https://hips.hearstapps.com/hmg-prod/images/gloves-00-69455aa2dc16f.jpg?crop=0.995xw:0.995xh;0.00481xw,0&resize=360:*",
+          "filename": "gloves-00-69455aa2dc16f.jpg",
+          "alt": "dark leather gloves resting on a white fur garment",
+          "caption": "dark leather gloves resting on a white fur garment",
+          "is_hero": false
+        },
+        {
+          "src": "https://hips.hearstapps.com/hmg-prod/images/1218-nike-00-69447d31085fc.jpg?crop=0.563xw:1.00xh;0,0&resize=360:*",
+          "filename": "1218-nike-00-69447d31085fc.jpg",
+          "alt": "collage showcasing various shoes and outfit selfies",
+          "caption": "collage showcasing various shoes and outfit selfies",
+          "is_hero": false
+        },
+        {
+          "src": "https://hips.hearstapps.com/hmg-prod/images/1218-snowboots-00-69442b6790bbe.gif?crop=1xw:0.8890469416785206xh;center,top",
+          "filename": "1218-snowboots-00-69442b6790bbe.gif",
+          "alt": "fashion items including clothing and accessories",
+          "caption": "fashion items including clothing and accessories",
+          "is_hero": false
+        },
+        {
+          "src": "https://hips.hearstapps.com/hmg-prod/images/1218-mich-00-694432fce4392.jpg?crop=1.00xw:0.742xh;0,0&resize=360:*",
+          "filename": "1218-mich-00-694432fce4392.jpg",
+          "alt": "person wearing a thick knitted sweater and a scarf",
+          "caption": "person wearing a thick knitted sweater and a scarf",
+          "is_hero": false
+        },
+        {
+          "src": "https://hips.hearstapps.com/hmg-prod/images/1216-controversial-00-6941bbb6a31fb.gif?crop=0.5624xw:1xh;center,top&resize=360:*",
+          "filename": "1216-controversial-00-6941bbb6a31fb.gif",
+          "alt": "collage of celebrities in crazy outfits",
+          "caption": "collage of celebrities in crazy outfits",
+          "is_hero": false
+        },
+        {
+          "src": "https://hips.hearstapps.com/hmg-prod/images/imgi-1-nw251-dm9232-d6-a-6941b2b46deba.jpeg?crop=1.00xw:0.787xh;0,0.00126xh&resize=360:*",
+          "filename": "imgi-1-nw251-dm9232-d6-a-6941b2b46deba.jpeg",
+          "alt": "nordstrom sale december 2025",
+          "caption": "nordstrom sale december 2025",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:50:15.958378"
+}

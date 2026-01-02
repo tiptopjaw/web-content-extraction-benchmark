@@ -1,0 +1,62 @@
+{
+  "schema_version": "2.0",
+  "url": "https://words.filippo.io/keyserver-tlog",
+  "file_id": "2553",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "security",
+        "cryptography",
+        "tutorial",
+        "golang"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Building a Transparent Keyserver",
+    "author": "Filippo Valsorda",
+    "publish_date": "2025-12-19",
+    "main_content": "Today, we are going to build a keyserver to lookup age public keys. That's part is boring. What's interesting is that we'll apply the same transparency log technology as the Go Checksum Database to keep the keyserver operator honest and unable to surreptitiously inject malicious keys, while still protecting user privacy and delivering a smooth UX. You can see the final result at keyserver.geomys.org. We'll build it step-by-step, using modern tooling from the tlog ecosystem, integrating transparency in less than 500 lines.\n\nTrusting the third party that operates the keyserver lets you solve identity, authentication, and spam by just delegating the responsibilities of checking email ownership and implementing rate limiting. The keyserver can send a link to the email address, and whoever receives it is authorized to manage the public key(s) bound to that address.\n\nTransparency logs are a technology for applying cryptographic accountability to centralized systems with no UX sacrifices. A transparency log or tlog is an append-only, globally consistent list of entries, with efficient cryptographic proofs of inclusion and consistency. The log operator appends entries to the log, which can be tuples like (package, version, hash) or (email, public key). The clients verify an inclusion proof before accepting an entry, guaranteeing that the log operator will have to stand by that entry in perpetuity and to the whole world, with no way to hide it or disown it.\n\nWe created a problem by implementing this tlog: now all the email addresses of our users are public! The right tool for the job is a Verifiable Random Function. You can think of a VRF as a hash with a private and public key: only you can produce a hash value, using the private key, but anyone can check that it's the correct (and unique) hash value, using the public key.\n\nWe have one last marginal risk to mitigate: since we can't ever remove entries from the tlog, what if someone inserts some unsavory message in the log by smuggling it in as a public key? Protecting against this risk is called anti-poisoning.\n\nTo get the delayed, collective verification we need, all clients and monitors must see consistent views of the same log, where the log maintains its append-only property. This is called non-equivocation, or split-view protection. The tlog ecosystem has the concept of witness cosigners: third-party operated services which cosign a checkpoint to attest that it is consistent with all the other checkpoints the witness observed for that log.\n\nWe started with a simple centralized email-authenticated keyserver, and we turned it into a transparent, privacy-preserving, anti-poisoning, and witness-cosigned service. We did that in four small steps using Tessera, Torchwood, and various C2SP specifications. Overall, it took less than 500 lines. The UX is completely unchanged: there are no keys for users to manage, and the web UI and CLI work exactly like they did before.",
+    "with": [
+      "Today, we are going to build a keyserver to lookup age public keys.",
+      "Transparency logs are a technology for applying cryptographic accountability to centralized systems with no UX sacrifices.",
+      "A transparency log or tlog is an append-only, globally consistent list of entries, with efficient cryptographic proofs of inclusion and consistency.",
+      "We created a problem by implementing this tlog, though: now all the email addresses of our users are public!",
+      "The right tool for the job is a Verifiable Random Function."
+    ],
+    "without": [
+      "Subscribe to newsletter",
+      "Copyright 2025",
+      "Privacy Policy",
+      "Navigation menu item",
+      "Footer links"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://assets.buttondown.email/images/d4f72ca6-0ff7-4b1b-8890-1b8f0cbfad90.png",
+          "filename": "d4f72ca6-0ff7-4b1b-8890-1b8f0cbfad90.png",
+          "alt": "the keyserver web UI",
+          "caption": "the keyserver web UI",
+          "is_hero": false
+        },
+        {
+          "src": "https://assets.buttondown.email/images/bbbcaa91-46e2-40d9-adcb-973ff54d0958.jpeg",
+          "filename": "bbbcaa91-46e2-40d9-adcb-973ff54d0958.jpeg",
+          "alt": "Rolling hills in autumn with golden trees bordering a plowed field, hilltop church and village in the distance, and mountains under blue sky",
+          "caption": "Rolling hills in autumn with golden trees bordering a plowed field, hilltop church and village in the distance, and mountains under blue sky",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:52:03.507252"
+}

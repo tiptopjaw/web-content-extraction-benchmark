@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "url": "https://terabyte.systems/posts/what-is-git-and-how-does-version-control-work",
+  "file_id": "2538",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "guide",
+        "git",
+        "version-control",
+        "developer-tools"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "What is Git and How Does Version Control Work? | Terabyte Systems",
+    "author": "David Kim",
+    "publish_date": "2025-12-17",
+    "main_content": "If you write code, you need to use Git. Full stop. It's become so fundamental to software development that it's hard to imagine working without it. But here's the thing: a lot of developers use Git without really understanding what's happening under the hood. I'm going to walk you through what Git actually does, why it's designed the way it is, and how to use it effectively. By the end, you'll understand not just the commands, but the underlying model that makes Git so powerful. Before we dive into Git specifically, let's talk about why version control exists at all. Version control systems formalize the chaos of manual file versioning into a structured system. Git isn't the only version control system out there. Before Git became dominant, systems like SVN (Subversion) and CVS were common. The key difference is that Git is distributed while older systems were centralized. With Git, every developer has a complete copy of the repository with full history. This means you can commit changes locally without network access, the repository is backed up on every developer's machine, branching and merging are lightning fast, and you can work on multiple features simultaneously without conflicts. Here's where it gets interesting. Git doesn't store your files the way you might think. Understanding this model is key to mastering Git. Every file in your Git repository can be in one of three states: Modified (you've changed the file but haven't committed it yet), Staged (you've marked a modified file to go into your next commit), or Committed (the file is safely stored in your local repository). Here's what blew my mind when I first learned it: Git doesn't store file changes (deltas), it stores snapshots. When you commit, Git takes a snapshot of all your files and stores a reference to that snapshot. If files haven't changed, Git doesn't store them again—it just links to the previous version. Branches in Git are incredibly lightweight—they're just pointers to commits. This is why branching is so fast in Git. Git tries to automatically merge changes, and there are two types of merges: Fast-Forward Merge (when the target branch hasn't diverged) and Three-Way Merge (when both branches have changes). Sometimes Git can't automatically merge changes, and you get a conflict that you need to resolve manually. Git is distributed, so you can push and pull from remote repositories like GitHub, GitLab, or your own server. I prefer git fetch plus git merge over git pull because it lets me review changes before merging them into my local branch. Rebasing rewrites commit history by moving commits to a new base, which is useful when you want to keep a linear project history. Stashing temporarily saves changes without committing, which is useful when you need to quickly switch contexts. After years of using Git on teams of all sizes, here are the practices that make a difference: Write good commit messages that start with a concise summary and explain what changed and why. Commit often and push deliberately—make small, focused commits as you work. Use branches for everything—never commit directly to main. Keep your local main up to date by regularly pulling from origin. Use .gitignore to avoid committing generated files, dependencies, or sensitive data. Git is one of those tools that seems simple on the surface but has incredible depth. The key to mastering it is understanding the underlying model: snapshots, not deltas; branches as pointers; commits as nodes in a graph. Once you internalize these concepts, Git's commands start to make sense. You stop memorizing recipes and start understanding what each command actually does to the repository.",
+    "with": [
+      "If you write code, you need to use Git. Full stop. It's become so fundamental to software development that it's hard to imagine working without it.",
+      "Every file in your Git repository can be in one of three states: Modified, Staged, or Committed.",
+      "Git doesn't store file changes (deltas), it stores snapshots. When you commit, Git takes a snapshot of all your files and stores a reference to that snapshot.",
+      "Branches in Git are incredibly lightweight—they're just pointers to commits. This is why branching is so fast in Git.",
+      "The key to mastering it is understanding the underlying model: snapshots, not deltas; branches as pointers; commits as nodes in a graph."
+    ],
+    "without": [
+      "Terabyte Systems",
+      "Home • Articles • About • Contact",
+      "© 2025 Terabyte Systems. All rights reserved.",
+      "Privacy • Terms • RSS Feed",
+      "Toggle dark mode"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:44:43.890844"
+}

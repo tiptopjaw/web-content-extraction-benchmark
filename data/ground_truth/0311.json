@@ -1,0 +1,82 @@
+{
+  "schema_version": "2.0",
+  "url": "https://hevycoach.com/fitness-trends/",
+  "file_id": "0311",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "fitness",
+        "trends",
+        "health",
+        "technology"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Fitness Trends 2025: 9 Things to Keep an Eye On",
+    "author": "Philip Stefanov",
+    "publish_date": "2024-06-20",
+    "main_content": "Coaching platforms, wearable technology, virtual reality workouts, artificial intelligence fitness coaching, and exercise as a tool for mental health are some of the biggest fitness trends in 2025. Thanks to the continued innovations, wearables are proposed to have a huge impact, allowing for more in-depth tracking and seamless integration. High-Intensity Interval Training (HIIT) is simply a form of exercise where you alternate between short periods of near-maximal effort and recovery. One popular option is interval running—for example, run at 80-85% for 30 seconds, walk for a minute, and repeat. Do ten rounds of that, and you're done. Online training used to be a fragmented experience, with coaches using email, social media, Google Sheets and Docs, Skype or Zoom for video calls, and other tools to communicate, plan workouts, and deliver files. Enter coaching platforms designed to streamline the coaching process and put all communication between a trainer and their client in one place. Wearable technology might seem like a fad, but it's a fitness trend unlikely to go away soon. In the early days, wearables were basic, inaccurate, and not that useful. But today, such devices are everywhere and are growing more sophisticated by the year. We've (hopefully) put the global pandemic in the rear-view mirror, but that doesn't mean its impact has faded completely. Even today, countless people still carry the trauma of social isolation, uncertainty, contracting the virus, or even losing close people. Like most other fitness trends, online coaching is not new. It's been around for quite a while and has evolved. Instead of meeting clients in person, coaches can work with them over the Internet. Virtual reality, often called VR, is a new type of digital technology designed to immerse people into a simulated environment. Unlike traditional screen interactions, VR places users inside the experience, allowing them to interact with a new world. Functional fitness is any form of physical activity that prepares the body to handle real-world activities, including daily tasks like carrying groceries and climbing stairs. The goal is to train the body in a way where muscles learn to work together, produce more complex movements, and keep us safe. Despite the countless innovations in tech, artificial intelligence (AI) stands out as a particularly transformative force. Home training saw a meteoric rise in popularity during the pandemic, with countless people opting to exercise in the comfort and safety of their homes. Of course, many people have since returned to the gym and have forgotten the days of doing push-ups and bodyweight squats to maintain muscle.",
+    "with": [
+      "Coaching platforms, wearable technology, virtual reality workouts, artificial intelligence fitness coaching, and exercise as a tool for mental health are some of the biggest fitness trends in 2025.",
+      "HIIT is simply a form of exercise where you alternate between short periods of near-maximal effort and recovery.",
+      "Enter coaching platforms designed to streamline the coaching process and put all communication between a trainer and their client in one place.",
+      "Virtual reality, often called VR, is a new type of digital technology designed to immerse people into a simulated environment.",
+      "AI coaching provides 24/7 support, affordable pricing, and tailored guidance based on each person's data."
+    ],
+    "without": [
+      "Sign Up",
+      "Get Started",
+      "Try Hevy Coach",
+      "30 day free trial, no credit card required",
+      "Keep Reading"
+    ],
+    "images": {
+      "total_in_content": 17,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://hevycoach.com/wp-content/uploads/2024/06/karsten-winegeart-0Wra5YYVQJE-unsplash-1.jpg",
+          "filename": "karsten-winegeart-0Wra5YYVQJE-unsplash-1.jpg",
+          "alt": "battle ropes",
+          "caption": "battle ropes",
+          "is_hero": false
+        },
+        {
+          "src": "https://hevycoach.com/wp-content/uploads/2023/11/hevy-coach-feature-image-768x403.png",
+          "filename": "hevy-coach-feature-image-768x403.png",
+          "alt": "hevy coach feature image",
+          "caption": "hevy coach feature image",
+          "is_hero": true
+        },
+        {
+          "src": "https://hevycoach.com/wp-content/uploads/2024/06/blocks-fletcher-3_PaUEEcwMc-unsplash-1.jpg",
+          "filename": "blocks-fletcher-3_PaUEEcwMc-unsplash-1.jpg",
+          "alt": "HIIT watch",
+          "caption": "HIIT watch",
+          "is_hero": false
+        },
+        {
+          "src": "https://hevycoach.com/wp-content/uploads/2024/05/pexels-kampus-8173452-1.jpg",
+          "filename": "pexels-kampus-8173452-1.jpg",
+          "alt": "group online fitness",
+          "caption": "group online fitness",
+          "is_hero": false
+        },
+        {
+          "src": "https://hevycoach.com/wp-content/uploads/2024/06/pexels-heyho-7174396-1.jpg",
+          "filename": "pexels-heyho-7174396-1.jpg",
+          "alt": "at home gym ",
+          "caption": "at home gym",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:48:38.858697"
+}

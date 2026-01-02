@@ -1,27 +1,82 @@
 {
+  "schema_version": "2.0",
   "url": "https://moveadvisor.com/move/moving-news/",
   "file_id": "0293",
-  "downloaded_at": "2025-12-20T18:34:51.434363",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "blog",
+        "news",
+        "moving-industry",
+        "archive"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Moving Industry News & Publications",
+    "title": "The Moving Industry News by MyMovingReviews.com",
     "author": "Martin Panayotov",
     "publish_date": null,
-    "main_content": "The latest moving industry news – latest moving technologies, business news on moving companies, publications and moving regulations. What’s new in the moving and storage field. All you need to know about the latest trends.\n\nBe always up to date with the latest news and new technologies in the industry. You are welcomed to submit your moving news – see the “Contribute” page for more info.\n\nGet back regularly for up-to-date news, interviews and coverage of the latest notable events.\n\nIn depth on Moving Industry News & Publications\n\nProtecting consumers is our priority\nBy Martin Panayotov\nApr 9, 2024\n< 1 min read\n\nFMCSA Updates Transportation of Household Goods Regulations\nBy Joshua Green\nAug 30, 2022\n3 min read\n\nMoving Trends and Statistics for 2021: Relocation in the Time of COVID-19 Pandemic\nBy Jessica Ryan\nJan 18, 2022\n7 min read\n\nMoving Trends 2020: The Viral Impact of COVID-19 on the Moving Industry\nBy Joshua Green\nNov 3, 2020\n5 min read\n\nMoving Home During the Coronavirus Outbreak\nBy Peter Langley\nMar 30, 2020\n7 min read\n\nMoving Statistics 2019: Annual Moving Industry Infographic\nBy Joshua Green\nJan 24, 2020\n5 min read\n\nGrosScherz Movers EU Revolutionizes the US Home Moving Industry\nBy Peter Langley\nApr 1, 2019\n4 min read\n\nMoving Statistics 2018: Annual Moving Industry Infographic\nBy Joshua Green\nJan 7, 2019\n4 min read\n\nMyMovingReviews on Acquiring MoveAdvisor, “Exciting Times for All of Us!”\nBy Joshua Green\nAug 16, 2018\n3 min read\n\nMoving Industry Trends 2017: Numbers Can Talk\nBy Manuella Irwin\nDec 12, 2017\n2 min read\n\nMoving Trends 2016: Annual Moving Industry Snapshot\nBy Martin Panayotov\nDec 9, 2016\n3 min read\n\nThe U.S. Moving Industry – Challenges, Analysis and Predictions\nBy Manuella Irwin\nMay 5, 2016\n2 min read\n\nMoving Trends: 2015 Annual Relocation Data Survey\nBy Manuella Irwin\nDec 7, 2015\n3 min read\n\nMoving Industry Trends – Season 2014 in Numbers\nBy Manuella Irwin\nFeb 16, 2015\n2 min read\n\n7 Mind-Blowing Stats about Moving in 2013\nBy Martin Panayotov\nDec 18, 2013\n< 1 min read\n\nMoving Season 2012 Infographic – Numbers talk\nBy Manuella Irwin\nJan 21, 2013\n2 min read\n\nTop 10 Moving Posts & Summary of 2012\nBy Martin Panayotov\nDec 15, 2012\n2 min read\n\nThe US Moving Industry Snapshot 2012\nBy Martin Panayotov\nDec 4, 2012\n2 min read\n\nLargest Moving Companies in USA\nBy Martin Panayotov\nJul 16, 2012\n< 1 min read\n\nWhy does MyMovingReviews have a Review Filter\nBy MovingGuru\nMay 28, 2012\n< 1 min read",
+    "main_content": "The latest moving industry news – latest moving technologies, business news on moving companies, publications and moving regulations. What's new in the moving and storage field. All you need to know about the latest trends. Be always up to date with the latest news and new technologies in the industry. You are welcomed to submit your moving news – see the \"Contribute\" page for more info. Get back regularly for up-to-date news, interviews and coverage of the latest notable events. This archive contains articles including: Protecting consumers is our priority, FMCSA Updates Transportation of Household Goods Regulations, Moving Trends and Statistics for 2021: Relocation in the Time of COVID-19 Pandemic, Moving Trends 2020: The Viral Impact of COVID-19 on the Moving Industry, Moving Home During the Coronavirus Outbreak, Moving Statistics 2019: Annual Moving Industry Infographic, GrosScherz Movers EU Revolutionizes the US Home Moving Industry, Moving Statistics 2018: Annual Moving Industry Infographic, MyMovingReviews on Acquiring MoveAdvisor, \"Exciting Times for All of Us!\", Moving Industry Trends 2017: Numbers Can Talk, Moving Trends 2016: Annual Moving Industry Snapshot, The U.S. Moving Industry – Challenges, Analysis and Predictions, Moving Trends: 2015 Annual Relocation Data Survey, Moving Industry Trends – Season 2014 in Numbers, 7 Mind-Blowing Stats about Moving in 2013, Moving Season 2012 Infographic – Numbers talk, Top 10 Moving Posts & Summary of 2012, The US Moving Industry Snapshot 2012, Largest Moving Companies in USA, and Why does MyMovingReviews have a Review Filter.",
     "with": [
       "The latest moving industry news – latest moving technologies, business news on moving companies, publications and moving regulations.",
       "Be always up to date with the latest news and new technologies in the industry.",
       "Get back regularly for up-to-date news, interviews and coverage of the latest notable events.",
-      "Protecting consumers is our priority",
+      "Moving Trends and Statistics for 2021: Relocation in the Time of COVID-19 Pandemic",
       "FMCSA Updates Transportation of Household Goods Regulations"
     ],
     "without": [
-      "Get a Free Quote",
-      "Search companies",
-      "Do you need help with your upcoming move? Call now +1 (800) 989-8833",
-      "© 2025 World Media Group LLC. All rights reserved.",
-      "We use cookies to optimise your experience."
-    ]
+      "Get a free quote and moving consultation",
+      "© 2025 World Media Group LLC. All rights reserved",
+      "Privacy policy | Terms of service | Sitemap",
+      "Find Movers | Quote by Phone | Get a Quote",
+      "We use cookies to optimise your experience"
+    ],
+    "images": {
+      "total_in_content": 33,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://moveadvisor.com/move/wp-content/uploads/2019/11/moving-news.jpg",
+          "filename": "moving-news.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://moveadvisor.com/move/wp-content/uploads/2024/04/consumer_protection1-300x200.jpg",
+          "filename": "consumer_protection1-300x200.jpg",
+          "alt": "consumer protection",
+          "caption": "consumer protection",
+          "is_hero": false
+        },
+        {
+          "src": "https://moveadvisor.com/move/wp-content/uploads/2022/08/DOT-300x169.jpg",
+          "filename": "DOT-300x169.jpg",
+          "alt": "Federal Motor Carrier Safety Administration (FMCSA)",
+          "caption": "Federal Motor Carrier Safety Administration (FMCSA)",
+          "is_hero": false
+        },
+        {
+          "src": "https://moveadvisor.com/move/wp-content/uploads/2022/01/moving-trends-and-statistics-300x169.jpg",
+          "filename": "moving-trends-and-statistics-300x169.jpg",
+          "alt": "Moving trends and statistics for 2021",
+          "caption": "Moving trends and statistics for 2021",
+          "is_hero": false
+        },
+        {
+          "src": "https://moveadvisor.com/move/wp-content/uploads/2020/03/Coronavirus-300x169.jpg",
+          "filename": "Coronavirus-300x169.jpg",
+          "alt": "Moving Home During Lockdown",
+          "caption": "Moving Home During Lockdown",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:34:51.434368"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:43:51.063478"
 }

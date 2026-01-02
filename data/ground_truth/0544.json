@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.dealfuel.com/product-category/all/tools-software/social-media-management-software-tools/",
+  "file_id": "0544",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "ecommerce",
+        "category",
+        "software",
+        "deals"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Social Media Management Tools | DealFuel",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Social Media Management Tools category page displaying various software tools for social media management, including analytics and scheduling tools at discounted prices. Products available include ZapDM Instagram DM Automation Tool, Lyter LinkedIn Marketing Tool, QusoAI Social Management Tool, Statuz Social Media Post Creator & Scheduler, SocioSight Social Media Marketing Software, BlackTwist Social Media Automation for Threads, Brand2Social Social Media Management Platform, InstaPlug, Mentionmind Social Media Monitoring, Linkedim Link Generator, TubeRank Jeet Pro, and LinkedIn Profile Makeover Workbook. These tools are available with annual and lifetime access deals.",
+    "with": [
+      "Get the best social media management tools, including analytics and scheduling tools, with annual and lifetime access at discounted prices.",
+      "Social Media Management Tools & Software",
+      "ZapDM – Instagram DM Automation Tool",
+      "Lyter – LinkedIn Marketing Tool",
+      "Quso AI – Social Management Tool"
+    ],
+    "without": [
+      "Skip to content",
+      "Search for:",
+      "Get 25% OFF!",
+      "Submit Deal",
+      "My Account"
+    ],
+    "images": {
+      "total_in_content": 18,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://www.dealfuel.com/wp-content/uploads/2025/09/ZapDM-Instagram-DM-Automation-Tool-Feature-Image-3-450x281.webp",
+          "filename": "ZapDM-Instagram-DM-Automation-Tool-Feature-Image-3-450x281.webp",
+          "alt": "ZapDM - Instagram DM Automation Tool Feature Image",
+          "caption": "ZapDM - Instagram DM Automation Tool Feature Image",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.dealfuel.com/wp-content/uploads/2025/06/Lyter-Feature-Image-1-450x281.webp",
+          "filename": "Lyter-Feature-Image-1-450x281.webp",
+          "alt": "Lyter LinkedIn Marketing Tool Feature Image",
+          "caption": "Lyter LinkedIn Marketing Tool Feature Image",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.dealfuel.com/wp-content/uploads/2025/05/QusoAI-Feature-Image-1-450x281.webp",
+          "filename": "QusoAI-Feature-Image-1-450x281.webp",
+          "alt": "Quso AI - Social Management Tool Feature Image Annual Deal",
+          "caption": "Quso AI - Social Management Tool Feature Image Annual Deal",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.dealfuel.com/wp-content/uploads/2024/12/Statuz-Feature-Image-450x281.webp",
+          "filename": "Statuz-Feature-Image-450x281.webp",
+          "alt": "Statuz Social Media Post Creator & Scheduler Annual Deal Feature Image",
+          "caption": "Statuz Social Media Post Creator & Scheduler Feature Image",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.dealfuel.com/wp-content/uploads/2024/11/SocioSight-Feature-Image-450x281.webp",
+          "filename": "SocioSight-Feature-Image-450x281.webp",
+          "alt": "SocioSight Social Media Marketing software Lifetime Deal Feature Image",
+          "caption": "SocioSight Social Media Marketing Software Lifetime Deal Feature Image",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.dealfuel.com/wp-content/uploads/2024/09/BlackTwist-feature-image-450x281.webp",
+          "filename": "BlackTwist-feature-image-450x281.webp",
+          "alt": "Feature image of BlackTwist - Social media automation software for Threads",
+          "caption": "BlackTwist Feature Image - Social Media Automation for Threads",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.dealfuel.com/wp-content/uploads/2024/09/Brand2Social-feature-image-450x281.webp",
+          "filename": "Brand2Social-feature-image-450x281.webp",
+          "alt": "Feature image of Brand2Social - social media management platform lifetime deal",
+          "caption": "Brand2Social Feature Image - Social Media Management Platform Lifetime Deal",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.dealfuel.com/wp-content/uploads/2024/06/InsaPlug-Feature-Image-450x281.webp",
+          "filename": "InsaPlug-Feature-Image-450x281.webp",
+          "alt": "InstaPlug Lifetime Deal Feature Image",
+          "caption": "InstaPlug Lifetime Deal Feature Image",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.dealfuel.com/wp-content/uploads/2023/08/Mention-Mind-Feature-Image-450x281.jpg",
+          "filename": "Mention-Mind-Feature-Image-450x281.jpg",
+          "alt": "Feature image of Mentionmind- real-time web and social media monitoring tool",
+          "caption": "Mentionmind Feature Image - Real-time Web and Social Media Monitoring Tool",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.dealfuel.com/wp-content/uploads/2023/06/Linkedim-Feature-Image-450x281.jpg",
+          "filename": "Linkedim-Feature-Image-450x281.jpg",
+          "alt": "Feature Image of Linkedim Link generator",
+          "caption": "Linkedim Feature Image - Link Generator",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:22:29.353861"
+}

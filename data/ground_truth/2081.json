@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.usingenglish.com/forum/threads/car-rental-or-car-rent.115684/",
+  "file_id": "2081",
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "esl",
+        "vocabulary",
+        "english-learning",
+        "discussion"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "[Vocabulary] - Car rental or car rent? | UsingEnglish.com ESL Forum",
+    "author": "tomashusner@hotmail.com",
+    "publish_date": "2010-02-20",
+    "main_content": "The original poster, Tomas from the Czech Republic, is developing an English course for car rental companies and asks which sounds better: 'Car rental English' or 'English for car rental'. Forum members respond with various suggestions including 'An English Course in Car Rental', 'English for Car Rental businesses', and 'English for Car Rental Companies'. The discussion also covers regional English differences - in British English, 'car hire' is commonly used (e.g., 'Car Hire Agency') while American English prefers 'car rental' and 'rent a car'. One British speaker clarifies they would use 'car hire' as the noun and 'rent a car' as the verb. Another suggestion focuses on the target audience: 'English for Car Rental Personnels/Professionals' rather than businesses.",
+    "with": [
+      "I am currently working at a language school where I am supposed to make an English course which should be specialized for car rental companies.",
+      "Now I don't know what sounds better in English: a) Car rental English b) English for car rental",
+      "I'd rather say: An English Course in Car Rental",
+      "Perhaps: 'English for Car Rental businesses'.",
+      "My British guests seem to refer to a car rental agency as a 'Car Hire Agency'."
+    ],
+    "without": [
+      "Log in",
+      "Register",
+      "UsingEnglish.com ESL Forum",
+      "Not open for further replies.",
+      "Community platform by XenForo®"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:34:20.037793"
+}

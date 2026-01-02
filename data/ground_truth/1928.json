@@ -1,0 +1,61 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.jll.com/en-us/insights/artificial-intelligence-and-its-implications-for-real-estate",
+  "file_id": "1928",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "real-estate",
+        "research-report",
+        "ai"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Artificial Intelligence: Real Estate Revolution or Evolution?",
+    "author": null,
+    "publish_date": "2024-03-25",
+    "main_content": "JLL's latest research report examines the implications of AI for real estate. According to JLL's Future of Work Survey, 89% of C-suite leaders believe AI can help solve major commercial real estate challenges. By the end of 2024, over 700 companies were providing AI-powered real estate technology solutions. In the US alone, AI companies occupy more than 2.04 million square meters of real estate, a footprint expected to grow to 5.2 million square meters by 2030.\n\nAI has enormous potential to reshape real estate with impacts ranging from new markets and asset types to innovations in investment and revenue models. A rapidly expanding AI ecosystem and its supporting infrastructure will drive demand for real estate globally. The key findings indicate that AI companies and investments cluster around established tech markets, with growth concentrated in locations where AI talent is available.\n\nThe report distinguishes between Generative AI, which creates new content, and Agentic AI, which can autonomously pursue goals and make contextual decisions. AI uses machine learning and deep learning algorithms to learn from experience, recognize patterns, and make decisions. Commercial real estate will feel the effects through five adaptive responses to technological changes: geolocation shifts, altered asset demand, new asset types, changed revenue models, and transformed space design.\n\nThe real estate industry is already proactively adopting technologies, with 90.1% of companies expecting to carry out corporate real estate activities with AI supporting human experts. Top AI use cases include document sorting, IoT data mining, price modeling, satellite image processing, and construction scheduling. Early adopters are seeing significant returns, such as Royal London Asset Management achieving 708% ROI through AI-powered building management.",
+    "with": [
+      "89% of C-suite leaders believe AI can help solve major commercial real estate challenges.",
+      "By the end of 2024, over 700 companies were providing AI-powered real estate technology solutions.",
+      "In the US alone, AI companies occupy more than 2.04 million square meters of real estate.",
+      "Agentic AI refers to systems that can autonomously pursue goals, make contextual decisions, and take actions without continuous human prompting.",
+      "Royal London Asset Management achieved a record ROI of 708% by implementing AI-powered building technologies."
+    ],
+    "without": [
+      "Skip to main content",
+      "Subscribe to newsletter",
+      "Privacy Policy",
+      "Country selector navigation",
+      "Cookie notice"
+    ],
+    "images": {
+      "total_in_content": 7,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://public.flourish.studio/visualisation/13996209/thumbnail",
+          "filename": "thumbnail",
+          "alt": "network visualization",
+          "caption": "Network visualization showing AI impact connections",
+          "is_hero": false
+        },
+        {
+          "src": "https://s7d1.scene7.com/is/image/joneslanglasalle/jll-morin-yao-headshot-450x600?qlt=85&dpr=off&fmt=webp",
+          "filename": "jll-morin-yao-headshot-450x600",
+          "alt": "Image",
+          "caption": "Yao Morin, Chief Technology Officer, JLLT",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:17:11.450284"
+}

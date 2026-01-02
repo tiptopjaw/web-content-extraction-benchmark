@@ -1,0 +1,83 @@
+{
+  "schema_version": "2.0",
+  "url": "https://reactormag.com/must-read-short-speculative-fiction-november-2025",
+  "file_id": "2738",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "fiction",
+        "speculative fiction",
+        "short stories",
+        "recommendations",
+        "monthly roundup"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Must Read Short Speculative Fiction: November 2025",
+    "author": "Alex Brown",
+    "publish_date": "2025-12-18",
+    "main_content": "Add some of the best new short fiction stories to your end of year reading lists! This month's must-read short speculative fiction recommendations include \"Phantom View\" by John Wiswell, featuring an illustration of a reddish orange blur resembling a human face peering out from a dusty window pane. Also featured is \"Timelike Curves, Spacelike Curves\" by P H Lee, illustrated as a person's head tilted back and exploding as it forcefully ejects the fabric of space and time in the form of a femme face. Kate Elliott's \"Barnacle\" showcases black birds picking at a barnacle-covered rock against a bright red sky. Stephen Graham Jones presents \"The Belle of the Ball\" with an illustrated recursive image of a man gripping large garden shears as he creeps up behind a couple. These stories represent the best new short fiction available for November 2025.",
+    "with": [
+      "Add some of the best new short fiction stories to your end of year reading lists!",
+      "\"Phantom View\" by John Wiswell",
+      "\"Timelike Curves, Spacelike Curves\" by P H Lee",
+      "\"Barnacle\" by Kate Elliott",
+      "\"The Belle of the Ball\" by Stephen Graham Jones"
+    ],
+    "without": [
+      "Skip to content",
+      "Sign up for our weekly newsletter",
+      "Reactor - Science fiction. Fantasy. The universe. And related subjects.",
+      "Advertisement",
+      "Share on Twitter Facebook Pinterest RSS Feed"
+    ],
+    "images": {
+      "total_in_content": 14,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://reactormag.com/wp-content/uploads/2025/10/PhantomView_Cover_300ppx.jpeg",
+          "filename": "PhantomView_Cover_300ppx.jpeg",
+          "alt": "An illustration of a reddish orange blur resembling a human face peering out from a dusty window pane.",
+          "caption": "\"Phantom View\" by John Wiswell - An illustration of a reddish orange blur resembling a human face peering out from a dusty window pane.",
+          "is_hero": false
+        },
+        {
+          "src": "https://reactormag.com/wp-content/uploads/2025/10/Timelike-Curves_Cover_300ppx.jpeg",
+          "filename": "Timelike-Curves_Cover_300ppx.jpeg",
+          "alt": "An illustration of a person’s head tilted back and exploding as it forcefully ejects the fabric of space and time, which takes the form of a femme face.",
+          "caption": "\"Timelike Curves, Spacelike Curves\" by P H Lee - An illustration of a person's head tilted back and exploding as it forcefully ejects the fabric of space and time.",
+          "is_hero": false
+        },
+        {
+          "src": "https://reactormag.com/wp-content/uploads/2025/11/Barnacle_cover-300ppx.jpeg",
+          "filename": "Barnacle_cover-300ppx.jpeg",
+          "alt": "An illustration of black birds picking at a barnacle covered rock against a bright red sky.",
+          "caption": "\"Barnacle\" by Kate Elliott - An illustration of black birds picking at a barnacle covered rock against a bright red sky.",
+          "is_hero": false
+        },
+        {
+          "src": "https://reactormag.com/wp-content/uploads/2025/11/The-Belle-of-the-Ball_Cover-300ppx.jpeg",
+          "filename": "The-Belle-of-the-Ball_Cover-300ppx.jpeg",
+          "alt": "An illustrated recursive image of a man gripping large garden shears as he creeps up behind a couple.",
+          "caption": "\"The Belle of the Ball\" by Stephen Graham Jones - An illustrated recursive image of a man gripping large garden shears as he creeps up behind a couple.",
+          "is_hero": false
+        },
+        {
+          "src": "https://reactormag.com/wp-content/uploads/2025/12/Short-Fiction-Spotlight-Nov-2025-740x363.png",
+          "filename": "Short-Fiction-Spotlight-Nov-2025-740x363.png",
+          "alt": "covers of three short fiction magazines from November 2025",
+          "caption": "Short Fiction Spotlight November 2025 - Covers of three short fiction magazines from November 2025",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:28:20.337794"
+}

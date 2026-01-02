@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.lifefitness.com/en-us",
+  "file_id": "0770",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "fitness",
+        "commercial-equipment",
+        "home-gym",
+        "corporate"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Commercial & Home Fitness Equipment | Life Fitness",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Inspiring The World To Work Out. At the gym, hotels, home and more. Select your market below to see how our solutions can transform and enhance your space. Product Categories. See all cardio, strength training, and accessories. Life Fitness and Hammer Strength brands offer commercial and home fitness equipment solutions for health clubs, hospitality, multi-unit housing, home gyms, athletics, education, corporate and medical wellness, and uniformed service. The equipment catalog includes treadmills, ellipticals, bikes and indoor cycles, arc trainers, stair climbers and stepper machines, rowers, consoles, selectorized strength training, plate loaded equipment, racks rigs and platforms, cable machines and functional trainers, benches, storage racks, dumbbells and fixed barbells, barbell plates, and digital solutions including Connect System, Facility Connect, and Life Fitness On Demand+.",
+    "with": [
+      "Inspiring The World To Work Out",
+      "At the gym, hotels, home and more",
+      "Select your market below to see how our solutions can transform and enhance your space",
+      "Product Categories: See all cardio, strength training, and accessories",
+      "Life Fitness and Hammer Strength brands offer commercial and home fitness equipment"
+    ],
+    "without": [
+      "Commercial & Home Fitness Equipment | Life Fitness",
+      "Search",
+      "Build Quote",
+      "Menu",
+      "English - United States"
+    ],
+    "images": {
+      "total_in_content": 5,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:16:53.881740"
+}

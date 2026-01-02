@@ -1,0 +1,61 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.empower.com/the-currency/life/what-are-taxes",
+  "file_id": "0932",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "finance",
+        "taxes",
+        "education",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Tax 101: Understanding the basics",
+    "author": "The Currency editors",
+    "publish_date": "2025-12-12",
+    "main_content": "Taxes are the sum of money paid to the government to collectively fund spending towards public goods and services. Taxes are used to fund things like schools, roads, and various public programs, such as Social Security and Medicare. Citizens and corporate entities are all required to pay taxes, be it at the federal, state, or local level.\n\nThe U.S. uses a progressive system where your marginal rate applies only to income within each bracket. Your effective tax rate is usually lower than your marginal rate — it's the average tax paid on total income. Understanding how deductions and credits affect taxable income helps legally reduce your tax bill.\n\nKey types of taxes include: Income-based taxes (income tax, capital gains tax, corporate income tax); Payroll taxes (Social Security tax at 6.2% and Medicare tax at 1.45%); Property taxes (real estate and vehicle/personal property taxes); Consumption taxes (sales tax and tariffs); and Death taxes (estate tax and inheritance tax).\n\nThe United States has a progressive income tax system where taxes are applied through marginal tax rates. Higher-income individuals pay a greater percentage of their income in taxes compared to low-income earners. The deadline for filing 2025 income taxes for most U.S. taxpayers is Wednesday, April 15, 2026.\n\nTax evasion is illegal and involves deliberate misrepresentation to deceive tax authorities, while tax avoidance operates within the legal frameworks, using permissible methods to reduce tax liability.",
+    "with": [
+      "Taxes are the sum of money paid to the government to collectively fund spending towards public goods and services.",
+      "The U.S. uses a progressive system where your marginal rate applies only to income within each bracket.",
+      "Social Security tax is a 6.2% tax on earned wages with funds used for social security benefits paid to those eligible.",
+      "The deadline for filing 2025 income taxes for most U.S. taxpayers is Wednesday, April 15, 2026.",
+      "Tax evasion is illegal and involves deliberate misrepresentation to deceive tax authorities, while tax avoidance operates within the legal frameworks."
+    ],
+    "without": [
+      "Subscribe to our newsletter",
+      "Start here button and call-to-action",
+      "Footer navigation and legal links",
+      "Social media icons and sharing buttons",
+      "Related articles sidebar section"
+    ],
+    "images": {
+      "total_in_content": 7,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "/sites/default/files/styles/jpg_png_optimize/public/image/2024-12/GettyImages-1360192341_739x416%20%282%29_0.jpg?itok=Ob3XBqjt",
+          "filename": "GettyImages-1360192341_739x416%20%282%29_0.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "/sites/default/files/styles/x_small_hq/public/image/2023-02/Empower%20flag%20logo%20-%202.png?itok=vywobfTW",
+          "filename": "Empower%20flag%20logo%20-%202.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:14:50.472907"
+}

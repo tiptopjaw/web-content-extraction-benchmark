@@ -1,27 +1,54 @@
 {
+  "schema_version": "2.0",
   "url": "https://capitalelectric.arlo.co/w/seminars/2-fundamentals-of-electrical-work",
   "file_id": "0692",
-  "downloaded_at": "2025-12-20T18:37:32.661786",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "training",
+        "electrical",
+        "course"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Fundamentals of Electrical Work",
-    "author": "Wayne H. Robinson, Michael V. Robinson",
+    "title": "Fundamentals of Electrical Work - Capital Electric Education",
+    "author": null,
     "publish_date": null,
-    "main_content": "The Fundamentals of Electrical Work course is ideal for anyone with 0-4 years of experience in the electrical construction field, this training will cover the basic concepts that all electrical workers need to know. NEW TO THE ELECTRICAL TRADE? INTERESTED IN A CAREER AS AN ELECTRICIAN? Ideal for anyone with 0-4 years of experience in the electrical construction field, this six-week introductory training module will cover the basic concepts that all electrical workers need to know. This course will review basic principles of electricity, common terms and symbols, essential math skills for electricians, understanding the NEC, how to stay safe on the job, and other practical knowledge and skills that will help you succeed in the electrical trade. This course is taught by Master Electricians and industry experts Wayne Robinson and Michael Robinson and is based on the 2017 National Electrical Code (NEC). Topics Include: Intro to Electrician’s Math, Intro to Ohm’s Law, Branch Circuits Basics, Switching and Receptacles, Grounding and Bonding Basics, Overcurrent Protection Basics, Single Phase systems, Introduction to Electrical Safety, Plans and Symbols, NEC Definitions, Wiring Methods, Conductor Properties, ...and much more! Join us for this must-attend course at our state-of-the-art facility located right off the I-495 Capital Beltway!(10% discount for 3 or more from the same company) INTRODUCING FUNDAMENTALS OF ELECTRICAL WORK Fundamentals of Electrical Work: Introduction to Basic Electrical Construction Concepts gives you the core knowledge you need to work safely, effectively and efficiently in the electrical trade. These concepts are what every electrical contractor needs to succeed – and what your boss secretly wishes you knew already. Based on the 2017 National Electrical Code (NEC), this 5-week training program gives you skills and knowledge to excel in entry-level positions. It also provides a strong foundation for when you start preparing for the journeyman’s exam. WHO SHOULD ATTEND Fundamentals of Electrical Work is designed specifically for people who are newer to the electrical trade, including: Electrical helpers, apprentices and other electrical workers with 0-4 years of experience in electrical construction, Electricians who plan to someday take the journeyman’s exam, Anyone who is interested in becoming an electrician, Inside sales reps and switch gear vendors who want to speak their customers’ language, Project managers and other non-electrician employees who want a better understanding of electrical construction. HOW YOU’LL BENEFIT Develop the basic skills and knowledge electrical contractors are looking for — and position yourself to be a hot job prospect, Understand why you’re supposed to do things the way you do, Gain confidence about what you’re doing – and how to perform routine tasks, Get better at your job (making you a more valuable employee), Learn to think independently (and not just follow orders), Master basic concepts needed to someday advance to a Journeyman or Master Electrician, Build a solid foundation for the basic concepts you need to master before studying for the journeyman’s exam, Discover if a career in electrical construction is right for you – before you invest too much time, Avoid accidentally putting yourself – and your co-workers – in danger, Position yourself for greater job responsibility, promotions – and raises. 7 SIGNS YOU NEED THIS TRAINING 1. Has your supervisor ever given you an assignment that you’re not comfortable performing because you don’t understand it? 2. Do you want to know WHY you’re supposed to perform a particular task – and WHY you need to do it a particular way? 3. Have you ever been handed a meter – without knowing what exactly to do with it … or how to use it correctly and safely? 4. Are you uncomfortable being exposed to and working with electricity because you’re not 100% certain about how to keep yourself (and others on the job site) safe? 5. Are you largely left to learn things on your own by listening and watching … because your supervisor is too busy to spend much time teaching? 6. Do you have lots of questions about your job and working with electricity … but no one to ask? 7. Are you confused and overwhelmed by code requirements? (You know they exist … but you don’t know the details – or how to find what you need.) The bottom line: Whenever you step up to do something new in your job, you’re probably doing it wrong. Discover the right – and safe – way to do it during Fundamentals of Electrical Work. A SPECIAL MESSAGE FOR OWNERS: THINKING ABOUT SENDING YOUR EMPLOYEES TO THIS TRAINING? Frustrated by the lack of skilled labor? You and your company will benefit by sending your new hires and less seasoned employees to this training. Here’s how: Free up your schedule. Proper training takes time. We’ll take it on … so you can focus on other responsibilities. Reduce risk by improving on-the-job safety. Newer employees often aren’t aware of on-site dangers – knowledge that’s automatic to most of your crew. Avoid accidents by empowering employees to protect themselves. Minimize simple mistakes caused by a lack of must-know essentials. Improve the quality of work your team produces. Accelerate the pace of work. The more all of your employees know, the faster they can work … and the more they can do without direct supervision. Create goodwill among employees by demonstrating that you believe in their potential enough to invest in their training. Stand out from your competitors. The industry is rapidly moving toward stricter licensing requirements. Gain the competitive edge over companies that hired unskilled, untrained labor. WHAT YOU’LL LEARN Fundamentals of Electrical Work covers the core concepts that Master Electricians wish their employees knew – but often don’t have time to teach – including: • Intro to Electrician’s Math • Intro to Ohm’s Law • Branch Circuits Basics • Switching and Receptacles • Grounding and Bonding Basics • Overcurrent Protection Basics • Single Phase systems • Introduction to Electrical Safety • Plans and Symbols • NEC Definitions • Wiring Methods • Conductor Properties • …and much more! WHY PAST ATTENDEES RECOMMEND THIS TRAINING “Excellent for a person getting into the electrical field.” ~ Franklin Chaney, Office Coordinator, Colonial Electric “This was a really interesting class. I really enjoyed how the instructors engaged with us.” ~ Leonel Ceballos, Helper, Amber Enterprise “It’s an overall great course for starter professionals.” ~ Andre Williams “Great beginners course.” ~ Austin Gardner, Assistant PM, Grounded Electrical Instruction “The course was very informational. The instructor was very knowledgeable. Enjoyed learning new things.” ~ Ashlee Windsor, Asst Construction Manager, Partner’s Electric Service “Taught the fundamentals of the class in the most understanding way.” ~ Jason Samuels, GAC Service “It’s a great course for getting acquainted with electrical field work basics, terminology, and practices.” ~ Shannon Peacock, Project Manager Switchgear, Capital Electric “Enjoyable introduction to electrical concepts. Mike makes things clear and he cares to know that you’re learning.” ~ Andrew Clarke, Project Manager Switchgear, Capital Electric “A good view of what to expect when becoming an electrician.” ~ Jordan Laycook, Account Manager, Capital Tristate",
+    "main_content": "The Fundamentals of Electrical Work course is ideal for anyone with 0-4 years of experience in the electrical construction field, this training will cover the basic concepts that all electrical workers need to know. This six-week introductory training module will cover the basic concepts that all electrical workers need to know. This course will review basic principles of electricity, common terms and symbols, essential math skills for electricians, understanding the NEC, how to stay safe on the job, and other practical knowledge and skills that will help you succeed in the electrical trade. This course is taught by Master Electricians and industry experts Wayne Robinson and Michael Robinson and is based on the 2017 National Electrical Code (NEC). Topics Include: Intro to Electrician's Math, Intro to Ohm's Law, Branch Circuits Basics, Switching and Receptacles, Grounding and Bonding Basics, Overcurrent Protection Basics, Single Phase systems, Introduction to Electrical Safety, Plans and Symbols, NEC Definitions, Wiring Methods, Conductor Properties, and much more. Based on the 2017 National Electrical Code (NEC), this 5-week training program gives you skills and knowledge to excel in entry-level positions. It also provides a strong foundation for when you start preparing for the journeyman's exam. Fundamentals of Electrical Work is designed specifically for people who are newer to the electrical trade, including: Electrical helpers, apprentices and other electrical workers with 0-4 years of experience in electrical construction, Electricians who plan to someday take the journeyman's exam, Anyone who is interested in becoming an electrician, Inside sales reps and switch gear vendors who want to speak their customers' language, Project managers and other non-electrician employees who want a better understanding of electrical construction. Benefits include: Develop the basic skills and knowledge electrical contractors are looking for, Understand why you're supposed to do things the way you do, Gain confidence about what you're doing and how to perform routine tasks, Get better at your job, Learn to think independently, Master basic concepts needed to someday advance to a Journeyman or Master Electrician, Build a solid foundation for the basic concepts you need to master before studying for the journeyman's exam, Discover if a career in electrical construction is right for you, Avoid accidentally putting yourself and your co-workers in danger, Position yourself for greater job responsibility, promotions and raises. Join us for this must-attend course at our state-of-the-art facility located right off the I-495 Capital Beltway with a 10% discount for 3 or more from the same company. Course price: $449.00.",
     "with": [
       "The Fundamentals of Electrical Work course is ideal for anyone with 0-4 years of experience in the electrical construction field, this training will cover the basic concepts that all electrical workers need to know.",
-      "Ideal for anyone with 0-4 years of experience in the electrical construction field, this six-week introductory training module will cover the basic concepts that all electrical workers need to know.",
+      "This six-week introductory training module will cover the basic concepts that all electrical workers need to know.",
       "This course is taught by Master Electricians and industry experts Wayne Robinson and Michael Robinson and is based on the 2017 National Electrical Code (NEC).",
-      "Fundamentals of Electrical Work: Introduction to Basic Electrical Construction Concepts gives you the core knowledge you need to work safely, effectively and efficiently in the electrical trade.",
-      "Based on the 2017 National Electrical Code (NEC), this 5-week training program gives you skills and knowledge to excel in entry-level positions."
+      "Based on the 2017 National Electrical Code (NEC), this 5-week training program gives you skills and knowledge to excel in entry-level positions.",
+      "Fundamentals of Electrical Work is designed specifically for people who are newer to the electrical trade, including electrical helpers, apprentices and other electrical workers with 0-4 years of experience."
     ],
     "without": [
-      "Skip to Main Content",
-      "Home Upcoming Sessions Course Topics Instructors Schedule On-Site Seminars FAQs & Policies Contact Us",
-      "Similar seminars Master Electrician Prep 40 Hour Journeyman's Prep Course Webinar Master Electrician Prep Webinar 40 Hour Journeyman's Prep Course",
       "Copyright © Capital Electric Education 2025",
-      "Powered by Arlo"
-    ]
+      "Upcoming Sessions",
+      "Contact Us",
+      "Powered by Arlo",
+      "Search..."
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://capitalelectric.arlo.co/content/img/19_Capital%20Electric%20Description%20Images_Fundamentals.jpg",
+          "filename": "19_Capital%20Electric%20Description%20Images_Fundamentals.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:37:32.661791"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:56:10.413361"
 }

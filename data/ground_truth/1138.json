@@ -1,12 +1,26 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.hr-consulting-group.com/hr-outsourcing-and-consulting-services",
   "file_id": "1138",
-  "downloaded_at": "2025-12-20T21:29:13.993481",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "HR services",
+        "outsourcing",
+        "consulting",
+        "human resources"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "HR Outsourcing Services | Human Resource Consulting Group",
     "author": null,
     "publish_date": null,
-    "main_content": "HR Outsourcing & Consulting Services\n\nComprehensive HR Services and Support for Your Business\n\nThe Human Resource Consulting Group provides comprehensive HR Services with a personal touch. Our team of experts can provide everything your business needs from complete HR outsourcing, to individual services like policy and procedure reviews.\n\nWe're here to become your full-time HR team, or supplement staff where needed. With our flexible services, state-of-the-art technology, and world-class client support, anything is possible.\n\nWe recognize that the needs of each business we work with are different, and we take pride in getting to understand our clients individually to create tailored and cost-effective solutions for payroll, risk management, HR administration, workforce management, and employee benefits management.\n\nHRCG has become a premier provider of human resource services by partnering with business owners and entrepreneurs to manage their most important asset – people. Our primary differentiation is a high-touch service model coupled with technology and expertise. With HRCG, you get a team of certified HR professionals who provide proactive strategies that deliver positive outcomes for your business.\n\nInterested in learning more about our full suite of services? Schedule a consultation to speak with one of our HR Service professionals about how we can address your HR and compliance needs so that you can gain the freedom to focus on growing your business.\n\nCore HR Strategy\nAlign HR strategy to objectives, and develop policies and procedures with continuing support.\n\nRecruitment/Staffing\nDevelop recruitment strategy and provide support on screening, applicant tracking, interviewing, enrollment and onboarding.\n\nMergers, Acquisition, and Divestiture Support\nEnsure HR due diligence with HR integration support and develop communication & retention strategy.\n\nEmployee Leave Administration\nProvide administrative processing, respond to employee inquiries and coordinate benefits with vendors.\n\nHR Administration\nProvide guidance on employee HR records, employee life cycle management, communication, and compliance measures.\n\nBenefits Administration\nTrack employee benefit eligibility and change of status & manage employee termination and open enrollment.\n\nEmployee Relations\nAddress and document policy related questions and respond to employee queries; investigate employee complaints.\n\nPerformance Management\nDevelop and implement performance management systems and monitor workplace investigations.\n\nInterested in learning more? Schedule a free consultation today.\n\nElevate Your Business with Comprehensive HR Outsourcing & Consulting Services\n\nHR Outsourcing Helps Your Business Thrive\nDownload our Benefits of HR Outsourcing guide to see why thousands of small-to-mid-sized companies choose to outsource their HR functions to us and how it helps grow their businesses.\n\nWhy Us? See the HRCG Difference\nDownload our Services Overview to see how our comprehensive HR services can help your business thrive.",
+    "main_content": "The Human Resource Consulting Group provides comprehensive HR Services with a personal touch. Our team of experts can provide everything your business needs from complete HR outsourcing, to individual services like policy and procedure reviews. We're here to become your full-time HR team, or supplement staff where needed. With our flexible services, state-of-the-art technology, and world-class client support, anything is possible. We recognize that the needs of each business we work with are different, and we take pride in getting to understand our clients individually to create tailored and cost-effective solutions for payroll, risk management, HR administration, workforce management, and employee benefits management. HRCG has become a premier provider of human resource services by partnering with business owners and entrepreneurs to manage their most important asset – people. Our primary differentiation is a high-touch service model coupled with technology and expertise. With HRCG, you get a team of certified HR professionals who provide proactive strategies that deliver positive outcomes for your business. Services include: Core HR Strategy - Align HR strategy to objectives, and develop policies and procedures with continuing support. Recruitment/Staffing - Develop recruitment strategy and provide support on screening, applicant tracking, interviewing, enrollment and onboarding. Mergers, Acquisition, and Divestiture Support - Ensure HR due diligence with HR integration support and develop communication and retention strategy. Employee Leave Administration - Provide administrative processing, respond to employee inquiries and coordinate benefits with vendors. HR Administration - Provide guidance on employee HR records, employee life cycle management, communication, and compliance measures. Benefits Administration - Track employee benefit eligibility and change of status and manage employee termination and open enrollment. Employee Relations - Address and document policy related questions and respond to employee queries; investigate employee complaints. Performance Management - Develop and implement performance management systems and monitor workplace investigations.",
     "with": [
       "The Human Resource Consulting Group provides comprehensive HR Services with a personal touch.",
       "We're here to become your full-time HR team, or supplement staff where needed.",
@@ -15,20 +29,47 @@
       "With HRCG, you get a team of certified HR professionals who provide proactive strategies that deliver positive outcomes for your business."
     ],
     "without": [
-      "Home",
-      "About Us",
-      "Services",
-      "Markets Served",
-      "HR News",
-      "Resources",
-      "Contact",
-      "Login",
+      "Home | About Us | Services | Markets Served | HR News | Resources | Contact | Login",
       "Get A Quote",
       "Access Guide",
-      "Menu",
-      "Schedule a consultation to speak with one of our HR Service professionals"
-    ]
+      "Schedule A Demo",
+      "Menu"
+    ],
+    "images": {
+      "total_in_content": 27,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://www.hr-consulting-group.com/hs-fs/hubfs/Benefits%20of%20Outsourcing-%20small%20cover.jpg?width=250&height=324&name=Benefits%20of%20Outsourcing-%20small%20cover.jpg",
+          "filename": "Benefits%20of%20Outsourcing-%20small%20cover.jpg",
+          "alt": "Benefits of HR Outsourcing ",
+          "caption": "Benefits of HR Outsourcing guide cover image",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.hr-consulting-group.com/hs-fs/hubfs/Collateral%20Growth%20Funnels/HRCG%20Services%20Overview/HRCG%20Services%20Overview%20-%20Cover.jpg?width=251&height=324&name=HRCG%20Services%20Overview%20-%20Cover.jpg",
+          "filename": "HRCG%20Services%20Overview%20-%20Cover.jpg",
+          "alt": "HRCG Services Overview - Connecticut HR Outsourcing",
+          "caption": "HRCG Services Overview - Connecticut HR Outsourcing",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.hr-consulting-group.com/hs-fs/hubfs/Women%20Conversing.jpg?width=2000&height=1333&name=Women%20Conversing.jpg",
+          "filename": "Women%20Conversing.jpg",
+          "alt": "Women Conversing",
+          "caption": "Women Conversing",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.hr-consulting-group.com/hs-fs/hubfs/AdobeStock_137891928.jpeg?width=5931&height=3523&name=AdobeStock_137891928.jpeg",
+          "filename": "AdobeStock_137891928.jpeg",
+          "alt": "HR Outsourcing Connecticut",
+          "caption": "Connecticut HR Outsourcing Services",
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:29:13.993486"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:45:38.693850"
 }

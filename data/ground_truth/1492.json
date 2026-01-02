@@ -1,25 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.progressivecommercial.com/commercial-auto-insurance/livery-insurance/",
   "file_id": "1492",
-  "downloaded_at": "2025-12-20T22:44:58.370523",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "insurance",
+        "livery",
+        "commercial-auto",
+        "transportation"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Livery Insurance",
+    "title": "Livery Insurance | Progressive Commercial",
     "author": null,
     "publish_date": null,
-    "main_content": "For-hire livery insurance, also known as livery insurance, is a type of commercial auto coverage for vehicles that are used by businesses that generate revenue from transporting people. Businesses that incidentally transport people, such as hotels that offer a shuttle service, typically don't need for-hire livery insurance. Learn how the different types of livery insurance protect small businesses. Types of for-hire livery insurance We offer affordable insurance for different types of livery businesses, from black car services to rideshare drivers. Our customizable coverages mean we can work with you to get the right livery insurance for your business. Start a quote and get a personalized livery insurance policy today. Taxi insurance Taxis provide transportation to the general public and are commonly found near large cities and airports. Traditional taxis don't usually offer pre-arranged transport, unless sent by dispatch, and often feature lighted signage and meters. Taxi insurance can also protect vehicles that don't fit the description of a traditional taxi or black car service. This can include businesses that likely pre-arrange transportation but don't use a luxury vehicle, such as a sightseeing tour company or an airport shuttle service. Black car / limousine insurance Black car and limousine services are forms of pre-arranged luxury transportation. Livery businesses that make scheduled appointments with specific pick-up and drop-off locations usually need black car insurance. Non-emergency medical transportation insurance Non-emergency medical transportation (NEMT) vehicles are used to transport individuals who need assistance traveling to and from appointments for medical treatment. This form of pre-arranged transportation doesn't include ambulances or other emergency vehicles. We currently offer this coverage in select states. Rideshare insurance Rideshare insurance has become increasingly popular in recent years with the growth of companies like Uber and Lyft. People who use their private vehicles for livery will need special protection that extends beyond basic auto insurance. Livery insurance cost Various factors influence the cost of for-hire livery insurance, including your state, vehicle use, driving history and coverage needs. One way to keep your premium low is to maintain a good driving record. Discounts † might also help lower your for-hire livery insurance cost. Get a livery insurance quote We offer for-hire livery insurance Direct in 40 states, including: Alabama, Arizona, Arkansas, Colorado, Connecticut, Delaware, Georgia, Idaho, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Mississippi, Missouri, Montana, Nebraska, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming. If you need livery coverage in Alaska, Florida, Illinois, Nevada, and New Jersey you might be eligible for a for-hire livery insurance quote through a Progressive specialty agent. Call us today to speak with a licensed expert who can answer your questions and provide you with for-hire livery insurance quote that matches your specific risk. More information What is commercial auto insurance? What's the difference between commercial & personal auto insurance? Can Progressive help me get commercial auto insurance in my state? What commercial auto coverages do I need? Black car and limo insurance: Cost factors and requirements Taxi insurance explained Driving for Uber or Lyft? Learn about your rideshare coverage options. Insure your non-emergency medical transportation vehicles Start a customized livery insurance quote and protect your business today",
+    "main_content": "For-hire livery insurance, also known as livery insurance, is a type of commercial auto coverage for vehicles that are used by businesses that generate revenue from transporting people. Businesses that incidentally transport people, such as hotels that offer a shuttle service, typically don't need for-hire livery insurance. We offer affordable insurance for different types of livery businesses, from black car services to rideshare drivers. Our customizable coverages mean we can work with you to get the right livery insurance for your business. Start a quote and get a personalized livery insurance policy today. Types of livery insurance include: Taxi insurance for vehicles that provide transportation to the general public near large cities and airports, including sightseeing tour companies and airport shuttle services; Black car and limousine insurance for pre-arranged luxury transportation with scheduled appointments; Non-emergency medical transportation insurance for vehicles that transport individuals to medical appointments (available in select states); and Rideshare insurance for drivers using personal vehicles for services like Uber and Lyft. Various factors influence the cost of for-hire livery insurance, including state, vehicle use, driving history and coverage needs. We offer for-hire livery insurance Direct in 40 states. If you need livery coverage in Alaska, Florida, Illinois, Nevada, and New Jersey, you might be eligible for a quote through a Progressive specialty agent.",
     "with": [
       "For-hire livery insurance, also known as livery insurance, is a type of commercial auto coverage for vehicles that are used by businesses that generate revenue from transporting people.",
+      "Businesses that incidentally transport people, such as hotels that offer a shuttle service, typically don't need for-hire livery insurance.",
       "We offer affordable insurance for different types of livery businesses, from black car services to rideshare drivers.",
       "Various factors influence the cost of for-hire livery insurance, including your state, vehicle use, driving history and coverage needs.",
-      "We offer for-hire livery insurance Direct in 40 states, including: Alabama, Arizona, Arkansas, Colorado, Connecticut, Delaware, Georgia, Idaho, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Mississippi, Missouri, Montana, Nebraska, New Hampshire, New Mexico, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania, Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming."
+      "We offer for-hire livery insurance Direct in 40 states, including Alabama, Arizona, Arkansas, Colorado, and many more."
     ],
     "without": [
-      "Menu Insurance Claims Resources",
-      "Get a quote Or, call 1-888-806-9598",
-      "Copyright 1995 - 2025. Progressive Casualty Insurance Company. All Rights Reserved.",
-      "Enter ZIP Code Bundle discount! Save on auto when you add property"
-    ]
+      "Get a quote",
+      "Copyright 1995 - 2025",
+      "Log In",
+      "1-888-806-9598",
+      "Site Map"
+    ],
+    "images": {
+      "total_in_content": 4,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:44:58.370528"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:37:08.537204"
 }

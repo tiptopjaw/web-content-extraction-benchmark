@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://monday.com/blog/project-management/guide-to-project-management/",
+  "file_id": "2301",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "project-management",
+        "guide",
+        "technology",
+        "business"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "What is Project Management? The Complete Guide [2025]",
+    "author": "David Hartshorne",
+    "publish_date": "2024-07-04",
+    "main_content": "Efficient project management is a must-have when delivering projects on time, within budget, and satisfying all stakeholders. But what does best-practice project management look like, what are the best frameworks to use, and what features make or break the software you choose?\n\nProject management is the application of processes, methods, skills, knowledge, and experience to deliver the project goals within scope, time, and budget constraints. Project management (PM) is the practice of planning and managing projects, from start to finish. It involves coordinating all the necessary activities and resources to meet deadlines and achieve your desired project outcome.\n\nThe history of project management spans thousands of years, with early examples, such as the construction of the Great Pyramid of Giza around 2570 BC and the Great Wall of China in 208 BC, demonstrating the basic principles of organization, planning, and resource management. The foundations of contemporary project management were laid during the Industrial Revolution of the 19th century, with pioneers like Frederick Taylor and Henry Gantt developing methods to optimize workflows and visualize project schedules.\n\nThere are four main project management approaches: Predictive project management (linear, sequential process), Adaptive/Agile project management (flexible, iterative process), Hybrid project management (combines predictive and adaptive elements), and Six Sigma (focuses on improving quality by reducing errors). The Project Management Body of Knowledge (PMBOK Guide) defines ten key project management knowledge areas including integration management, scope management, schedule management, cost management, quality management, resource management, communications management, risk management, procurement management, and stakeholder management.\n\nKey project management tools include Gantt charts, work breakdown structures, dashboards, task management tools, resource management tools, time tracking, budgeting tools, collaboration tools, reporting tools, portfolio management tools, and workflow automation.\n\nThe five phases of project management are: Initiating (determining project scope and objectives), Planning (selecting team members and outlining deliverables), Executing (carrying out the project plan), Monitoring/Controlling (tracking progress against the plan), and Closing (wrapping up activities and delivering the final product).\n\nThe four types of project management frameworks are: Waterfall (linear, sequential approach), Agile (iterative approach with sprints), Kanban (continuous flow visualization), and Scrum (short 1-4 week sprints with defined rules). Tips for successful project management include investing in initiation and planning, picking the right framework, promoting transparency, deciding on realistic scope, prioritizing efficient scheduling, practicing effective resource management, engaging stakeholders, and choosing the right project management software.\n\nWith solid project management, companies can develop new products or services, optimize internal business operations, and provide customers with value — all with less friction and more efficiency.",
+    "with": [
+      "Project management is the application of processes, methods, skills, knowledge, and experience to deliver the project goals within scope, time, and budget constraints.",
+      "The history of project management spans thousands of years, with early examples, such as the construction of the Great Pyramid of Giza around 2570 BC, demonstrating the basic principles of organization, planning, and resource management.",
+      "Predictive project management is a linear, sequential process in which each phase must be completed before proceeding to the next.",
+      "The Scrum framework divides larger projects into shorter, 1–4 week sprints that adapt to demands as the project evolves.",
+      "AI could incorporate data analytics and automatically analyze project team data, providing clear indications about how to improve performance."
+    ],
+    "without": [
+      "Skip to main content",
+      "Get started",
+      "Copyright 2025",
+      "Subscribe to newsletter",
+      "Topics"
+    ],
+    "images": {
+      "total_in_content": 34,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://res.cloudinary.com/monday-blogs/w_1024,h_512,c_fit/fl_lossy,f_auto,q_auto/wp-blog/2024/07/project-management.png",
+          "filename": "project-management.png",
+          "alt": "What is Project Management The Complete Guide 2025",
+          "caption": "What is Project Management The Complete Guide 2025",
+          "is_hero": true
+        },
+        {
+          "src": "https://res.cloudinary.com/monday-blogs/fl_lossy,f_auto,q_auto/wp-blog/2020/12/frederick-taylor-project-management-1.jpg",
+          "filename": "frederick-taylor-project-management-1.jpg",
+          "alt": "frederick-taylor-project-management",
+          "caption": "Frederick Taylor project management",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/monday-blogs/fl_lossy,f_auto,q_auto/wp-blog/2023/08/critical-path-client-projects-gantt-chart.jpg",
+          "filename": "critical-path-client-projects-gantt-chart.jpg",
+          "alt": "critical-path-client-projects-gantt-chart",
+          "caption": "Critical path client projects Gantt chart",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/monday-blogs/fl_lossy,f_auto,q_auto/wp-blog/2021/04/monday.com-sprint-board.png",
+          "filename": "monday.com-sprint-board.png",
+          "alt": "monday.com-sprint-board",
+          "caption": "monday.com sprint board",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/monday-blogs/fl_lossy,f_auto,q_auto/wp-blog/2024/06/monday-dev-scrumban-kanban-view.jpg",
+          "filename": "monday-dev-scrumban-kanban-view.jpg",
+          "alt": "Set up a visual board with columns representing your workflow stages — e.g. Backlog, To Do, In Progress, and Done — using the Kanban view.",
+          "caption": "Set up a visual board with columns representing your workflow stages — e.g. Backlog, To Do, In Progress, and Done — using the Kanban view.",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/monday-blogs/fl_lossy,f_auto,q_auto/wp-blog/2024/07/PMBOK-knowledge-areas.jpg",
+          "filename": "PMBOK-knowledge-areas.jpg",
+          "alt": "The Project Management Body of Knowledge (PMBOK® Guide) defines ten key project management knowledge areas.",
+          "caption": "The Project Management Body of Knowledge (PMBOK Guide) defines ten key project management knowledge areas.",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/monday-blogs/fl_lossy,f_auto,q_auto/wp-blog/2020/12/The-5-phases-of-project-management.webp",
+          "filename": "The-5-phases-of-project-management.webp",
+          "alt": "A list of the project management life cycle stages",
+          "caption": "A list of the project management life cycle stages",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/monday-blogs/fl_lossy,f_auto,q_auto/wp-blog/2020/12/Project_management.jpg",
+          "filename": "Project_management.jpg",
+          "alt": "A project planning board in monday work management.",
+          "caption": "A project planning board in monday work management.",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/monday-blogs/fl_lossy,f_auto,q_auto/wp-blog/2020/12/WM_Boards_3-1-scaled.jpg",
+          "filename": "WM_Boards_3-1-scaled.jpg",
+          "alt": "A screenshot of team iterations in monday work management.",
+          "caption": "A screenshot of team iterations in monday work management.",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/monday-blogs/fl_lossy,f_auto,q_auto/wp-blog/2024/07/kanban-task-management.jpg",
+          "filename": "kanban-task-management.jpg",
+          "alt": "A Kanban project management board is divided into columns representing different stages of work and tasks move across the board as the project progresses.",
+          "caption": "A Kanban project management board is divided into columns representing different stages of work and tasks move across the board as the project progresses.",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:31:13.319150"
+}

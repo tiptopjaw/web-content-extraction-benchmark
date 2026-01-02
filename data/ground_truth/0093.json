@@ -1,0 +1,77 @@
+{
+  "schema_version": "2.0",
+  "url": "https://aftershoot.com/blog/overrated-photography-trends/",
+  "file_id": "0093",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "photography",
+        "trends",
+        "2025",
+        "professional photography",
+        "industry analysis",
+        "community discussion"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Top 7 Photography Trends in 2025 that 700+ Pros Think are Overrated",
+    "author": "Manaswini Rao",
+    "publish_date": "2025-09-04",
+    "main_content": "In our continuing pursuit to separate fact from fiction on what really matters to photographers, we turned to our Facebook community and basically asked photographers to commit heresy on what trends they're convinced people are just pretending to love. We expected opinions. But what we got was a masterclass in suppressed rage, economic anxiety, and the kind of honesty that only comes when you give creatives a safe space to vent. Over 700 comments later, we've witnessed something between a group therapy session and a revolution. The replies swung from dry humor to blunt honesty. Under the jokes, the thread kept asking for three practical things: pictures that still look like themselves in ten years, a workflow that pays, and a culture that lets photographers choose a look without getting dragged.\n\n1. Blurry photos: mistake or method? If there was a winner in this festival of grievances, it was the 'intentionally blurry photo' trend, mentioned over 100 times with the kind of passion usually reserved for political debates. Bruno Lazaro said: 'The blur crap. Photographers posting this s**t like it's 'art'. Yet to meet a bride that says 'can you please shoot out of focus and all wonky?' The implication is that only a photographer with genuine artistic vision and skill can successfully create impactful work while purposefully introducing imperfections.\n\n2. 'Light and airy' or simply overexposed? The backlash against overexposed photography sparked yet another debate between aesthetic choice and technical incompetence. The 'light and airy' aesthetic performs exceptionally well on social media platforms where images compete for attention in compressed, backlit phone screens. What looks blown out on a calibrated monitor might be exactly what clients expect from their Instagram-ready wedding gallery. It raises a business question: do strict exposure ideals always align with bookings?\n\n3. Orange Skin & Desaturated Greens (The 'Oompa Loompa' Edit). The visceral hatred for orange/brown filters went beyond aesthetic preference into existential photography anxiety. April Lorraine Corey's shorthand needed no footnote: 'The Oompa Loompa. Orange skin and weird green hues. Just stop already.' Kim Howells explained: 'The latest colour phase where everything is brown-orange, and greens are muted to barely existing. It's dating a generation of portrait and wedding photos.'\n\n4. The cookie-cutter preset problem. All of that points to the same failure mode. Presets are fast and fixed. Real assignments shift rooms, color temperatures, cameras, and ISO. A fixed curve moves everything together, including the mistakes. Whites drift toward beige, greens toward gray, skin toward plastic, and the print is where it shows.\n\n5. The Photography Business Dilemma Between Trends and Timelessness. Eddie Hill delivered the thread's most searing commentary: 'Photography is a trade. It has always been a trade. It is not 'art' until you have mastered the trade. Stop treating a camera like some mystical device that makes you an 'artist' overnight. If you can't deliver consistent quality, you have not learned your trade.' The tension between accessibility and quality, between market forces and artistic integrity, runs through every comment in this thread.\n\nCost reality check. Trends turn expensive the moment they trigger rework. A few common failure paths and what they cost: Color redo on 300 selects at about four minutes each is roughly 20 hours. If your target is $125 per hour, that is $2,500 of margin traded for a preset that looked great on a phone and collapsed on paper.\n\n6. Safety First: When Photography Trends Become Dangerous. More than purity tests, these responses are reminders that bodies, comfort, and safety travel together. If a flying gown in water fits the person and the place, craft it carefully. If not, chase shape, gesture, and a silhouette the subject will still like in ten years.\n\n7. Balancing Adaptation and Authenticity in the Instagram Era. The Red Queen effect is a hypothesis that says species must constantly adapt, evolve, and proliferate in order to survive while pitted against ever-evolving opposing species. For your business, this could mean the value of your work depends partly on how clients compare it with competing vendors. Both realities coexist; the craft question is how to deliver work that lasts.\n\nYour eye wins, everything else just helps. What emerges from this digital confession booth isn't condemnation of trends themselves, but frustration with mindless execution. The photographers who defended their choices did so from positions of intentionality. They understood why they made specific creative decisions. Every trend started as someone's creative breakthrough. The problem is the mindless replication, the reduction of creativity to a preset, the transformation of art into algorithm. The albums that survive a decade do so because someone made choices that served the person. Build the baseline that will live on a wall. Season with style in amounts you could defend to future you. The feed will move on. The trends will pass. The photographs with something to say will remain.",
+    "with": [
+      "The blur crap. Photographers posting this s**t like it's 'art'. Yet to meet a bride that says 'can you please shoot out of focus and all wonky?'",
+      "Orange Skin & Desaturated Greens (The 'Oompa Loompa' Edit). The visceral hatred for orange/brown filters went beyond aesthetic preference into existential photography anxiety.",
+      "Presets are fast and fixed. Real assignments shift rooms, color temperatures, cameras, and ISO. A fixed curve moves everything together, including the mistakes.",
+      "Photography is a trade. It has always been a trade. It is not 'art' until you have mastered the trade.",
+      "Build the baseline that will live on a wall. Season with style in amounts you could defend to future you. The feed will move on. The trends will pass. The photographs with something to say will remain."
+    ],
+    "without": [
+      "Selects Edits Retouch Pricing Resources menu navigation items",
+      "Share this post social media icons for LinkedIn, Pinterest, Twitter, Facebook",
+      "Company Products Help Community footer links and copyright notice",
+      "Table of contents sidebar and floating navigation elements",
+      "Aftershoot product promotional CTAs for Selects, Edits, and Retouching services"
+    ],
+    "images": {
+      "total_in_content": 14,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://aftershoot.com/wp-content/uploads/2025/09/Facebook-post-on-overrated-photography-trends-in-2025.png",
+          "filename": "Facebook-post-on-overrated-photography-trends-in-2025.png",
+          "alt": "Facebook post from Aftershoot on top photography trends pros think are overrated",
+          "caption": "Facebook post from Aftershoot asking photographers about overrated photography trends",
+          "is_hero": false
+        },
+        {
+          "src": "https://aftershoot.com/wp-content/uploads/2025/09/Top-7-photography-trends-in-2025-that-pros-dont-like.png",
+          "filename": "Top-7-photography-trends-in-2025-that-pros-dont-like.png",
+          "alt": "Top 7 photography trends in 2025 that 700+ pros dislike",
+          "caption": "Top 7 photography trends in 2025 that 700+ pros dislike",
+          "is_hero": true
+        },
+        {
+          "src": "https://aftershoot.com/wp-content/uploads/2025/09/image-1.jpg",
+          "filename": "image-1.jpg",
+          "alt": "blurry photo from a wedding shoot ",
+          "caption": "Blurry photo example from a wedding shoot showing the trend pros criticize",
+          "is_hero": false
+        },
+        {
+          "src": "https://aftershoot.com/wp-content/uploads/2025/09/Eddie-Hills-comment-about-overrated-photography-trends-in-2025.png",
+          "filename": "Eddie-Hills-comment-about-overrated-photography-trends-in-2025.png",
+          "alt": "Eddie Hill's comment on overrated photography trends in 2025 ",
+          "caption": "Eddie Hill's detailed comment on overrated photography trends explaining the trade vs. art debate",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:43:32.599427"
+}

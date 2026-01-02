@@ -1,44 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047752",
   "file_id": "0855",
-  "downloaded_at": "2025-12-20T21:21:11.746578",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "health",
+        "weight-loss",
+        "lifestyle",
+        "guide"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Weight loss: 6 strategies for success",
+    "title": "Weight loss: 6 strategies for success - Mayo Clinic",
     "author": null,
     "publish_date": "2024-06-22",
-    "main_content": "Weight loss: 6 strategies for success\n\nMake your weight-loss goals a reality. Follow these proven tips.\n\nBy Mayo Clinic Staff\n\nYou've probably heard the weight-loss advice to eat less and move more. It sounds simple enough. But if it were that simple, you likely wouldn't be reading this.\n\nIn fact, the basics of weight loss aren't complicated. Get more activity. Eat healthy foods. Eat less than you burn. But if you've tried to lose weight, you know it can be a challenge. That's why we've put together this list of tips from people who have lost weight and kept it off.\n\nHere are six tips to help you start your weight-loss journey.\n\n1. Make sure you're ready\nLong-term weight loss takes time and effort. It also means making a commitment. You're more likely to be successful if you're ready to make permanent changes to your eating and activity habits. Ask yourself these questions to help you determine your readiness:\n\nAm I motivated to lose weight?\nAm I too distracted by other pressures?\nDo I use food as a means to cope with stress?\nAm I ready to learn or use other strategies to cope with stress?\nDo I have time to spend on making changes in my eating and activity habits?\nAm I willing to change my eating and activity habits?\nIf you need to address other issues in your life first, it might not be the right time for you to start a weight-loss program. When you're ready, you'll find it easier to set goals, stay committed and change habits.\n\n2. Find your inner motivation\nNo one else can make you lose weight. You must make diet and activity changes to please yourself. What's going to give you the motivation to stick with your weight-loss plan?\n\nMake a list of what's important to you to help you stay motivated and focused. It might be an upcoming vacation or better overall health. Then find a way to make sure that you can call on your motivational factors during moments of temptation. You might want to post an encouraging note to yourself on the pantry door or refrigerator, for instance.\n\nWhile you have to take responsibility for your own behavior for successful weight loss, it helps to have support. Pick people to support you who will encourage you in positive ways, without shame, embarrassment or sabotage.\n\nIdeally, find people who will listen to your concerns and feelings, spend time exercising with you or creating healthy menus, and share the priority you've placed on developing a healthier lifestyle. Your support group can also offer accountability, which can be a strong motivation for sticking to your weight-loss goals.\n\nIf you prefer to keep your weight-loss plans private, be accountable to yourself by having regular weigh-ins, recording your diet and exercise progress in a journal, or tracking your progress using digital tools.\n\n3. Set realistic goals\nIt may seem obvious to set realistic weight-loss goals. But do you really know what's realistic? Over the long term, it's best to aim for losing 1 to 2 pounds (0.5 to 1 kilogram) a week. Generally to lose 1 to 2 pounds a week, you need to burn 500 to 1,000 calories more than you consume each day, through a lower calorie diet and regular physical activity.\n\nDepending on your weight, 5% of your current weight may be a realistic goal, at least for an initial goal. If you weigh 180 pounds (82 kilograms), that's 9 pounds (4 kilograms). Even this level of weight loss can help lower your risk of chronic health problems, such as heart disease and type 2 diabetes.\n\nWhen you're setting goals, think about both process and outcome goals. \"Walk every day for 30 minutes\" is an example of a process goal. \"Lose 10 pounds (4.5 kilograms)\" is an example of an outcome goal. It isn't essential that you have an outcome goal, but you should set process goals because changing your habits is a key to weight loss.\n\n4. Enjoy healthier foods\nAdopting a new eating style that promotes weight loss must include lowering your total calorie intake. But decreasing calories need not mean giving up taste, satisfaction or even ease of meal preparation.\n\nOne way you can lower your calorie intake is by eating more plant-based foods — fruits, vegetables and whole grains. Strive for variety to help you achieve your goals without giving up taste or nutrition.\n\nGet your weight loss started with these tips:\n\nEat at least four servings of vegetables and three servings of fruits daily.\nReplace refined grains with whole grains.\nUse modest amounts of healthy fats, such as olive oil, vegetable oils, avocados, nuts, nut butters and nut oils.\nCut back on sugar as much as possible, except the natural sugar in fruit.\nChoose low-fat dairy products and lean meat and poultry in limited amounts.\n5. Get active, stay active\nWhile you can lose weight without exercise, regular physical activity plus calorie restriction can help give you the weight-loss edge. Exercise can help burn off the excess calories you can't cut through diet alone.\n\nExercise also offers numerous health benefits, including boosting your mood, strengthening your cardiovascular system and reducing your blood pressure. Exercise can also help in maintaining weight loss. Studies show that people who maintain their weight loss over the long term get regular physical activity.\n\nHow many calories you burn depends on the frequency, duration and intensity of your activities. One of the best ways to lose body fat is through steady aerobic exercise — such as brisk walking — for at least 30 minutes most days of the week. Some people may require more physical activity than this to lose weight and maintain that weight loss.\n\nAny extra movement helps burn calories. Think about ways you can increase your physical activity throughout the day if you can't fit in formal exercise on a given day. For example, make several trips up and down stairs instead of using the elevator, or park at the far end of the lot when shopping.\n\n6. Change your perspective\nIt's not enough to eat healthy foods and exercise for only a few weeks or even months if you want long-term, successful weight management. These habits must become a way of life. Lifestyle changes start with taking an honest look at your eating patterns and daily routine.\n\nAfter assessing your personal challenges to weight loss, try working out a strategy to gradually change habits and attitudes that have sabotaged your past efforts. Then move beyond simply recognizing your challenges — plan for how you'll deal with them if you're going to succeed in losing weight once and for all.\n\nYou likely will have an occasional setback. But instead of giving up entirely after a setback, simply start fresh the next day. Remember that you're planning to change your life. It won't happen all at once. Stick to your healthy lifestyle and the results will be worth it.",
+    "main_content": "Mayo Clinic provides six proven strategies for weight-loss success. The article covers evidence-based approaches to reaching weight-loss goals through practical lifestyle changes. Topics include dietary modifications, physical activity recommendations, behavioral strategies, and sustainable habit formation. The content is part of Mayo Clinic's healthy lifestyle section and is written by health information experts. The page is part of the health information library and provides syndicated adult health information content.",
     "with": [
-      "You've probably heard the weight-loss advice to eat less and move more.",
-      "Here are six tips to help you start your weight-loss journey.",
-      "1. Make sure you're ready",
-      "2. Find your inner motivation",
-      "3. Set realistic goals",
-      "4. Enjoy healthier foods",
-      "5. Get active, stay active",
-      "6. Change your perspective"
+      "Weight loss: 6 strategies for success - Mayo Clinic",
+      "6 proven strategies for weight-loss success",
+      "Reach your weight-loss goals with these proven tips.",
+      "The article covers evidence-based approaches to reaching weight-loss goals",
+      "The page is part of the health information library"
     ],
     "without": [
       "Skip to content",
-      "Mayo Clinic Home Page",
-      "Care at Mayo Clinic",
-      "Health Library",
-      "Request appointment",
-      "Log in",
-      "Search",
-      "Menu",
-      "Patient-Centered Care",
-      "About Mayo Clinic",
-      "Find a Doctor",
-      "Locations",
-      "Clinical Trials",
-      "Diseases & Conditions",
-      "Symptoms",
-      "Tests & Procedures",
-      "Drugs & Supplements",
-      "Healthy Lifestyle",
-      "Mayo Clinic Health Letter & Books"
-    ]
+      "Request Appointment",
+      "Mayo Clinic Health Letter & Books",
+      "Give Now",
+      "Log in"
+    ],
+    "images": {
+      "total_in_content": 10,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:21:11.746583"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:46:43.077120"
 }

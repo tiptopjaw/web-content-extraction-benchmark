@@ -1,0 +1,102 @@
+{
+  "schema_version": "2.0",
+  "url": "https://bodysolid.com/best-fitness/",
+  "file_id": "1755",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "ecommerce",
+        "fitness-equipment",
+        "brand-collection"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Best Fitness by Body-Solid: Strength and Cardio Equipment",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Best Fitness brand homepage showcasing a comprehensive range of residential strength and cardio equipment. The collection includes training cycles, mountain climbers, treadmills, hyperextension benches, upright bikes, recumbent bikes, weight trees, Olympic plate trees, dumbbell racks, inversion tables, Smith machines, power racks, lat attachments, weight benches, functional trainers, cable crossovers, and more. Products are filtered by type (Ab Bench, Adjustable Bench, Bike, Cable Crossover, Climber, Dumbbell Storage, Elliptical, Functional Trainer), application/use (Residential), and exercise focus (Arms, Back, Cardio, Chest, Core, Glutes, Legs, Shoulders, Total Body). All Best Fitness products are designed for home use.",
+    "with": [
+      "The Best Fitness BFSB5R Indoor Training Cycle offers the feel of road biking thanks to a chain-drive system and challenging 40lb. flywheel.",
+      "Get a powerful, full-body workout without leaving home with the Best Fitness BFMC10B Mountain Climber.",
+      "The Best Fitness BFT25 Folding Treadmill is a great home treadmill option for those looking to work out in the comfort of their own home.",
+      "Experience Cardio Comfort with the Best Fitness BFRB1 Recumbent Bike.",
+      "Keep workout areas clean, organized and safe with the Best Fitness Weight Tree!"
+    ],
+    "without": [
+      "Find a Dealer button",
+      "Request a Quote button",
+      "Sign in and Register navigation",
+      "Filter By sidebar section",
+      "Copyright footer information"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 8,
+      "items": [
+        {
+          "src": "https://cdn11.bigcommerce.com/s-2v01ommyhe/images/stencil/590x590/products/457/2221/BFSB5R_Hero_DSF1744-1028px__87754.1735232660.jpg?c=1",
+          "filename": "BFSB5R_Hero_DSF1744-1028px__87754.1735232660.jpg",
+          "alt": "Best Fitness Indoor Training Cycle",
+          "caption": "Best Fitness Indoor Training Cycle",
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn11.bigcommerce.com/s-2v01ommyhe/images/stencil/590x590/products/450/3938/BFMC10B_0O2A5799-Cut-2500__71091.1753734986.jpg?c=1",
+          "filename": "BFMC10B_0O2A5799-Cut-2500__71091.1753734986.jpg",
+          "alt": "Best Fitness Mountain Climber",
+          "caption": "Best Fitness Mountain Climber",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn11.bigcommerce.com/s-2v01ommyhe/images/stencil/590x590/products/449/2227/BFT25_IMGL9476_Cut__30828.1735232727.jpg?c=1",
+          "filename": "BFT25_IMGL9476_Cut__30828.1735232727.jpg",
+          "alt": "Best Fitness Treadmill",
+          "caption": "Best Fitness Treadmill",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn11.bigcommerce.com/s-2v01ommyhe/images/stencil/590x590/products/570/2162/BFHYP10R_DSF2126-1028px__99712.1735232126.jpg?c=1",
+          "filename": "BFHYP10R_DSF2126-1028px__99712.1735232126.jpg",
+          "alt": "Best Fitness Ab Hyperextension Bench",
+          "caption": "Best Fitness Ab Hyperextension Bench",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn11.bigcommerce.com/s-2v01ommyhe/images/stencil/590x590/products/458/2231/BFUB1r_Product-DSF2624-1028px__94527.1735232767.jpg?c=1",
+          "filename": "BFUB1r_Product-DSF2624-1028px__94527.1735232767.jpg",
+          "alt": "Best Fitness Upright Exercise Bike",
+          "caption": "Best Fitness Upright Exercise Bike",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn11.bigcommerce.com/s-2v01ommyhe/images/stencil/590x590/products/456/3818/BFRB1B_0O2A5567-cut-2500__38429.1739894447.jpg?c=1",
+          "filename": "BFRB1B_0O2A5567-cut-2500__38429.1739894447.jpg",
+          "alt": "Best Fitness Recumbent Exercise Bike",
+          "caption": "Best Fitness Recumbent Exercise Bike",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn11.bigcommerce.com/s-2v01ommyhe/images/stencil/590x590/products/452/2235/BFWT5-IMGL9327_Cut__27785.1735232785.jpg?c=1",
+          "filename": "BFWT5-IMGL9327_Cut__27785.1735232785.jpg",
+          "alt": "Best Fitness Weight Tree",
+          "caption": "Best Fitness Weight Tree",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn11.bigcommerce.com/s-2v01ommyhe/images/stencil/590x590/products/444/3947/BFWT10B_0O2A5398-1028px__47213.1746806500.jpg?c=1",
+          "filename": "BFWT10B_0O2A5398-1028px__47213.1746806500.jpg",
+          "alt": "Best Fitness Olympic Plate Tree",
+          "caption": "Best Fitness Olympic Plate Tree",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:09:45.947237"
+}

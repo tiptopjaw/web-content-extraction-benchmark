@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.thewatchpages.com/new-watches-2025/",
+  "file_id": "2057",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "watches",
+        "new-releases",
+        "luxury-watches",
+        "2025"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "All the New Watches of 2025 – The Watch Pages",
+    "author": null,
+    "publish_date": null,
+    "main_content": "935 new watches released in 2025 from the world's top watch brands. The page features a comprehensive listing of newly released timepieces across multiple luxury watch manufacturers including BALL, SevenFriday, Perrelet, Richard Mille, Czapek, Armin Strom, Urwerk, Angelus, Alpina, Raketa, Nomos Glashütte, Doxa, A. Lange & Söhne, Arnold & Son, Massena LAB, Ressence, H. Moser & Cie, Hermès, Vacheron Constantin, Breguet, Zenith, Panerai, Furlan Marri, Jaeger-LeCoultre, Ikepod, Raymond Weil, and NORQAIN. Users can filter watches by brand using the dropdown menu. Each watch entry displays the brand name and model name in a responsive grid layout.",
+    "with": [
+      "935 new watches released in 2025 from the world's top watch brands",
+      "New Watches 2025 - A comprehensive listing of newly released timepieces",
+      "BALL Roadmaster Perseverer with multiple color options featured in the collection",
+      "Brand filter dropdown allows users to browse watches by manufacturer",
+      "Responsive grid layout displaying watch images with brand and model names"
+    ],
+    "without": [
+      "Subscribe to newsletter",
+      "Copyright 2025 The Watch Pages",
+      "Header navigation menu items",
+      "Footer links and legal information",
+      "Search functionality and account login"
+    ],
+    "images": {
+      "total_in_content": 48,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://cdn.thewatchpages.com/app/uploads/2025/12/18152424/ball-watch-roadmaster-perseverer-nm9050c-s1-bk-6-800x533.jpeg?width=360",
+          "filename": "ball-watch-roadmaster-perseverer-nm9050c-s1-bk-6-800x533.jpeg",
+          "alt": "BALL Roadmaster Perseverer",
+          "caption": "BALL Roadmaster Perseverer",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.thewatchpages.com/app/uploads/2025/12/18152528/ball-watch-roadmaster-perseverer-nm9050c-s1-be-5-800x533.jpeg?width=360",
+          "filename": "ball-watch-roadmaster-perseverer-nm9050c-s1-be-5-800x533.jpeg",
+          "alt": "BALL Roadmaster Perseverer",
+          "caption": "BALL Roadmaster Perseverer",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.thewatchpages.com/app/uploads/2025/12/18152626/ball-watch-roadmaster-perseverer-nm9050c-s1-ibe-4-800x533.jpeg?width=360",
+          "filename": "ball-watch-roadmaster-perseverer-nm9050c-s1-ibe-4-800x533.jpeg",
+          "alt": "BALL Roadmaster Perseverer",
+          "caption": "BALL Roadmaster Perseverer",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.thewatchpages.com/app/uploads/2025/12/16135524/sevenfriday-ps203-bc-685315586-14-800x796.jpeg?width=360",
+          "filename": "sevenfriday-ps203-bc-685315586-14-800x796.jpeg",
+          "alt": "SevenFriday PS2/03 BC",
+          "caption": "SevenFriday PS2/03 BC",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.thewatchpages.com/app/uploads/2025/12/15151009/perrelet-weekend-arctic-dunes-244045883-3-800x942.jpeg?width=360",
+          "filename": "perrelet-weekend-arctic-dunes-244045883-3-800x942.jpeg",
+          "alt": "Perrelet Weekend Arctic Dunes",
+          "caption": "Perrelet Weekend Arctic Dunes",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.thewatchpages.com/app/uploads/2025/12/12092718/rm_ladies_collection_25_a_02_04-copy-800x801.jpg?width=360",
+          "filename": "rm_ladies_collection_25_a_02_04-copy-800x801.jpg",
+          "alt": "Richard Mille RM 037 Red Gold Snow Set",
+          "caption": "Richard Mille RM 037 Red Gold Snow Set",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.thewatchpages.com/app/uploads/2025/12/11163020/richard-mille-rm-07-01-automatic-winding-white-gold-baguette-626251379-1-800x801.jpeg?width=360",
+          "filename": "richard-mille-rm-07-01-automatic-winding-white-gold-baguette-626251379-1-800x801.jpeg",
+          "alt": "Richard Mille RM 07-01 Automatic Winding White Gold Baguette",
+          "caption": "Richard Mille RM 07-01 Automatic Winding White Gold Baguette",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.thewatchpages.com/app/uploads/2025/12/11150047/czapek-quai-des-bergues-grand-feu-enamel-sursum-corda-599761867-2-800x1200.jpeg?width=360",
+          "filename": "czapek-quai-des-bergues-grand-feu-enamel-sursum-corda-599761867-2-800x1200.jpeg",
+          "alt": "Czapek Quai des Bergues Grand Feu Enamel “Sursum Corda”",
+          "caption": "Czapek Quai des Bergues Grand Feu Enamel Sursum Corda",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.thewatchpages.com/app/uploads/2025/12/17111640/armin-strom-gravity-equal-force-ultimate-sapphire-salmon-st24-gefsal-7-800x1310.jpeg?width=360",
+          "filename": "armin-strom-gravity-equal-force-ultimate-sapphire-salmon-st24-gefsal-7-800x1310.jpeg",
+          "alt": "Armin Strom Gravity Equal Force Ultimate Sapphire Salmon",
+          "caption": "Armin Strom Gravity Equal Force Ultimate Sapphire Salmon",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.thewatchpages.com/app/uploads/2025/12/10135920/urwerk-ur-230-black-star-1584045648-1-800x1200.jpeg?width=360",
+          "filename": "urwerk-ur-230-black-star-1584045648-1-800x1200.jpeg",
+          "alt": "Urwerk UR-230 Black Star",
+          "caption": "Urwerk UR-230 Black Star",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:27:13.665471"
+}

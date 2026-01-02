@@ -1,0 +1,53 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.paycom.com/resources/blog/pto-policies-best-practices/",
+  "file_id": "1802",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "hr-management",
+        "policy-guide",
+        "benefits"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Paid Time Off (PTO) Policies: Best Practices & Benefits | Paycom Blog",
+    "author": "Paycom Blog Contributor",
+    "publish_date": "2025-06-09",
+    "main_content": "Paid time off (PTO) is an expected benefit that helps employees prioritize their well-being and employers engage their workforce. To construct an effective PTO policy, you must consider your corporate values, business needs, employee compensation structure, employees' demographics and priorities, compliance regulations, financial liability and the labor market. A PTO policy is a written description of an employer's paid leave offerings, covering different types of PTO, eligibility criteria, and use and approval procedures. Types of PTO include vacation time, sick time, personal days, bereavement leave, parental leave, military leave, volunteer time off and company paid holidays. PTO policy types include accruals (earned over time), lump sum (awarded annually at once), and unlimited PTO. Best practices include clearly communicating expectations, rewarding desired PTO behavior, tracking usage and payouts, soliciting feedback, auditing for compliance and revising policies as needed. Key policy components to consider include eligibility requirements, covered absence types, accrual timing, rollover policies, advance notice requirements, request procedures, payout rules and interaction with other leave types.",
+    "with": [
+      "Paid time off (PTO) is an expected benefit that helps employees prioritize their well-being and employers engage their workforce.",
+      "A PTO policy is a written description of an employer's paid leave offerings covering different types of PTO, eligibility criteria, and use and approval procedures.",
+      "Types of PTO include vacation time, sick time, personal days, bereavement leave, parental leave, military leave, volunteer time off and company paid holidays.",
+      "PTO accruals may be based on pay periods, hours worked or specific milestones such as years of service with the company.",
+      "Tracking the reason for time-off requests is important if employers want their policy to only be used for vacations as opposed to covering protected leaves of absence."
+    ],
+    "without": [
+      "Request meeting",
+      "Login",
+      "Subscribe",
+      "Copyright",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 10,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://cdn.paycom.com/mkon/www/cms-content/2025/06/PTO-Policies-Feature.webp",
+          "filename": "PTO-Policies-Feature.webp",
+          "alt": null,
+          "caption": "Paid Time Off Policies: Best Practices and Benefits",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:21:37.053284"
+}

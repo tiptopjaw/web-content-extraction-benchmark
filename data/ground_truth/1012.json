@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.joinsecret.com/categories/data-software/data-analytics",
+  "file_id": "1012",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "software",
+        "deals",
+        "saas",
+        "discounts"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Data Analytics Software deals: promo and coupons | Secret",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Browse the best Data Analytics Software deals, promos, and exclusive coupons. Secret offers access to deals on top data analytics tools and software including Notion (6 months free on Business plan with Unlimited AI, save up to $12,000), Stripe (waived fees on next $20,000 in payment processing, save up to $500), Google Cloud ($2,000-$350,000 in credits for 1-2 years), Make (first month free + 40% off annual plans, save up to $283), Brevo (75% off annual Starter and Standard Plans, save up to $5,661), Airwallex (1.5% cashback for new US/UK clients, save up to $1,000), Xero (90% off for 6 months, save up to $432), and Google Workspace (20% off Standard plans for 1 year, save up to $346). Premium members get access to additional deals not available to free users. Secret has 590 deals available across multiple software categories including AI, Project Management, Data, Customer, Development, Marketing, Finance, Communication, Sales, Business, IT, Human Resources, Operations Management, and Lifestyle.",
+    "with": [
+      "Get access to deals on the best Data Analytics tools and software like and others by signing up for Secret.",
+      "Notion: 6 months free on the Business plan with Unlimited AI - Save up to $12,000",
+      "Google Cloud: $2,000 in credits for 1 year if you never raised funds // $350,000 in credits for 2 years if you did",
+      "Brevo: 75% off the annual Starter and Standard Plans - Save up to $5,661",
+      "Secret has 590 deals available. Get access to 323 deals for free and 267 deals when you upgrade to Premium."
+    ],
+    "without": [
+      "Get 30% off on our Premium membership! Promo code: 30SECRET",
+      "Copyright 2025 Secret. All rights reserved.",
+      "Privacy Policy - Terms of Service - Cookie Notice",
+      "Sign In | Join for FREE",
+      "Search for deals"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://res.cloudinary.com/secretsaas/image/upload/c_fit,dpr_auto,f_auto,h_32,q_auto:best,w_32/v1/ui/success_stories/early_ai_dopters_person.png",
+          "filename": "early_ai_dopters_person.png",
+          "alt": "Avatar of Mark Kashef",
+          "caption": "Avatar of Mark Kashef",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/secretsaas/image/upload/c_fit,dpr_auto,f_auto,q_auto:best,w_120/v1/ui/success_stories/early_ai_dopters_logo.png",
+          "filename": "early_ai_dopters_logo.png",
+          "alt": "Logo of early-ai-dopters",
+          "caption": "Logo of early-ai-dopters",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/secretsaas/image/upload/c_fit,dpr_auto,f_auto,h_32,q_auto:best,w_32/v1/ui/success_stories/snowball_person.png",
+          "filename": "snowball_person.png",
+          "alt": "Avatar of Yoann Lopez",
+          "caption": "Avatar of Yoann Lopez",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/secretsaas/image/upload/c_fit,dpr_auto,f_auto,q_auto:best,w_120/v1/ui/success_stories/snowball_logo.png",
+          "filename": "snowball_logo.png",
+          "alt": "Logo of snowball",
+          "caption": "Logo of snowball",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/secretsaas/image/upload/c_fit,dpr_auto,f_auto,h_32,q_auto:best,w_32/v1/ui/success_stories/le_wagon_person.png",
+          "filename": "le_wagon_person.png",
+          "alt": "Avatar of Marta Anna Bas",
+          "caption": "Avatar of Marta Anna Bas",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/secretsaas/image/upload/c_fit,dpr_auto,f_auto,q_auto:best,w_120/v1/ui/success_stories/le_wagon_logo.png",
+          "filename": "le_wagon_logo.png",
+          "alt": "Logo of le-wagon",
+          "caption": "Logo of le-wagon",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/secretsaas/image/upload/c_fit,dpr_auto,f_auto,h_32,q_auto:best,w_32/v1/ui/success_stories/entrepreneurs_com_person.png",
+          "filename": "entrepreneurs_com_person.png",
+          "alt": "Avatar of Boris Arduy",
+          "caption": "Avatar of Boris Arduy",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/secretsaas/image/upload/c_fit,dpr_auto,f_auto,q_auto:best,w_120/v1/ui/success_stories/entrepreneurs_com_logo.png",
+          "filename": "entrepreneurs_com_logo.png",
+          "alt": "Logo of entrepreneurs-com",
+          "caption": "Logo of entrepreneurs-com",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/secretsaas/image/upload/c_fit,dpr_auto,f_auto,h_32,q_auto:best,w_32/v1/ui/success_stories/euratechnologies_person.png",
+          "filename": "euratechnologies_person.png",
+          "alt": "Avatar of Marine Roussel",
+          "caption": "Avatar of Marine Roussel",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/secretsaas/image/upload/c_fit,dpr_auto,f_auto,q_auto:best,w_120/v1/ui/success_stories/euratechnologies_logo.png",
+          "filename": "euratechnologies_logo.png",
+          "alt": "Logo of euratechnologies",
+          "caption": "Logo of euratechnologies",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:39:17.129268"
+}

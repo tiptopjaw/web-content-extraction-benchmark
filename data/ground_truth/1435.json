@@ -1,27 +1,90 @@
 {
+  "schema_version": "2.0",
   "url": "https://generationtux.com/collection/shoes-and-socks",
   "file_id": "1435",
-  "downloaded_at": "2025-12-20T20:29:59.617947",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "e-commerce",
+        "formalwear",
+        "shoes",
+        "socks",
+        "rental"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Dress Shoes & Socks",
+    "title": "Suit & Tux Shoe Rental - Rent Black & Brown Dress Shoes for Men | Generation Tux",
     "author": null,
     "publish_date": null,
-    "main_content": "Generation Tux’s carefully curated collection of dress shoes, tuxedo shoes, and socks is designed to enhance your formalwear, ensuring your ensemble is flawless from head to toe. Our shoe rentals add the perfect finishing touch to your attire.\n\nBlack Dress Shoes - $30\nBlack Patent Leather Shoes - $30\nBrown Leather Dress Shoes - $35\nStance Black Icon Socks - $14\nStance Navy Icon Socks - $14\nStance Gray Icon Socks\nStance White Icon Socks\nStance Black Stripe Socks\nStance Navy Stripe Socks\nStance Gray Stripe Socks\nStance White Stripe Socks\nStance Black Dots Socks\nStance Navy Dots Socks\nStance Gray Dots Socks\nStance White Dots Socks\nStance Black Floral Socks\nStance Navy Floral Socks\nStance Gray Floral Socks\nStance White Floral Socks\nStance Black Graphic Socks\nStance Navy Graphic Socks\nStance Gray Graphic Socks\nStance White Graphic Socks\nStance Black Argyle Socks\nStance Navy Argyle Socks\nStance Gray Argyle Socks\nStance White Argyle Socks\nStance Black Solid Socks\nStance Navy Solid Socks\nStance Gray Solid Socks\nStance White Solid Socks\nStance Tan Solid Socks\nStance Orange Solid Socks\nStance Red Solid Socks\nStance Pink Solid Socks\nStance Blue Solid Socks\nStance Green Solid Socks\nStance Brown Solid Socks",
+    "main_content": "Generation Tux's carefully curated collection of dress shoes, tuxedo shoes, and socks is designed to enhance your formalwear, ensuring your ensemble is flawless from head to toe. Our shoe rentals add the perfect finishing touch to your attire. The collection includes various filtering options for Category (Shoes, Socks), Pattern (Solid, Striped, Graphic, Floral, Dots, Argyle), Colors (Black, Grey, White, Tan, Orange, Red, Pink, Blue, Green, Brown), and Type (Rent, Buy). Products displayed include Black Dress Shoes ($30), Black Patent Leather Shoes ($30), Brown Leather Dress Shoes ($35), and various Stance socks in different colors ($14).",
     "with": [
-      "Generation Tux’s carefully curated collection of dress shoes, tuxedo shoes, and socks is designed to enhance your formalwear, ensuring your ensemble is flawless from head to toe.",
-      "Our shoe rentals add the perfect finishing touch to your attire.",
+      "Generation Tux's carefully curated collection of dress shoes, tuxedo shoes, and socks is designed to enhance your formalwear.",
       "Black Dress Shoes - $30",
+      "Black Patent Leather Shoes - $30",
       "Brown Leather Dress Shoes - $35",
-      "Stance Black Icon Socks - $14"
+      "Stance Navy Icon Socks - $14"
     ],
     "without": [
-      "Skip to Content",
-      "Our most popular suits & tuxedos - Now $119",
-      "Collection How It Works Free Home Try-On Free Swatches Showrooms Virtual Consultations Gallery",
-      "Login Sign Up",
-      "Filters Category Pattern Colors Type"
-    ]
+      "Navigation menu items and dropdowns",
+      "Cookie notification and consent banners",
+      "Social media buttons and sharing icons",
+      "Footer links and copyright notices",
+      "Promotional banner about sale pricing"
+    ],
+    "images": {
+      "total_in_content": 24,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "https://gentux.imgix.net/1539360706_20181009-150631-A10184BMT_Shoe_Matte_Black_PVC.jpg?auto=format&fit=crop&w=263&ar=1&cs=origin",
+          "filename": "1539360706_20181009-150631-A10184BMT_Shoe_Matte_Black_PVC.jpg",
+          "alt": "Black Dress Shoes",
+          "caption": "Black Dress Shoes",
+          "is_hero": false
+        },
+        {
+          "src": "https://gentux.imgix.net/1539702152_20181009-150631-A10185BPT_Shoe_Patent_Leather_PVC.jpg?auto=format&fit=crop&w=263&ar=1&cs=origin",
+          "filename": "1539702152_20181009-150631-A10185BPT_Shoe_Patent_Leather_PVC.jpg",
+          "alt": "Black Patent Leather Shoes",
+          "caption": "Black Patent Leather Shoes",
+          "is_hero": false
+        },
+        {
+          "src": "https://gentux.imgix.net/1701815280_BrownShoesShadow.jpg?auto=format&fit=crop&w=263&ar=1&cs=origin",
+          "filename": "1701815280_BrownShoesShadow.jpg",
+          "alt": "Brown Leather Dress Shoes",
+          "caption": "Brown Leather Dress Shoes",
+          "is_hero": false
+        },
+        {
+          "src": "https://gentux.imgix.net/1650583333_6683ICON0.jpeg?auto=format&fit=crop&w=263&ar=1&cs=origin",
+          "filename": "1650583333_6683ICON0.jpeg",
+          "alt": "Stance Black Icon Socks",
+          "caption": "Stance Black Icon Socks",
+          "is_hero": false
+        },
+        {
+          "src": "https://gentux.imgix.net/1650583238_11371ICON0.jpeg?auto=format&fit=crop&w=263&ar=1&cs=origin",
+          "filename": "1650583238_11371ICON0.jpeg",
+          "alt": "Stance Navy Icon Socks",
+          "caption": "Stance Navy Icon Socks",
+          "is_hero": false
+        },
+        {
+          "src": "https://gentux.imgix.net/1691604753_11372ICON0.jpeg?auto=format&fit=crop&w=263&ar=1&cs=origin",
+          "filename": "1691604753_11372ICON0.jpeg",
+          "alt": "Stance Gray Icon Socks",
+          "caption": "Stance Gray Icon Socks",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:29:59.617953"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:23:26.745580"
 }

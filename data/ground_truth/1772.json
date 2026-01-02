@@ -1,0 +1,62 @@
+{
+  "schema_version": "2.0",
+  "url": "https://online.berklee.edu/courses/wellness-for-artists-music-movement-and-mindfulness",
+  "file_id": "1772",
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "online-course",
+        "wellness",
+        "music",
+        "berklee"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Wellness for Artists: Music, Movement, and Mindfulness Course - Berklee Online",
+    "author": "Jennifer Caraluzzi",
+    "publish_date": null,
+    "main_content": "As artists, we are constantly using our mental and physical abilities to communicate our artistry. In order to have a sustainable, successful, and joyful career, it is imperative to take exquisite care of our minds and bodies. Through the four pillars of wellness for artists: movement, mindfulness, nutrition, and sleep, you will build a strong foundation in understanding your own mind and body to better support a long and happy career in the arts. By exploring the mind-body connection, enhancing movement and body function, building healthy sleep and nutrition habits, and fostering supportive relationships and community, you'll gain the tools to prevent injuries, stay present in your artistry, and navigate both emotional and physical challenges throughout your career.\n\nThe course covers movement modalities like yoga, Alexander Technique, strength training, and intentional movement. You will learn mindfulness techniques, meditation, breathwork, and nervous system management for performance anxiety. Nutrition concepts include bio-individual needs, vital nutrients, seasonal eating, and food as fuel. Sleep education covers circadian rhythm, recovery, and healthy habits for the demanding performance career. The course also addresses fostering healthy relationships and building supportive communities for artists.\n\nCourse learning objectives include discussing the science behind the nervous system and movement modalities, building healthy eating habits, developing mindfulness, movement, nutrition, and sleep routines, and assembling daily and weekly practice and wellness schedules.\n\nThe 12-week syllabus covers: Lesson 1 - The Four Pillars of Wellness for Artists; Lesson 2 - Mindfulness Breath Practice; Lesson 3 - Movement Yoga; Lesson 4 - Mindfulness Meditation; Lesson 5 - Nutrition Holistic Approach; Lesson 6 - Movement Alexander Technique; Lesson 7 - Movement Strength Training; Lesson 8 - Sleep Rest and Recovery; Lesson 9 - Primary Food Supporting Your Individual Artistry; Lesson 10 - The Mind-Body Connection; Lesson 11 - What Is Wellness for Artists; Lesson 12 - Coordination of the Four Pillars.\n\nInstructor Jennifer Caraluzzi is a versatile vocalist, educator, and health and wellness professional. As an award-winning vocalist, she has performed with Opera Theatre St. Louis, White Snake Projects, Boston Opera Collaborative, and regularly with the Boston Pops. She is certified through the Institute for Integrative Health as an Integrative Nutrition Health Coach and is a 500-hour certified yoga instructor. Instructor Christopher Stanley is an accomplished musician, audio producer, and certified global Yoga and meditation leader with over 20 years of experience blending artistry with wellness.",
+    "with": [
+      "As artists, we are constantly using our mental and physical abilities to communicate our artistry.",
+      "Through the four pillars of wellness for artists: movement, mindfulness, nutrition, and sleep, you will build a strong foundation in understanding your own mind and body.",
+      "By exploring the mind-body connection, enhancing movement and body function, building healthy sleep and nutrition habits, and fostering supportive relationships and community.",
+      "Jennifer Caraluzzi is a versatile vocalist, educator, and health and wellness professional.",
+      "Christopher Stanley is an accomplished musician, audio producer, and certified global Yoga and meditation leader."
+    ],
+    "without": [
+      "Contact our Academic Advisors by phone at 1-866-BERKLEE",
+      "Next semester starts Jan 12, 2026",
+      "Enroll Now - No application required",
+      "1-866-BERKLEE (U.S.), 1-617-747-2146 (INT'L)",
+      "Free Sample Lessons, Degree Handbooks, Online Course Catalog"
+    ],
+    "images": {
+      "total_in_content": 16,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "/user/avatar?user_id=67581678",
+          "filename": "avatar",
+          "alt": "author.full_name",
+          "caption": "Jennifer Caraluzzi, Author & Instructor",
+          "is_hero": false
+        },
+        {
+          "src": "/user/avatar?user_id=69816577",
+          "filename": "avatar",
+          "alt": "Christopher Stanley",
+          "caption": "Christopher Stanley, Instructor",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:14:59.012719"
+}

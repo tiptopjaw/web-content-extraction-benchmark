@@ -1,27 +1,62 @@
 {
+  "schema_version": "2.0",
   "url": "https://nexxis.com/how-inspection-cameras-are-changing-the-way-plumbing-is-done/",
   "file_id": "0714",
-  "downloaded_at": "2025-12-20T18:49:00.820080",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "plumbing",
+        "inspection-cameras",
+        "CCTV",
+        "news"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "How Inspection Cameras Are Changing The Way Plumbing Is Done",
     "author": null,
     "publish_date": "2019-02-11",
-    "main_content": "Lush lawns dug up, gardens decimated, roads ripped up, floors and cupboards in disarray and traffic delays around digging works – these are all very real and all-too frequent situations that occur when there are problems with blocked or broken drains, pipes and sewers.\n\nThankfully, the rapid rise of CCTV pipe inspection technology is transforming the plumbing industry and is literally smoothing the way problems are identified and fixed.\n\nThis innovative technology allows live remote visual inspection of drains, water pipes and sewers and enables plumbers to inspect the condition of the pipe’s interior and identify the precise location of any blockages or problems without unnecessary digging or damage.  Importantly, the camera will help the plumber identify the cause of the problem which in turn, enables them to plan the most efficient and cost-effective repair option.\n\nSimply put, inspection cameras are taking the guesswork out of blocked drains and smelly sewers.\n\nFrom domestic plumbing applications to inspection of mainline sewers and industrial drains, there’s an inspection camera that’s fit for purpose.\n\nFor example, a domestic plumber may use a compact inspection camera to locate leaks and blockages under floors, behind basins and cupboards, under baths and in wall cavities whilst a government department responsible for maintaining underground sewers and stormwater drainage systems would use a much larger, more rugged inspection camera system with an expanded range of capabilities.\n\nInspection cameras are also changing the face of plumbing because they enable the operator to make informed decisions about how best to fix the current problem and prevent future problems.    For example, plumbers will generally use different methods for solving different issues such as using hydrojets to blast out foreign objects and cutting tools to remove roots and they’re able to use the  information they get from their pipe inspection camera to determine the best remedial solution.\n\nThe camera also shows the plumber whether further remedial work such as pipe relining is required, and whether the drain or pipe has been fixed satisfactorily – all of which translates into more cost-effective repairs over the long-term.\n\nAnd the same principle that inspection cameras save both time and money applies whether the problem is a relatively minor domestic one or a threat to a municipal stormwater drain or major mainline sewer.\n\nPrior to pipe inspection camera technology, plumbers had to rely on physical means to determine the location and the cause of the problem.  This led to significantly higher costs, lengthier repair times and of course, extensive physical damage to property.  These days, inspection cameras enable plumbers to resolve drain and sewer problems much more efficiently and cost-effectively, plus they enable a greater degree of preventative maintenance.\n\nFrom identifying a child’s toy which is blocking a domestic drain to facilitating cost-effective mainline sewer repair and rehabilitation, inspection cameras are transforming the plumbing industry and if you want to find out more about how your plumbing business can benefit from this innovative technology, contact us now.",
+    "main_content": "Lush lawns dug up, gardens decimated, roads ripped up, floors and cupboards in disarray and traffic delays around digging works – these are all very real and all-too frequent situations that occur when there are problems with blocked or broken drains, pipes and sewers. Thankfully, the rapid rise of CCTV pipe inspection technology is transforming the plumbing industry and is literally smoothing the way problems are identified and fixed. This innovative technology allows live remote visual inspection of drains, water pipes and sewers and enables plumbers to inspect the condition of the pipe's interior and identify the precise location of any blockages or problems without unnecessary digging or damage. Importantly, the camera will help the plumber identify the cause of the problem which in turn, enables them to plan the most efficient and cost-effective repair option. Simply put, inspection cameras are taking the guesswork out of blocked drains and smelly sewers. From domestic plumbing applications to inspection of mainline sewers and industrial drains, there's an inspection camera that's fit for purpose. For example, a domestic plumber may use a compact inspection camera to locate leaks and blockages under floors, behind basins and cupboards, under baths and in wall cavities whilst a government department responsible for maintaining underground sewers and stormwater drainage systems would use a much larger, more rugged inspection camera system with an expanded range of capabilities. Inspection cameras are also changing the face of plumbing because they enable the operator to make informed decisions about how best to fix the current problem and prevent future problems. For example, plumbers will generally use different methods for solving different issues such as using hydrojets to blast out foreign objects and cutting tools to remove roots and they're able to use the information they get from their pipe inspection camera to determine the best remedial solution. The camera also shows the plumber whether further remedial work such as pipe relining is required, and whether the drain or pipe has been fixed satisfactorily – all of which translates into more cost-effective repairs over the long-term. And the same principle that inspection cameras save both time and money applies whether the problem is a relatively minor domestic one or a threat to a municipal stormwater drain or major mainline sewer. Prior to pipe inspection camera technology, plumbers had to rely on physical means to determine the location and the cause of the problem. This led to significantly higher costs, lengthier repair times and of course, extensive physical damage to property. These days, inspection cameras enable plumbers to resolve drain and sewer problems much more efficiently and cost-effectively, plus they enable a greater degree of preventative maintenance. From identifying a child's toy which is blocking a domestic drain to facilitating cost-effective mainline sewer repair and rehabilitation, inspection cameras are transforming the plumbing industry.",
     "with": [
-      "Thankfully, the rapid rise of CCTV pipe inspection technology is transforming the plumbing industry and is literally smoothing the way problems are identified and fixed.",
-      "This innovative technology allows live remote visual inspection of drains, water pipes and sewers and enables plumbers to inspect the condition of the pipe’s interior and identify the precise location of any blockages or problems without unnecessary digging or damage.",
+      "The rapid rise of CCTV pipe inspection technology is transforming the plumbing industry and is literally smoothing the way problems are identified and fixed.",
+      "This innovative technology allows live remote visual inspection of drains, water pipes and sewers and enables plumbers to inspect the condition of the pipe's interior.",
       "Inspection cameras are also changing the face of plumbing because they enable the operator to make informed decisions about how best to fix the current problem and prevent future problems.",
       "Prior to pipe inspection camera technology, plumbers had to rely on physical means to determine the location and the cause of the problem.",
-      "From identifying a child’s toy which is blocking a domestic drain to facilitating cost-effective mainline sewer repair and rehabilitation, inspection cameras are transforming the plumbing industry."
+      "From identifying a child's toy which is blocking a domestic drain to facilitating cost-effective mainline sewer repair and rehabilitation, inspection cameras are transforming the plumbing industry."
     ],
     "without": [
-      "DESIGNING SOLUTIONS FOR NOW THAT ARE READY TO SHAPE THE FUTURE. THIS IS NEXXIS.",
-      "Home | Knowledge Centre | Latest News",
-      "Join our mailing list // Discover a world of forward-looking solutions designed to shape the future. Ready?",
-      "Copyright © 2025 Nexxis  | Cancellation Policy | Terms + Conditions | Privacy Policy | Sitemap",
-      "Crawler vs Drone: Which Inspection Technology Is Right for Your Assets?"
-    ]
+      "Join our mailing list",
+      "Copyright 2025 Nexxis",
+      "Privacy Policy",
+      "mega-menu-toggle-animated",
+      "Please wait while you are redirected"
+    ],
+    "images": {
+      "total_in_content": 11,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://nexxis.com/wp-content/uploads/sites/3/2019/02/white-floor-ceiling-construction-column-industrial-1336851-pxhere.com_.jpg",
+          "filename": "white-floor-ceiling-construction-column-industrial-1336851-pxhere.com_.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://nexxis.com/wp-content/uploads/sites/3/2017/01/Skid_DN200_mit_RSK_78110-1.jpg",
+          "filename": "Skid_DN200_mit_RSK_78110-1.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:49:00.820083"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:01:59.769578"
 }

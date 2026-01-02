@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.agicent.com/blog/best-app-review-websites/",
+  "file_id": "1722",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "guide",
+        "app-review",
+        "mobile-apps"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "10 Best App Review Websites",
+    "author": "Sudeep Bhatnagar",
+    "publish_date": "2023-03-23",
+    "main_content": "Here we have compiled the list of best app review websites where you can submit your app and spread the among tech enthusiasts for growth. Getting your app reviewed by a prominent app review website can boost your app downloads, improve its credibility, and help you reach a wider audience. App review websites also provide valuable feedback that can help you improve your app and make it more appealing to users. These websites are visited by thousands of tech enthusiasts, journalists, and potential users looking for new apps to try out. Having your app featured on one of these sites can give it the visibility it needs to succeed in the highly competitive app market.",
+    "with": [
+      "Here we have compiled the list of best app review websites where you can submit your app and spread the among tech enthusiasts for growth.",
+      "Getting your app reviewed by a prominent app review website can boost your app downloads, improve its credibility, and help you reach a wider audience.",
+      "App review websites also provide valuable feedback that can help you improve your app and make it more appealing to users.",
+      "These websites are visited by thousands of tech enthusiasts, journalists, and potential users looking for new apps to try out.",
+      "Having your app featured on one of these sites can give it the visibility it needs to succeed in the highly competitive app market."
+    ],
+    "without": [
+      "Subscribe to our newsletter",
+      "Copyright © 2023 Agicent",
+      "Privacy Policy",
+      "Main navigation menu items",
+      "Cookie consent banner"
+    ],
+    "images": {
+      "total_in_content": 20,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://www.agicent.com/blog/wp-content/uploads/2023/03/best-app-review-websites-1.jpg",
+          "filename": "best-app-review-websites-1.jpg",
+          "alt": "10 Best App Review Websites",
+          "caption": "10 Best App Review Websites",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.agicent.com/blog/wp-content/uploads/2023/03/techcrunch.png",
+          "filename": "techcrunch.png",
+          "alt": "best app review websites",
+          "caption": "TechCrunch app review website",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.agicent.com/blog/wp-content/uploads/2023/03/mashable.png",
+          "filename": "mashable.png",
+          "alt": "app review websites",
+          "caption": "Mashable app review website",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.agicent.com/blog/wp-content/uploads/2023/03/producthunt-1.png",
+          "filename": "producthunt-1.png",
+          "alt": "app review site",
+          "caption": "Product Hunt app review site",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.agicent.com/blog/wp-content/uploads/2023/03/alternativeto.png",
+          "filename": "alternativeto.png",
+          "alt": "best app review website",
+          "caption": "AlternativeTo best app review website",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.agicent.com/blog/wp-content/uploads/2023/03/appadvice-1.png",
+          "filename": "appadvice-1.png",
+          "alt": "best app review website",
+          "caption": "AppAdvice best app review website",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.agicent.com/blog/wp-content/uploads/2023/03/148apps-1.png",
+          "filename": "148apps-1.png",
+          "alt": "app review website",
+          "caption": "148Apps app review website",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.agicent.com/blog/wp-content/uploads/2023/03/mobileappdaily.png",
+          "filename": "mobileappdaily.png",
+          "alt": "best app review websites",
+          "caption": "MobileAppDaily best app review websites",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.agicent.com/blog/wp-content/uploads/2023/03/betalist-1.png",
+          "filename": "betalist-1.png",
+          "alt": "app review website",
+          "caption": "Betalist app review website",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.agicent.com/blog/wp-content/uploads/2023/03/getapp.png",
+          "filename": "getapp.png",
+          "alt": "best app review site",
+          "caption": "GetApp best app review site",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:00:15.799823"
+}

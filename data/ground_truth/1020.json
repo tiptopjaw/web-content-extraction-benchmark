@@ -1,27 +1,68 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.cfp.net/why-get-certified/a-career-in-financial-planning/what-is-financial-planning",
   "file_id": "1020",
-  "downloaded_at": "2025-12-20T21:37:48.382388",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "career",
+        "financial-planning",
+        "guide"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "What Is Financial Planning?",
+    "title": "What Is Financial Planning? | Career & CFP® Overview | CFP Board",
     "author": null,
     "publish_date": null,
-    "main_content": "Financial planning involves looking at a client's entire financial picture and advising them on how to achieve their short- and long-term financial goals. From saving for education and planning for retirement to effectively managing taxes and insurance, financial planners develop valuable relationships with their clients to provide them with confidence today and a more secure tomorrow.\n\nBeing a financial planner allows you to build the work-life balance that you want.\n\nThis comprehensive career guide introduces readers to the financial planning profession and identifies different entry points and typical career tracks; explores the types of companies that employ financial planners, from large to small; highlights the personal and professional benefits of a career in financial planning, and the benefits of obtaining CFP® certification; and provides details on where to find financial planning careers, including questions to ask in a job interview.\n\nThe demand for personal financial advisors is expected to grow faster than average, at a rate of 13% through 2032, according to the U.S. Bureau of Labor Statistics. One reason is that the U.S. is on the cusp of an immense transfer of wealth, with an estimated $30 trillion expected to pass from baby boomers to their heirs over the coming decades.\n\nWith the demand for financial planners quickly outpacing the supply, now is a great time to get started on the path to CFP® certification: the mark that tells clients and firms you've achieved the standard of excellence in financial planning.\n\nEthical, competent financial planners bring together the different parts of a client's financial life to build a roadmap for the future. That's why developing deep subject matter expertise – in these areas and more – is critical to the role.\n\nMastering financial, economic and cash flow/debt management concepts.\n\nBuilding a portfolio, including different investment vehicles, diversification and risk management.\n\nPerforming retirement needs analyses, evaluating retirement plans, and understanding Social Security, Medicare and Medicaid.\n\nUnderstanding laws and management techniques around taxes, property transfer and estate planning.\n\nEvaluating risk and assessing different types of insurance, from healthcare to property to disability.\n\nAddress client behavior and attitudes related to financial planning.\n\nA personal financial planner establishes a one-on-one relationship with each of their clients. Financial planners provide holistic advice to guide clients through all aspects of their finances and help them maximize their potential for meeting their financial goals. If you enjoy helping people — listening to their needs, asking questions to determine their financial goals and developing a plan that is designed to meet those goals — you may be a good fit for working with clients as a personal financial advisor.\n\nThere are also opportunities for financial planners to work at firms and support teams of advisors. Some examples include behind-the-scenes positions in investments, operations, research and analysis. These positions place you at the center of a team designed to support clients and their financial planning needs. Although you're supporting clients, you won't be meeting regularly with them in person.\n\nVisit the CFP Board Career Center for job and internship listings, as well as career resources, and to learn more about career opportunities in financial planning.\n\nStart Your Journey to CFP® Certification\nTrack your progress with the CFP® Certification Tracker\nPost your resume at the Career Center\nConnect with a mentor who can guide you\nRegister and prepare for the exam\nFind career and financial support\nConnect with other candidates at our online forum",
+    "main_content": "Financial planning involves looking at a client's entire financial picture and advising them on how to achieve their short- and long-term financial goals. From saving for education and planning for retirement to effectively managing taxes and insurance, financial planners develop valuable relationships with their clients to provide them with confidence today and a more secure tomorrow. Being a financial planner allows you to build the work-life balance that you want. The demand for personal financial advisors is expected to grow faster than average, at a rate of 13% through 2032, according to the U.S. Bureau of Labor Statistics. One reason is that the U.S. is on the cusp of an immense transfer of wealth, with an estimated $30 trillion expected to pass from baby boomers to their heirs over the coming decades. Ethical, competent financial planners bring together the different parts of a client's financial life to build a roadmap for the future. Topic areas include Basics of Financial Planning, Investment Planning, Retirement Savings & Income Planning, Tax & Estate Planning, Risk Management & Insurance Planning, and Psychology of Financial Planning. A personal financial planner establishes a one-on-one relationship with each of their clients. Financial planners provide holistic advice to guide clients through all aspects of their finances and help them maximize their potential for meeting their financial goals. There are also opportunities for financial planners to work at firms and support teams of advisors. Some examples include behind-the-scenes positions in investments, operations, research and analysis. These positions place you at the center of a team designed to support clients and their financial planning needs.",
     "with": [
       "Financial planning involves looking at a client's entire financial picture and advising them on how to achieve their short- and long-term financial goals.",
+      "From saving for education and planning for retirement to effectively managing taxes and insurance, financial planners develop valuable relationships with their clients.",
       "The demand for personal financial advisors is expected to grow faster than average, at a rate of 13% through 2032, according to the U.S. Bureau of Labor Statistics.",
-      "A personal financial planner establishes a one-on-one relationship with each of their clients. Financial planners provide holistic advice to guide clients through all aspects of their finances and help them maximize their potential for meeting their financial goals.",
-      "Ethical, competent financial planners bring together the different parts of a client's financial life to build a roadmap for the future.",
-      "With the demand for financial planners quickly outpacing the supply, now is a great time to get started on the path to CFP® certification: the mark that tells clients and firms you've achieved the standard of excellence in financial planning."
+      "A personal financial planner establishes a one-on-one relationship with each of their clients and provides holistic advice to guide clients through all aspects of their finances.",
+      "Being a financial planner allows you to build the work-life balance that you want."
     ],
     "without": [
       "Skip to main content",
-      "Home Get Certified Why Get Certified Candidate Resources For CFP® Pros About CFP Board",
-      "© 2025 CFP Board. All Rights Reserved.",
-      "Privacy Policy Terms of Use Accessibility Sitemap",
-      "Donate Find a CFP® Professional"
-    ]
+      "Create Your Free Account",
+      "Donate",
+      "Find a CFP® Professional",
+      "© 2025 CFP Board. All Rights Reserved."
+    ],
+    "images": {
+      "total_in_content": 4,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "/-/media/images/cfp-board/illustrations/full-width/scene/925489170.jpg?cx=0&cy=0&cw=750&ch=550&hash=514A516F5DA35C48EAB264EFCBFF349B",
+          "filename": "925489170.jpg",
+          "alt": "Financial professionals on their career paths.",
+          "caption": "Financial professionals on their career paths.",
+          "is_hero": true
+        },
+        {
+          "src": "/-/media/images/cfp-board/photos/full-width/2-people/841770336.jpg?cx=0&cy=0&cw=750&ch=550&hash=384A013648F682B24DAAFA8DD77DD23D",
+          "filename": "841770336.jpg",
+          "alt": "A female CFP® professional is shaking hands with her client",
+          "caption": "A female CFP® professional is shaking hands with her client",
+          "is_hero": false
+        },
+        {
+          "src": "/-/media/images/cfp-board/photos/full-width/groups/1057690406.jpg?cx=0&cy=0&cw=750&ch=550&hash=E5C2B9E3A5B400B4400B9EB3A93D0A90",
+          "filename": "1057690406.jpg",
+          "alt": "Project manager meeting with team for decision on planning milestones and deliverables",
+          "caption": "Project manager meeting with team for decision on planning milestones and deliverables",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:37:48.382393"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:39:55.557301"
 }

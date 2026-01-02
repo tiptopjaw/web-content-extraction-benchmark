@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.osso.nl/blog/2025/recap2025",
+  "file_id": "2602",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "recap",
+        "company-update",
+        "infrastructure"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "recap 2025 - updates at OSSO",
+    "author": "The Team, edited by Walter",
+    "publish_date": "2025-12-19",
+    "main_content": "2025 – Finding the Turbo Button. A year of momentum. After the \"certification heavy\" focus of 2024, 2025 felt like shifting into a higher gear. We've seen our infrastructure move to 100G, our hardware embrace a new generation of speed, and our team grow into a tighter, faster unit. Looking back at the last twelve months, the theme hasn't just been \"maintenance\" — it's been about refinement. We've been busy cleaning out the old (goodbye spinning rust and legacy loadbalancers) to make room for the new (hello EPYC processors and Nokia core routers). It was a year where the \"young guard\" stepped up to become veterans, and the office itself got a glow-up — both in terms of lighting and team spirit. The Infrastructure Level-Up section covers migrating from Ubuntu/Jammy to Ubuntu/Noble, upgrading from 10G to 100G networks, implementing IPv6 on closso.network, deploying MinIO clusters managing petabytes of data, and introducing new EPYC worker nodes with significant CPU improvements. The Tooling & Security section describes their fully embraced change management workflow, custom audit tooling (Auditif, Suave, trumpet), and rollout of enhanced security measures for healthcare clients handling sensitive PII. The Open Source Ecosystem section discusses SONiC switch training, sponsoring Alpine Linux hardware, and releasing ipgrep utility. The Human Element section welcomes Damian to the operations team, notes Rona's return from maternity leave, and describes the team's attendance at WHY2025 hacker camp. The final section covers OSSO HQ 2.0 office upgrades including Home Assistant integration, addressable LED lighting installations, and a Big Red override button for automation control.",
+    "with": [
+      "After the \"certification heavy\" focus of 2024, 2025 felt like shifting into a higher gear.",
+      "We had delayed the migration from Ubuntu/Jammy to Ubuntu/Noble because of various unresolved bugs.",
+      "With the help of 2Hip, the osso.network core is migrated to Nokia 7750 SR-1 routers.",
+      "For those of you who need that 100% internet.nl rating, you know where to find us.",
+      "The accountability and explainability is worth so much. We no longer have to dig through old Slack threads or timesheets to figure out who tweaked a setting ten months ago or why."
+    ],
+    "without": [
+      "Back to overview",
+      "Copyright © 2025 OSSO B.V.",
+      "Most recent posts",
+      "Helperpark 282A 9723ZA Groningen",
+      "+31 (0)50 210 3520"
+    ],
+    "images": {
+      "total_in_content": 24,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "../../../assets/images/blog/2025/recap2025-turbo.jpg",
+          "filename": "recap2025-turbo.jpg",
+          "alt": "Turbo button on an old fashioned computer",
+          "caption": "Turbo button on an old fashioned computer",
+          "is_hero": true
+        },
+        {
+          "src": "../../../assets/images/blog/2025/recap2025-mrclean.gif",
+          "filename": "recap2025-mrclean.gif",
+          "alt": "Animated Mr Clean gif",
+          "caption": "Animated Mr Clean gif",
+          "is_hero": false
+        },
+        {
+          "src": "../../../assets/images/blog/2025/recap2025-ipv6-afraid.webp",
+          "filename": "recap2025-ipv6-afraid.webp",
+          "alt": "Don't know when to use IPv6 but afraid to ask now",
+          "caption": "Don't know when to use IPv6 but afraid to ask now",
+          "is_hero": false
+        },
+        {
+          "src": "../../../assets/images/blog/2025/recap2025-internetnl100.png",
+          "filename": "recap2025-internetnl100.png",
+          "alt": "Internet.nl 100% rating",
+          "caption": "Internet.nl 100% rating",
+          "is_hero": false
+        },
+        {
+          "src": "../../../assets/images/blog/2025/recap2025-minio.png",
+          "filename": "recap2025-minio.png",
+          "alt": "Graph showing 5 pools and then 7 pools, but they're filling up as fast as they're added",
+          "caption": "Graph showing 5 pools and then 7 pools, but they're filling up as fast as they're added",
+          "is_hero": false
+        },
+        {
+          "src": "../../../assets/images/blog/2025/recap2025-epyc.png",
+          "filename": "recap2025-epyc.png",
+          "alt": "CPU usage graph, dropping significantly after 13:30 when the new nodes are taking over",
+          "caption": "CPU usage graph, dropping significantly after 13:30 when the new nodes are taking over",
+          "is_hero": false
+        },
+        {
+          "src": "../../../assets/images/blog/2025/recap2025-changeman.png",
+          "filename": "recap2025-changeman.png",
+          "alt": "Login prompt asking for a ticket number before proceeding",
+          "caption": "Login prompt asking for a ticket number before proceeding",
+          "is_hero": false
+        },
+        {
+          "src": "../../../assets/images/blog/2025/recap2025-3dprinted.jpg",
+          "filename": "recap2025-3dprinted.jpg",
+          "alt": "3d printed star wars helmet",
+          "caption": "3d printed star wars helmet",
+          "is_hero": false
+        },
+        {
+          "src": "../../../assets/images/blog/2025/recap2025-eten.jpg",
+          "filename": "recap2025-eten.jpg",
+          "alt": "The team and older kids eating",
+          "caption": "The team and older kids eating",
+          "is_hero": false
+        },
+        {
+          "src": "../../../assets/images/blog/2025/recap2025-chicken.jpg",
+          "filename": "recap2025-chicken.jpg",
+          "alt": "Grilling chicken satay",
+          "caption": "Grilling chicken satay",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:18:19.914496"
+}

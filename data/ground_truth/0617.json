@@ -1,27 +1,82 @@
 {
+  "schema_version": "2.0",
   "url": "https://moneyguy.com/article/are-there-financial-guidelines-for-home-renovation/",
   "file_id": "0617",
-  "downloaded_at": "2025-12-20T19:16:03.651162",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "financial-planning",
+        "home-renovation",
+        "investment",
+        "personal-finance"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Are There Financial Guidelines for Home Renovation?",
     "author": null,
     "publish_date": "2024-05-21",
-    "main_content": "When it comes to renovating your home, you want to be careful to avoid common financial mistakes! In this episode, we discuss clear guidelines to help keep you on track financially while renovating your home. Are you ready to take your finances to the next level? Check out our Financial Order of Operations resource that outlines the nine steps anyone can take to build wealth and reach financial abundance. All right, Robert’s question is up next. It says, “How do Brian and Bo feel about home renovations? Are there home renovation guidelines for financial mutants?” Okay, I’ll let you—I’ll say two things because it popped into a question we had earlier today. First, you need to educate yourself on return on investment so that you know what you’re getting into with any home renovation. Common sense things like kitchens usually do well, master bathrooms do really well, and you’ll get a good return on investment. In the past, I used to pick on swimming pools because you’re pretty much getting 50 cents on the dollar, which just washes away. But post-COVID, I don’t know if it’s still the same metric that it was before with what was going on with communities. This leads to my second point: that’s the math homework. The second part is the non-financial benefit you and your family will get out of something. One of the things that breaks my heart is seeing people renovate right before selling their house. They’ll redo the patio, the master bathroom, the kitchen, and then sell the house and move out. If they had done that while they lived there, they might have gotten some benefit from it instead of doing all this other stuff. So, take into account the return on investment, but also the non-financial benefits you’ll get from the project. If you have a happy spouse and kids, there’s a lot of benefits to doing some of these things if they solve issues you’re experiencing in your day-to-day life. You asked specifically how we feel about home renovations. My thought is, for some people, they make sense; for others, they don’t. Some people say, “I don’t want to spend any money on this house. I want to travel and see the world.” That’s awesome. Others say, “I don’t need elaborate vacations. I want to make my home like a vacation so I can enjoy every day in it.” You have to be true to yourself about how wise a financial decision this is. For example, if you want to put a pool in the backyard, your kids might love it, and it might create many memories. But if you’ve not been saving for retirement or establishing a solid foundation, and you decide to do the pool instead, you might be sacrificing your future well-being for present enjoyment. That’s the opposite of deferred gratification. If you’ve done all the right things—saving money, building towards retirement, and establishing a solid foundation—then making a consumption choice to improve the house for your family is great. Just do the research to ensure you’re not adding things that waste money. For example, I heard of an employee who left a job and used their 401k to put a swimming pool in the backyard. That made me cringe. Be honest with yourself about where you are in the financial order of operations. If you’re taking money you don’t have to put in a swimming pool, you’re setting yourself up for a bad situation. Make sure you know exactly where you are in the financial order of operations before making such decisions. For example, a swimming pool is probably a step eight—prepaid future expenses or abundance goals—because you’ve already built your financial foundation, and this is a decision to optimize your personal and financial life. If you’re not on stable financial ground, this is very different than someone who has been diligent and disciplined and now wants to enjoy their life more. Housing prices have gotten so bad that people realize instead of taking on more mortgage debt, they could do a home renovation project and make their current house brilliant. This applies to different markets. If your house isn’t perfect and new homes cost 40-50% more, adding an outdoor living space may be a more economical choice than buying a new home. However, if the renovation costs as much as a new home with those features, it might make sense to buy instead. Measure both options to ensure you’re making a wise decision based on your community and market. Measure twice, cut once, and don’t skip the homework. For more information, check out our free resources.",
+    "main_content": "When it comes to renovating your home, you want to be careful to avoid common financial mistakes! In this episode, we discuss clear guidelines to help keep you on track financially while renovating your home.\n\nFirst, you need to educate yourself on return on investment so that you know what you're getting into with any home renovation. Common sense things like kitchens usually do well, master bathrooms do really well, and you'll get a good return on investment. Swimming pools typically get about 50 cents on the dollar, which just washes away.\n\nThe second part is the non-financial benefit you and your family will get out of something. One of the things that breaks my heart is seeing people renovate right before selling their house. They redo the patio, the master bathroom, the kitchen, and then sell the house and move out. If they had done that while they lived there, they might have gotten some benefit from it instead of doing all this other stuff.\n\nFor some people, home renovations make sense; for others, they don't. Some people say, 'I don't want to spend any money on this house. I want to travel and see the world.' That's awesome. Others say, 'I don't need elaborate vacations. I want to make my home like a vacation so I can enjoy every day in it.' You have to be true to yourself about how wise a financial decision this is.\n\nIf you've done all the right things—saving money, building towards retirement, and establishing a solid foundation—then making a consumption choice to improve the house for your family is great. Just do the research to ensure you're not adding things that waste money. For example, using your 401k to put a swimming pool in the backyard is a bad idea. Be honest with yourself about where you are in the financial order of operations.\n\nA swimming pool is probably a step eight—prepaid future expenses or abundance goals—because you've already built your financial foundation. If you're not on stable financial ground, this is very different than someone who has been diligent and disciplined and now wants to enjoy their life more.\n\nHousing prices have gotten so bad that people realize instead of taking on more mortgage debt, they could do a home renovation project and make their current house brilliant. If your house isn't perfect and new homes cost 40-50% more, adding an outdoor living space may be a more economical choice than buying a new home. However, if the renovation costs as much as a new home with those features, it might make sense to buy instead. Measure both options to ensure you're making a wise decision based on your community and market. Measure twice, cut once, and don't skip the homework.",
     "with": [
-      "When it comes to renovating your home, you want to be careful to avoid common financial mistakes!",
-      "First, you need to educate yourself on return on investment so that you know what you’re getting into with any home renovation.",
-      "The second part is the non-financial benefit you and your family will get out of something.",
-      "If you’ve done all the right things—saving money, building towards retirement, and establishing a solid foundation—then making a consumption choice to improve the house for your family is great.",
-      "Housing prices have gotten so bad that people realize instead of taking on more mortgage debt, they could do a home renovation project and make their current house brilliant."
+      "First, you need to educate yourself on return on investment so that you know what you're getting into with any home renovation.",
+      "Common sense things like kitchens usually do well, master bathrooms do really well, and you'll get a good return on investment.",
+      "If you've done all the right things—saving money, building towards retirement, and establishing a solid foundation—then making a consumption choice to improve the house for your family is great.",
+      "Be honest with yourself about where you are in the financial order of operations. If you're taking money you don't have to put in a swimming pool, you're setting yourself up for a bad situation.",
+      "Measure twice, cut once, and don't skip the homework."
     ],
     "without": [
-      "Skip to site content",
-      "Get them a holiday gift that will keep on giving with one of our courses!",
-      "Change your life by managing your money better.",
+      "Subscribe to our free weekly newsletter by entering your email address below.",
       "Copyright © 2025 Money Guy, All Rights Reserved",
-      "Watch, Listen, Connect"
-    ]
+      "Privacy Policy | Terms of Use | Store FAQs & Return Policy",
+      "Topics: Financial Planning | Investing | Budgeting | Debt Management | Money Mindset",
+      "Watch, Listen, Connect: YouTube | Instagram | TikTok | Spotify | Facebook"
+    ],
+    "images": {
+      "total_in_content": 22,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://moneyguy.com/wp-content/uploads/2022/09/FOO-Cover.png",
+          "filename": "FOO-Cover.png",
+          "alt": null,
+          "caption": "Financial Order of Operations Cover",
+          "is_hero": false
+        },
+        {
+          "src": "https://moneyguy.com/wp-content/uploads/2022/12/net-worth-template.png",
+          "filename": "net-worth-template.png",
+          "alt": null,
+          "caption": "Net Worth Template",
+          "is_hero": false
+        },
+        {
+          "src": "https://moneyguy.com/wp-content/uploads/2022/09/net-worth-by-age-resource.webp",
+          "filename": "net-worth-by-age-resource.webp",
+          "alt": null,
+          "caption": "Net Worth by Age Resource",
+          "is_hero": false
+        },
+        {
+          "src": "https://moneyguy.com/wp-content/uploads/2023/10/Millionaire-Mission-Thumbnail-2.jpg",
+          "filename": "Millionaire-Mission-Thumbnail-2.jpg",
+          "alt": null,
+          "caption": "Millionaire Mission Book Cover",
+          "is_hero": false
+        },
+        {
+          "src": "https://moneyguy.com/wp-content/uploads/2023/10/Roth-IRA-Guide-Thumbnail.jpg",
+          "filename": "Roth-IRA-Guide-Thumbnail.jpg",
+          "alt": null,
+          "caption": "Roth IRA Guide Cover",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T19:16:03.651168"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:40:09.430604"
 }

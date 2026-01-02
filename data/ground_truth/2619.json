@@ -1,27 +1,54 @@
 {
+  "schema_version": "2.0",
   "url": "https://digitalpreservation.no/blog/2025-12-17-the-pilot-has-landed",
   "file_id": "2619",
-  "downloaded_at": "2025-12-20T23:46:38.677989",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "digital preservation",
+        "museums",
+        "blog"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Mission accomplished!",
     "author": "Trond Teigen",
     "publish_date": "2025-12-17",
-    "main_content": "The National Library of Norway, the Norwegian Directorate for Cultural Heritage, and KulturIT were commissioned by the Norwegian Ministry of Culture and Equality to carry out a pilot project for the long-term preservation of digital museum objects using the National Library’s digital preservation solution (DPS). The assignment was given in December 2024.\n\nOver the past year, the National Library and KulturIT have worked closely together to develop and test a solution for the ingest and delivery of digital museum objects, initially focusing on images. For the Digital Preservation team at the National Library, this work required the establishment of several new functions within the DPS.\n\nAn API interface has been developed to enable communication between various data systems and the DPS. The API handles authentication and authorization, and all data exchange is governed by agreements between the National Library and the institutions that chooses to use the service. More information about the API is available here.\n\nFor data ingest and delivery, a data exchange platform based on the Amazon S3 protocol was tested. This solution allows users to transfer data without needing to understand how the data is stored within the platform.\n\nRequirements have been established for data delivered to the National Library to comply with the E-ARK standard for the structure and content of information packages. More information about these requirements is available here.\n\nIn addition, metadata requirements have been defined for information packages submitted for preservation. These metadata are considered essential for the management and preservation of the material within the preservation environment and are submitted via the API. More information about the metadata requirements is available here.\n\nKulturIT has, in parallel, developed functionality for selecting museum objects for preservation, as well as solutions for for ingesting and retrieving preserved museum objects from the National Library’s digital preservation system (DPS) based on our requirements.\n\nThe solution has been tested by three of KulturIT’s owner museums, and the pilot project is considered successful.\n\nA final report has been submitted to the Ministry of Culture and Equality. The report describes how the assignment was carried out and recommends establishing a permanent service for the long-term digital preservation of images for museums. This service should build on the results of the pilot and include an initial phase involving five museums.\n\nIn the longer term, the service may be expanded to include additional museums and extended to cover other media types, such as text, audio, and moving images.\n\nThe National Library of Norway, the Norwegian Directorate for Cultural Heritage, and KulturIT have collaborated closely throughout the pilot and support the report’s recommendations for further work.",
+    "main_content": "The National Library of Norway, the Norwegian Directorate for Cultural Heritage, and KulturIT were commissioned by the Norwegian Ministry of Culture and Equality to carry out a pilot project for the long-term preservation of digital museum objects using the National Library's digital preservation solution (DPS). Over the past year, the National Library and KulturIT have worked closely together to develop and test a solution for the ingest and delivery of digital museum objects, initially focusing on images. An API interface has been developed to enable communication between various data systems and the DPS, handling authentication and authorization with all data exchange governed by agreements between the National Library and the institutions that chooses to use the service. For data ingest and delivery, a data exchange platform based on the Amazon S3 protocol was tested, allowing users to transfer data without needing to understand how the data is stored within the platform. Requirements have been established for data delivered to the National Library to comply with the E-ARK standard for the structure and content of information packages. KulturIT has, in parallel, developed functionality for selecting museum objects for preservation, as well as solutions for ingesting and retrieving preserved museum objects from the National Library's digital preservation system. The solution has been tested by three of KulturIT's owner museums, and the pilot project is considered successful. A final report has been submitted to the Ministry of Culture and Equality, recommending establishing a permanent service for the long-term digital preservation of images for museums with an initial phase involving five museums.",
     "with": [
-      "The National Library of Norway, the Norwegian Directorate for Cultural Heritage, and KulturIT were commissioned by the Norwegian Ministry of Culture and Equality to carry out a pilot project for the long-term preservation of digital museum objects using the National Library’s digital preservation solution (DPS).",
-      "Over the past year, the National Library and KulturIT have worked closely together to develop and test a solution for the ingest and delivery of digital museum objects, initially focusing on images.",
-      "The solution has been tested by three of KulturIT’s owner museums, and the pilot project is considered successful.",
-      "A final report has been submitted to the Ministry of Culture and Equality. The report describes how the assignment was carried out and recommends establishing a permanent service for the long-term digital preservation of images for museums.",
-      "In the longer term, the service may be expanded to include additional museums and extended to cover other media types, such as text, audio, and moving images."
+      "The National Library of Norway, the Norwegian Directorate for Cultural Heritage, and KulturIT were commissioned by the Norwegian Ministry of Culture and Equality to carry out a pilot project for the long-term preservation of digital museum objects using the National Library's digital preservation solution (DPS).",
+      "An API interface has been developed to enable communication between various data systems and the DPS.",
+      "For data ingest and delivery, a data exchange platform based on the Amazon S3 protocol was tested.",
+      "Requirements have been established for data delivered to the National Library to comply with the E-ARK standard for the structure and content of information packages.",
+      "The solution has been tested by three of KulturIT's owner museums, and the pilot project is considered successful."
     ],
     "without": [
-      "NLN Digital preservation",
-      "Blog",
-      "Search...",
-      "CTRL K",
-      "Last updated on 2025-12-17 - Github commit history ↗"
-    ]
+      "Subscribe to newsletter",
+      "Copyright 2025",
+      "Privacy Policy",
+      "Navigation menu item",
+      "Cookie notice"
+    ],
+    "images": {
+      "total_in_content": 2,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "/blog/2025-12-17-the-pilot-has-landed/pilot_eng.png",
+          "filename": "pilot_eng.png",
+          "alt": "Draft for the preservation of museums` digital cultural heritage",
+          "caption": "Draft for the preservation of museums' digital cultural heritage",
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:46:38.677995"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:27:05.690415"
 }

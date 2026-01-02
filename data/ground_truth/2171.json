@@ -1,0 +1,56 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.nccih.nih.gov/health/meditation-and-mindfulness-effectiveness-and-safety",
+  "file_id": "2171",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "health",
+        "meditation",
+        "mindfulness",
+        "NCCIH",
+        "fact-sheet",
+        "government"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Meditation and Mindfulness: Effectiveness and Safety",
+    "author": "NCCIH",
+    "publish_date": "2022-06-01",
+    "main_content": "Meditation has a history that goes back thousands of years, and many meditative techniques began in Eastern traditions. The term 'meditation' refers to a variety of practices that focus on mind and body integration and are used to calm the mind and enhance overall well-being. Some types of meditation involve maintaining mental focus on a particular sensation, such as breathing, a sound, a visual image, or a mantra, which is a repeated word or phrase. Other forms of meditation include the practice of mindfulness, which involves maintaining attention or awareness on the present moment without making judgments. Meditation and mindfulness practices usually are considered to have few risks. However, few studies have examined these practices for potentially harmful effects, so it isn't possible to make definite statements about safety. According to the National Health Interview Survey, an annual nationally representative survey, the percentage of U.S. adults who practiced meditation more than doubled between 2002 and 2022, from 7.5 to 17.3 percent. Of seven complementary health approaches for which data were collected in the 2022 survey, meditation was the most popular, beating out yoga, chiropractic care, massage therapy, guided imagery, acupuncture, and naturopathy. Meditation and mindfulness practices may have a variety of health benefits and may help people improve the quality of their lives. Recent studies have investigated if meditation or mindfulness helps people manage anxiety, stress, depression, pain, or symptoms related to withdrawal from nicotine, alcohol, or opioids. A 2018 NCCIH-supported analysis of 142 groups of participants with diagnosed psychiatric disorders such as anxiety or depression examined mindfulness meditation approaches compared with no treatment and with established evidence-based treatments such as cognitive behavioral therapy and antidepressant medications. The analysis included more than 12,000 participants, and the researchers found that for treating anxiety and depression, mindfulness-based approaches were better than no treatment at all, and they worked as well as the evidence-based therapies.",
+    "with": [
+      "The term 'meditation' refers to a variety of practices that focus on mind and body integration and are used to calm the mind and enhance overall well-being.",
+      "According to the National Health Interview Survey, the percentage of U.S. adults who practiced meditation more than doubled between 2002 and 2022, from 7.5 to 17.3 percent.",
+      "A 2018 NCCIH-supported analysis of 142 groups of participants found that for treating anxiety and depression, mindfulness-based approaches were better than no treatment and worked as well as evidence-based therapies.",
+      "Meditation and mindfulness practices may have a variety of health benefits and may help people improve the quality of their lives.",
+      "Meditation and mindfulness practices usually are considered to have few risks. However, few studies have examined these practices for potentially harmful effects."
+    ],
+    "without": [
+      "Skip to main content",
+      "An official website of the United States government",
+      "Facebook",
+      "Twitter",
+      "Email"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://files.nccih.nih.gov/meditation-thinkstockphotos-505023182-square.jpg",
+          "filename": "meditation-thinkstockphotos-505023182-square.jpg",
+          "alt": "meditation_thinkstockphotos-505023182_square.jpg",
+          "caption": "©Thinkstock",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:56:27.060461"
+}

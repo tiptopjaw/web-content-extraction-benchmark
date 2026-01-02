@@ -1,26 +1,54 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.usatoday.com/story/entertainment/movies/2025/12/19/new-movies-streaming-netflix-hulu-disney-hbo-max-amazon-peacock/87747702007/",
   "file_id": "0723",
-  "downloaded_at": "2025-12-20T18:56:14.360852",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "entertainment",
+        "movies",
+        "streaming",
+        "guide"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "From 'One Battle After Another' to 'Knives Out,' 10 movies to stream now",
     "author": "Brian Truitt",
     "publish_date": "2025-12-19",
-    "main_content": "Need a new movie to watch? Stream these 10 at home for free with Netflix, Disney+, Hulu, HBO Max, Paramount+ and Amazon Prime Video. Football fans and awards-season mavens are feasting this time of year, and there's something for each coming home for a very streaming Christmas. Oscar frontrunner \"One Battle After Another,\" starring Leonardo DiCaprio, and \"Him,\" with Marlon Wayans as the most unhinged quarterback ever, are among the new movies hitting your favorite services like a tackle dummy. Netflix, Peacock, Hulu, Disney+ and Amazon's Prime Video have flicks for every taste, from a Riz Ahmed paranoia thriller to a queer zombie flick from director Tina Romero. (She's the daughter of horror icon George Romero, so a gift for the living dead is in the genes.) Here are 10 new and notable movies you can stream right now: 'F1: The Movie' As an aging driver-for-hire on an underdog racing team, Brad Pitt brings plenty of personality – and vroom-vroom steeliness – to this four-wheeled crowd-pleaser. There's macho panache and white-knuckle action sequences aplenty as Pitt's eccentric Formula 1 veteran plays reluctant mentor to a hotshot rookie (Damson Idris). Where to watch: Apple TV 'Griffin in Summer' The coming-of-age comedy stars Everett Blunck as high-maintenance creative kid Griffin, who writes and performs plays out of his basement every summer. When his friends prove unreliable rehearsing his latest work and Griffin needs a lead actor, he recruits – and develops feelings for – the performance-artist pool guy (Owen Teague). Where to watch: Hulu 'Him' Brutal and bizarre, with a cool mythological bent, the football horror flick stars Tyriq Withers as a pro prospect quarterback. He's invited to a training camp run by his idol (Marlon Wayans) to see if the kid is a franchise player, and the youngster goes on a journey that's psychologically challenging and extremely bloody. Where to watch: Peacock 'Merv' In the holiday rom-com, Anna (Zooey Deschanel) and Russ (Charlie Cox) are a recently broken-up Boston couple who share their beloved dog Merv. When he shows signs of doggy depression, Russ takes Merv on a trip to a pet-friendly Florida resort, an uninvited Anna tags along, and humans and animals alike work out their feelings. Where to watch: Prime Video 'One Battle After Another' Boasting a leading nine Golden Globe nominations, director Paul Thomas Anderson’s timely action dramedy is a must-see heading into Oscar season. Leonardo DiCaprio stars as a scruffy former revolutionary desperate to find his teen daughter (Chase Infiniti) with an old enemy (Sean Penn) in hot pursuit. Where to watch: HBO Max 'Relay' David Mackenzie's modern homage to old-school paranoia thrillers stars Riz Ahmed as a secretive middleman for whistleblowers hoping to settle with shady corporations. His latest client (Lily James) is a scientist with documents that could deep-six an important merger, and our hero begins to get too close personally to the job. Where to watch: Netflix 'Roofman' Channing Tatum's equal parts heartwarming and hilarious performance boosts this stranger-than-fiction, true-life dramedy. A divorced former soldier (Tatum) is sentenced to 45 years for robbing a string of McDonald's, and then escapes, making a secret home in a Toys 'R Us and falling for a a single mom (Kirsten Dunst) who works there. Where to watch: Paramount+ 'Spinal Tap II: The End Continues' If you're wanting to honor the memory of the legendary Rob Reiner, revisit his classic 1984 mockumentary \"This Is Spinal Tap\" as well as this sequel. Christopher Guest, Michael McKean and Harry Shearer return play the adorably dim, aging rockers of Spinal Tap, who reunite for a one-night-only show in the comedy featuring icons like Elton John and Paul McCartney. Where to watch: HBO Max 'Taylor Swift | The Eras Tour | The Final Show' A companion to the six-part docuseries about Taylor Swift's record-breaking Eras Tour, the concert film captures the global superstar's lively final show filmed in Vancouver. It features guest stars, screaming crowds and fan-favorite tunes, including songs from \"The Tortured Poets Department.\" Where to watch: Disney+ 'Wake Up Dead Man: A Knives Out Mystery' Rian Johnson’s third all-star “Knives Out” mystery gives Benoit Blanc, Daniel Craig’s Southern-fried Sherlock, his own Watson. Young priest Father Jud (Josh O'Connor) is accused of murdering his tempestuous boss (Josh Brolin), and Blanc arrives to find whodunit in a humorous and sharp exploration of faith, religion and cult of personality. Where to watch: Netflix",
+    "main_content": "Need a new movie to watch? Stream these 10 at home for free with Netflix, Disney+, Hulu, HBO Max, Paramount+ and Amazon Prime Video. Football fans and awards-season mavens are feasting this time of year, and there's something for each coming home for a very streaming Christmas. Oscar frontrunner 'One Battle After Another,' starring Leonardo DiCaprio, and 'Him,' with Marlon Wayans as the most unhinged quarterback ever, are among the new movies hitting your favorite services. Netflix, Peacock, Hulu, Disney+ and Amazon's Prime Video have flicks for every taste, from a Riz Ahmed paranoia thriller to a queer zombie flick from director Tina Romero. Here are 10 new and notable movies you can stream right now: 'F1: The Movie' - Brad Pitt brings plenty of personality as an aging driver-for-hire on an underdog racing team. 'Griffin in Summer' - The coming-of-age comedy stars Everett Blunck as high-maintenance creative kid Griffin. 'Him' - The football horror flick stars Tyriq Withers as a pro prospect quarterback. 'Merv' - In the holiday rom-com, Anna (Zooey Deschanel) and Russ (Charlie Cox) are a recently broken-up Boston couple who share their beloved dog. 'One Battle After Another' - Boasting a leading nine Golden Globe nominations, Leonardo DiCaprio stars as a scruffy former revolutionary. 'Relay' - Riz Ahmed stars as a secretive middleman for whistleblowers. 'Roofman' - Channing Tatum's equal parts heartwarming and hilarious performance boosts this stranger-than-fiction, true-life dramedy. 'Spinal Tap II: The End Continues' - Christopher Guest, Michael McKean and Harry Shearer return as the adorably dim, aging rockers. 'Taylor Swift | The Eras Tour | The Final Show' - The concert film captures the global superstar's lively final show filmed in Vancouver. 'Wake Up Dead Man: A Knives Out Mystery' - Rian Johnson's third all-star mystery gives Benoit Blanc his own Watson.",
     "with": [
-      "Oscar frontrunner \"One Battle After Another,\" starring Leonardo DiCaprio, and \"Him,\" with Marlon Wayans as the most unhinged quarterback ever, are among the new movies hitting your favorite services like a tackle dummy.",
-      "Here are 10 new and notable movies you can stream right now:",
-      "Boasting a leading nine Golden Globe nominations, director Paul Thomas Anderson’s timely action dramedy is a must-see heading into Oscar season.",
-      "Rian Johnson’s third all-star “Knives Out” mystery gives Benoit Blanc, Daniel Craig’s Southern-fried Sherlock, his own Watson."
+      "Need a new movie to watch? Stream these 10 at home for free with Netflix, Disney+, Hulu, HBO Max, Paramount+ and Amazon Prime Video.",
+      "Oscar frontrunner 'One Battle After Another,' starring Leonardo DiCaprio, and 'Him,' with Marlon Wayans as the most unhinged quarterback ever, are among the new movies hitting your favorite services.",
+      "Netflix, Peacock, Hulu, Disney+ and Amazon's Prime Video have flicks for every taste, from a Riz Ahmed paranoia thriller to a queer zombie flick from director Tina Romero.",
+      "Boasting a leading nine Golden Globe nominations, director Paul Thomas Anderson's timely action dramedy is a must-see heading into Oscar season.",
+      "Rian Johnson's third all-star 'Knives Out' mystery gives Benoit Blanc, Daniel Craig's Southern-fried Sherlock, his own Watson."
     ],
     "without": [
       "Skip to main content",
-      "Home Movies Celebrities TV Music Books Broadway Theatre Crosswords Games Entertain This! Celebrity Deaths Horoscopes American Influencer Awards USA TODAY Acoustic Streaming",
-      "Love movies? Live for TV? USA TODAY's Watch Party newsletter has all the best recommendations, delivered right to your inbox. Sign up now and be one of the cool kids.",
-      "Share your feedback to help improve our site!",
+      "Home | Movies | Celebrities | TV | Music | Books | Broadway Theatre",
+      "SMS | Facebook | Twitter | Email",
+      "Help | Terms of Service | Privacy Policy | Site Map",
       "© Copyright Gannett 2025"
-    ]
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://www.gannett-cdn.com/authoring/authoring-images/2025/09/19/USAT/86245423007-20250922-et-di-caprio-del-toro-v-1.jpg?crop=1919,1079,x0,y0",
+          "filename": "86245423007-20250922-et-di-caprio-del-toro-v-1.jpg",
+          "alt": null,
+          "caption": "Leonardo DiCaprio talks new movie and passing on 'Boogie Nights'",
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:56:14.360857"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:04:29.155450"
 }

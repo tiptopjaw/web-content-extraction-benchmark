@@ -1,0 +1,75 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.topfastpcb.com/blog/printed-circuit-board-pcb",
+  "file_id": "2572",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "knowledge",
+        "electronics",
+        "manufacturing"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "What is Printed Circuit Board (PCB) - Topfastpcb",
+    "author": "托普法斯特",
+    "publish_date": "2025-06-04",
+    "main_content": "PCB (Printed Circuit Boards), also referred to as printed wiring boards or printed wiring cards, are the backbone of modern electronics, designed to interconnect and support electronic components while facilitating the transmission of signals and power. Before PCBs, circuits relied on inefficient connection methods such as point-to-point wiring which was prone to failures with insulation degradation leading to short circuits, and wire-wrapping which was durable but labor-intensive. As electronics transitioned from vacuum tubes to silicon chips and integrated circuits, traditional methods became impractical, driving the adoption of printed circuit boards.\n\nPCBs consist of several key layers: the substrate (typically FR-4 fiberglass epoxy providing rigidity at standard 1.6mm thickness), the conductive layer (copper foil available in single-sided, double-sided, or multilayer configurations with standard 1 oz/ft² thickness), the solder mask (typically green epoxy coating that insulates copper traces and guides soldering), and the silkscreen layer (usually white labels for component designators and polarity indicators). Substrate materials vary by application: FR-4 dominates over 80% of conventional PCBs, phenolic materials like FR-1/FR-2 serve low-cost consumer electronics, PTFE substrates handle high-frequency applications above 1GHz, and ceramic substrates provide high thermal conductivity for automotive and aerospace applications.\n\nThe three fundamental PCB types include single-layer PCBs (conductive copper on one side, simplest and most cost-effective for basic electronics), double-layer PCBs (copper on both sides with through-hole vias connecting circuits, used in industrial controls and automotive dashboards), and multilayer PCBs (4-32+ layers with blind/buried vias for high-density applications like smartphones and medical equipment). Manufacturing processes range from 9 core steps for single-layer boards to 12+ steps for multilayer boards, involving precision cutting, dry film lamination, acidic etching, solder mask application, silkscreen printing, surface finishing, CNC routing, and final AOI testing.\n\nPCB assembly primarily uses Surface-Mount Technology (SMT) which enables smaller size, higher component density, faster assembly, and better high-frequency performance compared to Through-Hole Technology (THT). The manufacturing workflow progresses from PCB design (CAD tools generating Gerber files and BOM) through fabrication (etching, drilling, lamination, surface finish) to assembly (solder paste application, pick-and-place, reflow soldering) and testing (AOI, ICT, functional testing). Key design factors include trace width calculation based on current load, spacing rules to prevent crosstalk, signal integrity considerations like impedance matching and termination, and Design for Manufacturability checks ensuring minimum trace/spacing capabilities.\n\nIndustry certifications ensure quality and market access: UL certification provides safety compliance for North American markets, ISO 9001 ensures quality management with process control and defect tracking, ISO 14001 addresses environmental management and wastewater treatment, IATF 16949 is mandatory for automotive suppliers with 0 ppm defect targets, RoHS compliance restricts hazardous substances like lead and cadmium, and REACH regulation addresses chemical safety with 241 SVHC substances. PCB applications span consumer electronics (smartphones with 8-12 layer boards, wearables with flexible circuits), communication infrastructure (5G base stations with high-frequency substrates), automotive electronics (EV battery management systems), industrial equipment (robotics, automation), aerospace (satellites with radiation-hardened substrates), and energy systems (smart grids, renewable energy conversion modules).",
+    "with": [
+      "PCB (Printed Circuit Boards), also referred to as 'printed wiring boards' or 'printed wiring cards,' are the backbone of modern electronics.",
+      "The three fundamental PCB types include single-layer PCBs, double-layer PCBs, and multilayer PCBs (4-32+ layers with blind/buried vias).",
+      "Key design factors include trace width calculation based on current load, spacing rules to prevent crosstalk, and signal integrity considerations.",
+      "Industry certifications ensure quality and market access: UL certification provides safety compliance, ISO 9001 ensures quality management, IATF 16949 is mandatory for automotive suppliers.",
+      "PCB applications span consumer electronics, communication infrastructure, automotive electronics, industrial equipment, aerospace, and energy systems."
+    ],
+    "without": [
+      "Quick Quote",
+      "Privacy Policy",
+      "Latest news",
+      "Contact information",
+      "Hot Products"
+    ],
+    "images": {
+      "total_in_content": 15,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://www.topfastpcb.com/wp-content/uploads/2025/06/pcb-4.jpg",
+          "filename": "pcb-4.jpg",
+          "alt": "Printed Circuit Board",
+          "caption": "Printed Circuit Board",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.topfastpcb.com/wp-content/uploads/2025/06/pcb-3.jpg",
+          "filename": "pcb-3.jpg",
+          "alt": "Printed Circuit Board",
+          "caption": "Printed Circuit Board",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.topfastpcb.com/wp-content/uploads/2025/06/pcb-2.jpg",
+          "filename": "pcb-2.jpg",
+          "alt": "Printed Circuit Board",
+          "caption": "Printed Circuit Board",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.topfastpcb.com/wp-content/uploads/2025/06/pcb-1.jpg",
+          "filename": "pcb-1.jpg",
+          "alt": "Printed Circuit Board",
+          "caption": "Printed Circuit Board",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:01:18.825232"
+}

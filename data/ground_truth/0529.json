@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ikea.com/us/en/",
+  "file_id": "0529",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "retail",
+        "furniture",
+        "home goods",
+        "e-commerce"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Shop Affordable Home Furnishings & Home Goods - IKEA",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Welcome to IKEA USA. Shop affordable furniture and home goods at IKEA! Discover furnishings and inspiration to create a better life at home. Shop online or in store! Winter Sale: Save on hundreds of items now thru Jan 13th! IKEA Winter Sale offers up to 50% off select items, and IKEA Loyalty Program Members get an additional 10% off sale items. Offer valid 12/10-1/13/26. Featured offers: 15% off GULLABERG chest of drawers, Save on holiday cooking and eating essentials, Cute kids' finds from $3.99, Bedroom textiles starting at $3.99. Product categories: Winter holiday shop, Storage & organization, Sofas & armchairs, Beds & mattresses, Kitchen appliances & supplies, Tables & chairs, Kitchenware & tableware, Home decor & accessories, Lighting, Baby & kids, Desks & desk chairs, Rugs & home textiles, Storage containers organizers & baskets, Bathroom furniture supplies & more, Outdoor, Window treatments & coverings, Plants & planters, Laundry & cleaning, Home electronics, IKEA Food & Swedish restaurant, Pet accessories, Home improvement, Smart home. IKEA Family members get free shipping on qualifying small orders over $50.",
+    "with": [
+      "Welcome to IKEA USA. Shop affordable furniture and home goods at IKEA!",
+      "Save on hundreds of items now thru Jan 13th! IKEA Winter Sale offers up to 50% off select items.",
+      "IKEA Loyalty Program Members get an additional 10% off sale items through 1/13/26.",
+      "Featured offer: 15% off GULLABERG chest of drawers - A white GULLABERG chest of 3 drawers in a room with yellow walls.",
+      "IKEA Family members get free shipping on qualifying small orders over $50*"
+    ],
+    "without": [
+      "Skip to main content",
+      "Hej! Log in or sign up",
+      "Favorites",
+      "Shopping bag",
+      "Select store"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://www.ikea.com/us/en/range-categorisation/images/product/winter-holiday-wt001.jpeg?imwidth=160",
+          "filename": "winter-holiday-wt001.jpeg",
+          "alt": null,
+          "caption": "Winter holiday shop - seasonal decorations and gifts",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ikea.com/ext/ingkadam/m/6135f382966768c4/original/PH205994.jpg?f=s",
+          "filename": "PH205994.jpg",
+          "alt": "A white GULLABERG chest of 3 drawers in a room with yellow walls, featuring a TÄRNABY table lamp and a potted plant on top.",
+          "caption": "A white GULLABERG chest of 3 drawers in a room with yellow walls, featuring a TÄRNABY table lamp and a potted plant on top",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.ikea.com/ext/ingkadam/m/574a9ed6b33a2e2c/original/PH135760-crop002.jpg?f=s",
+          "filename": "PH135760-crop002.jpg",
+          "alt": "A pine IVAR shelving unit in the kitchen",
+          "caption": "A pine IVAR shelving unit in the kitchen",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ikea.com/ext/ingkadam/m/7b1a767dcc36bdd4/original/PH145807-crop001.jpg?f=s",
+          "filename": "PH145807-crop001.jpg",
+          "alt": "A multicolour LILLABO 20-piece basic train set in the childrens room",
+          "caption": "A multicolour LILLABO 20-piece basic train set in the childrens room",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ikea.com/ext/ingkadam/m/4869c70d8fe36c86/original/PE894516.jpg?f=s",
+          "filename": "PE894516.jpg",
+          "alt": "A light brown DYTÅG throw",
+          "caption": "A light brown DYTÅG throw",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ikea.com/ext/ingkadam/m/3380a3a5bed56447/original/PH188166.jpg",
+          "filename": "PH188166.jpg",
+          "alt": null,
+          "caption": "A black HUVUDSPELARE gaming desk",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ikea.com/ext/ingkadam/m/5929501fc0cede8e/original/PE940651.jpg",
+          "filename": "PE940651.jpg",
+          "alt": null,
+          "caption": "A white IDANÄS chest of 6 drawers",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ikea.com/ext/ingkadam/m/59194cabe5889a45/original/PE838375-crop001.jpg",
+          "filename": "PE838375-crop001.jpg",
+          "alt": null,
+          "caption": "An in/outdoor eucalyptus FEJKA artificial potted plant",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ikea.com/ext/ingkadam/m/5c1ab7ead9ea238b/original/PE880310.jpg",
+          "filename": "PE880310.jpg",
+          "alt": null,
+          "caption": "A Knäbäck/light beige birch ESSEBODA 2-seat sofa",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ikea.com/ext/ingkadam/m/797959448363bcd8/original/PH190341-crop001.jpg",
+          "filename": "PH190341-crop001.jpg",
+          "alt": null,
+          "caption": "A bamboo SYMFONISK shade for speaker lamp base",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:20:12.407058"
+}

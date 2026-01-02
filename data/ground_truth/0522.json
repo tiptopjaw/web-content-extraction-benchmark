@@ -1,27 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://learning.linkedin.com/certifications-and-credentials",
   "file_id": "0522",
-  "downloaded_at": "2025-12-20T18:08:36.916351",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "certification",
+        "professional-development",
+        "linkedin-learning"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Certification and Continuing Education Programs",
     "author": null,
     "publish_date": null,
-    "main_content": "Certifications and Credentials\n\nClose skill gaps confidently with a variety of credential content on LinkedIn Learning.\n\nEnables learners to earn credentials for in-demand skills with courses and assessment options across 3 credential types\n\nProfessional Certificates\n\nCertification Preparation\n\nContinuing Education\n\nProfessional Certificates\n\nProfessional Certificates are a series of courses that help learners develop job-ready skills for in-demand roles. Learners can earn a Professional Certificate from LinkedIn Learning upon completion of the required courses and assessments.\n\nProfessional Certificates are designed to help learners develop job-ready skills for in-demand roles. They are a series of courses that help learners develop job-ready skills for in-demand roles. Learners can earn a Professional Certificate from LinkedIn Learning upon completion of the required courses and assessments.\n\nCertification Preparation\n\nCertification Preparation courses help learners prepare for industry-recognized certifications from leading organizations. These courses cover the skills and knowledge needed to pass certification exams.\n\nCertification Preparation courses help learners prepare for industry-recognized certifications from leading organizations. These courses cover the skills and knowledge needed to pass certification exams.\n\nContinuing Education\n\nContinuing Education courses help learners maintain and enhance their professional skills. These courses are designed to help learners stay current with the latest trends and best practices in their field.\n\nContinuing Education courses help learners maintain and enhance their professional skills. These courses are designed to help learners stay current with the latest trends and best practices in their field.",
+    "main_content": "Certifications and Credentials. Close skill gaps confidently with a variety of credential content on LinkedIn Learning. Enables learners to earn credentials for in-demand skills with courses and assessment options across 3 credential types. Professional Certificates. Certification Preparation. Continuing Education. LinkedIn Learning offers professional certificates, certification preparation courses, and continuing education programs to help learners develop skills and earn credentials from trusted partners.",
     "with": [
       "Certifications and Credentials",
-      "Close skill gaps confidently with a variety of credential content on LinkedIn Learning.",
-      "Enables learners to earn credentials for in-demand skills with courses and assessment options across 3 credential types",
-      "Professional Certificates are a series of courses that help learners develop job-ready skills for in-demand roles.",
-      "Certification Preparation courses help learners prepare for industry-recognized certifications from leading organizations."
+      "Close skill gaps confidently with a variety of credential content on LinkedIn Learning",
+      "Professional Certificates",
+      "Certification Preparation",
+      "Enables learners to earn credentials for in-demand skills with courses and assessment options across 3 credential types"
     ],
     "without": [
       "Skip to main content",
       "Sign in",
-      "Chat with a sales consultant",
-      "Contact sales",
-      "LinkedIn Logo"
-    ]
+      "Products",
+      "Courses",
+      "Resources"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:08:36.916358"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:17:32.834085"
 }

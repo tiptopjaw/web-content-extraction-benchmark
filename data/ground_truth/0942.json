@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.delta.com/us/en/delta-vacations/offers-deals",
+  "file_id": "0942",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "travel",
+        "vacation-packages",
+        "deals",
+        "discounts",
+        "hotels"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Top Vacation Package Deals & Offers | Delta Vacations 2025",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Start planning your Delta Vacations getaway with instant savings, exclusive hotel discounts and other special deals on vacation packages. The page features exclusive offers including Get 15% More for Your Miles (ends December 30, 2025), Save up to $250 for Medallion Members (book by March 31), and Save up to $200 for SkyMiles Members. Top Instant Savings deals include Grand Wailea Maui ($500 off), Alohilani Resort Waikiki Beach ($200 off), Dreams Cap Cana Resort & Spa (up to $300 off), Paradisus Los Cabos ($200 off), Hyatt Ziva Cancun ($200 off), and The Clermont London Victoria (up to $100 off). Hotel Offers & Perks are organized by region: Mexico/Central & South America (RIU Latino, Secrets Bahia Mita Surf & Spa, Margaritaville Island Reserve Riviera Cancun, Hyatt Vivid Playa del Carmen, Meliá Cozumel, RIU Palace Cabo San Lucas), Caribbean (RIU Ocho Rios, Paradisus Palma Real Golf & Spa Resort, Royalton Bavaro Resort & Casino, Secrets Cap Cana Resort & Spa, Hilton Barbados Resort, Grand Hyatt Baha Mar), U.S. & Hawaii (Outrigger Reef Waikiki Beach Resort, Outrigger Waikiki Beachcomber Hotel, Outrigger Kaanapali Beach Resort, Hotel Riu Plaza Fisherman's Wharf, Wynn Las Vegas, JW Marriott Phoenix Desert Ridge Resort & Spa), and Europe (Le Roch Hotel & SPA, The Morrison Dublin, Rivoli Boutique Hotel, Hilton Sorrento Palace, Mangia's Brucoli Sicily, Grand Hotel Et Des Palmes). Military personnel save up to $200 off per booking. Various terms and conditions apply to all offers.",
+    "with": [
+      "Start planning your Delta Vacations getaway with instant savings, exclusive hotel discounts and other special deals on vacation packages.",
+      "GET 15% MORE FOR YOUR MILES: SkyMiles® Members get more for their miles when using them to book a flight and hotel package.",
+      "Save up to $250: Medallion® Members save on flight and hotel packages when they book by March 31.",
+      "$500 in instant savings at Grand Wailea Maui, A Waldorf Astoria Resort in Maui, Hawaii.",
+      "Save up to $200 off per booking for U.S. military personnel."
+    ],
+    "without": [
+      "Travel Planning Center navigation",
+      "Delta Sky Club® link",
+      "Copyright footer text",
+      "Cookie notice or privacy policy",
+      "Subscribe to newsletter prompts"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:17:32.522085"
+}

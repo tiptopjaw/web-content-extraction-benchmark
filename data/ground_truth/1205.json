@@ -1,0 +1,45 @@
+{
+  "schema_version": "2.0",
+  "url": "https://wgpevents.com/blog/f/why-hr-is-not-your-event-planner-stop-making-them-plan-your-lame",
+  "file_id": "1205",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "medium",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "event-planning",
+        "blog",
+        "wedding-events"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Why HR Is Not Your Event Planner: Stop Making Them Plan Your Lame",
+    "author": "WGP Events",
+    "publish_date": null,
+    "main_content": "This is a blog page for WGP Events (White Glove Picnics & Events), an event planning company. The blog features event planning ideas, party planning tips, and content related to weddings, galas, corporate events, and brand activations. The company specializes in conference management, brand activations, and comprehensive event management services.",
+    "with": [
+      "My Blog: Event planning ideas, Party and event planning. Boston",
+      "Leading event planners exceling in event planning solutions. Expertise in weddings, galas, corporate events.",
+      "Sign up to receive our Blog posts directly to your inbox.",
+      "White Glove Picnics & Events is a professional event planning company.",
+      "The company offers conference management, brand activations, and event management services."
+    ],
+    "without": [
+      "Copyright © 2023 WGP Events - All Rights Reserved.",
+      "Privacy Policy",
+      "Terms of Service",
+      "This website uses cookies.",
+      "Powered by GoDaddy"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:06:29.521908"
+}

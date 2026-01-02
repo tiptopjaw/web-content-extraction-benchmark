@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.0",
+  "url": "https://teaspoonofadventure.com/packing-and-moving-tips/",
+  "file_id": "1839",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "moving",
+        "packing",
+        "guide",
+        "lifestyle",
+        "how-to"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "23 Packing and Moving Tips from Someone Who Has Moved 40+ Times!",
+    "author": "Riana Ang-Canning",
+    "publish_date": "2025-01-11",
+    "main_content": "As a travel blogger, I consider myself pretty decent at packing for trips. I usually do a good job of packing light and only bringing what I really need. But when it comes to packing and moving houses, I'm an expert. Because as of 2025, I am currently in my 42nd home. You might be wondering: How has a 32 year old managed to live in 40 different homes? Well, it's a combination of moving across the country a few times, living/studying/working abroad, having divorced parents who moved often, and never staying still for too long. I can probably count the number of places I have lived in for more than a year on one hand! So while packing and moving homes is never fun, I've learned lots of ways to make the process less painful. I know people spends months agonizing over what to pack, how to pack, the best way to move, etc. Let me use my 40+ moves worth of experience to make your next house move a little less painful!\n\nThe 23 tips covered in detail are:\n\n1. Start the packing and moving process early - give yourself one month minimum\n2. Purge your belongings before you go - don't pack stuff you don't want\n3. Hire movers if you can - worth the expense for your back\n4. Create a list of things you need to book or set up - utilities, elevator, storage\n5. Decide on what kind of boxes to use - cardboard, reusable bins you own, or rent\n6. Label boxes with numbers and keep a detailed list on your phone\n7. Create a bag of packing supplies and leave it out until the last minute\n8. What to pack first when moving? Decor items - you don't need them for daily life\n9. Get a 2 for 1 when packing clothes - use clothes to wrap other items\n10. The best way to pack clothes - keep on hangers, slide into garbage bag\n11. Don't pack your boxes too heavy - lift regularly to check weight\n12. Pack heavy or awkward things into suitcases - like pots and pans\n13. The best way to pack shoes - into backpacks or duffel bags\n14. How to pack jewelry - Ziplocs or travel organizers\n15. How to pack books - sturdy boxes, don't make them too heavy\n16. Take everything out of drawers/cabinets and leave it out in the open\n17. Order take-out meals for the last few days so you can pack up your kitchen\n18. Bring over a few loads ahead of your official move day\n19. Pack an essentials bag with things you need immediately\n20. Give yourself a free day before the move for last minute tasks\n21. For renters: Take photos at your new place before you unpack\n22. Prioritize how you unpack - bathroom and kitchen first\n23. For renters: 5 bonus tips for packing and moving out\n\nPacking up: Good luck with your next move! Start early and start small. Read through my tips and have a plan of action. That way, your move can be as stress-free and simple as possible.",
+    "with": [
+      "As a travel blogger, I consider myself pretty decent at packing for trips. I usually do a good job of packing light and only bringing what I really need.",
+      "But when it comes to packing and moving houses, I'm an expert. Because as of 2025, I am currently in my 42nd home.",
+      "My best packing and moving tip is to start early. It is a way easier and less stressful process when you can slow down, take your time, and plan how to best move and pack.",
+      "Don't spend time packing up stuff you don't want, don't devote precious space in the moving truck to stuff you don't want, and don't spend the extra effort packing stuff you don't want.",
+      "Label the boxes with numbers and letters and then keep an itemized list of what's in those boxes on your phone."
+    ],
+    "without": [
+      "Skip to content",
+      "Primary Menu Destinations Travel Tips Expat Life Life at Home About Contact",
+      "Written by Riana Ang-Canning Time to read 24 minutes",
+      "Follow Riana Ang-Canning on Facebook Follow Riana Ang-Canning on X formerly Twitter",
+      "Similar Posts Month in Review: July 2022"
+    ],
+    "images": {
+      "total_in_content": 39,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://teaspoonofadventure.com/wp-content/uploads/2023/02/IMG_5578-scaled.jpg",
+          "filename": "IMG_5578-scaled.jpg",
+          "alt": "packing and moving tips for your next house move",
+          "caption": "packing and moving tips for your next house move",
+          "is_hero": true
+        },
+        {
+          "src": "https://teaspoonofadventure.com/wp-content/uploads/2023/02/Packing-and-Moving-Tips-for-Your-Next-House-Move-1-683x1024.jpg",
+          "filename": "Packing-and-Moving-Tips-for-Your-Next-House-Move-1-683x1024.jpg",
+          "alt": "23 PACKING & MOVING TIPS to make your next house move a breeze! Learn what to pack first, how to pack clothes and shoes, and my best packing hacks!",
+          "caption": "23 PACKING & MOVING TIPS to make your next house move a breeze! Learn what to pack first, how to pack clothes and shoes, and my best packing hacks!",
+          "is_hero": false
+        },
+        {
+          "src": "https://teaspoonofadventure.com/wp-content/uploads/2023/02/IMG_8730-768x1024.jpg",
+          "filename": "IMG_8730-768x1024.jpg",
+          "alt": "movers wrapping our belongings and stacking them in the elevator before putting them in the truck",
+          "caption": "movers wrapping our belongings and stacking them in the elevator before putting them in the truck",
+          "is_hero": false
+        },
+        {
+          "src": "https://teaspoonofadventure.com/wp-content/uploads/2023/02/IMG_8732.jpg",
+          "filename": "IMG_8732.jpg",
+          "alt": "Colin standing in an empty storage locker for packing and moving",
+          "caption": "Our movers managed to fit everything in this 10x12x3 locker!",
+          "is_hero": false
+        },
+        {
+          "src": "https://teaspoonofadventure.com/wp-content/uploads/2019/05/IMG_5099-e1557946484796.jpg",
+          "filename": "IMG_5099-e1557946484796.jpg",
+          "alt": "all of our boxes and luggage packed and ready to move from Surrey to the West End",
+          "caption": "all of our boxes and luggage packed and ready to move from Surrey to the West End",
+          "is_hero": false
+        },
+        {
+          "src": "https://teaspoonofadventure.com/wp-content/uploads/2023/02/IMG_5580-scaled.jpg",
+          "filename": "IMG_5580-scaled.jpg",
+          "alt": "Socks wrapped around and inside mugs to protect them from breaking during a house move",
+          "caption": "Packing hack: Use clean socks to protect mugs from breaking!",
+          "is_hero": false
+        },
+        {
+          "src": "https://teaspoonofadventure.com/wp-content/uploads/2020/03/IMG_2553-scaled.jpg",
+          "filename": "IMG_2553-scaled.jpg",
+          "alt": "Ellie sitting in a suitcase with clothing in it, helping with the packing process",
+          "caption": "Ellie has always been a great help in the packing and unpacking process",
+          "is_hero": false
+        },
+        {
+          "src": "https://teaspoonofadventure.com/wp-content/uploads/2023/02/IMG_5501-scaled.jpg",
+          "filename": "IMG_5501-scaled.jpg",
+          "alt": "empty yaletown apartment, take photos before moving in",
+          "caption": "empty yaletown apartment, take photos before moving in",
+          "is_hero": false
+        },
+        {
+          "src": "https://teaspoonofadventure.com/wp-content/uploads/2023/02/IMG_9871.jpg",
+          "filename": "IMG_9871.jpg",
+          "alt": "Taking photos of our Fairview apartment as we move in and set up our furniture",
+          "caption": "Taking photos of our Fairview apartment as we move in and set up our furniture",
+          "is_hero": false
+        },
+        {
+          "src": "https://teaspoonofadventure.com/wp-content/uploads/2023/02/Packing-and-Moving-Tips-for-Your-Next-House-Move-18-683x1024.jpg",
+          "filename": "Packing-and-Moving-Tips-for-Your-Next-House-Move-18-683x1024.jpg",
+          "alt": "23 PACKING & MOVING TIPS to make your next house move a breeze! Learn what to pack first, how to pack clothes and shoes, and my best packing hacks!",
+          "caption": "23 PACKING & MOVING TIPS to make your next house move a breeze! Learn what to pack first, how to pack clothes and shoes, and my best packing hacks!",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:34:33.681919"
+}

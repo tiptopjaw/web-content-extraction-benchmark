@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.jfpossibilities.com/tech_notes/linux/survival-guide-sysv-init",
+  "file_id": "2823",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "guide",
+        "linux",
+        "sysv"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Survival Guide to SysV Init - JF Possibilities, Inc.",
+    "author": "Jon Foster",
+    "publish_date": "2025-09-13",
+    "main_content": "These days SystemD is the darling of the major distribution makers. As a consequence there is very little documentation out there about the use of SysV init. I thought I better write some stuff up before it becomes forgotten lore. There are distributions out there that still ship SysV init (like Devuan). I'm going to refrain from critiquing SystemD and instead tell you what I like about SysV init: In general it seems to use 1/10th the RAM. It requires very little specialized knowledge. It is mostly managed with standard tools that Linux terminal jockeys already know. It is infinitely configurable. It doesn't try to be 'user space' or control everything. It is 100% transparent. You can step up to a completely alien install and without source debug it. It is too stupid to give up or get tied up. Without the added complexity it is far more reliable and durable. At the heart of init is the notion of a run-level. The idea is that each run-level on the system is a set of services you want running. By changing run-levels init will start up or shutdown services to meet the specification for that run-level. Run-levels are typically identified by the numbers 0-6 and the letter 'S'. There are three things that are used to configure init and the services to be run in the run-levels: /etc/inittab, /etc/init.d, and /etc/rc{RL}.d. The inittab is a colon separated ASCII table that makes everything happen. The init.d directory contains scripts used to start and stop services. The rc{RL}.d directories contain symlinks starting with 'K' and 'S' that determine which services start or stop when entering a run-level. The SysV init system is elegant in its simplicity. It requires very little specialized knowledge giving it a low barrier to entry. Its simplicity lends a greater reliability than more modern, complex alternatives.",
+    "with": [
+      "These days SystemD is the darling of the major distribution makers.",
+      "At the heart of 'init' is the notion of a 'run-level'.",
+      "There are three things that are used to configure 'init' and the services to be run in the run-levels: /etc/inittab, /etc/init.d, and /etc/rc{RL}.d.",
+      "The job of init is to get the system ready for use.",
+      "The SysV init system is elegant in its simplicity."
+    ],
+    "without": [
+      "PO Box 1214 • La Pine • Oregon • 97739 • 541-410-2760",
+      "Home | Tech Notes | Showcase | What We Do | Downloads | Store | IMO | Contact Us",
+      "JF Possibilities, Inc.",
+      "width=device-width, initial-scale=1.0",
+      "Privacy Policy | Terms of Service"
+    ],
+    "images": {
+      "total_in_content": 16,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:07:29.265598"
+}

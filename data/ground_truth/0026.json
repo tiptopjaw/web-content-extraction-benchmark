@@ -1,0 +1,82 @@
+{
+  "schema_version": "2.0",
+  "url": "https://utswmed.org/conditions-treatments/skincare-services/",
+  "file_id": "0026",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "medical",
+        "skincare",
+        "dermatology",
+        "cosmetic-treatments"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Skincare Services | Types of Skin Treatments | UTSW Medical Center",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The plastic surgery physicians and aestheticians at UT Southwestern Medical Center take a comprehensive, individualized approach to evaluating and improving the health and vitality of patients' skin. Based on the patient's skin type and condition, as well as lifestyle and goals, our doctors prescribe a tailored skincare regimen of clinically researched products and leading-edge treatments, which include skin care, chemical peels, laser treatments, photorejuvenation, and skin tightening procedures.\n\nOur skincare services may be beneficial for patients with conditions such as acne and acne scars, age spots, fine lines and wrinkles, hyperpigmentation, loose or sagging skin, rosacea, sunspots and sun damage, spider veins and varicose veins, and unwanted facial or body hair.\n\nSkincare Products: We carry a wide variety of clinically researched skincare lines to treat individual skincare needs, such as ZO Skin Health, SkinCeuticals, Elta MD, Senté, Globiotics, and Neocutis.\n\nLaser Treatments: Our dermatology and plastic surgery specialists use the most advanced laser technology for safe, effective laser skin rejuvenation and laser resurfacing. Treatment options include Microlaser Peel, mJoule (BBL Hero and MOXI), Fractional Resurfacing, Full Ablative Resurfacing, Halo, Leg Veins/Telangiectasias, and Laser Hair Reduction.\n\nTherapies: Nonablative therapies preserve the epidermis and focus on deeper dermal structures. Options include Levulan Photodynamic Therapy (PDT), Photorejuvenation, and Skin Tightening using FaceTite/Morpheus and Profound technologies.\n\nClinical Treatments: We offer Chemical Peels, Micropeel, Peri- and Postoperative Skincare, Dermaplaning, and SkinPen Microneedling.\n\nBody Options: CoolSculpting is a nonsurgical technique used to reduce fat in targeted areas using cold temperatures.\n\nFinishing Touches: Waxing Services and Tinting are available.\n\nTo schedule a skincare consultation, use MyChart or call 214-645-2353 (Dallas location) or 469-604-9120 (Frisco location).",
+    "with": [
+      "The plastic surgery physicians and aestheticians at UT Southwestern Medical Center take a comprehensive, individualized approach to evaluating and improving the health and vitality of patients' skin.",
+      "Our skincare services may be beneficial for patients with conditions such as acne and acne scars, age spots, fine lines and wrinkles, hyperpigmentation, loose or sagging skin, rosacea, sunspots and sun damage, spider veins and varicose veins, and unwanted facial or body hair.",
+      "We carry a wide variety of clinically researched skincare lines to treat individual skincare needs, such as ZO Skin Health, SkinCeuticals, Elta MD, Senté, Globiotics, and Neocutis.",
+      "Our dermatology and plastic surgery specialists use the most advanced laser technology for safe, effective laser skin rejuvenation and laser resurfacing.",
+      "To schedule a skincare consultation, use MyChart or call 214-645-2353 (Dallas location) or 469-604-9120 (Frisco location)."
+    ],
+    "without": [
+      "Skip Navigation",
+      "New Patient Appointment",
+      "© 2025 The University of Texas Southwestern Medical Center",
+      "Find a Doctor",
+      "The future of medicine, today."
+    ],
+    "images": {
+      "total_in_content": 13,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://d38sso7f6qz01j.cloudfront.net/original_images/skincare-services-1370w.jpg",
+          "filename": "skincare-services-1370w.jpg",
+          "alt": "A skincare professional is applying a facial treatment to a client lying down on a treatment bed, surrounded by skincare products.",
+          "caption": "A skincare professional is applying a facial treatment to a client lying down on a treatment bed, surrounded by skincare products.",
+          "is_hero": false
+        },
+        {
+          "src": "https://d38sso7f6qz01j.cloudfront.net/original_images/Skincare_services_facial-1370x895.jpg",
+          "filename": "Skincare_services_facial-1370x895.jpg",
+          "alt": "A skincare professional is giving a facial massage to a client lying down on a treatment bed, with towels and skincare products in the background.",
+          "caption": "A skincare professional is giving a facial massage to a client lying down on a treatment bed, with towels and skincare products in the background.",
+          "is_hero": false
+        },
+        {
+          "src": "https://d38sso7f6qz01j.cloudfront.net/original_images/skincare_services_1370x.jpg",
+          "filename": "skincare_services_1370x.jpg",
+          "alt": "A skincare professional is providing a facial massage to a relaxed client on a treatment bed, with a variety of skincare products nearby.",
+          "caption": "A skincare professional is providing a facial massage to a relaxed client on a treatment bed, with a variety of skincare products nearby.",
+          "is_hero": false
+        },
+        {
+          "src": "https://d38sso7f6qz01j.cloudfront.net/original_images/skincare-services-1370w-2.jpg",
+          "filename": "skincare-services-1370w-2.jpg",
+          "alt": "A skincare professional is preparing a treatment device in a well-equipped skincare treatment room, ready for the next client.",
+          "caption": "A skincare professional is preparing a treatment device in a well-equipped skincare treatment room, ready for the next client.",
+          "is_hero": false
+        },
+        {
+          "src": "https://d38sso7f6qz01j.cloudfront.net/original_images/danielle_skincare_services_1370x770.png",
+          "filename": "danielle_skincare_services_1370x770.png",
+          "alt": "A skincare professional wearing a mask and gloves is examining a client's skin up close, in a well-lit treatment room.",
+          "caption": "A skincare professional wearing a mask and gloves is examining a client's skin up close, in a well-lit treatment room.",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:31:03.786437"
+}

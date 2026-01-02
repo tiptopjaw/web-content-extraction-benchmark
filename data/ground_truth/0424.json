@@ -1,0 +1,75 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.consumeraffairs.com/movers/new-york/",
+  "file_id": "0424",
+  "_internal": {
+    "page_type": {
+      "primary": "review",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "moving",
+        "new-york",
+        "buyers-guide",
+        "company-comparison"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "3 Best New York Moving Companies 2025 | ConsumerAffairs®",
+    "author": "Cassidy McCants",
+    "publish_date": "2025-06-11",
+    "main_content": "Best Moving Companies in New York 2025. Our top 3 picks for moving companies in New York: Customer service - AmeriSafe Moving Services, Flat-rate pricing - FlatRate Moving, Punctuality and speed - Bronze Star Moving & Storage. We analyzed top movers in New York based on ratings, reviews, price, additional services, discounts, availability and several other factors so you can find the right company for your move. AmeriSafe Moving Services has a customer rating of 4.1 stars based on 905 reviews. FlatRate Moving has a customer rating of 4.2 stars based on 170 reviews. Bronze Star Moving and Storage Inc. has a customer rating of 4.1 stars based on 133 reviews. This article was reviewed by our research team at the time of publishing for accuracy of information and statistics using reliable, primary sources. We compared 27 companies and chose the top movers.",
+    "with": [
+      "We compared 27 companies and chose the top movers",
+      "AmeriSafe Moving Services has a customer rating of 4.1 stars based on 905 reviews",
+      "We analyzed top movers in New York based on ratings, reviews, price, additional services, discounts, availability and several other factors",
+      "This article was reviewed by our research team at the time of publishing for accuracy of information",
+      "Read our full methodology below for all the details"
+    ],
+    "without": [
+      "Subscribe to our newsletter",
+      "Copyright 2025 ConsumerAffairs",
+      "Privacy Policy",
+      "Write a Review",
+      "Log in or sign up"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://logos.consumeraffairs.com/77/75/s/c/19d5f35574290e15091db928c32d44b3a34dcd6d.webp",
+          "filename": "19d5f35574290e15091db928c32d44b3a34dcd6d.webp",
+          "alt": "AmeriSafe Moving Services logo",
+          "caption": "AmeriSafe Moving Services logo",
+          "is_hero": true
+        },
+        {
+          "src": "https://media.consumeraffairs.com/files/cache/logos/flatrate-moving-logo_ratings_box_logo_jpeg.jpg",
+          "filename": "flatrate-moving-logo_ratings_box_logo_jpeg.jpg",
+          "alt": "FlatRate Moving logo",
+          "caption": "FlatRate Moving logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://media.consumeraffairs.com/files/cache/logos/bronze-star-moving-and-storagelogo_26375_ratings_box_logo_jpeg.jpg",
+          "filename": "bronze-star-moving-and-storagelogo_26375_ratings_box_logo_jpeg.jpg",
+          "alt": "Bronze Star Moving and Storage Inc. logo",
+          "caption": "Bronze Star Moving and Storage Inc. logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://datawrapper.dwcdn.net/B7i7j/full.png",
+          "filename": "full.png",
+          "alt": "A table highlighting the 35 most populous cities in New York and how they compare across five key categories.",
+          "caption": "A table highlighting the 35 most populous cities in New York and how they compare",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:30:26.018591"
+}

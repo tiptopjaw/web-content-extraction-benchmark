@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://towardsdatascience.com/lessons-learned-after-8-years-of-machine-learning/",
+  "file_id": "2264",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "machine-learning",
+        "career",
+        "productivity",
+        "deep-work"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Lessons Learned After 8 Years of Machine Learning",
+    "author": "Pascal Janetzky",
+    "publish_date": "2025-12-16",
+    "main_content": "OpenAI is about a decade old now. Back then, OpenAI felt like one (well-baked) startup among others. DeepMind was already around, but not yet fully integrated into Google. And, back then, the \"triad of deep learning\" — LeCun, Hinton, and Bengio — published Deep Learning in Nature. Today, AI is like a common good. Back then, it was mostly scholars and tech nerds that knew and cared about it. Today, even kids know what AI is and interact with it. It's a fast-paced field, and I'm fortunate to have joined it only slightly afterwards \"back then\" — eight years ago, when momentum was building but classic ML was still taught at the universities: clustering, k-means, SVMs. As the year now closes, it feels like the right time to zoom out. This time, four threads show up everywhere in my notes: Deep Work, Over-identification with one's work, Sports (and movement in general), and Blogging.\n\nDeep Work seems to be my favorite theme — and in machine learning it shows up everywhere. Machine learning works can have several focus points, but most days revolve around some combination of theory (math, proofs, careful reasoning), coding (pipelines, training loops, debugging), and writing (project reports, papers, documentation). All of them require sustained focus for extended time. Theorem proofs don't emerge from five-minute fragments. Coding, needless to say, punishes interruptions. Deep work has always meant two things: the skill of being able to concentrate deeply for long stretches, and the environment of having conditions that allow and protect that concentration.\n\nOver-identification with one's work is generally not a smart strategy. Work on and with ML is full of variance: experiments fail, baselines beat your fancy ideas, reviewers misunderstand, deadlines compress, data breaks, priorities shift. If your sense of self rises and falls with the latest training run, you could equally well be visiting Disneyland for a roller coaster ride. You can be an ML engineer, or a researcher, or a \"theory person\" — and also be a friend, a partner, a sibling, a teammate, a reader, a runner, a writer. When one part goes through a low, the others hold you steady.\n\nSports, or movement in general: Jobs in ML are not known for containing a lot of movement. The miles you make are finger-miles on the keyboard. The good news is: it's easier than ever to counteract. There are many boring but effective options: height-adjustable desks, meetings spent walking, walking pads under the desk, short mobility routines. Movement has become an integral part for my workday. I don't treat it as \"fitness.\" I treat it as an insurance that allows me to do my job for years to come.\n\nBlogging: Daniel Bourke's example inspired me to start blogging as well. At first, writing these articles was simple: write an article, publish it, move on. But over time, it became something else: a practice. Writing forces precision in putting your thoughts to paper. If you can't explain something in a way that holds together, you probably don't understand it as well as you think you do. Blogging has been rewarding in monetary terms, but more importantly, as a practice in writing. I see blogging as a way of training my ability to translate: taking something technical and putting it into words that another audience can actually carry. In a field that moves quickly and loves novelty, such translation skill is oddly stable.\n\nLooking back after eight years of \"doing ML\", none of these themes turn out to be about a specific machine learning model or a specific trick to training faster. Rather, the lessons are about Deep work (which makes progress possible), Not over-identifying (which makes setbacks survivable), Movement (which keeps your body from silently degrading), and Blogging (which trains your clarity by sharing experience).",
+    "with": [
+      "Deep work has always meant two things: the skill of being able to concentrate deeply for long stretches, and the environment of having conditions that allow and protect that concentration.",
+      "Over the years, I've come to believe that deriving too much identity from the job is generally not a smart strategy.",
+      "Jobs in ML are not known for containing a lot of movement. The miles you make are finger-miles on the keyboard.",
+      "Writing forces precision in putting your thoughts to paper. If you can't explain something in a way that holds together, you probably don't understand it as well as you think you do.",
+      "In a field that moves quickly and loves novelty, such translation skill is oddly stable. Models change. Frameworks change. But the ability to think clearly and write clearly compounds."
+    ],
+    "without": [
+      "Sign in",
+      "Submit an Article",
+      "Subscribe to Our Newsletter",
+      "Write For TDS",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 9,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://towardsdatascience.com/wp-content/uploads/2025/06/anthony-tori-9qYKMbBCFjc-unsplash-scaled-1.jpg",
+          "filename": "anthony-tori-9qYKMbBCFjc-unsplash-scaled-1.jpg",
+          "alt": null,
+          "caption": "Photo by Anthony Tori via Unsplash",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:19:56.342057"
+}

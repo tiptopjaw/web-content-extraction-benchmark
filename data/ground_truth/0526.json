@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.miamidade.gov/global/business/smallbusiness/certification-programs.page",
+  "file_id": "0526",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "government",
+        "small-business",
+        "certification",
+        "business-services"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Small Business Enterprise Certification Programs",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Miami-Dade County supports the growth and success of small businesses through a range of certification programs that promote participation in County contracting opportunities. Certified firms may qualify under one or more of the following categories: Small Business Enterprise – Architectural & Engineering (SBE-A&E), Small Business Enterprise – Construction (SBE-CON), Small Business Enterprise – Goods and Services (SBE-GS), Local Developing Business (LDB), Disadvantaged Business Enterprise (DBE), and Airport Concessionaire Disadvantaged Business Enterprise (ACDBE). Certification for a SBE firm is valid for a three-year period. To validate continuing eligibility, SBD may conduct a random audit within the three-year certification period. Additional information may be obtained at the Small Business Enterprise Programs or call the Small Business Development office at 305-375-3111. Apply for SBE Certification Programs online through the Business Management Workforce System. For questions or assistance, contact the SPD Certification Unit at 305-375-3111 or spd@miamidade.gov. The SBE-GS program is designed for firms providing goods or services other than construction, architectural, or engineering services. Eligibility requires an active Miami-Dade County Local Business Tax receipt for at least one year, a physical location in Miami-Dade County, personal net worth not exceeding $3.5 million, and average gross receipts over the past 3 years not exceeding $8 million. The SBE-A&E program is for independent architecture, engineering, mapping, or landscape architecture firms with similar eligibility requirements but with a $6.5 million average gross receipts limit for most services. The SBE-CON program is for independent construction firms with average gross receipts limits ranging from $8 million to $15 million depending on the specialty trade classification. The LDB program is designed for firms providing aeronautical services at Miami International Airport. The DBE program is a federal program that ensures equal opportunity in transportation contracting markets and addresses the effects of discrimination in transportation contracting. The ACDBE program increases opportunities for minority and women-owned small businesses to operate as concessionaires in airports.",
+    "with": [
+      "Miami-Dade County's Small Business Enterprise (SBE) and Local Developing Business (LDB) Certification programs were created for any business entity providing construction, architectural, engineering, goods, services, and aeronautical support services.",
+      "Certification for a SBE firm is valid for a three-year period.",
+      "Personal net worth for each owner must not exceed $3.5 million.",
+      "Must have a physical location in Miami-Dade County (no virtual offices).",
+      "Apply for SBE Certification Programs online through the Business Management Workforce System."
+    ],
+    "without": [
+      "Privacy Statement",
+      "Cookie notice",
+      "Miami-Dade County Homepage",
+      "Social Media Icons",
+      "© 2025 Miami-Dade County"
+    ],
+    "images": {
+      "total_in_content": 9,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "/resources/images/main-banner.jpg",
+          "filename": "main-banner.jpg",
+          "alt": "Miami Dade County",
+          "caption": "Miami Dade County",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:18:34.735792"
+}

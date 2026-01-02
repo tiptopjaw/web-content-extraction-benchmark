@@ -1,27 +1,82 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.apple.com/iphone/",
   "file_id": "1774",
-  "downloaded_at": "2025-12-20T22:52:54.591583",
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "apple",
+        "iphone",
+        "smartphone",
+        "product-page"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "iPhone - Apple",
     "author": null,
     "publish_date": null,
-    "main_content": "iPhone\nDesigned for Apple Intelligence. Discover iPhone 17 Pro, iPhone Air, and iPhone 17, along with iPhone 16 and iPhone 16e.\nSwitch to iPhone.\nGetting Started\nSwitching from Android to iPhone is simple.\nTransfer your data in a few easy steps.\nSimply download the Move to iOS app on your Android phone to securely transfer the stuff you care about most to your iPhone — contacts, messages, WhatsApp content, photos, videos, email accounts, favorite apps, call history, and more.\nContinue your conversations with friends.\nMessages lets you reply with a quick emoji, create Memoji, and pay a friend for pizza. RCS (Rich Communication Services) messaging brings richer media and delivery and read receipts for those who don’t use iMessage. And you can keep your conversations going on apps such as WhatsApp and WeChat.\nEverything just works.\nApple engineers design our hardware and software together for a totally seamless experience. Want to connect your new AirPods to your iPhone? It’s a simple one‑tap setup. Want to share photos or contacts with friends nearby? AirDrop lists their names onscreen, so you can choose with a tap.\nHelp is just a call or chat away.\nThere are lots of ways to reach someone if you have questions. Call a Specialist, chat with someone online, go into an Apple Store, or use the Apple Support app. And the Tips app will help you get the most out of your iPhone over time.\nDesigned to Last\niPhone holds its value longer than other smartphones.\nLast phone standing.\niPhone is protected by Ceramic Shield, which is tougher than any smartphone glass or glass ceramic. Our latest iPhone models have Ceramic Shield 2 on the front, with 3x better scratch resistance. Little spill? No biggie — iPhone stands up to splashes from everyday liquids like water, coffee, and soda.\nNew now. And later.\nRegular iOS updates keep your iPhone feeling new for years to come. Just turn on automatic updates, and your iPhone stays current with the latest features and security.\nSupersmart, superspeedy Apple silicon.\nThe A19 and A19 Pro chips are incredibly efficient, delivering remarkable battery life. They unlock helpful Apple Intelligence tools, power advanced camera features, enable AAA gaming, and speed up AI workflows with the new Neural Accelerators in the GPU.\nGet credit toward iPhone 17, iPhone Air, or iPhone 17 Pro when you trade in an eligible smartphone.\nOrder by 12/22 for free delivery of in‑stock items by 12/24. See checkout for specific delivery dates and options.",
+    "main_content": "iPhone. Designed for Apple Intelligence. Discover iPhone 17 Pro, iPhone Air, and iPhone 17, along with iPhone 16 and iPhone 16e. Get credit toward iPhone 17, iPhone Air, or iPhone 17 Pro when you trade in an eligible smartphone. Switching from Android to iPhone is simple. Transfer your data using the Move to iOS app, continue conversations with friends through Messages with RCS support, and enjoy seamless integration with AirPods and AirDrop. iPhone holds its value longer than other smartphones, protected by Ceramic Shield 2 with 3x better scratch resistance. Regular iOS updates keep your iPhone feeling new for years. The A19 and A19 Pro chips deliver remarkable battery life and power Apple Intelligence tools, advanced camera features, and AAA gaming. New titanium design, aerospace-grade titanium, and Ceramic Shield 2. iOS 26 features Personal Lock Screens, notification summaries, Image Playground, and Visual Intelligence. Messages with RCS support, Check In, and Tapbacks. Privacy is built in with on-device processing, App Privacy Report, and Passwords app. Roadside Assistance via satellite, Emergency SOS via satellite, and Crash Detection. iPhone is carbon neutral. Trade in your current smartphone for credit toward a new iPhone.",
     "with": [
       "Designed for Apple Intelligence. Discover iPhone 17 Pro, iPhone Air, and iPhone 17, along with iPhone 16 and iPhone 16e.",
-      "Switching from Android to iPhone is simple.",
-      "iPhone holds its value longer than other smartphones.",
-      "Simply download the Move to iOS app on your Android phone to securely transfer the stuff you care about most to your iPhone — contacts, messages, WhatsApp content, photos, videos, email accounts, favorite apps, call history, and more.",
-      "The A19 and A19 Pro chips are incredibly efficient, delivering remarkable battery life. They unlock helpful Apple Intelligence tools, power advanced camera features, enable AAA gaming, and speed up AI workflows with the new Neural Accelerators in the GPU."
+      "Switching from Android to iPhone is simple. Simply download the Move to iOS app on your Android phone to securely transfer the stuff you care about most to your iPhone.",
+      "iPhone is protected by Ceramic Shield, which is tougher than any smartphone glass or glass ceramic. Our latest iPhone models have Ceramic Shield 2 on the front, with 3x better scratch resistance.",
+      "The A19 and A19 Pro chips are incredibly efficient, delivering remarkable battery life. They unlock helpful Apple Intelligence tools, power advanced camera features, enable AAA gaming.",
+      "iPhone is carbon neutral. We are committed to being carbon neutral for products by 2030."
     ],
     "without": [
-      "Apple Mac iPad iPhone Watch Vision AirPods TV & Home Entertainment Accessories Support",
-      "Order by 12/22 for free delivery of in‑stock items by 12/24. See checkout for specific delivery dates and options.",
-      "Get credit toward iPhone 17, iPhone Air, or iPhone 17 Pro when you trade in an eligible smartphone.",
-      "Shop iPhone Learn more about trade-in",
-      "Search apple.com Shopping Bag"
-    ]
+      "Order by 12/22 for free delivery of in‑stock items by 12/24. See checkout for specific delivery dates.",
+      "Store, Mac, iPad, Watch, Vision, AirPods, TV & Home, Accessories, Support",
+      "Compare, Shop iPhone, iOS",
+      "Copyright © 2025 Apple Inc. All rights reserved.",
+      "Privacy Policy, Terms of Use, Sales and Refunds, Site Map"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "/v/iphone/home/ch/images/overview/consider/getting_started__f98z0j9hm7m2_large.jpg",
+          "filename": "getting_started__f98z0j9hm7m2_large.jpg",
+          "alt": "Hands exchanging phones, Android on the left without a box, on the right is a new iPhone Air in box",
+          "caption": "Hands exchanging phones, Android on the left without a box, on the right is a new iPhone Air in box",
+          "is_hero": false
+        },
+        {
+          "src": "/v/iphone/home/ch/images/overview/consider/designed-to_last__c3hmkknr9scy_large.jpg",
+          "filename": "designed-to_last__c3hmkknr9scy_large.jpg",
+          "alt": "iPhone 17 Pro, back exterior, Pro fusion camera system spanning across the top, iPhone Air, very thin titanium side, iPhone 17, back exterior, Advanced dual-camera system in top left corner",
+          "caption": "iPhone 17 Pro, back exterior, Pro fusion camera system spanning across the top, iPhone Air very thin titanium side, iPhone 17 back exterior",
+          "is_hero": false
+        },
+        {
+          "src": "/v/iphone/home/ch/images/overview/consider_modals/designed-to-last/modal_new__b7jvgmgpb37m_large.jpg",
+          "filename": "modal_new__b7jvgmgpb37m_large.jpg",
+          "alt": "An array of iPhone 17 and 17 Pro devices each with a different screen showcasing iOS 26 and Apple Intelligence features",
+          "caption": "An array of iPhone 17 and 17 Pro devices each with a different screen showcasing iOS 26 and Apple Intelligence features",
+          "is_hero": false
+        },
+        {
+          "src": "/v/iphone/home/ch/images/overview/consider_modals/designed-to-last/modal_supersmart__gdssqz659my6_large.jpg",
+          "filename": "modal_supersmart__gdssqz659my6_large.jpg",
+          "alt": "iPhone 17 Pro, front exterior, demonstrating the performance capabilities of the A19 Pro chip with a scene from the Arknights: Endfield video game",
+          "caption": "iPhone 17 Pro, front exterior, demonstrating the performance capabilities of the A19 Pro chip",
+          "is_hero": false
+        },
+        {
+          "src": "/v/iphone/home/ch/images/overview/consider_modals/ios_ai/modal_delight__i0qklyn8nii6_large.jpg",
+          "filename": "modal_delight__i0qklyn8nii6_large.jpg",
+          "alt": "iPhone 17 devices, front exterior, finishes: mist blue, lavender, sage, iOS 26 features - Home Screen with various apps displayed, Calendar pop-up on personalized Lock Screen, iPhone screen showing Messages with Liquid Glass design",
+          "caption": "iPhone 17 devices, front exterior, finishes: mist blue, lavender, sage, iOS 26 features",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:52:54.591590"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:16:00.452550"
 }

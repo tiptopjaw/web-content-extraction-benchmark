@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.nerdfitness.com/blog/how-to-build-your-own-workout-routine/",
+  "file_id": "1405",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "fitness",
+        "workout",
+        "guide",
+        "exercise",
+        "strength-training"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "How To Build Your Own Workout Routine (Plans & Exercises)",
+    "author": "Steve Kamb",
+    "publish_date": "2024-03-17",
+    "main_content": "I'm gonna help build you a custom workout program, step-by-step! After all, a workout should be developed around a person's training age, goals, injury history, free time, and available equipment, not to mention things you ENJOY doing! Considering all those factors, it's easy to overcomplicate this process. There are a seemingly infinite number of exercises, sets, reps, and programs to choose from. Don't worry – together, we'll cut through the noise and get to the good stuff. Step #1: Determine Your Starting Point by asking three key questions: What are your goals? How much time can you devote to exercise? WHERE do you want to work out? Step #2: What Exercises Should I Do To Lose Weight Or Build Muscle? Keep it simple, stupid. The best workout is the one that you actually stick with. By targeting compound movements that recruit multiple muscles at the same time, you can build a full-body routine that uses only a handful of exercises. A compound exercise would be the yin to the yang of the isolation exercise. Think of a push-up (compound) compared to bicep curls through a machine (isolation). For each workout, pick one exercise for your quads, butt and hamstrings, push muscles, and pull muscles. Step #3: How Many Sets And Reps Should I Do? Not including a warm-up set or two, I recommend 2 to 5 sets per exercise, 5 to 15 reps per set when starting out. A 'set' is a series of repetitions that you complete without stopping. If you're looking to burn fat while building muscle, keep your number of repetitions per set in the 8-15 range per set. Step #4: How Long Should I Wait Between Sets? The goal is to wait the least amount of time you need, but still rest enough that you can perform all reps of the next set safely and properly! Adequate rest in-between sets will allow your body to regenerate energy, so you can execute the next set of reps with good form and technique, therefore, decreasing your risk of injury. Step #5: How Much Weight Should I Lift? Lift enough so that you can get through the set, but not too much that you have NO fuel left in the tank at the end. ALWAYS err on the side of 'too light' versus 'too heavy' when starting out. The NSCA has a 2-for-2 rule: if a person can do two reps or more over their set goal, then they should increase the load. Step #6: How Long Should I Exercise For? Easy answer: 45 minutes to an hour. If you're doing 10-20 sets of total exercise, you should be able to get everything done within that 45-minute block. Factor in a five or ten-minute warm-up, and then some stretching afterward, and the workout can go a little bit longer. Step #7: How To Create Supersets And Circuit Training Workouts. For those short on time, a circuit training workout is a highly efficient framework for training. A superset is performing two exercises in a row on two different muscle groups. A circuit requires you to do one set for EVERY exercise, one after the other, without stopping. Step #8: How Many Days Per Week Should I Train? Focus on building proper habits and set a goal of 2-3 full-body workouts per week. Your muscles don't get built in the gym. They actually get broken down in the gym, and then get rebuilt stronger while you're resting. By giving your muscles 48 hours to recover between workouts, especially when training heavy, you'll stay injury-free and get stronger. Step #9: Keep Track Of Everything! Keep a workout journal! As they say, that which gets measured gets improved. You should be getting stronger, faster, or more fit with each day of exercise.",
+    "with": [
+      "I'm gonna help build you a custom workout program, step-by-step! After all, a workout should be developed around a person's training age, goals, injury history, free time, and available equipment.",
+      "The best workout is the one that you actually stick with, and people make things FAR too complicated and try to target a bazillion different individual muscles with six types of exercises for each body part.",
+      "A compound exercise would be the yin to the yang of the isolation exercise. Think of a push-up (compound) compared to bicep curls through a machine (isolation).",
+      "Your muscles don't get built in the gym. They actually get broken down in the gym, and then get rebuilt stronger while you're resting.",
+      "As they say, that which gets measured gets improved. You should be getting stronger, faster, or more fit with each day of exercise."
+    ],
+    "without": [
+      "Subscribe to our newsletter",
+      "Want a customized workout plan you'll ACTUALLY do? Learn more:",
+      "Join the Rebellion (our free community)",
+      "Photo Sources: mdwombat, joshtasman, Sterling College",
+      "###"
+    ],
+    "images": {
+      "total_in_content": 34,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://www.nerdfitness.com/wp-content/uploads/2024/03/da-vinci-80.webp",
+          "filename": "da-vinci-80.webp",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://www.nerdfitness.com/wp-content/uploads/2021/07/nf-coaching-app-mockup.png",
+          "filename": "nf-coaching-app-mockup.png",
+          "alt": null,
+          "caption": "Want a customized workout plan you'll ACTUALLY do?",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.nerdfitness.com/wp-content/uploads/2019/01/staci-form-check-713x475.jpg",
+          "filename": "staci-form-check-713x475.jpg",
+          "alt": "A coach checking your form like so can help when designing and building a workout. ",
+          "caption": "A coach checking your form like so can help when designing and building a workout.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.nerdfitness.com/wp-content/uploads/2019/04/muppet-strength-training.gif",
+          "filename": "muppet-strength-training.gif",
+          "alt": "This Muppet knows strength training will help him gain muscle and lose weight.",
+          "caption": "This Muppet knows strength training will help him gain muscle and lose weight.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.nerdfitness.com/wp-content/uploads/2022/01/balanced-plate.jpg",
+          "filename": "balanced-plate.jpg",
+          "alt": "A plate that that contains a portion of protein, healthy carb, veggies/fruit, and unsweetened drink.",
+          "caption": "A plate that that contains a portion of protein, healthy carb, veggies/fruit, and unsweetened drink.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.nerdfitness.com/wp-content/uploads/2010/02/Batman-713x400.jpg",
+          "filename": "Batman-713x400.jpg",
+          "alt": "How did Batman get so ripped? How do you build a workout to get those abs?",
+          "caption": "How did Batman get so ripped? How do you build a workout to get those abs?",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.nerdfitness.com/wp-content/uploads/2010/02/stopwatch-713x476.jpg",
+          "filename": "stopwatch-713x476.jpg",
+          "alt": "A stopwatch like this can help when timing and building your workout.",
+          "caption": "A stopwatch like this can help when timing and building your workout.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.nerdfitness.com/wp-content/uploads/2019/01/steve-corey-deadlift-713x475.jpg",
+          "filename": "steve-corey-deadlift-713x475.jpg",
+          "alt": "When Rebels get together like at Camp, we build workouts that include deadlifts. ",
+          "caption": "When Rebels get together like at Camp, we build workouts that include deadlifts.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.nerdfitness.com/wp-content/uploads/2019/01/camp-nerd-fitness-deadlift-713x476.jpg",
+          "filename": "camp-nerd-fitness-deadlift-713x476.jpg",
+          "alt": "Deadlifts make a great addition when you build your own workout. ",
+          "caption": "Deadlifts make a great addition when you build your own workout.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.nerdfitness.com/wp-content/uploads/2020/09/journal.jpg",
+          "filename": "journal.jpg",
+          "alt": "A photo of someone journaling their fitness progress.",
+          "caption": "A photo of someone journaling their fitness progress.",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:10:21.685138"
+}

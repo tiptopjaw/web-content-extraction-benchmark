@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "url": "https://blog.veritates.love/selective_applicatives_theoretical_basis.html",
+  "file_id": "2590",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "haskell",
+        "category-theory",
+        "programming-languages",
+        "functional-programming",
+        "selective-applicatives"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Selective Applicative Functors",
+    "author": "@MonoidMusician",
+    "publish_date": null,
+    "main_content": "This article presents the missing theoretical basis for selective applicative functors, explaining what they should allow and disallow beyond the basic select function definition. Selective applicative functors encode exclusive determined choice, allowing choice between a finite number of predetermined case branches based upon previous results during evaluation. The key insight is that arrows (composable profunctors) must be considered instead of plain functors to fully understand selective applicatives. The familiar tools of theoretical analysis failed to apply to select because there was no account for it in terms of monoidal tensors, and even branch did not meaningfully compose with itself. The solution involves defining a CaseTree data type that represents finite-case functions from datatype i to datatype r, with effects in the functor f. This data type exposes the monoidal structure between tensors, enabling discussion of laws and algebraic structure. The free selective applicative can be recovered as ControlFlow f (), and static analysis is enabled via near-semirings by using a constant functor. The CaseTree data type has extensive structure including being a profunctor with covariant and contravariant mappings, having strong profunctor instances, and supporting operations like curry and uncurry. The laws expected for Casing f instances include associativity of TwoCases, identity laws with ZeroCases, and optional symmetry and idempotence properties.",
+    "with": [
+      "Selective applicative functors want to encode exclusive determined choice.",
+      "The common formulation of `select :: f (Either u v) -> f (u -> v) -> f v` does not capture this story.",
+      "It turns out that the most natural setting is to consider arrows instead of functors.",
+      "You should think of CaseTree f i r as a finite-case function from datatype i to datatype r, with effects in the functor f.",
+      "This exposes the monoidal structure between tensors we were looking for, enabling us to talk about laws and algebraic structure."
+    ],
+    "without": [
+      "RSS feed link",
+      "Table of contents navigation",
+      "Copyright and footer information",
+      "Pandoc generator metadata",
+      "Author social media icons"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:12:15.617676"
+}

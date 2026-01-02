@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.the-independent.com/topic/kitchen-appliances",
+  "file_id": "1304",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "kitchen-appliances",
+        "reviews",
+        "product-guides",
+        "indybest"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Kitchen appliances - latest news, breaking stories and comment - The Independent",
+    "author": null,
+    "publish_date": null,
+    "main_content": "A curated collection of kitchen appliance reviews, guides, and deals from The Independent's IndyBest section. The page features expert-tested reviews of various kitchen appliances including air fryers, coffee machines, toasters, blenders, dishwashers, slow cookers, ice cream makers, pizza ovens, juicers, stand mixers, and bread makers. Each article provides detailed testing insights, recommendations, and deals information for consumers looking to purchase kitchen appliances.",
+    "with": [
+      "I pitted Hotel Chocolat's £150 viral hot chocolate maker against Salter's £35 appliance",
+      "Most portable dishwashers just need a tap and a sink to operate",
+      "From bacon to chips, the humble air fryer can do it all",
+      "Slow cookers offer a convenient and energy efficient way to whip up meals",
+      "Best air fryers for 2025, tried and tested by an expert"
+    ],
+    "without": [
+      "Stay up to date with notifications from The Independent",
+      "Subscribe now",
+      "Log in / Register",
+      "Menu",
+      "Search"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://static.independent.co.uk/2025/12/15/18/46/hotel-chocolate-velvetiser-vs-salter-hot-chocolate-maker.png?quality=75&width=640&crop=3%3A2%2Csmart&trim=0%2C0%2C0%2C0&auto=webp",
+          "filename": "hotel-chocolate-velvetiser-vs-salter-hot-chocolate-maker.png",
+          "alt": "<p>I pitted Hotel Chocolat's £150 viral hot chocolate maker against Salter's £35 appliance</p>",
+          "caption": "I pitted Hotel Chocolat's £150 viral hot chocolate maker against Salter's £35 appliance",
+          "is_hero": true
+        },
+        {
+          "src": "https://static.independent.co.uk/2025/12/18/16/47/best-portable-dishwashers.png?quality=75&width=640&crop=3%3A2%2Csmart&trim=0%2C0%2C0%2C0&auto=webp",
+          "filename": "best-portable-dishwashers.png",
+          "alt": "<p>Most portable dishwashers just need a tap and a sink to operate</p>",
+          "caption": "Most portable dishwashers just need a tap and a sink to operate",
+          "is_hero": false
+        },
+        {
+          "src": "https://static.independent.co.uk/2025/12/18/10/13/how-to-cook-christmas-dinner-air-fryer2.png?quality=75&width=640&crop=3%3A2%2Csmart&trim=0%2C0%2C0%2C0&auto=webp",
+          "filename": "how-to-cook-christmas-dinner-air-fryer2.png",
+          "alt": "<p>I saved on the washing up by cooking a festive feast in my air fryer</p>",
+          "caption": "I saved on the washing up by cooking a festive feast in my air fryer",
+          "is_hero": false
+        },
+        {
+          "src": "https://static.independent.co.uk/2025/09/12/11/54/hero-air-fryer-v4.png?quality=75&width=640&crop=3%3A2%2Csmart&auto=webp",
+          "filename": "hero-air-fryer-v4.png",
+          "alt": "<p>I swapped my oven for a range of air fryers to put them to the test</p>",
+          "caption": "I swapped my oven for a range of air fryers to put them to the test",
+          "is_hero": false
+        },
+        {
+          "src": "https://static.independent.co.uk/2025/12/11/10/18/handheld-blenders.png?quality=75&width=640&crop=3%3A2%2Csmart&trim=0%2C0%2C0%2C0&auto=webp",
+          "filename": "handheld-blenders.png",
+          "alt": "<p>As well as being easier to store, they’re often more affordable than countertop versions</p>",
+          "caption": "As well as being easier to store, they're often more affordable than countertop versions",
+          "is_hero": false
+        },
+        {
+          "src": "https://static.independent.co.uk/2025/11/07/12/51/best-air-fryer-indybest-review.png?quality=75&width=640&crop=3%3A2%2Csmart&trim=0%2C0%2C0%2C0&auto=webp",
+          "filename": "best-air-fryer-indybest-review.png",
+          "alt": "<p>From bacon to chips, the humble air fryer can do it all</p>",
+          "caption": "From bacon to chips, the humble air fryer can do it all",
+          "is_hero": false
+        },
+        {
+          "src": "https://static.independent.co.uk/2025/10/29/10/43/best-coffee-machines-indybest-review.png?quality=75&width=640&crop=3%3A2%2Csmart&auto=webp",
+          "filename": "best-coffee-machines-indybest-review.png",
+          "alt": "<p>Pod machines are convenient, while bean to cup and espresso machines can often steam and froth your milk </p>",
+          "caption": "Pod machines are convenient, while bean to cup and espresso machines can often steam and froth your milk",
+          "is_hero": false
+        },
+        {
+          "src": "https://static.independent.co.uk/2025/10/28/11/40/slow-cooker-deal-standalone.png?quality=75&width=640&crop=3%3A2%2Csmart&auto=webp",
+          "filename": "slow-cooker-deal-standalone.png",
+          "alt": "<p>Slow cookers offer a convenient and energy efficient way to whip up meals</p>",
+          "caption": "Slow cookers offer a convenient and energy efficient way to whip up meals",
+          "is_hero": false
+        },
+        {
+          "src": "https://static.independent.co.uk/2025/10/07/6/45/Ninja-double-stack-deal-amazon-prime-day.jpeg?quality=75&width=640&crop=3%3A2%2Csmart&trim=0%2C0%2C0%2C0&auto=webp",
+          "filename": "Ninja-double-stack-deal-amazon-prime-day.jpeg",
+          "alt": "<p>The deal takes the cost of the appliance to less than £200</p>",
+          "caption": "The deal takes the cost of the appliance to less than £200",
+          "is_hero": false
+        },
+        {
+          "src": "https://static.independent.co.uk/2025/07/22/10/44/best-ice-cream-makers-IndyBest-review.png?quality=75&width=640&crop=3%3A2%2Csmart&trim=0%2C0%2C0%2C0&auto=webp",
+          "filename": "best-ice-cream-makers-IndyBest-review.png",
+          "alt": "<p>I tested freeze-first and self-freeze machines </p>",
+          "caption": "I tested freeze-first and self-freeze machines",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:32:30.031318"
+}

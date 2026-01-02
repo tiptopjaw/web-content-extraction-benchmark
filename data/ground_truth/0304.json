@@ -1,0 +1,104 @@
+{
+  "schema_version": "2.0",
+  "url": "https://ibew.org/electrical_worker/the-electrical-worker-2025-04/",
+  "file_id": "0304",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "magazine",
+        "publication",
+        "union-news",
+        "IBEW",
+        "newsletter"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "The Electrical Worker - April 2025",
+    "author": null,
+    "publish_date": "2025-04-01",
+    "main_content": "The Electrical Worker is your source for IBEW news. Discover articles on local union achievements, political victories, and federal initiatives impacting jobs and training in the electrical industry. This issue features: IBEW Helps Lead Way to 40th Defeat of New Hampshire 'Right-to-Work' Bill; A Storybook Project: L.A. Local's Skill, Creativity Take Narrative Art Museum off the Page; We Know How to Build: How IBEW Members Rallied to Fight, Report On and Rebuild From L.A.'s Devastating Wildfires. From the Officers section includes articles by President Paul Noble and International Secretary-Treasurer Kenneth Cooper on leadership and member engagement. IBEW Story features Tamer Kirac, journeyman marine electrician, Seattle Local 46. North of 49 covers Manitoba Represented on U.S. Skills Show. Circuits features Missouri, North Dakota Locals Reach Out to High School Students and Local 26 RENEW Committee Brings Building Trades Together for Chess Tournament. Power at Work: Patience, Relationships Lead to Big Win for California Local. Transitions honors departed members Gina Cooper, Donnie Colston, and Austin Keyser. Local Lines showcases updates from over 800 local unions across IBEW districts.",
+    "with": [
+      "The Electrical Worker is your source for IBEW news. Discover articles on local union achievements, political victories, and federal initiatives impacting jobs and training in the electrical industry.",
+      "IBEW Helps Lead Way to 40th Defeat of New Hampshire 'Right-to-Work' Bill",
+      "We Know How to Build: How IBEW Members Rallied to Fight, Report On and Rebuild From L.A.'s Devastating Wildfires",
+      "Patience, Relationships Lead to Big Win for California Local",
+      "Find out what's happening at the IBEW's more than 800 local unions"
+    ],
+    "without": [
+      "Skip to content",
+      "International Brotherhood of Electrical Workers",
+      "VOL. 19 | NO. 4 | April 2025",
+      "Read More",
+      "Search Icon"
+    ],
+    "images": {
+      "total_in_content": 31,
+      "annotated_count": 8,
+      "items": [
+        {
+          "src": "https://ibew.org/wp-content/uploads/2025/03/202504-my-ibew-story-lu46-kirac-768x1024.jpg",
+          "filename": "202504-my-ibew-story-lu46-kirac-768x1024.jpg",
+          "alt": null,
+          "caption": "Tamer Kirac, journeyman marine electrician, Seattle Local 46",
+          "is_hero": true
+        },
+        {
+          "src": "https://ibew.org/wp-content/uploads/2025/04/202504-lu2085-madina-nur-feature.webp",
+          "filename": "202504-lu2085-madina-nur-feature.webp",
+          "alt": null,
+          "caption": "Madina Nur, Manitoba represented on U.S. Skills Show",
+          "is_hero": false
+        },
+        {
+          "src": "https://ibew.org/wp-content/uploads/2025/03/202504-lu1-lu714-hs-trades-program-group.jpg",
+          "filename": "202504-lu1-lu714-hs-trades-program-group.jpg",
+          "alt": null,
+          "caption": "Missouri, North Dakota locals reach out to high school students",
+          "is_hero": false
+        },
+        {
+          "src": "https://ibew.org/wp-content/uploads/2025/03/202504-lu26-renew-chess-tournament.jpg",
+          "filename": "202504-lu26-renew-chess-tournament.jpg",
+          "alt": null,
+          "caption": "Local 26 RENEW Committee Chess Tournament",
+          "is_hero": false
+        },
+        {
+          "src": "https://ibew.org/wp-content/uploads/2025/03/202504-lu-477-members-celebrate-win-1024x416.jpg",
+          "filename": "202504-lu-477-members-celebrate-win-1024x416.jpg",
+          "alt": null,
+          "caption": "Local 477 members celebrate win in California",
+          "is_hero": false
+        },
+        {
+          "src": "https://ibew.org/wp-content/uploads/2025/04/202504-ibew-gina-cooper-feature.webp",
+          "filename": "202504-ibew-gina-cooper-feature.webp",
+          "alt": null,
+          "caption": "Gina Cooper tribute",
+          "is_hero": false
+        },
+        {
+          "src": "https://ibew.org/wp-content/uploads/2025/04/202504-ibew-donnie-colston-feature.webp",
+          "filename": "202504-ibew-donnie-colston-feature.webp",
+          "alt": null,
+          "caption": "Donnie Colston tribute",
+          "is_hero": false
+        },
+        {
+          "src": "https://ibew.org/wp-content/uploads/2025/04/202504-ibew-austin-keyser-feature.webp",
+          "filename": "202504-ibew-austin-keyser-feature.webp",
+          "alt": null,
+          "caption": "Austin Keyser tribute",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:46:13.468002"
+}

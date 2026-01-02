@@ -1,0 +1,45 @@
+{
+  "schema_version": "2.0",
+  "url": "https://consumer.ftc.gov/hiring-lawyer",
+  "file_id": "0914",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "government",
+        "consumer-advice",
+        "legal"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Hiring a Lawyer | Consumer Advice",
+    "author": null,
+    "publish_date": "2023-09-11",
+    "main_content": "Consumer advice on hiring a lawyer. Take time to find a lawyer with relevant experience in the legal area you need. Find out about experience, fees, and possible outcomes. Get agreements in writing. The FTC provides guidance to help consumers make informed decisions when selecting legal representation.",
+    "with": [
+      "Take time to find a lawyer with relevant experience in the legal area you need.",
+      "Find out about experience, fees, and possible outcomes.",
+      "Get agreements in writing.",
+      "An official website of the United States government",
+      "The .gov means it's official. Federal government websites often end in .gov or .mil."
+    ],
+    "without": [
+      "Skip to main content",
+      "Here’s how you know",
+      "Report Fraud",
+      "Get Consumer Alerts",
+      "Español"
+    ],
+    "images": {
+      "total_in_content": 4,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:07:02.353772"
+}

@@ -1,0 +1,82 @@
+{
+  "schema_version": "2.0",
+  "url": "https://home.tarkett.co.uk/en_GB/node/10-easy-steps-for-a-great-interior-design-111",
+  "file_id": "0113",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "interior-design",
+        "home-renovation",
+        "guide",
+        "flooring"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "10 Easy Steps for a Great Interior Design",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Looking for a change? We've gathered the top design advice to help you make your home renovation dreams a reality! We have gathered the top interior design advice into 10 easy steps to make your home makeover project a fun, enjoyable and successful adventure. 1. Get prepared - The best place to start is to decide what you want to achieve. What feeling are you trying to create in your room? Are you looking to completely change the look and feel or just add a few new accessories? 2. Get inspired - Once you know what you want to achieve, you can start to look for inspiration. Look in magazines, on the internet, in showrooms or just in the street. 3. Think about layout - Before you start to move furniture around or purchase new pieces, it is worth taking some time to consider the layout of your room. The layout of a room will have a significant impact on the way that you use and enjoy the space. It will determine how you move around the room and how you interact with other people in the room. Good layout can make a room feel calm and spacious, whereas poor layout can make the same room feel cramped and difficult to use. 4. Assess the room - Before you begin any room makeover, it is important to assess the existing room. Check the condition of the walls, ceilings, floors and windows. Look for any signs of damp, rot or structural issues that may need to be addressed before you can start decorating. 5. Prepare the surfaces - Once you have ensured that the underlying structure of the room is sound, you can start to prepare the surfaces for decorating. This includes removing old wall coverings, filling in any holes or cracks and sanding down rough areas. You will also need to apply the appropriate primer or sealer for your chosen decoration. 6. Prepare for flooring - Before you install your new floor, you need to ensure that your subfloor is clean, dry and level. You will also need to measure the room accurately and purchase sufficient flooring to complete the job. You may also need to purchase underlay and accessories such as skirting boards or beading. 7. Plan the electrical - The positioning of your electrical points will have a big impact on how you use the room. Consider where you will want to plug in lamps, televisions and other electrical items. Also consider the lighting scheme for the room. Good lighting is essential for creating the right atmosphere in a room. You can use a combination of ambient lighting, task lighting and accent lighting to create different moods in your room. 8. Consider removing walls - If you are considering knocking down walls to open up your room, it is essential that you consult a structural engineer. Removing walls without proper advice could have serious consequences for the structural integrity of your home. 9. Think about color - Color can have a huge impact on the atmosphere of a room. It can make a room feel larger or smaller, warmer or cooler, more energetic or more calming. When choosing colors for your room, consider the function of the room and how you want it to feel. Also consider how the room will look at different times of the day and in different lighting conditions. Think about how the color of your flooring will work with the wall colors you choose. 10. Choose your flooring - Your choice of floor covering can transform the look and feel of a room. Whether you choose the timeless beauty of wood, the practicality of vinyl or the comfort of carpet, the floor is the foundation of your interior design scheme. Think about the room and how it will be used. Think about your lifestyle and whether you need a floor that is hardwearing or easy to clean.",
+    "with": [
+      "The best place to start is to decide what you want to achieve.",
+      "Color can have a huge impact on the atmosphere of a room.",
+      "Good lighting is essential for creating the right atmosphere in a room.",
+      "Your choice of floor covering can transform the look and feel of a room.",
+      "Removing walls without proper advice could have serious consequences for the structural integrity of your home."
+    ],
+    "without": [
+      "Find a Retailer",
+      "Contact us",
+      "+44 (0) 800 328 2115",
+      "Privacy Policy",
+      "Terms of Use"
+    ],
+    "images": {
+      "total_in_content": 8,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://media.tarkett-image.com/medium/EMEA_PI_20161128_10_steps_interior_design.jpg",
+          "filename": "EMEA_PI_20161128_10_steps_interior_design.jpg",
+          "alt": "10 Easy Steps for a Great Interior Design",
+          "caption": "10 Easy Steps for a Great Interior Design",
+          "is_hero": true
+        },
+        {
+          "src": "https://media.tarkett-image.com/large/PI_UK_B2C-10-Easy-Steps-Blog-Article-Products-01.jpg",
+          "filename": "PI_UK_B2C-10-Easy-Steps-Blog-Article-Products-01.jpg",
+          "alt": "french-blue-farringdon-pattern-flooring.jpg",
+          "caption": "French Blue Farringdon pattern flooring",
+          "is_hero": false
+        },
+        {
+          "src": "https://media.tarkett-image.com/large/PI_UK_5_Flooring_Strategies-Blog-Article-03.jpg",
+          "filename": "PI_UK_5_Flooring_Strategies-Blog-Article-03.jpg",
+          "alt": "easy-steps-beautiful-interior-design.jpg",
+          "caption": "Beautiful interior design with flooring",
+          "is_hero": false
+        },
+        {
+          "src": "https://media.tarkett-image.com/large/PI_UK_B2C-10-Easy-Steps-Blog-Article-Products-07.jpg",
+          "filename": "PI_UK_B2C-10-Easy-Steps-Blog-Article-Products-07.jpg",
+          "alt": "classic-basket-weave-wood-floor.jpg",
+          "caption": "Classic Basket Weave wood floor",
+          "is_hero": false
+        },
+        {
+          "src": "https://media.tarkett-image.com/large/PI_UK_B2C-10-Easy-Steps-Blog-Article-Products-02.jpg",
+          "filename": "PI_UK_B2C-10-Easy-Steps-Blog-Article-Products-02.jpg",
+          "alt": "classic-terrazzo-white-black-flooring.jpg",
+          "caption": "Classic Terrazzo white black flooring",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:35:13.953444"
+}

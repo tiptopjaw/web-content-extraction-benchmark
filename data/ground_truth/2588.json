@@ -1,0 +1,103 @@
+{
+  "schema_version": "2.0",
+  "url": "https://intezer.com/blog/tracing-a-paper-werewolf-campaign-through-ai-generated-decoys-and-excel-xlls",
+  "file_id": "2588",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "security",
+        "malware-analysis",
+        "cybersecurity"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Tracing a Paper Werewolf campaign through AI-generated decoys and Excel XLLs",
+    "author": "Nicole Fishbein",
+    "publish_date": "2025-12-19",
+    "main_content": "An XLL is a native Windows DLL that Excel loads as an add-in, allowing it to execute arbitrary code through exported functions like xlAutoOpen. Since at least mid-2017, threat actors began abusing Microsoft Excel add-ins via the .XLL format. In late October 2025, a 64-bit DLL compiled as an XLL add-in was submitted to VirusTotal from Ukraine and Russia. This DLL contains an embedded second-stage payload, a backdoor we named EchoGather. Through pivoting on infrastructure and TTPs we were able to link this campaign to Paper Werewolf (aka GOFFEE), a group that has been targeting Russian organizations. The backdoor collects system information including IPv4 addresses, OS type, architecture, NetBIOS name, username, workstation domain, process ID, and executable path. It communicates with hardcoded C2 servers over HTTP(S) using WinHTTP API with Base64 encoding. EchoGather supports four commands: Remote Command Execution via cmd.exe, Return Configuration, File Exfiltration, and Remote File Write. The campaign also exploits CVE-2025-8088, a WinRAR vulnerability involving NTFS alternate data streams. Decoy documents are AI-generated and contain Russian text with noticeable inconsistencies and Cyrillic letter errors.",
+    "with": [
+      "An XLL is a native Windows DLL that Excel loads as an add-in, allowing it to execute arbitrary code through exported functions like xlAutoOpen.",
+      "The embedded file is dropped as mswp.exe in %APPDATA%\\Microsoft\\Windows, then executed as a hidden process using CreateProcessW with CREATE_NO_WINDOW.",
+      "We refer to this backdoor as EchoGather due to its focus on system reconnaissance and repeated beaconing behavior.",
+      "The data collected by EchoGather consists of IPv4 addresses, OS type, architecture, NetBIOS name, username, workstation domain, process ID, and executable path.",
+      "Based on the shared infrastructure, such as the ruzeda[.]com domain, as well as notable similarities in decoy document construction and the exploitation of the WINRAR vulnerability that leverages ADSs, we attribute this campaign to the Paper Werewolf (aka GOFFEE) threat group."
+    ],
+    "without": [
+      "Explore how Intezer Forensic AI SOC eliminates alert noise so you can focus on real threats.",
+      "Subscribe to our newsletter",
+      "Intezer named a top-tier Solutions Partner in the Microsoft AI Cloud partner program",
+      "Comprehensive Google SecOps migration checklist for CISOs and SOC leaders",
+      "Top 15 AI SOC platforms in 2026"
+    ],
+    "images": {
+      "total_in_content": 16,
+      "annotated_count": 8,
+      "items": [
+        {
+          "src": "https://intezer.com/wp-content/uploads/2025/12/resized.png",
+          "filename": "resized.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://intezer.com/wp-content/uploads/2025/12/Screenshot-2025-12-15-at-12.10.16-1024x492.png",
+          "filename": "Screenshot-2025-12-15-at-12.10.16-1024x492.png",
+          "alt": "A call to the function that loads and executes the backdoor.",
+          "caption": "A call to the function that loads and executes the backdoor.",
+          "is_hero": false
+        },
+        {
+          "src": "https://intezer.com/wp-content/uploads/2025/12/Screenshot-2025-12-15-at-12.12.27-1024x799.png",
+          "filename": "Screenshot-2025-12-15-at-12.12.27-1024x799.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://intezer.com/wp-content/uploads/2025/12/Screenshot-2025-12-15-at-12.16.47-1024x614.png",
+          "filename": "Screenshot-2025-12-15-at-12.16.47-1024x614.png",
+          "alt": "Main function of the backdoor EchoGather.",
+          "caption": "Main function of the backdoor EchoGather.",
+          "is_hero": false
+        },
+        {
+          "src": "https://intezer.com/wp-content/uploads/2025/12/Screenshot-2025-12-15-at-12.26.53-729x1024.png",
+          "filename": "Screenshot-2025-12-15-at-12.26.53-729x1024.png",
+          "alt": null,
+          "caption": "Decoy document, and invite to a concert.",
+          "is_hero": false
+        },
+        {
+          "src": "https://intezer.com/wp-content/uploads/2025/12/Screenshot-2025-12-15-at-13.59.05-1024x146.png",
+          "filename": "Screenshot-2025-12-15-at-13.59.05-1024x146.png",
+          "alt": null,
+          "caption": "Connected file to the domain ruzeda[.]com",
+          "is_hero": false
+        },
+        {
+          "src": "https://intezer.com/wp-content/uploads/2025/12/Screenshot-2025-12-15-at-14.00.56-754x1024.png",
+          "filename": "Screenshot-2025-12-15-at-14.00.56-754x1024.png",
+          "alt": null,
+          "caption": "Page 1",
+          "is_hero": false
+        },
+        {
+          "src": "https://intezer.com/wp-content/uploads/2025/12/Screenshot-2025-12-15-at-14.01.52-1024x646.png",
+          "filename": "Screenshot-2025-12-15-at-14.01.52-1024x646.png",
+          "alt": null,
+          "caption": "Page 2",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:44:32.296591"
+}

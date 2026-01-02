@@ -1,0 +1,82 @@
+{
+  "schema_version": "2.0",
+  "url": "https://newsletter.techworld-with-milan.com/p/the-software-essays-that-changed",
+  "file_id": "2453",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "software engineering",
+        "essays",
+        "programming"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "10 software essays that changed how I think",
+    "author": "Dr Milan Milanović",
+    "publish_date": "2025-12-18",
+    "main_content": "Over the years, I've read a handful of software essays that fundamentally changed my engineering mindset. Each one delivered a lesson that shifted my perspective, from technology choices, architecture, coding practices, and even my career. Below, I share the most impactful essays I learned from each. These range from pragmatic engineering advice to philosophical insights, but all influenced how I think and work as an engineer and leader. The essays covered include: 1. Choose Boring Technology (2015) by Dan McKinley - argues for using proven, reliable technology and treating innovation as a scarce resource. 2. Parse, Don't Validate (2019) by Alexis King - advocates for leveraging static types to make invalid states unrepresentable. 3. Things You Should Never Do, Part I (2000) by Joel Spolsky - warns against rewriting code from scratch, emphasizing the value of legacy code. 4. The Majestic Monolith (2016) by David Heinemeier Hansson - defends monolithic architecture for most products, arguing that microservices aren't always the answer. 5. The Joel Test (2000) by Joel Spolsky - provides a simple 12-point checklist for assessing software team health. 6. How to Design a Good API and Why It Matters (2007) by Joshua Bloch - offers principles for designing lasting, usable APIs. 7. The Rise of Worse is Better (1989) by Richard P. Gabriel - explores why simpler solutions often win in the marketplace. 8. The Grug-Brained Developer (2022) by Carson Gross - provides wisdom about keeping software simple. 9. Software Quality at Top Speed (1996) by Steve McConnell - discusses balancing quality and development speed. 10. Don't Call Yourself a Programmer (2011) by Patrick McKenzie - offers career advice for software professionals.",
+    "with": [
+      "Dan McKinley's Choose Boring Technology was a revelation that permitted me to ignore the hype cycle.",
+      "Alexis King's Parse, Don't Validate changed how I think about handling input data in any language.",
+      "Joel Spolsky's essay stopped me in my tracks and probably saved me from disastrous rewrites.",
+      "DHH's message: Not every problem needs microservices; in fact, most don't.",
+      "Public APIs, like diamonds, are forever. You get one chance to get it right, so put in the effort up front."
+    ],
+    "without": [
+      "Subscribe to newsletter",
+      "Sign in button",
+      "Share post button",
+      "RSS feed link",
+      "Navigation bar with search and logo"
+    ],
+    "images": {
+      "total_in_content": 16,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!Jvew!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9679793a-07d7-4a33-963f-986c51f4f0ac_461x455.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9679793a-07d7-4a33-963f-986c51f4f0ac_461x455.png",
+          "alt": null,
+          "caption": "Choosing the best tool for the job (Source: Dan McKinley's Choose Boring Technology)",
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!t58Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62690937-8bb7-452c-a8b9-12aa1ecf1188_383x758.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62690937-8bb7-452c-a8b9-12aa1ecf1188_383x758.png",
+          "alt": null,
+          "caption": "Joel Spolsky, Co-founder of Stack Overflow and Trello",
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!6DqH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9146f51-94c3-4c88-a383-ffb1b94991fb_662x1000.jpeg",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9146f51-94c3-4c88-a383-ffb1b94991fb_662x1000.jpeg",
+          "alt": "Mythical Man-Month, The: Essays on Software Engineering, Anniversary  Edition: Brooks Jr., Frederick: 8580001065793: Amazon.com: Books",
+          "caption": "The Mythical Man Month by Fred Brooks",
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!a_VI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0b49ad7-97ed-4c41-8b59-e83689d3404e_1280x1012.jpeg",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0b49ad7-97ed-4c41-8b59-e83689d3404e_1280x1012.jpeg",
+          "alt": null,
+          "caption": "Monolith at the Swiss National Expo in 2002, built by Jean Nouvel",
+          "is_hero": false
+        },
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!AHBZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F072f112a-ee84-4807-b475-fd95d5d29f88_745x663.png",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F072f112a-ee84-4807-b475-fd95d5d29f88_745x663.png",
+          "alt": "The Grug Brained Developer",
+          "caption": "The Grug Brained Developer",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:26:38.725812"
+}

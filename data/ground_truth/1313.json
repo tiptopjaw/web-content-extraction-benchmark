@@ -1,26 +1,82 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.yougrowgirl.com/resources/beginner-gardening-guide/",
   "file_id": "1313",
-  "downloaded_at": "2025-12-20T20:39:34.136971",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "gardening",
+        "guide",
+        "how-to",
+        "beginner"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Beginner Gardening Guide 101",
-    "author": null,
+    "author": "Gayla Trail",
     "publish_date": null,
-    "main_content": "My experience as a gardener is rooted in the city, and that is what you will find in the 16 years of archives on this site: articles and stories on growing in raised beds, community garden plots, containers, high up on a rooftop, as well as directly in the ground.  On this page I’ve compiled several of the posts that address how to get started gardening, but there are more to be found in the archive.\n\nMy books You Grow Girl, Grow Great Grub: Organic Food from Small Spaces, and Easy Growing: Organic Herbs and Edible Flowers from Small Spaces all contain invaluable resources to help guide you through the process of beginning a garden in small spaces on a tiny budget.\n\nPlease see my other growing guides for tips on growing herbs, tomatoes, salad greens, sweet and hot peppers, and more.\n\nPlan\n\nAlso see the Planning and Design category for more articles.\nFrom the Ground Up: Adventures in digging a plot.\nHow to identify Cold Spots in the garden, and why this is important to know.\nGrowing edible plants on the front stoop.\nHow to make an easy and affordable pathway Part 1 and Part 2.\nStaking: tripod and pea styles that can be used in containers or in the ground.\nHow I prune and stake tomatoes.\nMake a fence for free using pruned branches and twigs.\nA garden in a recycling bin. More examples are here.\n\nAll About Soil\n\nThe dirt on soil: learn how to amend in-ground as well as soiless mix for container planting.\nBetter Living Through Fungi: Let’s learn about mycorrhizae and what they mean for the health of your soil.\nGuide to choosing organic soil mixes for container growing.\nThe fantastic craptastic compost bin at my former community garden – It may not look like much but it gets the job done.\nVermicomposting – Composting with a worm bin. Perfect for apartment dwellers and people with no outdoor space.\nAn even smaller worm bin – Including a few extra tips I figured out along the way.\nUrban Composting – Make a small compost bin for a roof or deck\nThings you can compost that you didn’t think you could – The list is a lot larger than you think.\nRECIPE: Mix up your own basic potting soil mix and seed-starting mix.\n\nPlant\n\nSee the Seed Starting Guide for articles that can help you get started growing seeds and seedlings.\nSee the Resources page for the planting and growing care of specific plants and crops.\nMaking more herbs.\nShare your plants: Learn about propagating from divisions, cuttings, offsets, and more.\nMaking more mint.\n\nGrow\n\nWord to the water-wise: irrigate well.\nMake your own pop bottle irrigation system.\nMake a pop bottle cloche to protect sensitive plants and seedlings.\nSimple and affordable methods to help extend the growing season.\nOrganic and homemade fertilizers.\nPests and disease archive.\n\nSeasonal Preparation\n\nMy April garden to-do list.\nHow I prepare raised beds for early Spring planting.\nMid and late season planting.\nPreparing your garden for winter.\nContainer garden cleanup.\nBringing potted plants indoors for the winter.\nStrategies to help your potted plants survive the winter indoors.\nBuild a D.I.Y lighting system.\n\nGo Further\n\nI say potato, you say Solanum tuberosum: Learn about Binomial Nomenclature and why it matters.",
+    "main_content": "My experience as a gardener is rooted in the city, and that is what you will find in the 16 years of archives on this site: articles and stories on growing in raised beds, community garden plots, containers, high up on a rooftop, as well as directly in the ground. On this page I've compiled several of the posts that address how to get started gardening, but there are more to be found in the archive.\n\nPlan: Learn about garden planning and design including how to identify cold spots, growing edible plants on the front stoop, making affordable pathways, staking methods for containers and in-ground plants, pruning tomatoes, making fences from pruned branches, and recycling bin gardens.\n\nAll About Soil: Learn how to amend in-ground as well as soilless mix for container planting, understand mycorrhizae and soil health, choose organic soil mixes, make fantastic compost bins, vermicomposting for apartment dwellers, urban composting for small spaces, and mix your own basic potting soil and seed-starting mix.\n\nPlant: Get started growing from seeds and seedlings, propagate herbs through divisions, cuttings, offsets and more, and learn specific planting and growing care for various plants and crops.\n\nGrow: Irrigate well and often using DIY pop bottle drip irrigation systems, protect sensitive plants with pop bottle cloches, extend the growing season organically, use organic and homemade fertilizers, and manage pests and disease.\n\nSeasonal Preparation: Prepare for spring with raised bed prep and early planting, plan mid and late season planting, winterize your garden, clean up container gardens, bring potted plants indoors for winter, help plants survive indoors, and build D.I.Y. lighting systems.\n\nGo Further: Learn about binomial nomenclature and why it matters for gardeners.",
     "with": [
-      "My experience as a gardener is rooted in the city, and that is what you will find in the 16 years of archives on this site: articles and stories on growing in raised beds, community garden plots, containers, high up on a rooftop, as well as directly in the ground.",
-      "On this page I’ve compiled several of the posts that address how to get started gardening, but there are more to be found in the archive.",
-      "My books You Grow Girl, Grow Great Grub: Organic Food from Small Spaces, and Easy Growing: Organic Herbs and Edible Flowers from Small Spaces all contain invaluable resources to help guide you through the process of beginning a garden in small spaces on a tiny budget.",
-      "Please see my other growing guides for tips on growing herbs, tomatoes, salad greens, sweet and hot peppers, and more."
+      "My experience as a gardener is rooted in the city, and that is what you will find in the 16 years of archives on this site",
+      "Learn how to amend in-ground as well as soilless mix for container planting",
+      "Vermicomposting – Composting with a worm bin",
+      "Make your own pop bottle irrigation system",
+      "Preparing your garden for winter"
     ],
     "without": [
-      "Gardening for the People.",
-      "Search for:",
-      "©2025 Gayla Trail & Fluffco Unauthorized reproduction prohibited. Privacy Policy.",
+      "View the full site archives",
       "Recently on You Grow Girl",
-      "Popular Posts & Pages"
-    ]
+      "Resource Guides navigation menu",
+      "Google advertisements",
+      "©2025 Gayla Trail & Fluffco"
+    ],
+    "images": {
+      "total_in_content": 12,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://www.yougrowgirl.com/wp-content/uploads/gaylas_garden.jpg",
+          "filename": "gaylas_garden.jpg",
+          "alt": "Gayla Trail Urban Rooftop Garden",
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://www.yougrowgirl.com/wp-content/uploads/compostintobucket.jpg",
+          "filename": "compostintobucket.jpg",
+          "alt": "Harvesting Compost",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.yougrowgirl.com/wp-content/uploads/gardengoeshere.jpg",
+          "filename": "gardengoeshere.jpg",
+          "alt": "Beginner Garden",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.yougrowgirl.com/wp-content/uploads/gaylatrail_communitygardenplot.jpg",
+          "filename": "gaylatrail_communitygardenplot.jpg",
+          "alt": "Gayla Trail Community Garden Plot",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://www.yougrowgirl.com/wp-content/uploads/summer2009.jpg",
+          "filename": "summer2009.jpg",
+          "alt": "summer2009",
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:39:34.136976"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:36:59.306077"
 }

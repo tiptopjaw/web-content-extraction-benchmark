@@ -1,27 +1,68 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.europeanpharmaceuticalreview.com/webinar/268431/realising-autonomous-pharmaceutical-operations",
   "file_id": "2770",
-  "downloaded_at": "2025-12-20T23:15:43.063710",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "webinar",
+        "pharmaceutical",
+        "automation",
+        "manufacturing"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Realising autonomous pharmaceutical operations",
     "author": null,
-    "publish_date": "2026-02-09",
-    "main_content": "Join this webinar to discover how the pharmaceutical industry can move towards sustainable autonomous operations by implementing solutions that enhance pipeline acceleration, flexible manufacturing, operational integrity and real-time release.\n\nIn addition to lowering costs, automation reduces manual touchpoints, drives seamless tech transfer, eliminating many associated opportunities for errors and contamination; enables digital integration for reproducibility, traceability and regulatory compliance; and additionally, drives competitive differentiation among life sciences companies.\n\nDive into the essential strategies for creating a sustainable digital roadmap and compelling business case for implementing industrial software & automation solutions in the pharmaceutical industry.\n\nFind out about the importance of having a strong data foundation which acts as an enabler and how these solutions can significantly enhance pipeline acceleration and flexible manufacturing while addressing the crucial aspects of operational integrity and real-time release processes.\n\nEach of these industry drivers, together with BioPhorum, will be addressed and tangible examples provided on how these solutions have been implemented. For example, learn how to develop a strategy and implement standards for Emerson's One-Click Technology Transfer™, evolving recipe transfer processes into a digitalised production platform.\n\nWhether you are beginning to consider automation and industrial software solutions or looking to strengthen your existing initiatives, this webinar will provide the knowledge and tools needed to effectively advocate for these transformative solutions.\n\nKey learning points\n\n- Understand the key drivers of the pharmaceutical industry and how autonomous operations are shaping its future and driving IT-OT conversion\n- Explore the value of automation in enhancing operational efficiency and driving business growth for life sciences\n- Gain expert insight on the potential benefits of implementing automation solutions.\n- Find out how Emerson is collaborating with industry leaders and organisations to drive the future of life sciences – making it safer, reliable and enabling sustainable operations.\n\nRegister to secure your free place >>>\n\nSPEAKERS\n\nAbhro Choudhury – Software Solutions Manager\n\nAbhro focuses on enhancing customer engagement and operational efficiency at Emerson, specifically in the pharmaceutical industry.\n\nHe and his team drive data contextualisation and integration through strategic executive engagements, utilising Enterprise Data Management, IT-OT platforms, and AI/ML for digital advancements in manufacturing and supply chain processes. Their central goal is to promote data-driven decision-making in the pharmaceutical sector.\n\nBoris Vanhove – Strategic Initiatives Manager\n\nBoris plays a pivotal role in driving digitalisation initiatives within the biotechnology sector. With more than a decade of experience, Boris has honed his expertise in developing marketing strategies that effectively address the unique challenges faced by customers.\n\nFAQs\n\nIs the panel discussion free? \n\nYes – there is no charge to watch the panel discussion, either live or on-demand. \n\nWhen will the panel discussion take place? \n\n9 February 2026 at 10am GMT.\n\nCan I watch it later? \n\nThe panel discussion will become available to watch on-demand shortly after the live webinar takes place. \n\nWhat are the benefits of attending live? \n\nYou'll be able to ask the speakers your questions, which will be answered live in the Q&A towards the end of the session. \n\nHow long will the panel discussion be? \n\nThis panel discussion will last up to an hour. \n\nWhat do I need to watch this panel discussion? \n\nAll you need is a computer with an internet connection. We recommend using headphones if possible if you're in an office environment.",
+    "publish_date": null,
+    "main_content": "Join this webinar to discover how the pharmaceutical industry can move towards sustainable autonomous operations by implementing solutions that enhance pipeline acceleration, flexible manufacturing, operational integrity and real-time release.\n\nIn addition to lowering costs, automation reduces manual touchpoints, drives seamless tech transfer, eliminating many associated opportunities for errors and contamination; enables digital integration for reproducibility, traceability and regulatory compliance; and additionally, drives competitive differentiation among life sciences companies.\n\nDive into the essential strategies for creating a sustainable digital roadmap and compelling business case for implementing industrial software & automation solutions in the pharmaceutical industry.\n\nFind out about the importance of having a strong data foundation which acts as an enabler and how these solutions can significantly enhance pipeline acceleration and flexible manufacturing while addressing the crucial aspects of operational integrity and real-time release processes.\n\nEach of these industry drivers, together with BioPhorum, will be addressed and tangible examples provided on how these solutions have been implemented. For example, learn how to develop a strategy and implement standards for Emerson's One-Click Technology Transfer™, evolving recipe transfer processes into a digitalised production platform.\n\nWhether you are beginning to consider automation and industrial software solutions or looking to strengthen your existing initiatives, this webinar will provide the knowledge and tools needed to effectively advocate for these transformative solutions.\n\nKey learning points:\n- Understand the key drivers of the pharmaceutical industry and how autonomous operations are shaping its future and driving IT-OT conversion\n- Explore the value of automation in enhancing operational efficiency and driving business growth for life sciences\n- Gain expert insight on the potential benefits of implementing automation solutions.\n- Find out how Emerson is collaborating with industry leaders and organisations to drive the future of life sciences – making it safer, reliable and enabling sustainable operations.\n\nWebinar Date: 9 February 2026, 10:00am GMT",
     "with": [
       "Join this webinar to discover how the pharmaceutical industry can move towards sustainable autonomous operations by implementing solutions that enhance pipeline acceleration, flexible manufacturing, operational integrity and real-time release.",
-      "In addition to lowering costs, automation reduces manual touchpoints, drives seamless tech transfer, eliminating many associated opportunities for errors and contamination; enables digital integration for reproducibility, traceability and regulatory compliance; and additionally, drives competitive differentiation among life sciences companies.",
-      "Dive into the essential strategies for creating a sustainable digital roadmap and compelling business case for implementing industrial software & automation solutions in the pharmaceutical industry.",
-      "Find out about the importance of having a strong data foundation which acts as an enabler and how these solutions can significantly enhance pipeline acceleration and flexible manufacturing while addressing the crucial aspects of operational integrity and real-time release processes.",
-      "Whether you are beginning to consider automation and industrial software solutions or looking to strengthen your existing initiatives, this webinar will provide the knowledge and tools needed to effectively advocate for these transformative solutions."
+      "In addition to lowering costs, automation reduces manual touchpoints, drives seamless tech transfer, eliminating many associated opportunities for errors and contamination.",
+      "Emerson is collaborating with industry leaders and organisations to drive the future of life sciences – making it safer, reliable and enabling sustainable operations.",
+      "Abhro Choudhury focuses on enhancing customer engagement and operational efficiency at Emerson, specifically in the pharmaceutical industry.",
+      "Boris Vanhove plays a pivotal role in driving digitalisation initiatives within the biotechnology sector."
     ],
     "without": [
-      "Ph. Eur. Commission updates mAb standards",
-      "FDA approves Omisirge cell therapy for severe aplastic anaemia",
-      "This website uses cookies to enable, optimise and analyse site operations, as well as to provide personalised content and allow you to connect to social media.",
-      "© Russell Publishing Limited, 2010-2025. All rights reserved.",
-      "Home | AI Hub | News | Articles | Videos | Podcasts | Publications | Whitepapers/App Notes/Posters | Webinars | Content Hubs | Events"
-    ]
+      "Register for this webinar you are agreeing to our terms and conditions",
+      "Cookie Settings",
+      "This website uses cookies to enable, optimise and analyse site operations",
+      "© Russell Publishing Limited, 2010-2025",
+      "Contact us | About us | Advertise with us"
+    ],
+    "images": {
+      "total_in_content": 8,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://www.europeanpharmaceuticalreview.com/wp-content/uploads/Emerson-logo.jpg",
+          "filename": "Emerson-logo.jpg",
+          "alt": null,
+          "caption": "Emerson - Webinar Sponsor",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.europeanpharmaceuticalreview.com/wp-content/uploads/Abhro-Pro-headshot-120x120.jpg",
+          "filename": "Abhro-Pro-headshot-120x120.jpg",
+          "alt": "Abhro Choudhury",
+          "caption": "Abhro Choudhury – Software Solutions Manager at Emerson",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.europeanpharmaceuticalreview.com/wp-content/uploads/BorisVanhove-120x120.jpg",
+          "filename": "BorisVanhove-120x120.jpg",
+          "alt": "Boris Vanhove",
+          "caption": "Boris Vanhove – Strategic Initiatives Manager",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:15:43.063716"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:36:00.777299"
 }

@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.superside.com/blog/trends-corporate-video-production",
+  "file_id": "0739",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "business",
+        "video-production",
+        "trends",
+        "marketing"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "7 Trends in Corporate Video Production by Experts for 2025",
+    "author": "Superside",
+    "publish_date": "2025-01-15",
+    "main_content": "Corporate video production continues to evolve rapidly as businesses seek more engaging ways to connect with their audiences. According to industry experts, several key trends are shaping the landscape of corporate video content in 2025. AI-powered video tools are transforming how companies create and personalize content at scale, enabling faster production cycles while maintaining high quality. Short-form video content remains dominant across social platforms, requiring brands to adapt their messaging for bite-sized consumption. Interactive video experiences are gaining traction, allowing viewers to engage directly with content through embedded choices and shoppable elements. Sustainable video production practices are becoming a priority as companies seek to reduce their environmental footprint. Motion graphics and animation continue to rise in popularity for explaining complex concepts in digestible formats. Live streaming capabilities are enabling real-time engagement with global audiences for events, product launches, and behind-the-scenes content.",
+    "with": [
+      "Corporate video production continues to evolve rapidly as businesses seek more engaging ways to connect with their audiences.",
+      "AI-powered video tools are transforming how companies create and personalize content at scale.",
+      "Short-form video content remains dominant across social platforms.",
+      "Interactive video experiences are gaining traction, allowing viewers to engage directly with content.",
+      "Motion graphics and animation continue to rise in popularity for explaining complex concepts."
+    ],
+    "without": [
+      "Creative design services",
+      "Subscribe to our newsletter",
+      "Superside Release Notes",
+      "Benefits of design systems for brands in 2025",
+      "Customer Stories"
+    ],
+    "images": {
+      "total_in_content": 27,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://cdn.sanity.io/images/k0dlbavy/production/1ef3a2904ef3831986140164b0f779813924903c-1080x1500.png?auto=format&fit=max&q=100&w=540",
+          "filename": "1ef3a2904ef3831986140164b0f779813924903c-1080x1500.png",
+          "alt": "trends in corporate video production",
+          "caption": "Trends in corporate video production",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:09:49.760055"
+}

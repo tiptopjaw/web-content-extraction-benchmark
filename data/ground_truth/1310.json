@@ -1,0 +1,83 @@
+{
+  "schema_version": "2.0",
+  "url": "https://appleinsider.com/topic/headphones",
+  "file_id": "1310",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "news",
+        "apple",
+        "headphones",
+        "category-page"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "headphones News, Rumors, Reviews, Guides and more on AppleInsider",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Latest headphones news, reviews, rumors, specs, and information from AppleInsider. Featured articles include: Walmart has the Beats Solo 4 and Beats Solo Buds available in new retailer-exclusive colorways. Following Apple's 'Awe Dropping' event, there was a chance to test out the AirPods Pro 3, including its heart rate monitoring and live transcription feature. Multiple Beats products are slated to receive new color options like Dark Slate and Pink. Apple has released a new firmware update for the USB-C variant of the AirPods Max. Users who haven't got around to buying Apple's short Lightning to 3.5mm headphone jack adapter after eight years are now out of luck, as the iPhone 7 accessory appears to be discontinued. The accessibility setting for AirPods, called headphone accommodations, is now available in macOS Sequoia. The Sonos Ace is the company's new push into premium personal audio. Apple's Beats has become the official consumer audio products partner of MLS.",
+    "with": [
+      "Walmart now has the Beats Solo 4 and Beats Solo Buds available in new retailer-exclusive colorways, which were previously not offered in the United States.",
+      "Following Apple's 'Awe Dropping' event, there was a chance to test out the AirPods Pro 3, including its heart rate monitoring and live transcription feature.",
+      "Multiple Beats products are slated to receive new color options like Dark Slate and Pink, according to a report published on Tuesday.",
+      "Apple has released a new firmware update for the USB-C variant of the AirPods Max, although no information is available about the update's contents.",
+      "The Sonos Ace is the company's new push into premium personal audio. Here's how it fares when compared to Apple's AirPods Max."
+    ],
+    "without": [
+      "AAPL: 273.67 (1.48)",
+      "Copyright © 2025 Quiller Media, Inc. All rights reserved.",
+      "Get our Mobile App",
+      "Designed by Crafted",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 19,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://photos5.appleinsider.com/gallery/65484-137052-beatsstuff-xl.jpg",
+          "filename": "65484-137052-beatsstuff-xl.jpg",
+          "alt": null,
+          "caption": "Beats Solo 4 and Solo Buds Walmart-exclusive color options",
+          "is_hero": true
+        },
+        {
+          "src": "https://photos5.appleinsider.com/gallery/65102-135916-IMG_6694-xl.jpg",
+          "filename": "65102-135916-IMG_6694-xl.jpg",
+          "alt": null,
+          "caption": "AirPods Pro 3 hands-on with Live Translation and heart rate monitoring",
+          "is_hero": false
+        },
+        {
+          "src": "https://photos5.appleinsider.com/gallery/64947-135415-57674-117469-beatsstussy-xl-xl.jpg",
+          "filename": "64947-135415-57674-117469-beatsstussy-xl-xl.jpg",
+          "alt": null,
+          "caption": "Beats Studio Pro, Solo Buds, and Solo 4 new color options",
+          "is_hero": false
+        },
+        {
+          "src": "https://photos5.appleinsider.com/gallery/59871-122586-AirPods-Max-and-Sonos-Ace-Together-xl.jpg",
+          "filename": "59871-122586-AirPods-Max-and-Sonos-Ace-Together-xl.jpg",
+          "alt": "AirPods Max vs. Sonos Ace: premium personal audio, compared",
+          "caption": "AirPods Max vs. Sonos Ace: premium personal audio, compared",
+          "is_hero": false
+        },
+        {
+          "src": "https://photos5.appleinsider.com/gallery/59470-121384-beatssolo4-9-xl.jpg",
+          "filename": "59470-121384-beatssolo4-9-xl.jpg",
+          "alt": "Beats Solo 4 headphones review: Great audio quality and features",
+          "caption": "Beats Solo 4 headphones review: Great audio quality and features",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:34:51.196263"
+}

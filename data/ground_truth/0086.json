@@ -1,0 +1,75 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.clearlyrated.com/hr-services/ny-usa/manhattan-ny",
+  "file_id": "0086",
+  "_internal": {
+    "page_type": {
+      "primary": "directory",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "business-directory",
+        "hr-services",
+        "local-search",
+        "manhattan"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Best Manhattan HR Services Companies | ClearlyRated",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Best HR Services in Manhattan, New York. The best Manhattan HR services companies secured the Best of HR Services award by obtaining at least a 50% Net Promoter® score indicating that they provide exceptionally high levels of client service to their Manhattan clients. Search ClearlyRated to find Manhattan human resource service firms that specialize in consulting, executive search, payroll and more in Manhattan, New York.\n\nResults for HR Companies in Manhattan (showing 1-10 of 10):\n\n1. Acumen International - 100 Church Street, Suite 800 PMB#912, New York, NY 10007\n2. Justworks, Inc. - 601 W 26th St, New York, NY 10001\n3. Clear Employer Services - 31 Penn Plaza 132 West 31st Street, 15th Floor, Suite 1575, New York, NY 10001\n4. Conner Strong & Buckelew - 200 Broadway, 3rd Floor, New York, NY 10038\n5. Collaborative Solutions - 5 Penn Plaza, Suite 1981, New York, NY 10001\n6. ADP - 135 West 18th Street, New York, NY 10011\n7. The Graham Co. - 315 West 36th Street, New York, NY 10018\n8. Pensionmark - 108 West 39th St. Suite 305, New York, NY 10018\n9. Segal Group - 333 West 34th St, New York, NY 10001\n10. Pearl Meyer - 570 Lexington Avenue 7th Floor, New York, NY 10022",
+    "with": [
+      "The best Manhattan HR services companies secured the Best of HR Services award by obtaining at least a 50% Net Promoter® score indicating that they provide exceptionally high levels of client service to their Manhattan clients.",
+      "Acumen International - 100 Church Street, Suite 800 PMB#912, New York, NY 10007",
+      "Companies are sorted into 4 groups with companies from Group A displaying first, Group B displaying second, Group C displaying third, and Group D displaying last.",
+      "Companies that have earned their industry's Best of award in the most recent year display first within each group.",
+      "Results sorted by best match. Showing 1-10 of 10 results."
+    ],
+    "without": [
+      "Client Login",
+      "Get your business on ClearlyRated",
+      "Trusted by leading B2B service providers",
+      "Refine client and talent experiences to create growth opportunities for your staffing firm.",
+      "© 2025 ClearlyRated. All Rights Reserved"
+    ],
+    "images": {
+      "total_in_content": 21,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://www.clearlyrated.com/static/src/img/momentum-leader.png",
+          "filename": "momentum-leader.png",
+          "alt": null,
+          "caption": "Momentum Leader award badge",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.clearlyrated.com/static/src/img/best-support.png",
+          "filename": "best-support.png",
+          "alt": null,
+          "caption": "Best Support award badge",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.clearlyrated.com/static/src/img/high-performer.png",
+          "filename": "high-performer.png",
+          "alt": null,
+          "caption": "High Performer award badge",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.clearlyrated.com/static/src/img/users-love-us.png",
+          "filename": "users-love-us.png",
+          "alt": null,
+          "caption": "Users Love Us award badge",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:38:25.751488"
+}

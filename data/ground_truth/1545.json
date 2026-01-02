@@ -1,0 +1,76 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.onepeloton.com/blog/yoga-for-beginners",
+  "file_id": "1545",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "health",
+        "fitness",
+        "yoga",
+        "beginners-guide",
+        "wellness"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Yoga for Beginners: A Complete Guide to Basics and Poses | Peloton",
+    "author": "Team Peloton",
+    "publish_date": "2024-06-12",
+    "main_content": "Peloton's Ultimate Guide to Yoga for Beginners. Ready to get started with yoga? Follow this step-by-step guide to creating a yoga habit that lasts.\n\nPicture, if you will, your own personal vision of someone who does yoga. Do they look a certain way? Wear specific clothes? Have a preternatural ability to bend and stretch beyond what you'd assumed was humanly possible? Well, it's time to put all those preconceived notions to rest. The truth is yoga can be practiced by anyone, no matter your fitness level or experience, and the practice provides numerous health benefits for both the body and mind.\n\nWhat Is Yoga? While it might seem like the main objective of yoga is to improve flexibility—that only scratches the surface. What truly sets yoga apart from other workouts is its emphasis on the mind-body connection, which leads to incredible physical and mental health benefits, from strength to stress relief.\n\n\"Yoga is inclusive of everybody,\" Aditi says. \"It has something to offer everyone, no matter how different we are.\" From marathon runners to everyday athletes to pregnant people, yoga is for every person.\n\nTypes of Yoga for Beginners include Hatha (slow, measured flow), Vinyasa (fast-paced, flowing from pose to pose), Slow flow (slower pace), Restorative (focused on rest and relaxation), Yoga conditioning (yoga with strength training), Yin (holding poses for longer durations), and Chair (accessible with chair support).\n\nThe Benefits of Yoga include minimizing stress (research shows yoga's mindfulness can reduce negative effects of stress), increasing flexibility (improves range of motion and decreases injury risk), strengthening the body (uses body weight as resistance), improving posture and balance (focus on core and spine alignment), improving brain function (positive impact on brain health), boosting metabolism, benefiting heart health (lowers blood pressure, cholesterol, and glucose), and deepening sleep.\n\nWhat You Need for Yoga: A yoga mat (at least 5mm thick and 70\" long), and optionally blocks or straps to modify poses. What to Wear for Yoga: Comfortable clothing that allows movement, practiced in bare feet.\n\nWhat to Expect During Your First Yoga Class: Classes start with warm-ups like sun salutations, move into the main practice, and end with Savasana (Corpse Pose). Common beginner poses include Downward-Facing Dog, Warrior II, Happy Baby, Cobra Pose, Chair Pose, Pigeon Pose, Child's Pose, and Savasana.\n\nMaking Yoga Part of Your Routine: There's no one-size-fits-all answer for how often to practice. Aditi recommends practicing whenever fits your schedule, whether morning or evening. \"Focus on how it feels, not how it looks,\" Aditi says. \"Give yourself space to grow. And most importantly, don't judge your practice!\"",
+    "with": [
+      "New to yoga? You've come to the perfect place. In this guide to yoga for beginners, we'll look at why yoga is such an effective and attractive workout and some of the key yoga benefits.",
+      "\"Yoga is inclusive of everybody,\" Aditi says. \"It has something to offer everyone, no matter how different we are.\"",
+      "Developing a yoga practice can help strengthen your muscles, improve posture, improve mental health, and more.",
+      "\"Focus on how it feels, not how it looks,\" Aditi says. \"Give yourself space to grow. And most importantly, don't judge your practice!\"",
+      "The beauty of yoga for beginners is that, technically, you don't need much (if any) specialized fitness equipment."
+    ],
+    "without": [
+      "Shop Peloton",
+      "Try 30 days free",
+      "Treadmills Shop Now",
+      "Bikes Shop Now",
+      "Get stronger Improve endurance Support weight goals Healthy aging Build a routine"
+    ],
+    "images": {
+      "total_in_content": 18,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://res.cloudinary.com/peloton-cycle/image/fetch/f_auto,c_limit,w_3840,q_90/https://images.ctfassets.net/6ilvqec50fal/3p02yWgtjaMy1PneD7yqiI/66e37462c9db13fad47e9681d798e13d/yoga-for-beginners.jpg",
+          "filename": "yoga-for-beginners.jpg",
+          "alt": "Peloton member doing downward dog, a yoga position",
+          "caption": "Peloton member doing downward dog, a yoga position",
+          "is_hero": true
+        },
+        {
+          "src": "https://res.cloudinary.com/peloton-cycle/image/fetch/c_fill,dpr_1.0,w_114,h_64,x_843,y_568/f_auto/q_auto/https://images.ctfassets.net/6ilvqec50fal/6zrmAzD34gprbuDn1FHuBj/0c3dd1781c6cc4857e926eafc6f556b7/childsposeoutside.jpg",
+          "filename": "childsposeoutside.jpg",
+          "alt": "Man does Child's Pose, yoga for relaxation",
+          "caption": "Man does Child's Pose, yoga for relaxation",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/peloton-cycle/image/fetch/c_fill,dpr_1.0,w_114,h_64,x_555,y_352/f_auto/q_auto/https://images.ctfassets.net/6ilvqec50fal/Le2hcjA3xedGGAO22eweR/4756454a2f5c9a8426c65610f767aab2/slow-flow-yoga.jpg",
+          "filename": "slow-flow-yoga.jpg",
+          "alt": "Seated side bend",
+          "caption": "Seated side bend",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/peloton-cycle/image/fetch/c_fill,dpr_1.0,w_114,h_64,x_1188,y_825/f_auto/q_auto/https://images.ctfassets.net/6ilvqec50fal/6y9li8t8FWUwXFxY9Krbak/bf3ab8adbcd360ee97c30eb6a419a2f1/Yin_Yoga.png",
+          "filename": "Yin_Yoga.png",
+          "alt": "Yoga blocks are used to assist in a bridge pose in yoga ",
+          "caption": "Yoga blocks are used to assist in a bridge pose in yoga",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:16:13.628423"
+}

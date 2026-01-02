@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.livspace.com/in/design-ideas",
+  "file_id": "1339",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "interior-design",
+        "home-improvement",
+        "design-ideas",
+        "room-designs"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Full Home Interior Designs & Best Interior Solution Ideas - Livspace",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Explore our curated collection of home interior design ideas to transform your living space. We bring you carefully-curated interior design ideas to give your home a brand new look. Discover exclusive interior designs and trends that are inspirational and practical. Our team of interior designers has created ideas across kitchen, bedroom, living room, and more, helping you pick designs that best suit your home interior requirements. Browse thousands of design ideas organized by room type including Modular Kitchen Designs (3021 designs), Living Room Designs (2141 designs), Master Bedroom Designs (3186 designs), Wardrobe Designs (1611 designs), Dining Room Designs (1592 designs), Kid's Bedroom Designs (1292 designs), Bathroom Designs (1209 designs), Foyer Designs (1009 designs), Pooja Room Designs (784 designs), Guest Bedroom Designs (1087 designs), Home Office Designs (948 designs), Balcony Designs (461 designs), and TV Unit Designs.",
+    "with": [
+      "We bring you carefully-curated interior design ideas, to give your home a brand new look.",
+      "Explore exclusive interior designs and trends that are every bit inspirational as they are practical.",
+      "Our team of interior designers have put together ideas across kitchen, bedroom, living room and more.",
+      "Help you pick a design that will best suit your home interior requirements.",
+      "Modular Kitchen Interior Designs ideas by Livspace with 3021 Designs available."
+    ],
+    "without": [
+      "CONSULT ONLINE NOW",
+      "Download our mobile app",
+      "Explore our mobile app and get the app",
+      "Livspace TV",
+      "How it works"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://images.livspace-cdn.com/w:3840/plain/https://d3gq2merok8n5r.cloudfront.net/abhinav/design-ideas-thumbnails-1628773921-7vSz1/jas-thumbnails-1662014793-zEzY3/desktop-1662014816-DsTte/kitchen-d-1662025139-loWXM.png",
+          "filename": "kitchen-d-1662025139-loWXM.png",
+          "alt": "Modular Kitchen Interior Designs ideas by Livspace",
+          "caption": "Modular Kitchen Interior Designs ideas by Livspace",
+          "is_hero": true
+        },
+        {
+          "src": "https://images.livspace-cdn.com/w:3840/plain/https://d3gq2merok8n5r.cloudfront.net/abhinav/design-ideas-thumbnails-1628773921-7vSz1/jas-thumbnails-1662014793-zEzY3/desktop-1662014816-DsTte/living-d-1662025141-GvMP2.png",
+          "filename": "living-d-1662025141-GvMP2.png",
+          "alt": "Living Room Designs images - Livspace",
+          "caption": "Living Room Designs images - Livspace",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.livspace-cdn.com/w:3840/plain/https://d3gq2merok8n5r.cloudfront.net/abhinav/design-ideas-thumbnails-1628773921-7vSz1/jas-thumbnails-1662014793-zEzY3/desktop-1662014816-DsTte/mbr-d-1662025142-Upoli.png",
+          "filename": "mbr-d-1662025142-Upoli.png",
+          "alt": "Master Bedroom Designs images - Livspace",
+          "caption": "Master Bedroom Designs images - Livspace",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.livspace-cdn.com/w:3840/plain/https://d3gq2merok8n5r.cloudfront.net/abhinav/design-ideas-thumbnails-1628773921-7vSz1/jas-thumbnails-1662014793-zEzY3/desktop-1662014816-DsTte/wardrobe-d-1662015268-wR3EP.png",
+          "filename": "wardrobe-d-1662015268-wR3EP.png",
+          "alt": "Wardrobe Designs images - Livspace",
+          "caption": "Wardrobe Designs images - Livspace",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.livspace-cdn.com/w:3840/plain/https://d3gq2merok8n5r.cloudfront.net/abhinav/design-ideas-thumbnails-1628773921-7vSz1/jas-thumbnails-1662014793-zEzY3/desktop-1662014816-DsTte/dining-2-d-1662025134-udTs3.png",
+          "filename": "dining-2-d-1662025134-udTs3.png",
+          "alt": "Dining Room Designs images - Livspace",
+          "caption": "Dining Room Designs images - Livspace",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.livspace-cdn.com/w:3840/plain/https://d3gq2merok8n5r.cloudfront.net/abhinav/design-ideas-thumbnails-1628773921-7vSz1/jas-thumbnails-1662014793-zEzY3/desktop-1662014816-DsTte/kbr-d-1662025138-0EGbI.png",
+          "filename": "kbr-d-1662025138-0EGbI.png",
+          "alt": "Kid's Bedroom Designs images - Livspace",
+          "caption": "Kid's Bedroom Designs images - Livspace",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.livspace-cdn.com/w:3840/plain/https://d3gq2merok8n5r.cloudfront.net/abhinav/design-ideas-thumbnails-1628773921-7vSz1/jas-thumbnails-1662014793-zEzY3/desktop-1662014816-DsTte/bathroom-2-d-1662025132-btVYp.png",
+          "filename": "bathroom-2-d-1662025132-btVYp.png",
+          "alt": "Bathroom Designs images - Livspace",
+          "caption": "Bathroom Designs images - Livspace",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.livspace-cdn.com/w:3840/plain/https://d3gq2merok8n5r.cloudfront.net/abhinav/design-ideas-thumbnails-1628773921-7vSz1/jas-thumbnails-1662014793-zEzY3/desktop-1662014816-DsTte/foyer-d-1662025135-fZrEc.png",
+          "filename": "foyer-d-1662025135-fZrEc.png",
+          "alt": "Foyer Designs | Home Entrance Design - Livspace",
+          "caption": "Foyer Designs | Home Entrance Design - Livspace",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.livspace-cdn.com/w:3840/plain/https://d3gq2merok8n5r.cloudfront.net/abhinav/design-ideas-thumbnails-1628773921-7vSz1/jas-thumbnails-1662014793-zEzY3/desktop-1662014816-DsTte/puja-d-1662025144-2KtyX.png",
+          "filename": "puja-d-1662025144-2KtyX.png",
+          "alt": "Pooja Room Designs images - Livspace",
+          "caption": "Pooja Room Designs images - Livspace",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.livspace-cdn.com/w:3840/plain/https://d3gq2merok8n5r.cloudfront.net/abhinav/design-ideas-thumbnails-1628773921-7vSz1/jas-thumbnails-1662014793-zEzY3/desktop-1662014816-DsTte/gbr-d-1662025136-9qiYK.png",
+          "filename": "gbr-d-1662025136-9qiYK.png",
+          "alt": "Guest Bedroom Designs images - Livspace",
+          "caption": "Guest Bedroom Designs images - Livspace",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:43:54.407518"
+}

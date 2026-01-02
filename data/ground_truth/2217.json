@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.bizben.com/business-for-sale/event-party-wedding-service-for-sale-alameda-county-california-ca",
+  "file_id": "2217",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "business-listings",
+        "real-estate",
+        "classifieds",
+        "marketplace"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Event, Party & Wedding Service Businesses for Sale in Alameda County, California | BizBen",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Browse 1 Event, Party & Wedding Service businesses in Alameda County, California available on BizBen. Find profitable, absentee-run, turnkey, franchise, and SBA-approved businesses in industries. The page displays a search results listing with loading spinner, showing businesses for sale in the event, party and wedding service category within Alameda County, California.",
+    "with": [
+      "Browse 1 Event, Party & Wedding Service businesses in Alameda County, California available on BizBen.",
+      "Find profitable, absentee-run, turnkey, franchise, and SBA-approved businesses.",
+      "The page shows a SearchResultsPage schema with ItemList for business listings.",
+      "Event, Party & Wedding Service Businesses for Sale in Alameda County, California.",
+      "BizBen serves as a marketplace for buying and selling businesses."
+    ],
+    "without": [
+      "Log In or Sign Up buttons",
+      "Navigation menu items",
+      "Footer links and copyright notices",
+      "Social media icons and links",
+      "Account creation modal forms"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:10:27.052498"
+}

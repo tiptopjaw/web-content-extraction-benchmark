@@ -1,0 +1,89 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.theadvocate.com/baton_rouge/entertainment_life/books/newsroom-favorite-books/article_1872cc2e-d4ca-447b-973e-e885397498a6.html",
+  "file_id": "2723",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "books",
+        "recommendations",
+        "lifestyle",
+        "news"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Best Books Recommended by Newsroom Reporters | Books | theadvocate.com",
+    "author": "Advocate Staff",
+    "publish_date": "2025-12-19",
+    "main_content": "We asked the newsroom to pick their favorite books of the year. Here are 6 recommendations. From a 35-year-old novel that still feels fresh to a sweeping history of Christianity, our reporters share what they have been reading. For those who like their fiction with historical context, 'The Eight' by Katherine Neville is a thriller set in two time periods. The book alternates between 1970s Georgetown and 1790s revolutionary France, centering on a chess game between grandmasters. MacCulloch's 'Christianity: The First Three Thousand Years' examines the faith's long history. Douglas Adams' 'The Hitchhiker's Guide to the Galaxy' remains funny after all these years. Larry McMurtry's 'Lonesome Dove' tells the story of retired Texas Rangers on a cattle drive. Denis Johnson's 'Tree of Smoke' is a sprawling novel about the Vietnam War. Isaac Asimov's 'I, Robot' collects short stories about artificial intelligence.",
+    "with": [
+      "We asked the newsroom to pick their favorite books of the year. Here are 6 recommendations.",
+      "The book alternates between 1970s Georgetown and 1790s revolutionary France, centering on a chess game between grandmasters.",
+      "For those who like their fiction with historical context, 'The Eight' by Katherine Neville is a thriller set in two time periods.",
+      "Douglas Adams' 'The Hitchhiker's Guide to the Galaxy' remains funny after all these years.",
+      "Denis Johnson's 'Tree of Smoke' is a sprawling novel about the Vietnam War."
+    ],
+    "without": [
+      "Subscribe to our newsletter",
+      "Copyright 2025 The Advocate",
+      "Navigation menu items",
+      "Weather widget",
+      "Social media share buttons"
+    ],
+    "images": {
+      "total_in_content": 11,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/3/87/387e50fe-cbfc-4650-b178-dc7506a5fc3e/69406e5a6b28e.image.jpg?resize=308%2C500",
+          "filename": "69406e5a6b28e.image.jpg",
+          "alt": "The Eight.jpg",
+          "caption": "The Eight, by Katherine Neville",
+          "is_hero": true
+        },
+        {
+          "src": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/e/14/e147d962-db02-4396-9895-d446bb11abcb/69406e53121e0.image.jpg?resize=333%2C500",
+          "filename": "69406e53121e0.image.jpg",
+          "alt": "Christianity.jpg",
+          "caption": "Christianity: The First Three Thousand Years, by Diarmaid MacCulloch",
+          "is_hero": false
+        },
+        {
+          "src": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/e/33/e3344ea9-0d9f-4225-b19f-9c666a316f68/69406e550d3c1.image.jpg?resize=333%2C500",
+          "filename": "69406e550d3c1.image.jpg",
+          "alt": "Hitchhiker.jpg",
+          "caption": "The Hitchhiker's Guide to the Galaxy by Douglas Adams",
+          "is_hero": false
+        },
+        {
+          "src": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/8/98/89896377-49c7-4108-b259-977968e3c51c/69406e5703edc.image.jpg?resize=336%2C500",
+          "filename": "69406e5703edc.image.jpg",
+          "alt": "Lonesome Dove.jpg",
+          "caption": "Lonesome Dove, by Larry McMurtry",
+          "is_hero": false
+        },
+        {
+          "src": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/5/18/518bcaf6-db2e-42e6-9216-ca214c219196/69406e58b1309.image.jpg?resize=332%2C500",
+          "filename": "69406e58b1309.image.jpg",
+          "alt": "Robot.jpg",
+          "caption": "I, Robot, by Isaac Asimov",
+          "is_hero": false
+        },
+        {
+          "src": "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/9/c0/9c009f9e-3e8a-43af-ad58-410ef166393d/69406e5c183cf.image.jpg?resize=333%2C500",
+          "filename": "69406e5c183cf.image.jpg",
+          "alt": "Tree of Smoke.jpg",
+          "caption": "Tree of Smoke, by Denis Johnson",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:24:05.512556"
+}

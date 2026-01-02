@@ -1,0 +1,61 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.xfinity.com/learn/digital-cable-tv",
+  "file_id": "0473",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "telecom",
+        "tv-streaming",
+        "landing-page",
+        "xfinity"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Xfinity TV and Streaming - Xfinity Entertainment",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Xfinity Entertainment - All the entertainment you want, all in one place. It's easy with Xfinity. Imagine all the entertainment you want, all in one place. It's easy with Xfinity. Live TV: Discover. Watch. Repeat. Explore channels, TV packages, and add-ons with Xfinity TV. StreamStore: All your favorite streaming services at your fingertips with simplified billing. Sports: Always know where to watch your favorite teams and leagues. An unmatched viewing experience: Award-winning Xfinity equipment lets you pair Xfinity entertainment with internet and mobile for unbeatable value. No one does gameday like Xfinity: Live odds with Xfinity Odds Zone. Full coverage with Xfinity Sports Zone. Watch four games at once with Multiview. All from the best seat in the house — yours. The most powerful search engine? Your voice: Find that show everyone's talking about across live TV, apps, On Demand, and your DVR library with the Xfinity Voice Remote. Turn any screen into a TV: Watch your favorite movies and shows on any compatible device from anywhere with the Xfinity Stream app. All the top apps in one place: Xumo Stream Box from Xfinity gives you all the top apps in one place. Just plug it in to your Xfinity TV to start watching. Add-on channels: Add sports packages, premium channels like Max and Paramount Plus, and more to your plan. Latino TV packages: Get your favorite Spanish-language channels and content. International: Watch your favorite channels from countries across the globe.",
+    "with": [
+      "Imagine all the entertainment you want, all in one place. It's easy with Xfinity.",
+      "Live TV: Discover. Watch. Repeat. Explore channels, TV packages, and add-ons with Xfinity TV.",
+      "StreamStore: All your favorite streaming services at your fingertips with simplified billing.",
+      "No one does gameday like Xfinity. Live odds with Xfinity Odds Zone. Full coverage with Xfinity Sports Zone. Watch four games at once with Multiview.",
+      "The most powerful search engine? Your voice. Find that show everyone's talking about across live TV, apps, On Demand, and your DVR library with the Xfinity Voice Remote."
+    ],
+    "without": [
+      "Copyright 2025 Xfinity",
+      "Build your plan",
+      "Loading...",
+      "View add-ons",
+      "Explore Xfinity TV"
+    ],
+    "images": {
+      "total_in_content": 5,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-8405_tv-and-streaming-overview-redesign/mobile/TV--Mobile--Slide1.png",
+          "filename": "TV--Mobile--Slide1.png",
+          "alt": null,
+          "caption": "Mobile device showing Xfinity TV interface",
+          "is_hero": false
+        },
+        {
+          "src": "https://assets.xfinity.com/assets/dotcom/projects_3/2025/nov/cix-9568_national-video-edp-launch/merch-placements/ClearSpace-Remote-Mobile.png",
+          "filename": "ClearSpace-Remote-Mobile.png",
+          "alt": null,
+          "caption": "Xfinity Voice Remote",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:04:48.318052"
+}

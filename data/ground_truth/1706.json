@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.expertise.com/home-improvement/real-estate-agents/california/victorville",
+  "file_id": "1706",
+  "_internal": {
+    "page_type": {
+      "primary": "directory",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "real-estate",
+        "directory",
+        "local-services",
+        "victorville"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "12 Best Victorville, CA Real Estate Agents | Expertise.com",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Expertise.com presents the 12 Best Real Estate Agents in Victorville, CA for 2025. Our goal is to connect people with the best local professionals. We scored Victorville real estate agents on more than 25 variables across five categories, and analyzed the results to give you a hand-picked list of the best. The research reviewed 58 agents and curated 39 to produce these 12 top picks. Sergio Salazar, MBA. Vylla Home Inc. - Established in 2009, Sergio Salazar, MBA. Vylla Home Inc. is a Riverside-based real estate agency serving the Victorville area. It was founded by Sergio Salazar, a real estate broker providing assistance throughout every stage of the residential property buying and selling process. He and his team are experienced in handling a broad variety of properties, from luxury homes to traditional houses, and offer an 'easy exit listing agreement,' which allows clients to cancel their listings at their convenience. Sergio is also bilingual and caters to Spanish-speaking clients. Coldwell Banker Home Source - Coldwell Banker Home Source is a Victorville-based real estate agency offering lists of open houses and luxury homes in the area. The agency guarantees their assistance in finding their clients' next home or selling their current properties. The agency provides up-to-date information to buyers on the policies and intricacies of the neighborhood they're interested in to help them decide on which property to purchase. It also determines the right marketing strategy for selling clients to ensure their property sells out in a timely and fair manner. Century 21 Desert Rock - Century 21 Desert Rock is a Hesperia-based property management company serving Victorville and surrounding areas. It offers real estate services including selling, buying, and renting properties. Its agents use professional photography and virtual tours to help clients showcase their properties. The team can also assist with relocation services, property valuation, and staging consultation.",
+    "with": [
+      "Our goal is to connect people with the best local professionals.",
+      "We scored Victorville real estate agents on more than 25 variables across five categories.",
+      "Established in 2009, Sergio Salazar, MBA. Vylla Home Inc. is a Riverside-based real estate agency serving the Victorville area.",
+      "Coldwell Banker Home Source is a Victorville-based real estate agency offering lists of open houses and luxury homes in the area.",
+      "Century 21 Desert Rock is a Hesperia-based property management company serving Victorville and surrounding areas."
+    ],
+    "without": [
+      "Home-improvement > Real Estate Agents > California > Victorville",
+      "Last updated: December 18, 2025",
+      "Expertise.com Best Real Estate Agents in Victorville, CA 2025",
+      "Log In",
+      "Get Listed"
+    ],
+    "images": {
+      "total_in_content": 15,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://res.cloudinary.com/expertise-com/image/upload/f_auto,q_55,c_fill,w_256/remote_media/logos/real-estate-agents-riverside-granvistarealty-com(1).jpg",
+          "filename": "real-estate-agents-riverside-granvistarealty-com(1).jpg",
+          "alt": "Sergio Salazar, MBA. Vylla Home Inc. logo",
+          "caption": "Sergio Salazar, MBA. Vylla Home Inc. logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/expertise-com/image/upload/f_auto,q_55,c_fill,w_256/remote_media/logos/real-estate-agents-victorville-cbhomesource-com.jpg",
+          "filename": "real-estate-agents-victorville-cbhomesource-com.jpg",
+          "alt": "Coldwell Banker Home Source logo",
+          "caption": "Coldwell Banker Home Source logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/expertise-com/image/upload/f_auto,q_55,c_fill,w_256/remote_media/logos/property-management-hesperia-century21desertrock-com.jpg",
+          "filename": "property-management-hesperia-century21desertrock-com.jpg",
+          "alt": "Century 21 Desert Rock logo",
+          "caption": "Century 21 Desert Rock logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/expertise-com/image/upload/f_auto,q_55,c_fill,w_256/remote_media/logos/real-estate-agents-victorville-shearteam-com.jpg",
+          "filename": "real-estate-agents-victorville-shearteam-com.jpg",
+          "alt": "Shear Realty logo",
+          "caption": "Shear Realty logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/expertise-com/image/upload/f_auto,q_55,c_fill,w_256/remote_media/logos/real-estate-agents-victorville-realtyjuan-com(1).jpg",
+          "filename": "real-estate-agents-victorville-realtyjuan-com(1).jpg",
+          "alt": "Juan Rivera logo",
+          "caption": "Juan Rivera logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/expertise-com/image/upload/f_auto,q_55,c_fill,w_256/remote_media/logos/real-estate-agents-victorville-highdeserthometour-com(1).jpg",
+          "filename": "real-estate-agents-victorville-highdeserthometour-com(1).jpg",
+          "alt": "Frank Vizcarra logo",
+          "caption": "Frank Vizcarra logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/expertise-com/image/upload/f_auto,q_55,c_fill,w_256/remote_media/logos/real-estate-agents-hesperia-alamrealty-com(1).jpg",
+          "filename": "real-estate-agents-hesperia-alamrealty-com(1).jpg",
+          "alt": "Alam Realty logo",
+          "caption": "Alam Realty logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/expertise-com/image/upload/f_auto,q_55,c_fill,w_256/remote_media/logos/real-estate-agents-victorville-dpayne-cbhomesource-com.jpg",
+          "filename": "real-estate-agents-victorville-dpayne-cbhomesource-com.jpg",
+          "alt": "Denise Payne logo",
+          "caption": "Denise Payne logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/expertise-com/image/upload/f_auto,q_55,c_fill,w_256/remote_media/logos/real-estate-agents-victorville-californialifeproperties-com.jpg",
+          "filename": "real-estate-agents-victorville-californialifeproperties-com.jpg",
+          "alt": "Adria Chamberlain logo",
+          "caption": "Adria Chamberlain logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://res.cloudinary.com/expertise-com/image/upload/f_auto,q_55,c_fill,w_256/remote_media/logos/real-estate-agents-victorville-homesinthehighdesert-com(1).jpg",
+          "filename": "real-estate-agents-victorville-homesinthehighdesert-com(1).jpg",
+          "alt": "Bryan Hossack logo",
+          "caption": "Bryan Hossack logo",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:55:14.808435"
+}

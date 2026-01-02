@@ -1,0 +1,88 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.bluecollarelectricians.com/coupons/",
+  "file_id": "1677",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "coupons",
+        "electrical-services",
+        "discounts"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Residential Electrician Coupons | Blue Collar Electricians",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Price Match Guarantee: We will match competitors pricing. As long as the other companies are using the same materials and doing the same work. The other companies must be licensed and insured. Must be presented before start of work. Not valid with other offers or coupons, some restrictions may apply. 10% Off Electrical Panel Upgrade: Must be presented before start of work. Not valid with other offers or coupons, some restrictions may apply. $25.00 Off Any Electrical Troubleshooting: Must be presented before start of work. Not valid with other offers or coupons, some restrictions may apply. $50.00 Off Any Whole House Surge Protector: Must be presented before start of work. Not valid with other offers or coupons, some restrictions may apply. $50.00 Off Any Electrical Repair: Must be presented before start of work. Not valid with other offers or coupons, some restrictions may apply. $25.00 Off Install Of Any One Customer Provided Ceiling Fan: Must be presented before start of work. Not valid with other offers or coupons, some restrictions may apply.",
+    "with": [
+      "We will match competitors pricing",
+      "$25.00 Off Any Electrical Troubleshooting",
+      "$50.00 Off Any Whole House Surge Protector",
+      "$50.00 Off Any Electrical Repair",
+      "$25.00 Off INSTALL OF ANY ONE CUSTOMER PROVIDED CEILING FAN"
+    ],
+    "without": [
+      "Mon-Fri 8:00AM - 5:00PM",
+      "Call Us 440-214-9811",
+      "FREE ESTIMATES",
+      "Copyright © 2021 - Blue Collar Electricians LLC",
+      "Follow us on Facebook, Twitter, LinkedIn, YouTube"
+    ],
+    "images": {
+      "total_in_content": 7,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "https://www.bluecollarelectricians.com/wp-content/uploads/2017/05/coupon1.jpg",
+          "filename": "coupon1.jpg",
+          "alt": null,
+          "caption": "Price Match Guarantee coupon",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.bluecollarelectricians.com/wp-content/uploads/2017/05/coupon2.jpg",
+          "filename": "coupon2.jpg",
+          "alt": null,
+          "caption": "10% Off Electrical Panel Upgrade coupon",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.bluecollarelectricians.com/wp-content/uploads/2017/05/coupon3.jpg",
+          "filename": "coupon3.jpg",
+          "alt": null,
+          "caption": "$25 Off Electrical Troubleshooting coupon",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.bluecollarelectricians.com/wp-content/uploads/2017/05/coupon4.jpg",
+          "filename": "coupon4.jpg",
+          "alt": null,
+          "caption": "$50 Off Whole House Surge Protector coupon",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.bluecollarelectricians.com/wp-content/uploads/2017/05/coupon5.jpg",
+          "filename": "coupon5.jpg",
+          "alt": null,
+          "caption": "$50 Off Electrical Repair coupon",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.bluecollarelectricians.com/wp-content/uploads/2017/05/coupon6.jpg",
+          "filename": "coupon6.jpg",
+          "alt": null,
+          "caption": "$25 Off Ceiling Fan Installation coupon",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:45:13.591356"
+}

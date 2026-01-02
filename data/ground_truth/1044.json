@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.domestika.org/en/courses/area/34-graphic-design",
+  "file_id": "1044",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "e-commerce",
+        "courses",
+        "graphic-design",
+        "domestika"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Graphic Design Courses - Visual Communication | 2025 | Domestika",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Online Graphic Design courses - Master graphic design with our courses. Learn to create impactful visual communication and designs. Start your journey in graphic design today!\n\nFeatured courses include: Canva for Beginners: Create Professional Designs, Specialization in Graphic Design and Visual Communication, Instagram Feed Design with Canva, Introduction to Adobe Illustrator, Introduction to Adobe Photoshop, Master Figma from 0 to 100, Canva and Artificial Intelligence: Design an Original Brand and Product Catalog, Graphic Design for Beginners, Design a personalized and interactive tarot deck using Artificial Intelligence, Logo Design: From Concept to Presentation, Art Direction for Creative Visual Branding, AI for Motion Designers: Getting Started with Generative Tools, Adobe Illustrator for Graphic Design, Introduction to Affinity Designer, Creation of an Original Logo from Scratch.\n\nEach course is taught by leading professionals and includes student reviews and enrollment numbers.",
+    "with": [
+      "Master graphic design with our courses. Learn to create impactful visual communication and designs.",
+      "Canva for Beginners: Create Professional Designs - A course by Clàudia Cánovas",
+      "Specialization in Graphic Design and Visual Communication - Master's in Graphic Design: Master color, composition, and visual perception",
+      "Introduction to Adobe Illustrator - Learn Adobe Illustrator and create optimum vector graphics without any prior knowledge",
+      "Introduction to Adobe Photoshop - Learn Adobe Photoshop from scratch and master the best software for treatment, retouching"
+    ],
+    "without": [
+      "Join for Free",
+      "Log in",
+      "Buy",
+      "Add to a list",
+      "Sort by Popular"
+    ],
+    "images": {
+      "total_in_content": 18,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://imgproxy.domestika.org/unsafe/s:496:279/dpr:1/rs:fill/plain/src://course-covers/000/004/855/4855-original.jpg?1720782254",
+          "filename": "4855-original.jpg",
+          "alt": "Canva for Beginners: Create Professional Designs",
+          "caption": "Canva for Beginners: Create Professional Designs course cover",
+          "is_hero": true
+        },
+        {
+          "src": "https://imgproxy.domestika.org/unsafe/s:496:279/dpr:1/rs:fill/plain/src://course-covers/000/005/642/5642-original.jpg?1736510621",
+          "filename": "5642-original.jpg",
+          "alt": "Specialization in Graphic Design and Visual Communication",
+          "caption": "Specialization in Graphic Design and Visual Communication course cover",
+          "is_hero": false
+        },
+        {
+          "src": "https://imgproxy.domestika.org/unsafe/s:496:279/dpr:1/rs:fill/plain/src://course-covers/000/004/775/4775-original.jpg?1720782200",
+          "filename": "4775-original.jpg",
+          "alt": "Instagram Feed Design with Canva",
+          "caption": "Instagram Feed Design with Canva course cover",
+          "is_hero": false
+        },
+        {
+          "src": "https://imgproxy.domestika.org/unsafe/s:496:279/dpr:1/rs:fill/plain/src://course-covers/000/000/499/499-original.jpg?1592409726",
+          "filename": "499-original.jpg",
+          "alt": "Introduction to Adobe Illustrator",
+          "caption": "Introduction to Adobe Illustrator course cover",
+          "is_hero": false
+        },
+        {
+          "src": "https://imgproxy.domestika.org/unsafe/s:496:279/dpr:1/rs:fill/plain/src://course-covers/000/000/387/387-original.jpg?1720783356",
+          "filename": "387-original.jpg",
+          "alt": "Introduction to Adobe Photoshop",
+          "caption": "Introduction to Adobe Photoshop course cover",
+          "is_hero": false
+        },
+        {
+          "src": "https://imgproxy.domestika.org/unsafe/s:496:279/dpr:1/rs:fill/plain/src://course-covers/000/004/804/4804-original.jpg?1697539706",
+          "filename": "4804-original.jpg",
+          "alt": "Master Figma from 0 to 100",
+          "caption": "Master Figma from 0 to 100 course cover",
+          "is_hero": false
+        },
+        {
+          "src": "https://imgproxy.domestika.org/unsafe/s:496:279/dpr:1/rs:fill/plain/src://course-covers/000/005/388/5388-original.png?1757531285",
+          "filename": "5388-original.png",
+          "alt": "Canva and Artificial Intelligence: Design an Original Brand and Product Catalog",
+          "caption": "Canva and Artificial Intelligence: Design an Original Brand and Product Catalog course cover",
+          "is_hero": false
+        },
+        {
+          "src": "https://imgproxy.domestika.org/unsafe/s:496:279/dpr:1/rs:fill/plain/src://course-covers/000/002/821/2821-original.jpg?1720538852",
+          "filename": "2821-original.jpg",
+          "alt": "Graphic Design for Beginners",
+          "caption": "Graphic Design for Beginners course cover",
+          "is_hero": false
+        },
+        {
+          "src": "https://imgproxy.domestika.org/unsafe/s:496:279/dpr:1/rs:fill/plain/src://course-covers/000/006/324/6324-original.png?1761931581",
+          "filename": "6324-original.png",
+          "alt": "Design a personalized and interactive tarot deck using Artificial Intelligence",
+          "caption": "Design a personalized and interactive tarot deck using Artificial Intelligence course cover",
+          "is_hero": false
+        },
+        {
+          "src": "https://imgproxy.domestika.org/unsafe/s:496:279/dpr:1/rs:fill/plain/src://course-covers/000/001/049/1049-original.jpg?1660898728",
+          "filename": "1049-original.jpg",
+          "alt": "Logo Design: From Concept to Presentation",
+          "caption": "Logo Design: From Concept to Presentation course cover",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:09:21.948146"
+}

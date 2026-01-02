@@ -1,27 +1,47 @@
 {
+  "schema_version": "2.0",
   "url": "https://semiengineering.com/data-centric-ml-compiler-for-pim-u-of-toronto-barcelona-supercomputing-center-eth-zurich-max-planck-institute",
   "file_id": "2754",
-  "downloaded_at": "2025-12-20T23:01:08.092163",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technical-papers",
+        "pim",
+        "ml-compiler",
+        "research",
+        "machine-learning"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Data-Centric ML Compiler For PIM (U. of Toronto, Barcelona Supercomputing Center, ETH Zurich, Max Planck)",
     "author": "Technical Paper Link",
     "publish_date": "2025-12-19",
-    "main_content": "A new technical paper titled “A Tensor Compiler for Processing-In-Memory Architectures” was published by researchers at University of Toronto, Barcelona Supercomputing Center, ETH Zurich, and the Max Planck Institute for Software Systems.\n\nAbstract\n\n“Processing-In-Memory (PIM) devices integrated with high-performance Host processors (e.g., GPUs) can accelerate memory-intensive kernels in Machine Learning (ML) models, including Large Language Models (LLMs), by leveraging high memory bandwidth at PIM cores. However, Host processors and PIM cores require different data layouts: Hosts need consecutive elements distributed across DRAM banks, while PIM cores need them within local banks. This necessitates data rearrangements in ML kernel execution that pose significant performance and programmability challenges, further exacerbated by the need to support diverse PIM backends. Current compilation approaches lack systematic optimization for diverse ML kernels across multiple PIM backends and may largely ignore data rearrangements during compute code optimization. We demonstrate that data rearrangements and compute code optimization are interdependent, and need to be jointly optimized during the tuning process. To address this, we design DCC, the first data-centric ML compiler for PIM systems that jointly co-optimizes data rearrangements and compute code in a unified tuning process. DCC integrates a multi-layer PIM abstraction that enables various data distribution and processing strategies on different PIM backends. DCC enables effective co-optimization by mapping data partitioning strategies to compute loop partitions, applying PIM-specific code optimizations and leveraging a fast and accurate performance prediction model to select optimal configurations. Our evaluations in various individual ML kernels demonstrate that DCC achieves up to 7.68x speedup (2.7x average) on HBM-PIM and up to 13.17x speedup (5.75x average) on AttAcc PIM backend over GPU-only execution. In end-to-end LLM inference, DCC on AttAcc accelerates GPT-3 and LLaMA-2 by up to 7.71x (4.88x average) over GPU.”\n\nFind the technical paper here. November 2025.\n\nYang, Peiming, Sankeerth Durvasula, Ivan Fernandez, Mohammad Sadrosadati, Onur Mutlu, Gennady Pekhimenko, and Christina Giannoula. “A Tensor Compiler for Processing-In-Memory Architectures.” arXiv preprint arXiv:2511.15503 (2025).",
+    "main_content": "A new technical paper titled \"A Tensor Compiler for Processing-In-Memory Architectures\" was published by researchers at University of Toronto, Barcelona Supercomputing Center, ETH Zurich, and the Max Planck Institute for Software Systems. Abstract: \"Processing-In-Memory (PIM) devices integrated with high-performance Host processors (e.g., GPUs) can accelerate memory-intensive kernels in Machine Learning (ML) models, including Large Language Models (LLMs), by leveraging high memory bandwidth at PIM cores. However, Host processors and PIM cores require different data layouts: Hosts need consecutive elements distributed across DRAM banks, while PIM cores need them within local banks. This necessitates data rearrangements in ML kernel execution that pose significant performance and programmability challenges, further exacerbated by the need to support diverse PIM backends. Current compilation approaches lack systematic optimization for diverse ML kernels across multiple PIM backends and may largely ignore data rearrangements during compute code optimization. We demonstrate that data rearrangements and compute code optimization are interdependent, and need to be jointly optimized during the tuning process. To address this, we design DCC, the first data-centric ML compiler for PIM systems that jointly co-optimizes data rearrangements and compute code in a unified tuning process. DCC integrates a multi-layer PIM abstraction that enables various data distribution and processing strategies on different PIM backends. DCC enables effective co-optimization by mapping data partitioning strategies to compute loop partitions, applying PIM-specific code optimizations and leveraging a fast and accurate performance prediction model to select optimal configurations. Our evaluations in various individual ML kernels demonstrate that DCC achieves up to 7.68x speedup (2.7x average) on HBM-PIM and up to 13.17x speedup (5.75x average) on AttAcc PIM backend over GPU-only execution. In end-to-end LLM inference, DCC on AttAcc accelerates GPT-3 and LLaMA-2 by up to 7.71x (4.88x average) over GPU.\" Find the technical paper here. Yang, Peiming, Sankeerth Durvasula, Ivan Fernandez, Mohammad Sadrosadati, Onur Mutlu, Gennady Pekhimenko, and Christina Giannoula. \"A Tensor Compiler for Processing-In-Memory Architectures.\" arXiv preprint arXiv:2511.15503 (2025).",
     "with": [
-      "A new technical paper titled “A Tensor Compiler for Processing-In-Memory Architectures” was published by researchers at University of Toronto, Barcelona Supercomputing Center, ETH Zurich, and the Max Planck Institute for Software Systems.",
-      "Processing-In-Memory (PIM) devices integrated with high-performance Host processors (e.g., GPUs) can accelerate memory-intensive kernels in Machine Learning (ML) models, including Large Language Models (LLMs), by leveraging high memory bandwidth at PIM cores.",
-      "We design DCC, the first data-centric ML compiler for PIM systems that jointly co-optimizes data rearrangements and compute code in a unified tuning process.",
-      "Our evaluations in various individual ML kernels demonstrate that DCC achieves up to 7.68x speedup (2.7x average) on HBM-PIM and up to 13.17x speedup (5.75x average) on AttAcc PIM backend over GPU-only execution.",
-      "Yang, Peiming, Sankeerth Durvasula, Ivan Fernandez, Mohammad Sadrosadati, Onur Mutlu, Gennady Pekhimenko, and Christina Giannoula. “A Tensor Compiler for Processing-In-Memory Architectures.” arXiv preprint arXiv:2511.15503 (2025)."
+      "A new technical paper titled \"A Tensor Compiler for Processing-In-Memory Architectures\" was published by researchers at University of Toronto, Barcelona Supercomputing Center, ETH Zurich, and the Max Planck Institute for Software Systems.",
+      "Processing-In-Memory (PIM) devices integrated with high-performance Host processors can accelerate memory-intensive kernels in Machine Learning models.",
+      "DCC is the first data-centric ML compiler for PIM systems that jointly co-optimizes data rearrangements and compute code in a unified tuning process.",
+      "DCC achieves up to 7.68x speedup on HBM-PIM and up to 13.17x speedup on AttAcc PIM backend over GPU-only execution.",
+      "In end-to-end LLM inference, DCC on AttAcc accelerates GPT-3 and LLaMA-2 by up to 7.71x over GPU."
     ],
     "without": [
-      "Home > Data-Centric ML Compiler For PIM (U. of Toronto, Barcelona Supercomputing Cen...",
-      "MENU <span class=\"logo_dropdown\"><i class=\"fa fa-chevron-circle-down\"></i></span>",
-      "This site uses cookies. By continuing to use our website, you consent to our Cookies Policy",
-      "New Antennas And Advanced ICs Needed For 6G",
-      "Copyright ©2013-2025 SMG   |  Terms of Service  |  Privacy Policy"
-    ]
+      "Subscribe to our newsletter",
+      "Copyright 2025 Semiconductor Engineering",
+      "Navigation menu items and categories",
+      "Popular tags cloud and tag cloud widget",
+      "Footer links and site map"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:01:08.092169"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:31:32.666143"
 }

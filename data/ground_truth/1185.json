@@ -1,0 +1,103 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.kff.org/mental-health/recent-trends-in-mental-health-and-substance-use-concerns-among-adolescents/",
+  "file_id": "1185",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "mental-health",
+        "research-brief",
+        "adolescents",
+        "policy-analysis"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Recent Trends in Mental Health and Substance Use Concerns Among Adolescents",
+    "author": "Nirmita Panchal",
+    "publish_date": "2024-02-06",
+    "main_content": "In light of growing mental health concerns among adolescents in the United States, a National State of Emergency in Child and Adolescent Mental Health was issued in 2021, followed by advisories from the U.S. Surgeon General in 2021 and 2023. Approximately one in five adolescents reported experiencing symptoms of anxiety or depression in 2021 and 2022, with 21% reporting anxiety symptoms and 17% reporting depression symptoms. Female and LGBT+ adolescents were more likely than their counterparts to report experiencing anxiety or depression. Deaths due to drug overdose among adolescents more than doubled from 2018 (253 deaths) to 2022 (723 deaths), with the largest increases among Hispanic and Black adolescents. Suicides are the second leading cause of death among adolescents, with rates peaking in 2018 but declining in recent years. In 2021 and 2022, 20% of adolescents reported receiving mental health therapy and 14% reported taking prescription medication. However, 20% of adolescents reported not receiving the mental health therapy they needed because of cost, fear of what others would think, and/or they did not know how to get help. Many adolescents reported adverse experiences, including bullying (34%), emotional abuse by a parent (17%), and neighborhood violence (15%) in 2021 and 2022. The data comes from the Teen National Health Interview Survey (NHIS-Teen), which surveyed adolescents directly for an 18-month period from 2021 to 2022.",
+    "with": [
+      "In 2021 and 2022, 21% of adolescents reported experiencing symptoms of anxiety in the past two weeks and 17% reported experiencing symptoms of depression.",
+      "Deaths due to drug overdose among adolescents more than doubled since the onset of the COVID-19 pandemic, largely driven by the synthetic opioid, fentanyl.",
+      "Suicide remains the second leading cause of death among adolescents, though these deaths peaked in 2018 and have declined in recent years.",
+      "Among adolescents with a past year major depressive episode, 48% received mental health services in an outpatient setting.",
+      "LGBT+ adolescents were more likely than their non-LGBT+ peers to report anxiety (43% vs. 14%) and depression (37% vs. 11%)."
+    ],
+    "without": [
+      "The independent source for health policy research, polling, and news.",
+      "Skip to main content",
+      "Sign up for emails | Join our email list",
+      "Privacy Policy | Copyright 2025 KFF",
+      "Subscribe | Follow Us | Donate"
+    ],
+    "images": {
+      "total_in_content": 8,
+      "annotated_count": 8,
+      "items": [
+        {
+          "src": "https://datawrapper.dwcdn.net/Ex5ls/full.png",
+          "filename": "full.png",
+          "alt": "Share of Adolescents Reporting Symptoms of Anxiety or Depression in the Past Two Weeks by Sex and Sexual Identity",
+          "caption": "Share of Adolescents Reporting Symptoms of Anxiety or Depression in the Past Two Weeks by Sex and Sexual Identity",
+          "is_hero": false
+        },
+        {
+          "src": "https://datawrapper.dwcdn.net/3zfmu/full.png",
+          "filename": "full.png",
+          "alt": "Nearly Four out of Five Adolescent Drug Overdose Deaths Involved Opioids in 2022",
+          "caption": "Nearly Four out of Five Adolescent Drug Overdose Deaths Involved Opioids in 2022",
+          "is_hero": false
+        },
+        {
+          "src": "https://datawrapper.dwcdn.net/3fnNX/full.png",
+          "filename": "full.png",
+          "alt": "Drug Overdose Death Rates Have Increased Faster Among Black and Hispanic Adolescents",
+          "caption": "Drug Overdose Death Rates Have Increased Faster Among Black and Hispanic Adolescents",
+          "is_hero": false
+        },
+        {
+          "src": "https://datawrapper.dwcdn.net/Q54Ai/full.png",
+          "filename": "full.png",
+          "alt": "Suicide Death Rates Among Adolescents, by Race/Ethnicity and Sex, 2012-2022",
+          "caption": "Suicide Death Rates Among Adolescents, by Race/Ethnicity and Sex, 2012-2022",
+          "is_hero": false
+        },
+        {
+          "src": "https://datawrapper.dwcdn.net/qN26Q/full.png",
+          "filename": "full.png",
+          "alt": "Share of Adolescents Who Received Mental Health Treatment in the Past Year",
+          "caption": "Share of Adolescents Who Received Mental Health Treatment in the Past Year",
+          "is_hero": false
+        },
+        {
+          "src": "https://datawrapper.dwcdn.net/tK83H/full.png",
+          "filename": "full.png",
+          "alt": "Sources of Mental Health Services Among Adolescents With a Past Year Major Depressive Episode",
+          "caption": "Sources of Mental Health Services Among Adolescents With a Past Year Major Depressive Episode",
+          "is_hero": false
+        },
+        {
+          "src": "https://datawrapper.dwcdn.net/8pDa4/full.png",
+          "filename": "full.png",
+          "alt": "Share of Adolescents Who Did Not Receive Needed Mental Health Therapy or Counseling in the Past Year",
+          "caption": "Share of Adolescents Who Did Not Receive Needed Mental Health Therapy or Counseling in the Past Year",
+          "is_hero": false
+        },
+        {
+          "src": "https://datawrapper.dwcdn.net/qyXDb/full.png",
+          "filename": "full.png",
+          "alt": "Share of Adolescents Who Experienced Bullying in the Past Year",
+          "caption": "Share of Adolescents Who Experienced Bullying in the Past Year",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:00:43.345937"
+}

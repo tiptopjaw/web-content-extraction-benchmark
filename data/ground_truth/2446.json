@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://blog.firedrake.org/archive/2025/12/Advent_of_Code_2025_week_2.html",
+  "file_id": "2446",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "programming",
+        "advent of code",
+        "rust"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Advent of Code 2025 week 2",
+    "author": null,
+    "publish_date": "2025-12-20",
+    "main_content": "I did Advent of Code again, and had a really good time again. Spoilers. Carrying on from where I left off last post, I'll talk here about each day and my solutions. Should you want to follow along, my code is at Codeberg. Day 7: Part 1 screams HashSet to me. I keep a set of active beam X-coordinates (initialised when I find the S). For part 2 I upgrade the set to a map. Someone talked about memoisation and if I were trying to trace every path (e.g. with BFS/DFS) I'd probably have to do something like that; but there is no meaningful distinction between paths once they arrive at a given point, so a count is all I need. Day 8: I thought this was going to be a spanning tree, but it turned out to be connected components. Then throw the lists at connected_components from the pathfinding crate, segment what I have, and pull off the three highest values. Day 9: First one that's needed serious effort this year. Part 2 is quite crunchy. I ended up first marking the edges, then looking for an easy-to-spot inside space. Then it's back to looking at each pair of corners, and evaluating all spaces contained within that pair to ensure that they are in the greenred tile set. Day 10: I had a lot of fun with part 1, rendering everything as BigInt bitfields and then doing a breadth-first search with XORs. Then it became clear that part 2 was (a) a linear algebra system and (b) not susceptible to short cuts. Day 11: I got a step up on this by knowing about the pathfinding crate, so that I had an efficient path counter available. For part 2 I was concerned about possible loops, which will obviously break a path counter, but I hoped for the best and it worked. For each ordering of the internodes I calculate the number of paths in each leg, then multiply them together. Day 12: This is clearly a Really Hard problem. I could obviously parse the shapes and write a search, but I think the search space would be a Bit Huge. Turns out it's the answer. Nothing stretched my Rust, though several days stretched my algorithm design skills. That seems like a good thing. Crates used: itertools, microlp, num, pathfinding, permutator, range-ext, regex. Interesting to see basically no actual pathfinding this year, though there were several grid-related problems.",
+    "with": [
+      "For each ordering of the internodes I calculate the number of paths in each leg, then multiply them together.",
+      "In the test data, there's only one path from svr to fft, only one from fft to dac, and then two from dac to out.",
+      "A path counter will break if there are any possible loops, and if each of dac and fft can reach the other there must be at least one.",
+      "I had a lot of fun with part 1, rendering everything as BigInt bitfields and then doing a breadth-first search with XORs.",
+      "I could obviously parse the shapes and write a search, but I think the search space would be a Bit Huge."
+    ],
+    "without": [
+      "RogerBW's Blog",
+      "20 December 2025",
+      "Add A Comment",
+      "Your Name",
+      "Produced by aikakirja"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "tn_11-network.png",
+          "filename": "tn_11-network.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:25:00.545652"
+}

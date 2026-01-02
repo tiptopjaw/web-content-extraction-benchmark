@@ -1,0 +1,82 @@
+{
+  "schema_version": "2.0",
+  "url": "https://iot-analytics.com/leading-generative-ai-companies/",
+  "file_id": "2169",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "ai",
+        "market-analysis",
+        "generative-ai"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "The leading generative AI companies",
+    "author": "Joaquin Fernandez",
+    "publish_date": "2025-03-04",
+    "main_content": "The generative AI market surpassed $25.6 billion in 2024, driven by rapid adoption and the increasing integration of AI capabilities across industries. The data center GPU market saw remarkable growth to $125 billion, with NVIDIA maintaining a dominant position, holding 92% of the market share. Microsoft and AWS lead the rapidly expanding foundation models and model management platforms market, while Accenture and Deloitte lead the highly fragmented generative AI services market.\n\nNVIDIA leads the data center GPU market with 92% market share, generating over $115 billion in revenue in 2024. AMD holds about 4% market share, having grown 179% between 2023 and 2024. Huawei secured 2% market share with its Ascend AI chips and proprietary Da Vinci architecture. Emerging players like Cerebras and Groq are also gaining traction with specialized AI chip architectures.\n\nIn the foundation models and model management platforms market, Microsoft holds 39% market share, followed by AWS at 19%, Google at 15%, and OpenAI at 9%. AWS has invested an additional $4 billion in Anthropic, while Google announced a $75 billion AI investment in 2025. DeepSeek has emerged as a notable disruptor with its efficient R1 model, causing market concerns and stock price declines for established players.\n\nThe generative AI services market is more fragmented, with Accenture holding 7% market share following a $3 billion AI investment. Deloitte holds 3% with plans to invest $4 billion in AI expansion. IBM follows with 2% market share, focusing on enterprise-scale AI deployments through its watsonx platform. Strategy firms like McKinsey, BCG, and Bain & Company have high market shares relative to their size due to the CEO-driven nature of AI initiatives.",
+    "with": [
+      "The generative AI market surpassed $25.6 billion in 2024, driven by rapid adoption and the increasing integration of AI capabilities across industries.",
+      "NVIDIA vastly led the data center GPU market, holding 92% of the market share, resulting in a record annual revenue of just over $115 billion in 2024.",
+      "Microsoft has solidified its leadership in the foundation models and platforms sector, with an estimated 39% market share in 2024.",
+      "DeepSeek disrupts AI market with efficient R1 model, sparking concerns along the generative AI value chain, such as semiconductor giants like NVIDIA.",
+      "Accenture leads generative AI services with $3 billion investment, with IoT Analytics estimating that Accenture's GenAI services revenue increased 390% from the previous year."
+    ],
+    "without": [
+      "Subscribe to our research newsletter",
+      "Copyright © 2025 IoT Analytics GmbH",
+      "Request A Demo",
+      "Privacy Statement",
+      "Cookie Preferences"
+    ],
+    "images": {
+      "total_in_content": 9,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://iot-analytics.com/wp-content/uploads/2023/12/Leading-generative-AI-companies-vw.png",
+          "filename": "Leading-generative-AI-companies-vw.png",
+          "alt": "Leading generative AI companies",
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://iot-analytics.com/wp-content/uploads/2025/03/GenAI-market-share-2024-Datacenter-GPUs-vw.png",
+          "filename": "GenAI-market-share-2024-Datacenter-GPUs-vw.png",
+          "alt": "GenAI market share 2024 - Datacenter GPUs",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://iot-analytics.com/wp-content/uploads/2023/12/NVIDIA-A100-the-companys-flagship-GPU-for-data-centers.jpg",
+          "filename": "NVIDIA-A100-the-companys-flagship-GPU-for-data-centers.jpg",
+          "alt": "NVIDIA A100, the company’s flagship GPU for data centers (source: NVIDIA)",
+          "caption": "NVIDIA A100, the company's flagship GPU for data centers (source: NVIDIA)",
+          "is_hero": false
+        },
+        {
+          "src": "https://iot-analytics.com/wp-content/uploads/2025/03/GenAI-market-share-2024-Foundation-models-and-model-management-platforms-vw.png",
+          "filename": "GenAI-market-share-2024-Foundation-models-and-model-management-platforms-vw.png",
+          "alt": "GenAI market share 2024 - Foundation models and model management platforms",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://iot-analytics.com/wp-content/uploads/2025/03/GenAI-market-share-2024-Generative-AI-services-vw.png",
+          "filename": "GenAI-market-share-2024-Generative-AI-services-vw.png",
+          "alt": "GenAI market share 2024 - Generative AI services",
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:55:24.024148"
+}

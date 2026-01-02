@@ -1,0 +1,82 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.nutraceuticalsworld.com/breaking-news/",
+  "file_id": "1561",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "medium",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "news",
+        "archive",
+        "breaking-news",
+        "industry-publication"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Breaking News Archive - Nutraceuticals World",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Breaking News Archive from Nutraceuticals World featuring the latest industry news, updates, and developments in the nutraceutical sector including regulatory changes, ingredient research, product launches, mergers and acquisitions, and market updates.",
+    "with": [
+      "Breaking News Archive from Nutraceuticals World",
+      "Amazon Will Require cGMP Verification for All Dietary Supplements",
+      "Standardized Curcumin Ingredient BioTurm Offers Enhanced Bioavailability",
+      "Higher Blood Omega-3s Linked to Lower AFib Risk: Study",
+      "Stay informed with regular market updates that track the latest trends and developments impacting the nutraceutical industry"
+    ],
+    "without": [
+      "Subscribe to Nutraceuticals World to receive the latest industry news",
+      "Join our community! Subscribe to Nutraceuticals World",
+      "Access the latest issue of Nutraceuticals World and browse our extensive archives",
+      "Nutraceuticals World is the leading B2B media brand",
+      "Read about our commitment to protecting your privacy"
+    ],
+    "images": {
+      "total_in_content": 19,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://www.nutraceuticalsworld.com/wp-content/uploads/sites/12/2025/12/Untitled-design-18-7.jpg",
+          "filename": "Untitled-design-18-7.jpg",
+          "alt": "Amazon Will Require cGMP Verification for All Dietary Supplements",
+          "caption": "Amazon Will Require cGMP Verification for All Dietary Supplements",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.nutraceuticalsworld.com/wp-content/uploads/sites/12/2025/12/Untitled-design-18-6.jpg",
+          "filename": "Untitled-design-18-6.jpg",
+          "alt": "Standardized Curcumin Ingredient BioTurm Offers Enhanced Bioavailability Over Standard Curcumin",
+          "caption": "Standardized Curcumin Ingredient BioTurm Offers Enhanced Bioavailability Over Standard Curcumin",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.nutraceuticalsworld.com/wp-content/uploads/sites/12/2025/12/Untitled-design-18-5.jpg",
+          "filename": "Untitled-design-18-5.jpg",
+          "alt": "Higher Blood Omega-3s Linked to Lower AFib Risk: Study",
+          "caption": "Higher Blood Omega-3s Linked to Lower AFib Risk: Study",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.nutraceuticalsworld.com/wp-content/uploads/sites/12/2025/12/Untitled-design-18-4.jpg",
+          "filename": "Untitled-design-18-4.jpg",
+          "alt": "NPA Announces 2026 Fly-In Day",
+          "caption": "NPA Announces 2026 Fly-In Day",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.nutraceuticalsworld.com/wp-content/uploads/sites/12/2025/12/Untitled-design-18-3.jpg",
+          "filename": "Untitled-design-18-3.jpg",
+          "alt": "Better Being Acquired by Global Investors from HGGC",
+          "caption": "Better Being Acquired by Global Investors from HGGC",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:20:00.609461"
+}

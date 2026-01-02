@@ -1,26 +1,45 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.citruscollege.edu/tecs/Pages/cybersecuritytips.aspx",
   "file_id": "1100",
-  "downloaded_at": "2025-12-20T21:03:26.755227",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "cybersecurity",
+        "guide",
+        "education"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Cybersecurity Tips for Students",
     "author": null,
     "publish_date": null,
-    "main_content": "Here are 10 Cybersecurity Tips for College Students\n\n1. Passwords: Use strong, unique passwords for all accounts and consider using a password manager to keep track of them securely. Never share your passwords with anyone, even trusted friends or roommates.\n\n2. Update: Keep all your software, operating systems, and applications up-to-date by enabling automatic updates whenever possible. This ensures you have the latest security patches and protections.\n\n3. Watch Out for Scammers: Be cautious of phishing scams in emails, text messages, and social media. Avoid clicking on suspicious links or downloading attachments from unknown sources. Be cautious of what information you are providing.\n\n4. Multi-Factor Authentication: Use multi-factor authentication (MFA) whenever available to add an extra layer of security to your accounts.\n\n5. Public Wi-Fi: Be careful when using public Wi-Fi networks. Avoid accessing sensitive information like banking or shopping sites on public networks. Consider using a VPN for added security.\n\n6. Backups: Back up your data regularly to the cloud or an external hard drive to protect against data loss from malware attacks or device theft.\n\n7. End-Point Protection: Install and maintain reputable antivirus and anti-spyware software on all your devices.\n\n8. Privacy: Be mindful of what you share on social media. Limit personal information and adjust privacy settings to control who can see your posts.\n\n9. Secure your Device: Physically secure your devices. Never leave laptops, phones, or tablets unattended in public spaces.\n\n10. Be Aware: Be cautious when using public computers. Always log out of accounts, clear browsing history, and avoid saving passwords on these machines.\n\nBy following these tips, college students can significantly improve their cybersecurity posture and protect themselves from common online threats.\n\nOther Resources with Guidance for Being Cyber Safe\n\n• Cybersecurity and Infrastructure Security Agency (CISA): Best Practices for Individuals and Families\n• FBI: On the Internet: Be Cautious When Connected\n• Financial Student Aid: Avoiding Student Aid Scams",
+    "main_content": "Here are 10 Cybersecurity Tips for College Students:\n\n1. Passwords: Use strong, unique passwords for all accounts and consider using a password manager to keep track of them securely. Never share your passwords with anyone, even trusted friends or roommates.\n\n2. Update: Keep all your software, operating systems, and applications up-to-date by enabling automatic updates whenever possible. This ensures you have the latest security patches and protections.\n\n3. Watch Out for Scammers: Be cautious of phishing scams in emails, text messages, and social media. Avoid clicking on suspicious links or downloading attachments from unknown sources. Be cautious of what information you are providing.\n\n4. Multi-Factor Authentication: Use multi-factor authentication (MFA) whenever available to add an extra layer of security to your accounts.\n\n5. Public Wi-Fi: Be careful when using public Wi-Fi networks. Avoid accessing sensitive information like banking or shopping sites on public networks. Consider using a VPN for added security.\n\n6. Backups: Back up your data regularly to the cloud or an external hard drive to protect against data loss from malware attacks or device theft.\n\n7. End-Point Protection: Install and maintain reputable antivirus and anti-spyware software on all your devices.\n\n8. Privacy: Be mindful of what you share on social media. Limit personal information and adjust privacy settings to control who can see your posts.\n\n9. Secure your Device: Physically secure your devices. Never leave laptops, phones, or tablets unattended in public spaces.\n\n10. Be Aware: Be cautious when using public computers. Always log out of accounts, clear browsing history, and avoid saving passwords on these machines.\n\nBy following these tips, college students can significantly improve their cybersecurity posture and protect themselves from common online threats.\n\nOther Resources with Guidance for Being Cyber Safe:\n\n- Cybersecurity and Infrastructure Security Agency (CISA): Best Practices for Individuals and Families\n- FBI: On the Internet: Be Cautious When Connected\n- Financial Student Aid: Avoiding Student Aid Scams",
     "with": [
       "Use strong, unique passwords for all accounts and consider using a password manager to keep track of them securely.",
-      "Be cautious of phishing scams in emails, text messages, and social media. Avoid clicking on suspicious links or downloading attachments from unknown sources.",
-      "Be careful when using public Wi-Fi networks. Avoid accessing sensitive information like banking or shopping sites on public networks.",
-      "By following these tips, college students can significantly improve their cybersecurity posture and protect themselves from common online threats."
+      "Keep all your software, operating systems, and applications up-to-date by enabling automatic updates whenever possible.",
+      "Be cautious of phishing scams in emails, text messages, and social media.",
+      "Use multi-factor authentication (MFA) whenever available to add an extra layer of security to your accounts.",
+      "Back up your data regularly to the cloud or an external hard drive to protect against data loss from malware attacks or device theft."
     ],
     "without": [
-      "Skip to main content",
-      "ABOUT ACADEMICS CAMPUS LIFE COMMUNITY PROSPECTIVE STUDENTS CURRENT STUDENTS",
-      "Citrus Community College District 1000 W. Foothill Blvd. Glendora, CA 91741 626-963-0323",
-      "Follow Citrus College Facebook Twitter LinkedIn Youtube Instagram TikTok",
-      "TeCS at Citrus College Student Assistance Mobile Apps and Portal Ancillary Items Recent"
-    ]
+      "Navigation menu items",
+      "Footer links and contact information",
+      "Sidebar navigation",
+      "Search box",
+      "Social media links"
+    ],
+    "images": {
+      "total_in_content": 2,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:03:26.755235"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:38:22.271753"
 }

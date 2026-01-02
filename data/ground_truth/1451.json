@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.roberthalf.com/us/en/accounting-finance",
+  "file_id": "1451",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "staffing",
+        "finance",
+        "accounting",
+        "recruiting",
+        "landing-page"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Finance & Accounting Staffing and Recruiting | Robert Half",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Robert Half specializes in staffing businesses with skilled finance and accounting professionals for temporary contracts or permanent roles. Grow your business with skilled accountants, financial analysts and an array of highly skilled professionals who are industry-experienced and proficient in your systems and software. Small business? Global enterprise? We'll help you hire the talent you need, often in as little as 48 hours. Our recruiters combine their financial staffing experience with award-winning AI technology to match you with the best-available candidates for your team. You'll have access to our local market knowledge, finance and accounting connections, and top remote, on-site and hybrid talent through 300+ locations worldwide—all backed by our proven track record of success. With 75+ years of specialized staffing experience, 10 million+ finance and accounting candidates in our global database, and 70,000+ accounting and finance professionals placed annually. Finance and accounting support for teams of all sizes includes: Accounts Payable, Receivable and Bookkeeping; Billing, Credit and Collections; Budget Planning and Financial Analysis; Corporate Accounting; Payroll; and Internal Audit and Compliance. Hire finance and accounting professionals who understand your industry including: professional services, retail and consumer goods, technology and software, hospitality and tourism, financial services and banking, manufacturing and distribution, public sector and education, and nonprofit. Flexible support options include contract talent, permanent talent, and retained executive search. The hiring process: Connect (explore candidates online, team up with a specialized recruiter), Select (AI-powered candidate matching), Hire (interview coordination, salary guidance, onboarding support). Robert Half provides specialized staffing services in finance and accounting, technology, marketing and creative, legal, and administrative and customer support.",
+    "with": [
+      "Finance and accounting talent that really counts",
+      "Hire finance and accounting talent, quickly and easily",
+      "Small business? Global enterprise? We'll help you hire the talent you need, often in as little as 48 hours",
+      "Our recruiters combine their financial staffing experience with award-winning AI technology",
+      "Choose from a wide array of remote, on-site and hybrid service offerings"
+    ],
+    "without": [
+      "Sign in",
+      "Find Jobs",
+      "Hire Talent",
+      "Explore Consulting Solutions",
+      "Discover Insights"
+    ],
+    "images": {
+      "total_in_content": 17,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://s7d9.scene7.com/is/image/roberthalfintl/sq2-as587412358-pg25?$Squircle1-Large-1x$&fmt=webp-alpha",
+          "filename": "sq2-as587412358-pg25",
+          "alt": null,
+          "caption": "Finance and accounting talent that really counts",
+          "is_hero": true
+        },
+        {
+          "src": "https://s7d9.scene7.com/is/image/roberthalfintl/sq1-as614178650?$Squircle2-Large-1x$&fmt=webp-alpha",
+          "filename": "sq1-as614178650",
+          "alt": null,
+          "caption": "Finance and accounting talent that really counts",
+          "is_hero": true
+        },
+        {
+          "src": "https://s7d9.scene7.com/is/image/roberthalfintl/sq3-2257038325?$Squircle3-Large-1x$&fmt=webp-alpha",
+          "filename": "sq3-2257038325",
+          "alt": null,
+          "caption": "Hire finance and accounting talent, quickly and easily",
+          "is_hero": false
+        },
+        {
+          "src": "https://s7d9.scene7.com/is/image/roberthalfintl/rt1-2449759205?$Rectangle1-Large-1x$&fmt=webp-alpha",
+          "filename": "rt1-2449759205",
+          "alt": null,
+          "caption": "Hire finance and accounting professionals who understand your industry",
+          "is_hero": false
+        },
+        {
+          "src": "https://s7d9.scene7.com/is/image/roberthalfintl/sq3-as722324804-pg25?$Squircle3-Large-1x$&fmt=webp-alpha",
+          "filename": "sq3-as722324804-pg25",
+          "alt": null,
+          "caption": "How to hire accounting and finance talent with us",
+          "is_hero": false
+        },
+        {
+          "src": "https://s7d9.scene7.com/is/image/roberthalfintl/var1-2461184801-1?$Variable1-Large-1x$&fmt=webp-alpha",
+          "filename": "var1-2461184801-1",
+          "alt": null,
+          "caption": "Find an office near you",
+          "is_hero": false
+        },
+        {
+          "src": "https://s7d9.scene7.com/is/image/roberthalfintl/rt2-1926530801-dfst25?$Rectangle2-Large-1x$&fmt=webp-alpha",
+          "filename": "rt2-1926530801-dfst25",
+          "alt": null,
+          "caption": "2025 Finance and Accounting Job Market Outlook",
+          "is_hero": false
+        },
+        {
+          "src": "https://s7d9.scene7.com/is/image/roberthalfintl/rt2-1916997081?$Rectangle2-Large-1x$&fmt=webp-alpha",
+          "filename": "rt2-1916997081",
+          "alt": null,
+          "caption": "2026 Finance and Accounting Salaries and Compensation Trends",
+          "is_hero": false
+        },
+        {
+          "src": "https://s7d9.scene7.com/is/image/roberthalfintl/rt2-as335981367?$Rectangle2-Large-1x$&fmt=webp-alpha",
+          "filename": "rt2-as335981367",
+          "alt": null,
+          "caption": "21 Accounting Interview Questions You Need to Ask",
+          "is_hero": false
+        },
+        {
+          "src": "https://s7d9.scene7.com/is/image/roberthalfintl/rt2-as717226257?$Rectangle2-Large-1x$&fmt=webp-alpha",
+          "filename": "rt2-as717226257",
+          "alt": null,
+          "caption": "2025 In-Demand Finance and Accounting Roles and Hiring Trends",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:27:08.786410"
+}

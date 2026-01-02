@@ -1,0 +1,45 @@
+{
+  "schema_version": "2.0",
+  "url": "https://careerkarma.com/rankings/best-coding-bootcamps/",
+  "file_id": "1729",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "low",
+      "needs_review": true,
+      "review_reason": "HTML contains only shell structure with dynamic React content; actual page content loaded client-side. Canonical URL indicates bootcamp rankings page but main content not present in HTML source.",
+      "tags": [
+        "education",
+        "rankings",
+        "bootcamps"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": null,
+    "author": null,
+    "publish_date": null,
+    "main_content": "",
+    "with": [
+      "No main content could be extracted from this HTML shell page",
+      "The page appears to use client-side rendering with React",
+      "Content is loaded dynamically after initial page load",
+      "Canonical URL references CareerKarma bootcamp rankings",
+      "This extraction represents the static HTML shell only"
+    ],
+    "without": [
+      "Navigation menu items",
+      "Footer links and copyright notices",
+      "Sidebar content and advertisements",
+      "Social media buttons and widgets",
+      "Cookie consent banners"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:02:38.035423"
+}

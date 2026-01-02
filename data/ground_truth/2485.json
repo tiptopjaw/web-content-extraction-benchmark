@@ -1,0 +1,96 @@
+{
+  "schema_version": "2.0",
+  "url": "https://tbr.bearblog.dev/narrative-play-structure-and-conflict-in-ttrpgs",
+  "file_id": "2485",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "ttrpg",
+        "game-design",
+        "narrative-theory",
+        "tabletop-gaming"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Narrative, Play Structure, and Conflict in TTRPGs",
+    "author": null,
+    "publish_date": "2025-12-16",
+    "main_content": "Last month I wrote about narrative in TTRPGs as a historiographical process. In that, I argued that what we usually call the 'story' of our games, especially adventure games, is the emergent process of assembling and ascribing retrospective significance to the discrete events that occurred at the table. I've been working on refining the Mad Biographers game concept a little bit further in my spare time, and through that I've been thinking more about genre and genre emulation in games. I think genre and genre emulation is a bigger topic than I have the tools to assess today, but I want to tackle a few of the concepts that stand out to me. There's a sort of classical issue in problem solving theory called the 'Paradox of Structure', which says that any system, rule, or framework is simultaneously enabling and limiting. I'd like to propose a few schemata or structures of play and talk through emergent properties of those schemata along with some quick commentary on how those properties enable and limit storytelling and types of play. The structure I'm going to start with as a lens today is the game scheme of a game manager with a group of 2+ players - the 'adventuring party'. The GM + Players schema as seen in a huge variety of tabletop RPGs creates the following emergent properties: Information Asymmetry and Multiple Main Characters. Information Asymmetry enables players to Explore a setting which has been established prior to runtime and enables Problem Solving where the GM may present a scenario and the players work to resolve it. Multiple Main Characters enables players to bring a variety of in-character skills and abilities to scenarios, but introduces a genre limitation since very few literary or cinematic genres support multiple equally-competent characters with interiority sharing equal screentime. Duet play takes a similar shape to GM + Players but with a single player. I was first exposed to the idea through an article from MCDM's Arcadia magazine. You still have Information Asymmetry, but you now have a single brain up against the single brain of the GM. You probably no longer have Multiple Main Characters, which means that you only have access to the skills, abilities, and tools of your character. Duet play enables genre play that is very hard to play straight with an adventuring party. I have seen some cool development in the field of solo play over the last few years. Solo role play typically requires some source of truth external to the players' own mind, creativity, and decision-making ability. This oracle may look a lot like Gloracles used in OSR play, or it may be a deck of cards with prompts, or it may be a Choose-Your-Own-Adventure book. When you have multiple players for a game but no designated facilitator you can create some new patterns. With no designated game master whose prep establishes pre-ordained Facts about the Fiction, you create space for a new mode of collaboration called Shared Discovery. So we have now looked at structures of play. I want to discuss how those different structures of play interact with types of narrative conflict. In the media with which I'm most familiar, narrative conflict and its resolution are the primary drivers of character motivation and thus events and action. The basic forms of narrative conflict in literature are: Character vs Nature, Character vs Character, Character vs Self, and Character vs Society. Character vs Nature conflicts with animals, forces of nature, or otherwise less-than-sapient obstacles. I think tabletop RPGs are a great vehicle for exploring this conflict. When you design a game, or a setting, or a module, or just a session, you should think about the vectors of conflict that you want to establish. Not every story, not every genre, and not every game needs characters to experience conflict of every form to be satisfying. There just has to be something. Character vs Character is basically the crux of traditional play and faction-based sandbox play. The players are in conflict with NPCs managed by a GM or referee who have objectives that contrast with the objectives of the players. This is modeled really well in GM + Players structures and Duet Play. Character vs Self: In basically all of the play structures we have looked at, it makes sense for the circumstances of the fiction to come into conflict with a character's stated ideals. This internal friction is good for role playing. Character vs Society: I think tabletop RPGs are extremely well-suited to tell Character vs Society stories. In my mental model, this is best modeled in a GM+Players structure or a Solo Play structure. Character vs Technology: Mothership rocks. Characters should be in conflict with technology. I think all play structures in tabletop function well with character vs technology. Character vs Reality: Tabletop RPGs may be a uniquely well-suited mode of storytelling for engaging with this conflict in a sort of literal sense. The reality of the game world exists only inasmuch as it is equifinally enforced and continuously created by the players. I'm not sure. I think my next step is to map modes of conflict and play structures onto genre, but this post is overstaying its welcome so I'll wrap it up here. I think if you are a game designer or a level/module designer, you should be really intentional about the types of conflict that you want your game to support and not just map different aesthetics onto an adventure-shaped game.",
+    "with": [
+      "Last month I wrote about narrative in TTRPGs as a historiographical process.",
+      "The GM + Players schema as seen in a huge variety of tabletop RPGs creates the following emergent properties: Information Asymmetry.",
+      "When you have multiple players for a game but no designated facilitator you can create some new patterns that we haven't seen in the previous few schemata.",
+      "The basic forms of narrative conflict in literature are: Character vs Nature, Character vs Character, Character vs Self, Character vs Society.",
+      "I think if you are a game designer or a level/module designer, you should be really intentional about the types of conflict that you want your game to support."
+    ],
+    "without": [
+      "Subscribe to newsletter",
+      "Copyright 2025",
+      "Privacy Policy",
+      "Navigation item",
+      "Cookie notice"
+    ],
+    "images": {
+      "total_in_content": 8,
+      "annotated_count": 7,
+      "items": [
+        {
+          "src": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/tbr/screenshot-2025-12-15-154448.webp",
+          "filename": "screenshot-2025-12-15-154448.webp",
+          "alt": "Screenshot 2025-12-15 154448",
+          "caption": "SEO says I need to use more graphics in my screeds. This graphic sucks in a way that I find funny.",
+          "is_hero": false
+        },
+        {
+          "src": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/tbr/screenshot-2025-12-15-151318.webp",
+          "filename": "screenshot-2025-12-15-151318.webp",
+          "alt": "Screenshot 2025-12-15 151318",
+          "caption": "In a perfect world I wouldn't have only saved the screenshot where I searched for the one word I remembered in this post",
+          "is_hero": false
+        },
+        {
+          "src": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/tbr/screenshot-2025-12-15-155313.webp",
+          "filename": "screenshot-2025-12-15-155313.webp",
+          "alt": "Screenshot 2025-12-15 155313",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/tbr/screenshot-2025-12-15-203325.webp",
+          "filename": "screenshot-2025-12-15-203325.webp",
+          "alt": "Screenshot 2025-12-15 203325",
+          "caption": "Say what you want, but the Character vs Nature in this would be hard as hell",
+          "is_hero": false
+        },
+        {
+          "src": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/tbr/screenshot-2025-12-15-210912.webp",
+          "filename": "screenshot-2025-12-15-210912.webp",
+          "alt": "Screenshot 2025-12-15 210912",
+          "caption": "PC vs PC in Duet Play",
+          "is_hero": false
+        },
+        {
+          "src": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/tbr/screenshot-2025-12-15-205748.webp",
+          "filename": "screenshot-2025-12-15-205748.webp",
+          "alt": "Screenshot 2025-12-15 205748",
+          "caption": "Sometimes both sides of Character vs Self have good points",
+          "is_hero": false
+        },
+        {
+          "src": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/tbr/screenshot-2025-12-15-212325.webp",
+          "filename": "screenshot-2025-12-15-212325.webp",
+          "alt": "Screenshot 2025-12-15 212325",
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:36:55.638771"
+}

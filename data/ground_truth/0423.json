@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.freightwaves.com/checkpoint/movers/new-york/",
+  "file_id": "0423",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "moving",
+        "reviews",
+        "new-york",
+        "guide",
+        "local-services"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Best Moving Companies in New York (2025) – Top Local & Long-Distance Movers",
+    "author": "Mike Marshall, Shipping Expert",
+    "publish_date": "2025-12-19",
+    "main_content": "After evaluating 148 moving companies in New York, Seka Moving earned top marks for reliable short-distance shipping of household goods, as well as clear pricing, and customer care. Colonial Van Lines took the lead among 148 long-distance moving companies in New York, with their blend of competitive pricing and dependable service making them a standout in a crowded field. Movers in New York charge an average hourly rate of $131 for local moves, while long-distance move costs range from $465 to $4,304. The cost of a local move depends on crew size and time spent, with estimated costs ranging from $785 for studio/1BR moves to $4,188-$5,890 for 4+ bedroom moves. Key factors affecting long-distance move costs include the date of your move, move distance, optional add-ons like packing and storage services, and the amount of furniture being moved. New York has 148 professional moving companies with an average rating of 4.28 stars compared to the national average of 4.3 stars. Seka Moving (DOT: 3014539) offers a comprehensive range of moving services including full-service moves, interstate relocation, and specialized handling for items like pianos, antiques, and grandfather clocks. Colonial Van Lines (USDOT: 1434373) is a trusted full-service moving company based in Pompano Beach, Florida, handling long-distance moves across 48 states with more than 50 years of experience. Safeway Moving (USDOT: 3756000) is a veteran-owned moving company with the mission to offer military precision relocation through competitive pricing and a huge network of truck capacity across the country.",
+    "with": [
+      "Seka Moving stood out as the top choice for in-state New York moves, while Colonial Van Lines is the top choice for long-distance NY moves.",
+      "Movers in New York charge an average hourly rate of $131, and you'll want to budget for several hours depending on the size of your place.",
+      "Of the 3,180 total professional moving companies in the U.S., 148 are located in NY.",
+      "Colonial Van Lines (USDOT: 1434373) is a trusted full-service moving company based in Pompano Beach, Florida, handling long-distance moves across 48 states.",
+      "Our mission at FreightWaves Checkpoint is to provide readers with data-driven, unbiased moving and car shipping information and company reviews."
+    ],
+    "without": [
+      "Get an instant quote now.",
+      "© 2025 FreightWaves, Inc. All Rights Reserved.",
+      "Privacy Policy link",
+      "Navigation menu items",
+      "Cookie notice or consent banner"
+    ],
+    "images": {
+      "total_in_content": 12,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://d2bokxcjrqpzdp.cloudfront.net/50be51436e0333a6b75e25951c3ca62b",
+          "filename": "50be51436e0333a6b75e25951c3ca62b",
+          "alt": "Colonial Van Lines Logo",
+          "caption": "Colonial Van Lines Logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://d2bokxcjrqpzdp.cloudfront.net/c1faea0e7ac3a550d6b2b16cc7e1db41.png",
+          "filename": "c1faea0e7ac3a550d6b2b16cc7e1db41.png",
+          "alt": "Safeway Moving Logo",
+          "caption": "Safeway Moving Logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://d2bokxcjrqpzdp.cloudfront.net/a73b21ba8ee1526c6889f0b95931f817",
+          "filename": "a73b21ba8ee1526c6889f0b95931f817",
+          "alt": "American Van Lines Logo",
+          "caption": "American Van Lines Logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://d2bokxcjrqpzdp.cloudfront.net/9af9cc36aa7caad9b224840925c9c65b.png",
+          "filename": "9af9cc36aa7caad9b224840925c9c65b.png",
+          "alt": "Company Logo",
+          "caption": "Company Logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://d2bokxcjrqpzdp.cloudfront.net/fae12ac7b967d8af8612f5ec519e5e43.png",
+          "filename": "fae12ac7b967d8af8612f5ec519e5e43.png",
+          "alt": "Company Logo",
+          "caption": "Company Logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://d2bokxcjrqpzdp.cloudfront.net/90f84bbc109dbfe0dcf17a79b59f23e1.jpg",
+          "filename": "90f84bbc109dbfe0dcf17a79b59f23e1.jpg",
+          "alt": "Company Logo",
+          "caption": "NYC Great Movers Logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://d2bokxcjrqpzdp.cloudfront.net/a88c414148abb2be67c5c20ac2b58368.png",
+          "filename": "a88c414148abb2be67c5c20ac2b58368.png",
+          "alt": "Company Logo",
+          "caption": "Roadway Moving Logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://d2bokxcjrqpzdp.cloudfront.net/008c35d3708005931a6d40a9cd837bda.png",
+          "filename": "008c35d3708005931a6d40a9cd837bda.png",
+          "alt": "Company Logo",
+          "caption": "Piece of Cake Moving & Storage Logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://d2bokxcjrqpzdp.cloudfront.net/34f3555aabc9f057df599b5f3d422738",
+          "filename": "34f3555aabc9f057df599b5f3d422738",
+          "alt": "Allied Van Lines logo",
+          "caption": "Allied Van Lines logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://d2bokxcjrqpzdp.cloudfront.net/ef43ee2058871da96c14e38b14f59b3c",
+          "filename": "ef43ee2058871da96c14e38b14f59b3c",
+          "alt": "Mayzlin Relocation logo",
+          "caption": "Mayzlin Relocation logo",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:29:50.388788"
+}

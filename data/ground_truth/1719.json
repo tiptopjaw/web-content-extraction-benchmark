@@ -1,27 +1,89 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.publishersweekly.com/pw/by-topic/new-titles/index.html",
   "file_id": "1719",
-  "downloaded_at": "2025-12-20T22:16:36.413342",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "publishing",
+        "books",
+        "previews",
+        "category-listing"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "New and Upcoming Books, Seasonal Book Listings | Publishers Weekly",
     "author": null,
     "publish_date": null,
-    "main_content": "Adult Previews\nBooks for At-Home Entertaining\nAuthors roll out the welcome mat with new books on hosting, gathering, and party planning more...\nCocktail Books for All Types of Drinkers\nLow- and no-booze options cater to the health-conscious and sober-curious. more...\nMysteries & Thrillers in Translation\nAuthors speak the universal language of crime fiction. more...\nAdult Books for Spring 2026\nBy David Adams\nOur editors have sifted through thousands of submissions to bring you the season’s most notable new releases, from game-changing histories to high-voltage romantasies. more...\nPersonal Finance Books for Today’s Economy\nBy Liz Scheier\nNew titles help readers navigate a changing financial picture. more...\nRecently Posted:\nSpring 2026 Fiction & Nonfiction Preview: SF, Fantasy & Horror\nBy Phoebe Cramer | 12/05/2025 @ 07:00PM\nFairy-tale elements dominate this season’s fantasies, gothic atmosphere pervades the horror novels, and tech-based anxiety animates the sci-fi outings.\nSpring 2026 Fiction & Nonfiction Preview: Science\nBy Marisa Charpentier | 12/05/2025 @ 07:00PM\nSpace exploration, debates over AI, and stories of wildlife resilience headline this season’s science titles.\nSpring 2026 Fiction & Nonfiction Preview: Romance & Erotica\nBy Phoebe Cramer | 12/05/2025 @ 07:00PM\nThis season’s offerings balance the light—from Regencies to rom-coms—with the dark, including angsty romantasies and high-heat horror.\nSpring 2026 Fiction & Nonfiction Preview: Politics & Current Events\nBy Dana Snitzky | 12/05/2025 @ 07:00PM\nGovernment malfeasance, the consequences of too much tech, and the emotional lives of medical caregivers are spotlighted in spring’s current affairs titles.\nSpring 2026 Fiction & Nonfiction Preview: Poetry\nBy Maya Popa | 12/05/2025 @ 07:00PM\nAlongside collections confronting political upheaval and technological acceleration are works that celebrate place, art, and the enduring power of literature.\nSpring 2026 Fiction & Nonfiction Preview: Mysteries & Thrillers\nby Conner Reed | 12/05/2025 @ 07:00PM\nOn tap this season: promising debuts, provocative prequels, and new novels from Jessica Knoll and Jo Nesbø.\nSpring 2026 Fiction & Nonfiction Preview: Memoirs & Biographies\nby Conner Reed | 12/05/2025 @ 07:00PM\nThis season features self-portraits from pop culture personalities including Liza Minnelli and Lena Dunham, plus biographies of literary luminaries.\nSpring 2026 Fiction & Nonfiction Preview: Literary Fiction\nBy David Varno | 12/05/2025 @ 07:00PM\nIn spring’s most anticipated novels, the bonds of families and friends are stretched to the breaking point and the past rears its ugly head.\nSpring 2026 Fiction & Nonfiction Preview: Lifestyle\nBy Miriam Grossman | 12/05/2025 @ 07:00PM\nSpring brings explorations of the complexities of women’s healthcare, social connections in the digital age, and the search for purpose in a volatile world.\nSpring 2026 Fiction & Nonfiction Preview: History\nBy Dana Snitzky | 12/05/2025 @ 07:00PM\nThis season, culture wars and their origins are dissected, fascism and its opponents are profiled, and enclaves of the rich and famous are infiltrated.",
+    "main_content": "Publishers Weekly Previews section featuring upcoming book releases and announcements. The page includes featured articles and recently posted previews across various categories including Adult Previews with Spring 2026 Fiction & Nonfiction previews spanning Science Fiction/Fantasy/Horror, Science, Romance & Erotica, Politics & Current Events, Poetry, Mysteries & Thrillers, Memoirs & Biographies, Literary Fiction, Lifestyle, and History. Featured articles include Adult Books for Spring 2026 by David Adams highlighting game-changing histories and high-voltage romantasies, Personal Finance Books for Today's Economy by Liz Scheier helping readers navigate changing financial picture, Books for At-Home Entertaining featuring new books on hosting and party planning, Cocktail Books for All Types of Drinkers covering low- and no-booze options, and Mysteries & Thrillers in Translation showcasing international crime fiction.",
     "with": [
-      "Our editors have sifted through thousands of submissions to bring you the season’s most notable new releases, from game-changing histories to high-voltage romantasies.",
-      "Fairy-tale elements dominate this season’s fantasies, gothic atmosphere pervades the horror novels, and tech-based anxiety animates the sci-fi outings.",
-      "Space exploration, debates over AI, and stories of wildlife resilience headline this season’s science titles.",
-      "This season’s offerings balance the light—from Regencies to rom-coms—with the dark, including angsty romantasies and high-heat horror.",
-      "In spring’s most anticipated novels, the bonds of families and friends are stretched to the breaking point and the past rears its ugly head."
+      "Authors speak the universal language of crime fiction.",
+      "Space exploration, debates over AI, and stories of wildlife resilience headline this season's science titles.",
+      "Government malfeasance, the consequences of too much tech, and the emotional lives of medical caregivers are spotlighted in spring's current affairs titles.",
+      "Our editors have sifted through thousands of submissions to bring you the season's most notable new releases, from game-changing histories to high-voltage romantasies.",
+      "Alongside collections confronting political upheaval and technological acceleration are works that celebrate place, art, and the enduring power of literature."
     ],
     "without": [
-      "ADVERTISEMENT",
-      "Free newsletters on business news, kids' books, and more.",
-      "Home > Previews",
-      "© PWxyz, LLC. All rights reserved. PUBLISHERS WEEKLY and the PW Logo are trademarks of PWxyz, LLC.",
-      "Search Publishers Weekly"
-    ]
+      "Subscribe to newsletter",
+      "Login or Logout",
+      "Privacy Policy",
+      "Footer navigation links",
+      "Cookie notice or loading indicators"
+    ],
+    "images": {
+      "total_in_content": 14,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "/images/cached/ARTICLE_PHOTO/photo/000/000/125/125415-v1-75x75.JPG",
+          "filename": "125415-v1-75x75.JPG",
+          "alt": null,
+          "caption": "Mysteries & Thrillers in Translation article thumbnail",
+          "is_hero": false
+        },
+        {
+          "src": "/images/cached/ARTICLE_PHOTO/photo/000/000/125/125771-v1-150x.JPG",
+          "filename": "125771-v1-150x.JPG",
+          "alt": null,
+          "caption": "Adult Books for Spring 2026 featured article",
+          "is_hero": true
+        },
+        {
+          "src": "/images/cached/ARTICLE_PHOTO/photo/000/000/125/125588-v1-150x.JPG",
+          "filename": "125588-v1-150x.JPG",
+          "alt": null,
+          "caption": "Personal Finance Books for Today's Economy article",
+          "is_hero": false
+        },
+        {
+          "src": "/images/cached/LINK_SET_LINK/graphic/000/000/084/84285-v1-109x.PNG",
+          "filename": "84285-v1-109x.PNG",
+          "alt": null,
+          "caption": "PW Best Books 2025",
+          "is_hero": false
+        },
+        {
+          "src": "/images/cached/LINK_SET_LINK/graphic/000/000/076/76797-v3-109x.JPG",
+          "filename": "76797-v3-109x.JPG",
+          "alt": null,
+          "caption": "The Big Indie Books of Fall 2025",
+          "is_hero": false
+        },
+        {
+          "src": "/images/cached/ARTICLE_PHOTO/photo/000/000/119/119480-v2-109x.JPG",
+          "filename": "119480-v2-109x.JPG",
+          "alt": null,
+          "caption": "12 Genre-Stretching Works of Fiction",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:16:36.413349"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:59:12.925304"
 }

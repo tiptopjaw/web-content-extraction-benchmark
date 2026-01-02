@@ -1,27 +1,54 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.ubiquitypress.com/books/m/10.5334/bde",
   "file_id": "2637",
-  "downloaded_at": "2025-12-21T00:03:50.192859",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "academic",
+        "monograph",
+        "AI",
+        "philosophy"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Understanding Conversational AI",
     "author": "Thierry Poibeau",
     "publish_date": "2025-12-16",
-    "main_content": "Understanding Conversational AI\nPhilosophy, Ethics, and Social Impact of Large Language Models\n\nWhat do large language models really know—and what does it mean to live alongside them?\n\nThis book offers a critical and interdisciplinary exploration of large language models (LLMs), examining how they reshape our understanding of language, cognition, and society. Drawing on philosophy of language, linguistics, cognitive science, and AI ethics, it investigates how these models generate meaning, simulate reasoning, and perform tasks that once seemed uniquely human—from translation to moral judgment and literary creation.\n\nRather than offering a purely technical account, the book interrogates the epistemic, ethical, and political dimensions of LLMs. It explores their limitations, their embedded biases, and their role in processes of automation, misinformation, and platform enclosure. At the same time, it reflects on how LLMs prompt us to revisit fundamental questions: What is understanding? What is creativity? How do we ascribe agency or trust in a world of synthetic language?\n\nWritten for scholars, students, and curious readers across the humanities, social sciences, and computer science, this is both a philosophical inquiry and a practical guide to navigating the era of generative AI. It invites readers to think critically about the promises and perils of language technologies—and about the kind of future we are shaping with them.\n\nChapters:\n1. Introduction. Speaking machines, thinking humans\n2. Latent linguistics: the conception of language in large language models\n3. From the design of large language models to a reassessment of linguistic theory\n4. Large language models and the future of writing\n5. Large language models and reasoning, the boundaries of mind and consciousness\n6. Large language models and creativity\n7. Moral reasoning and synthetic judgment in large language models\n8. Large language models and critical thinking: bias, social impact, and political implications\n9. Disinformation, misinformation, and the crisis of trust in AI-generated content\n10. Ethics at scale\n11. Conclusion. Thinking with machines\n12. Annex. The architecture and training of large language models\n\nAuthor: Thierry Poibeau\nInstitution: CNRS & ENS-PSL\nDepartment: Laboratoire Lattice\nCountry: France\nBiography: Thierry Poibeau is a CNRS Research Director based in Paris at the École normale supérieure-PSL. He is also a fellow of PRAIRIE-PSAI (Paris Artificial Intelligence Research Institute – Paris School of Artificial Intelligence). His research focuses primarily on natural language processing, computational humanities, and the societal impact of artificial intelligence.\n\nPublication Details:\n- Publisher: Ubiquity Press\n- Publication Date: December 16, 2025\n- Pages: 270\n- Language: English\n- DOI: https://doi.org/10.5334/bde\n- ISBNs: Paperback 978-1-914481-70-3, PDF 978-1-914481-71-0, EPUB 978-1-914481-72-7, MOBI 978-1-914481-73-4\n- License: CC BY-NC 4.0\n- Peer Review: This work has been peer reviewed.\n\nDisciplines: Artificial intelligence, Cognitive Science, Computer Science, Education, Linguistics, Philosophy\nKeywords: AI and ethics, Computational Linguistics, Epistemology of AI, Generative Models, Philosophy of Language, Large Language Models\nWikipedia Concepts: Cognitive Science, Linguistics, Philosophy Of Language, Cognition, Language Technologies, Synthetic Language, Ai Ethics\nSDG Alignments: Quality Education, Decent Work and Economic Growth, Industry, Innovation and Infrastructure",
+    "main_content": "What do large language models really know—and what does it mean to live alongside them? This book offers a critical and interdisciplinary exploration of large language models (LLMs), examining how they reshape our understanding of language, cognition, and society. Drawing on philosophy of language, linguistics, cognitive science, and AI ethics, it investigates how these models generate meaning, simulate reasoning, and perform tasks that once seemed uniquely human—from translation to moral judgment and literary creation. Rather than offering a purely technical account, the book interrogates the epistemic, ethical, and political dimensions of LLMs. It explores their limitations, their embedded biases, and their role in processes of automation, misinformation, and platform enclosure. At the same time, it reflects on how LLMs prompt us to revisit fundamental questions: What is understanding? What is creativity? How do we ascribe agency or trust in a world of synthetic language? Written for scholars, students, and curious readers across the humanities, social sciences, and computer science, this is both a philosophical inquiry and a practical guide to navigating the era of generative AI. It invites readers to think critically about the promises and perils of language technologies—and about the kind of future we are shaping with them.",
     "with": [
       "What do large language models really know—and what does it mean to live alongside them?",
-      "This book offers a critical and interdisciplinary exploration of large language models (LLMs), examining how they reshape our understanding of language, cognition, and society.",
-      "Rather than offering a purely technical account, the book interrogates the epistemic, ethical, and political dimensions of LLMs.",
-      "Written for scholars, students, and curious readers across the humanities, social sciences, and computer science, this is both a philosophical inquiry and a practical guide to navigating the era of generative AI.",
-      "Thierry Poibeau is a CNRS Research Director based in Paris at the École normale supérieure-PSL."
+      "This book offers a critical and interdisciplinary exploration of large language models (LLMs)",
+      "Drawing on philosophy of language, linguistics, cognitive science, and AI ethics",
+      "Rather than offering a purely technical account, the book interrogates the epistemic, ethical, and political dimensions of LLMs",
+      "What is understanding? What is creativity? How do we ascribe agency or trust in a world of synthetic language?"
     ],
     "without": [
       "Skip to main content",
-      "Ubiquity Press",
-      "About Books Journals Publishing Services Research Integrity",
-      "Click on the tabs below to view various metrics for this book.",
-      "Search Ubiquity Press"
-    ]
+      "Search Ubiquity Press",
+      "Published Books | Ubiquity Press",
+      "Download metadata | BibTeX",
+      "Peer Review Policy"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Frua-up%2Ffiles%2Fmedia%2Fcover_images%2Fa80e0d5b-d90c-4edf-902f-7c14c144e310.png&w=828&q=75",
+          "filename": "image",
+          "alt": null,
+          "caption": "Book cover for Understanding Conversational AI",
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-21T00:03:50.192866"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:34:20.416873"
 }

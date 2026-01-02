@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.gse.harvard.edu/ideas/edcast/25/11/how-high-impact-tutoring-reshaping-post-pandemic-learning-recovery",
+  "file_id": "1699",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "policy",
+        "tutoring",
+        "pandemic",
+        "learning-recovery"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "How High-Impact Tutoring Is Reshaping Post-Pandemic Learning Recovery",
+    "author": "Liz Cohen",
+    "publish_date": null,
+    "main_content": "Harvard Ed Press author Liz Cohen discusses one of the most promising strategies for helping students recover from pandemic learning loss. The article explores how high-impact tutoring programs are being implemented across schools to address educational gaps created by the COVID-19 pandemic. These tutoring approaches involve one-on-one or small group instruction designed to provide targeted academic support. Schools and districts are increasingly adopting evidence-based tutoring models that show significant promise in accelerating student learning. The strategy focuses on personalized attention and intensive intervention to help struggling students catch up.",
+    "with": [
+      "Harvard Ed Press author Liz Cohen discusses one of the most promising strategies for helping students recover from pandemic learning loss",
+      "How High-Impact Tutoring Is Reshaping Post-Pandemic Learning Recovery",
+      "The article explores how high-impact tutoring programs are being implemented across schools to address educational gaps",
+      "These tutoring approaches involve one-on-one or small group instruction designed to provide targeted academic support",
+      "Schools and districts are increasingly adopting evidence-based tutoring models that show significant promise"
+    ],
+    "without": [
+      "Skip to main content",
+      "Harvard Graduate School of Education",
+      "Drupal 10",
+      "Privacy Policy",
+      "Cookie notice"
+    ],
+    "images": {
+      "total_in_content": 5,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "/sites/default/files/styles/16x9__focal_point_scale_and_crop__md/public/2025-11/elementary_tutor_student.jpg?h=dc9b1378&itok=DKE05msF",
+          "filename": "elementary_tutor_student.jpg",
+          "alt": "Male tutor with elementary student in library",
+          "caption": "Male tutor with elementary student in library",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:52:07.583048"
+}

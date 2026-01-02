@@ -1,0 +1,83 @@
+{
+  "schema_version": "2.0",
+  "url": "https://blog.logrocket.com/tested-5-ai-cli-tools",
+  "file_id": "2401",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "ai",
+        "cli",
+        "developer-tools",
+        "comparison"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "I tested 5 AI CLI tools: Here's how they stack up",
+    "author": "Emmanuel John",
+    "publish_date": "2025-12-18",
+    "main_content": "AI coding CLIs are quickly becoming must-have tools for developers, but not all of them are worth your time. To see which ones actually deliver, I tested five AI CLI tools by building the same application with each and evaluating them on four dimensions: code quality, speed, ease of use, and reliability. In this article, we'll explore how each tool performs in practice, where they fall short, and which ones genuinely fit into a real-world workflow, so you can choose the right one with confidence.\n\nFor a fair, apples-to-apples comparison, I ran all five CLIs against the same React codebase, scaffolded with Vite. Tailwind CSS was already set up. I duplicated this boilerplate five times and used each copy as the starting point for one CLI. Each tool was asked to build the same Todo app using React and TypeScript. The AI CLIs tested were: Gemini CLI, Qwen CLI, Crush CLI, Kilocode CLI, and Codex CLI.\n\nFor each tool, I focused on core questions: Does it generate production-ready code? What's the code quality and overall UX? Is the logic clean and concise? How long does it take to get there?\n\nGemini CLI is a free, open-source AI agent that brings Gemini's capabilities right into your terminal. The generated code was production-ready, but the UX fell short. There's no Enter key support for adding todos, and completion is toggled by clicking the text instead of a checkbox. That said, the logic was clean and easy to follow. Gemini CLI completed the task in under two minutes.\n\nQwen CLI is a research-purpose clone of Gemini CLI. Just like Gemini CLI, it is completely free to use. Qwen CLI used more than 2 minutes to come up with the test application. The generated code included proper TypeScript interfaces, Enter key support for submitting todos, and checkbox inputs for toggling completion.",
+    "with": [
+      "AI coding CLIs are quickly becoming must-have tools for developers, but not all of them are worth your time.",
+      "To see which ones actually deliver, I tested five AI CLI tools by building the same application with each and evaluating them on four dimensions: code quality, speed, ease of use, and reliability.",
+      "The AI CLIs tested were: Gemini CLI, Qwen CLI, Crush CLI, Kilocode CLI, and Codex CLI.",
+      "Does it generate production-ready code? What's the code quality and overall UX? Is the logic clean and concise? How long does it take to get there?",
+      "Gemini CLI is a free, open-source AI agent that brings Gemini's capabilities right into your terminal."
+    ],
+    "without": [
+      "Subscribe to The Replay newsletter",
+      "LogRocket blog logo",
+      "Navigation menu items",
+      "Galileo AI promotional content",
+      "Table of contents sidebar"
+    ],
+    "images": {
+      "total_in_content": 32,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://blog.logrocket.com/wp-content/uploads/2025/12/5-cli-tools.png",
+          "filename": "5-cli-tools.png",
+          "alt": null,
+          "caption": "5 CLI tools featured image",
+          "is_hero": true
+        },
+        {
+          "src": "https://blog.logrocket.com/wp-content/uploads/2025/12/image12.png",
+          "filename": "image12.png",
+          "alt": null,
+          "caption": "Testing Gemini CLI interface",
+          "is_hero": false
+        },
+        {
+          "src": "https://blog.logrocket.com/wp-content/uploads/2025/12/image9.gif",
+          "filename": "image9.gif",
+          "alt": null,
+          "caption": "GIF showing Gemini CLI behavior in action",
+          "is_hero": false
+        },
+        {
+          "src": "https://blog.logrocket.com/wp-content/uploads/2025/12/image13.png",
+          "filename": "image13.png",
+          "alt": null,
+          "caption": "Testing Qwen CLI interface",
+          "is_hero": false
+        },
+        {
+          "src": "https://blog.logrocket.com/wp-content/uploads/2025/12/image5.gif",
+          "filename": "image5.gif",
+          "alt": null,
+          "caption": "GIF demonstrating CLI functionality",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:04:54.655639"
+}

@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ft.com/streaming-services",
+  "file_id": "0576",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "news",
+        "streaming",
+        "media",
+        "entertainment"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Streaming services",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Latest news, analysis and opinion on Streaming services. This Financial Times topic page aggregates coverage of the streaming industry including the major news that Netflix has agreed to acquire Warner Bros Discovery in a landmark $83bn deal. Coverage examines the key players in the battle for Warner Bros including Saudi Arabia's crown prince and California tech moguls. Reports detail how Hollywood is shocked by the looming sale and how the deal stands to undercut earnings for virtually every other segment of the industry. Analysis explores Netflix's antitrust implications and how the streaming pioneer has upended the industry over two decades. Coverage also includes reports on Paramount's competing offer with assistance from Jared Kushner and Middle East funds, job concerns from actors and screenwriters, and Disney's performance as its film and TV units slide. Additional stories cover Spotify's planned US price increases and David Ellison's overtures for Warner Bros.",
+    "with": [
+      "Netflix has agreed to acquire Warner Bros Discovery in a landmark $83bn deal.",
+      "Who matters in the battle for Warner Bros? From Saudi Arabia's crown prince to California tech moguls, key players in the fight for a celebrated Hollywood institution.",
+      "Hollywood is shocked: Warner Bros sale looms large over movie industry, with deal set to undercut earnings for virtually every other segment.",
+      "Paramount gatecrashes Warner Bros-Netflix deal with Jared Kushner and Middle East funds assisting with all-cash offer.",
+      "The Netflix age has been great for consumers but terrible for artists as returns to musicians and writers are dwindling fast."
+    ],
+    "without": [
+      "Sign In",
+      "Subscribe",
+      "Search for stories, topics or securities",
+      "Accessibility help",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 26,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faede97ea-3239-4413-85bc-413e56e6f620.jpg?source=next&fit=scale-down&dpr=2&width=240",
+          "filename": "https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faede97ea-3239-4413-85bc-413e56e6f620.jpg",
+          "alt": "Netflix logo over the Warner Bros logo, surrounded by small circular portraits of various public figures on a dark background",
+          "caption": "Netflix logo over the Warner Bros logo, surrounded by small circular portraits of various public figures on a dark background",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F449e2d25-132e-454d-8bd0-293750aaecc9.jpg?source=next&fit=scale-down&dpr=2&width=240",
+          "filename": "https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F449e2d25-132e-454d-8bd0-293750aaecc9.jpg",
+          "alt": "A Warner Bros. clapperboard in front of Paramount and Netflix logos on a pink background.",
+          "caption": "A Warner Bros. clapperboard in front of Paramount and Netflix logos on a pink background",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F374e1550-03f7-4f92-8aad-b4f219667ee2.jpg?source=next&fit=scale-down&dpr=2&width=240",
+          "filename": "https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F374e1550-03f7-4f92-8aad-b4f219667ee2.jpg",
+          "alt": "A large mural on a Netflix building advertises \"Stranger Things 5\" with illustrated characters and release dates.",
+          "caption": "A large mural on a Netflix building advertises Stranger Things 5 with illustrated characters and release dates",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9e0c9185-9cbf-4520-a245-2b30cd2592b2.jpg?source=next&fit=scale-down&dpr=2&width=240",
+          "filename": "https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9e0c9185-9cbf-4520-a245-2b30cd2592b2.jpg",
+          "alt": "The Warner Bros water tower stands behind trees and a street sign for Olive Ave near a red traffic light.",
+          "caption": "The Warner Bros water tower stands behind trees and a street sign for Olive Ave near a red traffic light",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff7bfc2c9-22d3-4a10-b80b-39f157a3d55a.jpg?source=next&fit=scale-down&dpr=2&width=240",
+          "filename": "https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff7bfc2c9-22d3-4a10-b80b-39f157a3d55a.jpg",
+          "alt": "Illustration of a man in a black tuxedo holding in one hand a silver tray with half a loaf of bread, a box of eggs and a bottle of milk on it, and a silver cloche in his other hand. Next to him is a woman in a red dress wearing a headset with a microphone and carrying a tray with takeaway boxes, one containing a Netflix box and the other a small trumpet.",
+          "caption": "Illustration of a man in a black tuxedo holding a silver tray with bread, eggs and milk, with a woman in a red dress wearing a headset",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9e413864-9df5-49f4-ba7c-908fd9442c24.jpg?source=next&fit=scale-down&dpr=2&width=240",
+          "filename": "https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9e413864-9df5-49f4-ba7c-908fd9442c24.jpg",
+          "alt": "The Netflix logo on a studio building with the Hollywood sign visible in the distance on a hillside.",
+          "caption": "The Netflix logo on a studio building with the Hollywood sign visible in the distance on a hillside",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff3d694be-e1d0-4fcb-b1e0-2a13fdcbc8d4.jpg?source=next&fit=scale-down&dpr=2&width=240",
+          "filename": "https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff3d694be-e1d0-4fcb-b1e0-2a13fdcbc8d4.jpg",
+          "alt": "Netflix logo atop Sunset Bronson Studios office building with the Hollywood sign visible in the distant hills.",
+          "caption": "Netflix logo atop Sunset Bronson Studios office building with the Hollywood sign visible in the distant hills",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Febc61bbf-6108-4073-ba59-ac0bdf6cf760.jpg?source=next&fit=scale-down&dpr=2&width=240",
+          "filename": "https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Febc61bbf-6108-4073-ba59-ac0bdf6cf760.jpg",
+          "alt": "Warner Bros. and Netflix logos with characters from 'Sinners', 'Harry Potter and the Chamber of Secrets', 'Stranger Things', and 'House of Guinness'.",
+          "caption": "Warner Bros. and Netflix logos with characters from Sinners, Harry Potter and the Chamber of Secrets, Stranger Things, and House of Guinness",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4e172c96-c862-4a52-8198-31b65b420a8b.jpg?source=next&fit=scale-down&dpr=2&width=240",
+          "filename": "https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4e172c96-c862-4a52-8198-31b65b420a8b.jpg",
+          "alt": "A woman walks past a large red Netflix logo on a purple wall at a stand.",
+          "caption": "A woman walks past a large red Netflix logo on a purple wall at a stand",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F40c47c48-551e-45f8-99c9-b6aa0d4a0676.jpg?source=next&fit=scale-down&dpr=2&width=240",
+          "filename": "https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F40c47c48-551e-45f8-99c9-b6aa0d4a0676.jpg",
+          "alt": "Actors in the Harry Potter film stand together in a Hogwarts corridor.",
+          "caption": "Actors in the Harry Potter film stand together in a Hogwarts corridor",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:29:04.412804"
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.shoemakingcoursesonline.com/on-line-courses/",
+  "file_id": "1667",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "shoemaking",
+        "online-courses",
+        "education",
+        "crafts",
+        "catalog"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Shoe making Courses: Watch. Learn. Make Shoes",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Online Shoemaking Courses & Programs: Watch. Learn. Make Shoes. Shoe making courses on this platform provide a structured pathway to mastering the craft of shoe making and shoe design. Starting with the foundational concepts, learners progress through every aspect of creating a shoe, from insole formation to intricate exterior design. Detailed modules guide you through custom shoe creation processes, shoe construction methodologies, and techniques to ensure optimal fit and comfort. By the course's conclusion, participants will possess the technical know-how to design, construct, and refine shoes professionally.\n\nAll-Included Course Program. Get all my course to watch & download. 24 Courses | 550 Hours | Full Shoemaking Library. Price: €511 x3.\n\nBeginners Shoemaking Program. 8 Courses | 100 Hours | Fundamentals Included. Price: €537.\n\nComprehensive Shoemaking Programs include Beginners Pro and ShoemakerPro Programs. Beginners Pro is tailored for those who are new to shoemaking with 8 shoemaking classes created with newcomers in mind. ShoemakerPro education is a longer program that includes 24 shoemaking classes that start with the most basic shoe types and progress gradually to more complex courses.\n\nAdvanced Shoemaking Courses include English Welted Brogue Oxford Men's Shoe Course (25 Lessons | 23 Hours | €457), Bespoke Derby Handsewn Opanka Shoes Course (29 Lessons | 31 Hours | €457), Dr. Martens Boots Course (19 Lessons | 21 Hours | €457), Sneakers Making Course (20 Lessons | 25 Hours | €357), Footwear Design Course (14 Lessons | 135 Hours | €257), How To Make Moccasins Course (31 Lessons | 33 Hours | €237), Ankle Women Boot Course (8 Lessons | 10 Hours | €187), T strap Pump Shoes Course (21 Lessons | 23 Hours | €207), Slingback Pumps Shoes Course (15 Lessons | 15 Hours | €187), Unisex Sandals Course (13 Lessons | 13 Hours | €187), High Women Boot Course (14 Lessons | 16 Hours | €190).\n\nThemed Shoemaking Bundles include Boots Making Bundle Courses (2 Courses | 23 Hours | €297), How to Make Men's Shoes Bundle (8 Courses | 68 Hours), Flat Ballets Program (8 Courses | 47 Hours), Sandals Making Bundle (4 Courses | 56 Hours).\n\nBeginner Shoemaking Courses include Ballets Flat Shoe Course (8 Lessons | 12 Hours | €160), Loafers Making Online Course (20 Lessons | 23 Hours | €287), Barefoot Shoes Course (24 Lessons | 31 Hours | €327), Kids T-Bar Shoe Course (16 Lessons | 13 Hours | €297), LIVE Shoemaking Courses (Live Q&A Sessions), Fashionable Ballet Flat Shoes From Fabric Course (10 Lessons | 12 Hours | €160), High Heel Pump Shoes Course (14 Lessons | 16 Hours | €167), Oxford Shoes Course (15 Lessons | 16 Hours | €207), One Cut Oxford Shoes Course (13 Lessons | 13 Hours | €197), Wedge Cork Sandals Course (26 Lessons | 26 Hours | €207).\n\nSpecialized Techniques Courses include How to Make Heels Course (1 Course | 3 Hours), Creating Handmade Midsole Course (1 Course | 2 Hours), Change Your Last Form (1 Course | 3.5 Hours), Shoe Last Measurements and Basic pattern (1 Course | 2 Hours), Creating Alternative Bespoke Outsole Course (1 Course | 3 Hours).\n\nMen's Shoe Courses include English Welted Brogue Oxford Men's Shoe Course, Dr. Martens Boots Course, Sneakers Making Course, How To Make Moccasins Course, Unisex Sandals Course, Men's Beginners Shoemaking Program (45 Lessons | 49 Hours).\n\nReal Students. Real Results. The first shoemaking course here on the platform opened in July 2013, and since then over 3000 students from every corner of our planet took these courses.",
+    "with": [
+      "The first shoemaking course here on the platform opened in July 2013, and since then over 3000 students from every corner of our planet took my courses.",
+      "Shoe making courses on this platform provide a structured pathway to mastering the craft of shoe making and shoe design.",
+      "By the course's conclusion, participants will possess the technical know-how to design, construct, and refine shoes professionally.",
+      "The ShoemakerPro education is a longer program that includes 24 shoemaking classes that start with the most basic shoe types and progress gradually to more complex courses.",
+      "These comprehensive courses guide you seamlessly, from the initial design sketched on the shoe last to the proud moment of completing a finished pair."
+    ],
+    "without": [
+      "©2025, Shoemaking Courses Online",
+      "Privacy Policy | Terms and Conditions | Refund policy",
+      "Log in",
+      "Social media icons and links",
+      "Payment processing and security badges"
+    ],
+    "images": {
+      "total_in_content": 2,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:42:40.162286"
+}

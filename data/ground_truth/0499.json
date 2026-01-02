@@ -1,0 +1,76 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.blockchain.com/learning-portal",
+  "file_id": "0499",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "cryptocurrency",
+        "learning",
+        "blockchain",
+        "tutorials"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Learning Portal | Blockchain.com",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Learning Portal - Beginner guides, practical tips, and market updates for first-timers, experienced investors, and everyone in between. Crypto Courses: A good place to start. Get the low-down before you dive in. Courses available in categories including How To, Wallet, Investing, DeFi, Trading, Tips & Tricks, History, Security, Memecoins. Featured course: How do I buy crypto? - Buy Bitcoin, Ethereum, and more with a Blockchain.com Wallet. Buy crypto with USD, GBP, EUR, NGN. By Token: Learn about tokens and their underlying values. Available tokens include Zetachain - leveraging advanced blockchain technology to enhance connectivity and functionality across networks, Solana - high-performance blockchain enabling fast, low-cost decentralized applications and transactions, and Dogecoin - created as a light-hearted joke in 2013, this meme-inspired token has found global adoption and internet hype. How to Guides: Get Started with Blockchain.com with tutorials covering how to buy crypto, how to swap crypto-to-crypto, how to sell crypto, how to setup a Recurring Buy, and how to use the DEX Aggregator. Buy and sell crypto in minutes by simply verifying your ID, adding a payment method, and buying crypto. More about Blockchain.com: Learn about the company's history, executive team, careers, institutional services, and developer APIs.",
+    "with": [
+      "Beginner guides, practical tips, and market updates for first-timers, experienced investors, and everyone in between.",
+      "How do I buy crypto? Buy Bitcoin, Ethereum, and more with a Blockchain.com Wallet.",
+      "Zetachain - leveraging advanced blockchain technology to enhance connectivity and functionality across networks.",
+      "Solana - High-performance blockchain, enabling fast, low-cost decentralized applications and transactions.",
+      "Dogecoin - Created as a light-hearted joke in 2013, this meme-inspired token has found global adoption and internet hype."
+    ],
+    "without": [
+      "Beginner Guides",
+      "By Token",
+      "Support Portal",
+      "Get started",
+      "Scan to Download"
+    ],
+    "images": {
+      "total_in_content": 9,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://cdn.buttercms.com/LHfbo4lrS965JvNbwvnw",
+          "filename": "LHfbo4lrS965JvNbwvnw",
+          "alt": "How do I buy crypto?",
+          "caption": "How do I buy crypto?",
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn.buttercms.com/uJ2YBf6TQtS3H9MDybOs",
+          "filename": "uJ2YBf6TQtS3H9MDybOs",
+          "alt": "Zetachain",
+          "caption": "Zetachain - Exploring Zetachain leveraging advanced blockchain technology",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.buttercms.com/3pCUr1XTRh2Qum3Ebucg",
+          "filename": "3pCUr1XTRh2Qum3Ebucg",
+          "alt": "Solana",
+          "caption": "Solana - High-performance blockchain for fast, low-cost decentralized applications",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.buttercms.com/CTo2GBkaStqu6oEYYbCX",
+          "filename": "CTo2GBkaStqu6oEYYbCX",
+          "alt": "Dogecoin",
+          "caption": "Dogecoin - Created as a light-hearted joke in 2013, this meme-inspired token",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:09:46.252093"
+}

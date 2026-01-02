@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.movers.com/cheap-movers-jackson-nj/",
+  "file_id": "0455",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "moving-services",
+        "local-business",
+        "lead-generation",
+        "jackson-nj"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Trusted Cheap Movers – Jackson, NJ",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Find licensed and low-cost movers in Jackson, NJ. Get free budget quotes, compare affordable moving services, and plan your value-driven relocation with ease. The page provides a multi-step moving cost calculator to help users get free estimates. Recent quotes from cheap movers in Jackson show prices starting as low as $560 for partial home moves within the city, $580 for small bedroom moves to nearby Lakewood, and up to $5280 for large moves to Texas. The service helps connect customers with verified, licensed moving professionals. Trust indicators include BBB Accredited Business status, FMCSA registration, and IAM certification.",
+    "with": [
+      "Find licensed and low-cost movers in Jackson, NJ. Get free budget quotes, compare affordable moving services, and plan your value-driven relocation with ease.",
+      "Prices starting as low as $560 for a partial home move within the city, or $580 for a small bedroom move to nearby Lakewood.",
+      "Moving Size: 1 Small Bedroom, Weight in Lbs: 3150, Estimate: $580.",
+      "BBB Accredited Business - Verified trustworthy moving company.",
+      "Department of Transportation certified movers available through our network."
+    ],
+    "without": [
+      "Services navigation menu with links to Local Movers, Long Distance Movers, International Movers",
+      "States navigation with links to all 50 US states",
+      "Secure & Private trust icon in quote form",
+      "Best Price Guarantee badge",
+      "Cookie consent notice"
+    ],
+    "images": {
+      "total_in_content": 43,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "/images25/cityOtherService/cheap-movers-bnr.jpg",
+          "filename": "cheap-movers-bnr.jpg",
+          "alt": "Cheap Mover Banner Image",
+          "caption": "Cheap Mover Banner Image",
+          "is_hero": true
+        },
+        {
+          "src": "/images/our-vendors/1.png",
+          "filename": "1.png",
+          "alt": "Vendor 1",
+          "caption": "Vendor 1 moving company logo",
+          "is_hero": false
+        },
+        {
+          "src": "/images/our-vendors/2.png",
+          "filename": "2.png",
+          "alt": "Vendor 2",
+          "caption": "Vendor 2 moving company logo",
+          "is_hero": false
+        },
+        {
+          "src": "/images/our-vendors/3.png",
+          "filename": "3.png",
+          "alt": "Vendor 3",
+          "caption": "Vendor 3 moving company logo",
+          "is_hero": false
+        },
+        {
+          "src": "/images/our-vendors/4.png",
+          "filename": "4.png",
+          "alt": "Vendor 4",
+          "caption": "Vendor 4 moving company logo",
+          "is_hero": false
+        },
+        {
+          "src": "/images/our-vendors/5.png",
+          "filename": "5.png",
+          "alt": "Vendor 5",
+          "caption": "Vendor 5 moving company logo",
+          "is_hero": false
+        },
+        {
+          "src": "/images/our-vendors/6.png",
+          "filename": "6.png",
+          "alt": "Vendor 6",
+          "caption": "Vendor 6 moving company logo",
+          "is_hero": false
+        },
+        {
+          "src": "/images/our-vendors/7.png",
+          "filename": "7.png",
+          "alt": "Vendor 7",
+          "caption": "Vendor 7 moving company logo",
+          "is_hero": false
+        },
+        {
+          "src": "/images/our-vendors/8.png",
+          "filename": "8.png",
+          "alt": "Vendor 8",
+          "caption": "Vendor 8 moving company logo",
+          "is_hero": false
+        },
+        {
+          "src": "/images/our-vendors/9.png",
+          "filename": "9.png",
+          "alt": "Vendor 9",
+          "caption": "Vendor 9 moving company logo",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:39:32.596469"
+}

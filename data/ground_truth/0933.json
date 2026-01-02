@@ -1,0 +1,61 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ada.org/publications/ada-news",
+  "file_id": "0933",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "publications",
+        "news",
+        "dental",
+        "landing-page"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "ADA News | American Dental Association",
+    "author": null,
+    "publish_date": null,
+    "main_content": "ADA News. Stay up-to-date on the latest in dentistry news, science and tech updates, ADA advocacy wins and more. Bring me the news. Latest News. Read about ADA advocacy, the latest fluoride news, clinical studies and more. Read ADA News.",
+    "with": [
+      "Since 1970, the ADA News has served practicing dentists in the U.S. and abroad as the dentistry news source for information on the benefits and services the ADA delivers.",
+      "ADA News. Stay up-to-date on the latest in dentistry news, science and tech updates, ADA advocacy wins and more.",
+      "Bring me the news.",
+      "Latest News. Read about ADA advocacy, the latest fluoride news, clinical studies and more.",
+      "Read ADA News."
+    ],
+    "without": [
+      "Renew",
+      "Join Now",
+      "Account Login",
+      "© 2025 American Dental Association",
+      "Privacy Notice"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "/-/media/project/ada-organization/ada/ada-org/images/publications/ada-news/adanews_1110x700_v2.png?rev=f705b0f17442466392309c89c954e3be&w=1100&hash=E3B4CD747F3149E1DD85BA4B6DF0DD55",
+          "filename": "adanews_1110x700_v2.png",
+          "alt": "Stay up-to-date on the latest in dentistry news with ADA News. Read the current issue below, or browse letters and articles.",
+          "caption": "Stay up-to-date on the latest in dentistry news with ADA News. Read the current issue below, or browse letters and articles.",
+          "is_hero": true
+        },
+        {
+          "src": "/-/media/project/ada-organization/ada/ada-org/images/publications/ada-news/2025/adan-cover_1110x700_aug-2025.jpg?h=700&iar=0&w=1110&rev=5d251348d14e419d88fad14b27b341f6&hash=677228467D4F3A82B9600A2AE332E465",
+          "filename": "adan-cover_1110x700_aug-2025.jpg",
+          "alt": "ADA News Cover Image",
+          "caption": "ADA News Cover Image",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:15:34.469764"
+}

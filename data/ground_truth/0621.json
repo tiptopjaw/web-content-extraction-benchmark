@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.insurancebusinessmag.com/us/guides/the-top-10-insurance-companies-in-the-usa-by-market-share-559886.aspx",
+  "file_id": "0621",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "insurance",
+        "guide",
+        "market-analysis",
+        "ranking"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "The top 10 insurance companies in the USA by market share",
+    "author": "Ramon Berenguer",
+    "publish_date": "2025-12-11",
+    "main_content": "Many brokers, agents, and policyholders want a clear view of the top 10 insurance companies in America, since carrier size and stability can shape pricing, product choice, and claims experience. Knowing the 10 best insurance companies by market share helps them compare options, explain insurer strength to clients, and align long-term coverage strategies with trusted market leaders.\n\n1. State Farm Group (12.89% market share): The largest property and casualty insurance company and auto insurer in the US, headquartered in Bloomington, Illinois. It remains a mutual insurance group and offers personal auto insurance, homeowners and other property coverages, and life insurance. Auto insurance accounts for about 65% of the property-casualty companies' combined net written premiums in 2024. The group has about 19,000 agents nationwide and a net worth of about $145.2 billion at year-end 2024.\n\n2. Progressive Group (6.15% market share): A US-based insurer headquartered in Mayfield Village, Ohio, founded in 1937. Progressive is known for its auto insurance pricing innovation and digital tools. In Q4 of 2024, Progressive reported net premiums written of about $18.1 billion, up 20% from the same quarter in 2023, with net income of approximately $2.36 billion.\n\n3. United Services Automobile Association (USAA) Group (4.49% market share): Founded in 1922 and headquartered in San Antonio, USAA is a member-owned financial services and insurance provider focused on the US military community and their families. It offers auto, homeowners, life insurance, and health insurance-adjacent protection through an alliance with Aflac.\n\n4. Berkshire Hathaway Group (4.37% market share): The insurance and reinsurance arm of Warren Buffett's conglomerate, built around GEICO, Berkshire Hathaway Primary Group, and Berkshire Hathaway Reinsurance Group. GEICO writes property and casualty policies primarily private-passenger auto in all 50 states and the District of Columbia.\n\n5. Liberty Mutual Group (4.3% market share): A Boston-based mutual insurer founded in 1912 as a workers' compensation carrier. Today it offers personal automobile, homeowners, workers' compensation, commercial multiple-peril, commercial auto, general liability, global specialty, and surety products.\n\n6. Allstate Insurance Group (3.92% market share): Known for its \"You're in Good Hands with Allstate\" brand. It operates through the Allstate brand for agency-advised customers, Esurance for self-directed buyers, and Encompass through independent agents. Products include private-passenger auto and homeowners' insurance.\n\n7. Travelers Group (3.88% market share): A US-based property and casualty insurer focusing on auto, home, and business coverage. It operates three main segments: Business Insurance, Bond & Specialty Insurance, and Personal Insurance. It is the only property-casualty insurer included in the Dow Jones Industrial Average.\n\n8. Chubb Ltd Group (3.58% market share): A leading commercial lines carrier and the top insurer for large corporations and second for middle-market companies. It is also the leading US personal lines carrier focused on high-net-worth clients, offering more than 100 products through over 9,000 agent and broker relationships.\n\n9. Farmers Insurance Group (2.96% market share): A US-based group of insurers focused on personal and small commercial lines, with core offerings in auto, home, life, and small business insurance. Founded in 1928, it relies on over 48,000 exclusive and independent agents and the 21st Century unit for direct auto sales.\n\n10. American Family Insurance Group (2.12% market share): A US mutual insurance group focusing on personal lines, farm/ranch, and small business coverage. It offers auto insurance, homeowners' insurance, personal and commercial umbrella, health insurance, life insurance, business insurance, and farm and ranch insurance. Customers who bundle home and auto policies may save up to 40%.\n\nChoosing from the top ten insurance companies involves seven steps: clarify the client's situation and priorities, define specific coverages and limits needed, identify which top insurers cover that type of risk, screen for strong financial strength ratings, compare policy wordings and claims performance, obtain like-for-like quotes, and explain trade-offs to document the client's informed choice.",
+    "with": [
+      "Many brokers, agents, and policyholders want a clear view of the top 10 insurance companies in America, since carrier size and stability can shape pricing, product choice, and claims experience.",
+      "For all P&C lines, State Farm has the largest share of business in America. It remains a mutual insurance group headquartered in Bloomington, Illinois.",
+      "Progressive Group, through The Progressive Corporation, is a US-based insurer headquartered in Mayfield Village, Ohio. The company traces its roots to 1937, when it was founded with a focus on auto insurance.",
+      "USAA is a member-owned financial services and insurance provider focused on the US military community and their families. Membership is open only to those currently serving, those honorably discharged, and eligible family members.",
+      "Berkshire Hathaway Group is the insurance and reinsurance arm of Warren Buffett's conglomerate, built around three pillars: GEICO, Berkshire Hathaway Primary Group, and Berkshire Hathaway Reinsurance Group."
+    ],
+    "without": [
+      "Subscribe to our mailing list",
+      "Copyright © 2025 KM Business Information US, Inc",
+      "Privacy policy and cookie policy links",
+      "Main navigation menu with News, TV, E&S, Reinsurance sections",
+      "Latest news sidebar with trending articles"
+    ],
+    "images": {
+      "total_in_content": 12,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://cdn-res.keymedia.com/cdn-cgi/image/w=840,h=504,f=auto/https://cdn-res.keymedia.com/cms/images/us/003/0359_639013506673986570.jpg",
+          "filename": "0359_639013506673986570.jpg",
+          "alt": "The top 10 insurance companies in the USA by market share",
+          "caption": "The top 10 insurance companies in the USA by market share",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:41:20.446717"
+}

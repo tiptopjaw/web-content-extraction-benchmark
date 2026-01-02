@@ -1,27 +1,103 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.helpnetsecurity.com/2025/11/24/black-friday-2025-cybersecurity-offers/",
   "file_id": "0556",
-  "downloaded_at": "2025-12-20T18:33:06.839099",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "cybersecurity",
+        "black-friday",
+        "deals",
+        "security-products"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Black Friday 2025 cybersecurity deals to explore",
     "author": "Help Net Security",
     "publish_date": "2025-11-24",
-    "main_content": "Black Friday 2025 is shaping up to be a good moment for anyone thinking about tightening their cybersecurity. A few solid deals are popping up that make it easier to improve protection for systems and data without stretching your budget. If you have been waiting for the right time to upgrade or add new tools, these four offers are simple, practical options that are worth a look.\n\nPasswork\nPasswork is an enterprise-grade self-hosted password manager that delivers advanced security at an affordable price. Designed for businesses that value transparency and control, it helps companies of all sizes protect sensitive data, streamline access management, and automate security workflows. All backed by zero-knowledge encryption, full API integration, and secrets management tools for DevOps teams.\nThe Black Friday campaign offers 50% off and is valid November 26 – December 3, 2025.\n\nNordLayer\nNordLayer is a toggle-ready network security platform that enables businesses to provide secure access to the company network from anywhere. It offers encrypted connections for remote teams, protecting access to internal systems and cloud resources. With NordLayer, administrators can apply Zero Trust principles by verifying users, checking device posture, and limiting access based on identity and context. They can also define which systems and resources each user can access, monitor activity in real-time, and enforce device compliance policies so that only approved endpoints can connect.\nThe Black Friday campaign offers an extra 28% discount on yearly NordLayer seats for new clients. The discount applies exclusively to annual plans and is valid until December 10th, 2025. Customers must enter the promo code NL-BLACK28 at checkout to redeem the offer.\n\nNordPass Business\nNordPass is an advanced password manager that helps businesses protect and control access to their systems and data while boosting team productivity. It allows employees to easily and securely generate, store, manage, and share company credentials, while providing administrators with tools to enforce strong password policies, monitor user activity, and detect weak, old, reused, or exposed passwords across the organization. NordPass also offers data breach monitoring to alert businesses to potential leaks and support compliance with modern cybersecurity requirements.\nThe Black Friday campaign offers 30% off for Enterprise and Business plans for a 1- or 2-year subscription. It’s valid until December 10th, 2025. To redeem the offer just enter the promo code BLACKB2B-30 at checkout.\n\nNordStellar\nNordStellar is a threat exposure management platform that gives organizations real‑time visibility into external cyber threats, such as data leaks, dark web exposure, attack surface vulnerabilities, and brand abuse. By continuously monitoring external sources and detecting emerging risks, it helps protect core business assets: employees, clients, infrastructure, and brand. The platform collects data from multiple sources and centralizes incident alerts, making it easier for security teams to identify issues and respond effectively to potential threats.\nThe Black Friday campaign offers 20% off for all NordStellar plans. It’s valid until December 10th, 2025. Just mention the coupon code BLACKFRIDAY20 to the sales team or paste it on the contact form.\n\nYubico\nThe YubiKey 5 NFC and YubiKey 5C NFC are compact hardware security keys that provide strong, phishing-resistant authentication for online accounts. Both support USB and NFC, allowing you to plug in or tap to verify your identity. The difference is the connector: the 5 NFC uses USB-A, while the 5C NFC uses USB-C for modern devices.\nThe Black Friday campaign offers 30% off the YubiKey 5 NFC and YubiKey 5C NFC. It’s valid November 24 – December 1.\n\nHack The Box\nArm yourself with a gallery of 26 wild red team missions built to help you train for real-world, enterprise environments. Want a playground to test your offensive skills? Then you should definitely think about revving up a Pro Lab.\nThe Black Friday campaign offers 25% off Pro Labs annual subscription with code novprolabsannual25off. It’s valid until until 30 November 2025, 23:59 EET.\n\nLedger\nSecure your crypto with a full range of hardware wallets from Ledger: the sleek touchscreen Flex, the premium Stax, the portable Nano X and the budget-friendly Nano S Plus. All devices are built with military-grade security, seamless integration with Ledger Live, and ready for your assets this Black Friday.\nThe Black Friday campaign offers:\nLedger Stax with $80 BTC gift\nLedger Flex with $70 BTC gift\nLedger Nano X for 50% off\nLedger Nano S Plus with $10 BTC gift\n\n7ASecurity\n7ASecurity courses are 100% lab-driven. Students spend most of their time hacking purposely vulnerable web, Android, iOS, desktop and IoT applications. Every lab comes with step-by-step video walkthroughs, detailed explanations, source code and ready-to-use tools, so you can follow along at your own pace and immediately apply what you learn in real engagements. These are the same courses delivered at security conferences like DEF CON, Black Hat USA, OWASP Global AppSec events, Nullcon and BruCON.\nThe Black Friday campaign offers 50% off on all hands-on application security training courses and is valid November 26 – December 3, 2025. Use code BFCM50.",
+    "main_content": "Black Friday 2025 is shaping up to be a good moment for anyone thinking about tightening their cybersecurity. A few solid deals are popping up that make it easier to improve protection for systems and data without stretching your budget. If you have been waiting for the right time to upgrade or add new tools, these four offers are simple, practical options that are worth a look.\n\nPasswork is an enterprise-grade self-hosted password manager that delivers advanced security at an affordable price. Designed for businesses that value transparency and control, it helps companies of all sizes protect sensitive data, streamline access management, and automate security workflows. All backed by zero-knowledge encryption, full API integration, and secrets management tools for DevOps teams. The Black Friday campaign offers 50% off and is valid November 26 – December 3, 2025.\n\nNordLayer is a toggle-ready network security platform that enables businesses to provide secure access to the company network from anywhere. It offers encrypted connections for remote teams, protecting access to internal systems and cloud resources. With NordLayer, administrators can apply Zero Trust principles by verifying users, checking device posture, and limiting access based on identity and context. They can also define which systems and resources each user can access, monitor activity in real-time, and enforce device compliance policies so that only approved endpoints can connect. The Black Friday campaign offers an extra 28% discount on yearly NordLayer seats for new clients. The discount applies exclusively to annual plans and is valid until December 10th, 2025. Customers must enter the promo code NL-BLACK28 at checkout to redeem the offer.\n\nNordPass is an advanced password manager that helps businesses protect and control access to their systems and data while boosting team productivity. It allows employees to easily and securely generate, store, manage, and share company credentials, while providing administrators with tools to enforce strong password policies, monitor user activity, and detect weak, old, reused, or exposed passwords across the organization. NordPass also offers data breach monitoring to alert businesses to potential leaks and support compliance with modern cybersecurity requirements. The Black Friday campaign offers 30% off for Enterprise and Business plans for a 1- or 2-year subscription. It is valid until December 10th, 2025. To redeem the offer just enter the promo code BLACKB2B-30 at checkout.\n\nNordStellar is a threat exposure management platform that gives organizations real-time visibility into external cyber threats, such as data leaks, dark web exposure, attack surface vulnerabilities, and brand abuse. By continuously monitoring external sources and detecting emerging risks, it helps protect core business assets: employees, clients, infrastructure, and brand. The platform collects data from multiple sources and centralizes incident alerts, making it easier for security teams to identify issues and respond effectively to potential threats. The Black Friday campaign offers 20% off for all NordStellar plans. It is valid until December 10th, 2025. Just mention the coupon code BLACKFRIDAY20 to the sales team or paste it on the contact form.\n\nThe YubiKey 5 NFC and YubiKey 5C NFC are compact hardware security keys that provide strong, phishing-resistant authentication for online accounts. Both support USB and NFC, allowing you to plug in or tap to verify your identity. The difference is the connector: the 5 NFC uses USB-A, while the 5C NFC uses USB-C for modern devices. The Black Friday campaign offers 30% off the YubiKey 5 NFC and YubiKey 5C NFC. It is valid November 24 – December 1.\n\nHack The Box offers a gallery of 26 wild red team missions built to help you train for real-world, enterprise environments. Want a playground to test your offensive skills? Then you should definitely think about revving up a Pro Lab. The Black Friday campaign offers 25% off Pro Labs annual subscription with code novprolabsannual25off. It is valid until November 30, 2025, 23:59 EET.\n\nSecure your crypto with a full range of hardware wallets from Ledger: the sleek touchscreen Flex, the premium Stax, the portable Nano X and the budget-friendly Nano S Plus. All devices are built with military-grade security, seamless integration with Ledger Live, and ready for your assets this Black Friday. The Black Friday campaign offers: Ledger Stax with $80 BTC gift, Ledger Flex with $70 BTC gift, Ledger Nano X for 50% off, and Ledger Nano S Plus with $10 BTC gift.\n\n7ASecurity courses are 100% lab-driven. Students spend most of their time hacking purposely vulnerable web, Android, iOS, desktop and IoT applications. Every lab comes with step-by-step video walkthroughs, detailed explanations, source code and ready-to-use tools, so you can follow along at your own pace and immediately apply what you learn in real engagements. These are the same courses delivered at security conferences like DEF CON, Black Hat USA, OWASP Global AppSec events, Nullcon and BruCON. The Black Friday campaign offers 50% off on all hands-on application security training courses and is valid November 26 – December 3, 2025. Use code BFCM50.",
     "with": [
       "Black Friday 2025 is shaping up to be a good moment for anyone thinking about tightening their cybersecurity.",
       "Passwork is an enterprise-grade self-hosted password manager that delivers advanced security at an affordable price.",
       "NordLayer is a toggle-ready network security platform that enables businesses to provide secure access to the company network from anywhere.",
-      "NordPass is an advanced password manager that helps businesses protect and control access to their systems and data while boosting team productivity.",
-      "NordStellar is a threat exposure management platform that gives organizations real‑time visibility into external cyber threats."
+      "The YubiKey 5 NFC and YubiKey 5C NFC are compact hardware security keys that provide strong, phishing-resistant authentication for online accounts.",
+      "Secure your crypto with a full range of hardware wallets from Ledger: the sleek touchscreen Flex, the premium Stax, the portable Nano X and the budget-friendly Nano S Plus."
     ],
     "without": [
       "Help Net Security newsletters: Daily and weekly news, cybersecurity jobs, open source projects, breaking news – subscribe here!",
-      "News Features CISO AI Videos Product showcase Industry news Reviews Whitepapers Events Newsletters",
-      "Featured news AI isn’t one system, and your threat model shouldn’t be either Crypto theft in 2025: North Korean hackers continue to dominate More than half of public vulnerabilities bypass leading WAFs",
-      "Resources Download: Strengthening Identity Security whitepaper Webinar: The BAS Summit 2025: Redefining Attack Simulation through AI eBook: A quarter century of Active Directory",
-      "© Copyright 1998-2025 by Help Net Security Read our privacy policy | About us | Advertise"
-    ]
+      "© Copyright 1998-2025 by Help Net Security",
+      "Share Black Friday 2025 cybersecurity deals to explore on Facebook",
+      "Read our privacy policy | About us | Advertise",
+      "AI isn't one system, and your threat model shouldn't be either"
+    ],
+    "images": {
+      "total_in_content": 9,
+      "annotated_count": 8,
+      "items": [
+        {
+          "src": "https://img2.helpnetsecurity.com/posts2025/Passwork-1200-bf.webp",
+          "filename": "Passwork-1200-bf.webp",
+          "alt": "Black Friday 2025 cybersecurity offers",
+          "caption": "Passwork Black Friday 2025 deal - 50% off enterprise password manager",
+          "is_hero": false
+        },
+        {
+          "src": "https://img2.helpnetsecurity.com/posts2025/NordLayer-bf.webp",
+          "filename": "NordLayer-bf.webp",
+          "alt": "Black Friday 2025 cybersecurity offers",
+          "caption": "NordLayer Black Friday 2025 deal - 28% off network security platform",
+          "is_hero": false
+        },
+        {
+          "src": "https://img2.helpnetsecurity.com/posts2025/NordPass-bf.webp",
+          "filename": "NordPass-bf.webp",
+          "alt": "Black Friday 2025 cybersecurity offers",
+          "caption": "NordPass Black Friday 2025 deal - 30% off password management solution",
+          "is_hero": false
+        },
+        {
+          "src": "https://img2.helpnetsecurity.com/posts2025/NordStellar-bf.webp",
+          "filename": "NordStellar-bf.webp",
+          "alt": "Black Friday 2025 cybersecurity offers",
+          "caption": "NordStellar Black Friday 2025 deal - 20% off threat exposure management",
+          "is_hero": false
+        },
+        {
+          "src": "https://img2.helpnetsecurity.com/posts2025/yubico-bf.webp",
+          "filename": "yubico-bf.webp",
+          "alt": "Black Friday 2025 cybersecurity offers",
+          "caption": "Yubico Black Friday 2025 deal - 30% off YubiKey hardware security keys",
+          "is_hero": false
+        },
+        {
+          "src": "https://img2.helpnetsecurity.com/posts2025/htb-bf.webp",
+          "filename": "htb-bf.webp",
+          "alt": "Black Friday 2025 cybersecurity offers",
+          "caption": "Hack The Box Black Friday 2025 deal - 25% off Pro Labs subscription",
+          "is_hero": false
+        },
+        {
+          "src": "https://img2.helpnetsecurity.com/posts2025/ledger-flex-bf.webp",
+          "filename": "ledger-flex-bf.webp",
+          "alt": "Black Friday 2025 cybersecurity offers",
+          "caption": "Ledger Black Friday 2025 deals - crypto hardware wallets with BTC gifts and discounts",
+          "is_hero": false
+        },
+        {
+          "src": "https://img2.helpnetsecurity.com/posts2025/a7-bf.webp",
+          "filename": "a7-bf.webp",
+          "alt": "Black Friday 2025 cybersecurity offers",
+          "caption": "7ASecurity Black Friday 2025 deal - 50% off security training courses",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:33:06.839105"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:25:09.142745"
 }

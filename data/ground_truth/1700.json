@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.prnewswire.com/news-releases/tutoring-in-transition-landmark-report-reveals-the-future-of-k-12-tutoring-302604241.html",
+  "file_id": "1700",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "press-release",
+        "education",
+        "technology",
+        "report"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Tutoring in Transition: Landmark Report Reveals the Future of K-12 Tutoring",
+    "author": "Pearl",
+    "publish_date": "2025-11-05",
+    "main_content": "Pearl, the trusted technology infrastructure behind many of the nation's most effective tutoring initiatives, today released The State of K-12 Tutoring report. The landmark report reveals the future of K-12 tutoring and provides insights into emerging trends and innovations in educational support.",
+    "with": [
+      "Pearl, the trusted technology infrastructure behind many of the nation's most effective tutoring initiatives, today released The State of K-12 Tutoring report.",
+      "The landmark report reveals the future of K-12 tutoring.",
+      "This press release is provided by Pearl through PR Newswire.",
+      "The report provides insights into emerging trends and innovations in educational support.",
+      "Pearl technology powers effective tutoring initiatives across the nation."
+    ],
+    "without": [
+      "Return to PR Newswire homepage",
+      "Search News Releases, Organizations, Resources, and Products",
+      "Client Login",
+      "Send a Release",
+      "Journalists"
+    ],
+    "images": {
+      "total_in_content": 5,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:52:38.379156"
+}

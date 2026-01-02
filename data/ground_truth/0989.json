@@ -1,0 +1,83 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.harmonyhit.com/state-of-gen-z-mental-health/",
+  "file_id": "0989",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "mental-health",
+        "gen-z",
+        "survey",
+        "research",
+        "healthcare"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "State of Gen Z Mental Health 2025 - Harmony Healthcare IT",
+    "author": "Casey Colvin",
+    "publish_date": "2025-06-15",
+    "main_content": "Survey: 46% of Gen Z has a mental health diagnosis—yet optimism is rising. See how they're coping, reshaping work, and redefining success.",
+    "with": [
+      "Survey: 46% of Gen Z has a mental health diagnosis—yet optimism is rising.",
+      "See how they're coping, reshaping work, and redefining success.",
+      "The report reveals key findings about Gen Z's mental health landscape in 2025.",
+      "Data highlights trends in workplace mental health and coping strategies.",
+      "This survey provides insights into how Gen Z is navigating mental health challenges."
+    ],
+    "without": [
+      "Skip to content",
+      "Login",
+      "Search here...",
+      "© 2025 Harmony Healthcare IT",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 15,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://www.harmonyhit.com/wp-content/smush-webp/2025/02/Blue-Shoes.png.webp",
+          "filename": "Blue-Shoes.png.webp",
+          "alt": "Gen Z Mental Health",
+          "caption": "Gen Z Mental Health",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.harmonyhit.com/wp-content/smush-webp/2025/07/Gen-Z-Mental-Health-2.0-Graphic-1-scaled.png.webp",
+          "filename": "Gen-Z-Mental-Health-2.0-Graphic-1-scaled.png.webp",
+          "alt": "Statistics about Gen Z mental health - report by harmonyhit.com",
+          "caption": "Statistics about Gen Z mental health - report by harmonyhit.com",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.harmonyhit.com/wp-content/smush-webp/2025/07/Gen-Z-Mental-Health-2.0-Graphic-2-scaled.png.webp",
+          "filename": "Gen-Z-Mental-Health-2.0-Graphic-2-scaled.png.webp",
+          "alt": "Statistics about Gen Z managing mental health - report by harmonyhit.com",
+          "caption": "Statistics about Gen Z managing mental health - report by harmonyhit.com",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.harmonyhit.com/wp-content/smush-webp/2025/07/Gen-Z-Mental-Health-2.0-Graphic-3-scaled.png.webp",
+          "filename": "Gen-Z-Mental-Health-2.0-Graphic-3-scaled.png.webp",
+          "alt": "Statistics about Gen Z in the workplace - report by harmonyhit.com",
+          "caption": "Statistics about Gen Z in the workplace - report by harmonyhit.com",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.harmonyhit.com/wp-content/smush-webp/2025/07/Gen-Z-Mental-Health-2.0-Graphic-4-scaled.png.webp",
+          "filename": "Gen-Z-Mental-Health-2.0-Graphic-4-scaled.png.webp",
+          "alt": null,
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:31:57.135986"
+}

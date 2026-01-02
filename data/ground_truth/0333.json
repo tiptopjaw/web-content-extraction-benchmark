@@ -1,0 +1,89 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.datacamp.com/blog/what-is-data-analysis-expert-guide",
+  "file_id": "0333",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "data-analysis",
+        "education",
+        "guide",
+        "technology"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "What is Data Analysis? An Expert Guide With Examples | DataCamp",
+    "author": "Matt Crabtree and Adel Nehme",
+    "publish_date": "2024-11-10",
+    "main_content": "Data analysis is a comprehensive method of inspecting, cleansing, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making. It is a multifaceted process involving various techniques and methodologies to interpret data from various sources in different formats, both structured and unstructured.\n\nData analysis is not just a mere process; it's a tool that empowers organizations to make informed decisions, predict trends, and improve operational efficiency. It's the backbone of strategic planning in businesses, governments, and other organizations.\n\nThe data analysis process involves several stages: defining objectives and questions, data collection, data cleaning, data analysis, data interpretation and visualization, and data storytelling.\n\nData analysis can be categorized into four main types: descriptive analysis summarizes raw data to understand what happened; diagnostic analysis determines why something happened; predictive analysis uses statistical models and forecasting techniques to understand the future; prescriptive analysis suggests actions to benefit from predictions.\n\nCommon techniques include exploratory analysis, regression analysis, factor analysis, Monte Carlo simulation, cluster analysis, cohort analysis, time series analysis, and sentiment analysis.\n\nEssential tools for data analysis include Python, R, SQL, Power BI, Tableau, and Excel. Careers in data analysis include data scientist, business intelligence analyst, data engineer, and business analyst.\n\nTo get started with data analysis, one should understand statistical concepts, learn a programming language like Python or R, master data manipulation and visualization, and practice with real-world projects.",
+    "with": [
+      "Data analysis is a comprehensive method of inspecting, cleansing, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making.",
+      "The data analysis process involves several stages: defining objectives and questions, data collection, data cleaning, data analysis, data interpretation and visualization, and data storytelling.",
+      "Data analysis can be categorized into four main types: descriptive, diagnostic, predictive, and prescriptive analyses.",
+      "Common techniques include exploratory analysis, regression analysis, factor analysis, Monte Carlo simulation, cluster analysis, cohort analysis, time series analysis, and sentiment analysis.",
+      "Essential tools for data analysis include Python, R, SQL, Power BI, Tableau, and Excel."
+    ],
+    "without": [
+      "Subscribe to our newsletter",
+      "Copyright 2025 DataCamp",
+      "Privacy Policy",
+      "Skip to main content navigation",
+      "Get your team access to DataCamp for business"
+    ],
+    "images": {
+      "total_in_content": 15,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "https://images.datacamp.com/image/upload/v1688736364/image_d844eb0462.png",
+          "filename": "image_d844eb0462.png",
+          "alt": "The data analysis process",
+          "caption": "The data analysis process in a nutshell",
+          "is_hero": true
+        },
+        {
+          "src": "https://images.datacamp.com/image/upload/v1688736364/image_5d6a8016cf.png",
+          "filename": "image_5d6a8016cf.png",
+          "alt": "Four types of questions, four types of analytics",
+          "caption": "The four types of analytics",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.datacamp.com/image/upload/v1688736364/image_f4e9342cc8.png",
+          "filename": "image_f4e9342cc8.png",
+          "alt": "Linear and logistic regression",
+          "caption": "Linear and logistic regression",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.datacamp.com/image/upload/v1688736364/image_a45880aea1.png",
+          "filename": "image_a45880aea1.png",
+          "alt": "Monte Carlo simulation",
+          "caption": "Example of a Monte Carlo simulation",
+          "is_hero": false
+        },
+        {
+          "src": "https://images.datacamp.com/image/upload/v1688736364/image_21c049f9d8.png",
+          "filename": "image_21c049f9d8.png",
+          "alt": "Cluster analysis example",
+          "caption": "Graph showing an example of cohort analysis",
+          "is_hero": false
+        },
+        {
+          "src": "https://media.datacamp.com/cms/368ea6d0cac1a08f9a517a664d77a81c.png",
+          "filename": "368ea6d0cac1a08f9a517a664d77a81c.png",
+          "alt": "Importance of Data Analysis",
+          "caption": "Created using Napkin.AI",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:55:23.493600"
+}

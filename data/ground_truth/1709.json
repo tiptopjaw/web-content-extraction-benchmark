@@ -1,0 +1,118 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.scottsmorraphotography.com/gallery/best-selling-prints-2021/",
+  "file_id": "1709",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "photography",
+        "year-in-review",
+        "best-of",
+        "landscape",
+        "fine-art"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Best-Selling Prints in 2021 | Top 10 Best-Seller Photos | Scott Smorra",
+    "author": "Scott Smorra",
+    "publish_date": null,
+    "main_content": "As 2021 comes to a close, I thought it would be fun to look back to see which fine art prints were my best sellers for the year. Some of the top selling prints may surprise you! The images featured below represent my Top 10 Best Selling landscape and nature photography prints in 2021 and each is available for purchase as a limited-edition fine art print. The list is arranged by sales volume, so print #1 had a higher volume of sales than #10. I really enjoy creating large fine art prints of my photography and it's exciting when someone connects with my artistic vision and considers hanging a print on their wall. For those of you who have purchased prints and supported my work, thank you!! I truly appreciate it! #1 - Waiting and Wondering: A beautiful Caribbean sunrise at a secluded beach in Tulum, Mexico. The colors in the water and sky on that morning were pretty amazing. Tulum is one of my favorite areas in the Riviera Maya of Mexico. White sand beaches lined with coconut trees and very few people make it the perfect place for relaxation. The 80 degree water during the winter months is also a big attraction for people traveling from colder climates. Tulum is a great place for landscape photography with the colorful Caribbean water and vibrant sunrises. #2 - House of Stars: A panoramic view of the Milky Way captured before sunrise at the summit of Haleakala in Maui, Hawaii. The clear air, cold temperatures and dark skies made the stars exceptionally vibrant just before sunrise that morning. The bright object underneath the Milky Way is the planet Venus. #3 - Pure Imagination: Beautiful fall colors at the world famous Laceleaf Maple (Acer palmatum) Tree on a foggy autumn morning at the Portland Japanese Garden, Portland, Oregon. The first time I was able to see this tree with my own eyes, I said to myself, 'How can this be real? It looks like something from my imagination!' #4 - Trident: A leafless and solitary Lenga tree reaches towards a sunset sky filled with lenticular clouds in Parque Nacional Torres del Paine, Chile. I can imagine Poseidon hurling this tree towards the sky in the worlds of greek mythology. #5 - Eternity: The Milky Way and millions of other stars rise above Mt Jefferson, an alpine lake and a field of summer wildflowers (Indian paintbrush and heather) in the Mt Jefferson Wilderness of Oregon. My goal with this image was to capture the feeling of solitude and unending time that I often experience when I see the Milky Way Galaxy in the wilderness. #6 - Celestial Existence: The Milky Way and millions of other stars above Mt Adams and a field of lupine and paintbrush in the Goat Rocks Wilderness of Washington. To me it seemed like the wildflowers were all looking up and admiring the stars just like I was while creating this image. #7 - Lavender Light: Mt Hood rises above a beautiful field of lavender just after sunrise at Lavender Valley Farms near Hood River, Oregon. The sweet aroma of the lavender, millions of buzzing bees and the glow of light on the mountain made for an unforgettable morning. #8 - Fangs: Three dramatic, glaciated peaks pierce the sky in the fjords of Patagonian Chile. Before traveling to Patagonia, I knew I wanted to capture a photo which showcased the light and atmosphere surrounding dramatic Patagonian peaks. #9 - Haleakala Kukui: Beautiful sunrise light illuminates wispy tropical clouds above the volcanic crater of Haleakala volcano in Maui, Hawaii. I was very lucky on this morning to get high clouds above and mid level clouds just starting to push into the crater. #10 - Crystalline Light: Colorful clouds passing above a frozen Abraham Lake at sunset on a cold winter day in the Canadian Rockies. The ice bubbles that form in many of the lakes in the Canadian Rockies are one of the most interesting natural phenomenon I've seen. If you have any questions about fine art prints, please feel free to contact me.",
+    "with": [
+      "The images featured below represent my Top 10 Best Selling landscape and nature photography prints in 2021 and each is available for purchase as a limited-edition fine art print.",
+      "A beautiful Caribbean sunrise at a secluded beach in Tulum, Mexico. The colors in the water and sky on that morning were pretty amazing.",
+      "A panoramic view of the Milky Way captured before sunrise at the summit of Haleakala in Maui, Hawaii.",
+      "My goal with this image was to capture the feeling of solitude and unending time that I often experience when I see the Milky Way Galaxy in the wilderness.",
+      "The ice bubbles that form in many of the lakes in the Canadian Rockies are one of the most interesting natural phenomenon I've seen."
+    ],
+    "without": [
+      "Subscribe to our newsletter",
+      "All material © copyright by Scott Smorra. All rights reserved.",
+      "Navigation menu links",
+      "Social media follow buttons",
+      "Related posts section"
+    ],
+    "images": {
+      "total_in_content": 16,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://www.scottsmorraphotography.com/images/xl/Waiting-and-Wondering-Tulum-Sunrise-2.jpg",
+          "filename": "Waiting-and-Wondering-Tulum-Sunrise-2.jpg",
+          "alt": "Waiting and Wondering",
+          "caption": "A beautiful Caribbean sunrise at a secluded beach in Tulum, Mexico. The colors in the water and sky on that morning were pretty amazing.",
+          "is_hero": true
+        },
+        {
+          "src": "https://www.scottsmorraphotography.com/images/xl/House-of-Stars-Haleakala-Summit-Night-.jpg",
+          "filename": "House-of-Stars-Haleakala-Summit-Night-.jpg",
+          "alt": "House of Stars",
+          "caption": "A panoramic view of the Milky Way captured before sunrise at the summit of Haleakala in Maui, Hawaii.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.scottsmorraphotography.com/images/xl/Pure-Imagination-Portland-Japanese-Garden-Autumn-Tree.jpg",
+          "filename": "Pure-Imagination-Portland-Japanese-Garden-Autumn-Tree.jpg",
+          "alt": "Beautiful fall colors at the world famous Laceleaf Maple (Acer palmatum) Tree on a foggy autumn morning at the Portland Japanese Garden, Portland, Oregon.",
+          "caption": "Beautiful fall colors at the world famous Laceleaf Maple (Acer palmatum) Tree on a foggy autumn morning at the Portland Japanese Garden, Portland, Oregon.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.scottsmorraphotography.com/images/xl/Trident-Torres-del-Paine-lenticular-sunset-1.jpg",
+          "filename": "Trident-Torres-del-Paine-lenticular-sunset-1.jpg",
+          "alt": "A leafless and solitary Lenga tree reaches towards a sunset sky filled with lenticular clouds in Parque Nacional Torres del Paine, Chile.",
+          "caption": "A leafless and solitary Lenga tree reaches towards a sunset sky filled with lenticular clouds in Parque Nacional Torres del Paine, Chile.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.scottsmorraphotography.com/images/xl/Eternity-Jefferson-Park-Milky-Way-Night.jpg",
+          "filename": "Eternity-Jefferson-Park-Milky-Way-Night.jpg",
+          "alt": "Eternity",
+          "caption": "The Milky Way and millions of other stars rise above Mt Jefferson, an alpine lake and a field of summer wildflowers in the Mt Jefferson Wilderness of Oregon.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.scottsmorraphotography.com/images/xl/Goat-Rocks-Wilderness-Night-Milky-Way-Flowers.jpg",
+          "filename": "Goat-Rocks-Wilderness-Night-Milky-Way-Flowers.jpg",
+          "alt": "Celestial Existence",
+          "caption": "The Milky Way and millions of other stars above Mt Adams and a field of lupine and paintbrush in the Goat Rocks Wilderness of Washington.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.scottsmorraphotography.com/images/xl/Lavender-Mt-Hood-Sunrise-Summer-Oregon-2.jpg",
+          "filename": "Lavender-Mt-Hood-Sunrise-Summer-Oregon-2.jpg",
+          "alt": "Mt Hood rises above a beautiful field of lavender just after sunrise at Lavender Valley Farms near Hood River, Oregon.",
+          "caption": "Mt Hood rises above a beautiful field of lavender just after sunrise at Lavender Valley Farms near Hood River, Oregon.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.scottsmorraphotography.com/images/xl/Fangs-Patagonia-Fjords-Chile-Three-Peaks.jpg",
+          "filename": "Fangs-Patagonia-Fjords-Chile-Three-Peaks.jpg",
+          "alt": "Three dramatic, glaciated peaks pierce the sky in the fjords of Patagonian Chile.",
+          "caption": "Three dramatic, glaciated peaks pierce the sky in the fjords of Patagonian Chile.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.scottsmorraphotography.com/images/xl/Haleakala-Kukui-Light-Sunrise-Maui-3.jpg",
+          "filename": "Haleakala-Kukui-Light-Sunrise-Maui-3.jpg",
+          "alt": "Haleakala Kukui",
+          "caption": "Beautiful sunrise light illuminates wispy tropical clouds above the volcanic crater of Haleakala volcano in Maui, Hawaii.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.scottsmorraphotography.com/images/xl/Crystalline-Light-Abraham-Lake-Ice-Sunset.jpg",
+          "filename": "Crystalline-Light-Abraham-Lake-Ice-Sunset.jpg",
+          "alt": "Crystalline Light",
+          "caption": "Colorful clouds passing above a frozen Abraham Lake at sunset on a cold winter day in the Canadian Rockies.",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:57:07.842747"
+}

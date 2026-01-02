@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.plumbingsupply.com/index.html",
+  "file_id": "1471",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "ecommerce",
+        "plumbing",
+        "retail",
+        "home-improvement"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Famous PlumbingSupply.com® where you'll find the largest selection of pvc faucets, sinks, pumps, toilet seats, repair parts and more!",
+    "author": null,
+    "publish_date": null,
+    "main_content": "PlumbingSupply.com - The Premier Online Plumbing Supplier Since 1995. Product Categories: Bathroom, Bidet Handshowers, Bidet Toilet Seats, Commercial, Drain Cleaning, Drains, Faucets, Fittings, Flexes, Flood Prevention, Fountains, Garbage Disposers, Kitchen, Mirrors, Outdoor Products, Pumps, Shower Heads, Sinks, Toilet Repair, Toilet Seats, Tools, Valves, Water Heaters, Water Filters. Hard To Find Parts: Garbage Disposer Parts (National dealer for Waste King, Sinkmaster, Whirlaway), Bathtub Drain Parts, Faucet Repair Parts for kitchen, bathroom and tub/shower faucets. Learn More About: Installing a Rain Shower system, How to Improve Toilet Performance, and Plumbing Projects & Information including DIY tutorials, tips & tricks, video tutorials, product buying guides, and educational articles. Company Background: Pioneers of online plumbing supply since 1995, offering unrivaled customer service and vast inventory without minimum orders. Customer testimonials praising excellent service and quality products.",
+    "with": [
+      "Shop with confidence from a team you can trust. We are the pioneers of the online plumbing supply industry and have a deep understanding of unique, hard-to-find plumbing parts.",
+      "We are the National parts dealer for Waste King (BoneCrusher), Sinkmaster, and Whirlaway.",
+      "Learn how to install a rain shower system in your bathroom.",
+      "Learn helpful tips to improve your toilet performance to make your toilet function like it's brand new.",
+      "Find helpful tips & tricks, step-by-step instructions, video tutorials, product buying guides, and educational articles."
+    ],
+    "without": [
+      "Plumbing Terms | Help | Welcome",
+      "Same day shipping for in-stock orders processed by 7pm EST M-F",
+      "Is there something else you are looking for?",
+      "We accept most credit cards and PayPal",
+      "Home | About Us | Contact Us | Shipping | Privacy Policy | Return Policy"
+    ],
+    "images": {
+      "total_in_content": 32,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "/images/plumbing-categories-bathroom-3.jpg",
+          "filename": "plumbing-categories-bathroom-3.jpg",
+          "alt": "Clawfoot bathtub",
+          "caption": "Clawfoot bathtub",
+          "is_hero": false
+        },
+        {
+          "src": "/images/wal-rich-drum-auger-power-drill-option-1831504.jpg",
+          "filename": "wal-rich-drum-auger-power-drill-option-1831504.jpg",
+          "alt": "Drain cleaning snake",
+          "caption": "Drain cleaning snake",
+          "is_hero": false
+        },
+        {
+          "src": "/images/plumbing-categories-faucets-1.jpg",
+          "filename": "plumbing-categories-faucets-1.jpg",
+          "alt": "Kitchen faucet",
+          "caption": "Kitchen faucet",
+          "is_hero": false
+        },
+        {
+          "src": "/images/plumbing-categories-sinks-1.jpg",
+          "filename": "plumbing-categories-sinks-1.jpg",
+          "alt": "Kitchen sink",
+          "caption": "Kitchen sink",
+          "is_hero": false
+        },
+        {
+          "src": "/images/plumbing-categories-tools-1.jpg",
+          "filename": "plumbing-categories-tools-1.jpg",
+          "alt": "Wellness Series grab bar",
+          "caption": "Wellness Series grab bar",
+          "is_hero": false
+        },
+        {
+          "src": "/images/bottom-link-garbage-disposer-parts.jpg",
+          "filename": "bottom-link-garbage-disposer-parts.jpg",
+          "alt": "Waste King disposer parts",
+          "caption": "Waste King disposer parts",
+          "is_hero": false
+        },
+        {
+          "src": "/images/bottom-link-drainparts.jpg",
+          "filename": "bottom-link-drainparts.jpg",
+          "alt": "Bathtub overflow parts",
+          "caption": "Bathtub overflow parts",
+          "is_hero": false
+        },
+        {
+          "src": "/images/bottom-link-faucet-repair-cartridge.jpg",
+          "filename": "bottom-link-faucet-repair-cartridge.jpg",
+          "alt": "Valley faucet cartridge",
+          "caption": "Valley faucet cartridge",
+          "is_hero": false
+        },
+        {
+          "src": "/images/article-index-installing-a-rainshower.jpg",
+          "filename": "article-index-installing-a-rainshower.jpg",
+          "alt": "Installing a rainshower",
+          "caption": "Installing a rainshower",
+          "is_hero": false
+        },
+        {
+          "src": "/images/article-index-how-to-improve-toilet-performance.jpg",
+          "filename": "article-index-how-to-improve-toilet-performance.jpg",
+          "alt": "How to Improve Toilet Performance",
+          "caption": "How to Improve Toilet Performance",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:31:05.933776"
+}

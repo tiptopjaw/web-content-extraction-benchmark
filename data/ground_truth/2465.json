@@ -1,27 +1,104 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.digitalspy.com/tv/a69795293/best-new-mysteries-dec",
   "file_id": "2465",
-  "downloaded_at": "2025-12-20T23:18:27.727956",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "television",
+        "mystery",
+        "streaming",
+        "entertainment",
+        "listicle"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Armchair detectives! Here are 10 “excellent” mystery shows coming to ITV, Netflix, BBC and more soon",
-    "author": "Ruth Lawes, Nathalie Whittle and Chris Longridge",
+    "title": "Armchair detectives! Here are 10 \"excellent\" mystery shows coming to ITV, Netflix, BBC and more soon",
+    "author": "Ruth Lawes, Nathalie Whittle, Chris Longridge",
     "publish_date": "2025-12-17",
-    "main_content": "Love a good murder? Want to get the little grey cells firing over the festive period? To save you having to turn your magnifying glass to the TV schedules, we’ve combed through them for you to select the very best mysteries coming up soon.\n\nThere's Netflix's first Agatha Christie adaptation, Agatha Christie’s Seven Dials, which sees Helena Bonham-Carter and Martin Freeman becoming embroiled in a fatal event at a sprawling country pile (naturally). Plus, there’s Treasure & Dirt, where the murder of a local miner rocks a small, rural community in the Australian desert and Eve Myles is making a welcome appearance on our screens in ITV's latest mystery thriller Gone.\n\nAgatha Christie’s Seven Dials\n\nIt wouldn’t be a round-up of mystery series without mentioning Agatha Christie. This time, it’s her novel The Seven Dials Mystery that’s being reimagined. Starring a cast of British actors including Helena Bonham-Carter in the role of Lady Caterham and Martin Freeman as Superintendent Battle, the drama is set in a lavish country house party in 1925 where practical jokes goes “horribly and murderously” wrong.\n\nWill Lady Eileen \"Bundle\" Brent (Mia McKenna-Bruce) get to the bottom of it?\n\nAgatha Christie’s Seven Dials is arriving on Netflix on Thursday, 15 January.\n\nDeadloch\n\nDeadloch is one of the best series we’ve seen in years, so we were thrilled when Prime Video finally announced the arrival of the second season.\n\nMismatched detectives Dulcie Collins (Kate Box) and Eddie Redcliffe (Madeleine Sami) are back again as the investigation into the death of Eddie’s former policing partner takes them from Tasmania to Australia’s “sweltering” Northern Territory.\n\nThe investigation veers into a different direction when the body of a local celebrity is discovered in a nearby remote town. Expect cliffhangers, twists, and plenty of dark comedy.\n\nDeadloch season two is coming to Prime Video on Friday, 20 March.\n\nTreasure & Dirt\n\nWhile we love a detective drama set in the UK, sometimes we crave a series where the action takes place in sunnier climes. Enter Treasure & Dirt, a riveting new drama that will transport us to an opal town in Australia’s desert, where a local miner is found brutally beheaded.\n\nIt’s up to big city homicide detective Ivan Lucic (Michael Dorman) and rural detective Nell Buchanan (Yellowjackets' Liv Hewson) to track down the killer. But their investigation becomes increasingly complex when they uncover far more than just a murderer.\n\nTreasure & Dirt is likely to air in 2026 on BBC One and BBC iPlayer.\n\nGone\n\nIn Gone, Eve Myles is playing a gutsy detective – of course, because she's really, really good at it. The series focuses on the disappearance of Bristol woman and Detective Annie Cassidy (Myles) is tasked with finding her.\n\nAs she delves deeper into the investigation, she lands on her prime suspect: the husband, Headmaster Michael Polly (Sherwood’s David Morrissey), an upstanding member of the community.\n\nThe pair then enter into a compulsive game of cat and mouse as Detective Cassidy chips at his inscrutable veneer in search of the truth.\n\nGone is expected to arrive on ITV1 in 2026.\n\nDustfall\n\nPrepare yourself for your next TV addiction in the form of Dustfall. Based on Vikki Petraitis’ expertly plotted novel, The Unbelieved, the six-part mystery covers important themes like injustice, failing legal systems and institutionalised misogyny.\n\nIt follows Detective Tig (Anna Torv), who’s relocated back to her small hometown in Australia, where she’s investigating a string of drink-spiking assaults. But when her prime suspect is found murdered, Detective Tig is plunged into even darker territory.\n\nIf that chilling premise wasn’t enough, also in the cast is British acting legend Juliet Stevenson.\n\nDustfall is expected to debut on BBC One and iPlayer in 2026.\n\nMurdoch Mysteries\n\nFancy a mystery series and a period setting? If that’s the case, then Murdoch Mysteries, set in the early 1900s during the age of invention, is for you.\n\nIt stars Yannick Bisson as William Murdoch, a maverick detective who uses cutting-edge techniques for the time, like fingerprinting, ultraviolet light and blood testing, to solve various crimes across Canada.\n\nThe best part is you can catch up (or rewatch!) the first 18 series of Murdoch Mysteries already before series 19 arrives in the UK.\n\nMurdoch Mysteries season 19 is expected to air on U&Alibi in January 2026, while series 1-18 are available on NOW.\n\nLudwig\n\nAnna Maxwell Martin and David Mitchell are the acting duo to be reckoned with in cosy mystery drama Ludwig, which is making a welcome return.\n\nIn the first series, we met puzzle setter John “Ludwig” Taylor (Mitchell), who decided to impersonate his detective brother James after he mysteriously vanished to uncover clues about his whereabouts.\n\nNow an official consultant for the Cambridgeshire Police after they discovered his knack for solving crime, Ludwig will get stuck into more police work while continuing to look for his brother with the help of his sister-in-law Lucy Taylor-Betts (Martin). Guest stars include the fantastic Sian Clifford (Fleabag) and Mark Bonnar.\n\nLudwig season two is coming to BBC One and BBC iPlayer in 2026.\n\nThe Case\n\nThe Case is “part love story, party criminal thriller”, according to its creator George Kay, who knows a thing or two about crafting excellent series as he also gave us Hijack, Lupin and The Long Shadow.\n\nSet in Stockholm, the five-part series follows respected investigator Thomas Berg (Jakob Oftebro), who’s busy hunting down a murderer. But there’s a chilling twist: as this particular killer starts targeting Thomas’s police colleagues.\n\nOut of sheer desperation, Thomas reluctantly turns to his estranged father, a brilliant ex-detective, for help.\n\nThe Case will arrive on Netflix in 2026.\n\nThe Bay\n\nThe Bay is one of those series you just can't help but go back to, so we were relieved to hear the detective drama’s sixth series is very much in the pipeline.\n\nA mash-up of Broadchurch and Shetland, the series centres on DS Jenn Townsend (Marsha Thomason), who investigates a slew of crimes in the seaside town of Morecambe. It’s not yet clear what case she’ll be tackling in The Bay series 6, but her past investigations have included the murder of a 23-year-old university student and missing persons, so it’s likely to be another complex one.\n\nThe Bay season six will arrive on ITV1 and ITVX in 2026. Season 1 of The Bay is now streaming on Disney+.\n\nDeath Valley\n\nDeath Valley sees bright and big-hearted detective Janie Mallowan (Gwyneth Keyworth), throw caution to the wind and team up with the reclusive John Chapel (Timothy Spall), a retired actor who played a detective on TV, to get to the bottom of series of crimes troubling rural Wales.\n\nIn each episode the unlikely duo sink their teeth into a new case, using their complementary but opposing skillsets to bring criminals to justice. The upcoming second series will see John and DS Mallowan return just in time as the crime rate in Wales “skyrockets” (according to Jon Petrie, BBC Director of Comedy Commissioning. He's also promised “more murder and mischief”)\n\nDeath Valley season two will arrive on BBC One and BBC iPlayer in 2026.\n\nLove TV? Get your Christmas viewing sorted with the Good Housekeeping Christmas TV Guide, featuring 14 days of Christmas TV listings, plus everything you need for the ultimate festive viewing experience! Just £4.75 – available at Morrisons, TG Jones and all other good magazine retailers.",
+    "main_content": "Love a good murder? Want to get the little grey cells firing over the festive period? To save you having to turn your magnifying glass to the TV schedules, we've combed through them for you to select the very best mysteries coming up soon. There's Netflix's first Agatha Christie adaptation, Agatha Christie’s Seven Dials, which sees Helena Bonham-Carter and Martin Freeman becoming embroiled in a fatal event at a sprawling country pile. Plus, there's Treasure & Dirt, where the murder of a local miner rocks a small, rural community in the Australian desert and Eve Myles is making a welcome appearance on our screens in ITV's latest mystery thriller Gone.\n\n1. Agatha Christie's Seven Dials - Netflix's adaptation of The Seven Dials Mystery starring Helena Bonham-Carter and Martin Freeman, set at a lavish country house party in 1925. Arrives January 15.\n\n2. Deadloch - Prime Video's second season follows mismatched detectives Dulcie Collins and Eddie Redcliffe investigating the death of Eddie's former policing partner. Arrives March 20.\n\n3. Treasure & Dirt - BBC drama set in an Australian opal town where a local miner is found brutally beheaded. Features detectives Ivan Lucic and Nell Buchanan. Likely 2026.\n\n4. Gone - ITV thriller starring Eve Myles as Detective Annie Cassidy investigating a disappearance, tracking down suspect Michael Polly. Expected 2026.\n\n5. Dustfall - BBC mystery based on The Unbelieved, follows Detective Tig investigating drink-spiking assaults in her Australian hometown. Expected 2026.\n\n6. Murdoch Mysteries - Period detective series set in early 1900s Canada, featuring William Murdoch using cutting-edge techniques. Season 19 arrives January 2026.\n\n7. Ludwig - BBC cosy mystery drama with David Mitchell impersonating his detective brother James. Season two arrives 2026.\n\n8. The Case - Netflix thriller following investigator Thomas Berg hunting a murderer who targets his police colleagues. Arrives 2026.\n\n9. The Bay - ITV detective drama centred on DS Jenn Townsend investigating crimes in Morecambe. Season six arrives 2026.\n\n10. Death Valley - BBC comedy crime drama pairing detective Janie Mallowan with retired actor John Chapel. Season two arrives 2026.",
     "with": [
-      "Love a good murder? Want to get the little grey cells firing over the festive period? To save you having to turn your magnifying glass to the TV schedules, we’ve combed through them for you to select the very best mysteries coming up soon.",
-      "There's Netflix's first Agatha Christie adaptation, Agatha Christie’s Seven Dials, which sees Helena Bonham-Carter and Martin Freeman becoming embroiled in a fatal event at a sprawling country pile (naturally).",
-      "Deadloch is one of the best series we’ve seen in years, so we were thrilled when Prime Video finally announced the arrival of the second season.",
+      "Love a good murder? Want to get the little grey cells firing over the festive period?",
+      "There's Netflix's first Agatha Christie adaptation, Agatha Christie’s Seven Dials, which sees Helena Bonham-Carter and Martin Freeman becoming embroiled in a fatal event at a sprawling country pile.",
       "In Gone, Eve Myles is playing a gutsy detective – of course, because she's really, really good at it.",
-      "Prepare yourself for your next TV addiction in the form of Dustfall. Based on Vikki Petraitis’ expertly plotted novel, The Unbelieved, the six-part mystery covers important themes like injustice, failing legal systems and institutionalised misogyny."
+      "Prepare yourself for your next TV addiction in the form of Dustfall. Based on Vikki Petraitis' expertly plotted novel, The Unbelieved, the six-part mystery covers important themes like injustice, failing legal systems and institutionalised misogyny.",
+      "Deadloch is one of the best series we've seen in years, so we were thrilled when Prime Video finally announced the arrival of the second season."
     ],
     "without": [
-      "We earn a commission for products purchased through some links in this article.",
-      "Corriedale cast confirmed",
-      "What to Read Next",
-      "Advertisement - Continue Reading Below",
-      "DIGITAL SPY, PART OF THE HEARST UK ENTERTAINMENT NETWORK"
-    ]
+      "Skip to Content",
+      "Privacy Notice",
+      "Terms Of Use",
+      "Cookie Notice",
+      "We earn a commission for products purchased through some links in this article."
+    ],
+    "images": {
+      "total_in_content": 36,
+      "annotated_count": 8,
+      "items": [
+        {
+          "src": "https://hips.hearstapps.com/hmg-prod/images/madame-blanc-mysteries-sally-lindsay-684af35592cd6.png?crop=0.712xw:0.796xh;0.288xw,0.204xh",
+          "filename": "madame-blanc-mysteries-sally-lindsay-684af35592cd6.png",
+          "alt": "sally lindsay in madame blanc mysteries",
+          "caption": "Sally Lindsay in Madame Blanc Mysteries",
+          "is_hero": true
+        },
+        {
+          "src": "https://hips.hearstapps.com/hmg-prod/images/martin-freeman-the-seven-dials-mystery-690a249058188.jpg?crop=1xw:1xh;center,top&resize=980:*",
+          "filename": "martin-freeman-the-seven-dials-mystery-690a249058188.jpg",
+          "alt": "mia mckennabruce, the seven dials mystery",
+          "caption": "Mia McKenna-Bruce, The Seven Dials Mystery",
+          "is_hero": false
+        },
+        {
+          "src": "https://hips.hearstapps.com/hmg-prod/images/01-deadloch-s2-madeleine-sami-as-eddie-redcliffe-kate-box-as-dulcie-collins-3000-3-692f153f15034.jpg?crop=1.00xw:0.445xh;0,0.303xh&resize=980:*",
+          "filename": "01-deadloch-s2-madeleine-sami-as-eddie-redcliffe-kate-box-as-dulcie-collins-3000-3-692f153f15034.jpg",
+          "alt": "madeleine sami as eddie redcliffe, kate box as dulcie collins",
+          "caption": "Madeleine Sami as Eddie Redcliffe, Kate Box as Dulcie Collins",
+          "is_hero": false
+        },
+        {
+          "src": "https://hips.hearstapps.com/hmg-prod/images/liv-hewson-michael-dorman-treasure-and-dirt-69204ac86bc1a-1-692f157495284.jpg?crop=0.9999153403318659xw:1xh;center,top&resize=980:*",
+          "filename": "liv-hewson-michael-dorman-treasure-and-dirt-69204ac86bc1a-1-692f157495284.jpg",
+          "alt": "treasure & dirt",
+          "caption": "Liv Hewson, Michael Dorman in Treasure & Dirt",
+          "is_hero": false
+        },
+        {
+          "src": "https://hips.hearstapps.com/hmg-prod/images/eve-myles-david-morrissey-gone-69242f131ce52-1-692f15b257bd8.jpg?crop=0.797xw:0.796xh;0.0828xw,0.204xh&resize=980:*",
+          "filename": "eve-myles-david-morrissey-gone-69242f131ce52-1-692f15b257bd8.jpg",
+          "alt": "two individuals seated at a table in a room accompanied by various documents",
+          "caption": "Eve Myles, David Morrissey in Gone",
+          "is_hero": false
+        },
+        {
+          "src": "https://hips.hearstapps.com/hmg-prod/images/anna-torv-dustfall-692f15fa11014.jpg?crop=1xw:0.9995598314783375xh;center,top&resize=980:*",
+          "filename": "anna-torv-dustfall-692f15fa11014.jpg",
+          "alt": "dustfall",
+          "caption": "Anna Torv in Dustfall",
+          "is_hero": false
+        },
+        {
+          "src": "https://hips.hearstapps.com/hmg-prod/images/250527-netflix-thecase-poster-photographer-adam-klingeteg-4188-v6-square-692f16dc53b3c.jpg?crop=1.00xw:0.669xh;0,0.112xh&resize=980:*",
+          "filename": "250527-netflix-thecase-poster-photographer-adam-klingeteg-4188-v6-square-692f16dc53b3c.jpg",
+          "alt": "the case",
+          "caption": "The Case promotional image",
+          "is_hero": false
+        },
+        {
+          "src": "https://hips.hearstapps.com/hmg-prod/images/the-bay-series-5-episode-2-23-692f170f13acb.jpg?crop=1xw:1xh;center,top&resize=980:*",
+          "filename": "the-bay-series-5-episode-2-23-692f170f13acb.jpg",
+          "alt": "the bay series 5 | itvwhen 23 year old university student, hannah, is found dead on the edge of the docks, morecambe’s miu team has another case to solve. jenn, who is returning to work following the death of her father, pushes aside her own grief to support hannah’s bitterly divided family.photographer: jonathan birch / © tall story pictures 2024marsha thomason as ds jenn townsend",
+          "caption": "The Bay Series 5",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:18:27.727962"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:30:48.048703"
 }

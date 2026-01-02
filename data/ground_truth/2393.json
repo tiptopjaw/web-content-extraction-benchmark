@@ -1,27 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://ai.google.dev/gemma/docs/functiongemma",
   "file_id": "2393",
-  "downloaded_at": "2025-12-21T00:06:56.791278",
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technical-docs",
+        "ai-ml",
+        "google",
+        "model-documentation"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "FunctionGemma model overview",
     "author": null,
-    "publish_date": "2025-12-18",
-    "main_content": "FunctionGemma is a specialized version of our Gemma 3 270M model tuned for function calling. It is designed as a strong base for further training into custom, fast, private, local agents that translate natural language into executable API actions.\n\nWhen to choose FunctionGemma\nFunctionGemma is the bridge between natural language and software execution. It is the right tool if:\n\nYou have a defined API surface: Your application has a defined set of actions (e.g., smart home, media, navigation).\nYou are ready to fine-tune: You need the consistent, deterministic behavior that comes from fine-tuning on specific data, rather than the variability of zero-shot prompting.\nYou prioritize local-first deployment: Your application requires near-instant latency and total data privacy, running efficiently within the compute and battery limits of edge devices.\nYou are building compound systems: You need a lightweight edge model to handle local actions, allowing your system to process common commands on-device and only query larger models (like Gemma 3 27B) for more complex tasks.\n\nGet it on Hugging Face\nGet it on Kaggle\nAccess it on Vertex\n\nAs with other Gemma models, FunctionGemma is provided with open weights and licensed for responsible commercial use, allowing you to fine tune and deploy it in your own projects and applications.\n\nFormatting and best practices\nTry FunctionGemma\n\nFine-tune FunctionGemma\nFine-tune the Mobile Actions demo",
+    "publish_date": null,
+    "main_content": "FunctionGemma is a specialized version of our Gemma 3 270M model tuned for function calling. It is designed as a strong base for further training into custom, fast, private, local agents that translate natural language into executable API actions. FunctionGemma is the bridge between natural language and software execution. It is the right tool if you have a defined API surface, are ready to fine-tune, prioritize local-first deployment, or are building compound systems. As with other Gemma models, FunctionGemma is provided with open weights and licensed for responsible commercial use.",
     "with": [
       "FunctionGemma is a specialized version of our Gemma 3 270M model tuned for function calling.",
       "It is designed as a strong base for further training into custom, fast, private, local agents that translate natural language into executable API actions.",
       "FunctionGemma is the bridge between natural language and software execution.",
-      "You have a defined API surface: Your application has a defined set of actions (e.g., smart home, media, navigation).",
-      "As with other Gemma models, FunctionGemma is provided with open weights and licensed for responsible commercial use, allowing you to fine tune and deploy it in your own projects and applications."
+      "It is the right tool if you have a defined API surface: Your application has a defined set of actions.",
+      "As with other Gemma models, FunctionGemma is provided with open weights and licensed for responsible commercial use."
     ],
     "without": [
       "Skip to main content",
-      "Models Solutions Code assistance Showcase Community",
-      "FunctionGemma released, a model tuned for function calling! Learn more",
-      "Home > Gemma > Models > Docs",
-      "Except as otherwise noted, the content of this page is licensed under the Creative Commons Attribution 4.0 License"
-    ]
+      "Terms of use",
+      "Privacy Policy",
+      "Cookie notification",
+      "Send feedback"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-21T00:06:56.791285"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:00:54.075145"
 }

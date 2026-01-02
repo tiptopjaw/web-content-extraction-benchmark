@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.builtinla.com/jobs/project-management",
+  "file_id": "2315",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "jobs",
+        "job-board",
+        "project-manager",
+        "los-angeles"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Best Project Manager Jobs in Los Angeles, CA 2025 | Built In Los Angeles",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Top Project Manager Jobs in Los Angeles, CA. NBCUniversal - Facilities Project Manager - 4 Days Ago - Hybrid - Los Angeles, CA - $115K-130K Annually - Senior level. CrowdStrike - Project Manager, Platform Professional Services (Remote) - Reposted 2 Days Ago - Remote or Hybrid - Los Angeles, CA - $115K-160K Annually - Senior level. 8am (Formerly AffiniPay) - Project Manager, Data (Contractor) - Reposted 11 Days Ago - Remote - Los Angeles, CA - Senior level. Mission Cloud - Senior Project Manager, Enterprise - Reposted 3 Days Ago - In-Office or Remote - Los Angeles, CA - Senior level. STV - Operational Readiness, Activation & Transition (ORAT) Project Manager - Reposted 9 Hours Ago - In-Office - Los Angeles, CA - $128K-171K Annually - Mid level. Fox Corporation - Project Manager - Reposted 13 Hours Ago - In-Office - Los Angeles, CA - $102K-140K Annually - Senior level. STV - Project Manager- Education - Reposted 13 Hours Ago - In-Office - Los Angeles, CA - $110K-146K Annually - Senior level. STV - Project Manager - Public Works - Reposted Yesterday - In-Office - Los Angeles, CA - $110K-146K Annually - Senior level. IPG DXTRA - Project Manager - Reposted Yesterday - In-Office - Los Angeles, CA - $75K-90K Annually - Mid level. Lincoln Property Company - Project Manager - Reposted Yesterday - In-Office - Los Angeles, CA - Junior level. Bogaard Group International, Inc. - Security Systems Field Project Manager - 2 Days Ago - Hybrid - Los Angeles, CA - $110K-150K Annually - Senior level. Pixelogic Media - Project Manager - Localization - Reposted 2 Days Ago - In-Office - Los Angeles, CA. Job filtering options available for Job Title, Company or Keyword, Remote/Hybrid preference, Location (Los Angeles, CA), Skills, New Jobs, Job Category, Experience level, and Industry.",
+    "with": [
+      "Facilities Project Manager at NBCUniversal with $115K-130K Annually salary range",
+      "Project Manager, Platform Professional Services at CrowdStrike - Remote position",
+      "Senior Project Manager, Enterprise at Mission Cloud with cloud transformation focus",
+      "ORAT Project Manager at STV with $128K-171K Annually for aviation projects",
+      "Project Manager at Fox Corporation overseeing AI initiatives for entertainment"
+    ],
+    "without": [
+      "Global Tech Hub - BuiltIn.com is the global destination for tech professionals",
+      "For Employers - Hire on Built In - Post a Job",
+      "Join - Log In authentication buttons",
+      "Popular Tech Hubs navigation links for Austin, Boston, Chicago, New York City",
+      "Skills filter dropdown with Autocad, Bluebeam, Excel, Microsoft Project requirements"
+    ],
+    "images": {
+      "total_in_content": 32,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=scale-down,w=128,h=128/sites/www.builtin.com/files/2022-05/NBCUniversal_Purple_150x150px-01.jpg",
+          "filename": "NBCUniversal_Purple_150x150px-01.jpg",
+          "alt": "NBCUniversal Logo",
+          "caption": "NBCUniversal Logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=scale-down,w=128,h=128/sites/www.builtin.com/files/2023-09/6L-zG5oq_400x400.jpg",
+          "filename": "6L-zG5oq_400x400.jpg",
+          "alt": "CrowdStrike Logo",
+          "caption": "CrowdStrike Logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=scale-down,w=128,h=128/sites/www.builtin.com/files/2025-08/8am-X-profile-400x400%20(1)%20copy.jpg",
+          "filename": "8am-X-profile-400x400%20(1)%20copy.jpg",
+          "alt": "8am (Formerly AffiniPay) Logo",
+          "caption": "8am (Formerly AffiniPay) Logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=scale-down,w=128,h=128/sites/www.builtin.com/files/2021-11/1557421641207.jpeg",
+          "filename": "1557421641207.jpeg",
+          "alt": "Mission Cloud Logo",
+          "caption": "Mission Cloud Logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=scale-down,w=128,h=128/sites/www.builtin.com/files/2023-06/STV.jpg",
+          "filename": "STV.jpg",
+          "alt": "STV Logo",
+          "caption": "STV Logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=scale-down,w=128,h=128/sites/www.builtin.com/files/2021-08/1553113738349.jpeg",
+          "filename": "1553113738349.jpeg",
+          "alt": "Fox Corporation Logo",
+          "caption": "Fox Corporation Logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=scale-down,w=128,h=128/sites/www.builtin.com/files/2021-08/1ip.jpeg",
+          "filename": "1ip.jpeg",
+          "alt": "IPG DXTRA Logo",
+          "caption": "IPG DXTRA Logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=scale-down,w=128,h=128/sites/www.builtin.com/files/2025-08/lincolnpropertycompany_logo.jpg",
+          "filename": "lincolnpropertycompany_logo.jpg",
+          "alt": "Lincoln Property Company Logo",
+          "caption": "Lincoln Property Company Logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=scale-down,w=128,h=128/sites/www.builtin.com/files/2022-09/Bogaard%20Group%20International,%20Inc..jpg",
+          "filename": "Bogaard%20Group%20International,%20Inc..jpg",
+          "alt": "Bogaard Group International, Inc. Logo",
+          "caption": "Bogaard Group International, Inc. Logo",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=scale-down,w=128,h=128/sites/www.builtin.com/files/2024-08/1631346751794.JPEG",
+          "filename": "1631346751794.JPEG",
+          "alt": "Pixelogic Media Logo",
+          "caption": "Pixelogic Media Logo",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:37:01.424683"
+}

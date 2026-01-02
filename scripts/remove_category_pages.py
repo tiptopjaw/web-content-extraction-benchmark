@@ -13,7 +13,7 @@ BASE_DIR = Path(__file__).parent.parent
 DATA_DIR = BASE_DIR / "data"
 FINAL_DIR = DATA_DIR / "ground_truth_final"
 REMOVED_DIR = DATA_DIR / "ground_truth_removed"
-CLEAN_DIR = DATA_DIR / "ground_truth_clean"
+CLEAN_DIR = DATA_DIR / "ground_truth"
 
 # URL patterns to identify and remove
 PATTERNS = {

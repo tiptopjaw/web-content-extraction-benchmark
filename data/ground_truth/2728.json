@@ -1,0 +1,55 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.volts.wtf/p/the-cure-for-misinformation-is-not",
+  "file_id": "2728",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "politics",
+        "epistemology",
+        "misinformation",
+        "podcast",
+        "interview"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "The cure for misinformation is not more information or smarter news consumers",
+    "author": "David Roberts",
+    "publish_date": "2025-12-19",
+    "main_content": "A conversation with political scientist Samuel Bagg of the University of South Carolina. The problem of misinformation in the current age, argues Samuel Bagg, is not that reliably truth-producing institutions and practices don't exist, but that people have ceased to trust them. Changing that requires something deeper than factchecking or media literacy - it's a matter of social identity, and solving it will mean reconfiguring the social identity landscape. Bagg explains that decades of research have demonstrated that our political beliefs and behavior are thoroughly motivated and mediated by our social identities. The cure for misinformation is not more information or smarter news consumers - if you want to change minds, you have to change identities. The discussion covers the limitations of individual cognitive agents, how social identity shapes perception and reasoning at every stage, why epistemic solutions like better fact-checking and media literacy don't work at scale, and the collective nature of truth-finding practices in science, journalism, and democracy.",
+    "with": [
+      "Political scientist Samuel Bagg explains why social identity is at the root of the misinformation crisis -- which calls for something deeper than factchecking.",
+      "decades of research have demonstrated that our political beliefs and behavior are thoroughly motivated and mediated by our social identities.",
+      "The problem of misinformation in the current age is not that reliably truth-producing institutions and practices don't exist, but that people have ceased to trust them.",
+      "If you want to change minds, you have to change identities.",
+      "all of our reasonably successful epistemic practices are collective in nature, relying not primarily on individual-level rationality, but on social structures calibrated to correct for individual limitations."
+    ],
+    "without": [
+      "Subscribe",
+      "Sign in",
+      "Volts",
+      "Privacy Policy",
+      "RSS"
+    ],
+    "images": {
+      "total_in_content": 14,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://substackcdn.com/image/fetch/$s_!OzbZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5987d8a5-42e1-43a8-9a20-3a0f5d614e34_2702x1801.jpeg",
+          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5987d8a5-42e1-43a8-9a20-3a0f5d614e34_2702x1801.jpeg",
+          "alt": "Samuel Bagg",
+          "caption": "Samuel Bagg",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:25:32.499382"
+}

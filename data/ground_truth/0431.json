@@ -1,0 +1,75 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.specialevents.com/event-trends-styles/catering",
+  "file_id": "0431",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "catering",
+        "events",
+        "industry-news",
+        "category-page"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Catering",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Catering news and expert commentary from Special Events. Featured: Cultural Immersion: How Constellation Brought Día de los Muertos Magic to Miami's Corporate Scene - Constellation Culinary Group catered an extraordinary Día de los Muertos–themed Halloween celebration at Miami Beach's iconic Temple House. The October 2024 event successfully fulfilled the client's vision of fostering cross-team connections while immersing guests in Mexican traditions that form an integral part of Miami's cultural fabric. Latest articles include: Custom Cocktail Menus: Tips from Event Mixologists - Crafting custom cocktail menus requires thoughtful planning and expert execution; A Spotlight on Summer Catering Trends - As we approach the summer season, we examine the latest trends shaping catering menus across the country; A Match Made In Heaven - When it comes to event planning, pairing the right food with the right beverage can transform an ordinary gathering into an extraordinary experience.",
+    "with": [
+      "Cultural Immersion: How Constellation Brought Día de los Muertos Magic to Miami's Corporate Scene",
+      "Constellation Culinary Group catered an extraordinary Día de los Muertos–themed Halloween celebration at Miami Beach's iconic Temple House.",
+      "Custom Cocktail Menus: Tips from Event Mixologists",
+      "A Spotlight on Summer Catering Trends",
+      "When it comes to event planning, pairing the right food with the right beverage can transform an ordinary gathering into an extraordinary experience."
+    ],
+    "without": [
+      "Subscribe to our newsletter",
+      "Informa PLC's registered office",
+      "Special Events is part of the Informa Connect Division",
+      "Facebook Instagram Linkedin Youtube social links",
+      "Future-Proofing Your Events: Scalable Tech Solutions"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 4,
+      "items": [
+        {
+          "src": "https://eu-images.contentstack.com/v3/assets/blt568694a2be8ba6f4/blt87385744aed2588b/68c861ea254e11d6f58fbd4a/Miami_Wedding_Photographer_Claudia_Amalia-6511.png?width=1280&auto=webp&quality=80&disable=upscale",
+          "filename": "Miami_Wedding_Photographer_Claudia_Amalia-6511.png",
+          "alt": null,
+          "caption": "Día de los Muertos themed celebration at Temple House in Miami",
+          "is_hero": true
+        },
+        {
+          "src": "https://eu-images.contentstack.com/v3/assets/blt568694a2be8ba6f4/blta91a36ce5222b9dc/68a6283c4f1da15fe7a32bf2/Local_Bartending_School_Duncan_MacNally.png?width=1280&auto=webp&quality=80&disable=upscale",
+          "filename": "Local_Bartending_School_Duncan_MacNally.png",
+          "alt": null,
+          "caption": "Local Bartending School Duncan MacNally",
+          "is_hero": false
+        },
+        {
+          "src": "https://eu-images.contentstack.com/v3/assets/blt568694a2be8ba6f4/blta605282e026785d5/688a767c551344638e10f5c5/JPZ_6829.png?width=1280&auto=webp&quality=80&disable=upscale",
+          "filename": "JPZ_6829.png",
+          "alt": null,
+          "caption": "Summer catering presentation",
+          "is_hero": false
+        },
+        {
+          "src": "https://eu-images.contentstack.com/v3/assets/blt568694a2be8ba6f4/bltf1f2190e17db1184/686fe6f759edf26813f69a3a/tacos_and_tequila.png?width=1280&auto=webp&quality=80&disable=upscale",
+          "filename": "tacos_and_tequila.png",
+          "alt": null,
+          "caption": "Tacos and tequila pairing",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:32:44.758741"
+}

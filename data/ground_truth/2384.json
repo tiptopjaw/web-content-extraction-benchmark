@@ -1,37 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.jamaicaobserver.com/2025/12/20/big-boys-rumble",
   "file_id": "2384",
-  "downloaded_at": "2025-12-20T23:59:39.233959",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "sports",
+        "football",
+        "jamaica",
+        "dacosta-cup"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "BIG BOYS RUMBLE!",
     "author": "PAUL A REID",
     "publish_date": "2025-12-20",
-    "main_content": "ST Elizabeth Technical High School (STETHS) will put their unbeaten record on the line when they tackle Glenmuir High in the ISSA daCosta Cup final at the National Stadium. Kick-off is scheduled for 6:00 pm. St Elizabeth Technical are going in search of a sixth hold on the title while Glenmuir High are three-time former champions. STETHS are hoping to join a number of teams in recent history to go unbeaten throughout an entire season but they will face a Glenmuir High team hoping to make up for close misses in the past three seasons. Clarendon-based schools have won the last six daCosta Cup titles. Clarendon College have claimed four of those, while Garvey Maceo have won two. Meanwhile, STETHS, the only St Elizabeth-based school to win the title since 1964, last raised the daCosta Cup in 2015. Both teams are battle-hardened and ready for what is expected to be a tough game. According to STETHS's coach Omar \"Rambo\" Wedderburn, his \"expectation is for a final game\". The teams have weathered a season extended by several weeks, after the passage of Hurricane Melissa in late October which left a path of death and destruction in Jamaica. On Wednesday at Sabina Park, Glenmuir High rallied from a goal down to beat Dinthill Technical 2-1 in the last-four clash, while STETHS smothered first-time semi-finalists Kemps Hill High 1-0. Glenmuir High have arguably been the most consistent school in rural area football the last three years, winning back-to-back ISSA Champions Cup titles. They, however, lost in the daCosta Cup final in 2023, and exited at the semi-final stage last season. After a fast start in which they scored 24 goals in their first four games, Glenmuir hit a hurdle in the first-round play-offs to advance as the second-placed team from the zone. Since then they have won eight of 10 games while drawing the other two. Coach Andrew Peart, who will be in his second daCosta Cup final in three seasons, said the comeback against Dinthill indicates their resilience and adaptability. \"We can win in more ways than one — whether we lead from the start or we have to come from behind,\" Peart said. Three years ago they were humbled 2-6 by a Kaheim Dixon-led Clarendon College in the daCosta Cup final. Peart said there were lessons to be learned from that result. \"We have to start better. We have to fight to get the right to play the way we want to play and not allow the opponents to dictate the game to us. And, we have to be more clinical with our opportunities,\" he told the Jamaica Observer. In 19 games, STETHS have conceded a miserly six goals. They have alsonot allowed a goal in 13 games, but Wedderburn said all of that will mean nothing unless, \"the players follow instructions\", and, \"carry out their responsibilities\" effectively.",
+    "main_content": "ST Elizabeth Technical High School (STETHS) will put their unbeaten record on the line when they tackle Glenmuir High in the ISSA daCosta Cup final at the National Stadium. Kick-off is scheduled for 6:00 pm. St Elizabeth Technical are going in search of a sixth hold on the title while Glenmuir High are three-time former champions. STETHS are hoping to join a number of teams in recent history to go unbeaten throughout an entire season but they will face a Glenmuir High team hoping to make up for close misses in the past three seasons. Clarendon-based schools have won the last six daCosta Cup titles. Clarendon College have claimed four of those, while Garvey Maceo have won two. Meanwhile, STETHS, the only St Elizabeth-based school to win the title since 1964, last raised the daCosta Cup in 2015. Both teams are battle-hardened and ready for what is expected to be a tough game. According to STETHS's coach Omar \"Rambo\" Wedderburn, his \"expectation is for a final game\". The teams have weathered a season extended by several weeks, after the passage of Hurricane Melissa in late October which left a path of death and destruction in Jamaica. On Wednesday at Sabina Park, Glenmuir High rallied from a goal down to beat Dinthill Technical 2-1 in the last-four clash, while STETHS smothered first-time semi-finalists Kemps Hill High 1-0. Glenmuir High have arguably been the most consistent school in rural area football the last three years, winning back-to-back ISSA Champions Cup titles. They, however, lost in the daCosta Cup final in 2023, and exited at the semi-final stage last season. After a fast start in which they scored 24 goals in their first four games, Glenmuir hit a hurdle in the first-round play-offs to advance as the second-placed team from the zone. Since then they have won eight of 10 games while drawing the other two. Coach Andrew Peart, who will be in his second daCosta Cup final in three seasons, said the comeback against Dinthill indicates their resilience and adaptability. \"We can win in more ways than one — whether we lead from the start or we have to come from behind,\" Peart said. Three years ago they were humbled 2-6 by a Kaheim Dixon-led Clarendon College in the daCosta Cup final. Peart said there were lessons to be learned from that result. \"We have to start better. We have to fight to get the right to play the way we want to play and not allow the opponents to dictate the game to us. And, we have to be more clinical with our opportunities,\" he told the Jamaica Observer. In 19 games, STETHS have conceded a miserly six goals. They have also not allowed a goal in 13 games, but Wedderburn said all of that will mean nothing unless, \"the players follow instructions\", and, \"carry out their responsibilities\" effectively.",
     "with": [
       "ST Elizabeth Technical High School (STETHS) will put their unbeaten record on the line when they tackle Glenmuir High in the ISSA daCosta Cup final at the National Stadium.",
-      "STETHS are hoping to join a number of teams in recent history to go unbeaten throughout an entire season but they will face a Glenmuir High team hoping to make up for close misses in the past three seasons.",
-      "Glenmuir High have arguably been the most consistent school in rural area football the last three years, winning back-to-back ISSA Champions Cup titles.",
-      "In 19 games, STETHS have conceded a miserly six goals. They have alsonot allowed a goal in 13 games, but Wedderburn said all of that will mean nothing unless, \"the players follow instructions\", and, \"carry out their responsibilities\" effectively."
+      "Kick-off is scheduled for 6:00 pm.",
+      "St Elizabeth Technical are going in search of a sixth hold on the title while Glenmuir High are three-time former champions.",
+      "Coach Andrew Peart, who will be in his second daCosta Cup final in three seasons, said the comeback against Dinthill indicates their resilience and adaptability.",
+      "In 19 games, STETHS have conceded a miserly six goals."
     ],
     "without": [
-      "Subscribe",
       "Home",
       "News",
-      "Business",
       "Sports",
-      "Entertainment",
-      "Lifestyle",
-      "All Woman",
-      "Obituaries",
-      "Classifieds",
-      "More",
-      "0 Comments · Make a comment",
-      "ALSO ON JAMAICA OBSERVER",
-      "Brazil's Lula warns military action in Venezuela would be 'humanitarian catastrophe'",
-      "Excelsior upset JC to lift first Manning Cup in 21 years",
-      "Curfew extended in sections of St Catherine North Division"
-    ]
+      "Business",
+      "Entertainment"
+    ],
+    "images": {
+      "total_in_content": 4,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:59:39.233964"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:57:02.121627"
 }

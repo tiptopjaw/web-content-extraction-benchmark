@@ -1,0 +1,69 @@
+{
+  "schema_version": "2.0",
+  "url": "https://gardenwith.me/articles/mastering-clematis-pruning-a-group-by-group-guide-to-abundant-blooms-all-season",
+  "file_id": "2434",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "gardening",
+        "how-to",
+        "guide",
+        "clematis",
+        "pruning"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Mastering Clematis Pruning: A Group-by-Group Guide to Abundant Blooms All Season",
+    "author": "Randy Thompson",
+    "publish_date": "2025-12-20",
+    "main_content": "When I first started transforming my little 800 sq ft patch here in the UK Midlands five years ago, leaving my IT desk job behind, I had grand visions of a garden bursting with colour. Clematis, with their incredible range of sizes, shapes, and bloom times, were always at the top of my list. What I didn't imagine was the sheer panic that would set in every spring when faced with a tangle of woody stems and the dreaded question: 'Do I cut this back, or leave it alone?' The secret to a clematis bursting with flowers from spring right through to autumn, even here in our changeable British climate, isn't some mystical gardening secret. It's simply understanding their pruning groups. Once you know which group your clematis belongs to, the fear melts away, and you're left with a clear, confident path to abundant blooms. Clematis pruning can seem daunting because there isn't a one-size-fits-all approach. Horticulturalists have neatly categorised them into three main groups. These groups dictate when and how much you should prune, and understanding them is the single most important step to success in your UK garden. For Group 1 clematis, the golden rule is 'prune only if necessary, and only after they've finished flowering.' These beauties produce their magnificent flowers on old wood - that is, the stems that grew the previous year. If you chop them back hard in late winter or early spring, as you might with other types, you'll be cutting off all the buds for the upcoming season. Group 2 clematis typically bloom twice in a season here in the UK: first on old wood, and then again later in the summer on new growth. This means our pruning approach needs to be a gentle dance, encouraging both sets of blooms without sacrificing either. For Group 3, the key is hard pruning. This means cutting them back aggressively every year. I know, it sounds brutal, but this severe cut encourages vigorous new shoots from the base, and it's these fresh stems that will produce all those glorious flowers later in the season. A sharp blade makes a clean cut, which heals faster and reduces the entry points for pests and diseases. I regularly sharpen my secateurs with a small diamond sharpener and keep them clean. After pruning a diseased stem, or even when moving between different plants, I always wipe my blades with rubbing alcohol or a weak bleach solution. This prevents the spread of pathogens, protecting your other precious plants. Removing the 'three Ds' (Dead, Damaged, Diseased) should be your absolute first step in any pruning job, regardless of the clematis group. Clematis are surprisingly resilient, and they often forgive an ill-timed snip. What truly matters is getting out there, observing your plants in our unique British climate, and learning what works best in your own patch.",
+    "with": [
+      "The secret to a clematis bursting with flowers from spring right through to autumn, even here in our changeable British climate, isn't some mystical gardening secret. It's simply understanding their pruning groups.",
+      "Group 1 clematis produce their magnificent flowers on old wood - that is, the stems that grew the previous year. If you chop them back hard in late winter or early spring, as you might with other types, you'll be cutting off all the buds for the upcoming season.",
+      "Group 2 clematis typically bloom twice in a season here in the UK: first on old wood, and then again later in the summer on new growth.",
+      "The key with Group 3 is hard pruning. This means cutting them back aggressively every year. I know, it sounds brutal, but this severe cut encourages vigorous new shoots from the base.",
+      "A sharp blade makes a clean cut, which heals faster and reduces the entry points for pests and diseases."
+    ],
+    "without": [
+      "Search articles...",
+      "GardenWith.Me",
+      "© GardenWithMe 2025. All rights reserved.",
+      "Get the Hindustan Times app!",
+      "Follow us on Telegram, Facebook, Instagram"
+    ],
+    "images": {
+      "total_in_content": 4,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://images.pexels.com/photos/35274982/pexels-photo-35274982.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "filename": "pexels-photo-35274982.jpeg",
+          "alt": "Mastering Clematis Pruning: A Group-by-Group Guide to Abundant Blooms All Season",
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://images.pexels.com/photos/16697966/pexels-photo-16697966.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "filename": "pexels-photo-16697966.jpeg",
+          "alt": "clematis montana blooming UK garden",
+          "caption": null,
+          "is_hero": false
+        },
+        {
+          "src": "https://images.pexels.com/photos/6714306/pexels-photo-6714306.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "filename": "pexels-photo-6714306.jpeg",
+          "alt": "clematis hard prune technique UK",
+          "caption": null,
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:22:25.157498"
+}

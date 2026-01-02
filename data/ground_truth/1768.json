@@ -1,0 +1,68 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.uwkc.org/need-help/tax-help/",
+  "file_id": "1768",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "tax-preparation",
+        "community-service",
+        "nonprofit",
+        "government-program"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Get Free Tax Help | United Way of King County",
+    "author": null,
+    "publish_date": null,
+    "main_content": "United Way of King County offers free tax preparation services for Washington residents who earn less than $80,000 per year (or less than $96,000 for non-single filers). IRS-certified volunteers provide free tax assistance through in-person and virtual options. The program helps taxpayers maximize refunds by taking advantage of credits like the Earned Income Tax Credit, Child Tax Credit, and the Washington Working Families Tax Credit. Tax sites operate from May to July 31st at Seattle Public Library and Southcenter Mall, as well as virtually through GetYourRefund.org. Volunteers can prepare current year returns and back taxes going back to 2019. Required documents include Social Security Cards or ITINs, photo ID, and income documents like W-2s and 1099s. Eligibility excludes returns with out-of-state income, cryptocurrency sales, certain Schedule K-1 forms, and complex business situations. Virtual tax assistance is available starting May 6th, 2025, requiring document uploads and virtual appointment scheduling. Alternative self-filing options include IRS Direct File and MyFreeTaxes.com. Contact freetax@uwkc.org for questions.",
+    "with": [
+      "If you make less than $80,000 a year (or less than $96,000 for non-single filers), we'll do the work of preparing your taxes for free.",
+      "The Free Tax Preparation Campaign's IRS-certified volunteers will be available in person and virtually to do your taxes for free in 2025.",
+      "Our normal season hours are over and we are currently closed, but we will reopen in May at the downtown Seattle Public Library and Southcenter Mall.",
+      "Proof of your Social Security Number is required to file at a United Way tax site.",
+      "The Working Families Tax Credit (WFTC) is a new annual tax credit for Washington residents with low to moderate income, including undocumented people and mixed status families."
+    ],
+    "without": [
+      "Donate",
+      "Copyright 2025",
+      "Skip to main content",
+      "Privacy Policy",
+      "facebook"
+    ],
+    "images": {
+      "total_in_content": 12,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://www.uwkc.org/wp-content/uploads/2020/11/Free_Tax_3.jpg",
+          "filename": "Free_Tax_3.jpg",
+          "alt": "A tax volunteer poses with a person who holds up a tax document. both are smiling and looking at the camera.",
+          "caption": "A tax volunteer poses with a person who holds up a tax document. both are smiling and looking at the camera.",
+          "is_hero": false
+        },
+        {
+          "src": "https://www.uwkc.org/wp-content/uploads/2023/11/Free_Tax_Web_Header-2.jpg",
+          "filename": "Free_Tax_Web_Header-2.jpg",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        },
+        {
+          "src": "https://www.uwkc.org/wp-content/uploads/2020/03/Man-working-from-home-with-cat.jpg",
+          "filename": "Man-working-from-home-with-cat.jpg",
+          "alt": "Man working at a home computer wearing a hat and holding a cat.",
+          "caption": "Man working at a home computer wearing a hat and holding a cat.",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:14:11.489206"
+}

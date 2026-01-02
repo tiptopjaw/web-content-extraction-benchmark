@@ -1,27 +1,118 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.goodreads.com/shelf/show/tutorial",
   "file_id": "1301",
-  "downloaded_at": "2025-12-20T20:31:49.338251",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "books",
+        "goodreads",
+        "tutorial",
+        "shelf",
+        "library"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Tutorial Books",
     "author": null,
     "publish_date": null,
-    "main_content": "Tutorial Books\nShowing 1-50 of 392\n\nThe Rust Programming Language (ebook) by Steve Klabnik (shelved 2 times as tutorial) avg rating 4.50 — 1,771 ratings — published \nThe New Drawing on the Right Side of the Brain (Paperback) by Betty Edwards (shelved 2 times as tutorial) avg rating 3.87 — 379,173 ratings — published 1979\nHands-On Machine Learning with Scikit-Learn and TensorFlow (ebook) by Aurélien Géron (shelved 2 times as tutorial) avg rating 4.55 — 2,782 ratings — published 2017\nThe Little Book of Big F*#k Ups: 220 of History's Most-Regrettable Moments (Paperback) by Ken Lytle (shelved 2 times as tutorial) avg rating 3.46 — 82 ratings — published 2011\nSave the Cat: The Last Book on Screenwriting You'll Ever Need (Paperback) by Blake Snyder (shelved 2 times as tutorial) avg rating 4.02 — 21,659 ratings — published 2005\nProgramming Perl (Hardcover) by Tom Christiansen (shelved 2 times as tutorial) avg rating 4.06 — 2,301 ratings — published 1991\nThe C++ Standard Library: A Tutorial and Reference (Hardcover) by Nicolai M. Josuttis (shelved 2 times as tutorial) avg rating 4.21 — 623 ratings — published 1999\nThe Turn of the Screw (Paperback) by Henry James (shelved 1 time as tutorial) avg rating 3.38 — 178,694 ratings — published 1898\nCarmilla (Paperback) by J. Sheridan Le Fanu (shelved 1 time as tutorial) avg rating 3.87 — 191,405 ratings — published 1872\nDracula (Paperback) by Bram Stoker (shelved 1 time as tutorial) avg rating 4.02 — 1,462,628 ratings — published 1897\nThe Picture of Dorian Gray (Paperback) by Oscar Wilde (shelved 1 time as tutorial) avg rating 4.13 — 1,853,402 ratings — published 1890\nFrankenstein: The 1818 Text (Paperback) by Mary Wollstonecraft Shelley (shelved 1 time as tutorial) avg rating 3.90 — 1,862,330 ratings — published 1818\nWuthering Heights (Paperback) by Emily Brontë (shelved 1 time as tutorial) avg rating 3.90 — 2,021,257 ratings — published 1847\nDr. Jekyll and Mr. Hyde (Mass Market Paperback) by Robert Louis Stevenson (shelved 1 time as tutorial) avg rating 3.83 — 660,477 ratings — published 1886\nJane Eyre (Paperback) by Charlotte Brontë (shelved 1 time as tutorial) avg rating 4.16 — 2,305,825 ratings — published 1847",
+    "main_content": "This is a Goodreads shelf page displaying books shelved as 'tutorial'. The collection contains 392 books with 1-50 currently shown. The tutorial genre includes books that teach skills or serve as instructional guides across various subjects. Featured books include technical programming tutorials like 'The Rust Programming Language' by Steve Klabnik, 'Hands-On Machine Learning with Scikit-Learn and TensorFlow' by Aurélien Géron, 'Programming Perl' by Tom Christiansen, and 'The C++ Standard Library' by Nicolai M. Josuttis. Art and creative instruction is represented by 'The New Drawing on the Right Side of the Brain' by Betty Edwards, 'How to Draw: Sketch and Draw Anything, Anywhere', and 'Wild Watercolor: Weekly Lessons and Techniques for Stunning Creations'. Classical literature appears in this tutorial category including 'Dracula' by Bram Stoker, 'Frankenstein: The 1818 Text' by Mary Wollstonecraft Shelley, 'Jane Eyre' by Charlotte Brontë, and 'Wuthering Heights' by Emily Brontë. Self-help and psychology books include 'Cognitive Behavioral Therapy: Techniques for Retraining Your Brain'. The page allows users to view book ratings, add books to their reading shelves, and rate books on a 5-star scale.",
     "with": [
-      "Tutorial Books",
-      "Showing 1-50 of 392",
-      "The Rust Programming Language (ebook) by Steve Klabnik (shelved 2 times as tutorial) avg rating 4.50 — 1,771 ratings — published",
-      "The New Drawing on the Right Side of the Brain (Paperback) by Betty Edwards (shelved 2 times as tutorial) avg rating 3.87 — 379,173 ratings — published 1979",
-      "Hands-On Machine Learning with Scikit-Learn and TensorFlow (ebook) by Aurélien Géron (shelved 2 times as tutorial) avg rating 4.55 — 2,782 ratings — published 2017"
+      "This is a Goodreads shelf page displaying books shelved as 'tutorial'.",
+      "The Rust Programming Language by Steve Klabnik is shelved 2 times as tutorial with an average rating of 4.50.",
+      "Books shelved as tutorial include programming guides, art instruction manuals, and self-help books.",
+      "The New Drawing on the Right Side of the Brain by Betty Edwards has an average rating of 3.87 based on 379,173 ratings.",
+      "This collection shows books that teach skills or serve as instructional guides across various subjects."
     ],
     "without": [
-      "Home",
-      "My Books",
-      "Browse ▾",
-      "Discover new books on Goodreads",
-      "Sign in with Facebook"
-    ]
+      "Goodreads Home | Meet your next favorite book",
+      "Browse ▾ Community ▾ Search books Sign In Join Sign up",
+      "Want to Read Currently Reading Read",
+      "Connect with Facebook Sign in with Facebook",
+      "Join Goodreads"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518920310l/25008661._SX50_.jpg",
+          "filename": "25008661._SX50_.jpg",
+          "alt": "The Rust Programming Language",
+          "caption": "The Rust Programming Language by Steve Klabnik",
+          "is_hero": true
+        },
+        {
+          "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348133732l/627206._SX50_.jpg",
+          "filename": "627206._SX50_.jpg",
+          "alt": "The New Drawing on the Right Side of the Brain",
+          "caption": "The New Drawing on the Right Side of the Brain by Betty Edwards",
+          "is_hero": false
+        },
+        {
+          "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478536137l/32899495._SX50_.jpg",
+          "filename": "32899495._SX50_.jpg",
+          "alt": "Hands-On Machine Learning with Scikit-Learn and TensorFlow",
+          "caption": "Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurélien Géron",
+          "is_hero": false
+        },
+        {
+          "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715280580l/49464._SX50_.jpg",
+          "filename": "49464._SX50_.jpg",
+          "alt": "Save the Cat: The Last Book on Screenwriting You'll Ever Need",
+          "caption": "The Little Book of Big F*#k Ups: 220 of History's Most-Regrettable Moments by Ken Lytle",
+          "is_hero": false
+        },
+        {
+          "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348994205l/610246._SX50_.jpg",
+          "filename": "610246._SX50_.jpg",
+          "alt": "The C++ Standard Library: A Tutorial and Reference",
+          "caption": "Programming Perl by Tom Christiansen",
+          "is_hero": false
+        },
+        {
+          "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520391653l/39067892._SX50_.jpg",
+          "filename": "39067892._SX50_.jpg",
+          "alt": "Cognitive Behavioral Therapy: Techniques for Retraining Your Brain",
+          "caption": "Cognitive Behavioral Therapy: Techniques for Retraining Your Brain",
+          "is_hero": false
+        },
+        {
+          "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1612740722l/55339971._SX50_.jpg",
+          "filename": "55339971._SX50_.jpg",
+          "alt": "The New Oil Painting: Your Essential Guide to Materials and Safe Practices",
+          "caption": "The New Oil Painting: Your Essential Guide to Materials and Safe Practices",
+          "is_hero": false
+        },
+        {
+          "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530205165l/40663209._SX50_.jpg",
+          "filename": "40663209._SX50_.jpg",
+          "alt": "How to Draw: Sketch and Draw Anything, Anywhere",
+          "caption": "How to Draw: Sketch and Draw Anything, Anywhere",
+          "is_hero": false
+        },
+        {
+          "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1744702662l/231188298._SX50_.jpg",
+          "filename": "231188298._SX50_.jpg",
+          "alt": "Wild Watercolor: Weekly Lessons and Techniques for Stunning Creations",
+          "caption": "Wild Watercolor: Weekly Lessons and Techniques for Stunning Creations",
+          "is_hero": false
+        },
+        {
+          "src": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633987074l/59331367._SX50_.jpg",
+          "filename": "59331367._SX50_.jpg",
+          "alt": "アメリーの きもの やわらか暮らし",
+          "caption": "アメリーのきもの やわらか暮らし",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:31:49.338258"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:31:30.765505"
 }

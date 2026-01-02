@@ -1,0 +1,68 @@
+{
+  "schema_version": "2.0",
+  "url": "https://acsm.org/top-fitness-trends-2025/",
+  "file_id": "0306",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "health",
+        "fitness",
+        "trends",
+        "news"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "ACSM Announces Top Fitness Trends for 2025",
+    "author": "ckinser@acsm.org",
+    "publish_date": "2024-10-22",
+    "main_content": "The American College of Sports Medicine (ACSM) has unveiled its annual predictions for the top fitness trends for 2025. For the eighth year in a row, digital technology has been ranked as the No. 1 trend in the worldwide fitness industry. Wearable technology, including smart watches, heart rate monitors, and GPS tracking devices, has become an essential tool for fitness professionals and exercisers alike. Mobile exercise apps round out the technology category, making it easier than ever for individuals to access workout programs, track progress, and receive personalized guidance. Exercise is medicine moved up to the No. 2 spot this year, reflecting the growing recognition of physical activity's crucial role in preventing and treating chronic diseases. Personal trainers remain highly relevant at No. 3, while hybrid gym models combining in-person and digital offerings ranked fourth. Other notable trends include fitness programming for older adults, which moved into the top 10 this year, stress management and sleep recovery, health and wellness coaching, Zumba, and lifestyle medicine. The survey responses were collected from fitness professionals worldwide and reflect the evolving landscape of the fitness industry.",
+    "with": [
+      "The American College of Sports Medicine (ACSM) has unveiled its annual predictions for the top fitness trends for 2025.",
+      "For the eighth year in a row, digital technology has been ranked as the No. 1 trend in the worldwide fitness industry.",
+      "Wearable technology, including smart watches, heart rate monitors, and GPS tracking devices, has become an essential tool for fitness professionals and exercisers alike.",
+      "Exercise is medicine moved up to the No. 2 spot this year, reflecting the growing recognition of physical activity's crucial role in preventing and treating chronic diseases.",
+      "The survey responses were collected from fitness professionals worldwide and reflect the evolving landscape of the fitness industry."
+    ],
+    "without": [
+      "Skip to content",
+      "Join Today",
+      "Login",
+      "Privacy Policy",
+      "ACSM Journals"
+    ],
+    "images": {
+      "total_in_content": 7,
+      "annotated_count": 3,
+      "items": [
+        {
+          "src": "https://acsm.org/wp-content/uploads/2024/10/trends-wearable-technology.png",
+          "filename": "trends-wearable-technology.png",
+          "alt": "woman outside looking at smart watch",
+          "caption": "Wearable technology trends for 2025",
+          "is_hero": true
+        },
+        {
+          "src": "https://acsm.org/wp-content/uploads/2024/10/trends-wearable-technology-1024x482.png",
+          "filename": "trends-wearable-technology-1024x482.png",
+          "alt": "woman outside looking at smart watch",
+          "caption": "Wearable technology trends for 2025",
+          "is_hero": false
+        },
+        {
+          "src": "https://acsm.org/wp-content/uploads/2025/10/2026-fitness-trends-wearable-technology-young-woman-spot-color-1024x663.png",
+          "filename": "2026-fitness-trends-wearable-technology-young-woman-spot-color-1024x663.png",
+          "alt": "2026 fitness trends, wearable technology",
+          "caption": "2026 fitness trends wearable technology young woman",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:46:38.649246"
+}

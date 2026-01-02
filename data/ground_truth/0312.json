@@ -1,0 +1,83 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.today.com/health/diet-fitness/fitness-trends-2025-rcna184567",
+  "file_id": "0312",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "health",
+        "fitness",
+        "trends",
+        "wellness",
+        "exercise"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "The No. 1 most popular workout of 2024 — and 5 fitness trends to expect in 2025",
+    "author": "Nicoletta Richardson",
+    "publish_date": "2024-12-23",
+    "main_content": "With January around the corner, you may already be focused on figuring out your health goals for next year. Maybe a FitBit is on your Christmas list, or you've made a resolution to sign up for monthly group workout classes with a friend. But before you decide exactly what 2025 fitness trends you want to invest in, take a peek at the most popular workouts of 2024, compiled by Strava, ClassPass and more. From Pilates continuing to lead as the fitness It Girl to music-themed classes having a moment, the trends of 2024 give a glimpse at priorities in 2025. Pilates is the most-booked workout for the second year in a row. As part of its annual workout trends report, ClassPass shared that Pilates was the most-booked workout on an international scale in 2024, its second year in a row in the top spot. Pilates increased its bookings on the platform by 84% since last year, so popularity around Pilates isn't slowing down anytime soon. Pilates, which started in the early 1900s as a method for dancers to recover from injury, has reached new popularity in the 21st century. While mat Pilates continues to be a tried-and-true format, variations like wall Pilates and reformers have added variety into the mix. ClassPass said in its report that Pilates' 'strong social media presence' and 'devoted following' are the main reasons it's the top workout of 2024. Heather Andersen, founder of New York Pilates who's been teaching Pilates for 18 years, tells TODAY.com that she noticed it 'came into the spotlight' after the COVID-19 pandemic hit. 'It is a really strange experience to go through having something that was my niche thing that I was into, no one knew what it was, to all of a sudden being in a world where my niche thing that I was into is now the hot thing that everyone is into,' Andersen explains. Strength training is ready to take center stage. Popular workout tracking app Strava reported that weight training was the fastest-growing sport among women in 2024, and the American College of Sports Medicine ranks traditional strength training as No. 5 on its top 10 worldwide fitness trends for 2025. Not only is strength training important for people to build and maintain muscle mass throughout their lifetime, but it can also prevent injury and disease down the line, as well as increase self-esteem. Obé Fitness co-founder Ashley Millers says interest in strength training at her business has drastically increased this year, especially for older women. Research shows that strength training can be especially beneficial in the perimenopausal and menopausal years. Community-centric activities are on the rise. Beach volleyball has emerged as a trending fitness activity that combines exercise with social interaction. Group workouts and outdoor activities are becoming increasingly popular as people seek more social and engaging exercise experiences. The emphasis on community-based fitness reflects a broader trend of combining physical health with social connections.",
+    "with": [
+      "Pilates is the most-booked workout for the second year in a row.",
+      "ClassPass shared that Pilates was the most-booked workout on an international scale in 2024, its second year in a row in the top spot.",
+      "Popular workout tracking app Strava reported that weight training was the fastest-growing sport among women in 2024.",
+      "The American College of Sports Medicine ranks traditional strength training as No. 5 on its top 10 worldwide fitness trends for 2025.",
+      "Community-centric activities are on the rise as people seek more social workout experiences."
+    ],
+    "without": [
+      "Sign up / Sign in",
+      "Follow today on social media",
+      "Amazon Super Saturday Deals",
+      "Privacy Policy",
+      "Start TODAY app download promotion"
+    ],
+    "images": {
+      "total_in_content": 31,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/rockcms/2024-12/best-2024-workout-cz-241218-e7a837.jpg",
+          "filename": "best-2024-workout-cz-241218-e7a837.jpg",
+          "alt": "Hand carrying a star dumbbell",
+          "caption": "As 2024 comes to a close, walk down memory lane to see how this year's trends has impacted the emerging trends in 2025.",
+          "is_hero": true
+        },
+        {
+          "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2024-12/best-2024-workout-inline-4-cz-241218-851b17.jpg",
+          "filename": "best-2024-workout-inline-4-cz-241218-851b17.jpg",
+          "alt": "women doing pilates",
+          "caption": "Pilates snags the No. 1 spot as the most-booked workout globally on ClassPass in 2024.",
+          "is_hero": false
+        },
+        {
+          "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2024-12/best-2024-workout-inline-1-cz-241218-becc66.jpg",
+          "filename": "best-2024-workout-inline-1-cz-241218-becc66.jpg",
+          "alt": "woman lifting hand weights",
+          "caption": "Strength training continues to rise in popularity and will continue to be a focus, according to multiple reports.",
+          "is_hero": false
+        },
+        {
+          "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2024-12/best-2024-workout-inline-3-cz-241218-4f1f7d.jpg",
+          "filename": "best-2024-workout-inline-3-cz-241218-4f1f7d.jpg",
+          "alt": "Four people playing volleyball on beach",
+          "caption": "Beach volleyball has emerged as a trending fitness activity that combines exercise with social interaction.",
+          "is_hero": false
+        },
+        {
+          "src": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/rockcms/2024-12/best-2024-workout-inline-5-cz-241218-172c12.jpg",
+          "filename": "best-2024-workout-inline-5-cz-241218-172c12.jpg",
+          "alt": "Athletic women having a stationary cycling class in a gym",
+          "caption": "Group fitness classes and community activities are on the rise as people seek more social workout experiences.",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:49:06.276498"
+}

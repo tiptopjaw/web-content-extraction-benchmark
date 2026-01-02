@@ -1,27 +1,82 @@
 {
+  "schema_version": "2.0",
   "url": "https://business.fau.edu/executive-education/professional-development/",
   "file_id": "0520",
-  "downloaded_at": "2025-12-20T20:20:33.469491",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "professional-development",
+        "certification-programs",
+        "executive-education"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Professional Development",
+    "title": "Professional Development Certification Programs | FAU Business",
     "author": null,
     "publish_date": null,
-    "main_content": "Florida Atlantic Executive Education Professional Development programs offer over 60 national and international certification programs—the most diversified selection of professional development courses in South Florida.\n\nFor the third year in a row, the Financial Times ranks Florida Atlantic Executive Education Professional Development Programs No. 1 in Florida in the 2025 Executive Education Open Enrollment ranking. Florida Atlantic also ranked No. 4 in the United States.\n\nDesigned and taught by subject matter experts, our programs prepare working professionals to master relevant knowledge, better their performance at work, diversify their expertise, and further their careers. Our convenient and flexible courses and certification programs are taught online, evenings, weekends or in boot camps to fit within busy lifestyles with competing priorities.\n\nWhether you are ready to become a Senior Human Resource Professional (SPHR)®, pursue the Project Management Professional (PMP)® certification, or aim to become a Certified Financial Planner (CFP)®, Florida Atlantic Executive Education Professional Development has the programs that will help advance your career aspirations.\n\nAll programs are available for corporate on-site training.\n\nAccounting and Auditing\nAccounting and auditing are crucial business functions across every industry. Stakeholders depend on accountants to prepare timely and accurate financial reports. Auditors examine these financial documents to ensure accurate representation of a company’s financial position and verify that the accounting procedures comply with generally accepted accounting principles.\n\nBusiness Technologies and Data Analytics\nIn today’s data-driven landscape, businesses thrive by using data to garner insights for calculating strategic plans and making better decisions. Business and Data Analytics is the new competitive advantage and a crucial step towards optimizing business operations and predicting future possibilities.\n\nFinance\nParticularly during challenging economic times, financial acumen is expected at every organizational level. Florida Atlantic University’s Finance certification programs increase understanding of financial techniques and practices while preparing students to earn leading Finance designations and certifications.\n\nHealthcare Administration and Medical Business Management\nCoordination of the medical office staff are vital to effective patient care. Florida Atlantic University's Healthcare Administration and Medical Business Management programs provide information essential to every practitioner and medical office professional on how to effectively run a medical business office.\n\nHospitality\nThe hospitality and tourism industry, the world’s largest service industry employs millions. In addition, tens of billions of dollars are spent on the estimated twenty million meetings and events held every day. Florida Atlantic University's Hospitality programs enable students to stay on top of one’s education and expand knowledge across industry segments and help associates plan their best pathway toward success.\n\nHuman Resource Management\nKnowledgeable Human Resource professionals are always in high demand. Florida Atlantic University's Human Resource Management programs are designed for those who want to become Human Resource professionals and develop the skills necessary to meet complex workplace challenges.\n\nManagement and leadership\nFor any business to grow and remain profitable, its team must master crucial skills in management and leadership. Florida Atlantic University’s Management and Leadership programs guide students to develop advanced practices in management and become the next generation of innovative and effective leaders.\n\nMarketing\nMarketing managers are responsible for formulating marketing strategies, estimating demand, identifying markets, and setting prices in order to maximize profits, increase market share, and retain customers. Florida Atlantic University's Marketing programs will expand your knowledge of marketing practices.\n\nProject Management\nAs business environments become more complex, organizations are challenged with addressing new project ventures. Florida Atlantic University offers management training programs ideal for learning comprehensive project management methodology, preparing for certification exams, or maintaining certifications.\n\nSales\nStrong sales are one of the most critical factors in any organization’s success and longevity. Stellar sales managers have enthusiasm, commitment, confidence, and a foundation in sales management best practices. Florida Atlantic University's Sales Management programs deliver essential skills for sales success.\n\nLean Six Sigma\nLean Six Sigma certifications will give you the knowledge to improve business operations by minimizing inefficiencies from every process, and transaction. Florida Atlantic University's Lean Six Sigma programs are proven to maximize performance, earn respect of business professionals, and achieve greater success.\n\nStrategy\nStrategic acumen is a trait fundamental for any leader to employ. Florida Atlantic University's Strategy courses promote alignment of business goals across multiple areas and the successful application of solutions by building a skill foundation in scenario forecasting, risk mitigation, and policy adaption.\n\nSupply Management\nSupply Chain Management remains a key component to organizational success and Florida Atlantic University's Supply Management programs provide the necessary knowledge. As executives strive to increase revenue and decrease waste, the need for supply chain experts able to utilize supply chain methodology grows.\n\nCustomized Corporate Training\nA custom program with FAU Corporate Training creates a transformational learning opportunity that address your team's specific needs. Group training designed specifically for you creates meaningful and lasting change from within. Investing in your most valuable resource - your people - is fundamental to your long-term success.\n\nMeeting and Event Facilities\nExplore unparalleled excellence at our state-of-the-art Executive Education facilities in Boca Raton, FL. Our 52,000-square-foot space integrates cutting-edge instructional technology, ensuring comfort for advanced learning. Reserve this sophisticated venue for your corporate event, benefiting from executive-style spaces and comprehensive event support. At FAU Executive Education, success thrives in an environment where learning and opportunities for connection converge!",
+    "main_content": "Florida Atlantic Executive Education Professional Development programs offer over 60 national and international certification programs—the most diversified selection of professional development courses in South Florida. For the third year in a row, the Financial Times ranks Florida Atlantic Executive Education Professional Development Programs No. 1 in Florida in the 2025 Executive Education Open Enrollment ranking. Florida Atlantic also ranked No. 4 in the United States. Designed and taught by subject matter experts, our programs prepare working professionals to master relevant knowledge, better their performance at work, diversify their expertise, and further their careers. Our convenient and flexible courses and certification programs are taught online, evenings, weekends or in boot camps to fit within busy lifestyles with competing priorities. Whether you are ready to become a Senior Human Resource Professional (SPHR)®, pursue the Project Management Professional (PMP)® certification, or aim to become a Certified Financial Planner (CFP)®, Florida Atlantic Executive Education Professional Development has the programs that will help advance your career aspirations. Course categories include: Accounting and Auditing, Business Technologies and Data Analytics, Finance, Healthcare Administration and Medical Business Management, Hospitality, Human Resource Management, Management and Leadership, Marketing, Project Management, Sales, Lean Six Sigma, Strategy, and Supply Management. All programs are available for corporate on-site training.",
     "with": [
       "Florida Atlantic Executive Education Professional Development programs offer over 60 national and international certification programs—the most diversified selection of professional development courses in South Florida.",
       "For the third year in a row, the Financial Times ranks Florida Atlantic Executive Education Professional Development Programs No. 1 in Florida in the 2025 Executive Education Open Enrollment ranking.",
       "Designed and taught by subject matter experts, our programs prepare working professionals to master relevant knowledge, better their performance at work, diversify their expertise, and further their careers.",
-      "Whether you are ready to become a Senior Human Resource Professional (SPHR)®, pursue the Project Management Professional (PMP)® certification, or aim to become a Certified Financial Planner (CFP)®, Florida Atlantic Executive Education Professional Development has the programs that will help advance your career aspirations.",
-      "All programs are available for corporate on-site training."
+      "Our convenient and flexible courses and certification programs are taught online, evenings, weekends or in boot camps to fit within busy lifestyles with competing priorities.",
+      "Whether you are ready to become a Senior Human Resource Professional (SPHR)®, pursue the Project Management Professional (PMP)® certification, or aim to become a Certified Financial Planner (CFP)®, Florida Atlantic Executive Education Professional Development has the programs that will help advance your career aspirations."
     ],
     "without": [
       "FLORIDA ATLANTIC UNIVERSITY®",
-      "COLLEGE OF BUSINESS",
-      "QUICK LINKS!",
-      "Alumni Business Communications Economics Executive Education Faculty in the Media Faculty Research Finance Giving Health Administration Hospitality & Tourism Management Information Technology & Operations Management Management Programs Marketing Masters & Ph.D. School of Accounting",
-      "Financial Times Ranking"
-    ]
+      "QUICK LINKS navigation menu",
+      "UNDERGRADUATE BUSINESS PROGRAMS",
+      "MASTERS & PH.D. PROGRAMS",
+      "FACULTY AND RESEARCH"
+    ],
+    "images": {
+      "total_in_content": 44,
+      "annotated_count": 5,
+      "items": [
+        {
+          "src": "https://business.fau.edu/images/business/execed/open-enrollment-courses/images/2025-PDP-FT-Rankings-812x381.jpg",
+          "filename": "2025-PDP-FT-Rankings-812x381.jpg",
+          "alt": "Financial Times Ranking",
+          "caption": "Financial Times Ranking - No. 1 in Florida for Executive Education Professional Development Programs 2025",
+          "is_hero": true
+        },
+        {
+          "src": "https://business.fau.edu/images/business/execed/admin/2023-06-EE-masthead-exterior-812x381.jpg",
+          "filename": "2023-06-EE-masthead-exterior-812x381.jpg",
+          "alt": "Schmidt Family Complex College of Business Exterior",
+          "caption": "Schmidt Family Complex College of Business Exterior",
+          "is_hero": false
+        },
+        {
+          "src": "https://business.fau.edu/images/business/execed/admin/2023-06-EE-masthead-interior-812x381.jpg",
+          "filename": "2023-06-EE-masthead-interior-812x381.jpg",
+          "alt": "Schmidt Family Complex College of Business Interior",
+          "caption": "Schmidt Family Complex College of Business Interior",
+          "is_hero": false
+        },
+        {
+          "src": "https://business.fau.edu/images/business/execed/open-enrollment-courses/admin/640%20-%20160%20Accounting%20and%20Auditing.png",
+          "filename": "640%20-%20160%20Accounting%20and%20Auditing.png",
+          "alt": "FAU Accounting student and teacher going over Accounting and Auditing paperwork",
+          "caption": "FAU Accounting student and teacher going over Accounting and Auditing paperwork",
+          "is_hero": false
+        },
+        {
+          "src": "https://business.fau.edu/images/business/execed/open-enrollment-courses/admin/640x160%20Business%20Analytics.png",
+          "filename": "640x160%20Business%20Analytics.png",
+          "alt": "Student at FAU reviewing Business and Data Analytics",
+          "caption": "Student at FAU reviewing Business and Data Analytics",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:20:33.469496"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:17:20.458826"
 }

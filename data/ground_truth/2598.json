@@ -1,27 +1,54 @@
 {
+  "schema_version": "2.0",
   "url": "http://blog.unicode.org/2025/12/opening-cldr-survey-tool-early-for-ddl.html",
   "file_id": "2598",
-  "downloaded_at": "2025-12-20T23:23:48.140458",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "CLDR",
+        "Unicode",
+        "announcement",
+        "localization"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Opening CLDR Survey Tool early for DDL locales",
     "author": "Unicode, Inc.",
     "publish_date": "2025-12-19",
-    "main_content": "We are announcing an early submission window for the CLDR Survey Tool, exclusively for Digitally Disadvantaged Languages (DDLs). These include languages across the world that lack full digital support, such as Qʼeqchiʼ with about 1.3M speakers, and many more.\n\nThe early submission window will allow more time for individuals and organizations that make DDL contributions, providing crucial data to close the digital support gap. The data will go into the CLDR v50 release, targeted at October 2026. Languages maintained by the CLDR Technical Committee are not available during this special window. They will be available for submission in Q2 2026.\n\nSee DDL: Help Center for more information on how to contribute to a DDL language.\n\nIf your language is not yet in CLDR, organizations can submit a formal request to add it; see adding a new language.\n\nCLDR Organizations are needed for approval of CLDR data, so that it can be picked up by libraries, applications, programming languages, and operating systems. To register a new CLDR Organization, see adding an organization to CLDR. Individuals can also request languages and submit/approve data; however, the data cannot reach even Basic coverage without at least one CLDR Organization supporting it.\n\nWhat is CLDR?\n\nCLDR provides key building blocks for software to support the world's languages (dates, times, numbers, sort-order, etc.). All major browsers and all modern mobile phones use CLDR for language support. (See Who uses CLDR?)\n\nContributors supply data for their languages via the online Survey Tool. This data is widely used to support much of the world’s software and is also a factor in determining which languages are supported on mobile phones and computer operating systems.\n\nThe Survey Tool opened on December 18, 2025 for DDL languages. The tool will remain open for data submission and correction until July 2026. A public alpha will make the draft data available in early August 2026. Data contributed at this time will be scheduled for publication and available for use in October 2026.\n\nEach additional CLDR language starts with a small set of Core Data, such as a list of characters used in the language. Submitters of new languages commit to bringing the coverage up to a minimum of Basic coverage (very basic formats for dates, times, numbers, and endonyms).\n\nOnce a language reaches Basic coverage, it will have the minimum support for use in language selection, such as on mobile devices. That is the first step; for broader support the Moderate level is typically required.\n\nIf you would like to contribute missing data for your language, see Survey Tool Accounts.",
+    "main_content": "We are announcing an early submission window for the CLDR Survey Tool, exclusively for Digitally Disadvantaged Languages (DDLs). These include languages across the world that lack full digital support, such as Qʼeqchiʼ with about 1.3M speakers, and many more. The early submission window will allow more time for individuals and organizations that make DDL contributions, providing crucial data to close the digital support gap. The data will go into the CLDR v50 release, targeted at October 2026. Languages maintained by the CLDR Technical Committee are not available during this special window. They will be available for submission in Q2 2026. CLDR provides key building blocks for software to support the world's languages (dates, times, numbers, sort-order, etc.). All major browsers and all modern mobile phones use CLDR for language support. Contributors supply data for their languages via the online Survey Tool. This data is widely used to support much of the world's software and is also a factor in determining which languages are supported on mobile phones and computer operating systems. The Survey Tool opened on December 18, 2025 for DDL languages. The tool will remain open for data submission and correction until July 2026. Each additional CLDR language starts with a small set of Core Data, such as a list of characters used in the language. Submitters of new languages commit to bringing the coverage up to a minimum of Basic coverage (very basic formats for dates, times, numbers, and endonyms).",
     "with": [
       "We are announcing an early submission window for the CLDR Survey Tool, exclusively for Digitally Disadvantaged Languages (DDLs).",
       "The early submission window will allow more time for individuals and organizations that make DDL contributions, providing crucial data to close the digital support gap.",
       "CLDR provides key building blocks for software to support the world's languages (dates, times, numbers, sort-order, etc.).",
-      "The Survey Tool opened on December 18, 2025 for DDL languages.",
-      "Once a language reaches Basic coverage, it will have the minimum support for use in language selection, such as on mobile devices."
+      "The Survey Tool opened on December 18, 2025 for DDL languages. The tool will remain open for data submission and correction until July 2026.",
+      "Submitters of new languages commit to bringing the coverage up to a minimum of Basic coverage."
     ],
     "without": [
-      "News, announcements, release info, and calendar updates from the Unicode Consortium",
-      "Adopt a Character and Support Unicode’s Mission",
-      "Looking to give that special someone a special something? Or maybe something to treat yourself?",
-      "Links of Interest",
-      "Blog Archive"
-    ]
+      "Home link in blog pager",
+      "Blog archive navigation",
+      "Label/cloud widget",
+      "Social media share buttons",
+      "Subscribe widget"
+    ],
+    "images": {
+      "total_in_content": 7,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://www.unicode.org/announcements/cldr-ballot-box-image.png",
+          "filename": "cldr-ballot-box-image.png",
+          "alt": "[image]",
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T23:23:48.140464"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:16:03.961149"
 }

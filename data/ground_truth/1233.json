@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://visitfairfield.com/restaurants/",
+  "file_id": "1233",
+  "_internal": {
+    "page_type": {
+      "primary": "directory",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "restaurants",
+        "fairfield",
+        "directory",
+        "travel"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Fairfield Restaurants for Every Taste and Cuisine",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Fairfield is home to an abundant and wide variety of dining establishments. Fairfield has something for every palate. The community is home to chain restaurants, formal dining, and beloved 'hole in the wall' restaurants that have been family owned for decades. Whether you are in the mood for a cheeseburger, Thai, sushi or your favorite Mexican dish, you will find a delicious and memorable restaurant experience here in Fairfield. This directory features restaurants categorized by cuisine type including American, Asian, Burgers, Chinese, Italian, Japanese, Mexican, Thai, and more. Featured restaurants include Mahogany Soul Food, El Caracol Mexican Restaurant, Katna's Kitchen, Favela's Mexican Grill, High Flier Coffee, Maru Korean Bistro, Mamá Por Dios, Million Thai, The Landing, Dutch Bros Coffee, El Templo Del Taco, RG Kitchen, and many others representing the diverse culinary landscape of Fairfield, California.",
+    "with": [
+      "Fairfield is home to an abundant and wide variety of dining establishments.",
+      "Fairfield has something for every palate.",
+      "The community is home to chain restaurants, formal dining, and beloved 'hole in the wall' restaurants that have been family owned for decades.",
+      "Whether you are in the mood for a cheeseburger, Thai, sushi or your favorite Mexican dish, you will find a delicious and memorable restaurant experience here in Fairfield.",
+      "Featured restaurants include Mahogany Soul Food, El Caracol Mexican Restaurant, Katna's Kitchen, Favela's Mexican Grill, High Flier Coffee, Maru Korean Bistro, and Mamá Por Dios."
+    ],
+    "without": [
+      "Fairfield California",
+      "Newsletter Signup",
+      "Instagram icon",
+      "Search for:",
+      "Copyright"
+    ],
+    "images": {
+      "total_in_content": 12,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:13:44.803318"
+}

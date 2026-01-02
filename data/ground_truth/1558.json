@@ -1,27 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.civillawselfhelpcenter.org/self-help/getting-started/lawyers-and-legal-help/60-free-and-low-cost-legal-help",
   "file_id": "1558",
-  "downloaded_at": "2025-12-20T22:04:21.384994",
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "legal",
+        "self-help",
+        "resources",
+        "Nevada"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Free And Low-Cost Legal Help",
+    "title": "Free And Low-Cost Legal Help - Civil Law Self-Help Center",
     "author": null,
     "publish_date": null,
-    "main_content": "There are a number of local organizations where you might be able to obtain free legal assistance or low-cost legal help.\n\nFree Legal Help\n\nSome local organizations provide free legal help or possibly even free representation by an attorney under limited circumstances.  Most of these organizations provide assistance only in certain, specific types of disputes.  And many have requirements and limitations regarding client income, citizenship, age, and the like.  To learn about an organization's requirements and how to apply for services, visit that organization's website or call that organization directly.\n\nAmerican Civil Liberties Union of Nevada\nLegal Aid Center of Southern Nevada\nNevada Attorney for Injured Workers\nNevada Disability Advocacy & Law Center\nNevada Equal Rights Commission\nNevada Legal Services\nSouthern Nevada Senior Law Program\n\nAdditionally, Legal Aid Center of Southern Nevada's Pro Bono Project coordinates private attorneys who generously volunteer to provide free legal assistance to individuals who cannot afford an attorney.  Click to visit our Pro Bono Programs page to learn more.\n\nClick to visit our Classes & Programs section to learn about the Family Law Self-Help Center, free Ask-A-Lawyer programs, free legal classes, and free mediation.\n\nLow-Cost Legal Help\n\nLawyer Referral Service Reduced Fee Panel.  The State Bar of Nevada's Lawyer Referral Service (\"LRS\") is a resource you can use when you need an attorney but are not sure where to find one.  When appropriate, the LRS staff will refer you to Nevada attorneys who are members of LRS.\n\nAll of the attorneys on LRS are private attorneys and will arrange their fees directly with you.  If you cannot afford to pay an attorney's regular fee, the LRS staff will attempt to qualify you for a reduced-fee attorney on the Reduced Fee Panel.  Attorney members on the Reduced Fee Panel can charge no more than $25.00 for an initial 30-minute consultation, or they may waive the fee at their discretion.  After the initial consultation, participating attorneys may charge Reduced Fee Panel clients reasonable attorney's fees (including fees for support staff) up to a maximum hourly rate of $75.00.  To avoid confusion, the Reduced Fee attorney and client are required to reduce any fee agreement to writing.\n\nThe LRS staff can pre-screen you over the phone for the Reduced Fee Panel.  You may earn up to 300% of the federal poverty guidelines and still be eligible.  (A family of four with less than $83,250 annually or a single person who earns $40,770 annually will qualify for legal services at a reduced fee under this program.)  In addition, you may be asked to sign a declaration of income and assets before retaining the attorney.  If your declared income or assets are later revealed to be false or inaccurate, you will be liable retroactively for the full fees due the attorney for actual services provided.\n\nThere is no fee to obtain a referral.  You can call LRS at 702-382-0504, or toll-free within Nevada at 1-800-789-LRIS (5747).  Click to visit the Lawyer Referral and Information Service website.",
+    "main_content": "There are a number of local organizations where you might be able to obtain free legal assistance or low-cost legal help. Some local organizations provide free legal help or possibly even free representation by an attorney under limited circumstances. Most of these organizations provide assistance only in certain, specific types of disputes. And many have requirements and limitations regarding client income, citizenship, age, and the like. The State Bar of Nevada's Lawyer Referral Service (LRS) is a resource you can use when you need an attorney but are not sure where to find one. When appropriate, the LRS staff will refer you to Nevada attorneys who are members of LRS. All of the attorneys on LRS are private attorneys and will arrange their fees directly with you. If you cannot afford to pay an attorney's regular fee, the LRS staff will attempt to qualify you for a reduced-fee attorney on the Reduced Fee Panel. Attorney members on the Reduced Fee Panel can charge no more than $25.00 for an initial 30-minute consultation, or they may waive the fee at their discretion. The LRS staff can pre-screen you over the phone for the Reduced Fee Panel. You may earn up to 300% of the federal poverty guidelines and still be eligible. A family of four with less than $83,250 annually or a single person who earns $40,770 annually will qualify for legal services at a reduced fee under this program.",
     "with": [
       "There are a number of local organizations where you might be able to obtain free legal assistance or low-cost legal help.",
       "Some local organizations provide free legal help or possibly even free representation by an attorney under limited circumstances.",
-      "Additionally, Legal Aid Center of Southern Nevada's Pro Bono Project coordinates private attorneys who generously volunteer to provide free legal assistance to individuals who cannot afford an attorney.",
-      "The State Bar of Nevada's Lawyer Referral Service (\"LRS\") is a resource you can use when you need an attorney but are not sure where to find one.",
-      "Attorney members on the Reduced Fee Panel can charge no more than $25.00 for an initial 30-minute consultation, or they may waive the fee at their discretion."
+      "The State Bar of Nevada's Lawyer Referral Service (LRS) is a resource you can use when you need an attorney but are not sure where to find one.",
+      "Attorney members on the Reduced Fee Panel can charge no more than $25.00 for an initial 30-minute consultation, or they may waive the fee at their discretion.",
+      "The LRS staff can pre-screen you over the phone for the Reduced Fee Panel."
     ],
     "without": [
-      "The Civil Law Self-Help Center has new operating hours! Located in the Regional Justice Center, we are now open 7:00 a.m - 5:00 p.m. on Monday through Thursday, and on Friday from 8:00 a.m. - 4:00 p.m.",
-      "Home Self-Help Getting Started Lawyers And Legal Help Free And Low-Cost Legal Help",
-      "This website was designed and is maintained by Legal Aid Center of Southern Nevada, Inc., a private, nonprofit, 501(c) (3) organization that operates the Civil Law Self-Help Center through a contract with Clark County, Nevada.",
-      "All content © Legal Aid Center of Southern Nevada 2025",
-      "Language Selection: Select Language English Spanish"
-    ]
+      "Copyright 2025",
+      "Privacy Policy link",
+      "Main navigation menu",
+      "Google search box",
+      "Share this page button"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:04:21.385000"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:19:34.250910"
 }

@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.atlasvanlines.com/blog/packing-tips-guide",
+  "file_id": "0508",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "moving",
+        "packing",
+        "how-to",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Packing Tips Guide",
+    "author": "Benjamin Johnson, Sr. Director of Operations, Atlas Van Lines - 10+ Years in the Moving Industry",
+    "publish_date": "2024-02-12",
+    "main_content": "Many people find that taking advantage of the packing services offered by their moving company makes the relocation process significantly less stressful. Others, however, prefer to take care of the packing themselves. If you fall into the latter category, there are steps you can take to ensure the packing process is as efficient as possible. There are plenty of important tasks to take on before your move, from transferring utilities to scheduling your movers. Of all the jobs to finish before moving day, packing may be the most complicated. You do not want to pack anything too early, but you do not want to leave it to the last minute, either. Packing also involves a lot of physical labor. To make unpacking as easy as possible, use these expert tips below. Packing Fragile Items: Not everything comes with you when you move, but your most important items always make the cut. In many cases, that means high-value, fragile items are being packed and shipped. Books are very susceptible to damage from water, humidity, dirt, and mud. Use only small or medium-sized boxes and reinforce the bottom with packing tape. For dishware, use a medium-sized box and line the bottom with crumpled packing paper, wrapping each dish in paper and storing plates on their edge. Electronics should be kept in a cool, dry space, wrapped in plenty of packing paper and bubble wrap, with batteries removed from portable devices. Mirrors should be wrapped in towels, sheets, or blankets with cardboard in between. Efficient Packing Tips: Start with the easy stuff like seasonal clothing, extra linens, out-of-season items, books, and dishes you do not use daily. Plan what to pack by considering clothing and non-perishable foods. Consider leaving packing to the professionals for antiques, large items, and especially fragile possessions. Create an organizational system by color-coding boxes or numbering them with corresponding inventory lists. Pack with weight and volume in mind by mixing light and heavy items, using small boxes for heavy items and large boxes for lighter ones. Label boxes with room and contents information. Use everyday items like towels and clothing to protect fragile belongings. Take pictures before packing to remember arrangements. Declutter first by trashing damaged items and selling or donating unused items. Gather plenty of packing supplies including boxes, packing tape, bubble wrap, markers, and plastic baggies. Know the packing basics: spread packing out over weeks, place heavy items on bottom, and pack essentials boxes first. Packing for a Temporary Living Situation: Only pack things you will need, factor in climate differences, and determine what furniture is included in your rental. Store items you are not bringing. The Dos and Don'ts of Unpacking: Do unpack the essentials box first, unpack the kitchen early, and take breaks to enjoy your new space. Do not assemble large furniture until you have planned placement, and do not try to unpack everything in one day.",
+    "with": [
+      "Many people find that taking advantage of the packing services offered by their moving company makes the relocation process significantly less stressful.",
+      "Of all the jobs to finish before moving day, packing may be the most complicated.",
+      "Use only small or medium-sized boxes when packing books to prevent boxes from tearing under the weight.",
+      "For electronics, remove batteries from portable devices as they can explode or leak battery acid if they get hot or are punctured during the move.",
+      "Atlas's professional packing and unpacking services have complimented local, long-distance, and international moves for over 75 years."
+    ],
+    "without": [
+      "Skip to main content",
+      "Request a Quote",
+      "Find Your Local Mover",
+      "800-638-9797",
+      "Privacy Policy"
+    ],
+    "images": {
+      "total_in_content": 11,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://www.atlasvanlines.com/hs-fs/hubfs/Imported_Blog_Media/Packing-Tips-Feb-1-3.png?length=320&name=Packing-Tips-Feb-1-3.png",
+          "filename": "Packing-Tips-Feb-1-3.png",
+          "alt": null,
+          "caption": null,
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:12:46.635431"
+}

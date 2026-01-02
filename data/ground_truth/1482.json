@@ -1,27 +1,111 @@
 {
+  "schema_version": "2.0",
   "url": "http://docs.mcneel.com/rhino/6/usersguide/en-us/html/ch-15_headphones.htm",
   "file_id": "1482",
-  "downloaded_at": "2025-12-20T22:39:47.741456",
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "tutorial",
+        "3d-modeling",
+        "rhino",
+        "cad",
+        "technical-documentation"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Tutorial: Sweep, Loft, and Extrude - Headphones",
+    "title": "Headphone - Sweep, Loft, and Extrude",
     "author": null,
     "publish_date": null,
-    "main_content": "This tutorial demonstrates how to create surfaces from profile curves.\n\nYou will learn how to:\n\nUse sub-object selection to preselect objects for a command.\nCreate a surface from a planar curve.\nLoft, revolve, sweep, and extrude surfaces.\nCap planar holes to create a solid.\nDraw a helix around a curve.\nMatch curve ends.\nCreate solid pipes.\nMirror objects.\nUse layers.\nUse object snaps.\n\nCreate the speaker shell\nThe speaker shell is created using a lofted surface, a one-rail sweep, a solid extrusion of a planar curve, and a surface fillet. The resulting geometry is joined into one solid.\n\nOne way to create a surface is to use existing curves as a guide. When lofting through curves, the curves are used as a guide for creating a smooth surface.\n\nLoft curves to create a surface\nRight-click on the Perspective viewport title, and on the viewport title menu, click Shaded.\nThe Perspective viewport is now in the Shaded display mode.\nSelect the three circular curves, with a crossing selection as illustrated.\nOn the Surface menu, click Loft.\nAt the Drag seam point to adjust… prompt, note the display of the curve direction arrows at the seam points.\nIn this model, they are nicely lined up, so you do not need to adjust them.\nPress Enter.\nIn the Loft Options dialog box, click OK to create the loft.\n\nSub-object selection\nHold down Ctrl and Shift, and click to select individual object features such as:\nPolysurface faces\nSurface and polysurface edge curves\nMesh vertices, faces, and edges\nObjects within a group\nThis action is called sub-object selection.\n\nExtrude the surface edge\nExtrude the lofted surface edge in the center to make a magnet housing on the convex side of the speaker shell.\nHold down Ctrl and Shift to select the surface edge at the center of the lofted surface.\nOn the Solid menu, click Extrude Planar Curve > Straight.\nAt the Extrusion Distance… prompt, move the cursor to the convex side, type 2, and press Enter.\nThis makes a solid cylinder for the magnet housing that is two units thick and extends from the original surface edge.\nNote: The cylinder you just created is an extrusion object (solid). The housing cylinder needs to be open on the bottom.\nIn the next step, you will use sub-object selection to remove the bottom face.\n\nRemove the bottom surface\nHold down Ctrl and Shift, and click to select the bottom face.\nPress the Delete key.\n\nFillet or round off the edge of the cylinder surface\nOn the Solid menu, click Fillet Edge > Fillet Edge.\nThe current NextRadius setting should be 1.\nAt the Select edges to fillet… prompt, select the edge at the top of the cylinder, and press Enter.\nAt the Select fillet handle to edit... prompt, press Enter.\nSurfaces that share an edge can be joined into a polysurface.\nIn the next step, you will join all the surfaces.\n\nJoin the surfaces\nSelect the surface and the polysurface.\nOn the Edit menu, click Join.\nTo join surfaces, you must select surfaces that are adjacent to each other and the edges must match.\n\nCreate the padding and cover\nSweep a curve around the edge of the speaker cone to create the padding around the edge of the speaker.\n\nReset the view\nOn the View menu, click Zoom > Zoom Extents All.\nAll viewports are zoomed in or out to show all the objects.\nHide or Delete the three curves used for the loft.\n\nSweep a curve along one rail\nOn the Surface menu, click Sweep 1 Rail.\nAt the Select rail prompt, select the loft surface outer edge.\nAt the Select cross section curves prompt, select the cross section curve at the top of the speaker as shown, and press Enter.\nIn the Sweep 1 Rail Options dialog box, enable Refit rail, and click OK.\n\nMake a surface from planar curves\nHold down Ctrl and Shift, and click to select the inner edge of the padding as illustrated.\nOn the Surface menu, click Planar Curves.\nA planar surface is created at the base of the padding.\nThis fills the area at the base of the padding with a planar surface created from the edge of the sweep.\n\nCreate the mounting bracket\nThe next part is the bracket that holds the speaker to the headband. Since the speaker unit is complete, you can turn its layer off and make the Bracket layer current.\n\nReset the layers\nOn the status bar, click the Layer pane where it shows Speaker.\nMake Bracket the current layer, and turn on the layer Bracket Shape Curves.\nTurn all other layers off.\n\nReset the view\nOn the View menu, click Zoom > Zoom Extents All to zoom in on the bracket shape curves in all viewports.\n\nExtrude a curve into a solid\nSelect the closed curve.\nOn the Solid menu, click Extrude Planar Curve > Straight.\nAt the Extrusion distance… prompt, move the cursor to the left, type 1, and press Enter.\n\nFillet the edges\nOn the Solid menu, click Fillet Edge > Fillet Edge.\nAt the Select edges to fillet… prompt, type 0.2, and press Enter.\nAt the Select edges to fillet… prompt, click ChainEdges, and select the front edge of the bracket.\nThe entire edge of the solid should highlight.\nPress Enter to close that edge selection.\nAt the Select edges to fillet… prompt, click ChainEdges, and select the back edge of the bracket.\nPress Enter to close that edge selection.\nPress Enter to finish the edge selection.\nAt the Select fillet handle to edit... prompt, press Enter.\nThis rounds all of the sharp edges.\n\nCreate a tubular surface from the shape curves\nSelect the curve at the top of the bracket.\nOn the Solid menu, click Pipe.\nAt the Start radius… prompt, set the command-line options to Cap=Flat and Thick=No.\nType 0.3, and press Enter.\nAt the End radius… prompt, press Enter.\nAt the Point for next radius... prompt, press Enter.\n\nFor the second tube\nSelect the curve at the bottom of the bracket.\nOn the Solid menu, click Pipe.\nAt the Start radius… prompt, type 0.2, and press Enter.\nAt the End radius… prompt, press Enter.\nAt the Point for next radius... prompt, press Enter.\n\nCreate the headband\nThe headband consists of a series of ellipses swept along a path.\n\nReset the layers\nOn the status bar, click the Layer pane.\nMake Headband the current layer, and turn on the layer Headband Shape Curves.\nTurn all other layers off.\n\nReset the view\nOn the View menu, click Zoom > Zoom Extents All to zoom in on the headband shape curves in all viewports.\n\nCreate an ellipse perpendicular to a curve\nTurn Ortho on.\nOn the Curve menu, click Ellipse > From Center.\nAt the Ellipse center… prompt, click AroundCurve.\nSelect the curve.\nAt the Center of ellipse prompt, snap to an endpoint of the headband curve and click.\nUse the End object snap.\nAt the End of first axis prompt, type 0.5, and press Enter.\nAt the End of first axis prompt, drag the cursor in the x‑direction and click.\nAt the End of second axis prompt, type 2, and press Enter.\nAt the End of second axis prompt, drag the cursor in the y‑direction and click.\n\nArray a curve along a path\nSelect the ellipse.\nOn the Transform menu, click Array > Along Curve.\nAt the Select path curve prompt, select the headband curve.\nIn the Array Along Curve Options dialog box, under Method, set the Number of items to 3.\nUnder Orientation, click Freeform, and click OK.\n\nScale the ellipse\nSelect the center ellipse.\nOn the Transform menu, click Scale > Scale 1‑D.\nScale1D stretches an object in one direction.\nAt the Base point… prompt, press Enter.\nAt the Scale factor or first reference point… prompt, type 2, and press Enter.\nAt the Scale direction… prompt, drag the cursor in the y‑direction and click.\nThis makes the center ellipse larger.\n\nSweep along one rail\nOn the Surface menu, click Sweep 1 Rail.\nAt the Select rail prompt, select the headband curve.\nAt the Select cross section curves prompt select the three ellipses, and press Enter.\nAt the Drag seam point to adjust… prompt, examine the direction and seam points of the curves to make sure they are not twisted, and press Enter.\nIn the Sweep 1 Rail Options dialog box, click OK.\n\nRound the headband ends\nUse the same ellipse that formed the first cross-section curve for the headband to create a rounded end for the headband. Start by splitting the ellipse in half.\n\nReset the view\nOn the View menu, click Zoom > Zoom Window.\nIn the Perspective viewport, drag a rectangle to enclose the left end of the headband to zoom in.\n\nSplit the ellipse in half\nIn the Object Snap control, right-click the Quad object snap.\nThe Quadrant object snap is enabled. All the others are disabled at the same time.\nOn the Edit menu, click Split.\nAt the Select objects to split… prompt, click the Point option.\nAt the Select curve to split prompt, select the ellipse.\nAt the Point to split curve prompts, snap to the two quadrants at the narrow axis of the ellipse and click, and then press Enter.\nThe ellipse is split into two halves.\n\nCreate a surface of revolution\nSelect the left half of the ellipse.\nOn the Surface menu, click Revolve.\nAt the Start of revolve axis prompt, snap to the end of the ellipse half and click.\nAt the End of revolve axis prompt, snap to the other end of the ellipse half and click.\nAt the Start angle... prompt, snap to the ellipse at the outer edge of the headband and click.\nAt the Revolution angle... prompt, rotate the view to see the other side.\nSwing the mouse cursor down and snap to the other side of the ellipse and click.\nA rounded surface is created at the end of the headband.\n\nMirror the rounded end\nSelect the rounded end.\nOn the Transform menu, click Mirror.\nAt the Start of the mirror plane prompt, type 0, and press Enter.\nAt the End of the mirror plane prompt, drag the mirror line in the y‑direction as illustrated, and click.\nHold down Shift to help move the cursor in the ortho direction.\n\nJoin the surfaces\nSelect the surfaces.\nOn the Edit menu, click Join.\nThree surfaces are joined into one polysurface.\n\nCreate the speaker wire\nUse a separate layer to create the speaker wire.\n\nReset the layers\nOn the status bar, click the Layer pane.\nMake Wire Shape Curves the current layer and turn on the layer Wire.\nTurn all other layers off.\n\nReset the view\nOn the View menu, click Zoom > Zoom Extents All.\n\nMake the helix\nOn the Curve menu, click Helix.\nAt the Start of axis… prompt, click AroundCurve.\nAt the Select curve prompt, select the long free-form curve.\nAt the Radius and start point… prompt, type 1, and press Enter.\nThis sets the radius for the helix.\nAt the Radius and start point… prompt, set Turns=30 and NumPointsPerTurn=8.\nAt the Radius and start point… prompt, in the Right viewport drag the cursor to the left and click.\nHold down Shift to help move the cursor in the ortho direction.\n\nReset the view\nOn the View menu, click Zoom > Window.\nIn the Perspective viewport, zoom in on the left end of the helix you just created.\n\nMatch and join the helix to the end curves\nOn the Curve menu, click Curve Edit Tools > Match.\nAt the Select open curve to change - pick near end prompt, select near the left end of the helix.\nAt the Select open curve to match - pick near end… prompt, select near the lower end of the vertical curve.\nIn the Match Curve dialog box, under Continuity, click Tangency, and enable Join.\nRepeat steps 1 through 4 for the other end of the helix.\n\nCreate the speaker wire\nOn the Solid menu, click Pipe.\nAt the Select rail prompt, select the extended helical curve.\nAt the Start radius… prompt, type 0.2, and press Enter.\nAt the End radius… prompt, press Enter.\nAt the Point for next radius prompt, press Enter.\n\nCreate the second wire\nSelect the curve at the top left.\nOn the Solid menu, click Pipe.\nAt the Start radius… prompt, type 0.1, and press Enter.\nAt the End radius… prompt, press Enter.\nAt the Point for next radius prompt, press Enter.\n\nMirror the headphone parts\nMirror the parts to create the parts for the other side of the headphones.\n\nReset the layers\nOn the status bar, click the Layer pane.\nTurn on all layers.\n\nReset the view\nOn the View menu, click Zoom > Zoom Extents All.\n\nDelete all the shape curves\nPress Esc to deselect anything currently selected.\nOn the Edit menu, click Select Objects > Curves.\nPress the Delete key.\n\nMirror the left half of the headphones\nIn the Front viewport, window-select the speaker, bracket, small wire, and rotated ellipse as illustrated.\nOn the Transform menu, click Mirror.\nThe Mirror command depends on which viewport is active. It uses the construction plane in the active viewport to define the mirror plane. The mirror plane is perpendicular to the construction plane. Two points define the line in this plane about which the selected objects are mirrored.\nAt the Start of mirror plane prompt, type 0, and press Enter.\nThis is the first point of the mirror line.\nAt the End of mirror plane prompt, turn on Ortho, and drag the mirror line straight up and pick.\n\nLearn more\nFor a video tutorial showing a more sophisticated modeling method for a headphone set using Rhino's Gumball feature, see: Modeling stereo headphones.",
+    "main_content": "This tutorial demonstrates how to create surfaces from profile curves using Rhino. You will learn how to use sub-object selection to preselect objects for a command, create a surface from a planar curve, loft, revolve, sweep, and extrude surfaces, cap planar holes to create a solid, draw a helix around a curve, match curve ends, create solid pipes, mirror objects, use layers, and use object snaps. The tutorial covers creating the speaker shell using lofted surface, one-rail sweep, solid extrusion of a planar curve, and surface fillet. It then demonstrates creating the padding and cover by sweeping a curve around the speaker cone edge. The mounting bracket is created through extrusion, filleting, and pipe commands. The headband is formed by arraying ellipses along a path and sweeping them, then rounding the ends using revolve and mirror. Finally, the speaker wire is created using helix, match, and pipe commands, and all parts are mirrored to complete the headphones.",
     "with": [
       "This tutorial demonstrates how to create surfaces from profile curves.",
-      "The speaker shell is created using a lofted surface, a one-rail sweep, a solid extrusion of a planar curve, and a surface fillet.",
-      "One way to create a surface is to use existing curves as a guide. When lofting through curves, the curves are used as a guide for creating a smooth surface.",
-      "The headband consists of a series of ellipses swept along a path.",
-      "Mirror the parts to create the parts for the other side of the headphones."
+      "One way to create a surface is to use existing curves as a guide.",
+      "When lofting through curves, the curves are used as a guide for creating a smooth surface.",
+      "Surfaces that share an edge can be joined into a polysurface.",
+      "The headband consists of a series of ellipses swept along a path."
     ],
     "without": [
-      "To download the tutorial model",
-      "On the Rhino Help menu, click Learn Rhino, and then click Tutorials and Samples.",
-      "Rhino for Windows © 2010-2018 Robert McNeel & Associates. 24-Nov-2021",
-      "Open table of contents panel.",
-      "For a video tutorial showing a more sophisticated modeling method for a headphone set using Rhino's Gumball feature, see: Modeling stereo headphones."
-    ]
+      "Open table of contents panel",
+      "Rhino for Windows © 2010-2018 Robert McNeel & Associates",
+      "Learn Rhino menu",
+      "Tutorials and Samples",
+      "Vimeo video link"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 9,
+      "items": [
+        {
+          "src": "../images/topic_illustrations/headphone-002b.png",
+          "filename": "headphone-002b.png",
+          "alt": null,
+          "caption": "Headphone tutorial illustration",
+          "is_hero": true
+        },
+        {
+          "src": "../images/topic_illustrations/headphone-001a.png",
+          "filename": "headphone-001a.png",
+          "alt": null,
+          "caption": "Selecting three circular curves with crossing selection",
+          "is_hero": false
+        },
+        {
+          "src": "../images/topic_illustrations/headphone-002a.png",
+          "filename": "headphone-002a.png",
+          "alt": null,
+          "caption": "Loft with curve direction arrows at seam points",
+          "is_hero": false
+        },
+        {
+          "src": "../images/topic_illustrations/headphone-003.png",
+          "filename": "headphone-003.png",
+          "alt": null,
+          "caption": "Surface edge selection at center of lofted surface",
+          "is_hero": false
+        },
+        {
+          "src": "../images/topic_illustrations/headphone-005a.png",
+          "filename": "headphone-005a.png",
+          "alt": null,
+          "caption": "Fillet result showing rounded edges",
+          "is_hero": false
+        },
+        {
+          "src": "../images/topic_illustrations/headphonebracket-001.png",
+          "filename": "headphonebracket-001.png",
+          "alt": null,
+          "caption": "Closed curve selection for bracket extrusion",
+          "is_hero": false
+        },
+        {
+          "src": "../images/topic_illustrations/headband-001.png",
+          "filename": "headband-001.png",
+          "alt": null,
+          "caption": "Ellipse creation perpendicular to curve",
+          "is_hero": false
+        },
+        {
+          "src": "../images/command_icons/arraycrv.png",
+          "filename": "arraycrv.png",
+          "alt": null,
+          "caption": "Array along curve showing three ellipses",
+          "is_hero": false
+        },
+        {
+          "src": "../images/command_icons/scale1d.png",
+          "filename": "scale1d.png",
+          "alt": null,
+          "caption": "Center ellipse selection for scaling",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:39:47.741462"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:34:04.195213"
 }

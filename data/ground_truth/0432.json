@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.corporatecaterers.com/location/corporate-caterers-columbus-oh/full-menu/",
+  "file_id": "0432",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "catering",
+        "menu",
+        "food-service",
+        "columbus-oh"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Catering in Columbus, OH | Corporate Caterers – Menu",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Corporate Caterers of Columbus, OH offers catering services with a range of international and southern comfort dishes. They cater to weddings, corporate gatherings, birthdays, anniversaries, holiday parties, and more. The way they treat customers is reflected in the quality of meals served, always striving to provide excellent catering service. For two decades, they have been serving high-quality food to companies across the United States. Meals are prepared fresh and served in generous portions, working with customer schedules to ensure ideal timing. Specials include Caribbean Grilled Chicken ($11.95) and Deli Wraps & Caesar Wraps ($11.95). Seasonal Features include The Morning Feast breakfast ($17.45), Southwest Chicken Bake ($14.25), Lemon Herb Chicken with Crispy Croutons ($14.25), and Street Taco Bar ($14.50). Menu categories: Holiday Features for November and December, Breakfast, Seasonal Features, Customer Favorites, Sandwiches & Salads, Boxed Lunch, Vegetarian, Sides, Beverages-Desserts-Snack Breaks, Appetizers, and Specials.",
+    "with": [
+      "The way we treat our customers is reflected in the quality of the meals we serve.",
+      "For the past two decades, we've been serving high-quality food to companies across the United States.",
+      "Meals are prepared fresh and served in generous portions.",
+      "SPECIAL CARIBBEAN GRILLED CHICKEN - Marinated grilled boneless breast of chicken slowly roasted in mild Caribbean flavors.",
+      "THE MORNING FEAST - It's Bold. It's Brash. It's Big. Indulge in our signature scrambled eggs PLUS grilled chicken apple sausage."
+    ],
+    "without": [
+      "Find a Location",
+      "Sign In or Join Corporate Caterers Rewards Program",
+      "Start an Order",
+      "Copyright 2025",
+      "Flyout Menu"
+    ],
+    "images": {
+      "total_in_content": 7,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://www.corporatecaterers.com/wp-content/uploads/2023/02/img-callout-cateringcoach-744x1024.png",
+          "filename": "img-callout-cateringcoach-744x1024.png",
+          "alt": null,
+          "caption": "Corporate Caterers catering coach",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:33:09.678894"
+}

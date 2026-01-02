@@ -1,0 +1,47 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.emarketer.com/articles",
+  "file_id": "0368",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "articles",
+        "trending",
+        "digital-marketing",
+        "media",
+        "listing"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Today's Trending Articles on Digital Marketing and Media | EMARKETER",
+    "author": null,
+    "publish_date": null,
+    "main_content": "EMARKETER's trending articles covering digital marketing, media, retail, technology, and financial services. Featured article: 'Our favorite episodes of 'Reimagining Retail'' - four podcast episodes to queue up for holiday travel. The retail brands that thrived in 2025, and those that struggled - retailers with a well-defined identity delivered strong growth. Agentic AI browsers face a towering barrier to entry - Google Chrome controls 73.2% of worldwide internet traffic, more than five times the combined share of all non-Safari competitors. Checking in: Reviewing our 2025 retail predictions - retailers would offer richer in-store experiences to attract shoppers, with updates on Amazon, discount retailers, and dollar stores. Truist's direct deposit switching tool is a play for instant loyalty - creating a direct-deposit relationship is a well-worn path to primary FI status. Monzo leans into Gen Z homebuying journey with mortgage broker acquisition - UK neobank acquires Habito as it expands homeownership features. TikTok's US overhaul gives advertisers greater certainty, though questions remain - Oracle, Silver Lake, and MGX will hold 50% ownership with US-appointed directors overseeing data protection. 5 of the most controversial campaigns of 2025. Brand invisibility is the new threat as 62% of B2B CMOs fall behind AI-native rivals - AI discovery is rewriting the rules of B2B marketing. YouTube's AI creator avatars could be a future ad play—if consumers accept them - experimenting with AI avatars based on a small group of popular creators.",
+    "with": [
+      "Our favorite episodes of 'Reimagining Retail' - Here are four 'Reimagining Retail' episodes to queue up for your holiday travel.",
+      "The retail brands that thrived in 2025, and those that struggled - Retailers with a well-defined identity delivered strong growth in 2025.",
+      "Agentic AI browsers face a towering barrier to entry - Google Chrome controls 73.2% of worldwide internet traffic, more than five times the combined share of all non-Safari competitors.",
+      "TikTok's US overhaul gives advertisers greater certainty, though questions remain - TikTok has agreed to a sweeping US restructuring that creates a majority-American-controlled joint venture.",
+      "Brand invisibility is the new threat as 62% of B2B CMOs fall behind AI-native rivals - Nearly two-thirds (62%) of B2B tech marketing leaders lack the skills, budget, or strategy to compete with AI-native firms."
+    ],
+    "without": [
+      "Newsletter sign-up",
+      "Become a Client button",
+      "Contact Sales: 1-800-405-0844",
+      "Browse articles featuring EMARKETER's latest data and insights on digital marketing",
+      "Log in"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:07:15.241674"
+}

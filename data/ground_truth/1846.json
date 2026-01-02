@@ -1,27 +1,96 @@
 {
+  "schema_version": "2.0",
   "url": "https://foundfitpt.com/studios/fairfax-va/",
   "file_id": "1846",
-  "downloaded_at": "2025-12-20T22:17:19.835850",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "personal training",
+        "fitness studio",
+        "fairfax va",
+        "wellness"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Fairfax VA - Best Personal Training - Foundation Fitness",
     "author": null,
     "publish_date": null,
-    "main_content": "BEST RATED PERSONAL TRAINING STUDIO IN FAIRFAX\n\nWith over 3,000 satisfied clients, 2,000+ five-star Google reviews, and 15 years of excellence across twelve DMV locations, we are dedicated to inspiring you to be your best!\n\nTraining\nWe design personal training programs specific to your goals, abilities and lifestyle.\n\nNutrition\nWe create nutrition plans according to what you like to eat and your dietary restrictions.\n\nCommunity\nTogether, we support and uplift each other, helping you achieve your health goals.\n\nPERSONAL TRAINING RESULTS YOU CAN ATTAIN & MAINTAIN\n\nWE CREATE A TAILORED WELLNESS STRATEGY TO HELP YOU LOSE STUBBORN FAT, BUILD YOUR IDEAL PHYSIQUE, OR OVERCOME CHRONIC PAIN AND INJURY, FOCUSING ON YOUR SPECIFIC NEEDS, GOALS, AND CIRCUMSTANCES.\n\nBook Your free consultation!\n\nOur Address\n10387 MAIN STREET, LL2\nFAIRFAX, VA 22030\n\nPhone Number\n(703) 273-8251\n\nEmail Address\njoin_the_movement@foundfit.com\n\nOr Cancel at\nptfairfax@foundfit.com\n\n3000+\nHAPPY CLIENTS\n\n15 Years\nFOUNDED IN 2009\n\n2000+\n5-STAR GOOGLE REVIEWS\n\n12\nLOCATIONS IN THE DMV\n\nWe've Got You Covered\n\nPERSONAL TRAINING SERVICES IN FAIRFAX VA\n\nRESULTS FOCUSED\nPERSONAL TRAINING\n\nNUTRITIONAL\nGUIDANCE\n\nSTRETCHING\n& MOBILITY\n\nPRENATAL\nPERSONAL TRAINING\n\nPOST PHYSICAL THERAPY\n& SPORTS REHAB\n\nWEIGHT LOSS\nPERSONAL TRAINING\n\n15 YEARS OF EXCELLENCE, ONE CLIENT AT A TIME",
+    "main_content": "Foundation Fitness is the best rated personal training studio in Fairfax, VA. With over 3,000 satisfied clients, 2,000+ five-star Google reviews, and 15 years of excellence across twelve DMV locations, we are dedicated to inspiring you to be your best. We offer results-focused personal training services tailored to your specific needs, goals, and circumstances. Our approach helps you lose stubborn fat, build your ideal physique, or overcome chronic pain and injury. We create tailored wellness strategies including personal training, nutritional guidance, stretching and mobility work, prenatal personal training, post physical therapy and sports rehab, and weight loss programs. Together, we support and uplift each other, helping you achieve your health goals. Located at 10387 Main Street, LL2, Fairfax, VA 22030. Book your free consultation today!",
     "with": [
-      "With over 3,000 satisfied clients, 2,000+ five-star Google reviews, and 15 years of excellence across twelve DMV locations, we are dedicated to inspiring you to be your best!",
+      "Foundation Fitness is the best rated personal training studio in Fairfax, VA.",
+      "With over 3,000 satisfied clients, 2,000+ five-star Google reviews, and 15 years of excellence across twelve DMV locations.",
       "We design personal training programs specific to your goals, abilities and lifestyle.",
       "We create nutrition plans according to what you like to eat and your dietary restrictions.",
-      "WE CREATE A TAILORED WELLNESS STRATEGY TO HELP YOU LOSE STUBBORN FAT, BUILD YOUR IDEAL PHYSIQUE, OR OVERCOME CHRONIC PAIN AND INJURY, FOCUSING ON YOUR SPECIFIC NEEDS, GOALS, AND CIRCUMSTANCES.",
-      "PERSONAL TRAINING SERVICES IN FAIRFAX VA"
+      "Located at 10387 Main Street, LL2, Fairfax, VA 22030."
     ],
     "without": [
+      "Schedule a free consultation today",
+      "Your best starts here",
       "Find Location Near Me",
-      "About Us\nBlog\nJoin Our Team",
-      "GYMS\nAnnapolis MD\nCambridge MD\nCleveland Park DC",
-      "PT Studios\nAnnandale VA\nAnnapolis MD\nAshburn VA\nBethesda MD\nCambridge MD\nCleveland Park DC\nDelray Alexandria\nFairfax VA\nPalisades DC\nSeverna Park MD\nTysons Corner VA\nOld Town Alexandria",
-      "Shop\nMerchandise\nMeals\nOnline Training\nNutrition Coaching"
-    ]
+      "Client Login",
+      "Merchandise"
+    ],
+    "images": {
+      "total_in_content": 36,
+      "annotated_count": 7,
+      "items": [
+        {
+          "src": "https://foundfitpt.com/wp-content/uploads/2025/10/ffx-results-scaled-370x215-1.jpg",
+          "filename": "ffx-results-scaled-370x215-1.jpg",
+          "alt": null,
+          "caption": "Results Focused Personal Training",
+          "is_hero": false
+        },
+        {
+          "src": "https://foundfitpt.com/wp-content/uploads/2025/10/ffx-nutritional-guidance-scaled-370x215-1.jpg",
+          "filename": "ffx-nutritional-guidance-scaled-370x215-1.jpg",
+          "alt": null,
+          "caption": "Nutritional Guidance",
+          "is_hero": false
+        },
+        {
+          "src": "https://foundfitpt.com/wp-content/uploads/2025/10/ffx-stretching-scaled-370x215-1.jpg",
+          "filename": "ffx-stretching-scaled-370x215-1.jpg",
+          "alt": null,
+          "caption": "Stretching and Mobility",
+          "is_hero": false
+        },
+        {
+          "src": "https://foundfitpt.com/wp-content/uploads/2025/10/IMG_1878-scaled-370x215-1.jpg",
+          "filename": "IMG_1878-scaled-370x215-1.jpg",
+          "alt": null,
+          "caption": "Prenatal Personal Training",
+          "is_hero": false
+        },
+        {
+          "src": "https://foundfitpt.com/wp-content/uploads/2025/10/ffx-post-pt-scaled-370x215-1.jpg",
+          "filename": "ffx-post-pt-scaled-370x215-1.jpg",
+          "alt": null,
+          "caption": "Post Physical Therapy and Sports Rehab",
+          "is_hero": false
+        },
+        {
+          "src": "https://foundfitpt.com/wp-content/uploads/2025/10/ffx-weight-loss-scaled-370x215-1.jpg",
+          "filename": "ffx-weight-loss-scaled-370x215-1.jpg",
+          "alt": null,
+          "caption": "Weight Loss Personal Training",
+          "is_hero": false
+        },
+        {
+          "src": "https://foundfitpt.com/wp-content/uploads/2025/10/ffx-get-healthy-1536x1024-1.jpg",
+          "filename": "ffx-get-healthy-1536x1024-1.jpg",
+          "alt": null,
+          "caption": "Foundation Fitness - Get Healthy",
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:17:19.835857"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:36:55.723923"
 }

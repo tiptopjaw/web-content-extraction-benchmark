@@ -1,0 +1,90 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.synthesis.com/tutor",
+  "file_id": "1890",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "math",
+        "tutoring",
+        "AI",
+        "children"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Synthesis Tutor",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Synthesis Tutor is the world's first superhuman AI math tutor for elementary school children ages 5-11. Warm, patient, and encouraging, the Tutor adapts to your child so you never have to worry about them falling behind. Immediate results for less than $1/day. Join over 25,000 forward-thinking families using this personalized math companion. The service covers the standard K-5 math curriculum and goes much further, covering Counting & Cardinality, Addition, Subtraction, Multiplication, Division, Fractions, and Algebraic Thinking. Synthesis Tutor was born out of an experimental school started at SpaceX in 2014 by Josh Dahn, designed to develop students who are enthralled by complexity and solving for the unknown. The platform leverages AI appropriately while relying on expert educators and neuroscientists to ensure high-quality lessons and interactions.",
+    "with": [
+      "The world's first superhuman AI math tutor.",
+      "Warm, patient, encouraging. The Tutor adapts to your child, so you never have to worry about them falling behind.",
+      "Synthesis Tutor covers the standard K-5 math curriculum, and goes much further.",
+      "In 2014, Elon Musk asked me to start an experimental school with him at SpaceX.",
+      "Synthesis Tutor currently covers elementary math for ages 5-11."
+    ],
+    "without": [
+      "Try it for free",
+      "Copyright 2025 Synthesis",
+      "Start your 7-day free trial",
+      "No credit card necessary",
+      "Subscribe to our newsletter"
+    ],
+    "images": {
+      "total_in_content": 26,
+      "annotated_count": 6,
+      "items": [
+        {
+          "src": "https://cdn.prod.website-files.com/61254e5d00ea9e494d66b322/66c80a69b0b7be725b3c2e9e_Group%2010553.avif",
+          "filename": "66c80a69b0b7be725b3c2e9e_Group%2010553.avif",
+          "alt": null,
+          "caption": "Synthesis Tutor interface showing personalized math learning",
+          "is_hero": true
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/61254e5d00ea9e494d66b322/66d8ae3e005154a2f548b05e_FrankFamily-1%20(1).png",
+          "filename": "66d8ae3e005154a2f548b05e_FrankFamily-1%20(1).png",
+          "alt": null,
+          "caption": "Frank Family testimonial - a family using Synthesis Tutor",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/61254e5d00ea9e494d66b322/66d8ad84e964eef6c9430e7a_Ivana-Tutor-4%20(1).png",
+          "filename": "66d8ad84e964eef6c9430e7a_Ivana-Tutor-4%20(1).png",
+          "alt": null,
+          "caption": "Ivana using Synthesis Tutor on tablet",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/61254e5d00ea9e494d66b322/64b1a3ffcb1acb69f6a1f62e_ChrismanPhoto.webp",
+          "filename": "64b1a3ffcb1acb69f6a1f62e_ChrismanPhoto.webp",
+          "alt": null,
+          "caption": "Chrisman Frank, CEO of Synthesis",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/61254e5d00ea9e494d66b322/66c81195823cbfade870660c_Group%2010513.webp",
+          "filename": "66c81195823cbfade870660c_Group%2010513.webp",
+          "alt": null,
+          "caption": "Math curriculum topics covered by Synthesis Tutor",
+          "is_hero": false
+        },
+        {
+          "src": "https://cdn.prod.website-files.com/61254e5d00ea9e494d66b322/638e1ddda986f427c069b750_josh-pic.webp",
+          "filename": "638e1ddda986f427c069b750_josh-pic.webp",
+          "alt": null,
+          "caption": "Josh Dahn, Cofounder of Synthesis",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:54:05.879698"
+}

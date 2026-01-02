@@ -1,27 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.tm.org/en-us/course-fee",
   "file_id": "1374",
-  "downloaded_at": "2025-12-20T21:10:27.426298",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "meditation",
+        "pricing",
+        "course-fee",
+        "education"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Transcendental Meditation Course Fees & Pricing Details | TM",
     "author": null,
     "publish_date": null,
-    "main_content": "The TM course fee varies depending on annual household income, ranging from $420 to $980. The fee may be paid in full or in installments. Partial scholarships may be available to those in need of financial assistance.\n\n\"It's one investment for a lifetime of better health and personal growth, with long-term support from TM teachers\"\nRaisa Martinez, certified TM teacher\n\nYour TM course fee\nCalculate your annual household income range by adding up the total income of everyone who lives in the same household.\n\nSelect your annual household income to determine your price.\n\n1 payment\n4 installments\n\n$--.--\n\nPay securely with\n\nBook a TM course\n\nThe TM course fee includes:\n- Personalized one-on-one instruction\n- 3 group sessions with your teacher and other course participants\n- Continued support from certified TM teachers, including personal tune-ups\n- The TM app (including a custom timer, access to daily group meditations and other TM events, a library of videos and knowledge, and much more)\n- Access to TM centers around the world\n- A satisfaction guarantee\n\nCan’t afford the course?\nWe also offer partial scholarships to deserving individuals in need. Contact your local TM teacher for details.\n\nFrequently asked questions\n\nWhich payment options are available?\nWhen purchasing the TM course, there are several payment methods available.\n\nPay in full\nYou can pay in full via credit card: Visa, Mastercard, American Express, Discover, Diners Club, Elo, JCB, and Union Pay are available.\n\nPay securely and easily by digital wallet with Apple Pay, Google Pay, PayPal, or Shop Pay—there's no need to enter your card details.\n\nPay in installments\nYou can also pay in four monthly installments, with no hidden fees.\n\nBook a TM course\n\nWhat is the satisfaction guarantee?\nWe are able to offer a satisfaction guarantee because, during the past 50 years, the TM technique has been consistently found to be effective for millions of people from all walks of life, cultures, and backgrounds. However, the TM technique can work and its benefits can be enjoyed only if it is learned properly and practiced regularly. Therefore, our satisfaction guarantee has the following requirements: 1) attend all course sessions, or if you take the hybrid course, complete the course material, 2) attend the follow-up session approximately 10 days after personal instruction, 3) have a personal \"tune-up\" session to ensure correct practice; and 4) practice TM regularly for a minimum of 30 days. Refunds must be requested within 60 days of personal instruction.\n\nWho qualifies for the student fee?\nTo qualify for the student fee, you must be in high school, a full-time undergraduate college student taking a minimum of 12 credits per semester, or a graduate student taking a minimum of 9 credits per semester.\n\nWhat if I can’t afford the course?\nScholarships and partial grants may be available for those in need of financial assistance, frontline workers, and veterans, as funds allow.\n\nContact your local TM teacher to apply for a scholarship or partial grant.\n\nWhy does a hybrid course cost the same as an in-person course?\nHybrid and in-person courses both include a one-on-one personalized instruction session. While the hybrid course includes self-study on the TM app, there are also remote meetings with your teacher for each of Days 2-4. Whichever course format you opt for, you will also benefit from ongoing support from your teacher, or any TM teacher across the U.S.\n\nBoth courses also include access to the TM app, which comes with a TM timer, a library of knowledge, and access to group meditations.\n\nHow is the TM course fee used?\nThe Transcendental Meditation technique is taught in the United States through Maharishi Foundation USA, a federally recognized 501(c)(3) non-profit educational organization. Course fees are used to cover teacher compensation and expenses that support the teaching of the TM technique.\n\nWhat students say\n“The introductory course might feel expensive for a 4-day course, but it is so much more than the course! It's really a membership to the TM Center with all kinds of additional events and information, including an amazing app that helps you keep up your daily TM practice. Even after just a few weeks of TM practice, I am noticing some tangible changes in my resting heart rate, resilience, and sleep quality. I make sure to fit my two 20-minute sessions in each day. I'm excited to see where TM can take me as I continue and deepen my practice.”\nMay 2024, Trustpilot\n\nReady to learn the TM technique?\nThe TM technique can only be learned from a certified TM teacher in a course carefully personalized for each individual.\n\nBook a TM course\n\nTaught by a non-profit\nFor over 60 years, the Maharishi Foundation has made Transcendental Meditation available worldwide, training teachers who have brought the practice to millions of people. It has also been involved in many charitable initiatives, including providing free meditation instruction to under-served communities and supporting the establishment of TM Centers in developing countries.\n\nRead more",
+    "main_content": "The TM course fee varies depending on annual household income, ranging from $420 to $980. The fee may be paid in full or in installments. Partial scholarships may be available to those in need of financial assistance. Calculate your annual household income range by adding up the total income of everyone who lives in the same household. Select your annual household income to determine your price. The TM course fee includes: Personalized one-on-one instruction, 3 group sessions with your teacher and other course participants, Continued support from certified TM teachers, including personal tune-ups, The TM app (including a custom timer, access to daily group meditations and other TM events, a library of videos and knowledge, and much more), Access to TM centers around the world, A satisfaction guarantee. Payment options include paying in full via credit card (Visa, Mastercard, American Express, Discover, Diners Club, Elo, JCB, and Union Pay) or digital wallet (Apple Pay, Google Pay, PayPal, or Shop Pay). You can also pay in four monthly installments, with no hidden fees. The satisfaction guarantee requires attending all course sessions, completing course material, attending the follow-up session approximately 10 days after personal instruction, having a personal tune-up session, and practicing TM regularly for a minimum of 30 days. Refunds must be requested within 60 days of personal instruction. To qualify for the student fee, you must be in high school, a full-time undergraduate college student taking a minimum of 12 credits per semester, or a graduate student taking a minimum of 9 credits per semester. Scholarships and partial grants may be available for those in need of financial assistance, frontline workers, and veterans. Contact your local TM teacher to apply. The Transcendental Meditation technique is taught in the United States through Maharishi Foundation USA, a federally recognized 501(c)(3) non-profit educational organization. Course fees are used to cover teacher compensation and expenses that support the teaching of the TM technique.",
     "with": [
       "The TM course fee varies depending on annual household income, ranging from $420 to $980.",
-      "The TM course fee includes: Personalized one-on-one instruction, 3 group sessions with your teacher and other course participants, Continued support from certified TM teachers, including personal tune-ups, The TM app, Access to TM centers around the world, A satisfaction guarantee.",
-      "Scholarships and partial grants may be available for those in need of financial assistance, frontline workers, and veterans, as funds allow.",
-      "The Transcendental Meditation technique is taught in the United States through Maharishi Foundation USA, a federally recognized 501(c)(3) non-profit educational organization.",
-      "The TM technique can only be learned from a certified TM teacher in a course carefully personalized for each individual."
+      "Calculate your annual household income range by adding up the total income of everyone who lives in the same household.",
+      "The TM course fee includes personalized one-on-one instruction and 3 group sessions with your teacher.",
+      "You can pay in four monthly installments, with no hidden fees.",
+      "The Transcendental Meditation technique is taught through Maharishi Foundation USA, a federally recognized 501(c)(3) non-profit educational organization."
     ],
     "without": [
-      "How it works",
       "Find a teacher",
-      "Call 888-LEARN-TM",
+      "Copyright 2025 Maharishi Foundation International",
       "Privacy Notice",
-      "© 2025 Maharishi Foundation International. All rights reserved"
-    ]
+      "Cookie notice",
+      "Follow us on Facebook"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:10:27.426304"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:57:51.478813"
 }

@@ -1,27 +1,55 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.fitandwell.com/wellness/yoga/ive-been-doing-yoga-with-adrienes-january-programmes-for-10-years-heres-why-i-think-the-just-announced-2026-series-is-great-for-beginners",
   "file_id": "0562",
-  "downloaded_at": "2025-12-20T18:36:48.036202",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "yoga",
+        "wellness",
+        "adriene",
+        "fitness",
+        "personal-experience"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "I’ve been doing Yoga With Adriene’s January programmes for 10 years—here’s why I think the just-announced 2026 series is great for beginners",
+    "title": "I've been doing Yoga With Adriene's January programmes for 10 years—here's why I think the just-announced 2026 series is great for beginners",
     "author": "Alice Porter",
     "publish_date": "2025-12-17",
-    "main_content": "I was first introduced to Adriene Mishler—better known as Yoga With Adriene—more than 10 years ago when I discovered her 30 days of yoga challenge in January 2014. However, as I’ve gotten older and busier, committing to practising yoga every day for 30 days is no longer practical. Thankfully, Mishler’s January 2026 challenge is far more realistic, while still providing the opportunity for a new year reset we all crave. The series is called Return and it involves four videos that Mishler will post each weekend. On the final weekend in January, Mishler will do a live class, with the intention of bringing her community together.",
+    "main_content": "I was first introduced to Adriene Mishler—better known as Yoga With Adriene—more than 10 years ago when I discovered her 30 days of yoga challenge in January 2014. However, as I've gotten older and busier, committing to practising yoga every day for 30 days is no longer practical. Thankfully, Mishler's January 2026 challenge is far more realistic, while still providing the opportunity for a new year reset we all crave. The series is called Return and it involves four videos that Mishler will post each weekend. On the final weekend in January, Mishler will do a live class, with the intention of bringing her community together.",
     "with": [
       "I was first introduced to Adriene Mishler—better known as Yoga With Adriene—more than 10 years ago when I discovered her 30 days of yoga challenge in January 2014.",
-      "However, as I’ve gotten older and busier, committing to practising yoga every day for 30 days is no longer practical.",
-      "Thankfully, Mishler’s January 2026 challenge is far more realistic, while still providing the opportunity for a new year reset we all crave.",
+      "However, as I've gotten older and busier, committing to practising yoga every day for 30 days is no longer practical.",
+      " Thankfully, Mishler's January 2026 challenge is far more realistic, while still providing the opportunity for a new year reset we all crave.",
       "The series is called Return and it involves four videos that Mishler will post each weekend.",
       "On the final weekend in January, Mishler will do a live class, with the intention of bringing her community together."
     ],
     "without": [
-      "Sign in",
-      "Type to search...",
       "Sign up to our newsletter",
-      "Don't miss these",
-      "Trending"
-    ]
+      "Follow us on social media",
+      "Share this article",
+      "Don't miss these related articles",
+      "Copyright 2025 Fit&Well"
+    ],
+    "images": {
+      "total_in_content": 35,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://cdn.mos.cms.futurecdn.net/fcZptXSjuoJgMY4dkqyZUJ.jpg",
+          "filename": "fcZptXSjuoJgMY4dkqyZUJ.jpg",
+          "alt": "Woman sits cross legged with eyes closed in front of open laptop with a couch behind her",
+          "caption": "Woman sits cross legged with eyes closed in front of open laptop with a couch behind her",
+          "is_hero": true
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T18:36:48.036208"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:25:57.461754"
 }

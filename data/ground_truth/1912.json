@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://thehotroom.com/Home/Offer/",
+  "file_id": "1912",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "landing-page",
+        "promotional",
+        "yoga",
+        "fitness"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "The Hot Room Web Offers - Downtown Indianapolis, Indiana",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Sign up now and save! Limited spaces available in December. Choose your location: Downtown Indianapolis, North Shore, Fishers, Uptown Indianapolis, Bloomington, or Greenwood. The Hot Room offers a 2-week trial for $59 with a Certified Instructor. No risk, no contract, limited time only. The 2-week trial period activates on your first visit. Enter your information to claim your offer: First Name, Last Name, Email, and Phone. By submitting your information you consent to receive marketing/promotional SMS and email messages from The Hot Room.",
+    "with": [
+      "2 Weeks for $59 (Indiana)",
+      "Limited Spaces Available In December!",
+      "2 Weeks with a Certified Instructor",
+      "No Risk. No Contract.",
+      "Enter Your Information Below"
+    ],
+    "without": [
+      "Copyright © 2025 - Fitness Websites Developed by 97Display Websites",
+      "Privacy Policy",
+      "Web Purchases Refund Policy",
+      "Step 1 / Step 2 / Step 3 navigation labels",
+      "Reply HELP for more assistance. Reply STOP to opt-out"
+    ],
+    "images": {
+      "total_in_content": 3,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "/Resources/OfferOnlinev3/emptyImg400300.png",
+          "filename": "emptyImg400300.png",
+          "alt": "2 Weeks for $59 (Indiana) in Downtown Indianapolis",
+          "caption": "2 Weeks for $59 (Indiana)",
+          "is_hero": true
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:02:08.380853"
+}

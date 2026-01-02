@@ -1,0 +1,45 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.therapyroute.com/article/how-much-does-therapy-cost-in-san-francisco-california-2025-guide-by-therapyroute",
+  "file_id": "1931",
+  "_internal": {
+    "page_type": {
+      "primary": "directory",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "healthcare",
+        "therapist-directory",
+        "mental-health"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Find a Therapist Near You | Local Psychologists & Counsellors | TherapyRoute",
+    "author": null,
+    "publish_date": null,
+    "main_content": "",
+    "with": [
+      "Looking for qualified therapists? Find nearby psychologists, counselling, marriage and family therapists, social workers, and therapists in your area and online.",
+      "This page is designed to help users find therapists and mental health professionals in their local area.",
+      "The directory includes various types of mental health providers such as psychologists, counselors, and social workers.",
+      "Users can search for therapists both locally and online through this platform.",
+      "The service aims to connect people with qualified mental health professionals."
+    ],
+    "without": [
+      "Navigation menu items",
+      "Footer links and copyright notices",
+      "Cookie consent banners",
+      "Social media sharing buttons",
+      "Advertisement placeholders"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:08:19.707191"
+}

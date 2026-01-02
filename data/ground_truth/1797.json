@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.rentlysoft.com/blog",
+  "file_id": "1797",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "blog",
+        "car rental",
+        "software",
+        "news"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Latest News on the Rental Car Industry | Rently Blog",
+    "author": null,
+    "publish_date": null,
+    "main_content": "The Rently Blog features news and articles about the car rental industry and software solutions. Recent posts include: Ready to Optimize Your Car Rental Business? Discover How Rently Can Outperform Your Current Software; Free Demo: See How Rently Can Transform Your Operation in Minutes; Why Automation is Key to the Future of Vehicle Rentals; The World's First Rent a Car Academy Is Born: Rently Academy; The 5 Biggest Challenges Car Rental Companies Face Today; How to Optimize Real-Time Fleet Management with Rently Soft; Is Your Management System Truly Secure? Security Essentials Every Car Rental Company Needs; Trends 2025: How Technology Is Transforming Car Rentals; 5 Reasons Your Car Rental Business Needs Fleet Management Software; Automation in Car Rentals: How to Reduce Costs and Increase Efficiency; Trends in the Car Rental Industry and the Role of Digitalization; How to Choose the Best Car Rental Management Software in 2025; Why Your Business Needs a Car Rental Booking Software in 2025; The Importance of Customer Feedback Channels for Car Rental Companies; Rently Soft Achieves PCI Compliance Certification: A Step Forward in Security and Trust; Incident Management in Rent a Car Software; Rently Soft Achieves ISO 9001 Certification: A Commitment to Excellence and Quality; Rently Soft at WTM London 2024: Discover the Future of Car Rental Solutions and Enter Our Exclusive Giveaway!",
+    "with": [
+      "Ready to Optimize Your Car Rental Business? Discover How Rently Can Outperform Your Current Software",
+      "The World's First Rent a Car Academy Is Born: Rently Academy",
+      "Why Automation is Key to the Future of Vehicle Rentals",
+      "The 5 Biggest Challenges Car Rental Companies Face Today",
+      "Trends 2025: How Technology Is Transforming Car Rentals"
+    ],
+    "without": [
+      "Book a Demo",
+      "Privacy Policy",
+      "© Rently Soft 2022",
+      "info@rentlysoft.com",
+      "Solutions | Rently Logo"
+    ],
+    "images": {
+      "total_in_content": 8,
+      "annotated_count": 1,
+      "items": [
+        {
+          "src": "https://cdn.prod.website-files.com/60d490186dfb7059f0593508/6107678c561181313523716c_man-with-laptop.png",
+          "filename": "6107678c561181313523716c_man-with-laptop.png",
+          "alt": "car rental software free demo",
+          "caption": "car rental software free demo",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:20:26.116893"
+}

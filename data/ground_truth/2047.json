@@ -1,27 +1,47 @@
 {
+  "schema_version": "2.0",
   "url": "https://arch.bdo.com/new-accounting-standards-and-upcoming-effective-dates",
   "file_id": "2047",
-  "downloaded_at": "2025-12-20T22:12:13.444635",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "accounting",
+        "financial-reporting",
+        "FASB",
+        "compliance",
+        "professional-services"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "New Accounting Standards and Upcoming Effective Dates for Public and Private Companies",
-    "author": null,
+    "author": "Adam Brown and Angela Newell",
     "publish_date": "2025-10-14",
-    "main_content": "This publication summarizes the new accounting standards with mandatory effective dates in the first quarter of 2026 for public entities, as well as new standards that take effect in annual 2025 financial statements for nonpublic entities. We have also included links to BDO’s guidance on each pronouncement, as applicable. Standards that become effective later but that can be early adopted currently are excluded. In the next filing season, calendar year-end public entities will prepare their annual 2025 financial statements, followed closely by their March 31, 2026, first quarter reports. Under SAB 74, entities will disclose in their 2025 annual filings the expected impact of adopting the FASB’s new standards on their financial statements. Standards issued after this publication’s date (see the FASB list of issued ASUs) are unlikely to affect first-quarter financial statements, but entities must consider them in preparing SAB 74 disclosures. On a similar timeline, calendar year-end nonpublic entities will prepare their annual 2025 financial statements reflecting standards that took effect in 2025. While most of the new standards address narrow topics, nonpublic insurance entities that report on a calendar year will adopt the changes to accounting for long-duration insurance effective as of the year-end reporting date of December 31, 2025, which may require significant effort. Early adoption is generally permitted for all standards summarized herein, but each Accounting Standard Update, (\"ASU\"), has specific transition guidance, and early adoption may have been limited to certain periods or circumstances. Please refer to BDO’s publications listed below and our overview, Accounting for Changes and Error Corrections for more information. Accounting Standards Updates Effective for Calendar-Year Public Entities as of January 1, 2026 Pronouncement Effective Date BDO Publications ASC 326, Financial Instruments — Credit Losses ASU 2025-05, Measurement of Credit Losses for Accounts Receivable and Contract Assets Effective for fiscal years beginning after December 15, 2025, and interim periods within those fiscal years. Bulletin: Measurement of Credit Losses for Accounts Receivable And Contract Assets ASC 470-20, Debt — Debt with Conversion and Other Options ASU 2024-04, Induced Conversions of Convertible Debt Instruments Effective for annual periods beginning after December 15, 2025, and interim periods within those annual periods. Early adoption is permitted as of beginning of annual period for all entities that have adopted the amendments in ASU 2020-06, Accounting for Convertible Instruments and Contracts in an Entity’s Own Equity under ASC 470-20, Debt — Debt with Conversion and Other Options and ASC 815-40, Derivatives and Hedging — Contracts in Entity’s Own Equity. Bulletin: Induced Conversions of Convertible Debt Instruments Accounting Standards Updates Effective for Calendar-Year Nonpublic Entities as of January 1, 2025 Pronouncement Effective Date BDO Publications ASC 323, Investments — Equity Method and Joint Ventures ASU 2023-02, Accounting for Investments in Tax Credit Structures Using the Proportional Amortization Method Effective for fiscal years beginning after December 15, 2024, and interim periods within those fiscal years. Bulletin: Investments in Tax Credit Structures and the Proportional Amortization Method Blueprint: Equity Method Investments Under ASC 323 ASC 350-60, Intangibles — Goodwill and Other — Crypto Assets ASU 2023-08, Accounting for and Disclosure of Crypto Assets Effective for fiscal years beginning after December 15, 2024, including interim periods within those fiscal years. Bulletin: FASB Issues Accounting Standard for Certain Crypto Assets Publication: Accounting for Cryptocurrencies ASC 805-60, Business Combinations — Joint Venture Formations ASU 2023-05, Recognition and Initial Measurement Effective for joint ventures formed on or after January 1, 2025 Bulletin: Joint Venture Formations Blueprint: Business Combinations Under ASC 805 ASC 820, Fair Value Measurement ASU 2022-03, Fair Value Measurement of Equity Securities Subject to Contractual Sale Restrictions Effective for fiscal years beginning after December 15, 2024, including interim periods within those fiscal years. Bulletin: Fair Value Measurement – Equity Securities Subject to Contractual Sale Restrictions ASC 944, Financial Services — Insurance ASU 2020-11, Effective date and early application to ASU 2018-12, Targeted Improvements to the Accounting for Long-Duration Contracts (Insurance) Effective for fiscal years beginning after December 15, 2024, and interim periods within fiscal years beginning after December 15, 2025. Bulletin: FASB Improves Accounting for Long-Duration Contracts BDO’s Accounting Advisory practice can help navigate the complexities of applying U.S. GAAP and adopting new accounting guidance.",
+    "main_content": "This publication summarizes the new accounting standards with mandatory effective dates in the first quarter of 2026 for public entities, as well as new standards that take effect in annual 2025 financial statements for nonpublic entities. We have also included links to BDO's guidance on each pronouncement, as applicable. Standards that become effective later but that can be early adopted currently are excluded.\n\nIn the next filing season, calendar year-end public entities will prepare their annual 2025 financial statements, followed closely by their March 31, 2026, first quarter reports. Under SAB 74, entities will disclose in their 2025 annual filings the expected impact of adopting the FASB's new standards on their financial statements. Standards issued after this publication's date are unlikely to affect first-quarter financial statements, but entities must consider them in preparing SAB 74 disclosures.\n\nOn a similar timeline, calendar year-end nonpublic entities will prepare their annual 2025 financial statements reflecting standards that took effect in 2025. While most of the new standards address narrow topics, nonpublic insurance entities that report on a calendar year will adopt the changes to accounting for long-duration insurance effective as of the year-end reporting date of December 31, 2025, which may require significant effort.\n\nEarly adoption is generally permitted for all standards summarized herein, but each Accounting Standard Update (ASU) has specific transition guidance, and early adoption may have been limited to certain periods or circumstances.\n\nEffective for public entities as of January 1, 2026:\n- ASU 2025-05, Measurement of Credit Losses for Accounts Receivable and Contract Assets (ASC 326)\n- ASU 2024-04, Induced Conversions of Convertible Debt Instruments (ASC 470-20)\n\nEffective for nonpublic entities as of January 1, 2025:\n- ASU 2023-02, Accounting for Investments in Tax Credit Structures Using the Proportional Amortization Method (ASC 323)\n- ASU 2023-08, Accounting for and Disclosure of Crypto Assets (ASC 350-60)\n- ASU 2023-05, Joint Venture Formations (ASC 805-60)\n- ASU 2022-03, Fair Value Measurement of Equity Securities Subject to Contractual Sale Restrictions (ASC 820)\n- ASU 2020-11, Effective date for ASU 2018-12 Targeted Improvements to the Accounting for Long-Duration Contracts (ASC 944)",
     "with": [
       "This publication summarizes the new accounting standards with mandatory effective dates in the first quarter of 2026 for public entities, as well as new standards that take effect in annual 2025 financial statements for nonpublic entities.",
       "In the next filing season, calendar year-end public entities will prepare their annual 2025 financial statements, followed closely by their March 31, 2026, first quarter reports.",
-      "On a similar timeline, calendar year-end nonpublic entities will prepare their annual 2025 financial statements reflecting standards that took effect in 2025.",
-      "Early adoption is generally permitted for all standards summarized herein, but each Accounting Standard Update, (\"ASU\"), has specific transition guidance, and early adoption may have been limited to certain periods or circumstances.",
-      "BDO’s Accounting Advisory practice can help navigate the complexities of applying U.S. GAAP and adopting new accounting guidance."
+      "Under SAB 74, entities will disclose in their 2025 annual filings the expected impact of adopting the FASB's new standards on their financial statements.",
+      "Early adoption is generally permitted for all standards summarized herein, but each Accounting Standard Update, (ASU), has specific transition guidance, and early adoption may have been limited to certain periods or circumstances.",
+      "Nonpublic insurance entities that report on a calendar year will adopt the changes to accounting for long-duration insurance effective as of the year-end reporting date of December 31, 2025, which may require significant effort."
     ],
     "without": [
-      "BY ACCESSING THE FASB DOCUMENTS ON THIS SITE, YOU ACCEPT AND AGREE TO THESE FASB TERMS AND THE WEBSITE TERMS AS APPLIED TO YOUR USE OF THIS SITE OR ANY FASB LICENSED DOCUMENTS.",
-      "Accounting Changes and Error Corrections September 17, 2024",
-      "SAB No. 74 Reminders: Disclosures and Controls for New Accounting Standards July 19, 2017",
-      "Sign up to receive the latest BDO news and insights.",
-      "Copyright © 2025 BDO USA, P.C. All rights reserved. BDO is the brand name for the BDO network and for each of the BDO Member Firms."
-    ]
+      "BDO.com",
+      "Contact Us to Learn How BDO Can Help",
+      "Email Sign Up - Sign up to receive the latest BDO news and insights",
+      "Copyright © 2025 BDO USA, P.C. All rights reserved",
+      "BDO's Accounting Advisory practice can help navigate the complexities"
+    ],
+    "images": {
+      "total_in_content": 1,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T22:12:13.444640"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:24:59.812421"
 }

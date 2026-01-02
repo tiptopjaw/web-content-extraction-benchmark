@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://cup.columbia.edu/books/new-books/",
+  "file_id": "1716",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "books",
+        "publishing",
+        "new-releases",
+        "academic"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "New Books | Columbia University Press",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Recently released titles from Columbia University Press. Cultural Mavericks: The Business and Politics of Independent Bookselling in China by Zheng Liu. The Confucius Chronicles: A Guide to the Texts That Made the Legend translated and edited by Wai-yee Li. Rhetorical Powers: How Rising States Shape International Order by Sasikumar Sundaram. China's Weaponization of Trade: Resistance Through Collective Resilience by Victor D. Cha, Ellen Kim, and Andy Lim. Forest Imaginaries: How African Novels Think by Ainehi Edoro. The Politics of Names: Attitudes, Identity, and the Naming of Children in American History by R. Urbatsch. LGBTQ+ Runaway and Homeless Youth: A Guide to Practice, Policy, and Research by Elaine M. Maccio and Kristin Ferguson. The Souths in Her: Black Women Writers and Choreographers and the Poetics of Transmutation by Nicole M. Morris Johnson. Spinoza for Our Time: Politics and Postmodernity by Antonio Negri. Enduring Erasures: Afterlives of the Armenian Genocide by Hakem Amer Al-Rustom. Possessions: A Novel by Julia Kristeva. Branding as a Cultural Force: Purpose, Responsibility, and Resonance by Robin Landa. The Jervis Effect: The Scholarship and Legacy of Robert Jervis edited by Richard H. Immerman, Stacie E. Goddard, and Diane N. Labrosse. Beauty and the Nation: Women, Culture, and the National Image in Interwar Vietnam by Christina E. Firpo. The Oldest Rocks on Earth: A Search for the Origins of Our World by Simon Lamb. Progress from the Margins: Human Rights and Disability Internationalism Since the 1960s by Paul van Trigt.",
+    "with": [
+      "Cultural Mavericks: The Business and Politics of Independent Bookselling in China",
+      "The Confucius Chronicles: A Guide to the Texts That Made the Legend",
+      "Rhetorical Powers: How Rising States Shape International Order",
+      "China's Weaponization of Trade: Resistance Through Collective Resilience",
+      "Forest Imaginaries: How African Novels Think"
+    ],
+    "without": [
+      "Privacy & Cookie Policies",
+      "Job Opportunities",
+      "Created by Supadü",
+      "Books | Site Content toggle navigation",
+      "Cart functionality and Add to Cart buttons"
+    ],
+    "images": {
+      "total_in_content": 18,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://cup-us.imgix.net/covers/9780231200134.jpg?auto=format&w=350",
+          "filename": "9780231200134.jpg",
+          "alt": "Cultural Mavericks",
+          "caption": "Cultural Mavericks cover image",
+          "is_hero": false
+        },
+        {
+          "src": "https://cup-us.imgix.net/covers/9780231214834.jpg?auto=format&w=350",
+          "filename": "9780231214834.jpg",
+          "alt": "The Confucius Chronicles",
+          "caption": "The Confucius Chronicles cover image",
+          "is_hero": false
+        },
+        {
+          "src": "https://cup-us.imgix.net/covers/9780231207836.jpg?auto=format&w=350",
+          "filename": "9780231207836.jpg",
+          "alt": "Rhetorical Powers",
+          "caption": "Rhetorical Powers cover image",
+          "is_hero": false
+        },
+        {
+          "src": "https://cup-us.imgix.net/covers/9780231222402.jpg?auto=format&w=350",
+          "filename": "9780231222402.jpg",
+          "alt": "China's Weaponization of Trade",
+          "caption": "China's Weaponization of Trade cover image",
+          "is_hero": false
+        },
+        {
+          "src": "https://cup-us.imgix.net/covers/9780231220750.jpg?auto=format&w=350",
+          "filename": "9780231220750.jpg",
+          "alt": "Forest Imaginaries",
+          "caption": "Forest Imaginaries cover image",
+          "is_hero": false
+        },
+        {
+          "src": "https://cup-us.imgix.net/covers/9780231221696.jpg?auto=format&w=350",
+          "filename": "9780231221696.jpg",
+          "alt": "The Politics of Names",
+          "caption": "The Politics of Names cover image",
+          "is_hero": false
+        },
+        {
+          "src": "https://cup-us.imgix.net/covers/9780231220712.jpg?auto=format&w=350",
+          "filename": "9780231220712.jpg",
+          "alt": "LGBTQ+ Runaway and Homeless Youth",
+          "caption": "LGBTQ+ Runaway and Homeless Youth cover image",
+          "is_hero": false
+        },
+        {
+          "src": "https://cup-us.imgix.net/covers/9780231219686.jpg?auto=format&w=350",
+          "filename": "9780231219686.jpg",
+          "alt": "The Souths in Her",
+          "caption": "The Souths in Her cover image",
+          "is_hero": false
+        },
+        {
+          "src": "https://cup-us.imgix.net/covers/9780231224192.jpg?auto=format&w=350",
+          "filename": "9780231224192.jpg",
+          "alt": "Spinoza for Our Time",
+          "caption": "Spinoza for Our Time cover image",
+          "is_hero": false
+        },
+        {
+          "src": "https://cup-us.imgix.net/covers/9780231213653.jpg?auto=format&w=350",
+          "filename": "9780231213653.jpg",
+          "alt": "Enduring Erasures",
+          "caption": "Enduring Erasures cover image",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:58:43.153433"
+}

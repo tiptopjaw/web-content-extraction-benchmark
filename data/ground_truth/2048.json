@@ -1,0 +1,116 @@
+{
+  "schema_version": "2.0",
+  "url": "https://viewpoint.pwc.com/us/en/newsletter0.html",
+  "file_id": "2048",
+  "_internal": {
+    "page_type": {
+      "primary": "homepage",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "newsletter",
+        "accounting",
+        "landing page"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "PwC's accounting weekly news",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Welcome to PwC's accounting weekly news - trusted answers, timely insights. Weekly highlights in accounting, reporting, sustainability, business news, and the latest from regulators and standard setters. Subscribe to stay up to date on accounting and sustainability reporting. Have our newsletter delivered to your inbox every Friday. Read now: Featured articles include PwC's accounting weekly news issues covering Q4 Closing statements, software costs guide, SEC Conference, California climate disclosure laws, AICPA/CIMA SEC conference, FASB ASU interim reporting, new software SaaS guide, amended ESRS, Non-GAAP, tariffs, hedge accounting, government grants, DISE, simplified ESRS, scope 2 GHG, quarterly accounting webcast, CECL purchased seasoned loans, SEC shareholder proposal process, Project Crypto, SEC Corp Fin guidance on end of shutdown, GHG Protocol, SEC to revisit quarterly reporting, SEC comment letter trends, CPE-eligible webcasts, PwC Audit Quality Report, spinoffs, GHG reporting trends, Scope 2 and 3 GHG emissions, income tax disclosures, sale of a business, California climate reporting, SEC guidance during government shutdown, crypto assets, quarterly insights, financial statement presentation, derivative and revenue scoping, PIK dividends, PCAOB developments, updated accounting guides, California climate disclosure webcast, and more.",
+    "with": [
+      "Welcome to PwC's accounting weekly news - trusted answers, timely insights.",
+      "Weekly highlights in accounting, reporting, sustainability, business news, and the latest from regulators and standard setters.",
+      "Have our newsletter delivered to your inbox every Friday.",
+      "Featured articles cover Q4 Closing statements, software costs guide, SEC Conference, California climate disclosure laws.",
+      "Content includes FASB ASU updates, SEC guidance, GHG emissions reporting, and CPE-eligible webcasts."
+    ],
+    "without": [
+      "Subscribe to stay up to date on accounting and sustainability reporting.",
+      "United States | EN",
+      "Type your search...",
+      "PwC logo",
+      "Sign in"
+    ],
+    "images": {
+      "total_in_content": 27,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "/content/dam/pwc-madison/ditaroot/us/en/pwc/news-and-alerts/brand_images/resized/425/ill_drawers.jpg",
+          "filename": "ill_drawers.jpg",
+          "alt": null,
+          "caption": "PwC's accounting weekly news: December 19, 2025: Q4 Closing statements, software costs guide, more on the SEC Conference, California climate disclosure laws, and more",
+          "is_hero": true
+        },
+        {
+          "src": "/content/dam/pwc-madison/ditaroot/us/en/pwc/news-and-alerts/brand_images/resized/425/illsmallcircle.png",
+          "filename": "illsmallcircle.png",
+          "alt": null,
+          "caption": "PwC's accounting weekly news: December 12, 2025: AICPA/CIMA SEC conference, FASB ASU: interim reporting, new software SaaS guide, amended ESRS, and more",
+          "is_hero": false
+        },
+        {
+          "src": "/content/dam/pwc-madison/ditaroot/us/en/pwc/news-and-alerts/brand_images/resized/425/ill_orange_lines425.jpg",
+          "filename": "ill_orange_lines425.jpg",
+          "alt": null,
+          "caption": "PwC's accounting weekly news: December 05, 2025: Non-GAAP, tariffs, hedge accounting, government grants, DISE, simplified ESRS, scope 2 GHG, quarterly accounting webcast, and more",
+          "is_hero": false
+        },
+        {
+          "src": "/content/dam/pwc-madison/ditaroot/us/en/pwc/news-and-alerts/brand_images/resized/222/illsun.png",
+          "filename": "illsun.png",
+          "alt": null,
+          "caption": "PwC's accounting weekly news: November 21, 2025: CECL purchased seasoned loans, SEC shareholder proposal process, Project Crypto, and more",
+          "is_hero": false
+        },
+        {
+          "src": "/content/dam/pwc-madison/ditaroot/us/en/pwc/news-and-alerts/brand_images/resized/425/ill_grey.jpg",
+          "filename": "ill_grey.jpg",
+          "alt": null,
+          "caption": "PwC's accounting weekly news: November 14, 2025: SEC Corp Fin guidance on end of shutdown, software costs, GHG Protocol, and more",
+          "is_hero": false
+        },
+        {
+          "src": "/content/dam/pwc-madison/ditaroot/us/en/pwc/news-and-alerts/brand_images/resized/222/illpill.png",
+          "filename": "illpill.png",
+          "alt": null,
+          "caption": "PwC's accounting weekly news: November 07, 2025: SEC to revisit quarterly reporting, SEC comment letter trends, CPE-eligible webcasts, and more",
+          "is_hero": false
+        },
+        {
+          "src": "/content/dam/pwc-madison/ditaroot/us/en/pwc/news-and-alerts/brand_images/resized/425/ill_laptop425.jpg",
+          "filename": "ill_laptop425.jpg",
+          "alt": null,
+          "caption": "PwC's accounting weekly news: October 31, 2025: PwC Audit Quality Report, spinoffs, GHG reporting trends, CPE-eligible webcasts, and more",
+          "is_hero": false
+        },
+        {
+          "src": "/content/dam/pwc-madison/ditaroot/us/en/pwc/news-and-alerts/brand_images/resized/222/ill_darktriangles.jpg",
+          "filename": "ill_darktriangles.jpg",
+          "alt": null,
+          "caption": "PwC's accounting weekly news: October 17, 2025: California climate reporting, SEC guidance during government shutdown, crypto assets, and more",
+          "is_hero": false
+        },
+        {
+          "src": "/content/dam/pwc-madison/ditaroot/us/en/pwc/news-and-alerts/brand_images/resized/222/ill_red.jpg",
+          "filename": "ill_red.jpg",
+          "alt": null,
+          "caption": "PwC's accounting weekly news: October 10, 2025: Crypto assets, quarterly insights, financial statement presentation, and more",
+          "is_hero": false
+        },
+        {
+          "src": "/content/dam/pwc-madison/ditaroot/us/en/pwc/news-and-alerts/brand_images/resized/425/2021/illarms.jpg",
+          "filename": "illarms.jpg",
+          "alt": null,
+          "caption": "PwC's accounting weekly news: September 26, 2025: PCAOB developments, updated accounting guides, California climate disclosure webcast, and more",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:25:15.249926"
+}

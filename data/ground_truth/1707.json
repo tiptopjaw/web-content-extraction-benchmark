@@ -1,0 +1,117 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.yellowkorner.com/en/art-photographs/best-sellers/",
+  "file_id": "1707",
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "e-commerce",
+        "photography",
+        "category",
+        "best-sellers"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Best Sellers Photography · Purchase of Best Sellers Prints & Photographs · YellowKorner",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Best Sellers category page showcasing YellowKorners collection of best-selling art photographs. The collection includes a diverse range of photography styles from black-and-white to portraits, landscapes to fashion, featuring works by renowned photographers. Available in multiple sizes from 40x50cm to 150x225cm, these numbered and limited-edition prints come with a certificate of authenticity. The page offers filtering options by colors (Night blue, Blue, Black and White, Red, Pink, Orange, Yellow, Grey, Green, Black, Beige, White, Multicolour), shapes (Vertical, Square, Horizontal), availabilities (Available delivered within 72 hrs, On order delivered within 11 days at home, On order delivered under 19 days in gallery), and sizes. Sorting options include New Releases, Best selling, Most Viewed, and Last prints.",
+    "with": [
+      "With black-and-white portraits, from women to landscapes, come and discover our collection of bestsellers which have made and continue to make our galleries so successful.",
+      "Available, delivered within 72 hrs",
+      "YellowKorner showcases the selection of Best Sellers photos, numbered and limited-edition art photographs with a certificate of authenticity.",
+      "Best Sellers Art photographs /",
+      "See 88 artworks"
+    ],
+    "without": [
+      "English Français Deutsch Español Italiano Nederlands",
+      "My Account",
+      "Track your order",
+      "Popular searches",
+      "Delivery & Returns"
+    ],
+    "images": {
+      "total_in_content": 50,
+      "annotated_count": 10,
+      "items": [
+        {
+          "src": "https://storage.googleapis.com/yk-cdn/photos/plp/fabien-novarino/summer-among-blue-stone.jpg",
+          "filename": "summer-among-blue-stone.jpg",
+          "alt": "Summer among blue stone - Fabien NOVARINO - Photograph",
+          "caption": "Summer among blue stone - Fabien NOVARINO - Photograph",
+          "is_hero": true
+        },
+        {
+          "src": "https://storage.googleapis.com/yk-cdn/photos/plp/fabien-novarino/spring-pastel-passage.jpg",
+          "filename": "spring-pastel-passage.jpg",
+          "alt": "Spring pastel passage - Fabien NOVARINO - Photograph",
+          "caption": "Spring pastel passage - Fabien NOVARINO - Photograph",
+          "is_hero": false
+        },
+        {
+          "src": "https://storage.googleapis.com/yk-cdn/photos/plp/fabien-novarino/winter-the-dark-dress.jpg",
+          "filename": "winter-the-dark-dress.jpg",
+          "alt": "Winter the dark dress - Fabien NOVARINO - Photograph",
+          "caption": "Winter the dark dress - Fabien NOVARINO - Photograph",
+          "is_hero": false
+        },
+        {
+          "src": "https://storage.googleapis.com/yk-cdn/photos/plp/fabien-novarino/autumn-crimson-and-sand.jpg",
+          "filename": "autumn-crimson-and-sand.jpg",
+          "alt": "Autumn crimson and sand - Fabien NOVARINO - Photograph",
+          "caption": "Autumn crimson and sand - Fabien NOVARINO - Photograph",
+          "is_hero": false
+        },
+        {
+          "src": "https://storage.googleapis.com/yk-cdn/photos/plp/joanna-steidle/blue-crush.jpg",
+          "filename": "blue-crush.jpg",
+          "alt": "Blue crush - Joanna Steidle - Photograph",
+          "caption": "Blue crush - Joanna Steidle - Photograph",
+          "is_hero": false
+        },
+        {
+          "src": "https://storage.googleapis.com/yk-cdn/photos/plp/venyce-vicci/glamour-on-the-road.jpg",
+          "filename": "glamour-on-the-road.jpg",
+          "alt": "Glamour on the road - Venyce Vicci - Photograph",
+          "caption": "Glamour on the road - Venyce Vicci - Photograph",
+          "is_hero": false
+        },
+        {
+          "src": "https://storage.googleapis.com/yk-cdn/photos/plp/robbie-mcintosh/tutto-passa.jpg",
+          "filename": "tutto-passa.jpg",
+          "alt": "Tutto passa - Robbie McIntosh - Photograph",
+          "caption": "Tutto passa - Robbie McIntosh - Photograph",
+          "is_hero": false
+        },
+        {
+          "src": "https://storage.googleapis.com/yk-cdn/photos/plp/ldkphoto/return-of-piz-gloria.jpg",
+          "filename": "return-of-piz-gloria.jpg",
+          "alt": "Return of piz gloria -  LDKPHOTO - Photograph",
+          "caption": "Return of piz gloria - LDKPHOTO - Photograph",
+          "is_hero": false
+        },
+        {
+          "src": "https://storage.googleapis.com/yk-cdn/photos/plp/nik-and-kerry-wheeler/gone-skiing.jpg",
+          "filename": "gone-skiing.jpg",
+          "alt": "Gone skiing - Nik and Kerry Wheeler - Photograph",
+          "caption": "Gone skiing - Nik and Kerry Wheeler - Photograph",
+          "is_hero": false
+        },
+        {
+          "src": "https://storage.googleapis.com/yk-cdn/photos/plp/mario-stefanelli/girls-en-vacances-st-tropez.jpg",
+          "filename": "girls-en-vacances-st-tropez.jpg",
+          "alt": "Girls en vacances St Tropez - Mario STEFANELLI - Photograph",
+          "caption": "Girls en vacances St Tropez - Mario STEFANELLI - Photograph",
+          "is_hero": false
+        }
+      ]
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:55:54.872940"
+}

@@ -1,27 +1,60 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.protiviti.com/us-en/data-and-analytics-services",
   "file_id": "1059",
-  "downloaded_at": "2025-12-20T20:43:01.371562",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "consulting",
+        "data-analytics",
+        "professional-services"
+      ]
+    }
+  },
   "ground_truth": {
-    "title": "Data and Analytics Services",
+    "title": "Data and Analytics Services | Protiviti US",
     "author": null,
     "publish_date": null,
-    "main_content": "Data is the lifeblood of the digital era. The data volume created and consumed continues to grow at a rapid pace with no signs of slowing. But how do you protect, access and leverage it for meaningful business insights? Our enterprise data and analytics services help companies not only manage the data, but also break down data silos to identify untapped opportunities and expose hidden risks. The end result — a competitive advantage that enables clients to make intelligent business decisions that drive performance and growth while managing risks. Protiviti partners with organizations to provide data and analytics services that support the creation of modern data foundations, optimize data governance and implement advanced analytics strategies — from AI and machine learning to real-time reporting. Our holistic approach ensures data is trusted, accessible and aligned to business objectives, empowering leaders to act with confidence in an increasingly data-driven world. Whether you're modernizing legacy systems or scaling new analytics capabilities, we help turn data into a strategic asset that drives lasting impact. Protect, access and leverage your data for business growth. Data and Analytics Strategy: A data and analytics strategy is critical to maximizing business value. Our experts work in collaboration with you to deliver a robust strategy that aligns business goals, challenges and aspires to build an insights-driven organization. Data Architecture and Engineering: Insights-driven companies require a secure, flexible and a scalable enterprise data architecture foundation. We work to understand your unique business goals and existing IT investments to deliver and operate modern architecture solutions. Enterprise Data Governance: Data governance is the foundation of a successful data and analytics program. We help you establish a data governance framework that ensures data is trusted, accessible and secure. Advanced Analytics and AI: We help you harness the power of advanced analytics and AI to uncover insights, predict outcomes and automate decisions. Our services range from machine learning and natural language processing to robotic process automation. Data Visualization and Reporting: Transform complex data into clear, actionable insights with interactive dashboards and reports. We help you communicate data-driven stories that drive business decisions. Data Privacy and Protection: In a world of increasing regulation and cyber threats, protecting data is non-negotiable. We help you implement robust data privacy and security measures to safeguard sensitive information. Our solutions range from data strategy and governance through the development, design and implementation of advanced analytics and digitalization.",
+    "main_content": "Data and Analytics Services. Turn your data into a competitive advantage. Data is the lifeblood of the digital era. The data volume created and consumed continues to grow at a rapid pace with no signs of slowing. But how do you protect, access and leverage it for meaningful business insights? Our enterprise data and analytics services help companies not only manage the data, but also break down data silos to identify untapped opportunities and expose hidden risks. The end result — a competitive advantage that enables clients to make intelligent business decisions that drive performance and growth while managing risks. Protiviti partners with organizations to provide data and analytics services that support the creation of modern data foundations, optimize data governance and implement advanced analytics strategies — from AI and machine learning to real-time reporting. Our holistic approach ensures data is trusted, accessible and aligned to business objectives, empowering leaders to act with confidence in an increasingly data-driven world. Whether you're modernizing legacy systems or scaling new analytics capabilities, we help turn data into a strategic asset that drives lasting impact. Protect, access and leverage your data for business growth. Data and Analytics Strategy: A data and analytics strategy is critical to maximizing business value. Our experts work in collaboration with you to deliver a robust strategy that aligns business goals, challenges and aspires to build an insights-driven organization. Data Architecture and Engineering: Insights-driven companies require a secure, flexible and a scalable enterprise data architecture foundation. We work to understand your unique business goals and existing IT investments to deliver and operate modern architecture solutions. Enterprise Data Governance: Our experts assess your current data governance program to identify gaps and design and implement a best-in-class governance framework that supports regulatory compliance and enables data-driven decision making. Advanced Analytics and AI: Our advanced analytics and AI services help organizations transform data into predictive and prescriptive insights. Using industry-leading tools and techniques, we help organizations build and deploy AI models that automate processes, enhance customer experiences and identify new revenue streams.",
     "with": [
-      "Data is the lifeblood of the digital era.",
+      "Data is the lifeblood of the digital era. The data volume created and consumed continues to grow at a rapid pace with no signs of slowing.",
       "Our enterprise data and analytics services help companies not only manage the data, but also break down data silos to identify untapped opportunities and expose hidden risks.",
-      "Protiviti partners with organizations to provide data and analytics services that support the creation of modern data foundations, optimize data governance and implement advanced analytics strategies — from AI and machine learning to real-time reporting.",
+      "Protiviti partners with organizations to provide data and analytics services that support the creation of modern data foundations, optimize data governance and implement advanced analytics strategies.",
       "Our holistic approach ensures data is trusted, accessible and aligned to business objectives, empowering leaders to act with confidence in an increasingly data-driven world.",
-      "Our solutions range from data strategy and governance through the development, design and implementation of advanced analytics and digitalization."
+      "We help turn data into a strategic asset that drives lasting impact."
     ],
     "without": [
       "Skip to main content",
-      "Protiviti Global Buisiness Consulting in English",
-      "Search in Protiviti.com",
-      "Solutions | Industries | Insights | About Us | Careers",
-      "© 2025 Protiviti Inc. All Rights Reserved."
-    ]
+      "Solutions Industries Insights About Us Careers",
+      "Data and Analytics Services | Protiviti US",
+      "United States (English)",
+      "Facebook-domain-verification"
+    ],
+    "images": {
+      "total_in_content": 38,
+      "annotated_count": 2,
+      "items": [
+        {
+          "src": "/sites/default/files/styles/is_solution_hero/public/2022-04/PRO_0322_DataAndAnalyticsHero_GBL_ENG_398x492.jpg.webp?itok=isgvTFVS",
+          "filename": "PRO_0322_DataAndAnalyticsHero_GBL_ENG_398x492.jpg.webp",
+          "alt": null,
+          "caption": "Data and Analytics Services hero image",
+          "is_hero": true
+        },
+        {
+          "src": "/sites/default/files/styles/is_body_content_area/public/2022-08/US_Sol_DataAnalyticsServ_ValueBring.png.webp?itok=WFPZdhdM",
+          "filename": "US_Sol_DataAnalyticsServ_ValueBring.png.webp",
+          "alt": null,
+          "caption": "Value brought by data analytics services",
+          "is_hero": false
+        }
+      ]
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T20:43:01.371568"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:12:44.787419"
 }

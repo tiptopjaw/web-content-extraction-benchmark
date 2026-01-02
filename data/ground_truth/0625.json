@@ -1,0 +1,46 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.musictheory.net/lessons",
+  "file_id": "0625",
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "music-theory",
+        "tutorial",
+        "curriculum"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "musictheory.net - Lessons",
+    "author": null,
+    "publish_date": null,
+    "main_content": "musictheory.net provides free online music theory lessons covering introductory and intermediate topics. The lessons are organized into the following sections:\n\nTHE BASICS: The Staff, Clefs, and Ledger Lines; Note Duration; Measures and Time Signature; Rest Duration; Dots and Ties; Steps and Accidentals.\n\nRHYTHM AND METER: Simple and Compound Meter; Odd Meter.\n\nSCALES AND KEY SIGNATURES: The Major Scale; The Minor Scales; Scale Degrees; Key Signatures; Key Signature Calculation.\n\nINTERVALS: Generic Intervals; Specific Intervals; Writing Intervals; Interval Inversion.\n\nCHORDS: Introduction to Chords; Triad Inversion; Seventh Chords; More Seventh Chords; Seventh Chord Inversion.\n\nDIATONIC CHORDS: Diatonic Triads; Roman Numeral Analysis: Triads; Diatonic Seventh Chords; Roman Numeral Analysis: Seventh Chords; Composing with Minor Scales; Voicing Chords; Analysis: O Canada.\n\nCHORD PROGRESSIONS: Nonharmonic Tones; Phrases and Cadences; Circle Progressions; Common Chord Progressions; Triads in First Inversion; Triads in Second Inversion; Analysis: Auld Lang Syne.\n\nNEAPOLITAN CHORDS: Building Neapolitan Chords; Using Neapolitan Chords; Analysis: Moonlight Sonata.",
+    "with": [
+      "Our lessons are provided online for free. If they help you, please purchase our apps to support the site.",
+      "Learn how to construct the major scale and understand scale degrees.",
+      "Learn how a scale's notes form special triads in diatonic chord analysis.",
+      "Learn about root motion and circular chord progressions.",
+      "Enhanced offline versions of our animated lessons available for iPhone and iPad."
+    ],
+    "without": [
+      "© 2000-2025 musictheory.net, LLC",
+      "Apple, the Apple logo, iPhone, and iPad are trademarks of Apple Inc.",
+      "FAQ | Legal | Privacy",
+      "Introductory and intermediate music theory lessons, exercises, ear trainers, and calculators.",
+      "Lessons | Exercises | Tools | Products | News | Contact"
+    ],
+    "images": {
+      "total_in_content": 0,
+      "annotated_count": 0,
+      "items": []
+    }
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:41:52.913253"
+}

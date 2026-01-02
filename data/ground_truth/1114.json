@@ -1,27 +1,46 @@
 {
+  "schema_version": "2.0",
   "url": "https://www.deptagency.com/service/growth/data-science-machine-learning-ai/",
   "file_id": "1114",
-  "downloaded_at": "2025-12-20T21:14:38.496722",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "data-science",
+        "machine-learning",
+        "agency"
+      ]
+    }
+  },
   "ground_truth": {
     "title": "Machine learning agency - Data Science - DEPT®",
     "author": null,
     "publish_date": null,
-    "main_content": "Data science\n\nOur data scientists, AI and machine learning experts have broad experience in developing digital solutions designed to facilitate smarter decision making, boost productivity, and increase efficiencies.\n\nWe build and develop algorithms that detect patterns in raw data, specific to your business, allowing you to embed analytics deep into the heart of your organization. \n\nHow we can help\n\nWe approach opportunities to apply machine learning by bringing together experts from across DEPT®’s disciplines and skill sets. First, we help you to create an easily accessible, scalable, clearly structured data warehouse. Our in-house machine learning experts develop the tools with the ability to analyze vast data sets and present them via understandable analytics. Data scientists and developers then build predictive models with self-learning algorithms, based on data most relevant to your business. Our development teams then translate this all into innovative digital projects, such as smart chatbots that use machine learning to improve customer service. \n\nWe also work with clients to draw out the immense value AI and machine learning can bring to today’s digital marketing campaigns, from identifying and targeting your ideal audience to pinpointing your most effective channels. Our data science team is here to help your digital marketing arm make the most of this tech to serve highly relevant, personalized content across all your touch points, including email, website, ads, and more. Plus, we can assist you with utilizing AI and ML to parse your consumer and market data for strategic product pricing.",
+    "main_content": "Data science. Our data scientists, AI and machine learning experts have broad experience in developing digital solutions designed to facilitate smarter decision making, boost productivity, and increase efficiencies. We build and develop algorithms that detect patterns in raw data, specific to your business, allowing you to embed analytics deep into the heart of your organization. How we can help. We approach opportunities to apply machine learning by bringing together experts from across DEPT®'s disciplines and skill sets. First, we help you to create an easily accessible, scalable, clearly structured data warehouse. Our in-house machine learning experts develop the tools with the ability to analyze vast data sets and present them via understandable analytics. Data scientists and developers then build predictive models with self-learning algorithms, based on data most relevant to your business. Our development teams then translate this all into innovative digital projects, such as smart chatbots that use machine learning to improve customer service. We also work with clients to draw out the immense value AI and machine learning can bring to today's digital marketing campaigns, from identifying and targeting your ideal audience to pinpointing your most effective channels. Our data science team is here to help your digital marketing arm make the most of this tech to serve highly relevant, personalized content across all your touch points, including email, website, ads, and more. Plus, we can assist you with utilizing AI and ML to parse your consumer and market data for strategic product pricing.",
     "with": [
       "Our data scientists, AI and machine learning experts have broad experience in developing digital solutions designed to facilitate smarter decision making, boost productivity, and increase efficiencies.",
       "We build and develop algorithms that detect patterns in raw data, specific to your business, allowing you to embed analytics deep into the heart of your organization.",
-      "We approach opportunities to apply machine learning by bringing together experts from across DEPT®’s disciplines and skill sets.",
-      "Our in-house machine learning experts develop the tools with the ability to analyze vast data sets and present them via understandable analytics.",
-      "We also work with clients to draw out the immense value AI and machine learning can bring to today’s digital marketing campaigns, from identifying and targeting your ideal audience to pinpointing your most effective channels."
+      "First, we help you to create an easily accessible, scalable, clearly structured data warehouse.",
+      "Data scientists and developers then build predictive models with self-learning algorithms, based on data most relevant to your business.",
+      "Our development teams then translate this all into innovative digital projects, such as smart chatbots that use machine learning to improve customer service."
     ],
     "without": [
-      "Skip to content",
-      "What we do Work Insights Culture",
-      "Search deptagency.com",
+      "Subscribe to our newsletter",
+      "Change location",
       "Contact",
+      "All Services",
       "© 2025 DEPT"
-    ]
+    ],
+    "images": {
+      "total_in_content": 5,
+      "annotated_count": 0,
+      "items": []
+    }
   },
-  "model": "deepseek-chat",
-  "annotated_at": "2025-12-20T21:14:38.496727"
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:41:13.640792"
 }
