@@ -14,6 +14,10 @@
         "digital marketing",
         "careers"
       ]
+    },
+    "exclude": {
+      "excluded": true,
+      "reason": "js_rendered_zero_content"
     }
   },
   "ground_truth": {

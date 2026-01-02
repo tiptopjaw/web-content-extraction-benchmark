@@ -15,6 +15,10 @@
         "insurance",
         "professional-development"
       ]
+    },
+    "exclude": {
+      "excluded": true,
+      "reason": "js_rendered_zero_content"
     }
   },
   "ground_truth": {

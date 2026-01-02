@@ -12,6 +12,10 @@
         "social-media",
         "login-page"
       ]
+    },
+    "exclude": {
+      "excluded": true,
+      "reason": "login_wall"
     }
   },
   "ground_truth": {

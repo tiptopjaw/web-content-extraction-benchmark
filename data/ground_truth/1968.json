@@ -13,6 +13,10 @@
         "cloud-computing",
         "infrastructure"
       ]
+    },
+    "exclude": {
+      "excluded": true,
+      "reason": "js_rendered_thin_content"
     }
   },
   "ground_truth": {

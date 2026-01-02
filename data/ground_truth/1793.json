@@ -14,6 +14,10 @@
         "privacy",
         "interstitial"
       ]
+    },
+    "exclude": {
+      "excluded": true,
+      "reason": "captcha_or_consent_page"
     }
   },
   "ground_truth": {

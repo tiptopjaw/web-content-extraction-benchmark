@@ -14,6 +14,10 @@
         "image-viewer",
         "social"
       ]
+    },
+    "exclude": {
+      "excluded": true,
+      "reason": "cdn_media_page"
     }
   },
   "ground_truth": {

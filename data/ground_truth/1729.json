@@ -13,6 +13,10 @@
         "rankings",
         "bootcamps"
       ]
+    },
+    "exclude": {
+      "excluded": true,
+      "reason": "js_rendered_zero_content"
     }
   },
   "ground_truth": {
