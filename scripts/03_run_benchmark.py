@@ -17,7 +17,8 @@ from extractors import (
     TrafilaturaExtractor,
     ReadabilityExtractor,
     Boilerpy3Extractor,
-    BeautifulSoupExtractor
+    BeautifulSoupExtractor,
+    RsTrafilaturaExtractor
 )
 
 # Paths
@@ -25,6 +26,38 @@ DATA_DIR = BASE_DIR / "data"
 HTML_DIR = DATA_DIR / "html_files"
 GROUND_TRUTH_DIR = DATA_DIR / "ground_truth"  # 1,193 annotation files
 RESULTS_DIR = BASE_DIR / "results"
+CATEGORY_REMOVAL_REPORT = DATA_DIR / "category_removal_report.json"
+DIRECTORY_EXCLUSION_REPORT = DATA_DIR / "directory_exclusion_report.json"
+INCOMPLETE_ANNOTATION_FLAGS = DATA_DIR / "incomplete_annotation_flags.json"
+
+def load_incomplete_annotation_ids() -> set:
+    """Load file IDs flagged as having incomplete annotations"""
+    if not INCOMPLETE_ANNOTATION_FLAGS.exists():
+        return set()
+    with open(INCOMPLETE_ANNOTATION_FLAGS, 'r') as f:
+        report = json.load(f)
+        return set(report.get('flagged_file_ids', []))
+
+def load_excluded_file_ids() -> set:
+    """Load file IDs that should be excluded from benchmarking"""
+    excluded = set()
+
+    # Load category removal report (original filter)
+    if CATEGORY_REMOVAL_REPORT.exists():
+        with open(CATEGORY_REMOVAL_REPORT, 'r') as f:
+            report = json.load(f)
+            for category, files in report.get('removed_files', {}).items():
+                for file_info in files:
+                    excluded.add(file_info['file_id'])
+
+    # Load directory exclusion report (from benchmark analysis)
+    if DIRECTORY_EXCLUSION_REPORT.exists():
+        with open(DIRECTORY_EXCLUSION_REPORT, 'r') as f:
+            report = json.load(f)
+            for file_info in report.get('excluded_files', []):
+                excluded.add(file_info['file_id'])
+
+    return excluded
 
 def calculate_text_similarity(extracted: str, ground_truth: str) -> Dict[str, float]:
     """
@@ -142,6 +175,7 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
         'boilerpy3-article': Boilerpy3Extractor('ArticleExtractor'),
         'boilerpy3-default': Boilerpy3Extractor('DefaultExtractor'),
         'beautifulsoup': BeautifulSoupExtractor(),
+        'rs-trafilatura': RsTrafilaturaExtractor(),
     }
 
     # Filter if specific extractor requested
@@ -152,8 +186,14 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
             return
         extractors = {extractor_name: extractors[extractor_name]}
 
-    # Get all ground truth files
-    ground_truth_files = sorted(GROUND_TRUTH_DIR.glob("*.json"))
+    # Get all ground truth files, filtering excluded ones
+    excluded_ids = load_excluded_file_ids()
+    incomplete_annotation_ids = load_incomplete_annotation_ids()
+    all_ground_truth_files = sorted(GROUND_TRUTH_DIR.glob("*.json"))
+    ground_truth_files = [
+        f for f in all_ground_truth_files
+        if f.stem not in excluded_ids
+    ]
 
     if limit:
         ground_truth_files = ground_truth_files[:limit]
@@ -161,6 +201,8 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
     print(f"\n{'='*80}")
     print(f"Content Extraction Benchmark")
     print(f"{'='*80}\n")
+    print(f"Excluded {len(excluded_ids)} files based on category filters")
+    print(f"Flagged {len(incomplete_annotation_ids)} files with potentially incomplete annotations")
     print(f"Testing {len(extractors)} extractor(s) on {len(ground_truth_files)} files\n")
 
     # Create results directory
@@ -209,7 +251,7 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
             }
             results.append(result)
 
-        # Calculate aggregate metrics
+        # Calculate aggregate metrics for ALL files
         total_files = len(results)
         avg_precision = sum(r['evaluation']['content_precision'] for r in results) / total_files
         avg_recall = sum(r['evaluation']['content_recall'] for r in results) / total_files
@@ -217,6 +259,16 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
         avg_with_snippets = sum(r['evaluation']['with_snippets_percentage'] for r in results) / total_files
         avg_without_snippets = sum(r['evaluation']['without_snippets_percentage'] for r in results) / total_files
         title_match_rate = sum(1 for r in results if r['evaluation']['title_match']) / total_files
+
+        # Calculate metrics for GOOD GT files (excluding incomplete annotations)
+        good_gt_results = [r for r in results if r['file_id'] not in incomplete_annotation_ids]
+        good_gt_count = len(good_gt_results)
+        if good_gt_count > 0:
+            good_gt_precision = sum(r['evaluation']['content_precision'] for r in good_gt_results) / good_gt_count
+            good_gt_recall = sum(r['evaluation']['content_recall'] for r in good_gt_results) / good_gt_count
+            good_gt_f1 = sum(r['evaluation']['content_f1'] for r in good_gt_results) / good_gt_count
+        else:
+            good_gt_precision = good_gt_recall = good_gt_f1 = 0.0
 
         summary = {
             'extractor': extractor.name,
@@ -230,6 +282,12 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
                 'with_snippets_percentage': avg_with_snippets,
                 'without_snippets_percentage': avg_without_snippets,
                 'title_match_rate': title_match_rate,
+            },
+            'metrics_good_gt': {
+                'files_count': good_gt_count,
+                'content_precision': good_gt_precision,
+                'content_recall': good_gt_recall,
+                'content_f1': good_gt_f1,
             },
             'timestamp': datetime.now().isoformat(),
             'results': results
@@ -246,10 +304,14 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
         print(f"{'='*80}\n")
         print(f"Files processed: {total_files}")
         print(f"Errors: {errors}\n")
-        print(f"Content Metrics:")
+        print(f"Content Metrics (all {total_files} files):")
         print(f"  Precision: {avg_precision:.3f}")
         print(f"  Recall:    {avg_recall:.3f}")
         print(f"  F1 Score:  {avg_f1:.3f}\n")
+        print(f"Content Metrics (good GT only, {good_gt_count} files):")
+        print(f"  Precision: {good_gt_precision:.3f}")
+        print(f"  Recall:    {good_gt_recall:.3f}")
+        print(f"  F1 Score:  {good_gt_f1:.3f}\n")
         print(f"Snippet Metrics:")
         print(f"  'With' snippets found:    {avg_with_snippets:.1%}")
         print(f"  'Without' snippets found: {avg_without_snippets:.1%} (lower is better)\n")
@@ -266,7 +328,7 @@ def main():
     parser.add_argument(
         '--extractor',
         choices=['trafilatura', 'readability', 'boilerpy3-article',
-                'boilerpy3-default', 'beautifulsoup'],
+                'boilerpy3-default', 'beautifulsoup', 'rs-trafilatura'],
         help="Test only specific extractor (default: all)"
     )
     parser.add_argument(

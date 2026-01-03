@@ -1,75 +1,29 @@
 {
-  "schema_version": "2.0",
   "url": "https://www.clio.com/blog/lawyer-review-sites/",
   "file_id": "0780",
-  "_internal": {
-    "page_type": {
-      "primary": "article",
-      "confidence": "high",
-      "needs_review": false,
-      "review_reason": null,
-      "tags": [
-        "business",
-        "law-practice",
-        "marketing",
-        "reputation-management"
-      ]
-    }
-  },
+  "downloaded_at": "2026-01-03T12:29:46.301413",
   "ground_truth": {
     "title": "The Best Lawyer Review Sites",
     "author": "Lauren Erdelyi",
-    "publish_date": "2024-01-31",
-    "main_content": "For law firms, having a strong presence on lawyer review sites is paramount, as clients highly prioritize positive reviews when choosing legal representation. These platforms are crucial for showcasing expertise, building trust, enhancing online visibility, strengthening your brand, and ultimately driving revenue. By proactively seeking feedback, delivering exceptional service, and leveraging specialized tools that streamline the review collection process, lawyers can significantly elevate their online presence and attract new clients in a competitive legal landscape.\n\nThe top lawyer review sites to be on include Avvo, which provides comprehensive information to help people make informed decisions when choosing a lawyer with more than eight million monthly visitors. Lawyers.com offers user-friendly search tools and covers 95% of all practicing attorneys in the US. LegalMatch matches users with pre-screened lawyers after answering a brief set of questions. Justia offers detailed profiles with both attorney-to-attorney reviews and client reviews. Google, while not strictly a lawyer review site, is often one of the first places clients go when searching for a lawyer.\n\nTo get more lawyer reviews, lawyers should deliver outstanding service from initial consultation to case resolution, ask clients in a timely manner for reviews, and address constructive feedback positively. Tools that help collect lawyer reviews include Kenect, which lets firms send review requests via text message leading to a potential increase of 35 times more reviews. Broadly automatically dispatches custom-branded text messages and emails to clients after a matter is closed. BirdEye enables lawyers to automate review requests and offers AI-assisted responses. NiceJob helps companies garner up to four times more customer reviews.",
+    "publish_date": "2025-08-07",
+    "main_content": "From selecting a restaurant to planning a trip, consumers often rely on the experiences of those around them to inform their decisions. The process of searching for a lawyer is no different. In today’s digital age, lawyer review sites play a vital role in offering insights and perspectives that significantly impact a client’s decision-making process.\n\nFor lawyers, this underscores the importance of having a strong presence on review sites. Beyond simply accumulating testimonials, attorney review sites have the potential to build trust with potential clients, establish credibility, and ultimately grow your practice. To help you tap into these possibilities, we’ve shined a spotlight on the best review sites for lawyers in this post.\n\nWhy lawyer reviews matter\n\nFirst and foremost, why should you care about lawyer reviews?\n\nThe reasons are many, but let’s start with some concrete data. According to Clio’s latest Legal Trends Report, clients prioritize hiring lawyers with, among other things, positive client reviews. In fact, over one-third of prospective clients rank positive reviews as a top three factor they’ll look to when deciding whether to hire a lawyer.\n\nPositive client reviews wield incredible power for law firms. Among their numerous benefits, lawyer review sites allow you to:\n\n- Showcase your expertise\n- Build trust with prospective clients\n- Enhance your online presence\n- Strengthen your brand\n- Drive revenue\n\nThe top lawyer review sites to be on\n\nNow that we’ve established the importance of review sites for law firms, the next question is: which platforms should you focus on? A quick online search will reveal a multitude of options. To save you time, we’ve compiled a list of the top lawyer review sites to elevate your online presence.\n\nAvvo\n\nFounded in Seattle, Avvo provides comprehensive information to help people make informed decisions when choosing a lawyer. With more than eight million monthly visitors to its directory, it stands out as one of the premier review sites for lawyers.\n\nAvvo boasts an extensive database covering nearly every licensed lawyer in the US, with an impressive 97% of lawyers rated on it. Lawyers can claim their profile on the platform free of charge. Along with client reviews, each profile includes an Avvo rating, which is based on a scale of 1 (Extreme Caution) to 10 (Superb). Attaining a perfect 10 is a major accomplishment, one that many lawyers proudly display on marketing channels like their websites.\n\nAvvo ratings are calculated based on information from lawyer profiles, state bar associations, and other organizations that license legal professionals. The following information will be considered when calculating it, so be sure to include as many details as you can on:\n\n- Work experience\n- Awards\n- Speaking engagements\n- Publications\n- Peer endorsements\n\nAvvo offers free basic profiles with Avvo Starter, while enhanced profiles with Avvo Base and Martindale-Avvo Complete Profile Plus come at an additional fee.\n\nLawyers.com\n\nLawyers.com stands out as another prominent player among lawyer review sites, with over 100,000 daily active users. This free service is offered by Martindale-Hubbell, a trusted publisher of lawyer and law firm directories since 1868. With its user-friendly search tool, visitors can effortlessly find attorneys based on their location and across more than 150 practice areas.\n\nOne of Lawyers.com’s standout features is its ability to provide instant access to reviews by former clients and legal professionals. Much like Avvo, the directory features 95% of all practicing attorneys in the US—equivalent to about one million lawyers. When potential clients are ready to contact a lawyer, they can easily do so directly through the site.\n\nLegalMatch\n\nEstablished in 1999, LegalMatch is a free, web-based exchange designed to assist individuals and small businesses in making informed decisions when selecting a lawyer. The platform has gained a substantial following, drawing around one million monthly visitors seeking a simple method for finding legal representation.\n\nAfter answering a brief set of questions, users are matched with pre-screened lawyers in their city who specialize in the relevant legal practice area. Lawyer profiles feature reviews from past clients, using a five-star rating system that evaluates factors like response time, legal knowledge, and price—as well as detailed commentary on their experiences. Once a lawyer receives an email about the potential case, they can respond to the ones they’re interested in.\n\nAttorneys can gain free access to the platform with a seven-day guest pass. Membership fees, which start at $455 per month, are based on location and legal specialization.\n\nJustia\n\nThe Justia Lawyer Directory is a free online resource offering detailed profiles of lawyers, law firms, and non-profit legal service and legal aid organizations across the US. With over 12 million visitors per month, it ranks among the top-visited legal websites in the US.\n\nEvery lawyer or organization can create a comprehensive, no-cost profile on the directory, showcasing their practice areas, experience, education, fees, full contact information, and more. They can also include links to online presences, such as blogs and social media profiles.\n\nJustia offers two types of reviews on its site. The Justia Lawyer Rating system provides an attorney-to-attorney review, using a scale of 1 to 10 to compare lawyers based on factors like legal knowledge and communication skills. In addition to this, the Justia Lawyer Directory offers a Client Reviews service that allows clients to share their insights into lawyers’ services and help others decide if a lawyer is the right fit for their needs.\n\nGoogle\n\nWhile not strictly a lawyer review site, Google is often one of the first places many clients go when searching for a lawyer. Law firms can receive Google reviews by creating a free Business Profile and encouraging clients to provide feedback on their experiences.\n\nTo create a Google Business Profile, you’ll need to include essential details about your businesses, including contact information and website. Check out our blog for more information on how to use Google Business to promote your law firm.\n\nHow to get more lawyer reviews\n\nEnhancing your online presence with positive attorney reviews is key to establishing trust and attracting new clients. To garner more glowing reviews on attorney review sites, consider the following tips:\n\n- Deliver outstanding service. From the initial consultation to the resolution of a case, prioritize a client-centered approach in your law firm. Ensuring a seamless and positive experience—for example, by simplifying the intake and payment process—increases the likelihood of clients sharing their satisfaction through reviews.\n- Ask clients in a timely manner. Be proactive in asking your satisfied clients for reviews. Most will be happy to provide feedback on their experience with your firm, especially if it’s a positive one. Make the process easy for them by providing clear instructions and accessible platforms for leaving reviews.\n- Address constructive feedback. Actively seek feedback from clients who have used your services. When they provide suggestions on areas for improvement, respond positively and strive for continuous improvement. Demonstrating responsiveness to feedback not only enhances your services but also reinforces your commitment to delivering the highest level of client satisfaction.\n\nTools to help collect lawyer reviews\n\nAlong with establishing profiles on the above lawyer review sites, several tools can streamline the process of collecting attorney reviews from clients. Here are four of them, which all seamlessly integrate with Clio.\n\nKenect\n\nKenect lets customers engage the way they want: by text. Law firms can send review requests to their clients via a simple link in a text message—leading to a potential increase of 35 times more reviews. Kenect also lets firms respond to client reviews in real time.\n\nBroadly\n\nBroadly helps lawyers get more reviews and build stronger customer relationships. With the Broadly integration, law firms using Clio can seamlessly collect reviews on sites like Google. After a matter is closed, it automatically dispatches custom-branded text messages and emails to clients, inviting them to review the business. It’s as simple as that.\n\nBirdeye\n\nIntegrated with Clio, BirdEye enables lawyers and law firms to automate the process of sending review requests to their clients. The outcome? A steady stream of reviews that boosts your search engine ranking and enhances visibility for potential clients. BirdEye also offers AI-assisted responses that can be generated with just one click.\n\nNiceJob\n\nNiceJob is a solution that helps companies garner up to four times more customer reviews. It seamlessly follows up with your clients for a review upon closing a matter. Those reviews can then be automatically incorporated into your website and social media accounts, offering social proof and attracting new clients with your stellar reputation. As a bonus, Clio users receive a 50% discount on their first three months.\n\nFinal thoughts on the best lawyer review sites\n\nIn today’s landscape, the opinions of others play a pivotal role in shaping the decisions of prospective clients—making lawyer reviews crucial for a firm’s success. As you set out to elevate your online presence, be sure to claim your profiles on lawyer review sites and leverage tools that streamline the cumbersome process of requesting reviews. By taking these steps, you’ll not only build credibility but also attract new clients, setting yourself apart in the highly competitive legal arena.\n\nWhat is the best lawyer review site?\n\nThe best lawyer review sites offer comprehensive profiles, client reviews, and peer endorsements to help individuals easily find reputable attorneys in their location and practice area. These include sites like Avvo, Lawyers.com, LegalMatch, and Justia.",
     "with": [
-      "For law firms, having a strong presence on lawyer review sites is paramount, as clients highly prioritize positive reviews when choosing legal representation.",
-      "Positive client reviews wield incredible power for law firms. Among their numerous benefits, lawyer review sites allow you to showcase your expertise, build trust with prospective clients, enhance your online presence, strengthen your brand, and drive revenue.",
-      "The best lawyer review sites offer comprehensive profiles, client reviews, and peer endorsements to help individuals easily find reputable attorneys in their location and practice area.",
-      "To garner more glowing reviews on attorney review sites, deliver outstanding service, ask clients in a timely manner, and address constructive feedback positively.",
-      "In today's landscape, the opinions of others play a pivotal role in shaping the decisions of prospective clients—making lawyer reviews crucial for a firm's success."
+      "According to Clio’s latest Legal Trends Report, clients prioritize hiring lawyers with, among other things, positive client reviews.",
+      "Avvo boasts an extensive database covering nearly every licensed lawyer in the US, with an impressive 97% of lawyers rated on it.",
+      "Lawyers.com stands out as another prominent player among lawyer review sites, with over 100,000 daily active users.",
+      "Enhancing your online presence with positive attorney reviews is key to establishing trust and attracting new clients.",
+      "In today’s landscape, the opinions of others play a pivotal role in shaping the decisions of prospective clients—making lawyer reviews crucial for a firm’s success."
     ],
     "without": [
-      "Try Clio for Free",
-      "Subscribe to the blog",
-      "© 2025 Clio. All rights reserved.",
-      "Products | Features | Resources & Events",
-      "Download as a PDF"
-    ],
-    "images": {
-      "total_in_content": 8,
-      "annotated_count": 4,
-      "items": [
-        {
-          "src": "https://www.clio.com/wp-content/uploads/2024/01/Blog_Blog-Best-Lawyer-Review-Sites-750x422.png",
-          "filename": "Blog_Blog-Best-Lawyer-Review-Sites-750x422.png",
-          "alt": "Building a strong online reputation for lawyers",
-          "caption": "Building a strong online reputation for lawyers",
-          "is_hero": true
-        },
-        {
-          "src": "https://www.clio.com/wp-content/uploads/2021/12/Icons_Most-5-Star-Reviews-e1706573474188-750x544.png",
-          "filename": "Icons_Most-5-Star-Reviews-e1706573474188-750x544.png",
-          "alt": "The importance of lawyer review sites",
-          "caption": "The importance of lawyer review sites",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.clio.com/wp-content/uploads/2023/09/Pendo_Clio-Grow_Grow-CS-Risk-Free-Marketing-4-1-750x416.png",
-          "filename": "Pendo_Clio-Grow_Grow-CS-Risk-Free-Marketing-4-1-750x416.png",
-          "alt": "Marketing your solo law firm",
-          "caption": "Marketing your solo law firm",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.clio.com/wp-content/uploads/2023/02/Legal-Software-Reviews-750x422.png",
-          "filename": "Legal-Software-Reviews-750x422.png",
-          "alt": "Lawyer online reputation",
-          "caption": "Lawyer online reputation",
-          "is_hero": false
-        }
-      ]
-    }
+      "Skip to content",
+      "Try For Free",
+      "Login",
+      "Have questions? Call +353-1-902-7571 or email [email protected].",
+      "© 2008 - 2025 Themis Solutions Inc. (Clio)"
+    ]
   },
-  "model": "MiniMax-M2.1",
-  "annotated_at": "2026-01-02T14:20:00.128046"
+  "model": "deepseek-chat",
+  "annotated_at": "2026-01-03T12:29:46.301420",
+  "reannotated": true,
+  "reannotation_reason": "incomplete_annotation"
 }

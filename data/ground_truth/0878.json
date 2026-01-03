@@ -1,74 +1,25 @@
 {
-  "schema_version": "2.0",
   "url": "https://equitashealth.com/our-services/dental-services/",
   "file_id": "0878",
-  "_internal": {
-    "page_type": {
-      "primary": "service",
-      "confidence": "high",
-      "needs_review": false,
-      "review_reason": null,
-      "tags": [
-        "healthcare",
-        "dental",
-        "medical"
-      ]
-    }
-  },
+  "downloaded_at": "2026-01-03T09:46:24.729231",
   "ground_truth": {
-    "title": "Quality Dental Care | Equitas Health Dentistry Services",
+    "title": "Dentistry",
     "author": null,
     "publish_date": null,
-    "main_content": "Let your smile show how good it feels to be healthy. At Equitas Health, your whole person healthcare can include quality, comfortable, and affordable dental care. New Hours: Now open MON - FRI, 9 AM - 6 PM! Dental care should make you smile. At Equitas Health, you get quality dentistry in a full-service health center with a trained and caring staff. Our team of dentists, dental assistants, and dental hygienists works with you to explore how best to meet the needs of you and your family. We offer Emergency Dental Care, Preventive Care including Cleanings, Exams & x-rays, Oral cancer screening, and Oral hygiene training, Restorative Care including Fillings (amalgam and composite), Crowns, and Extractions & root canals, as well as Removable services like Dentures, Partials, Tooth whitening, and Mouthguards/nightguards. We accept insurance and our dental clinics accept Medicaid and most major private insurance plans. If you do not have insurance, or your insurance does not make your dental care affordable, please apply for our sliding fee scale. You deserve a healthy mouth! Payment will be due at the time of service. For procedures, you will pay half (50%) of the total cost when you make your appointment. The rest of your payment will be due at the time of service. Without dental insurance, if you qualify for the Sliding Fee Discount program, you will get a 35% discount on the regular cost of dental procedures.",
+    "main_content": "Let your smile show how good it feels to be healthy. At Equitas Health, your whole person healthcare can include quality, comfortable, and affordable dental care.\n\nNew Hours: Now open\nMON - FRI, 9 AM - 6 PM!\n\nDental care should make you smile.\nAt Equitas Health, you get quality dentistry in a full-service health center with a trained and caring staff. Our team of dentists, dental assistants, and dental hygienists works with you to explore how best to meet the needs of you and your family.\n\nWe offer:\nEmergency Dental Care\nPreventive Care\nCleanings\nExams & x-rays\nOral cancer screening\nOral hygiene training\nRestorative Care\nFillings (amalgam and composite)\nCrowns\nExtractions & root canals\nRemovable\nDentures\nPartials\nTooth whitening\nMouthguards/nightguards\nWe accept insurance\nOur dental clinics accept Medicaid and most major private insurance plans. If you do not have insurance, or your insurance does not make your dental care affordable, please apply for our sliding fee scale. You deserve a healthy mouth!\nBilling for Office Visits\nPayment will be due at the time of service. Office visits include dental exams, cleanings, and x-rays.\nPatients with dental insurance: We will contact your insurance company to check your coverage. We will also find out how much you will pay for your visit.\nPatients without dental insurance: You may apply for a reduced price through the Sliding Fee Discount. We will ask you about your income and household size to determine your payment amount.\nBilling for Procedures\nYou will get an appointment for any needed procedures after your office visits. Procedures include, but are not limited to, bonding, bridges, crowns, dentures, extractions, fillings, fluoride, and root canals. For a full list of dental procedures and costs, see the Dental Fee Schedule.\nFor procedures, you will pay half (50%) of the total cost when you make your appointment. For example, if your procedure costs $100, you would pay $50 for that procedure. The rest of your payment will be due at the time of service.\nIf you are unable to pay the balance, you can:\nMake a new appointment for your procedure, or\nGet a refund for the money you paid up front.\nPatients with dental insurance: We will contact your insurance company to check your coverage. We will also find out how much you will pay for your procedure.\nPatients without dental insurance: If you qualify for the Sliding Fee Discount program, you will get a 35% discount on the regular cost of dental procedures listed in Equitas Health’s Dental Fee Schedule. We will honor any Sliding Fee Scale approvals that were granted prior to July 1, 2024.\n\nEquitas Health Dentistry\nProviders\nCarolyn Cousins Bates, DDS\nShe/Her\nDentist",
     "with": [
       "Let your smile show how good it feels to be healthy. At Equitas Health, your whole person healthcare can include quality, comfortable, and affordable dental care.",
-      "At Equitas Health, you get quality dentistry in a full-service health center with a trained and caring staff.",
-      "Our team of dentists, dental assistants, and dental hygienists works with you to explore how best to meet the needs of you and your family.",
-      "Our dental clinics accept Medicaid and most major private insurance plans.",
-      "If you qualify for the Sliding Fee Discount program, you will get a 35% discount on the regular cost of dental procedures."
+      "Our dental clinics accept Medicaid and most major private insurance plans. If you do not have insurance, or your insurance does not make your dental care affordable, please apply for our sliding fee scale.",
+      "For procedures, you will pay half (50%) of the total cost when you make your appointment. For example, if your procedure costs $100, you would pay $50 for that procedure."
     ],
     "without": [
-      "Navigation menu links and items",
-      "Social media icons and buttons",
-      "Cookie notice and privacy policy links",
-      "Footer donation prompts and copyright notices",
-      "Breadcrumb navigation trail"
-    ],
-    "images": {
-      "total_in_content": 9,
-      "annotated_count": 4,
-      "items": [
-        {
-          "src": "https://equitashealth-main.b-cdn.net/wp-content/uploads/2022/09/dental.jpg",
-          "filename": "dental.jpg",
-          "alt": "a family practices dental care, teaching their child practical dentistry techniques",
-          "caption": "a family practices dental care, teaching their child practical dentistry techniques",
-          "is_hero": true
-        },
-        {
-          "src": "https://equitashealth-main.b-cdn.net/wp-content/uploads/2021/08/LargeImagePanelCallouts_Vaccination_v2.jpg",
-          "filename": "LargeImagePanelCallouts_Vaccination_v2.jpg",
-          "alt": null,
-          "caption": "Keep Up On Vaccinations - Vaccines can help you stay healthy",
-          "is_hero": false
-        },
-        {
-          "src": "https://equitashealth-main.b-cdn.net/wp-content/uploads/2021/08/LargeImagePanelCallouts_SurvivorSupport_v2.jpg",
-          "filename": "LargeImagePanelCallouts_SurvivorSupport_v2.jpg",
-          "alt": null,
-          "caption": "Are You Safe? - If you or someone you know has been the victim of violence or threats, we can help make sure you are safe",
-          "is_hero": false
-        },
-        {
-          "src": "https://equitashealth-main.b-cdn.net/wp-content/uploads/2022/08/dr_carolyn_bates.jpg",
-          "filename": "dr_carolyn_bates.jpg",
-          "alt": null,
-          "caption": "Carolyn Cousins Bates, DDS - Dentist",
-          "is_hero": false
-        }
-      ]
-    }
+      "Make a donation",
+      "1105 Schrock Rd., Suite 400 Columbus, OH 43229",
+      "We use cookies to make our website better for you."
+    ]
   },
-  "model": "MiniMax-M2.1",
-  "annotated_at": "2026-01-02T14:52:58.982675"
+  "model": "deepseek-chat",
+  "annotated_at": "2026-01-03T09:46:24.729238",
+  "reannotated": true,
+  "reannotation_reason": "incomplete_annotation"
 }

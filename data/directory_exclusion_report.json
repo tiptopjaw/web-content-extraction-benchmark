@@ -1,0 +1,602 @@
+{
+  "created_at": "2026-01-03T09:07:06.315429",
+  "description": "Directory/list pages and unsuitable test cases identified from benchmark analysis",
+  "total_excluded": 59,
+  "excluded_files": [
+    {
+      "file_id": "0322",
+      "url": "https://wanderlog.com/list/geoCategory/75069/where-to-eat-best-restaurants-in-oklahoma-city",
+      "f1": 0.038,
+      "length_ratio": 165.7,
+      "detected_patterns": [
+        "/list/",
+        "best-*"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "1625",
+      "url": "https://agencies.semrush.com/list/smm/california/",
+      "f1": 0.045,
+      "length_ratio": 38.0,
+      "detected_patterns": [
+        "/list/"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "0843",
+      "url": "https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents",
+      "f1": 0.047,
+      "length_ratio": 95.5,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "0287",
+      "url": "https://www.fitnessmentors.com/best-personal-trainer-certification/",
+      "f1": 0.055,
+      "length_ratio": 80.7,
+      "detected_patterns": [
+        "best-*"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "1012",
+      "url": "https://www.joinsecret.com/categories/data-software/data-analytics",
+      "f1": 0.057,
+      "length_ratio": 54.4,
+      "detected_patterns": [
+        "/categories/"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "2197",
+      "url": "https://hbr.org/1982/09/consulting-is-more-than-giving-advice",
+      "f1": 0.058,
+      "length_ratio": 85.9,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "2192",
+      "url": "https://www.acquire.fi/marketplace",
+      "f1": 0.061,
+      "length_ratio": 30.7,
+      "detected_patterns": [
+        "/marketplace"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "0955",
+      "url": "https://contentsquare.com/guides/web-design/examples/",
+      "f1": 0.063,
+      "length_ratio": 36.2,
+      "detected_patterns": [
+        "/examples",
+        "guides-index"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "0826",
+      "url": "https://www.health.harvard.edu/newsletter_article/supplements-a-scorecard",
+      "f1": 0.064,
+      "length_ratio": 25.4,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "1699",
+      "url": "https://www.gse.harvard.edu/ideas/edcast/25/11/how-high-impact-tutoring-reshaping-post-pandemic-learning-recovery",
+      "f1": 0.069,
+      "length_ratio": 56.5,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "2505",
+      "url": "https://daily.bandcamp.com/best-of-2025/the-best-electronic-music-of-2025",
+      "f1": 0.071,
+      "length_ratio": 17.8,
+      "detected_patterns": [
+        "best-*"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "0855",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047752",
+      "f1": 0.072,
+      "length_ratio": 20.5,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "1179",
+      "url": "https://www.siteminder.com/r/hotel-brands/",
+      "f1": 0.074,
+      "length_ratio": 49.5,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "1936",
+      "url": "https://www.elisamartineztherapy.com/therapist-thoughts-on-anxiety-depression-trauma-stress/how-much-does-therapy-cost-in-california",
+      "f1": 0.076,
+      "length_ratio": 36.1,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "0995",
+      "url": "https://www.homeaglow.com/us/ca/el-cajon/house-cleaning/",
+      "f1": 0.076,
+      "length_ratio": 54.6,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "0951",
+      "url": "https://www.bluecompass.com/blog/web-design-trends-to-watch-for",
+      "f1": 0.077,
+      "length_ratio": 38.7,
+      "detected_patterns": [
+        "blog-index"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "1320",
+      "url": "https://www.watchfinder.com/all-watches",
+      "f1": 0.08,
+      "length_ratio": 11.8,
+      "detected_patterns": [
+        "/all-*"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "0827",
+      "url": "https://fortune.com/article/best-multivitamins/",
+      "f1": 0.081,
+      "length_ratio": 38.2,
+      "detected_patterns": [
+        "best-*"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "0213",
+      "url": "https://en.wikipedia.org/wiki/Interior_design",
+      "f1": 0.081,
+      "length_ratio": 30.5,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "2761",
+      "url": "https://academics.utdallas.edu/degrees",
+      "f1": 0.081,
+      "length_ratio": 94.8,
+      "detected_patterns": [
+        "/degrees"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "1521",
+      "url": "https://visionlabs.com/blog/top-web-analytics-agencies/",
+      "f1": 0.083,
+      "length_ratio": 40.5,
+      "detected_patterns": [
+        "top-*",
+        "blog-index"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "0264",
+      "url": "https://www.scoro.com/blog/best-project-management-software-list/",
+      "f1": 0.083,
+      "length_ratio": 45.6,
+      "detected_patterns": [
+        "best-*",
+        "blog-index"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "0326",
+      "url": "https://www.sentinelone.com/cybersecurity-101/cybersecurity/cyber-security-best-practices/",
+      "f1": 0.084,
+      "length_ratio": 27.3,
+      "detected_patterns": [
+        "best-*"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "0602",
+      "url": "https://www.thinkwithgoogle.com/intl/en-emea/consumer-insights/consumer-trends/digital-marketing-trends-2026/",
+      "f1": 0.084,
+      "length_ratio": 13.0,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "1398",
+      "url": "https://www.crowdreviews.com/best-social-media-marketing-services",
+      "f1": 0.086,
+      "length_ratio": 245.2,
+      "detected_patterns": [
+        "best-*"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "0688",
+      "url": "https://www.akkio.com/beginners-guide-to-machine-learning",
+      "f1": 0.086,
+      "length_ratio": 57.6,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "2728",
+      "url": "https://www.volts.wtf/p/the-cure-for-misinformation-is-not",
+      "f1": 0.087,
+      "length_ratio": 55.9,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "0271",
+      "url": "https://www.designrush.com/agency/website-design-development/new-york/new-york-city",
+      "f1": 0.088,
+      "length_ratio": 57.4,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "2511",
+      "url": "https://abseil.io/fast/hints",
+      "f1": 0.088,
+      "length_ratio": 50.6,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "1992",
+      "url": "https://www.eleken.co/blog-posts/popular-web-design-companies",
+      "f1": 0.089,
+      "length_ratio": 52.0,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "1549",
+      "url": "https://www.ziflow.com/blog/video-production-workflow",
+      "f1": 0.09,
+      "length_ratio": 19.0,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "1165",
+      "url": "https://techreviewer.co/top-software-development-companies-in-usa",
+      "f1": 0.093,
+      "length_ratio": 32.5,
+      "detected_patterns": [
+        "top-*"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "2809",
+      "url": "https://nhsjs.com/2025/automated-security-framework-for-vs-code-extensions-risk-profiling-policy-generation-and-runtime-sandboxing",
+      "f1": 0.094,
+      "length_ratio": 48.0,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "0323",
+      "url": "https://www.cozymeal.com/magazine/oklahoma-city-restaurants",
+      "f1": 0.094,
+      "length_ratio": 28.1,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "1917",
+      "url": "https://www.nature.com/articles/s41580-021-00407-0",
+      "f1": 0.097,
+      "length_ratio": 32.9,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "0424",
+      "url": "https://www.consumeraffairs.com/movers/new-york/",
+      "f1": 0.099,
+      "length_ratio": 37.1,
+      "detected_patterns": [
+        "other-directory"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "0703",
+      "url": "https://rankings.ft.com/rankings/2997/mba-2025",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "manual_review"
+      ],
+      "reason": "paywall_content"
+    },
+    {
+      "file_id": "1003",
+      "url": "https://www.epicgames.com/site/en-US/home",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "manual_review"
+      ],
+      "reason": "homepage_not_article"
+    },
+    {
+      "file_id": "2195",
+      "url": "https://greenstocknews.com/stocks/blockchain-stocks",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "manual_review"
+      ],
+      "reason": "stock_listing_page"
+    },
+    {
+      "file_id": "1252",
+      "url": "https://chainspect.app/dashboard",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "manual_review"
+      ],
+      "reason": "dashboard_app_page"
+    },
+    {
+      "file_id": "0921",
+      "url": "https://www.gardenia.net/compare-plants/viburnums",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "manual_review"
+      ],
+      "reason": "comparison_tool"
+    },
+    {
+      "file_id": "1838",
+      "url": "https://www.sfmta.com/getting-around/muni/muni-alerts",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "manual_review"
+      ],
+      "reason": "alert_feed"
+    },
+    {
+      "file_id": "1459",
+      "url": "https://www.ijcsa.org/page-852782",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "manual_review"
+      ],
+      "reason": "academic_abstract_page"
+    },
+    {
+      "file_id": "0937",
+      "url": "https://www.consulting.us/news",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "manual_review"
+      ],
+      "reason": "news_index_page"
+    },
+    {
+      "file_id": "2092",
+      "url": "https://services.ksl.com/ut/salt-lake-city/electricians",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "manual_review"
+      ],
+      "reason": "service_directory"
+    },
+    {
+      "file_id": "1205",
+      "url": "https://wgpevents.com/blog/f/why-hr-is-not-your-event-planner-stop-making-them-plan-your-lame",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "manual_review"
+      ],
+      "reason": "bad_annotation_no_content"
+    },
+    {
+      "file_id": "0764",
+      "url": "https://wwd.com/footwear-news/",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "manual_review"
+      ],
+      "reason": "news_category_page"
+    },
+    {
+      "file_id": "1233",
+      "url": "https://visitfairfield.com/restaurants/",
+      "f1": 0.143,
+      "length_ratio": 59.7,
+      "detected_patterns": [
+        "/restaurants/"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "1496",
+      "url": "https://www.uber.com/us/en/drive/insurance/",
+      "f1": 0.108,
+      "length_ratio": 39.7,
+      "detected_patterns": [
+        "service_page"
+      ],
+      "reason": "directory_list_page"
+    },
+    {
+      "file_id": "1078",
+      "url": "https://notebooktalk.net/topic/2600-looking-for-high-end-laptop/",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "js_rendered"
+      ],
+      "reason": "js_rendered_page"
+    },
+    {
+      "file_id": "1919",
+      "url": "https://ieeexplore.ieee.org/document/8697857",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "js_rendered"
+      ],
+      "reason": "js_rendered_page"
+    },
+    {
+      "file_id": "0625",
+      "url": "https://www.musictheory.net/lessons",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "low_extraction"
+      ],
+      "reason": "paywall_or_js_content"
+    },
+    {
+      "file_id": "0682",
+      "url": "https://www.imarkinfotech.com/social-media-vs-seo-for-restaurants-which-one-brings-in-more-customers/",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "low_extraction"
+      ],
+      "reason": "paywall_or_js_content"
+    },
+    {
+      "file_id": "0853",
+      "url": "https://lifelonglearning.rutgers.edu/online-certificate-programs",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "low_extraction"
+      ],
+      "reason": "paywall_or_js_content"
+    },
+    {
+      "file_id": "1575",
+      "url": "https://www.remax.com/homes-for-sale/nv/sparks/city/3268400",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "low_extraction"
+      ],
+      "reason": "paywall_or_js_content"
+    },
+    {
+      "file_id": "2048",
+      "url": "https://viewpoint.pwc.com/us/en/newsletter0.html",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "low_extraction"
+      ],
+      "reason": "paywall_or_js_content"
+    },
+    {
+      "file_id": "2132",
+      "url": "https://go511.com/TrafficTransit/Cameras",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "low_extraction"
+      ],
+      "reason": "paywall_or_js_content"
+    },
+    {
+      "file_id": "2600",
+      "url": "https://www.vmray.com/best-zero-day-detection-tools-for-enterprises-soc-2026-guide",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "low_extraction"
+      ],
+      "reason": "paywall_or_js_content"
+    },
+    {
+      "file_id": "2741",
+      "url": "https://www.pandct.com/products-suppliers/195",
+      "f1": null,
+      "length_ratio": null,
+      "detected_patterns": [
+        "low_extraction"
+      ],
+      "reason": "paywall_or_js_content"
+    }
+  ],
+  "updated_at": "2026-01-03T15:01:20.558901"
+}

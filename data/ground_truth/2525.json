@@ -1,76 +1,28 @@
 {
-  "schema_version": "2.0",
   "url": "https://www.howtogeek.com/homelab-projects-to-try-this-weekend-december-19-21",
   "file_id": "2525",
-  "_internal": {
-    "page_type": {
-      "primary": "article",
-      "confidence": "high",
-      "needs_review": false,
-      "review_reason": null,
-      "tags": [
-        "homelab",
-        "technology",
-        "guide",
-        "diy",
-        "self-hosted"
-      ]
-    }
-  },
+  "downloaded_at": "2026-01-03T12:17:42.388688",
   "ground_truth": {
     "title": "Homelab projects to try this weekend (December 19 - 21)",
     "author": "Patrick Campanale",
     "publish_date": "2025-12-19",
-    "main_content": "Are you ready to spin up some core services that every homelab should have? The three projects I'm showcasing this weekend all focus on core services in my own homelab, so here's why you should run them too. Home Assistant is a fully self-hosted local control platform that allows you to send commands to devices locally on your network instead of sending commands through remote servers. Paperless-ngx is a simple Docker container that handles organizing and indexing your scanned documents, with OCR technology making uploaded documents searchable. BookStack is a wiki designed to be 100% self-hosted, perfect for documenting your homelab setup so you don't have to redo research when deploying services again.",
+    "main_content": "Are you ready to spin up some core services that every homelab should have? The three projects I’m showcasing this weekend all focus on core services in my own homelab, so here’s why you should run them too.\n\nTake your smart home to the next level with Home Assistant\nLocal control, anyone?\nIf you’ve not heard of Home Assistant yet (or maybe just haven’t taken the time to set it up), this weekend is the perfect time to dive in.\nHome Assistant allows you to do quite a few things within your smart home. For starters, it’s a fully self-hosted local control platform. With Home Assistant, you’re able to send commands to devices locally on your network instead of sending the commands through remote servers. This means when Cloudflare or AWS goes down, your smart home stays up and functional.\nAnother huge benefit to Home Assistant is how it brings so many different ecosystems together. I use Home Assistant to bring non-HomeKit devices into the Apple Home app, giving me Siri control and the ability to use Shortcuts to automate devices around my house.\nHome Assistant is one of those services that takes just a few minutes to get up and going in your homelab, but takes forever to master. I’ve been running Home Assistant for several years, but still only use a fraction of the features that it offers.\nSo, if you haven’t spun up a Home Assistant VM (or Docker container) yet, then make that your task for the weekend.\n\nOrganize that stack of papers in your drawer with paperless-ngx\nWho needs papers when digital organization is so easy?\nYears ago, I used to pay for Neat to organize my scanned documents and make them searchable. These days, I just self-host paperless-ngx. This simple Docker container is all you need to lead a minimal, organized digital life.\nEssentially, once paperless-ngx is up and running, you just scan documents to your computer and then upload them to the paperless server—it handles everything else from there. With paperless, you’ll be able to organize and index your scanned documents. OCR (optical character recognition) tech is employed here to make uploaded documents searchable, too. Paperless even uses machine learning to automatically add tags and more to your uploaded documents, making it easier to skim or filter down to exactly what you’re looking for.\nOne of my favorite features is email processing, meaning you can send a document to an email address that the paperless server monitors, and it processes the image from there. Once processed, it can be deleted, marked as read, or do whatever else you want with the email. This makes sending a document when you’re on the road simple, without having to set up reverse proxies or own a domain.\nGet yourself ready for 2026 by spinning up paperless-ngx this weekend so you can finally start going through that drawer of papers you keep saying you’ll clean out.\n\nDocument your homelab setup with BookStack\nYou don’t think you need homelab documentation until you do.\nI’ve seen a lot of people talk about documenting their homelab, and I always thought, “Why?” It just seemed like something that I had no need for. I was wrong.\nRecently, I was working on a pretty in-depth project in my homelab that required Tailscale integration alongside quite a few custom configuration changes on multiple computers to work properly. Needless to say, I spent about six hours working to get everything functional, and I knew that I wouldn’t want to have to do all the research a second time.\nThat’s when I finally broke down and deployed a BookStack instance on my server. While you can use software like Obsidian to make a wiki, I wanted something that was a little more tailor-made and also web-based.\nWithin a few minutes, I was able to get the core documentation written for the service that I had just spent hours working on, and now if I need to deploy it again in the future, I have my own tutorial to follow.\nBookStack is basically a wiki for your homelab. It’s designed to be 100% self-hosted, and you can even open it up with a reverse proxy to the web if you want others to be able to access your wiki too. I have mine reverse proxied, just in case I want to write any public documentation that I don’t want on GitHub for any reason.\nDon’t be like me and wait until you need documentation to try and figure out how you’re going to write it. Just deploy the BookStack server this weekend and start documenting the little things, then, when big things come along, it’ll be there and ready for you.\n\nIf you’re just starting out with homelabbing, don’t worry, it won’t be long until it becomes the most useful part of your smart home. I use my homelab every single day for various purposes, and the list grows by the hour sometimes.\nJust a few months ago, I was sitting at about 20 Docker containers running on my main server. Now, I’m up to 50, and I don’t see it slowing down anytime soon. So, here’s to your homelab and all the projects you’ll create in it over the years.",
     "with": [
       "Are you ready to spin up some core services that every homelab should have?",
-      "Home Assistant allows you to do quite a few things within your smart home, including sending commands to devices locally on your network instead of through remote servers.",
-      "With paperless-ngx, you just scan documents to your computer and then upload them to the paperless server—it handles everything else from there.",
-      "BookStack is basically a wiki for your homelab, designed to be 100% self-hosted.",
-      "Just a few months ago, I was sitting at about 20 Docker containers running on my main server. Now, I'm up to 50, and I don't see it slowing down anytime soon."
+      "Home Assistant is one of those services that takes just a few minutes to get up and going in your homelab, but takes forever to master.",
+      "One of my favorite features is email processing, meaning you can send a document to an email address that the paperless server monitors, and it processes the image from there.",
+      "Don’t be like me and wait until you need documentation to try and figure out how you’re going to write it."
     ],
     "without": [
-      "Sign in to your How-To Geek account",
-      "Copyright 2025 www.howtogeek.com",
-      "Privacy Policy",
-      "Newsletter signup",
-      "Share on Facebook"
-    ],
-    "images": {
-      "total_in_content": 27,
-      "annotated_count": 4,
-      "items": [
-        {
-          "src": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2025/05/lenovo-thinkcenter-neo-50q-qc-mini-pc-on-the-lenovo-ideacenter-mini-pc-at-ces-2025.jpg?&fit=crop&w=1600&h=900",
-          "filename": "lenovo-thinkcenter-neo-50q-qc-mini-pc-on-the-lenovo-ideacenter-mini-pc-at-ces-2025.jpg",
-          "alt": "Lenovo ThinkCenter Neo 50q QC Mini PC on the Lenovo IdeaCenter Mini PC at CES 2025.",
-          "caption": "Credit: Hannah Stryker / How-To Geek",
-          "is_hero": true
-        },
-        {
-          "src": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/08/home-assistant-logo-2.jpg?q=49&fit=crop&w=825&dpr=2",
-          "filename": "home-assistant-logo-2.jpg",
-          "alt": "The Home Assistant logo on a background of a Home Assistant dashboard.",
-          "caption": "Credit: Corbin Davenport / How-To Geek / Home Assistant",
-          "is_hero": false
-        },
-        {
-          "src": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/04/paperless-ngx.png?q=49&fit=crop&w=825&dpr=2",
-          "filename": "paperless-ngx.png",
-          "alt": "The Paperless-ngx document organization software interface showing scanned documents.",
-          "caption": "Credit: Paperless-ngx",
-          "is_hero": false
-        },
-        {
-          "src": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/12/screenshot-2025-12-17-at-4-19-53-pm.png?q=49&fit=crop&w=825&dpr=2",
-          "filename": "screenshot-2025-12-17-at-4-19-53-pm.png",
-          "alt": "The BookStack wiki interface.",
-          "caption": "Credit: BookStack",
-          "is_hero": false
-        }
-      ]
-    }
+      "Menu",
+      "Sign in now",
+      "Readers like you help support How-To Geek.",
+      "Copyright © 2025 www.howtogeek.com",
+      "Stop obsessing over clean code, it's holding you back"
+    ]
   },
-  "model": "MiniMax-M2.1",
-  "annotated_at": "2026-01-02T14:39:22.591130"
+  "model": "deepseek-chat",
+  "annotated_at": "2026-01-03T12:17:42.388693",
+  "reannotated": true,
+  "reannotation_reason": "incomplete_annotation"
 }
