@@ -40,3 +40,15 @@ logs/
 # OS
 .DS_Store
 Thumbs.db
+
+# Local AI tool configs
+.claude/
+.gemini/
+.windsurf/
+.mcp.json
+_bmad/
+_bmad-output/
+
+# Backup directories
+data/ground_truth_backup/
+benchmark-results/rust-old/

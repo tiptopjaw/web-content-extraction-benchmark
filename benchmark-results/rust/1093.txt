@@ -1,0 +1,1 @@
+{"title":"Cosmily - Product Comparison","author":null,"date":null,"main_content":"Product Comparison\n\nHow it works\n\n1\n\nFind the product you want to compare using the Product Finder\n\n2\n\nClick the Compare button on the product page\n\n3\n\nDo the same for the second product and see the results"}

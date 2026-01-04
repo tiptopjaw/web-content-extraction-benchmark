@@ -1,0 +1,1 @@
+<p><strong>Note:</strong> Since your browser does not support JavaScript, you must press the Continue button once to proceed.</p> <div><input type="submit" value="Continue"/></div>

@@ -1,0 +1,2399 @@
+{
+  "timestamp": "2026-01-03T12:32:33.091291",
+  "total_processed": 377,
+  "successful": 235,
+  "failed": 35,
+  "total_tokens": 7680309,
+  "results": [
+    {
+      "file_id": "1926",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0349",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2823",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2269",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2580",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2580.json",
+      "content_length": 340,
+      "tokens_used": 6000
+    },
+    {
+      "file_id": "0439",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0439.json",
+      "content_length": 9000,
+      "tokens_used": 16896
+    },
+    {
+      "file_id": "1835",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1835.json",
+      "content_length": 9851,
+      "tokens_used": 19512
+    },
+    {
+      "file_id": "1154",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1154.json",
+      "content_length": 9866,
+      "tokens_used": 38474
+    },
+    {
+      "file_id": "2542",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2542.json",
+      "content_length": 11205,
+      "tokens_used": 35948
+    },
+    {
+      "file_id": "1278",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1278.json",
+      "content_length": 14604,
+      "tokens_used": 14911
+    },
+    {
+      "file_id": "1611",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1611.json",
+      "content_length": 11824,
+      "tokens_used": 14989
+    },
+    {
+      "file_id": "1508",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0407",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0407.json",
+      "content_length": 16014,
+      "tokens_used": 29666
+    },
+    {
+      "file_id": "1039",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1039.json",
+      "content_length": 16014,
+      "tokens_used": 42693
+    },
+    {
+      "file_id": "2730",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2730.json",
+      "content_length": 15012,
+      "tokens_used": 20582
+    },
+    {
+      "file_id": "2226",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2226.json",
+      "content_length": 17080,
+      "tokens_used": 30976
+    },
+    {
+      "file_id": "2387",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2387.json",
+      "content_length": 7662,
+      "tokens_used": 20150
+    },
+    {
+      "file_id": "0182",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0182.json",
+      "content_length": 19786,
+      "tokens_used": 39059
+    },
+    {
+      "file_id": "1444",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1444.json",
+      "content_length": 24692,
+      "tokens_used": 37446
+    },
+    {
+      "file_id": "0667",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0667.json",
+      "content_length": 21361,
+      "tokens_used": 42431
+    },
+    {
+      "file_id": "0226",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0226.json",
+      "content_length": 12379,
+      "tokens_used": 23684
+    },
+    {
+      "file_id": "0266",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0266.json",
+      "content_length": 23546,
+      "tokens_used": 41790
+    },
+    {
+      "file_id": "0397",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0397.json",
+      "content_length": 12212,
+      "tokens_used": 22526
+    },
+    {
+      "file_id": "2434",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2434.json",
+      "content_length": 27348,
+      "tokens_used": 18055
+    },
+    {
+      "file_id": "0381",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0381.json",
+      "content_length": 20464,
+      "tokens_used": 43847
+    },
+    {
+      "file_id": "2820",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2820.json",
+      "content_length": 22000,
+      "tokens_used": 35322
+    },
+    {
+      "file_id": "1628",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1628.json",
+      "content_length": 35555,
+      "tokens_used": 40011
+    },
+    {
+      "file_id": "1190",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1190.json",
+      "content_length": 8778,
+      "tokens_used": 39222
+    },
+    {
+      "file_id": "1950",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 9 column 5 (char 41677)",
+      "response": "{\n  \"title\": \"Top 15 AWS Machine Learning Tools in the Cloud Market for 2025\",\n  \"author\": null,\n  \"publish_date\": \"2022-04-08\",\n  \"main_content\": \"Amazon Web Service (AWS) is the most significant cloud infrastructure with 175 featured services, managing everything from machine learning and the Internet of Things (IoT) to data analytics. AWS AI services, alongside their counterparts, command a position as one of the front runners in machine learning services concepts.\\n\\nOver the last two years,"
+    },
+    {
+      "file_id": "0463",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0463.json",
+      "content_length": 16430,
+      "tokens_used": 28567
+    },
+    {
+      "file_id": "2603",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 134)",
+      "response": "{\n  \"title\": \"how I think when I think about programming\",\n  \"author\": \"alice maz\",\n  \"publish_date\": \"2022-02-19\",\n  \"main_content\": \"this is a post I've wanted to write for some time.\\nin it, I attempt to explain, on a very basic level, how I think about programming.\\nmy hope is to give newer programmers some background knowledge and bigger-picture context.\\nto help give form and structure to what is often presented as just a bunch of shit to remember\\n\\nI don't attempt to teach programming pe"
+    },
+    {
+      "file_id": "2498",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 106)",
+      "response": "{\n  \"title\": \"30 Years of <br> Tags\",\n  \"author\": null,\n  \"publish_date\": \"2025-12-13\",\n  \"main_content\": \"I'm incredibly optimistic about the state of web development in 2025. It feels like you can build anything, and it's never been this easy or this cheap. AI is the thing everyone talks about, and it's been a great unlock \u2014 letting you build things you didn't know how to do before and simply build more than ever.\\n\\nBut I don't think that's the complete picture. We also have so many more tool"
+    },
+    {
+      "file_id": "1218",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 159)",
+      "response": "{\n  \"title\": \"Top 27 Software Development Tools & Platforms [2025 List]\",\n  \"author\": \"Mariusz Michalowski\",\n  \"publish_date\": \"2025-12-06\",\n  \"main_content\": \"Building software today involves much more than just writing code. Developers rely on a range of specialized tools to manage complex workflows, collaborate seamlessly, and maintain high code quality and performance standards. From tools that handle real-time collaboration to those that automate testing, deployment, and monitoring, the rig"
+    },
+    {
+      "file_id": "1294",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1294.json",
+      "content_length": 10082,
+      "tokens_used": 33277
+    },
+    {
+      "file_id": "1316",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1316.json",
+      "content_length": 29700,
+      "tokens_used": 41218
+    },
+    {
+      "file_id": "0590",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0590.json",
+      "content_length": 15526,
+      "tokens_used": 28715
+    },
+    {
+      "file_id": "0495",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0495.json",
+      "content_length": 15232,
+      "tokens_used": 44829
+    },
+    {
+      "file_id": "1653",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1653.json",
+      "content_length": 7402,
+      "tokens_used": 28752
+    },
+    {
+      "file_id": "2319",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2319.json",
+      "content_length": 30967,
+      "tokens_used": 44416
+    },
+    {
+      "file_id": "2137",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2137.json",
+      "content_length": 22058,
+      "tokens_used": 42002
+    },
+    {
+      "file_id": "2349",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2349.json",
+      "content_length": 7195,
+      "tokens_used": 15927
+    },
+    {
+      "file_id": "0378",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0378.json",
+      "content_length": 11506,
+      "tokens_used": 39694
+    },
+    {
+      "file_id": "1538",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1538.json",
+      "content_length": 11946,
+      "tokens_used": 18203
+    },
+    {
+      "file_id": "1606",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1606.json",
+      "content_length": 15896,
+      "tokens_used": 28153
+    },
+    {
+      "file_id": "2382",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 102)",
+      "response": "{\n  \"title\": \"How to make a game engine\",\n  \"author\": null,\n  \"publish_date\": null,\n  \"main_content\": \"We are going to write a game engine in javascript without AI and by AI I mean an LLM. That's right kiddos, this is going old school if old school meant doing things the way they were done in the long long ago, in the before time of five years from now. A time when the world was pure. A time when the slop was free range and manmade.\\n\\nIf you are looking for some quick aura farming snack for the"
+    },
+    {
+      "file_id": "2578",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 125)",
+      "response": "{\n  \"title\": \"Go ahead, self-host Postgres\",\n  \"author\": \"Pierce Freeman\",\n  \"publish_date\": \"2025-07-02\",\n  \"main_content\": \"Self-hosting a database sounds terrifying. That narrative has certainly been pushed over the last 10 years by the big cloud providers:\\n\\n* Hosting your own database is dangerous\\n* How are you going to get all the 9s of reliability doing it yourself?\\n* You'll have access to dedicated database engineers that you couldn't (or wouldn't want to) hire yourself\\n\\nThe rumors "
+    },
+    {
+      "file_id": "1966",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1966.json",
+      "content_length": 21830,
+      "tokens_used": 38353
+    },
+    {
+      "file_id": "1545",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1545.json",
+      "content_length": 19699,
+      "tokens_used": 45611
+    },
+    {
+      "file_id": "2510",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 95)",
+      "response": "{\n  \"title\": \"sqlitez\",\n  \"author\": \"Swindlers-Inc\",\n  \"publish_date\": null,\n  \"main_content\": \"sqlitez\\n\\nA lightweight SQLite wrapper and schema manager.\\n\\nWhile one should not encounter any difficulty, when calling the C interface of SQLite from Zig, it may become somewhat tedious: Firstly, all return values need to be checked for error codes; And secondly, one would continuously need to coerce between C- and Zig language types.\\n\\nThe `sqlitez` package provides a wrapper for common sqlite f"
+    },
+    {
+      "file_id": "0664",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0664.json",
+      "content_length": 8280,
+      "tokens_used": 28307
+    },
+    {
+      "file_id": "0715",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0715.json",
+      "content_length": 3482,
+      "tokens_used": 35202
+    },
+    {
+      "file_id": "0854",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0854.json",
+      "content_length": 6085,
+      "tokens_used": 18884
+    },
+    {
+      "file_id": "1541",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 152)",
+      "response": "{\n  \"title\": \"100 Best Book Publishing Companies in the USA (2025 Top Edition)\",\n  \"author\": \"James\",\n  \"publish_date\": \"2025-07-21\",\n  \"main_content\": \"The United States stands as a global leader in the publishing industry, offering a wide spectrum of options for writers looking to bring their stories to life. Whether you\u2019re aiming to publish a novel, memoir, self-help guide, children\u2019s book, or niche nonfiction, choosing the right publisher can greatly influence your success as an author. In t"
+    },
+    {
+      "file_id": "0399",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0399.json",
+      "content_length": 9666,
+      "tokens_used": 46031
+    },
+    {
+      "file_id": "2643",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 197)",
+      "response": "{\n  \"title\": \"LongNosedGoblin tries to sniff out governmental affairs in Southeast Asia and Japan\",\n  \"author\": \"Anton Cherepanov, Peter Str\u00fd\u010dek\",\n  \"publish_date\": \"2025-12-18\",\n  \"main_content\": \"In 2024, ESET researchers noticed previously undocumented malware in the network of a Southeast Asian governmental entity. This led us to uncover even more new malware on the same system, none of which had substantial ties to any previously tracked threat actors. Based on our findings, we decided to a"
+    },
+    {
+      "file_id": "1380",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1380.json",
+      "content_length": 11040,
+      "tokens_used": 13577
+    },
+    {
+      "file_id": "1657",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1657.json",
+      "content_length": 28272,
+      "tokens_used": 39208
+    },
+    {
+      "file_id": "0689",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0689.json",
+      "content_length": 30060,
+      "tokens_used": 38352
+    },
+    {
+      "file_id": "0092",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0092.json",
+      "content_length": 16516,
+      "tokens_used": 38592
+    },
+    {
+      "file_id": "2236",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2236.json",
+      "content_length": 7956,
+      "tokens_used": 35438
+    },
+    {
+      "file_id": "0750",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0750.json",
+      "content_length": 15924,
+      "tokens_used": 22083
+    },
+    {
+      "file_id": "2602",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2602.json",
+      "content_length": 17782,
+      "tokens_used": 13609
+    },
+    {
+      "file_id": "2786",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 97)",
+      "response": "{\n  \"title\": \"Go Learnings\",\n  \"author\": null,\n  \"publish_date\": \"2025-12-19\",\n  \"main_content\": \"Getting back into go after trying it briefly five years ago (pre-generics). Here's what I've learned so far...\\n\\n> Keep in mind, I'm (mostly) coming from a super flexible language like Typescript. I imagine coming from Python might be a little similar.\\n> FYI: Go developers are called Gophers \ud83d\ude06.\\n\\n## Go Versions\\nGo as a language is still pretty young (~15 years, still version 1.x), and it's still"
+    },
+    {
+      "file_id": "1181",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1181.json",
+      "content_length": 15732,
+      "tokens_used": 33602
+    },
+    {
+      "file_id": "1222",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1222.json",
+      "content_length": 29608,
+      "tokens_used": 33799
+    },
+    {
+      "file_id": "0504",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0504.json",
+      "content_length": 19131,
+      "tokens_used": 15012
+    },
+    {
+      "file_id": "0745",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0745.json",
+      "content_length": 31331,
+      "tokens_used": 40395
+    },
+    {
+      "file_id": "1714",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 144)",
+      "response": "{\n  \"title\": \"Top 80 iGaming Software Providers & Platforms in 2026\",\n  \"author\": \"Smartico\",\n  \"publish_date\": \"2025-01-21\",\n  \"main_content\": \"Updated on October 27, 2025\\n\\nNowadays, with thousands of mediocre businesses competing for your attention, choosing the right software provider can be a tricky task. The year 2026 ushers in a new army of contenders, each offering appealing solutions but falling short when it comes covering your specific needs.\\n\\nThese include concerns about integrati"
+    },
+    {
+      "file_id": "0562",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0562.json",
+      "content_length": 2030,
+      "tokens_used": 41305
+    },
+    {
+      "file_id": "2693",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2693.json",
+      "content_length": 13975,
+      "tokens_used": 34968
+    },
+    {
+      "file_id": "0786",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0786.json",
+      "content_length": 8907,
+      "tokens_used": 34938
+    },
+    {
+      "file_id": "0675",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0675.json",
+      "content_length": 16878,
+      "tokens_used": 36297
+    },
+    {
+      "file_id": "0390",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0390.json",
+      "content_length": 11609,
+      "tokens_used": 32551
+    },
+    {
+      "file_id": "1443",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1443.json",
+      "content_length": 23236,
+      "tokens_used": 33337
+    },
+    {
+      "file_id": "1231",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1231.json",
+      "content_length": 10721,
+      "tokens_used": 39780
+    },
+    {
+      "file_id": "0961",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0961.json",
+      "content_length": 9971,
+      "tokens_used": 50110
+    },
+    {
+      "file_id": "1288",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1288.json",
+      "content_length": 12491,
+      "tokens_used": 18189
+    },
+    {
+      "file_id": "0779",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 146)",
+      "response": "{\n  \"title\": \"The 8 Best Online Legal Services \u2013 Reviewed and Ranked\",\n  \"author\": \"Aaron Kra\",\n  \"publish_date\": \"2025-09-30\",\n  \"main_content\": \"Choosing the right online legal service can save your business time, money, and costly mistakes. From LLC formation and compliance to affordable access to attorneys or legal documents, today\u2019s top providers offer tailored solutions for different business needs. But the wrong choice could leave you paying too much or missing critical protection. To hel"
+    },
+    {
+      "file_id": "2386",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 102)",
+      "response": "{\n  \"title\": \"Frontier AI Trends Report\",\n  \"author\": null,\n  \"publish_date\": null,\n  \"main_content\": \"Executive Summary\u202f \\nThe UK AI Security Institute (AISI) has conducted evaluations of frontier AI systems since November 2023 across domains critical to national security and public safety. This report presents our first public analysis of the trends we've observed. It seeks to provide accessible, data-driven insights into the frontier of AI capabilities and promote a shared understanding among"
+    },
+    {
+      "file_id": "2169",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2169.json",
+      "content_length": 30214,
+      "tokens_used": 35705
+    },
+    {
+      "file_id": "0935",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0935.json",
+      "content_length": 17337,
+      "tokens_used": 30402
+    },
+    {
+      "file_id": "0956",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0956.json",
+      "content_length": 5955,
+      "tokens_used": 36856
+    },
+    {
+      "file_id": "2249",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2249.json",
+      "content_length": 11904,
+      "tokens_used": 19701
+    },
+    {
+      "file_id": "2223",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2223.json",
+      "content_length": 12897,
+      "tokens_used": 25505
+    },
+    {
+      "file_id": "0809",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0809.json",
+      "content_length": 12792,
+      "tokens_used": 42535
+    },
+    {
+      "file_id": "2539",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 127)",
+      "response": "{\n  \"title\": \"Sieve: A Mail Filtering Language\",\n  \"author\": \"T. Showalter\",\n  \"publish_date\": \"2001-01-01\",\n  \"main_content\": \"Network Working Group                                       T. Showalter\\nRequest for Comments: 3028                               Mirapoint, Inc.\\nCategory: Standards Track                                   January 2001\\n\\n\\n                    Sieve: A Mail Filtering Language\\n\\nStatus of this Memo\\n\\n   This document specifies an Internet standards track protocol for"
+    },
+    {
+      "file_id": "2532",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2532.json",
+      "content_length": 19532,
+      "tokens_used": 20484
+    },
+    {
+      "file_id": "1272",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1272.json",
+      "content_length": 18630,
+      "tokens_used": 40003
+    },
+    {
+      "file_id": "1206",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1206.json",
+      "content_length": 7845,
+      "tokens_used": 39856
+    },
+    {
+      "file_id": "0514",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0514.json",
+      "content_length": 14917,
+      "tokens_used": 41254
+    },
+    {
+      "file_id": "2543",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2543.json",
+      "content_length": 14803,
+      "tokens_used": 39645
+    },
+    {
+      "file_id": "2668",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2668.json",
+      "content_length": 7274,
+      "tokens_used": 42784
+    },
+    {
+      "file_id": "1722",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1722.json",
+      "content_length": 16637,
+      "tokens_used": 41579
+    },
+    {
+      "file_id": "1418",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1418.json",
+      "content_length": 32223,
+      "tokens_used": 43006
+    },
+    {
+      "file_id": "2628",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 108)",
+      "response": "{\n  \"title\": \"Device Clock Generation\",\n  \"author\": null,\n  \"publish_date\": \"2025-12-17\",\n  \"main_content\": \"After building a CPU, utilities for handling bus interconnects, several DMAs and memory controllers, I often find my time focused on building interfaces between designs and external peripherals. This seems to be where most of the business has landed for me. Often, these peripherals require a clock output, coming from the design, and so I\u2019d like to spend some time describing how to generat"
+    },
+    {
+      "file_id": "2453",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2453.json",
+      "content_length": 26550,
+      "tokens_used": 46710
+    },
+    {
+      "file_id": "2595",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2595.json",
+      "content_length": 15077,
+      "tokens_used": 24918
+    },
+    {
+      "file_id": "1213",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1213.json",
+      "content_length": 10494,
+      "tokens_used": 12259
+    },
+    {
+      "file_id": "2607",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2607.json",
+      "content_length": 20109,
+      "tokens_used": 18388
+    },
+    {
+      "file_id": "0257",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0257.json",
+      "content_length": 11730,
+      "tokens_used": 38082
+    },
+    {
+      "file_id": "0138",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0138.json",
+      "content_length": 16329,
+      "tokens_used": 36821
+    },
+    {
+      "file_id": "2140",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2140.json",
+      "content_length": 22269,
+      "tokens_used": 39965
+    },
+    {
+      "file_id": "1236",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1236.json",
+      "content_length": 10376,
+      "tokens_used": 46256
+    },
+    {
+      "file_id": "2590",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 120)",
+      "response": "{\n  \"title\": \"Selective Applicative Functors\",\n  \"author\": \"@MonoidMusician\",\n  \"publish_date\": null,\n  \"main_content\": \"I haven\u02bct seen a good accounting of the essence of selective applicative functors.\\n\\nThey\u02bcve been longing for a better description, to help explain what should be allowed and what should be disallowed, beyond \u201chey, here is a function `select` that seems to do useful things and enable us to write interesting code\u201d.\\n\\nSelective applicative functors were originally proposed in "
+    },
+    {
+      "file_id": "0321",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0321.json",
+      "content_length": 29395,
+      "tokens_used": 44000
+    },
+    {
+      "file_id": "1741",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1741.json",
+      "content_length": 12704,
+      "tokens_used": 40826
+    },
+    {
+      "file_id": "0683",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0683.json",
+      "content_length": 22659,
+      "tokens_used": 29404
+    },
+    {
+      "file_id": "0747",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0747.json",
+      "content_length": 23159,
+      "tokens_used": 45182
+    },
+    {
+      "file_id": "0265",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0265.json",
+      "content_length": 22454,
+      "tokens_used": 29598
+    },
+    {
+      "file_id": "1772",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1772.json",
+      "content_length": 15012,
+      "tokens_used": 34410
+    },
+    {
+      "file_id": "2094",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2094.json",
+      "content_length": 5063,
+      "tokens_used": 37065
+    },
+    {
+      "file_id": "0311",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0311.json",
+      "content_length": 19220,
+      "tokens_used": 34228
+    },
+    {
+      "file_id": "0620",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0620.json",
+      "content_length": 9258,
+      "tokens_used": 36420
+    },
+    {
+      "file_id": "1909",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1909.json",
+      "content_length": 13543,
+      "tokens_used": 39229
+    },
+    {
+      "file_id": "0979",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0979.json",
+      "content_length": 25561,
+      "tokens_used": 43702
+    },
+    {
+      "file_id": "0026",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0026.json",
+      "content_length": 18993,
+      "tokens_used": 27370
+    },
+    {
+      "file_id": "0071",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0071.json",
+      "content_length": 16298,
+      "tokens_used": 26758
+    },
+    {
+      "file_id": "1607",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1607.json",
+      "content_length": 16198,
+      "tokens_used": 38909
+    },
+    {
+      "file_id": "1837",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1837.json",
+      "content_length": 27669,
+      "tokens_used": 32505
+    },
+    {
+      "file_id": "0102",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0102.json",
+      "content_length": 15500,
+      "tokens_used": 27350
+    },
+    {
+      "file_id": "2288",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2288.json",
+      "content_length": 7969,
+      "tokens_used": 16512
+    },
+    {
+      "file_id": "1938",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1938.json",
+      "content_length": 13078,
+      "tokens_used": 35945
+    },
+    {
+      "file_id": "0232",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0232.json",
+      "content_length": 14635,
+      "tokens_used": 29942
+    },
+    {
+      "file_id": "0289",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0289.json",
+      "content_length": 10819,
+      "tokens_used": 36758
+    },
+    {
+      "file_id": "0942",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0942.json",
+      "content_length": 23160,
+      "tokens_used": 42024
+    },
+    {
+      "file_id": "2299",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2299.json",
+      "content_length": 19917,
+      "tokens_used": 40328
+    },
+    {
+      "file_id": "2020",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2020.json",
+      "content_length": 36676,
+      "tokens_used": 41476
+    },
+    {
+      "file_id": "0388",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2659",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2659.json",
+      "content_length": 12963,
+      "tokens_used": 37397
+    },
+    {
+      "file_id": "0453",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 141)",
+      "response": "{\n  \"title\": \"Jackson Nj Moving Company - Best Jackson Movers\",\n  \"author\": \"Tommy Mover\",\n  \"publish_date\": \"2024-10-08\",\n  \"main_content\": \"JACKSON MOVING COMPANY | HOME MOVER | JACKSON NJ\\n\\nNew Location in Jackson, New Jersey 08527 Discover hhp.pme.mybluehost.me/website_ec835f2e/\\n\\nJackson Mover !!! Welcome to the latest expansion of hhp.pme.mybluehost.me/website_ec835f2e/! We are thrilled to announce the opening of our new location in Jackson, New Jersey. As a leading provider of moving se"
+    },
+    {
+      "file_id": "0391",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0391.json",
+      "content_length": 14654,
+      "tokens_used": 35599
+    },
+    {
+      "file_id": "1673",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1673.json",
+      "content_length": 10878,
+      "tokens_used": 18609
+    },
+    {
+      "file_id": "1043",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1038",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 148)",
+      "response": "{\n  \"title\": \"Top 32 Social Media Agencies in the US as of 2025\",\n  \"author\": \"Tamara Jovanovic\",\n  \"publish_date\": \"2025-01-08\",\n  \"main_content\": \"Struggling to find the right social media agency in the US? You\u2019re not alone.\\n\\nDid you know that in 2023, there were over 54,000 digital advertising agencies in the United States?\\n\\nSelecting the perfect social media marketing partner can be overwhelming with so many options.\\n\\nBut worry not; you\u2019re exactly where you need to be to solve this dil"
+    },
+    {
+      "file_id": "0460",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0460.json",
+      "content_length": 9207,
+      "tokens_used": 12367
+    },
+    {
+      "file_id": "0332",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0332.json",
+      "content_length": 35126,
+      "tokens_used": 36114
+    },
+    {
+      "file_id": "2672",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2672.json",
+      "content_length": 20643,
+      "tokens_used": 17488
+    },
+    {
+      "file_id": "1052",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1415",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1415.json",
+      "content_length": 22365,
+      "tokens_used": 40046
+    },
+    {
+      "file_id": "2207",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2207.json",
+      "content_length": 18443,
+      "tokens_used": 39095
+    },
+    {
+      "file_id": "0452",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0452.json",
+      "content_length": 14413,
+      "tokens_used": 40318
+    },
+    {
+      "file_id": "2525",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2525.json",
+      "content_length": 4964,
+      "tokens_used": 34613
+    },
+    {
+      "file_id": "1103",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2815",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2815.json",
+      "content_length": 9182,
+      "tokens_used": 9206
+    },
+    {
+      "file_id": "1655",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 155)",
+      "response": "{\n  \"title\": \"HR Outsourcing Companies: 20 Top Picks and Pricing for 2025\",\n  \"author\": \"James Harwood\",\n  \"publish_date\": \"2025-08-08\",\n  \"main_content\": \"The best HR outsourcing companies in 2025 offer per-employee pricing that ranges from roughly $35 to $260 per month (or 2\u20137 % of payroll for PEOs) and cover everything from payroll and benefits to culture strategy. Below you\u2019ll find side-by-side comparisons of 20 leading providers, including their 2025 pricing, standout features, pros, and co"
+    },
+    {
+      "file_id": "0890",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0890.json",
+      "content_length": 20583,
+      "tokens_used": 31032
+    },
+    {
+      "file_id": "2414",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2414.json",
+      "content_length": 31262,
+      "tokens_used": 46182
+    },
+    {
+      "file_id": "2750",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2475",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1441",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1441.json",
+      "content_length": 15213,
+      "tokens_used": 57613
+    },
+    {
+      "file_id": "2796",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2796.json",
+      "content_length": 16082,
+      "tokens_used": 42704
+    },
+    {
+      "file_id": "0139",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0139.json",
+      "content_length": 10320,
+      "tokens_used": 38713
+    },
+    {
+      "file_id": "0355",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2577",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2408",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2408.json",
+      "content_length": 2920,
+      "tokens_used": 62080
+    },
+    {
+      "file_id": "0981",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0981.json",
+      "content_length": 15005,
+      "tokens_used": 30513
+    },
+    {
+      "file_id": "2492",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 145)",
+      "response": "{\n  \"title\": \"Full Unicode Search at 50\u00d7 ICU Speed with AVX\u2011512\",\n  \"author\": \"Ash Vardanian\",\n  \"publish_date\": \"2025-12-15\",\n  \"main_content\": \"This article is about the ugliest, but potentially most useful piece of open-source software I\u2019ve written this year. It\u2019s messy, because UTF-8 is messy. The world\u2019s most widely used text encoding standard was introduced in 1989. It now covers more than 1 million characters across the majority of used writing systems, so it\u2019s not exactly trivial to work"
+    },
+    {
+      "file_id": "0462",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1476",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1346",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1346.json",
+      "content_length": 8728,
+      "tokens_used": 36572
+    },
+    {
+      "file_id": "2513",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2513.json",
+      "content_length": 15628,
+      "tokens_used": 10437
+    },
+    {
+      "file_id": "1085",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1085.json",
+      "content_length": 35003,
+      "tokens_used": 43210
+    },
+    {
+      "file_id": "1185",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2477",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0510",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0510.json",
+      "content_length": 11402,
+      "tokens_used": 17986
+    },
+    {
+      "file_id": "1802",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1802.json",
+      "content_length": 28864,
+      "tokens_used": 38053
+    },
+    {
+      "file_id": "0072",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0072.json",
+      "content_length": 14456,
+      "tokens_used": 22941
+    },
+    {
+      "file_id": "0845",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0916",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1846",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2290",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2290.json",
+      "content_length": 10055,
+      "tokens_used": 8662
+    },
+    {
+      "file_id": "0228",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0228.json",
+      "content_length": 11482,
+      "tokens_used": 48668
+    },
+    {
+      "file_id": "2676",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1311",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2652",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0864",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0864.json",
+      "content_length": 9177,
+      "tokens_used": 36140
+    },
+    {
+      "file_id": "1069",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 123)",
+      "response": "{\n  \"title\": \"Laptop review/recommendation resources\",\n  \"author\": null,\n  \"publish_date\": \"2025-01-03\",\n  \"main_content\": \"I am in need of a new laptop as my power connector is completely shot.  Laptops are not really in the wheelhouse of the tech youtube crowd I\u2019m familiar with, is there a good source like L1T, GN, HWUB, etc but focused on laptops someone can recommend?  I don\u2019t need much from it, so not looking to spend a ton, but I still want it to be capable.  Mostly used for browsing and m"
+    },
+    {
+      "file_id": "0651",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0651.json",
+      "content_length": 19080,
+      "tokens_used": 23122
+    },
+    {
+      "file_id": "1671",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1214",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2017",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2017.json",
+      "content_length": 17331,
+      "tokens_used": 31064
+    },
+    {
+      "file_id": "0425",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0425.json",
+      "content_length": 16596,
+      "tokens_used": 41620
+    },
+    {
+      "file_id": "0217",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0217.json",
+      "content_length": 11321,
+      "tokens_used": 37071
+    },
+    {
+      "file_id": "1813",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1354",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0657",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0657.json",
+      "content_length": 18444,
+      "tokens_used": 36000
+    },
+    {
+      "file_id": "0923",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0923.json",
+      "content_length": 16015,
+      "tokens_used": 22340
+    },
+    {
+      "file_id": "2588",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2568",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1586",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1104",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2735",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1665",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0436",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 131)",
+      "response": "{\n  \"title\": \"Compare AWS and Azure services to Google Cloud\",\n  \"author\": null,\n  \"publish_date\": \"2024-12-03\",\n  \"main_content\": \"Last updated: December 3, 2024\\n\\nThis table lists generally available Google Cloud services and maps them to similar or comparable offerings in Amazon Web Services (AWS) and Microsoft Azure. You can filter the table with keywords, such as a service type, capability, or product name. We welcome your feedback to help us keep this information up to date!\\n\\nSign in to"
+    },
+    {
+      "file_id": "0339",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0339.json",
+      "content_length": 12240,
+      "tokens_used": 22020
+    },
+    {
+      "file_id": "1839",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1460",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0330",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0225",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2766",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2766.json",
+      "content_length": 9628,
+      "tokens_used": 40240
+    },
+    {
+      "file_id": "2684",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2684.json",
+      "content_length": 12767,
+      "tokens_used": 42849
+    },
+    {
+      "file_id": "2789",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1880",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1482",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1831",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1831.json",
+      "content_length": 35299,
+      "tokens_used": 25177
+    },
+    {
+      "file_id": "1691",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2389",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1933",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1250",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0371",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2711",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0932",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1516",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2225",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2757",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0423",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0485",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0485.json",
+      "content_length": 7064,
+      "tokens_used": 50037
+    },
+    {
+      "file_id": "2529",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0878",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2038",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0518",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2589",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0992",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2362",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1285",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2633",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1425",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0278",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1362",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0647",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1502",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0668",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2340",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0678",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1529",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1712",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0494",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0759",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1692",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0110",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0865",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1180",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2337",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1095",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1817",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1629",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2440",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0263",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 8 column 5 (char 37193)",
+      "response": "{\n  \"title\": \"11 Best project management software comparison for 2025\",\n  \"author\": \"Vartika Kashyap\",\n  \"publish_date\": \"2025-04-29\",\n  \"main_content\": \"Before choosing the right project management software for an organization, stakeholders evaluate and compare the topmost available options. There are at least over 100 project management software solutions in the market with unique strengths and areas of focus. Thus, choosing the project management software that best fits your team\u2019s needs gets"
+    },
+    {
+      "file_id": "2161",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1972",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2446",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1768",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1768.json",
+      "content_length": 25065,
+      "tokens_used": 32509
+    },
+    {
+      "file_id": "1546",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2308",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2481",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2746",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2746.json",
+      "content_length": 20081,
+      "tokens_used": 40114
+    },
+    {
+      "file_id": "2833",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0403",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0069",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1708",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1708.json",
+      "content_length": 31589,
+      "tokens_used": 43127
+    },
+    {
+      "file_id": "2385",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0591",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0743",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2571",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2571.json",
+      "content_length": 22702,
+      "tokens_used": 47490
+    },
+    {
+      "file_id": "2613",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0616",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2464",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1530",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1530.json",
+      "content_length": 14059,
+      "tokens_used": 24300
+    },
+    {
+      "file_id": "2099",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2099.json",
+      "content_length": 25379,
+      "tokens_used": 23768
+    },
+    {
+      "file_id": "0804",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2572",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0601",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0601.json",
+      "content_length": 15535,
+      "tokens_used": 39064
+    },
+    {
+      "file_id": "2400",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 148)",
+      "response": "{\n  \"title\": \"Utilizing the Agentic Lifecycle for Improved Generative Results\",\n  \"author\": null,\n  \"publish_date\": \"2025-10-28\",\n  \"main_content\": \"It\u2019s so easy to jump into the deep end, to vibe.\\n\\nWith the rise of modern editors with agentic capabilities such as Cursor, Zed and of course Visual Studio Code, it\u2019s never been easier to jump into the craze of vibe coding. We have never had it so easy to jump straight into `agent` mode! What many have come to learn the hard way is, this can lead "
+    },
+    {
+      "file_id": "1168",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2687",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1163",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 159)",
+      "response": "{\n  \"title\": \"50 Top Software Development Agencies & Their Core Specialties\",\n  \"author\": \"Dayana Mayfield\",\n  \"publish_date\": \"2025-11-13\",\n  \"main_content\": \"When looking for a software development agency to hire, you might not realize that there are actually three distinct types or why this is important. If you engage with the wrong type of dev agency, you could find that your real needs aren\u2019t getting met during the development process. A lack of resources can lead to unfulfilled expectation"
+    },
+    {
+      "file_id": "2347",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 122)",
+      "response": "{\n  \"title\": \"FunctionGemma model card\",\n  \"author\": \"Google DeepMind\",\n  \"publish_date\": \"2025-10-08\",\n  \"main_content\": \"Model Page: FunctionGemma\\n\\nResources and Technical Documentation:\\n- Responsible Generative AI Toolkit\\n- FunctionGemma on Kaggle\\n- FunctionGemma on Vertex Model Garden\\n\\nTerms of Use: Terms\\nAuthors: Google DeepMind\\n\\nModel Information\\nSummary description and brief definition of inputs and outputs.\\n\\nDescription\\nFunctionGemma is intended to be fine-tuned for your sp"
+    },
+    {
+      "file_id": "1873",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0192",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0230",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0230.json",
+      "content_length": 10126,
+      "tokens_used": 49392
+    },
+    {
+      "file_id": "2037",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2037.json",
+      "content_length": 9729,
+      "tokens_used": 34888
+    },
+    {
+      "file_id": "2125",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "0428",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2218",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2218.json",
+      "content_length": 31954,
+      "tokens_used": 40554
+    },
+    {
+      "file_id": "1013",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1013.json",
+      "content_length": 10134,
+      "tokens_used": 37867
+    },
+    {
+      "file_id": "2072",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2072.json",
+      "content_length": 21504,
+      "tokens_used": 45371
+    },
+    {
+      "file_id": "1107",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "2316",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2316.json",
+      "content_length": 22946,
+      "tokens_used": 32629
+    },
+    {
+      "file_id": "1832",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1832.json",
+      "content_length": 32645,
+      "tokens_used": 36155
+    },
+    {
+      "file_id": "0392",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0392.json",
+      "content_length": 20948,
+      "tokens_used": 33130
+    },
+    {
+      "file_id": "1757",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1413",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1413.json",
+      "content_length": 24367,
+      "tokens_used": 35717
+    },
+    {
+      "file_id": "0633",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 117)",
+      "response": "{\n  \"title\": \"Agency Skincare Review\",\n  \"author\": \"Elsa Whitney\",\n  \"publish_date\": \"2024-10-25\",\n  \"main_content\": \"If you\u2019re in the market for custom skincare products, then you\u2019re not alone \u2014 the market has grown massively over the past couple of years with no signs of slowing down. By 2032, the market is forecast to multiply by 22 times to a value of over $52B.1 Companies have taken note of this opportunity, leading to dozens of options popping up all over the internet, which can make choos"
+    },
+    {
+      "file_id": "1388",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 143)",
+      "response": "{\n  \"title\": \"50 Low-Cost Mobile App Development Ideas (2025)\",\n  \"author\": \"Murtuza Kutub\",\n  \"publish_date\": \"2025-11-06\",\n  \"main_content\": \"In today\u2019s digital age, the mobile app market continues to evolve, offering endless opportunities for entrepreneurs and developers. According to a report by Grand View Research, the global mobile application market size was valued at USD 252.89 billion in 2023 and is projected to grow at a compound annual growth rate (CAGR) of 14.3% from 2024 to 2030. Th"
+    },
+    {
+      "file_id": "2503",
+      "status": "skipped",
+      "reason": "already_reannotated"
+    },
+    {
+      "file_id": "1776",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 138)",
+      "response": "{\n  \"title\": \"15+ Best Online Course Platforms in 2026\",\n  \"author\": \"Jordie van Rijn\",\n  \"publish_date\": \"2025-12-02\",\n  \"main_content\": \"It is no secret that online courses are more popular than ever. The latest data shows the eLearning market will grow to $325 billion in 2026! Publishing your own course is a big opportunity with so many people eager to learn. \\n\\nBut you\u2019ll need the right tools to craft and sell an online course. You need an online course builder. I know. I\u2019m building a cours"
+    },
+    {
+      "file_id": "2076",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 184)",
+      "response": "{\n  \"title\": \"Weight-Loss and Maintenance Strategies\",\n  \"author\": \"Institute of Medicine (US) Subcommittee on Military Weight Management\",\n  \"publish_date\": \"2004\",\n  \"main_content\": \"The most important component of an effective weight-management program must be the prevention of unwanted weight gain from excess body fat. The military is in a unique position to address prevention from the first day of an individual's military career. Because the military population is selected from a pool of in"
+    },
+    {
+      "file_id": "0170",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 12 column 5 (char 38395)",
+      "response": "{\n  \"title\": \"The Ultimate Event Planning Guide (2026)\",\n  \"author\": \"Syeda Hamna Hassan\",\n  \"publish_date\": \"2023-07-13\",\n  \"main_content\": \"We\u2019ve hosted thousands of events for our clients and understand how challenging event planning can be. From the get-go, an event planner needs to juggle a million tasks, wear many hats, and stay organized. At every step of event planning, the most important objective is to stay on course to achieve all the event goals that you set out in the first place.\\n"
+    },
+    {
+      "file_id": "1002",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 148)",
+      "response": "{\n  \"title\": \"Top 50 Biggest Gaming Companies in 2025 by Revenue\",\n  \"author\": \"Andrea Knezovic\",\n  \"publish_date\": \"2025-12-11\",\n  \"main_content\": \"The gaming industry is booming. It\u2019s projected to reach $363.2 billion in revenue by 2027. (Statista) Wondering which gaming companies are driving this growth despite industry layoffs? Check out this list of the top 50 biggest gaming companies in 2025 by yearly revenue. \\n\\n1. Sony\\nHeadquarters:\\nSan Mateo, California, USA\\nRevenue:\\n $29.8 billion"
+    },
+    {
+      "file_id": "1689",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1689.json",
+      "content_length": 38600,
+      "tokens_used": 33007
+    },
+    {
+      "file_id": "2064",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2064.json",
+      "content_length": 21006,
+      "tokens_used": 20745
+    },
+    {
+      "file_id": "2390",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2390.json",
+      "content_length": 21002,
+      "tokens_used": 39681
+    },
+    {
+      "file_id": "2480",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2480.json",
+      "content_length": 25801,
+      "tokens_used": 44286
+    },
+    {
+      "file_id": "0382",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0382.json",
+      "content_length": 12468,
+      "tokens_used": 15973
+    },
+    {
+      "file_id": "2277",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2277.json",
+      "content_length": 16562,
+      "tokens_used": 33639
+    },
+    {
+      "file_id": "1405",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1405.json",
+      "content_length": 30501,
+      "tokens_used": 43804
+    },
+    {
+      "file_id": "2179",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2179.json",
+      "content_length": 15625,
+      "tokens_used": 21466
+    },
+    {
+      "file_id": "1551",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1551.json",
+      "content_length": 12295,
+      "tokens_used": 23741
+    },
+    {
+      "file_id": "2304",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2304.json",
+      "content_length": 6407,
+      "tokens_used": 34761
+    },
+    {
+      "file_id": "2713",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2713.json",
+      "content_length": 17606,
+      "tokens_used": 34251
+    },
+    {
+      "file_id": "0210",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0210.json",
+      "content_length": 21423,
+      "tokens_used": 45128
+    },
+    {
+      "file_id": "0627",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0627.json",
+      "content_length": 19811,
+      "tokens_used": 16844
+    },
+    {
+      "file_id": "1715",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1715.json",
+      "content_length": 16595,
+      "tokens_used": 34611
+    },
+    {
+      "file_id": "1359",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1359.json",
+      "content_length": 18690,
+      "tokens_used": 42446
+    },
+    {
+      "file_id": "1144",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1144.json",
+      "content_length": 24369,
+      "tokens_used": 36480
+    },
+    {
+      "file_id": "0978",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0978.json",
+      "content_length": 12329,
+      "tokens_used": 35412
+    },
+    {
+      "file_id": "0508",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0508.json",
+      "content_length": 18564,
+      "tokens_used": 36374
+    },
+    {
+      "file_id": "1608",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 145)",
+      "response": "{\n  \"title\": \"Not All Social Media Platforms Are Created Equal\",\n  \"author\": \"Robin Agricola\",\n  \"publish_date\": \"2023-12-01\",\n  \"main_content\": \"Storytelling is a cornerstone of any successful digital marketing strategy. One of the best media channels for telling stories, of course, is social media. But not all social media platforms are created equal.\\n\\nUnderstanding the nuances of each social media platform\u2014user demographics, usage trends, formatting requirements, and engagement data\u2014is cruc"
+    },
+    {
+      "file_id": "1626",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1626.json",
+      "content_length": 10746,
+      "tokens_used": 20980
+    },
+    {
+      "file_id": "1050",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1050.json",
+      "content_length": 8237,
+      "tokens_used": 51045
+    },
+    {
+      "file_id": "2566",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2566.json",
+      "content_length": 14187,
+      "tokens_used": 20623
+    },
+    {
+      "file_id": "1216",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1216.json",
+      "content_length": 17797,
+      "tokens_used": 33516
+    },
+    {
+      "file_id": "2521",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2521.json",
+      "content_length": 17240,
+      "tokens_used": 13115
+    },
+    {
+      "file_id": "2171",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2171.json",
+      "content_length": 27344,
+      "tokens_used": 29750
+    },
+    {
+      "file_id": "2450",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2450.json",
+      "content_length": 9488,
+      "tokens_used": 40428
+    },
+    {
+      "file_id": "1811",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1811.json",
+      "content_length": 14326,
+      "tokens_used": 35379
+    },
+    {
+      "file_id": "0034",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0034.json",
+      "content_length": 27660,
+      "tokens_used": 22563
+    },
+    {
+      "file_id": "2557",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2557.json",
+      "content_length": 7454,
+      "tokens_used": 26375
+    },
+    {
+      "file_id": "1544",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1544.json",
+      "content_length": 16813,
+      "tokens_used": 44038
+    },
+    {
+      "file_id": "1945",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1945.json",
+      "content_length": 17918,
+      "tokens_used": 25904
+    },
+    {
+      "file_id": "0814",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0814.json",
+      "content_length": 19965,
+      "tokens_used": 39108
+    },
+    {
+      "file_id": "2069",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2069.json",
+      "content_length": 3253,
+      "tokens_used": 20152
+    },
+    {
+      "file_id": "0665",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0665.json",
+      "content_length": 27244,
+      "tokens_used": 38378
+    },
+    {
+      "file_id": "1343",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1343.json",
+      "content_length": 19428,
+      "tokens_used": 40775
+    },
+    {
+      "file_id": "0756",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0756.json",
+      "content_length": 10464,
+      "tokens_used": 20008
+    },
+    {
+      "file_id": "0580",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0580.json",
+      "content_length": 13014,
+      "tokens_used": 23409
+    },
+    {
+      "file_id": "2012",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2012.json",
+      "content_length": 17787,
+      "tokens_used": 27662
+    },
+    {
+      "file_id": "1848",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1848.json",
+      "content_length": 16218,
+      "tokens_used": 36821
+    },
+    {
+      "file_id": "0716",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0716.json",
+      "content_length": 18660,
+      "tokens_used": 35958
+    },
+    {
+      "file_id": "2616",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2616.json",
+      "content_length": 17514,
+      "tokens_used": 18652
+    },
+    {
+      "file_id": "0119",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0119.json",
+      "content_length": 7801,
+      "tokens_used": 45034
+    },
+    {
+      "file_id": "1829",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1829.json",
+      "content_length": 14565,
+      "tokens_used": 29367
+    },
+    {
+      "file_id": "1786",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1786.json",
+      "content_length": 19686,
+      "tokens_used": 28573
+    },
+    {
+      "file_id": "0621",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0621.json",
+      "content_length": 25866,
+      "tokens_used": 24028
+    },
+    {
+      "file_id": "1725",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1725.json",
+      "content_length": 24565,
+      "tokens_used": 38631
+    },
+    {
+      "file_id": "0622",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0622.json",
+      "content_length": 15605,
+      "tokens_used": 42017
+    },
+    {
+      "file_id": "0672",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0672.json",
+      "content_length": 27208,
+      "tokens_used": 28114
+    },
+    {
+      "file_id": "0821",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0821.json",
+      "content_length": 13883,
+      "tokens_used": 37907
+    },
+    {
+      "file_id": "2123",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2123.json",
+      "content_length": 8711,
+      "tokens_used": 33353
+    },
+    {
+      "file_id": "0136",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0136.json",
+      "content_length": 26291,
+      "tokens_used": 37337
+    },
+    {
+      "file_id": "1219",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1219.json",
+      "content_length": 23716,
+      "tokens_used": 35170
+    },
+    {
+      "file_id": "1228",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1228.json",
+      "content_length": 15257,
+      "tokens_used": 15114
+    },
+    {
+      "file_id": "1747",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1747.json",
+      "content_length": 14976,
+      "tokens_used": 32372
+    },
+    {
+      "file_id": "0832",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0832.json",
+      "content_length": 15225,
+      "tokens_used": 36216
+    },
+    {
+      "file_id": "2795",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2795.json",
+      "content_length": 8716,
+      "tokens_used": 7288
+    },
+    {
+      "file_id": "1943",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1943.json",
+      "content_length": 13903,
+      "tokens_used": 12534
+    },
+    {
+      "file_id": "0780",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0780.json",
+      "content_length": 10026,
+      "tokens_used": 32477
+    },
+    {
+      "file_id": "2553",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2553.json",
+      "content_length": 22075,
+      "tokens_used": 18208
+    },
+    {
+      "file_id": "0505",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0505.json",
+      "content_length": 16886,
+      "tokens_used": 38947
+    },
+    {
+      "file_id": "0295",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0295.json",
+      "content_length": 7627,
+      "tokens_used": 40495
+    },
+    {
+      "file_id": "2381",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2381.json",
+      "content_length": 25966,
+      "tokens_used": 20335
+    },
+    {
+      "file_id": "2278",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2278.json",
+      "content_length": 11353,
+      "tokens_used": 30028
+    },
+    {
+      "file_id": "0386",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0386.json",
+      "content_length": 4934,
+      "tokens_used": 40883
+    },
+    {
+      "file_id": "0805",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0805.json",
+      "content_length": 11772,
+      "tokens_used": 11838
+    },
+    {
+      "file_id": "0096",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0096.json",
+      "content_length": 10159,
+      "tokens_used": 58535
+    },
+    {
+      "file_id": "2471",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 210)",
+      "response": "{\n  \"title\": \"theartsdesk on Vinyl 93: Led Zeppelin, Blawan, Sylvester, Zaho de Sagazan, Sabres of Paradise, Hot Chip and more\",\n  \"author\": \"Thomas H. Green\",\n  \"publish_date\": \"2025-11-06\",\n  \"main_content\": \"VINYL OF THE MONTH\\n\\nMartel Zaire (Evil Ideas)\\n\\nMontenegro-born, Cyprus-based producer Martel Vladimiroff is a hard man to find out about. His meagre online imprint and extensive global travels make him seem more like \u201can asset in the field\u201d than a musician. Whoever he is, his new EP, "
+    },
+    {
+      "file_id": "0753",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/0753.json",
+      "content_length": 14010,
+      "tokens_used": 37520
+    },
+    {
+      "file_id": "1176",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1176.json",
+      "content_length": 13996,
+      "tokens_used": 35365
+    },
+    {
+      "file_id": "2361",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2361.json",
+      "content_length": 12641,
+      "tokens_used": 22100
+    },
+    {
+      "file_id": "1513",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1513.json",
+      "content_length": 21530,
+      "tokens_used": 17995
+    },
+    {
+      "file_id": "2504",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2504.json",
+      "content_length": 21062,
+      "tokens_used": 31884
+    },
+    {
+      "file_id": "2070",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2070.json",
+      "content_length": 16841,
+      "tokens_used": 27212
+    },
+    {
+      "file_id": "1396",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/1396.json",
+      "content_length": 26448,
+      "tokens_used": 40489
+    },
+    {
+      "file_id": "2615",
+      "status": "failed",
+      "error": "JSON parse error: Unterminated string starting at: line 5 column 19 (char 164)",
+      "response": "{\n  \"title\": \"The Rails Delegated Type Pattern\",\n  \"author\": \"Kimberly Rhodes, Fernando Olivares, Jeffrey Hardy\",\n  \"publish_date\": \"2025-12-19\",\n  \"main_content\": \"Here on the 37signals developer blog, we go deep into technical topics, but some ideas are easier to explain through conversation, a little back-and-forth, and an occasional screen share. That\u2019s why we\u2019re launching RECORDABLES, a new video series hosted by Kimberly Rhodes, who you may know from The REWORK podcast, alongside Fernando "
+    },
+    {
+      "file_id": "2306",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2306.json",
+      "content_length": 28121,
+      "tokens_used": 20391
+    },
+    {
+      "file_id": "2722",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2722.json",
+      "content_length": 33352,
+      "tokens_used": 15520
+    },
+    {
+      "file_id": "2301",
+      "status": "success",
+      "output_file": "/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/data/ground_truth/2301.json",
+      "content_length": 35416,
+      "tokens_used": 41643
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "timestamp": "2026-01-03T09:33:42.494066",
+  "total_processed": 46,
+  "successful": 0,
+  "failed": 46,
+  "total_tokens": 0,
+  "results": [
+    {
+      "file_id": "0425",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1665",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1714",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1085",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1418",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "2218",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "2020",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "0225",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "0381",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "0745",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "2207",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1708",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1388",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "2590",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "0942",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1508",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1926",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "0321",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "0779",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1768",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1607",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1802",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1530",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1950",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1722",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1541",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1655",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "2076",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "0715",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "0436",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "0349",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "2643",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "2539",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "0263",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1163",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1236",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "2746",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "2823",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "2492",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1832",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "0689",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "1831",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "2628",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "0138",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "2099",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    },
+    {
+      "file_id": "2269",
+      "status": "failed",
+      "error": "Error code: 400 - {'error': {'message': 'Invalid max_tokens value, the valid range of max_tokens is [1, 8192]', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}"
+    }
+  ]
+}
