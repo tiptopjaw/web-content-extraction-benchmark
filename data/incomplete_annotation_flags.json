@@ -4,7 +4,7 @@
   "detection_method": "High recall (>0.7) + Low precision (<0.3) + High length ratio (>5x)",
   "interpretation": "These files have ground truth that captures only a portion of the main content. The extractor correctly found additional content that was not annotated.",
   "recommendation": "Report benchmark scores both with and without these files for accurate assessment",
-  "total_flagged": 438,
+  "total_flagged": 434,
   "flagged_file_ids": [
     "0004",
     "0007",
@@ -127,7 +127,6 @@
     "0753",
     "0756",
     "0759",
-    "0770",
     "0779",
     "0780",
     "0786",
@@ -264,7 +263,6 @@
     "1689",
     "1691",
     "1692",
-    "1696",
     "1708",
     "1712",
     "1714",
@@ -395,14 +393,12 @@
     "2551",
     "2553",
     "2557",
-    "2564",
     "2566",
     "2568",
     "2571",
     "2572",
     "2577",
     "2578",
-    "2580",
     "2588",
     "2589",
     "2590",
@@ -446,5 +442,6 @@
     "2833"
   ],
   "updated_at": "2026-01-03T15:30:22.859227",
-  "note": "Includes 25 files too long for re-annotation (extractor is correct, GT is incomplete)"
+  "note": "Includes 25 files too long for re-annotation (extractor is correct, GT is incomplete)",
+  "file_ids": []
 }
