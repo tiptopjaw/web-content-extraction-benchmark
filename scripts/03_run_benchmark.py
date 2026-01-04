@@ -63,26 +63,33 @@ def calculate_text_similarity(extracted: str, ground_truth: str) -> Dict[str, fl
     """
     Calculate similarity metrics between extracted and ground truth text
 
-    Returns precision, recall, and F1 score based on word-level overlap
+    Returns precision, recall, F1 score, and accuracy based on word-level overlap
     """
     if not extracted and not ground_truth:
-        return {'precision': 1.0, 'recall': 1.0, 'f1': 1.0}
+        return {'precision': 1.0, 'recall': 1.0, 'f1': 1.0, 'accuracy': 1.0}
 
     if not extracted:
-        return {'precision': 0.0, 'recall': 0.0, 'f1': 0.0}
+        return {'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'accuracy': 0.0}
 
     if not ground_truth:
-        return {'precision': 0.0, 'recall': 0.0, 'f1': 0.0}
+        return {'precision': 0.0, 'recall': 0.0, 'f1': 0.0, 'accuracy': 0.0}
 
     # Normalize and tokenize
-    extracted_words = set(extracted.lower().split())
-    ground_truth_words = set(ground_truth.lower().split())
+    extracted_words = extracted.lower().split()
+    ground_truth_words = ground_truth.lower().split()
+
+    # Calculate accuracy (exact match after tokenization)
+    accuracy = 1.0 if extracted_words == ground_truth_words else 0.0
+
+    # Convert to sets for precision/recall calculation
+    extracted_set = set(extracted_words)
+    ground_truth_set = set(ground_truth_words)
 
     # Calculate overlap
-    common = extracted_words.intersection(ground_truth_words)
+    common = extracted_set.intersection(ground_truth_set)
 
-    precision = len(common) / len(extracted_words) if extracted_words else 0
-    recall = len(common) / len(ground_truth_words) if ground_truth_words else 0
+    precision = len(common) / len(extracted_set) if extracted_set else 0
+    recall = len(common) / len(ground_truth_set) if ground_truth_set else 0
 
     if precision + recall > 0:
         f1 = 2 * (precision * recall) / (precision + recall)
@@ -92,7 +99,8 @@ def calculate_text_similarity(extracted: str, ground_truth: str) -> Dict[str, fl
     return {
         'precision': precision,
         'recall': recall,
-        'f1': f1
+        'f1': f1,
+        'accuracy': accuracy
     }
 
 def check_snippets(extracted: str, snippets: List[str]) -> Dict[str, float]:
@@ -149,6 +157,7 @@ def evaluate_extraction(extracted: Dict, ground_truth: Dict) -> Dict:
         'content_precision': main_content_metrics['precision'],
         'content_recall': main_content_metrics['recall'],
         'content_f1': main_content_metrics['f1'],
+        'content_accuracy': main_content_metrics['accuracy'],
         'with_snippets_found': with_metrics['found'],
         'with_snippets_total': with_metrics['total'],
         'with_snippets_percentage': with_metrics['percentage'],
@@ -256,6 +265,7 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
         avg_precision = sum(r['evaluation']['content_precision'] for r in results) / total_files
         avg_recall = sum(r['evaluation']['content_recall'] for r in results) / total_files
         avg_f1 = sum(r['evaluation']['content_f1'] for r in results) / total_files
+        avg_accuracy = sum(r['evaluation']['content_accuracy'] for r in results) / total_files
         avg_with_snippets = sum(r['evaluation']['with_snippets_percentage'] for r in results) / total_files
         avg_without_snippets = sum(r['evaluation']['without_snippets_percentage'] for r in results) / total_files
         title_match_rate = sum(1 for r in results if r['evaluation']['title_match']) / total_files
@@ -267,8 +277,9 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
             good_gt_precision = sum(r['evaluation']['content_precision'] for r in good_gt_results) / good_gt_count
             good_gt_recall = sum(r['evaluation']['content_recall'] for r in good_gt_results) / good_gt_count
             good_gt_f1 = sum(r['evaluation']['content_f1'] for r in good_gt_results) / good_gt_count
+            good_gt_accuracy = sum(r['evaluation']['content_accuracy'] for r in good_gt_results) / good_gt_count
         else:
-            good_gt_precision = good_gt_recall = good_gt_f1 = 0.0
+            good_gt_precision = good_gt_recall = good_gt_f1 = good_gt_accuracy = 0.0
 
         summary = {
             'extractor': extractor.name,
@@ -279,6 +290,7 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
                 'content_precision': avg_precision,
                 'content_recall': avg_recall,
                 'content_f1': avg_f1,
+                'content_accuracy': avg_accuracy,
                 'with_snippets_percentage': avg_with_snippets,
                 'without_snippets_percentage': avg_without_snippets,
                 'title_match_rate': title_match_rate,
@@ -288,6 +300,7 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
                 'content_precision': good_gt_precision,
                 'content_recall': good_gt_recall,
                 'content_f1': good_gt_f1,
+                'content_accuracy': good_gt_accuracy,
             },
             'timestamp': datetime.now().isoformat(),
             'results': results
@@ -307,11 +320,13 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
         print(f"Content Metrics (all {total_files} files):")
         print(f"  Precision: {avg_precision:.3f}")
         print(f"  Recall:    {avg_recall:.3f}")
-        print(f"  F1 Score:  {avg_f1:.3f}\n")
+        print(f"  F1 Score:  {avg_f1:.3f}")
+        print(f"  Accuracy:  {avg_accuracy:.3f}\n")
         print(f"Content Metrics (good GT only, {good_gt_count} files):")
         print(f"  Precision: {good_gt_precision:.3f}")
         print(f"  Recall:    {good_gt_recall:.3f}")
-        print(f"  F1 Score:  {good_gt_f1:.3f}\n")
+        print(f"  F1 Score:  {good_gt_f1:.3f}")
+        print(f"  Accuracy:  {good_gt_accuracy:.3f}\n")
         print(f"Snippet Metrics:")
         print(f"  'With' snippets found:    {avg_with_snippets:.1%}")
         print(f"  'Without' snippets found: {avg_without_snippets:.1%} (lower is better)\n")

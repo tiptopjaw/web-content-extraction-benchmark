@@ -57,14 +57,14 @@ python scripts/03_run_benchmark.py --extractor rs-trafilatura
 
 ## Benchmark Results
 
-| Extractor | Precision | Recall | F1 Score |
-|-----------|-----------|--------|----------|
-| rs-trafilatura | 0.622 | 0.871 | 0.688 |
-| boilerpy3-article | 0.513 | 0.722 | 0.560 |
-| boilerpy3-default | 0.482 | 0.740 | 0.550 |
-| beautifulsoup | 0.178 | 0.959 | 0.285 |
+| Extractor | Precision | Recall | F1 Score | Accuracy |
+|-----------|-----------|--------|----------|----------|
+| rs-trafilatura | 0.622 | 0.870 | 0.688 | 0.007 |
+| boilerpy3-article | 0.513 | 0.722 | 0.560 | - |
+| boilerpy3-default | 0.482 | 0.740 | 0.550 | - |
+| beautifulsoup | 0.178 | 0.959 | 0.285 | - |
 
-*Results on 1,507 files as of January 2026.*
+*Results on 1,507 files as of January 2026. Accuracy = exact token match (very strict).*
 
 ## Project Structure
 
