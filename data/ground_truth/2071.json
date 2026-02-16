@@ -34,20 +34,7 @@
       "Get more travel content",
       "Copyright 2025 Travel Noire",
       "Popular posts"
-    ],
-    "images": {
-      "total_in_content": 8,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://cms.travelnoire.com/cdn-cgi/image/format=auto,slow-connection-quality=30,onerror=redirect/https://cms.travelnoire.com/wp-content/uploads/2025/10/GettyImages-2172157235-1568x1045.jpg",
-          "filename": "GettyImages-2172157235-1568x1045.jpg",
-          "alt": "A smiling woman sitting in a car reaches out to receive car keys, representing a positive car rental experience.",
-          "caption": "Photo Credit: Fotografía de eLuVe / Getty Images",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:31:30.703158"

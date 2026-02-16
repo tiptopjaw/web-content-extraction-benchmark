@@ -34,34 +34,7 @@
       "SUBSCRIBE or Manage Your Account",
       "Copyright © 2025 T & L Publications. All Rights Reserved",
       "Privacy Policy | Terms & Conditions"
-    ],
-    "images": {
-      "total_in_content": 42,
-      "annotated_count": 3,
-      "items": [
-        {
-          "src": "https://www.servomagazine.com/uploads/articles/SV_0110_Neal_Large.jpg",
-          "filename": "SV_0110_Neal_Large.jpg",
-          "alt": "Tips for Selecting DC Motors for Your Mobile Robot",
-          "caption": "Tips for Selecting DC Motors for Your Mobile Robot",
-          "is_hero": true
-        },
-        {
-          "src": "https://www.servomagazine.com/uploads/main/SV_0110_Neal_Figure01.jpg",
-          "filename": "SV_0110_Neal_Figure01.jpg",
-          "alt": null,
-          "caption": "Figure 1: Free body diagram of a simple robot with two front drive wheels and a rear caster",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.servomagazine.com/uploads/main/SV_0110_Neal_Figure02.jpg",
-          "filename": "SV_0110_Neal_Figure02.jpg",
-          "alt": null,
-          "caption": "Figure 2: Torque oz-in, rpm graph showing speed-torque curve from motor specification",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:54:34.084643"

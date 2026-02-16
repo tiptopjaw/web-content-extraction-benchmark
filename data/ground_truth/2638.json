@@ -35,27 +35,7 @@
       "Discord Matrix Report an issue",
       "Privacy Policy Imprint",
       "View Archive"
-    ],
-    "images": {
-      "total_in_content": 3,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "/images/Signing_of_the_Peace_Protocol_Theobald_Chartran.jpg",
-          "filename": "Signing_of_the_Peace_Protocol_Theobald_Chartran.jpg",
-          "alt": null,
-          "caption": "Signing of the Peace Protocol Between Spain and the United States, August 12, 1898, by Theobald Chartran. Signing a document, either as a witness or as a party, is an example of non-software attestation.",
-          "is_hero": true
-        },
-        {
-          "src": "/images/tamper-mesh.png",
-          "filename": "tamper-mesh.png",
-          "alt": null,
-          "caption": "A sample tamper protection system. A conductive mesh (3) is placed on the entire interior of the housing (2) of the device. A detector detects an open-circuit or short-circuit state. From patent US 2015/0097.572 A1.",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:35:27.549779"

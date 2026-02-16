@@ -20,13 +20,10 @@
     "title": "Skin Care and Repair",
     "author": null,
     "publish_date": null,
-    "main_content": "From facial wrinkles and toenail fungus to skin cancer, cellulitis, eczema, hair loss, psoriasis, rosacea, warts and more, Skin Care and Repair is the in-depth, interactive course that answers your questions and reveals the best research-backed advice for practically any skin-related concern. You'll discover practical, use-it-now advice to help treat 18 common skin conditions, identify the tell-tale signs of skin cancer and discover the best treatments, protect your skin with the most effective lotions, potions, and treatments, and get an in-depth look at the most effective cosmetic procedures. This Harvard Health Online Course is available online and self-paced, taking two weeks to complete with 2-6 hours per week of study. Upon completion, you'll receive a certificate. The course costs $29.95. Learning Objectives include Common Skin Conditions, Skin Protection: Lotions, Potions, and More, Skin Cancer, and Cosmetic Procedures. The syllabus covers Getting Started, Common Skin Conditions, Skin Cancer, Skin Protection: Lotions, Potions and More, Cosmetic Procedures, and Key Takeaways.",
+    "main_content": "From facial wrinkles and toenail fungus to skin cancer, cellulitis, eczema, hair loss, psoriasis, rosacea, warts and more, Skin Care and Repair is the in-depth, interactive course that answers your questions and reveals the best research-backed advice for practically any skin-related concern. You'll discover practical, use-it-now advice to help treat 18 common skin conditions, identify the tell-tale signs of skin cancer and discover the best treatments, protect your skin with the most effective lotions, potions, and treatments, and get an in-depth look at the most effective cosmetic procedures.",
     "with": [
       "From facial wrinkles and toenail fungus to skin cancer, cellulitis, eczema, hair loss, psoriasis, rosacea, warts and more, Skin Care and Repair is the in-depth, interactive course.",
-      "Discover the best ways to treat 18 common skin conditions, identify the tell-tale signs of skin cancer and discover the best treatments.",
-      "Learning Objectives include Common Skin Conditions, Skin Protection: Lotions, Potions, and More, Skin Cancer, and Cosmetic Procedures.",
-      "The course is online and self-paced, taking two weeks with 2-6 hours per week of study.",
-      "Upon completion, you'll receive a certificate."
+      "Discover the best ways to treat 18 common skin conditions, identify the tell-tale signs of skin cancer and discover the best treatments."
     ],
     "without": [
       "Skip to main site navigation",
@@ -34,27 +31,7 @@
       "Privacy Policy",
       "Login or Create Account",
       "Receive insights, program information, and more to your inbox."
-    ],
-    "images": {
-      "total_in_content": 4,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "/sites/default/files/styles/728x523/public/2025-05/Skin%20care.jpeg?h=2226670d&itok=T2qP7XoX",
-          "filename": "Skin%20care.jpeg",
-          "alt": "Woman touches her face while looking in the mirror. ",
-          "caption": "Woman touches her face while looking in the mirror.",
-          "is_hero": true
-        },
-        {
-          "src": "/sites/default/files/styles/scale_500x500/public/2025-04/HHPLogoWeb.png?itok=zhqLZNal",
-          "filename": "HHPLogoWeb.png",
-          "alt": "Harvard Health Publishing logo. ",
-          "caption": "Harvard Health Online Courses",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:58:07.331296"

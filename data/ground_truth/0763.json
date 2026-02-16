@@ -34,12 +34,7 @@
       "Online Learning | Admissions | Academics | Student Services | Campus Resources | Community | About ECC | ECC Rolla",
       "Menu Arrow",
       "©2025 East Central College | Employee Directory | Employment Opportunities | Event Calendar"
-    ],
-    "images": {
-      "total_in_content": 2,
-      "annotated_count": 0,
-      "items": []
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:16:01.784509"

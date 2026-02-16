@@ -25,7 +25,6 @@
       "Docker Hardened Images (DHI) is now available at no cost, bringing secure-by-default development to every team, everywhere.",
       "That's why we partnered with SRLabs, one of the world's leading cybersecurity research groups, known for uncovering high-impact vulnerabilities in highly sensitive systems.",
       "Every artifact in DHI carries SLSA Build Level 3 provenance and Cosign signatures, all anchored in transparency logs via Rekor.",
-      "After three weeks of targeted testing, SRLabs came back with a clear message: no critical vulnerabilities, no high-severity exploitation paths.",
       "By combining Independent validation, Continuous security testing and Transparent attestations and provenance, Docker is raising the baseline for what secure software supply chains should look like."
     ],
     "without": [
@@ -34,27 +33,7 @@
       "© 2025 Docker Inc. All rights reserved",
       "Privacy Policy",
       "Terms of Service"
-    ],
-    "images": {
-      "total_in_content": 9,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "https://www.docker.com/app/uploads/2025/03/image-1024x1024.png",
-          "filename": "image-1024x1024.png",
-          "alt": "Featured image",
-          "caption": "Featured image",
-          "is_hero": true
-        },
-        {
-          "src": "https://www.docker.com/app/uploads/2022/10/christian-dupius.png",
-          "filename": "christian-dupius.png",
-          "alt": null,
-          "caption": "Christian Dupuis, Senior Principal Software Engineer, Docker",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:31:51.131500"

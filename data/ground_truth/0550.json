@@ -20,13 +20,10 @@
     "title": "Cybersecurity M&A Roundup: 45 Deals Announced in October 2025",
     "author": "Eduard Kovacs",
     "publish_date": "2025-11-03",
-    "main_content": "Forty-five cybersecurity merger and acquisition (M&A) deals were announced in October 2025. Out of the 45 deals, roughly a quarter had publicly reported financial terms. A majority of deals were smaller, highly strategic acquisitions focusing on acquiring high-value tech or talent. Private equity firms were active in both large-scale buyouts and consolidation plays, showing confidence in GRC and other mature platforms. In fact, GRC companies were involved in over a dozen deals. The data shows an effort to consolidate GRC platforms, particularly through the integration of niche expertise such as third-party risk management and AI governance. Half a dozen deals involved identity and authentication firms, with several major companies looking to add next-generation features such as passwordless authentication and identity threat detection and response into their core identity platforms. While a majority of the target companies are based in the United States, a significant number of deals involve Australian companies, with several transactions pointing to consolidation within the local market. Key deals include: Dataminr acquires ThreatConnect for $290 million; Imprivata acquires Verosint; Francisco Partners to acquire Jamf for $2.2 billion; JumpCloud acquires Breez; LevelBlue acquires Cybereason; NSO Group acquired by US investors; Pentera acquires DevOcean; Ping Identity to acquire Keyless; RecordPoint acquires Redactive; Riveron acquires Eden Data; Searchlight Cyber acquires Intangic; Twilio to acquire Stytch; Vectra AI acquires Netography; Veeam Software to acquire Securiti AI for $1.725 billion.",
+    "main_content": "Forty-five cybersecurity merger and acquisition (M&A) deals were announced in October 2025. Out of the 45 deals, roughly a quarter had publicly reported financial terms. A majority of deals were smaller, highly strategic acquisitions focusing on acquiring high-value tech or talent. Private equity firms were active in both large-scale buyouts and consolidation plays, showing confidence in GRC and other mature platforms. In fact, GRC companies were involved in over a dozen deals. The data shows an effort to consolidate GRC platforms, particularly through the integration of niche expertise such as third-party risk management and AI governance. Half a dozen deals involved identity and authentication firms, with several major companies looking to add next-generation features such as passwordless authentication and identity threat detection and response into their core identity platforms. While a majority of the target companies are based in the United States, a significant number of deals involve Australian companies, with several transactions pointing to consolidation within the local market.",
     "with": [
       "Forty-five cybersecurity merger and acquisition (M&A) deals were announced in October 2025.",
-      "GRC companies were involved in over a dozen deals, showing an effort to consolidate GRC platforms.",
-      "Half a dozen deals involved identity and authentication firms, with companies adding passwordless authentication and identity threat detection.",
-      "Dataminr is acquiring threat intelligence firm ThreatConnect for $290 million in cash and equity.",
-      "Veeam Software has announced plans to acquire data security posture management company Securiti AI for $1.725 billion."
+      "Dataminr is acquiring threat intelligence firm ThreatConnect for $290 million in cash and equity."
     ],
     "without": [
       "Subscribe to the SecurityWeek Email Briefing",
@@ -34,20 +31,7 @@
       "Privacy Policy link",
       "Navigation menu items",
       "Newsletter signup form"
-    ],
-    "images": {
-      "total_in_content": 10,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://www.securityweek.com/wp-content/uploads/2024/07/2024-MA-securityweek.jpeg",
-          "filename": "2024-MA-securityweek.jpeg",
-          "alt": "2025 cybersecurity M&A",
-          "caption": "2025 cybersecurity M&A",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:23:44.314203"

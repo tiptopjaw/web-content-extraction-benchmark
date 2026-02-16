@@ -21,10 +21,9 @@
     "title": "Stanford Computer Science Grads Find Their Degrees No Longer Guarantee Jobs",
     "author": "BeauHD",
     "publish_date": "2025-12-19",
-    "main_content": "Elite computer science degrees are no longer a guaranteed on-ramp to tech jobs, as AI-driven coding tools slash demand for entry-level engineers and concentrate hiring around a small pool of already 'elite' or AI-savvy developers. The Los Angeles Times reports: 'Stanford computer science graduates are struggling to find entry-level jobs' with the most prominent tech brands, said Jan Liphardt, associate professor of bioengineering at Stanford University. 'I think that's crazy.' While the rapidly advancing coding capabilities of generative AI have made experienced engineers more productive, they have also hobbled the job prospects of early-career software engineers. Stanford students describe a suddenly skewed job market, where just a small slice of graduates -- those considered 'cracked engineers' who already have thick resumes building products and doing research -- are getting the few good jobs, leaving everyone else to fight for scraps. 'There's definitely a very dreary mood on campus,' said a recent computer science graduate who asked not to be named so they could speak freely. 'People [who are] job hunting are very stressed out, and it's very hard for them to actually secure jobs.' The shake-up is being felt across California colleges, including UC Berkeley, USC and others. A common sentiment from hiring managers is that where they previously needed ten engineers, they now only need 'two skilled engineers and one of these LLM-based agents,' which can be just as productive, said Nenad Medvidovic, a computer science professor at the University of Southern California. 'We don't need the junior developers anymore,' said Amr Awadallah, CEO of Vectara, a Palo Alto-based AI startup. 'The AI now can code better than the average junior developer that comes out of the best schools out there.'",
+    "main_content": "Elite computer science degrees are no longer a guaranteed on-ramp to tech jobs, as AI-driven coding tools slash demand for entry-level engineers and concentrate hiring around a small pool of already 'elite' or AI-savvy developers. 'I think that's crazy.' While the rapidly advancing coding capabilities of generative AI have made experienced engineers more productive, they have also hobbled the job prospects of early-career software engineers. Stanford students describe a suddenly skewed job market, where just a small slice of graduates -- those considered 'cracked engineers' who already have thick resumes building products and doing research -- are getting the few good jobs, leaving everyone else to fight for scraps. 'There's definitely a very dreary mood on campus,' said a recent computer science graduate who asked not to be named so they could speak freely. 'People [who are] job hunting are very stressed out, and it's very hard for them to actually secure jobs.' The shake-up is being felt across California colleges, including UC Berkeley, USC and others. A common sentiment from hiring managers is that where they previously needed ten engineers, they now only need 'two skilled engineers and one of these LLM-based agents,' which can be just as productive, said Nenad Medvidovic, a computer science professor at the University of Southern California. 'The AI now can code better than the average junior developer that comes out of the best schools out there.'",
     "with": [
       "Elite computer science degrees are no longer a guaranteed on-ramp to tech jobs, as AI-driven coding tools slash demand for entry-level engineers.",
-      "Stanford computer science graduates are struggling to find entry-level jobs with the most prominent tech brands.",
       "The rapidly advancing coding capabilities of generative AI have made experienced engineers more productive, they have also hobbled the job prospects of early-career software engineers.",
       "A common sentiment from hiring managers is that where they previously needed ten engineers, they now only need 'two skilled engineers and one of these LLM-based agents.'",
       "We don't need the junior developers anymore. The AI now can code better than the average junior developer that comes out of the best schools out there."
@@ -35,12 +34,7 @@
       "Follow us: RSS Facebook LinkedIn Twitter Youtube Mastodon Bluesky",
       "The Fine Print: The following comments are owned by whoever posted them.",
       "MongoDB Atlas: Multi-cloud, modern database on AWS, Azure, and Google Cloud."
-    ],
-    "images": {
-      "total_in_content": 7,
-      "annotated_count": 0,
-      "items": []
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:21:17.295915"

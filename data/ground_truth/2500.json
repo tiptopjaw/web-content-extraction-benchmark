@@ -21,7 +21,7 @@
     "title": "The 7 habits of highly ineffective agents",
     "author": "Toby Hede",
     "publish_date": "2025-11-30",
-    "main_content": "Using Claude Code to build a procedural shader starfield with multi-layer parallax in Bevy started as a fun side-quest. A Sunday afternoon diversion from the relentless complexity of orbital mechanics. Stars are basically white dots. Sites like Shadertoy are full of starfields. Every game engine on earth has shipped one. There are literal decades of prior art on 'make small white things move convincingly in the background'. How hard could it be? Pretty fucking hard, as it turns out. Two weeks, three full rewrites, and thousands of lines of planning docs and revisions. At the end, I asked Claude Code to analyse the mess. Claude's conclusion: Time waste: ~71% due to lack of discipline. Lack of discipline. I can't even. Here are the 7 habits of highly ineffective agents I encountered: Planning Theatre (Write dense and systematically wrong plans), Confidently Incorrect Architecture (Design the wrong thing in incredible detail), Context Resistance (The context is futile. You will be hallucinated), Imaginary Implementation (Works on my hallucination), Context Evasion (Treat hard constraints and instructions as optional vibes), Applied Rationalization (Explanation over implementation), and Weaponised Context (The context will continue until the code improves). The lesson isn't that agents are bad. The lesson is that moving beyond vibe engineering to Machine-Assisted Development is hard. Success eventually came by abandoning everything, copying a working implementation, and iterating. All the plans, all the revisions, all the handoff documents — none of it helped. The context wasn't a foundation. It was the debris and wreckage of a flailing process.",
+    "main_content": "Using Claude Code to build a procedural shader starfield with multi-layer parallax in Bevy started as a fun side-quest. A Sunday afternoon diversion from the relentless complexity of orbital mechanics. Stars are basically white dots. Sites like Shadertoy are full of starfields. Every game engine on earth has shipped one. How hard could it be? Pretty fucking hard, as it turns out. Two weeks, three full rewrites, and thousands of lines of planning docs and revisions. At the end, I asked Claude Code to analyse the mess. Claude's conclusion: Time waste: ~71% due to lack of discipline. Lack of discipline. I can't even. The lesson isn't that agents are bad. The lesson is that moving beyond vibe engineering to Machine-Assisted Development is hard. Success eventually came by abandoning everything, copying a working implementation, and iterating. All the plans, all the revisions, all the handoff documents - none of it helped. The context wasn't a foundation. It was the debris and wreckage of a flailing process.",
     "with": [
       "Using Claude Code to build a procedural shader starfield with multi-layer parallax in Bevy started as a fun side-quest.",
       "Claude's conclusion: Time waste: ~71% due to lack of discipline.",
@@ -35,27 +35,7 @@
       "tobyhede@GitHub",
       "Home / Blog / About navigation",
       "RSS feed subscription"
-    ],
-    "images": {
-      "total_in_content": 2,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "/_astro/pondering-the-orb.B4gb_pXU_Z21iB7k.webp",
-          "filename": "pondering-the-orb.B4gb_pXU_Z21iB7k.webp",
-          "alt": null,
-          "caption": null,
-          "is_hero": true
-        },
-        {
-          "src": "/_astro/pondering-the-cyberorb.txiNx1VQ_Z5X6Ll.webp",
-          "filename": "pondering-the-cyberorb.txiNx1VQ_Z5X6Ll.webp",
-          "alt": null,
-          "caption": null,
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:29:53.300274"

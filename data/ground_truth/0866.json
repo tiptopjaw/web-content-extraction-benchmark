@@ -34,20 +34,7 @@
       "Navigation menu items",
       "Social media links",
       "Client logo icons"
-    ],
-    "images": {
-      "total_in_content": 6,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://makeitallwork.com/wp-content/uploads/2018/11/best-mobile-apps-company-developers-nyc.jpg",
-          "filename": "best-mobile-apps-company-developers-nyc.jpg",
-          "alt": "Best Mobile Apps Company & Developers",
-          "caption": "Best Mobile Apps Company & Developers in NYC",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:49:39.914754"

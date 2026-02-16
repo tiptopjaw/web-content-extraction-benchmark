@@ -34,20 +34,7 @@
       "Privacy Policy",
       "Navigation menu item",
       "Cookie notice"
-    ],
-    "images": {
-      "total_in_content": 2,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "/blog/2025-12-17-the-pilot-has-landed/pilot_eng.png",
-          "filename": "pilot_eng.png",
-          "alt": "Draft for the preservation of museums` digital cultural heritage",
-          "caption": "Draft for the preservation of museums' digital cultural heritage",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:27:05.690415"

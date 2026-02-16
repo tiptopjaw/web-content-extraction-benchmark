@@ -34,34 +34,7 @@
       "Cookie Notice, Privacy Policy, Terms of Use links",
       "2025 S&P Global Inc. All rights reserved footer",
       "Register for demo form fields"
-    ],
-    "images": {
-      "total_in_content": 14,
-      "annotated_count": 3,
-      "items": [
-        {
-          "src": "https://pages.marketintelligence.spglobal.com/rs/565-BDO-100/images/MI-Image-Buildings-750x288-231207.png",
-          "filename": "MI-Image-Buildings-750x288-231207.png",
-          "alt": "Hero Card Banner Image",
-          "caption": null,
-          "is_hero": true
-        },
-        {
-          "src": "https://pages.marketintelligence.spglobal.com/rs/565-BDO-100/images/MI-Image-Highway-360x240-231207.png",
-          "filename": "MI-Image-Highway-360x240-231207.png",
-          "alt": "Banner Card Img",
-          "caption": null,
-          "is_hero": false
-        },
-        {
-          "src": "https://pages.marketintelligence.spglobal.com/rs/565-BDO-100/images/Global-Insurance-Solutions.png",
-          "filename": "Global-Insurance-Solutions.png",
-          "alt": "Global-Insurance-Solutions.png",
-          "caption": "Global Insurance Solutions",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:07:06.924157"

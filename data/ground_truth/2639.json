@@ -34,20 +34,7 @@
       "Log in button and navigation menu",
       "Copyright APNIC 2025",
       "Privacy Policy and terms of service"
-    ],
-    "images": {
-      "total_in_content": 8,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://blog.apnic.net/wp-content/uploads/2025/12/2025-10-28-always-dns-sign_FT-555x202.webp?v=38563d6c56940b45c37b9b70eeebe7f4f52b0e1d978da48cae60e6bcee4d9229",
-          "filename": "2025-10-28-always-dns-sign_FT-555x202.webp",
-          "alt": null,
-          "caption": "The 'it's always DNS' meme has led to 3D printed signs like this one by lowery23 on Printables.",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:35:42.630616"

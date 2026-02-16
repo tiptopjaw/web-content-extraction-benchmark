@@ -20,7 +20,7 @@
     "title": "How To Take Care of Your Oral Health",
     "author": null,
     "publish_date": null,
-    "main_content": "Problems with your teeth, gums, or other parts of the mouth can increase your risk of having some diseases or health conditions. Small steps, like seeing a dentist regularly for checkups, can help you protect your mouth and teeth and live well at any age. The A Healthy Mouth for Every Body campaign offers a variety of materials to help you and your family take good care of your oral health. Oral health topics include: Oral health for adults - Maintaining good oral health affects your well-being and quality of life. Oral health for young children - Having good oral health early in life sets your child up for good oral health as they grow. Dry mouth - Having dry mouth all or most of the time is not only uncomfortable—it can lead to serious health problems. People with HIV - Good oral health is an important part of managing HIV and your overall health. Oral health and nutrition - Consuming healthy foods and drinks can help you maintain good oral health. Oral health and pregnancy - Maintaining good oral health is important during pregnancy or if you're planning a pregnancy. Educational and promotional resources - View educational resources on the important ways to maintain good oral health. Periodontal (gum) disease is the most common cause of tooth loss among adults. It affects about 46% of adults ages 30 or older; about 9% of adults have severe periodontal disease. Between 2015 and 2018, 13% of children ages 5 to 19 in the United States had untreated cavities in their teeth. 1 in 4 adults ages 20 to 64 currently has cavities. In 2020, more than 54,000 new cases of oral cancer were diagnosed in the United States, and oral cancer led to nearly 11,000 deaths.",
+    "main_content": "Problems with your teeth, gums, or other parts of the mouth can increase your risk of having some diseases or health conditions. Small steps, like seeing a dentist regularly for checkups, can help you protect your mouth and teeth and live well at any age. The A Healthy Mouth for Every Body campaign offers a variety of materials to help you and your family take good care of your oral health. Oral health for young children - Having good oral health early in life sets your child up for good oral health as they grow. Dry mouth - Having dry mouth all or most of the time is not only uncomfortable-it can lead to serious health problems. People with HIV - Good oral health is an important part of managing HIV and your overall health. Oral health and pregnancy - Maintaining good oral health is important during pregnancy or if you're planning a pregnancy. Periodontal (gum) disease is the most common cause of tooth loss among adults. It affects about 46% of adults ages 30 or older; about 9% of adults have severe periodontal disease. Between 2015 and 2018, 13% of children ages 5 to 19 in the United States had untreated cavities in their teeth. 1 in 4 adults ages 20 to 64 currently has cavities. In 2020, more than 54,000 new cases of oral cancer were diagnosed in the United States, and oral cancer led to nearly 11,000 deaths.",
     "with": [
       "Problems with your teeth, gums, or other parts of the mouth can increase your risk of having some diseases or health conditions.",
       "Small steps, like seeing a dentist regularly for checkups, can help you protect your mouth and teeth and live well at any age.",
@@ -34,69 +34,7 @@
       "Sign up for email updates",
       "Privacy Policy",
       "Find a Medically Underserved Area"
-    ],
-    "images": {
-      "total_in_content": 9,
-      "annotated_count": 8,
-      "items": [
-        {
-          "src": "/sites/default/files/styles/uswds_hrsa_card_small/public/hrsa/hrsa-oral-health-adults.jpg?itok=oqGlJ3lL",
-          "filename": "hrsa-oral-health-adults.jpg",
-          "alt": "patient in a dentist office",
-          "caption": "Patient in a dentist office",
-          "is_hero": false
-        },
-        {
-          "src": "/sites/default/files/styles/uswds_hrsa_card_small/public/hrsa/hrsa-oral-health-children.jpg?itok=neCYpV6u",
-          "filename": "hrsa-oral-health-children.jpg",
-          "alt": "mother with daughter brushing teeth",
-          "caption": "Mother with daughter brushing teeth",
-          "is_hero": false
-        },
-        {
-          "src": "/sites/default/files/styles/uswds_hrsa_card_small/public/hrsa/hrsa-oral-health-dry-mouth.jpg?itok=wVqVKQXr",
-          "filename": "hrsa-oral-health-dry-mouth.jpg",
-          "alt": "man drinking water",
-          "caption": "Man drinking water",
-          "is_hero": false
-        },
-        {
-          "src": "/sites/default/files/styles/uswds_hrsa_card_small/public/hrsa/hrsa-oral-health-people-hiv.jpg?itok=oNx7IXag",
-          "filename": "hrsa-oral-health-people-hiv.jpg",
-          "alt": "group of people smiling",
-          "caption": "Group of people smiling",
-          "is_hero": false
-        },
-        {
-          "src": "/sites/default/files/styles/uswds_hrsa_card_small/public/hrsa/oral-health/hrsa-oral-health-nutrition.jpg?itok=Pofg-e4x",
-          "filename": "hrsa-oral-health-nutrition.jpg",
-          "alt": "Child standing in front of an open refrigerator holding bottled water.",
-          "caption": "Child standing in front of an open refrigerator holding bottled water",
-          "is_hero": false
-        },
-        {
-          "src": "/sites/default/files/styles/uswds_hrsa_card_small/public/hrsa/oral-health/hrsa-oral-health-pregnancy.jpg?itok=IW0QYxeJ",
-          "filename": "hrsa-oral-health-pregnancy.jpg",
-          "alt": "Child laying her head on a mother's pregnant stomach.",
-          "caption": "Child laying her head on a mother's pregnant stomach",
-          "is_hero": false
-        },
-        {
-          "src": "/sites/default/files/styles/uswds_hrsa_card_small/public/hrsa/hrsa-oral-health-educational-materials.jpg?itok=JvistBlG",
-          "filename": "hrsa-oral-health-educational-materials.jpg",
-          "alt": "list of pamphlets",
-          "caption": "List of pamphlets",
-          "is_hero": false
-        },
-        {
-          "src": "/sites/default/files/hrsa/oral-health/pie-chart-210x210.png",
-          "filename": "pie-chart-210x210.png",
-          "alt": "Around 46 percent of adults have periodontal disease.",
-          "caption": "Around 46 percent of adults have periodontal disease",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:13:18.683989"

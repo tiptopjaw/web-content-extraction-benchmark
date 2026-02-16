@@ -20,7 +20,7 @@
     "title": "Individual Health – Family Medical Insurance | bcbs.com | Blue Cross Blue Shield",
     "author": null,
     "publish_date": null,
-    "main_content": "Individual & Family Health Plans. We understand choosing the right health insurance for you and your family is an important decision. Let us help you find the individual or family health insurance plan that's right for you. Visit your local Blue Cross and Blue Shield (BCBS) company website to explore your coverage options. Find the Local Health Insurance Option That Meets Your Needs. BCBS has been a trusted provider for 90+ years. We've taken care of families just like yours all across the country. Enter your ZIP Code and let us help you find the insurance plan that's right for you. Distinguished Health Care. Blue Distinction® Specialty Care programs help connect you with high quality doctors and hospitals that provide exceptional patient care. Feel confident in your health plan choice, knowing you're getting quality care that's right for you. Member Discounts. BCBS members have access to exclusive discounts on health and wellness products and services. Need Global Coverage? Blue Cross Blue Shield Global Solutions℠ provides a full range of health care coverage solutions for people who live, work and travel internationally.",
+    "main_content": "We understand choosing the right health insurance for you and your family is an important decision. Let us help you find the individual or family health insurance plan that's right for you. Visit your local Blue Cross and Blue Shield (BCBS) company website to explore your coverage options. Find the Local Health Insurance Option That Meets Your Needs. BCBS has been a trusted provider for 90+ years. We've taken care of families just like yours all across the country. Enter your ZIP Code and let us help you find the insurance plan that's right for you. Blue Distinction® Specialty Care programs help connect you with high quality doctors and hospitals that provide exceptional patient care. Feel confident in your health plan choice, knowing you're getting quality care that's right for you. Member Discounts. BCBS members have access to exclusive discounts on health and wellness products and services. Need Global Coverage? Blue Cross Blue Shield Global Solutions℠ provides a full range of health care coverage solutions for people who live, work and travel internationally.",
     "with": [
       "We understand choosing the right health insurance for you and your family is an important decision.",
       "BCBS has been a trusted provider for 90+ years.",
@@ -34,20 +34,7 @@
       "Privacy Policy | Terms & Conditions | Cookie Policy",
       "Follow us on Facebook, LinkedIn, Instagram, Twitter",
       "Find a Doctor | Member Resources | Contact"
-    ],
-    "images": {
-      "total_in_content": 4,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "/dA/d850e4133496c4d28ee7957b32d58553/100q",
-          "filename": "100q",
-          "alt": "Individual & Family Health Plans",
-          "caption": "Individual & Family Health Plans",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:20:28.514092"

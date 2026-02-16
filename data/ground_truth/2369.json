@@ -21,7 +21,7 @@
     "title": "Scalable End-to-End Interpretability",
     "author": "jsteinhardt",
     "publish_date": "2025-12-18",
-    "main_content": "There is currently somewhat of a debate in the interpretability community between pragmatic interpretability---grounding problems in empirically measurable safety tasks---and ambitious interpretability---obtaining a full bottom-up understanding of neural networks. In my mind, these both get at something important but also both miss something. I think a better approach is what I'll call scalable end-to-end interpretability. In this approach, we train end-to-end AI assistants to do interpretability for us, in such a way that the results are still useful to humans. The learned assistant is 'ambitious': the AI assistant itself is incentivized to have a complete understanding of the model it is interpreting, and presumably should obtain that understanding in the limit of large-data, large-model limit. The assistant's outputs are 'pragmatic': answering questions that a human poses that are often empirically verifiable. The communication bottleneck grounds the 'pragmatic' responses in the 'ambitious' understanding. Sparse features aren't good because they solve superposition; they are good because they are inspectable by humans. We should be optimizing agents to help humans understand models. End-to-end interpretability feels to me like the right way to approach interpretability: it gives us grounded measures of progress, it still ties things back to latent states in a direct way. In summary: instead of training superhuman AGI, let's train specialized, superhuman interpretability assistants!",
+    "main_content": "There is currently somewhat of a debate in the interpretability community between pragmatic interpretability---grounding problems in empirically measurable safety tasks---and ambitious interpretability---obtaining a full bottom-up understanding of neural networks. In my mind, these both get at something important but also both miss something. I think a better approach is what I'll call scalable end-to-end interpretability. In this approach, we train end-to-end AI assistants to do interpretability for us, in such a way that the results are still useful to humans. The learned assistant is 'ambitious': the AI assistant itself is incentivized to have a complete understanding of the model it is interpreting, and presumably should obtain that understanding in the limit of large-data, large-model limit. Sparse features aren't good because they solve superposition; they are good because they are inspectable by humans. We should be optimizing agents to help humans understand models. End-to-end interpretability feels to me like the right way to approach interpretability: it gives us grounded measures of progress, it still ties things back to latent states in a direct way. In summary: instead of training superhuman AGI, let's train specialized, superhuman interpretability assistants!",
     "with": [
       "There is currently somewhat of a debate in the interpretability community between pragmatic interpretability---grounding problems in empirically measurable safety tasks---and ambitious interpretability---obtaining a full bottom-up understanding of neural networks.",
       "I think a better approach is what I'll call scalable end-to-end interpretability. In this approach, we train end-to-end AI assistants to do interpretability for us, in such a way that the results are still useful to humans.",
@@ -35,12 +35,7 @@
       "Frontpage",
       "3 min read",
       "2 comments, sorted by top scoring"
-    ],
-    "images": {
-      "total_in_content": 0,
-      "annotated_count": 0,
-      "items": []
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:51:08.412483"

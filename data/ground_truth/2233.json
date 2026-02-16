@@ -34,27 +34,7 @@
       "Stack Exchange network consists of 183 Q&A communities",
       "Bring the best of human thought and AI automation together at your work",
       "Viewed 4,306 times"
-    ],
-    "images": {
-      "total_in_content": 3,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "https://i.sstatic.net/gd7Fi.png",
-          "filename": "gd7Fi.png",
-          "alt": "round trip",
-          "caption": "round trip",
-          "is_hero": true
-        },
-        {
-          "src": "https://i.sstatic.net/gfeZ1.png",
-          "filename": "gfeZ1.png",
-          "alt": "one way",
-          "caption": "one way",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:14:35.050719"

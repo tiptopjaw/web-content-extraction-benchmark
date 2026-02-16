@@ -34,20 +34,7 @@
       "Privacy Policy",
       "https://utilitypartners.com/",
       "Facebook-f"
-    ],
-    "images": {
-      "total_in_content": 5,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://utilitypartners.com/wp-content/uploads/2022/11/UPA-Blog-900x.jpg",
-          "filename": "UPA-Blog-900x.jpg",
-          "alt": null,
-          "caption": null,
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:57:37.794705"

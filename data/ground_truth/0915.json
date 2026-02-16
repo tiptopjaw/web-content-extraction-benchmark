@@ -34,76 +34,7 @@
       "Make an Appointment",
       "Return to all Blog",
       "Privacy Policy | Powered by Epic Web Studios"
-    ],
-    "images": {
-      "total_in_content": 11,
-      "annotated_count": 9,
-      "items": [
-        {
-          "src": "https://www.kneibdentistry.com/image/scale/400/400/news/1718117508-kneib-dentistry-june-blog-2024.jpg",
-          "filename": "1718117508-kneib-dentistry-june-blog-2024.jpg",
-          "alt": null,
-          "caption": "Featured image showing dental care theme",
-          "is_hero": true
-        },
-        {
-          "src": "https://www.kneibdentistry.com/uploads/kneib-manual-toothbrush.jpg",
-          "filename": "kneib-manual-toothbrush.jpg",
-          "alt": "green manual toothbrush best oral hygiene products kneib dentistry ",
-          "caption": "Green manual toothbrush best oral hygiene products",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.kneibdentistry.com/uploads/kneib-electric-toothbrush.jpg",
-          "filename": "kneib-electric-toothbrush.jpg",
-          "alt": "electric toothbrush best oral hygiene products kneib dentistry",
-          "caption": "Electric toothbrush best oral hygiene products",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.kneibdentistry.com/uploads/kneib-toothpaste.jpg",
-          "filename": "kneib-toothpaste.jpg",
-          "alt": "person putting toothpaste on toothbrush best oral hygiene products kneib dentistry",
-          "caption": "Person putting toothpaste on toothbrush",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.kneibdentistry.com/uploads/kneib-dental-floss.jpg",
-          "filename": "kneib-dental-floss.jpg",
-          "alt": "person using dental floss pick best oral hygiene products kneib dentistry",
-          "caption": "Person using dental floss pick",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.kneibdentistry.com/uploads/kneib-mouthwash.jpg",
-          "filename": "kneib-mouthwash.jpg",
-          "alt": "man pouring mouthwash kneib dentistry best oral hygiene products",
-          "caption": "Man pouring mouthwash",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.kneibdentistry.com/uploads/kneib-interdental-brush.jpg",
-          "filename": "kneib-interdental-brush.jpg",
-          "alt": "woman using interdental brush to clean braces kneib dentistry best oral hygiene products",
-          "caption": "Woman using interdental brush to clean braces",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.kneibdentistry.com/uploads/kneib-teeth-whitening.jpg",
-          "filename": "kneib-teeth-whitening.jpg",
-          "alt": "hands holding up teeth whitening gel and trays best oral hygiene products kneib dentistry",
-          "caption": "Hands holding teeth whitening gel and trays",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.kneibdentistry.com/uploads/kneib-dental-care-products.jpg",
-          "filename": "kneib-dental-care-products.jpg",
-          "alt": "dental care products lined up kneib dentistry best oral hygiene products",
-          "caption": "Dental care products lined up",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:07:59.062429"

@@ -20,7 +20,7 @@
     "title": "Green Gifts for Gardeners",
     "author": "Arlene Marturano",
     "publish_date": "2025-12-18",
-    "main_content": "It's the final countdown to Christmas and the pressure is on to find the perfect presents for the gardeners on your list. Fear not, for below is a list of green gifts that any gardener will appreciate. For the herb gardener who needs to quickly cut, snip, and mince herbs without a knife or cutting board, order a Multi-block Herb Scissors from Johnny's Seeds at www.johnnyseeds.com. A garden journal or botanic diary with plenty of space to record weekly to-do lists, planting dates, weather patterns, pest control, sketches, and notes becomes a living archive of the joys and challenges of one's gardening journey. One gift I recently received was a garden sheath, a streamlined leather holster that keeps essential tools close at hand when I need them. It keeps one from losing tools while the garden and attaches as a belt. Grip 'n Grab is a long handled reacher for picking up yard waste including limbs, leaves, weeds, gum balls, and pine cones. It can also pick ripe fruit on high branches. Womanswork sells men's and women's work gloves for digging, weeding, and beekeeping. The company also carries hand soaps and creams and shea butter muscle rubs to soothe achy joints and muscles. In February, gardeners start seeds of tomatoes indoors. Burpee and Park Seed offer alternative methods for seed starting. Burpee Organic Seed Starting mix is made from natural coir rather than unsustainable and nonrenewable sphagnum moss for starting vegetable, herb, and flower seeds. Park Seed offers two methods for seed starting— the Bio Dome seed starter mini-greenhouse and the Sow Effortless Collection of seed tapes, seed mats, and seed discs. I happened upon a neighbor standing up weeding her lawn. She was using the original Grampa's Weeder stand up tool with long handle first manufactured in 1913. The tool allows you to extract weeds and their roots without bending, kneeling, pulling or using chemicals. Shop Grampa's Gardenware at grampasweeder.com. Every gardener loves garden books. Jenks Farmer, plantsman, crinum farmer, garden designer, and author's latest book Secrets of Southern Gardening— Pro Tips for Success reframes how to think about gardens and gardening in the six seasons of the South with the imperfect USDA hardiness zones, underground invisible workforce, and planting techniques for annuals, perennials, shrubs, trees, and bulbs. He questions native vs. non-native plant choices and makes one aware of plant marketing designed to sell not necessarily to succeed. Most gardeners work outdoors by day, but Farmer has an entire chapter on Gardening at Night... what to see, hear, and smell as well as plants and animals active at night. Visit Margaret Roach's podcast on Farmer's book at awaytogarden.com/planting-and-watering-wisdom-from-jenks-farmers-new-book. For the child gardener in all of us, Unique Gardener has nature themed terrariums: a Dinosaur Domain, Carnivorous Creatures, Desert Plant Collection, and Crazy Cat Plant Selection. Let us hear about your favorite green gift this holiday season.",
+    "main_content": "It's the final countdown to Christmas and the pressure is on to find the perfect presents for the gardeners on your list. Fear not, for below is a list of green gifts that any gardener will appreciate. For the herb gardener who needs to quickly cut, snip, and mince herbs without a knife or cutting board, order a Multi-block Herb Scissors from Johnny's Seeds at www.johnnyseeds.com. A garden journal or botanic diary with plenty of space to record weekly to-do lists, planting dates, weather patterns, pest control, sketches, and notes becomes a living archive of the joys and challenges of one's gardening journey. One gift I recently received was a garden sheath, a streamlined leather holster that keeps essential tools close at hand when I need them. Grip 'n Grab is a long handled reacher for picking up yard waste including limbs, leaves, weeds, gum balls, and pine cones. It can also pick ripe fruit on high branches. The company also carries hand soaps and creams and shea butter muscle rubs to soothe achy joints and muscles. In February, gardeners start seeds of tomatoes indoors. Burpee and Park Seed offer alternative methods for seed starting. Burpee Organic Seed Starting mix is made from natural coir rather than unsustainable and nonrenewable sphagnum moss for starting vegetable, herb, and flower seeds. Park Seed offers two methods for seed starting— the Bio Dome seed starter mini-greenhouse and the Sow Effortless Collection of seed tapes, seed mats, and seed discs. I happened upon a neighbor standing up weeding her lawn. She was using the original Grampa's Weeder stand up tool with long handle first manufactured in 1913. The tool allows you to extract weeds and their roots without bending, kneeling, pulling or using chemicals. Shop Grampa's Gardenware at grampasweeder.com. Every gardener loves garden books. Jenks Farmer, plantsman, crinum farmer, garden designer, and author's latest book Secrets of Southern Gardening— Pro Tips for Success reframes how to think about gardens and gardening in the six seasons of the South with the imperfect USDA hardiness zones, underground invisible workforce, and planting techniques for annuals, perennials, shrubs, trees, and bulbs. He questions native vs. non-native plant choices and makes one aware of plant marketing designed to sell not necessarily to succeed. Most gardeners work outdoors by day, but Farmer has an entire chapter on Gardening at Night... what to see, hear, and smell as well as plants and animals active at night. Visit Margaret Roach's podcast on Farmer's book at awaytogarden.com/planting-and-watering-wisdom-from-jenks-farmers-new-book. For the child gardener in all of us, Unique Gardener has nature themed terrariums: a Dinosaur Domain, Carnivorous Creatures, Desert Plant Collection, and Crazy Cat Plant Selection. Let us hear about your favorite green gift this holiday season.",
     "with": [
       "For the herb gardener who needs to quickly cut, snip, and mince herbs without a knife or cutting board, order a Multi-block Herb Scissors from Johnny's Seeds.",
       "A garden journal or botanic diary with plenty of space to record weekly to-do lists, planting dates, weather patterns, pest control, sketches, and notes becomes a living archive of the joys and challenges of one's gardening journey.",
@@ -34,34 +34,7 @@
       "Newspaper website content management software and services",
       "Loading Comments spinner element",
       "Columbia's locally owned weekly newspaper since 1963"
-    ],
-    "images": {
-      "total_in_content": 6,
-      "annotated_count": 3,
-      "items": [
-        {
-          "src": "https://www.thecolumbiastar.com/wp-content/uploads/images/2025-12-19/39p1-265x300.jpg",
-          "filename": "39p1-265x300.jpg",
-          "alt": "Garden Diary",
-          "caption": "Garden Diary",
-          "is_hero": true
-        },
-        {
-          "src": "https://www.thecolumbiastar.com/wp-content/uploads/images/2025-12-19/39p3-300x268.jpg",
-          "filename": "39p3-300x268.jpg",
-          "alt": "Leather holster",
-          "caption": "Leather holster",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.thecolumbiastar.com/wp-content/uploads/images/2025-12-19/39p4-300x235.jpg",
-          "filename": "39p4-300x235.jpg",
-          "alt": "Grampa’s Weeder",
-          "caption": "Grampa's Weeder",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:18:53.591738"

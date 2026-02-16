@@ -34,12 +34,7 @@
       "Social sharing buttons",
       "Related blog posts sidebar",
       "Login and navigation menu"
-    ],
-    "images": {
-      "total_in_content": 4,
-      "annotated_count": 0,
-      "items": []
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:57:39.386132"

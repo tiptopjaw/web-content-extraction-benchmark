@@ -20,7 +20,7 @@
     "title": "Backup Strategy",
     "author": "Kaufman, Jeff T.",
     "publish_date": "2019-01-22",
-    "main_content": "After reading a post from someone who nearly lost all their data to a joint NAS and external hard drive failure I decided to think through my data durability. Most of my stuff lives in the cloud: email on Gmail, docs in Google Docs, photos in Google Photos, data in Google Drive. I trust Google a lot for this sort of thing, both given their public reputation and as an employee. I think Google is extremely unlikely to lose or corrupt my data. The next biggest place where I have things is on the server that runs jefftk.com. I back this up to my laptop with a cronjob that runs rsync commands to sync my websites, home directory, and /etc to ~/Google Drive. I also have a cronjob set up to run twice a month that backs up the comments on my blog posts. Everything on my laptop is temporary, and anything important is under ~/Google Drive. The main weakness in this setup is its dependency on Drive: accidental deletions could sync up, or losing access to my Google account would be a disaster. I think both of these are too unlikely to be worth mitigating though. They could happen, but they're much less likely than the sort of failure (~1%/year) that you're trying to avoid by backing things up.",
+    "main_content": "After reading a post from someone who nearly lost all their data to a joint NAS and external hard drive failure I decided to think through my data durability. Most of my stuff lives in the cloud: email on Gmail, docs in Google Docs, photos in Google Photos, data in Google Drive. I trust Google a lot for this sort of thing, both given their public reputation and as an employee. I think Google is extremely unlikely to lose or corrupt my data. The next biggest place where I have things is on the server that runs jefftk.com. I also have a cronjob set up to run twice a month that backs up the comments on my blog posts. Everything on my laptop is temporary, and anything important is under ~/Google Drive. I think both of these are too unlikely to be worth mitigating though. They could happen, but they're much less likely than the sort of failure (~1%/year) that you're trying to avoid by backing things up.",
     "with": [
       "After reading a post from someone who nearly lost all their data to a joint NAS and external hard drive failure I decided to think through my data durability.",
       "Most of my stuff lives in the cloud: email on Gmail, docs in Google Docs, photos in Google Photos, data in Google Drive.",
@@ -34,12 +34,7 @@
       "Privacy Policy",
       "RSS",
       "Copyright"
-    ],
-    "images": {
-      "total_in_content": 0,
-      "annotated_count": 0,
-      "items": []
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:06:15.044178"

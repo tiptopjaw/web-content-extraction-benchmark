@@ -34,20 +34,7 @@
       "I use affiliate links where I can, to keep reviewing sustainable!",
       "December 2025",
       "Share on Twitter"
-    ],
-    "images": {
-      "total_in_content": 6,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://idlecartulary.com/wp-content/uploads/2025/12/image-4.png?w=1024",
-          "filename": "image-4.png",
-          "alt": null,
-          "caption": null,
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:29:29.125994"

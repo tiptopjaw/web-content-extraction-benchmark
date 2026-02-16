@@ -34,12 +34,7 @@
       "Follow us on Facebook, Twitter, YouTube, LinkedIn",
       "Free Case Evaluation - Submit this form",
       "Sitemap | Privacy Policy"
-    ],
-    "images": {
-      "total_in_content": 19,
-      "annotated_count": 0,
-      "items": []
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:25:20.563404"

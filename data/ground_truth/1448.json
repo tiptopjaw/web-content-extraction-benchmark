@@ -34,48 +34,7 @@
       "Your cart is empty - Continue shopping",
       "QCY Official Logo",
       "United States Flag - Spanish Flag"
-    ],
-    "images": {
-      "total_in_content": 50,
-      "annotated_count": 5,
-      "items": [
-        {
-          "src": "//www.qcy.com/cdn/shop/files/black_06_90b89af2-1b9f-4b66-936f-5b44af652f6c_2048x2048.png?v=1755675548",
-          "filename": "black_06_90b89af2-1b9f-4b66-936f-5b44af652f6c_2048x2048.png",
-          "alt": null,
-          "caption": "QCY MeloBuds N70",
-          "is_hero": false
-        },
-        {
-          "src": "//www.qcy.com/cdn/shop/files/HT19_04_2048x2048.png?v=1765356840",
-          "filename": "HT19_04_2048x2048.png",
-          "alt": null,
-          "caption": "QCY MeloBuds N60",
-          "is_hero": false
-        },
-        {
-          "src": "//www.qcy.com/cdn/shop/files/01_e1a505d9-3849-4a73-9b6f-8a3a1730d6f3_2048x2048.png?v=1751521391",
-          "filename": "01_e1a505d9-3849-4a73-9b6f-8a3a1730d6f3_2048x2048.png",
-          "alt": null,
-          "caption": "QCY T13 ANC",
-          "is_hero": false
-        },
-        {
-          "src": "//www.qcy.com/cdn/shop/files/HT10_6839c2b7-7b13-4ebc-904c-2aba51eaf178_2048x2048.png?v=1733993502",
-          "filename": "HT10_6839c2b7-7b13-4ebc-904c-2aba51eaf178_2048x2048.png",
-          "alt": null,
-          "caption": "QCY AilyBuds Pro+",
-          "is_hero": false
-        },
-        {
-          "src": "//www.qcy.com/cdn/shop/files/01_09f4dab1-7b63-4bd9-b59b-576a2c561cac_2048x2048.png?v=1735641518",
-          "filename": "01_09f4dab1-7b63-4bd9-b59b-576a2c561cac_2048x2048.png",
-          "alt": null,
-          "caption": "QCY HT05 (MeloBuds ANC)",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:26:47.717901"

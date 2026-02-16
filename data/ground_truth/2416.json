@@ -34,20 +34,7 @@
       "Menu item - Home",
       "Search for:",
       "Betify Casino Guide Expert Développements Disponibles"
-    ],
-    "images": {
-      "total_in_content": 11,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://www.motorward.com/wp-content/images/2018/11/car-repair-730x486.jpg",
-          "filename": "car-repair-730x486.jpg",
-          "alt": "car repair 730x486 at Cheap Fixes Are the Best!",
-          "caption": "V8 Supercharged car engine and spanner",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:14:26.028161"

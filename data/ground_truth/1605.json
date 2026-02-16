@@ -34,27 +34,7 @@
       "Privacy Policy link",
       "Navigation menu items",
       "Social media links"
-    ],
-    "images": {
-      "total_in_content": 3,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "https://dlr.skift.com/wp-content/uploads/2025/12/oyalton-Riviera-Cancun-An-Autograph-Collection-All-Inclusive-Resort-and-Casino.jpg?w=1024",
-          "filename": "oyalton-Riviera-Cancun-An-Autograph-Collection-All-Inclusive-Resort-and-Casino.jpg",
-          "alt": "aerial view of a sunny all-inclusive resort",
-          "caption": "aerial view of a sunny all-inclusive resort",
-          "is_hero": true
-        },
-        {
-          "src": "https://dlr.skift.com/wp-content/uploads/2025/12/Miraval-the-Red-Sea-exterior-at-sunrise.jpg?w=1024",
-          "filename": "Miraval-the-Red-Sea-exterior-at-sunrise.jpg",
-          "alt": "image of a luxury resort exterior at sunrise",
-          "caption": "image of a luxury resort exterior at sunrise",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:28:49.303462"

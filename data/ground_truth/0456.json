@@ -34,41 +34,7 @@
       "In-Home or Video Quotes Available",
       "Call (800) 242-6102",
       "Residential Movers services navigation"
-    ],
-    "images": {
-      "total_in_content": 15,
-      "annotated_count": 4,
-      "items": [
-        {
-          "src": "https://cmsplatform.blob.core.windows.net/wwwnewjerseymoversnjcom/gallery/medium/61c8cdf4-9de8-461a-aefe-14519be7586d.jpg",
-          "filename": "61c8cdf4-9de8-461a-aefe-14519be7586d.jpg",
-          "alt": "Residential Moving Photo 1",
-          "caption": null,
-          "is_hero": true
-        },
-        {
-          "src": "https://cmsplatform.blob.core.windows.net/wwwnewjerseymoversnjcom/gallery/thumbs/390a6e71-f63a-46a6-88e9-0dc8bf9fd991.jpg",
-          "filename": "390a6e71-f63a-46a6-88e9-0dc8bf9fd991.jpg",
-          "alt": "Residential Moving Photo 2",
-          "caption": null,
-          "is_hero": false
-        },
-        {
-          "src": "https://cmsplatform.blob.core.windows.net/wwwnewjerseymoversnjcom/gallery/thumbs/ddd991d0-7f57-41f5-91c1-02e3111aa042.jpg",
-          "filename": "ddd991d0-7f57-41f5-91c1-02e3111aa042.jpg",
-          "alt": "Residential Moving Photo 3",
-          "caption": null,
-          "is_hero": false
-        },
-        {
-          "src": "https://cmsplatform.blob.core.windows.net/wwwnewjerseymoversnjcom/gallery/thumbs/a3d72c93-c9b2-4762-adeb-66ccce25926f.jpg",
-          "filename": "a3d72c93-c9b2-4762-adeb-66ccce25926f.jpg",
-          "alt": "Residential Moving Photo 4",
-          "caption": null,
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:39:55.110280"

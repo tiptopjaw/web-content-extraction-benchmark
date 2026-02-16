@@ -34,48 +34,7 @@
       "Privacy Policy link",
       "Main navigation menu items",
       "Sign in to Skills button"
-    ],
-    "images": {
-      "total_in_content": 8,
-      "annotated_count": 5,
-      "items": [
-        {
-          "src": "/content/dam/ps/blog/migration/app/uploads/2020/12/TRU4LMCEA-URS1WGV8Q-870a6b761288-512.png",
-          "filename": "TRU4LMCEA-URS1WGV8Q-870a6b761288-512.png",
-          "alt": "Scott Pletcher",
-          "caption": "Scott Pletcher",
-          "is_hero": false
-        },
-        {
-          "src": "/content/dam/ps/blog/migration/app/uploads/2022/01/blog-header-cloud-comparison.jpg",
-          "filename": "blog-header-cloud-comparison.jpg",
-          "alt": "Please set an alt value for this image...",
-          "caption": null,
-          "is_hero": true
-        },
-        {
-          "src": "/content/dam/ps/blog/migration/app/uploads/2020/08/keys.png",
-          "filename": "keys.png",
-          "alt": "Keys",
-          "caption": "Your keys to a better career",
-          "is_hero": false
-        },
-        {
-          "src": "/content/dam/ps/blog/migration/app/uploads/2020/12/Cloud-Dictionary-Resource-Image.jpg",
-          "filename": "Cloud-Dictionary-Resource-Image.jpg",
-          "alt": "Cloud Dictionary",
-          "caption": "Get the Cloud Dictionary of Pain",
-          "is_hero": false
-        },
-        {
-          "src": "/content/dam/ps/blog/migration/app/uploads/2021/03/Cloud-Hiring.jpg",
-          "filename": "Cloud-Hiring.jpg",
-          "alt": null,
-          "caption": "WATCH: Solving The \"No Experience\" Cloud Hiring Problem",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:33:53.051797"

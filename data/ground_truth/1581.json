@@ -34,27 +34,7 @@
       "Social share buttons for Facebook, Twitter, LinkedIn",
       "Subscribe form in sidebar",
       "Mobile navigation menu"
-    ],
-    "images": {
-      "total_in_content": 6,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "https://lh4.googleusercontent.com/DcDAJoPyWERNcBsZ1fvsWmzuaw3735DGhE2oSbGYr7bQJOWjHgirukwiBbl2M0QneXi5tTtn_SPc8um_-hld54hCkA0bnZ5z3kjNzHVwHd4JUo9sxgFjiRtMEafY_3fenQw1__RH",
-          "filename": "DcDAJoPyWERNcBsZ1fvsWmzuaw3735DGhE2oSbGYr7bQJOWjHgirukwiBbl2M0QneXi5tTtn_SPc8um_-hld54hCkA0bnZ5z3kjNzHVwHd4JUo9sxgFjiRtMEafY_3fenQw1__RH",
-          "alt": null,
-          "caption": "PPR pipes with internal beading during heat welding",
-          "is_hero": false
-        },
-        {
-          "src": "https://lh6.googleusercontent.com/WbeQV0SADWGh_zlJ97y1nrYY3hVphfLAr1p_iDwAzjiB1TjCt-PiDN0uy-AnpC3j45msEty8AuIROlSge1QzFFBTySOeBDH5XtqGzYhwjVW1c4M1kDPvs9SarHaGXx9oAID6bitF",
-          "filename": "WbeQV0SADWGh_zlJ97y1nrYY3hVphfLAr1p_iDwAzjiB1TjCt-PiDN0uy-AnpC3j45msEty8AuIROlSge1QzFFBTySOeBDH5XtqGzYhwjVW1c4M1kDPvs9SarHaGXx9oAID6bitF",
-          "alt": null,
-          "caption": "PEX pipe installation showing cross-linked polyethylene",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:23:36.296885"

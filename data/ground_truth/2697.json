@@ -26,7 +26,6 @@
       "Benjamin Moseley, eighteenth-century physician and early anti-vaxxer, offers an origin story for coffee culture in the expanded fifth edition of his Treatise Concerning the Properties and Effects of Coffee (1792).",
       "One night a Yemeni goat herder found his flock restless. They would not sleep, but 'jumped and frisked about as if they had been infatuated'.",
       "Moseley was the eighteenth-century precursor to today's third-wave connoisseur.",
-      "It 'accelerates the process of digestion', affects 'the gastric powers', and 'diffuses a genial warmth that cherishes the animal spirits, and takes away the listlessness and languor'.",
       "Most of the defense of coffee serves his argument that the British Empire should fund plantations in the West Indies and lighten taxation to drive down market competition."
     ],
     "without": [
@@ -35,20 +34,7 @@
       "Privacy Policy",
       "Support PDR",
       "Follow Us"
-    ],
-    "images": {
-      "total_in_content": 10,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://pdr-assets.b-cdn.net/collections/moseley-coffee/rowlandson-mad-dog.jpg?width=1200&height=850",
-          "filename": "rowlandson-mad-dog.jpg",
-          "alt": "Hand-coloured etching of coffee house",
-          "caption": "Thomas Rowlandson, A Mad Dog in a Coffee House, hand-coloured etching, ca. 1800.",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:16:08.683179"

@@ -33,27 +33,7 @@
       "Terms & Conditions | Privacy Policy",
       "Acceptance and Commitment Therapy (ACT) | Cognitive Behavioral Therapy (CBT) | Dialectical Behavior Therapy (DBT)",
       "Recent Articles | Categories | Related Posts"
-    ],
-    "images": {
-      "total_in_content": 12,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "https://cdn.prod.website-files.com/66b658d7e612a0ad2d4a84fc/66d24ca49639eda39656b252_mental-health-trends-featured-image.jpeg",
-          "filename": "66d24ca49639eda39656b252_mental-health-trends-featured-image.jpeg",
-          "alt": null,
-          "caption": null,
-          "is_hero": true
-        },
-        {
-          "src": "https://cdn.prod.website-files.com/66b658d7e612a0ad2d4a84fc/66d24ca49639eda39656b27c_mental-health-trends-banner.jpeg",
-          "filename": "66d24ca49639eda39656b27c_mental-health-trends-banner.jpeg",
-          "alt": "a visualization of holistic and digital mental health trends",
-          "caption": "a visualization of holistic and digital mental health trends",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:00:21.697248"

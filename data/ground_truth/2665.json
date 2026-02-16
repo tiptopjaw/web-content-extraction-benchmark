@@ -24,8 +24,7 @@
       "And finally… trouble brewing",
       "New research from The Federation of Master Builders (FMB) shows less than half of homeowners aren't offering their builder a hot drink",
       "The research found that 42% of homeowners don't offer their builder a brew",
-      "The CIOB reports 94% of construction workers experienced stress in the past year",
-      "Brian Berry, chief executive of the FMB, said: 'The mental health pressures facing builders are significant all year round'"
+      "The CIOB reports 94% of construction workers experienced stress in the past year"
     ],
     "without": [
       "Scottish Construction Summit",
@@ -33,20 +32,7 @@
       "Cookies",
       "© Dundee Press Agency Ltd 2025",
       "Privacy Policy"
-    ],
-    "images": {
-      "total_in_content": 44,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://www.scottishconstructionnow.com/uploads/coffee.jpg",
-          "filename": "coffee.jpg",
-          "alt": "And finally... trouble brewing",
-          "caption": null,
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:05:59.009782"

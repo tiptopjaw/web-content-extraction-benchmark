@@ -35,41 +35,7 @@
       "All the excellent music we've covered at tQ this month will be compiled into an hours-long playlist exclusive to our subscribers",
       "To sign up for all those benefits, and to help us keep bringing you the kind of music you're about to read about below, you can click here",
       "Privacy Policy | Terms and Conditions | Copyright The Quietus"
-    ],
-    "images": {
-      "total_in_content": 35,
-      "annotated_count": 4,
-      "items": [
-        {
-          "src": "https://thequietus.com/app/uploads/2025/12/Untitled-1024x650.jpg",
-          "filename": "Untitled-1024x650.jpg",
-          "alt": null,
-          "caption": null,
-          "is_hero": true
-        },
-        {
-          "src": "https://thequietus.com/app/uploads/2025/10/The-Keep-main-500x500.jpg",
-          "filename": "The-Keep-main-500x500.jpg",
-          "alt": null,
-          "caption": "The-Keep album artwork",
-          "is_hero": false
-        },
-        {
-          "src": "https://thequietus.com/app/uploads/2025/10/Another-green-world-500x500.jpg",
-          "filename": "Another-green-world-500x500.jpg",
-          "alt": null,
-          "caption": "Another-green-world album artwork",
-          "is_hero": false
-        },
-        {
-          "src": "https://thequietus.com/app/uploads/2025/10/image-4-500x500.jpg",
-          "filename": "image-4-500x500.jpg",
-          "alt": null,
-          "caption": "image-4 album artwork",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:27:37.936432"

@@ -33,34 +33,7 @@
       "Tag cloud with various blog tags",
       "Footer with social media links",
       "RSS feed subscription link"
-    ],
-    "images": {
-      "total_in_content": 3,
-      "annotated_count": 3,
-      "items": [
-        {
-          "src": "https://www.chiark.greenend.org.uk/~cjwatson/blog/images/debusine-transitions-workflows.png",
-          "filename": "debusine-transitions-workflows.png",
-          "alt": "Workflows",
-          "caption": "List of top-level workflows in my workspace",
-          "is_hero": true
-        },
-        {
-          "src": "https://www.chiark.greenend.org.uk/~cjwatson/blog/images/debusine-transitions-astroid.png",
-          "filename": "debusine-transitions-astroid.png",
-          "alt": "astroid workflow",
-          "caption": "First package uploaded showing astroid workflow with test failures",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.chiark.greenend.org.uk/~cjwatson/blog/images/debusine-transitions-pylint.png",
-          "filename": "debusine-transitions-pylint.png",
-          "alt": "pylint workflow",
-          "caption": "Pylint workflow showing test results and retries",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:30:40.021982"

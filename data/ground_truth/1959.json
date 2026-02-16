@@ -20,7 +20,7 @@
     "title": "Learn web development  |  web.dev",
     "author": null,
     "publish_date": null,
-    "main_content": "web.dev offers a growing collection of courses on key web design and development subjects. Each course is written by an industry expert and helped by members of the Chrome team. Follow the modules sequentially, or dip into the topics you most want to learn about. Available courses include: Learn HTML - A solid overview of HTML for developers, from novice to expert level HTML. Learn CSS - A guide to CSS with modules covering everything from accessibility to z-index. Learn JavaScript - An in-depth course on the basics of JavaScript. Learn Performance - A course for those new to web performance, a vital aspect of the user experience. Learn Privacy - A course to help you build more privacy-preserving websites. Learn Accessibility - Discover how to make your websites and web apps more accessible. Learn Images - A course covering everything from selecting the right formats, to responsive images, and performance. Learn Design - Explore all aspects of responsive design, learning how to make sites that look great and work well for everyone. Learn Forms - A course about HTML forms to help you improve your web developer expertise. Learn PWA - A course that breaks down every aspect of modern progressive web app development. Learn Testing - An in-depth course on software testing.",
+    "main_content": "web.dev offers a growing collection of courses on key web design and development subjects. Follow the modules sequentially, or dip into the topics you most want to learn about. Learn CSS - A guide to CSS with modules covering everything from accessibility to z-index. Learn Performance - A course for those new to web performance, a vital aspect of the user experience. Learn Accessibility - Discover how to make your websites and web apps more accessible. Learn Images - A course covering everything from selecting the right formats, to responsive images, and performance. Learn Design - Explore all aspects of responsive design, learning how to make sites that look great and work well for everyone. Learn Forms - A course about HTML forms to help you improve your web developer expertise. Learn PWA - A course that breaks down every aspect of modern progressive web app development.",
     "with": [
       "Explore our growing collection of courses on key web design and development subjects.",
       "An industry expert has written each course, helped by members of the Chrome team.",
@@ -34,20 +34,7 @@
       "File a bug",
       "Terms",
       "Privacy"
-    ],
-    "images": {
-      "total_in_content": 13,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://web.dev/static/images/learn-header.png",
-          "filename": "learn-header.png",
-          "alt": null,
-          "caption": null,
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:03:53.661621"

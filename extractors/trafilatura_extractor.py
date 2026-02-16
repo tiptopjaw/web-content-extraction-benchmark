@@ -31,7 +31,8 @@ class TrafilaturaExtractor(BaseExtractor):
             include_tables=True,
             include_images=False,
             include_links=False,
-            output_format='python'
+            output_format='python',
+            with_metadata=True
         )
 
         if result is None:

@@ -35,27 +35,7 @@
       "Privacy Policy",
       "mega-menu-toggle-animated",
       "Please wait while you are redirected"
-    ],
-    "images": {
-      "total_in_content": 11,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "https://nexxis.com/wp-content/uploads/sites/3/2019/02/white-floor-ceiling-construction-column-industrial-1336851-pxhere.com_.jpg",
-          "filename": "white-floor-ceiling-construction-column-industrial-1336851-pxhere.com_.jpg",
-          "alt": null,
-          "caption": null,
-          "is_hero": true
-        },
-        {
-          "src": "https://nexxis.com/wp-content/uploads/sites/3/2017/01/Skid_DN200_mit_RSK_78110-1.jpg",
-          "filename": "Skid_DN200_mit_RSK_78110-1.jpg",
-          "alt": null,
-          "caption": null,
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:01:59.769578"

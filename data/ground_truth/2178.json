@@ -35,20 +35,7 @@
       "Subscribe to Email Alerts",
       "Connect With MSHA",
       "Site Map"
-    ],
-    "images": {
-      "total_in_content": 6,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "/sites/default/files/Alerts%20and%20Hazards/Electrical-Safety.png",
-          "filename": "Electrical-Safety.png",
-          "alt": "Different depictions of electrical images and procedures protect miners from the dangers of uncontrolled and unplanned releases of energy.",
-          "caption": "Different depictions of electrical images and procedures protect miners from the dangers of uncontrolled and unplanned releases of energy.",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:58:40.697907"

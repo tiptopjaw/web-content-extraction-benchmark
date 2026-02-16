@@ -20,7 +20,7 @@
     "title": "Corti introduces GIM: Benchmark-leading method for understanding AI model behavior",
     "author": "Joakim Edin",
     "publish_date": "2025-12-18",
-    "main_content": "Today, we report a significant advance in circuit discovery for neural networks. We have developed GIM (gradient interaction modifications), a gradient-based method that achieves the highest known accuracy for identifying which components in a model are responsible for specific behaviors. GIM has topped the Hugging Face Mechanistic Interpretability Benchmark, demonstrating both superior accuracy and production-scale speed. This is the first interpretability method to top the industry benchmark while remaining fast enough for production-scale models.\n\nLarge language models have become remarkably capable, but understanding why they work remains one of AI's fundamental challenges. We can measure what these models do, but the mechanisms behind their behavior often remain hidden. Without understanding how models arrive at their outputs, improving them becomes a process of trial and error rather than precision engineering. GIM identifies the neural circuits responsible for specific model behaviors, addressing a critical bottleneck in AI development.\n\nWhen training neural networks, we're not programming them in the traditional sense. As Chris Olah from Anthropic describes it, we're 'growing' them like biological neural networks. Each time we train a model, it develops differently. The models often work exceptionally well, but we don't fully understand the logic happening inside the billions of connected neurons.\n\nGIM addresses a fundamental problem: neural networks contain interactions between components that you miss when testing them individually. GIM combines two advantages: gradient-based computation makes it fast, and interaction modeling makes it accurate. The core insight is that components which seem unimportant individually can be essential when considered together.\n\nExisting circuit discovery methods face two main obstacles: speed and accuracy. The most straightforward approach tests each connection individually by disabling it and observing whether the output changes. But with billions of connections in modern models, this sequential testing becomes impossibly slow. Gradient-based methods offered a faster alternative but struggle with self-repair, where neural networks contain backup mechanisms that cause other components to compensate when one is disabled.\n\nMechanistic interpretability is a field with significant research investment from Anthropic, DeepMind, and major universities worldwide. Corti is a specialized team focused on AI advancement in healthcare, yet we're now leading in a space where frontier labs have dedicated research teams. In healthcare, we can't afford vague improvements or trial-and-error approaches.\n\nThe best interpretability tools shouldn't be locked behind organizational boundaries. Developers can access our implementation via a Python package compatible with any transformer-based model. Circuit discovery represents the first step in understanding artificial neural networks. The next challenge is leveraging these insights to improve models systematically.",
+    "main_content": "Today, we report a significant advance in circuit discovery for neural networks. We have developed GIM (gradient interaction modifications), a gradient-based method that achieves the highest known accuracy for identifying which components in a model are responsible for specific behaviors. GIM has topped the Hugging Face Mechanistic Interpretability Benchmark, demonstrating both superior accuracy and production-scale speed. This is the first interpretability method to top the industry benchmark while remaining fast enough for production-scale models.\n\nLarge language models have become remarkably capable, but understanding why they work remains one of AI's fundamental challenges. We can measure what these models do, but the mechanisms behind their behavior often remain hidden. Without understanding how models arrive at their outputs, improving them becomes a process of trial and error rather than precision engineering. GIM identifies the neural circuits responsible for specific model behaviors, addressing a critical bottleneck in AI development.\n\nWhen training neural networks, we're not programming them in the traditional sense. Each time we train a model, it develops differently. The models often work exceptionally well, but we don't fully understand the logic happening inside the billions of connected neurons.\n\nGIM addresses a fundamental problem: neural networks contain interactions between components that you miss when testing them individually. GIM combines two advantages: gradient-based computation makes it fast, and interaction modeling makes it accurate. \n\nExisting circuit discovery methods face two main obstacles: speed and accuracy. The most straightforward approach tests each connection individually by disabling it and observing whether the output changes. But with billions of connections in modern models, this sequential testing becomes impossibly slow. Gradient-based methods offered a faster alternative but struggle with self-repair, where neural networks contain backup mechanisms that cause other components to compensate when one is disabled.\n\nMechanistic interpretability is a field with significant research investment from Anthropic, DeepMind, and major universities worldwide. Corti is a specialized team focused on AI advancement in healthcare, yet we're now leading in a space where frontier labs have dedicated research teams. In healthcare, we can't afford vague improvements or trial-and-error approaches.\n\nThe best interpretability tools shouldn't be locked behind organizational boundaries. Developers can access our implementation via a Python package compatible with any transformer-based model. Circuit discovery represents the first step in understanding artificial neural networks. The next challenge is leveraging these insights to improve models systematically.",
     "with": [
       "We have developed GIM (gradient interaction modifications), a gradient-based method that achieves the highest known accuracy for identifying which components in a model are responsible for specific behaviors.",
       "This is the first interpretability method to top the industry benchmark while remaining fast enough for production-scale models.",
@@ -34,41 +34,7 @@
       "Privacy Policy",
       "Get API key",
       "View all Stories"
-    ],
-    "images": {
-      "total_in_content": 11,
-      "annotated_count": 4,
-      "items": [
-        {
-          "src": "https://cdn.prod.website-files.com/67abbaef147c8d4afefd9871/6945741efb305661381cf08a_mib-blog.png",
-          "filename": "6945741efb305661381cf08a_mib-blog.png",
-          "alt": null,
-          "caption": null,
-          "is_hero": true
-        },
-        {
-          "src": "https://cdn.prod.website-files.com/67abbaef147c8d4afefd9871/6941499372d89781735f5bcd_model-failures.webp",
-          "filename": "6941499372d89781735f5bcd_model-failures.webp",
-          "alt": null,
-          "caption": "Alchemy vs. precision engineering in AI model development",
-          "is_hero": false
-        },
-        {
-          "src": "https://cdn.prod.website-files.com/67abbaef147c8d4afefd9871/6942e65feae8a3aba5473974_component%20interaction%20problem%20revised%204.webp",
-          "filename": "6942e65feae8a3aba5473974_component%20interaction%20problem%20revised%204.webp",
-          "alt": null,
-          "caption": "Individual component testing fails to detect interaction effects. GIM solves this by measuring how components work together, not just how they work alone.",
-          "is_hero": false
-        },
-        {
-          "src": "https://cdn.prod.website-files.com/67abbaef147c8d4afefd9871/69430ae8b98cca4b6734f083_Group%202147258556.webp",
-          "filename": "69430ae8b98cca4b6734f083_Group%202147258556.webp",
-          "alt": null,
-          "caption": "Healthcare AI demands precision at the infrastructure level. Vertical labs like Corti turn domain requirements into breakthrough research methods that result in reliable AI systems.",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:54:29.112219"

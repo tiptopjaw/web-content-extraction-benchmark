@@ -20,7 +20,7 @@
     "title": "Data Analytics Services and Solutions | Acxiom",
     "author": null,
     "publish_date": null,
-    "main_content": "Intelligent analytics services: Develop cutting-edge insights, generate data-fueled intelligence, and build brand value with our global team of data scientists and analytics experts. Optimize business outcomes with AI-fueled analytics solutions. Our clients see measurable growth in acquisition, retention, and efficiency through our connected data and tech-led approach. We help brands evolve and innovate in these areas: Acquisition, Retention & Extension, Persona Creation, Segmentation, Predictive Modeling, Marketing Efficiency, Measurement, Experimentation. Powered by connected identity and data: Acxiom's Real ID is embedded within the adtech and martech ecosystems as well as all major marketing clouds, offers unparalleled scale, accuracy, and flexibility. Our analytics solutions are fueled by industry leading consumer data across 2.6 billion global consumers, with over 10k+ unique attributes to deliver more meaningful customer insights. Case study: Healthcare payer saves $6M by retaining at-risk members. Acxiom's predictive retention model ranked members by risk level, enabling proactive outreach to those at highest risk for attrition and achieving over 200% in marketing ROI. Four ways to build analytics acumen: Growth & Performance Analytics (Analyses and reports to find audiences, inform strategy, and grow business), Audience Analytics (Identify, build, and model audiences to meet brand objectives effectively and efficiently), Data Science (Gather and analyze campaign performance data to identify areas of improvement using AI/ML), Data Management & Visualization (Design and scale data and analysis outputs for integrating, cleansing, and governing data). Test, learn, and make data-driven decisions: Acxiom makes it easy to refine your models and approaches based on evolving consumer behavior, market conditions, and business goals, so you can make better decisions at each stage of the marketing funnel and accelerate innovation and product development. Full-funnel marketing analytics: Acxiom provides solutions that leverage data and analytics to improve customer acquisition, retention, and growth strategies, including MMM and MTA. Insights derived from first-party data: With access to unified data, tools and global talent, we deliver better, faster planning and insights that help marketers understand and cater to their customers.",
+    "main_content": "Intelligent analytics services: Develop cutting-edge insights, generate data-fueled intelligence, and build brand value with our global team of data scientists and analytics experts. Optimize business outcomes with AI-fueled analytics solutions. Our clients see measurable growth in acquisition, retention, and efficiency through our connected data and tech-led approach. Powered by connected identity and data: Acxiom's Real ID is embedded within the adtech and martech ecosystems as well as all major marketing clouds, offers unparalleled scale, accuracy, and flexibility. Our analytics solutions are fueled by industry leading consumer data across 2.6 billion global consumers, with over 10k+ unique attributes to deliver more meaningful customer insights. Acxiom's predictive retention model ranked members by risk level, enabling proactive outreach to those at highest risk for attrition and achieving over 200% in marketing ROI. Test, learn, and make data-driven decisions: Acxiom makes it easy to refine your models and approaches based on evolving consumer behavior, market conditions, and business goals, so you can make better decisions at each stage of the marketing funnel and accelerate innovation and product development. Full-funnel marketing analytics: Acxiom provides solutions that leverage data and analytics to improve customer acquisition, retention, and growth strategies, including MMM and MTA. Insights derived from first-party data: With access to unified data, tools and global talent, we deliver better, faster planning and insights that help marketers understand and cater to their customers.",
     "with": [
       "Intelligent analytics services: Develop cutting-edge insights, generate data-fueled intelligence, and build brand value with our global team of data scientists and analytics experts.",
       "Our clients see measurable growth in acquisition, retention, and efficiency through our connected data and tech-led approach.",
@@ -34,48 +34,7 @@
       "Privacy Policy",
       "Do Not Sell My Personal Information",
       "LinkedIn"
-    ],
-    "images": {
-      "total_in_content": 25,
-      "annotated_count": 5,
-      "items": [
-        {
-          "src": "https://www.acxiom.com/wp-content/uploads/2023/07/acxiom-scottsmiraclegro_1200x700_o.jpg",
-          "filename": "acxiom-scottsmiraclegro_1200x700_o.jpg",
-          "alt": "Data analytics services",
-          "caption": "Scott's Miracle-Gro Achieves 11x Campaign Lift using InfoBase-Powered Audience Modeling",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.acxiom.com/wp-content/uploads/2022/07/salesforce-acxiom-heathrow_1200x700_o.jpg",
-          "filename": "salesforce-acxiom-heathrow_1200x700_o.jpg",
-          "alt": "Data analytics services",
-          "caption": "Heathrow's Digital Transformation",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.acxiom.com/wp-content/uploads/2023/04/upwork-case-study-preview_o.jpg",
-          "filename": "upwork-case-study-preview_o.jpg",
-          "alt": "Data analytics services",
-          "caption": "Acxiom provides up to 75% savings on new client acquisition for Upwork",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.acxiom.com/wp-content/uploads/2024/12/investment.jpeg",
-          "filename": "investment.jpeg",
-          "alt": "Intelligent analytics services",
-          "caption": null,
-          "is_hero": true
-        },
-        {
-          "src": "https://www.acxiom.com/wp-content/uploads/2025/02/ac-0208-25-cs-improving-healthcare-professional-interactions-1200x578-1.jpg",
-          "filename": "ac-0208-25-cs-improving-healthcare-professional-interactions-1200x578-1.jpg",
-          "alt": "Healthcare payer saves $6M by retaining at-risk members ",
-          "caption": "Healthcare payer saves $6M by retaining at-risk members",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:11:55.526496"

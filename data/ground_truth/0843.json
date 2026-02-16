@@ -20,7 +20,7 @@
     "title": "Significant Cyber Incidents | Strategic Technologies Program | CSIS",
     "author": null,
     "publish_date": null,
-    "main_content": "This timeline records significant cyber incidents since 2006, focusing on cyber attacks on government agencies, defense and high tech companies, or economic crimes with losses of more than a million dollars. If you think we've missed something, please send an email to strategictech@csis.org. The timeline includes incidents through October 2025, documenting state-sponsored attacks, espionage campaigns, ransomware incidents, data breaches, and large-scale cyber operations by nation-state actors and criminal groups worldwide. Notable incidents include: North Korean Lazarus APT group's targeting of European defense companies to steal drone component information; a $1.5 billion Ethereum theft from Dubai-based exchange ByBit by North Korean hackers; the largest cryptocurrency heist to date; Chinese cyber espionage operations surging by 150% in 2024; and ongoing cyberattacks on Ukraine which increased by nearly 70% in 2024.",
+    "main_content": "This timeline records significant cyber incidents since 2006, focusing on cyber attacks on government agencies, defense and high tech companies, or economic crimes with losses of more than a million dollars. If you think we've missed something, please send an email to strategictech@csis.org.",
     "with": [
       "This timeline records significant cyber incidents since 2006, focusing on cyber attacks on government agencies, defense and high tech companies, or economic crimes with losses of more than a million dollars.",
       "The ransomware group Medusa claimed responsibility for a data breach involving SimonMed Imaging, during which hackers exfiltrated data belonging to approximately 1.2 million patients.",
@@ -34,12 +34,7 @@
       "All Events",
       "Explore the Department",
       "Available Downloads"
-    ],
-    "images": {
-      "total_in_content": 1,
-      "annotated_count": 0,
-      "items": []
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:43:47.137009"

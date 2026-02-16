@@ -35,12 +35,7 @@
       "Skip to main content",
       "Become an NPR sponsor",
       "Copyright © 2023 NPR"
-    ],
-    "images": {
-      "total_in_content": 13,
-      "annotated_count": 0,
-      "items": []
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:35:42.544536"

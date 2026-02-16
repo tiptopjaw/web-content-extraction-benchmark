@@ -34,55 +34,7 @@
       "Privacy Policy",
       "Navigation menu items",
       "Cookie notice"
-    ],
-    "images": {
-      "total_in_content": 13,
-      "annotated_count": 6,
-      "items": [
-        {
-          "src": "https://nhsjs.com/wp-content/uploads/2025/12/boitumelo-o_tcYADlSt8-unsplash-1-696x464.jpg",
-          "filename": "boitumelo-o_tcYADlSt8-unsplash-1-696x464.jpg",
-          "alt": null,
-          "caption": null,
-          "is_hero": true
-        },
-        {
-          "src": "https://nhsjs.com/wp-content/uploads/2025/12/fig-1-7-752x1024.png",
-          "filename": "fig-1-7-752x1024.png",
-          "alt": null,
-          "caption": "Figure 1 | High-level diagram of three step solution's parts.",
-          "is_hero": false
-        },
-        {
-          "src": "https://nhsjs.com/wp-content/uploads/2025/12/Architecture-Before-1024x719.png",
-          "filename": "Architecture-Before-1024x719.png",
-          "alt": null,
-          "caption": "Figure 2 | VS Code Extension Host architecture before adding sandboxing technology",
-          "is_hero": false
-        },
-        {
-          "src": "https://nhsjs.com/wp-content/uploads/2025/12/fig-2-14-1024x676.png",
-          "filename": "fig-2-14-1024x676.png",
-          "alt": null,
-          "caption": "Figure 3 | VS Code Extension Host architecture with sandboxing technology",
-          "is_hero": false
-        },
-        {
-          "src": "https://nhsjs.com/wp-content/uploads/2025/12/SandboxingFlow-2025-10-14-054812-820x1024.png",
-          "filename": "SandboxingFlow-2025-10-14-054812-820x1024.png",
-          "alt": null,
-          "caption": "Figure 4 | Steps sandboxing technology takes from starting an extension to getting it running",
-          "is_hero": false
-        },
-        {
-          "src": "https://nhsjs.com/wp-content/uploads/2025/12/1234-767x1024.png",
-          "filename": "1234-767x1024.png",
-          "alt": null,
-          "caption": "Figure 5 | Steps taken when extension requires a module (when sandboxing technology is active in Extension Host)",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:03:57.242219"

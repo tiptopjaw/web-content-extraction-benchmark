@@ -1,0 +1,38 @@
+{
+  "schema_version": "2.0",
+  "url": "https://yoast.com/what-is-seo/",
+  "file_id": "0325",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "article"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "What is SEO? • SEO for beginners • Yoast",
+    "author": "Camille Cunningham",
+    "publish_date": "2025-03-25",
+    "main_content": "What is SEO? • SEO for beginners • Yoast Do you have a website or are you thinking about creating one? And do you want to attract more people to your business? If the answer is yes, then there’s no doubt about it: SEO should be part of your marketing efforts. It’s a great way to build your brand and get people on your site. But what does it actually entail? In this post, we’ll give you an understanding of what SEO is and how you can get started! Key takeaways SEO stands for Search Engine Optimization, focusing on improving website visibility in search results. It drives organic traffic, which contrasts with paid advertising methods like PPC and SEM. SEO is important due to the high volume of searches and intent-driven content, leading to higher quality leads. Types of SEO include Ecommerce, Local, Video, and News SEO, each catering to specific needs. The three pillars of SEO are Technical SEO, On-page SEO, and Off-page SEO, each critical for overall success. What is SEO? The acronym SEO stands for Search Engine Optimization. Let’s first get a definition from one of our principal SEO experts at Yoast, Alex Moss: SEO is both the art and science of improving a website, and pages within, to be as visible as possible for when people search for a relevant topic within any search platform. SEO covers many areas from technical aspects including optimizing a site’s performance and structure, to enhancing brand authority by providing great content and matching it with that person’s search intent. Alex Moss – Principal SEO at Yoast So how does Google work ? With search engines like Google, the process consists of crawling, indexing, and ranking. The crawler is an online bot that scours the web to collect all the pages out there and save them in a gigantic database called the index. This index is constantly updated with new pages or updated versions of existing ones. When someone searches online, the search engine calls on the index and uses complex algorithms to determine which pages are relevant to show. This determines the ranking of results shown to the online searcher. For example, when I search for the term ‘sustainable phone case’, these results are shown by Google. Based on my search term and the intent behind it, Google deems these results the best ones found in its index. Screenshot of Google’s results for ‘sustainable phone case’ Organic vs paid search SEO is focused on attracting more organic traffic to your website, traffic that comes to your site via unpaid search results. But as you can see in the image above, the search results also show ads and sponsored results. Often at the top of the page. To make a clear distinction, there are a few acronyms in use that are valuable to know: SEM: Search engine marketing entails all marketing efforts to show up in the search results, both through ads and organic results. SEO: SEO is the practice of improving a website to show up when people search for a relevant topic within any search platform. SEA: Search engine advertising is the practice of paying for ads that show up in the search results of relevant keywords. PPC: Pay-per-click. The advertising model used in SEA, where the advertiser pays a fee each time one of their ads is clicked. These paid results can allow you to show up as the top result for a search term, but it will cost you money every time a user clicks through to your website. When comparing SEO vs PPC , they both have their benefits and drawbacks. But more often than not, they complement each other well. Why SEO is important for site owners Huge volume of searches The reason that so many (big) companies heavily invest in SEO is the high impact that it can have when done right. To give you an idea, Google, the most-used search engine got around 8.3 billion searches per day in 2024. A number that has only gone up (and significantly) since 1998. So if you have a website, you want to make sure to show up in Google and other search platforms. SEO is intent-driven Online search is very intent-driven. Unlike other marketing channels, such as social media, where people happen to scroll upon your brand and content. This means you’re interrupting a user’s experience to capture their attention, which makes it more difficult to get them interested. Showing up in their search results aligns with an existing demand—your customers are actively seeking information, products, or solutions. This makes SEO a powerful inbound marketing strategy, where users come to you rather than the other way around. Because searchers already have intent, they are more likely to convert, making SEO an essential tool for attracting high-quality leads. Competitive advantage Creating a website and leaving it at that isn’t going to cut it. With new websites popping up left and right, it’s becoming increasingly difficult to get noticed and maintain customer loyalty. SEO can provide you with higher online visibility, a stronger brand, more authority in your field, more contact moments with your audience and higher quality traffic to your website (and/or offline location). All of this, leading to higher brand loyalty and more revenue. Types of SEO Although the basic principles remain the same, there are a few different types of SEO worth mentioning. They may not all apply to your situation, but it is beneficial to dive into the ones that do: Ecommerce SEO : SEO specifically focused on gaining more visibility and organic traffic for online stores. With the goal of acquiring more sales. Local SEO : Local SEO is the practice of optimizing your website for a specific local area. This is to ensure you are easily found (both online and offline) by a local audience. Video SEO : The process of optimizing videos and video pages to make them appear in the search results for relevant keyphrases. Whether that is Google’s",
+    "with": [
+      "• SEO for beginners • Yoast Do you have a website or are you thinking about creating one?",
+      "And do you want to attract more people to your business?",
+      "If the answer is yes, then there’s no doubt about it: SEO should be part of your marketing efforts.",
+      "It’s a great way to build your brand and get people on your site.",
+      "But what does it actually entail?"
+    ],
+    "without": [
+      "Contact us",
+      "Privacy Policy",
+      "Terms of Service",
+      "Subscribe",
+      "Read more"
+    ]
+  },
+  "model": "extraction-script",
+  "annotated_at": "2026-02-12T00:00:00"
+}

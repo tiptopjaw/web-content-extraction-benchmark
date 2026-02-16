@@ -34,12 +34,7 @@
       "Navigation Menu",
       "You are about to leave the CBC website",
       "©2025 CBC Bank"
-    ],
-    "images": {
-      "total_in_content": 5,
-      "annotated_count": 0,
-      "items": []
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:04:31.573783"

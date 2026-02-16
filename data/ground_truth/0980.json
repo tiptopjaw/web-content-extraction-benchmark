@@ -20,12 +20,10 @@
     "title": "Beginner's Guide to SEO (Search Engine Optimization) - Moz",
     "author": null,
     "publish_date": "2022-10-05",
-    "main_content": "Welcome to your SEO learning journey! You'll get the most out of this guide if your desire to learn search engine optimization (SEO) is exceeded only by your willingness to execute and test concepts. This guide is designed to describe all major aspects of SEO, from finding the terms and phrases (keywords) that can generate qualified traffic to your website, to making your site friendly to search engines, to building links and marketing the unique value of your site. The world of search engine optimization is complex and ever-changing, but you can easily understand the basics, and even a small amount of SEO knowledge can make a big difference.\n\nThe foundation of good SEO begins with ensuring crawl accessibility, and moves up from there. Using this beginner's guide, we can follow these seven steps to successful SEO: Crawl accessibility so engines can read your website; Compelling content that answers the searcher's query; Keyword optimized to attract searchers & engines; Great user experience including a fast load speed and compelling UX; Share-worthy content that earns links, citations, and amplification; Title, URL, & description to draw high click-through-rate (CTR) in the rankings; Snippet/schema markup to stand out in SERPs.\n\nThe guide covers multiple chapters including: Quick Start Guide to SEO, SEO 101, How Search Engines Work – Crawling, Indexing, and Ranking, Keyword Research, On-Page SEO, Technical SEO, Link Building & Establishing Authority, and Measuring, Prioritizing, & Executing SEO Success. If you're serious about improving search traffic we do recommend reading the Beginner's Guide to SEO front-to-back.",
+    "main_content": "Welcome to your SEO learning journey! You'll get the most out of this guide if your desire to learn search engine optimization (SEO) is exceeded only by your willingness to execute and test concepts. This guide is designed to describe all major aspects of SEO, from finding the terms and phrases (keywords) that can generate qualified traffic to your website, to making your site friendly to search engines, to building links and marketing the unique value of your site. The world of search engine optimization is complex and ever-changing, but you can easily understand the basics, and even a small amount of SEO knowledge can make a big difference.\n\nThe foundation of good SEO begins with ensuring crawl accessibility, and moves up from there. \n\n If you're serious about improving search traffic we do recommend reading the Beginner's Guide to SEO front-to-back.",
     "with": [
       "You'll get the most out of this guide if your desire to learn search engine optimization (SEO) is exceeded only by your willingness to execute and test concepts.",
       "The foundation of good SEO begins with ensuring crawl accessibility, and moves up from there.",
-      "Crawl accessibility so engines can read your website; Compelling content that answers the searcher's query; Keyword optimized to attract searchers & engines.",
-      "Great user experience including a fast load speed and compelling UX; Share-worthy content that earns links, citations, and amplification.",
       "If you're serious about improving search traffic we do recommend reading the Beginner's Guide to SEO front-to-back."
     ],
     "without": [
@@ -34,48 +32,7 @@
       "© 2021 - 2025 SEOMoz, Inc., a Ziff Davis company. All rights reserved.",
       "Privacy Terms of Use Accessibility",
       "Share Facebook Twitter LinkedIn Copy link"
-    ],
-    "images": {
-      "total_in_content": 11,
-      "annotated_count": 5,
-      "items": [
-        {
-          "src": "https://moz.com/files/learn/guides/BGSEOIntro.svg?dm=1562702786",
-          "filename": "BGSEOIntro.svg",
-          "alt": null,
-          "caption": "The Beginner's Guide to SEO banner image",
-          "is_hero": true
-        },
-        {
-          "src": "https://moz.com/files/learn/guides/Mozlows-01-outline.svg?dm=1554154345",
-          "filename": "Mozlows-01-outline.svg",
-          "alt": "Guide to SEO Basics",
-          "caption": "Mozlow's hierarchy of SEO needs - Guide to SEO Basics",
-          "is_hero": false
-        },
-        {
-          "src": "https://moz.com/files/learn/guides/BGSEO-Quickstart.svg?dm=1671725853",
-          "filename": "BGSEO-Quickstart.svg",
-          "alt": "Quick Start Guide to SEO",
-          "caption": "Quick Start Guide to SEO chapter thumbnail",
-          "is_hero": false
-        },
-        {
-          "src": "https://moz.com/files/learn/guides/BGSEOSEO101.svg?dm=1562715658",
-          "filename": "BGSEOSEO101.svg",
-          "alt": "SEO 101",
-          "caption": "SEO 101 chapter thumbnail",
-          "is_hero": false
-        },
-        {
-          "src": "https://moz.com/files/learn/guides/BGSEOHow-Engines-Work.svg?dm=1562715402",
-          "filename": "BGSEOHow-Engines-Work.svg",
-          "alt": "How Search Engines Work: Crawling, Indexing, and Ranking",
-          "caption": "How Search Engines Work: Crawling, Indexing, and Ranking chapter thumbnail",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:29:30.181744"

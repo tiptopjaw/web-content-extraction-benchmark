@@ -21,13 +21,11 @@
     "title": "Turning a tinybox Green v2 into a Private AI Home Server",
     "author": "Owain Brennan",
     "publish_date": "2025-12-15",
-    "main_content": "TL;DR: I turned a tinybox Green v2 into a private AI server, media hub, and home automation brain—all accessible anywhere via Tailscale, with as limited as possible cloud dependencies. I've been wanting a proper local AI box for a while, as well as a home server, so why not both in one. Not a hosted playground, not \"GPU hours in the cloud\", but a machine that sits on my own network in my house, runs my own models and doesn't leak anything to anyone unless I deliberately push it there. Through a series of weird events from running and then selling my data science agency SeerBI, I ended up having a \"spare\" tinybox Green v2 I could use as I wanted. The Hardware: The tinybox is an awesome piece of kit by George Hotz's company Tinygrad, it comes fully loaded with 4 × Nvidia RTX 5090 GPU, 192 GB RAM, 64-core AMD EPYC CPU, and 2 × 1600W PSU. Power Considerations: This is a machine that can pull real wattage. For now, I've kept things simple — two outlets, default power limits. UK Note: Our 230V supply and higher-rated domestic sockets give a bit more headroom. The Network Situation: After a bit of wall archaeology I found the expected chaos. I bought and set up a simple TP Link Powerline adapter. BMC: One of the big advantages of tinybox over a normal supe'd up gaming PC is the BMC (Baseboard Management Controller). It gives you power control, serial-over-LAN console, and the ability to fix your own mistakes without walking upstairs. Hardening the Box: Out of the box, you log in as: tiny/tiny. I updated the system, created myself a real user, and added it to sudo. SSH continued to say Permission denied. The problem was I was connecting to the wrong device. The router had happily taken the IP I was testing against. The tinybox was sitting there on a different address. Once I had the right IP and a working key, I locked down SSH with keys only, no root login, and no password auth. Firewall-wise UFW with deny incoming, allow outgoing. Tailscale: I have been following Tailscale for a few years, so when I finally got an excuse to use them I was very excited. So everything goes over Tailscale. No ports exposed, and with Tailscale's admin dashboard I can see all of my services, network logs and add any family members to the service. The Docker Stack: Everything lives in a single Compose file under /srv/stack with persistent volumes under /srv — all using Docker. Services include Ollama (LLM runtime), Open WebUI (Chat interface), Jellyfin (Media server), Home Assistant (Home automation brain), and Netdata (Real-time monitoring). The AI Experience: With Ollama + Open WebUI running, the \"AI\" side of this starts to feel real. I pull models once, locally. I talk to them through a nice interface. Everything stays on the box unless I deliberately send it out. Observability with Netdata: The bit that turned this from \"cool toy\" into \"actual system\" was adding Netdata and exposing it via Tailscale. It's one thing to know, in theory, that a certain model size will stress memory or CPU. It's another to literally watch GPU memory jump when you load a model, CPU spikes when inference kicks in, and disk activity when a big model gets pulled off storage. Lessons Learned: SSH to the wrong host - I spent too long resetting passwords on the router while wondering why the tinybox was ignoring me. Locking down SSH too early - Turning off password auth before keys were confirmed is a great way to practice using the BMC console. Overcomplicating Tailscale - I was thinking it was a lot more complex than it ended up being. Why Bother? But owning the whole whole path from prompt to silicon does something to your intuition. Every token, every request, every bit of context lives on your box, on your network, under your control. The Vision: My eventual goal is a \"Jarvis\"-like assistant I can run and own fully locally.",
+    "main_content": "TL;DR: I turned a tinybox Green v2 into a private AI server, media hub, and home automation brain-all accessible anywhere via Tailscale, with as limited as possible cloud dependencies. I've been wanting a proper local AI box for a while, as well as a home server, so why not both in one. Not a hosted playground, not \"GPU hours in the cloud\", but a machine that sits on my own network in my house, runs my own models and doesn't leak anything to anyone unless I deliberately push it there. Through a series of weird events from running and then selling my data science agency SeerBI, I ended up having a \"spare\" tinybox Green v2 I could use as I wanted. Power Considerations: This is a machine that can pull real wattage. For now, I've kept things simple - two outlets, default power limits. UK Note: Our 230V supply and higher-rated domestic sockets give a bit more headroom. I bought and set up a simple TP Link Powerline adapter. BMC: One of the big advantages of tinybox over a normal supe'd up gaming PC is the BMC (Baseboard Management Controller). I updated the system, created myself a real user, and added it to sudo. SSH continued to say Permission denied. The router had happily taken the IP I was testing against. The tinybox was sitting there on a different address. Tailscale: I have been following Tailscale for a few years, so when I finally got an excuse to use them I was very excited. So everything goes over Tailscale. No ports exposed, and with Tailscale's admin dashboard I can see all of my services, network logs and add any family members to the service. The Docker Stack: Everything lives in a single Compose file under /srv/stack with persistent volumes under /srv - all using Docker. The AI Experience: With Ollama + Open WebUI running, the \"AI\" side of this starts to feel real. I talk to them through a nice interface. Everything stays on the box unless I deliberately send it out. Observability with Netdata: The bit that turned this from \"cool toy\" into \"actual system\" was adding Netdata and exposing it via Tailscale. It's one thing to know, in theory, that a certain model size will stress memory or CPU. Locking down SSH too early - Turning off password auth before keys were confirmed is a great way to practice using the BMC console. Overcomplicating Tailscale - I was thinking it was a lot more complex than it ended up being. Why Bother? Every token, every request, every bit of context lives on your box, on your network, under your control.",
     "with": [
       "I've been wanting a proper local AI box for a while, as well as a home server, so why not both in one.",
-      "The tinybox is an awesome piece of kit by George Hotz's company Tinygrad, it comes fully loaded with 4 × Nvidia RTX 5090, 192 GB RAM, 64-core AMD EPYC, and 2 × 1600W PSU.",
       "I have been following Tailscale for a few years, so when I finally got an excuse to use them I was very excited.",
-      "Every token, every request, every bit of context lives on your box, on your network, under your control.",
-      "My eventual goal is a \"Jarvis\"-like assistant I can run and own fully locally."
+      "Every token, every request, every bit of context lives on your box, on your network, under your control."
     ],
     "without": [
       "Powered by Bear",
@@ -35,41 +33,7 @@
       "Home Blog",
       "Copyright",
       "Subscribe to newsletter"
-    ],
-    "images": {
-      "total_in_content": 5,
-      "annotated_count": 4,
-      "items": [
-        {
-          "src": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/owain/img_2671.webp",
-          "filename": "img_2671.webp",
-          "alt": "IMG_2671",
-          "caption": "The irony of the gemini logo on the bottom of this image is not lost on me",
-          "is_hero": true
-        },
-        {
-          "src": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/owain/12.webp",
-          "filename": "12.webp",
-          "alt": "Screenshot 2025-12-14 at 21",
-          "caption": "The fun part: Thanks to Tailscale, this feels the same whether I'm on the sofa, in the office, on desktop or mobile.",
-          "is_hero": false
-        },
-        {
-          "src": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/owain/52.webp",
-          "filename": "52.webp",
-          "alt": "Screenshot 2025-12-15 at 16",
-          "caption": null,
-          "is_hero": false
-        },
-        {
-          "src": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/owain/img_2663.webp",
-          "filename": "img_2663.webp",
-          "alt": "IMG_2663",
-          "caption": null,
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:04:48.555431"

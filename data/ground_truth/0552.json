@@ -34,48 +34,7 @@
       "Kroll is not affiliated with Kroll Bond Rating Agency, Kroll OnTrack Inc. or their affiliated businesses",
       "Choose your region dropdown menu",
       "Social media links and icons for Facebook, Instagram, LinkedIn, Twitter, YouTube"
-    ],
-    "images": {
-      "total_in_content": 10,
-      "annotated_count": 5,
-      "items": [
-        {
-          "src": "/_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fkrollllc17bf0-kroll6fee-proda464-0e9b%2Fmedia%2FKroll-Images%2FInsights%2Fcybersecurity-sector-ma-industry-insights-fall-2025-desktop-banner.jpg%3Fh%3D800%26iar%3D0%26w%3D2400&w=3840&q=100",
-          "filename": "image",
-          "alt": "Cybersecurity Software Sector Update–Fall 2025",
-          "caption": "Cybersecurity Software Sector Update–Fall 2025",
-          "is_hero": true
-        },
-        {
-          "src": "https://edge.sitecorecloud.io/krollllc17bf0-kroll6fee-proda464-0e9b/media/Kroll-Images/Expert-Headshot/Kroll-Expert/nicholas-collins.jpg?h=585&iar=0&w=468",
-          "filename": "nicholas-collins.jpg",
-          "alt": "nicholas-collins",
-          "caption": "Nicholas Collins, Managing Director, Mergers and Acquisitions (M&A) Advisory",
-          "is_hero": false
-        },
-        {
-          "src": "https://edge.sitecorecloud.io/krollllc17bf0-kroll6fee-proda464-0e9b/media/Kroll-Images/Expert-Headshot/Kroll-Expert/scott-munro.jpg?h=585&iar=0&w=468",
-          "filename": "scott-munro.jpg",
-          "alt": "Scott Munro",
-          "caption": "Scott Munro, Managing Director, Technology Investment Banking",
-          "is_hero": false
-        },
-        {
-          "src": "https://edge.sitecorecloud.io/krollllc17bf0-kroll6fee-proda464-0e9b/media/Kroll-Images/Expert-Headshot/Kroll-Expert/matt-de-la-o.png?h=585&iar=0&w=468",
-          "filename": "matt-de-la-o.png",
-          "alt": "matt-de-la-o",
-          "caption": "Matt De La O, Managing Director, Mergers and Acquisitions (M&A) Advisory",
-          "is_hero": false
-        },
-        {
-          "src": "https://edge.sitecorecloud.io/krollllc17bf0-kroll6fee-proda464-0e9b/media/Kroll-Images/Expert-Headshot/Kroll-Expert/vineet-asthana.png?h=585&iar=0&w=468",
-          "filename": "vineet-asthana.png",
-          "alt": "vineet-asthana",
-          "caption": "Vineet Asthana, Managing Director and Co-head of Kroll's Technology and Business Services M&A Practice",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:24:08.457871"

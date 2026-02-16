@@ -20,7 +20,7 @@
     "title": "Token-count-based Batching: Faster, Cheaper Embedding Inference for Queries",
     "author": "Chengcheng Pei and Yuan Lin",
     "publish_date": "2025-12-18",
-    "main_content": "Embedding model inference often struggles with efficiency when serving large volumes of short requests—a common pattern in search, retrieval, and recommendation systems. At Voyage AI by MongoDB, we call these short requests queries, and other requests are called documents. Queries typically must be served with very low latency (typically 100–300 ms). Queries are typically short, and their token-length distribution is highly skewed. As a result, query inference tends to be memory-bound rather than compute-bound. Query traffic is pretty spiky, so autoscaling is too slow. In sum, serving many short requests sequentially is highly inefficient.\n\nPadding removal makes effective batching possible. Most inference engines accept requests in the form (B, S), where B is the sequence number in the batch, and S is the maximum sequence length. Sequences should be padded to the max sequence length so that tensors line up. But that convenience comes at a cost: padding tokens do no useful work but still consume compute and memory bandwidth, so latency scales with B × S instead of the actual token count.\n\nIn Voyage AI, we proposed and built token-count-based batching, batching queries (short requests) by total token count in the batch (Σtoken_count_i), rather than by total request count or arbitrary time windows. Token-count batching aligns the batch size (total token count in the batch) with the actual compute required. When many queries arrive close together, we group them by token counts so the GPU processes a larger combined workload in a single forward pass.\n\nOur inference-latency-vs-token-count profiling of query inference shows a clear pattern: latency is approximately flat up to a threshold (saturation point) and then becomes approximately linear. For our voyage-3 model running on A100, the threshold is about 600 tokens. Batching short requests can move the inference from memory-bound to compute-bound.\n\nWe ran a production experiment comparing our new pipeline (query batching + vLLM) against our old pipeline (no batching + Hugging Face Inference). We saw a 50% reduction in GPU inference latency—despite using 3X fewer GPUs. We gradually onboarded 7+ models to the above query batching solution, and saw: vLLM reduces GPU inference time by up to ~20 ms, throughput improved by up to 8X by batching, some model servers saw P90 end-to-end latency drop by 60+ ms, better P90 e2e latency during spikes even with fewer GPUs, higher GPU utilization, and higher MFU.",
+    "main_content": "Embedding model inference often struggles with efficiency when serving large volumes of short requests—a common pattern in search, retrieval, and recommendation systems. At Voyage AI by MongoDB, we call these short requests queries, and other requests are called documents. Queries typically must be served with very low latency (typically 100–300 ms). Queries are typically short, and their token-length distribution is highly skewed. As a result, query inference tends to be memory-bound rather than compute-bound. Query traffic is pretty spiky, so autoscaling is too slow. In sum, serving many short requests sequentially is highly inefficient.\n\nPadding removal makes effective batching possible. Most inference engines accept requests in the form (B, S), where B is the sequence number in the batch, and S is the maximum sequence length. Sequences should be padded to the max sequence length so that tensors line up. But that convenience comes at a cost: padding tokens do no useful work but still consume compute and memory bandwidth, so latency scales with B × S instead of the actual token count.\n\nIn Voyage AI, we proposed and built token-count-based batching, batching queries (short requests) by total token count in the batch (Σtoken_count_i), rather than by total request count or arbitrary time windows. Token-count batching aligns the batch size (total token count in the batch) with the actual compute required. When many queries arrive close together, we group them by token counts so the GPU processes a larger combined workload in a single forward pass.\n\nOur inference-latency-vs-token-count profiling of query inference shows a clear pattern: latency is approximately flat up to a threshold (saturation point) and then becomes approximately linear. For our voyage-3 model running on A100, the threshold is about 600 tokens. Batching short requests can move the inference from memory-bound to compute-bound.\n\nWe ran a production experiment comparing our new pipeline (query batching + vLLM) against our old pipeline (no batching + Hugging Face Inference). We saw a 50% reduction in GPU inference latency—despite using 3X fewer GPUs.",
     "with": [
       "Embedding model inference often struggles with efficiency when serving large volumes of short requests—a common pattern in search, retrieval, and recommendation systems.",
       "Queries are typically short, and their token-length distribution is highly skewed. As a result, query inference tends to be memory-bound rather than compute-bound.",
@@ -34,41 +34,7 @@
       "Products, Resources, Solutions, Company, Pricing",
       "Twitter icon",
       "© 2025 MongoDB, Inc."
-    ],
-    "images": {
-      "total_in_content": 24,
-      "annotated_count": 4,
-      "items": [
-        {
-          "src": "https://images.contentstack.io/v3/assets/blt7151619cb9560896/blt2a932fcddc504d4e/69432e58dc686eecc9d0fed1/Token-count-based_Batching_blog_image_1.png",
-          "filename": "Token-count-based_Batching_blog_image_1.png",
-          "alt": "Diagram illustrating the difference between request-number-based batching and token-count-based batching.",
-          "caption": "Figure 1. Request-number-based batching VS token-count-based batching.",
-          "is_hero": true
-        },
-        {
-          "src": "https://images.contentstack.io/v3/assets/blt7151619cb9560896/blt597574345c90b8e1/69432f0dc47879fd17bfb507/Token-count-based_Batching_blog_image_2.png",
-          "filename": "Token-count-based_Batching_blog_image_2.png",
-          "alt": "Line graph showing that GPU inference latency for the Voyage-3 model on A100 is approximately flat for batches up to about 600 tokens (the saturation point), and then increases linearly with the total token count.",
-          "caption": "Figure 2. Inference latency vs token count for Voyage-3 on A100.",
-          "is_hero": false
-        },
-        {
-          "src": "https://images.contentstack.io/v3/assets/blt7151619cb9560896/bltb1c1b385d8f400d1/6943348c28be5abc169f2f79/Token-count-based_Batching_blog_image_3.png",
-          "filename": "Token-count-based_Batching_blog_image_3.png",
-          "alt": "Approximated diagram showing Model FLOPs Utilization (MFU) and throughput scaling linearly with token count up to a saturation point, and inference latency remaining flat until the saturation point, after which it also scales linearly. This illustrates how batching can shift inference from memory-bound to compute-bound.",
-          "caption": "Figure 3. Approximated diagram of MFU/throughput/inference latency vs token count.",
-          "is_hero": false
-        },
-        {
-          "src": "https://images.contentstack.io/v3/assets/blt7151619cb9560896/blt29f024d83ae90fa3/6943351ab0a12c3b4f12d94d/Token-count-based_Batching_blog_image_4.png",
-          "filename": "Token-count-based_Batching_blog_image_4.png",
-          "alt": "Diagram illustrating the token-count-based batching implementation, where incoming embedding query requests are enqueued into a Redis list and model servers atomically fetch a batch of requests up to the optimal total token count using a Lua script.",
-          "caption": "Figure 4. Batching implementation.",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:24:36.772660"

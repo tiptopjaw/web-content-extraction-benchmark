@@ -34,20 +34,7 @@
       "Subscribe to our newsletter",
       "Related articles sidebar content",
       "Copyright footer information"
-    ],
-    "images": {
-      "total_in_content": 8,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "/_next/image?url=https%3A%2F%2Fbackend.dynamicbusiness.com%2Fwp-content%2Fuploads%2F2025%2F12%2Fhttps___lunacal.ai_.jpg&w=3840&q=75",
-          "filename": "image",
-          "alt": "https___lunacal.ai",
-          "caption": null,
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:16:37.202962"

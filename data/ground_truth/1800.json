@@ -34,12 +34,7 @@
       "All Content Copyright ©2025 Todd Thomas Home",
       "Privacy Policy | Sitemap",
       "Follow on Facebook"
-    ],
-    "images": {
-      "total_in_content": 0,
-      "annotated_count": 0,
-      "items": []
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:21:05.917137"

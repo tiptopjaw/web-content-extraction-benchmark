@@ -25,8 +25,7 @@
       "The digital revolution has been the biggest thing to hit the world of photography.",
       "The DSLR is the digital version of the SLR (Single Lens Reflex) analogue film camera.",
       "Mirrorless cameras are also subject to full-frame and crop sensor versions.",
-      "Medium format camera types have a sensor that is bigger than 35mm small format cameras.",
-      "Compact cameras or 'point and shoot' systems fit in your pocket and weigh much less than DSLR cameras."
+      "Medium format camera types have a sensor that is bigger than 35mm small format cameras."
     ],
     "without": [
       "Book your trip now",
@@ -34,76 +33,7 @@
       "Popular articles",
       "Scan the QR Code",
       "Other interesting articles"
-    ],
-    "images": {
-      "total_in_content": 50,
-      "annotated_count": 9,
-      "items": [
-        {
-          "src": "https://ipt.images.tshiftcdn.com/206727/x/0/beginner-s-guide-to-types-of-cameras-for-digital-photography-1.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883",
-          "filename": "beginner-s-guide-to-types-of-cameras-for-digital-photography-1.jpg",
-          "alt": "A girl’s hands hold a digital camera from a top-down perspective - types of cameras | digital",
-          "caption": "A girl's hands hold a digital camera from a top-down perspective - types of cameras | digital",
-          "is_hero": true
-        },
-        {
-          "src": "https://ipt.images.tshiftcdn.com/206728/x/0/beginner-s-guide-to-types-of-cameras-for-digital-photography-2.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883",
-          "filename": "beginner-s-guide-to-types-of-cameras-for-digital-photography-2.jpg",
-          "alt": "A digital camera sits on a tripod in a coastal scene - types of cameras | digital",
-          "caption": "DSLRs are great all-round digital cameras for all photography fields. Photo by: 'Neil Thomas'.",
-          "is_hero": false
-        },
-        {
-          "src": "https://ipt.images.tshiftcdn.com/206729/x/0/beginner-s-guide-to-types-of-cameras-for-digital-photography-3.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883",
-          "filename": "beginner-s-guide-to-types-of-cameras-for-digital-photography-3.jpg",
-          "alt": "A man’s hands hold a digital camera - types of cameras | digital",
-          "caption": "The DSLR is the most commonly used digital camera. Photo by: 'James Sutton'.",
-          "is_hero": false
-        },
-        {
-          "src": "https://ipt.images.tshiftcdn.com/206730/x/0/beginner-s-guide-to-types-of-cameras-for-digital-photography-4.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883",
-          "filename": "beginner-s-guide-to-types-of-cameras-for-digital-photography-4.jpg",
-          "alt": "A digital camera hangs around the neck of a person with a red jumper in the background - types of cameras | digital",
-          "caption": "The Canon 7D is a top of the line crop sensor DSLR. Photo by: 'Mario Calvo'.",
-          "is_hero": false
-        },
-        {
-          "src": "https://ipt.images.tshiftcdn.com/206731/x/0/beginner-s-guide-to-types-of-cameras-for-digital-photography-5.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883",
-          "filename": "beginner-s-guide-to-types-of-cameras-for-digital-photography-5.jpg",
-          "alt": "A digital camera on a grey surface - types of cameras | digital",
-          "caption": "The Sony mirrorless system. Photo by: 'Markus Lompa'.",
-          "is_hero": false
-        },
-        {
-          "src": "https://ipt.images.tshiftcdn.com/206732/x/0/beginner-s-guide-to-types-of-cameras-for-digital-photography-6.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883",
-          "filename": "beginner-s-guide-to-types-of-cameras-for-digital-photography-6.jpg",
-          "alt": "A close up of a medium format camera - types of cameras | digital",
-          "caption": "A medium format camera offers very large resolutions. Photo by: 'Donald Giannatti'.",
-          "is_hero": false
-        },
-        {
-          "src": "https://ipt.images.tshiftcdn.com/206733/x/0/beginner-s-guide-to-types-of-cameras-for-digital-photography-7.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883",
-          "filename": "beginner-s-guide-to-types-of-cameras-for-digital-photography-7.jpg",
-          "alt": "A compact camera in a white area - types of cameras | digital",
-          "caption": "A compact camera is a very useful companion on your travel photography. Photo by: 'Jim Varga'.",
-          "is_hero": false
-        },
-        {
-          "src": "https://ipt.images.tshiftcdn.com/206734/x/0/beginner-s-guide-to-types-of-cameras-for-digital-photography-8.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883",
-          "filename": "beginner-s-guide-to-types-of-cameras-for-digital-photography-8.jpg",
-          "alt": "A scene showing buildings with circular distortion - types of cameras | digital",
-          "caption": "Small planet image showing St. Stephen's Basilica in Budapest. Photo by: 'Elio Santos'.",
-          "is_hero": false
-        },
-        {
-          "src": "https://ipt.images.tshiftcdn.com/206735/x/0/beginner-s-guide-to-types-of-cameras-for-digital-photography-9.jpg?auto=compress%2Cformat&ch=Width%2CDPR&dpr=1&ixlib=php-3.3.0&w=883",
-          "filename": "beginner-s-guide-to-types-of-cameras-for-digital-photography-9.jpg",
-          "alt": "Two Black GoPro adventure cameras lie on  grey fabric surface - types of cameras | digital",
-          "caption": "GoPro's are the perfect choice in action photography. Photo by: 'Sai Praveen'.",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:44:01.970821"

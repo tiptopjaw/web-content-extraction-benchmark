@@ -34,20 +34,7 @@
       "Services | Period X™ | Period Z | Taxi Insurance | Uber Black Insurance",
       "Share | Google Plus | Facebook | Twitter",
       "LinkedIn | Instagram | Facebook icons"
-    ],
-    "images": {
-      "total_in_content": 5,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://abiweb.com/wp-content/uploads/2018/06/LA.webp",
-          "filename": "LA.webp",
-          "alt": "Los Angeles Freeway",
-          "caption": "Los Angeles Freeway",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:38:48.669718"

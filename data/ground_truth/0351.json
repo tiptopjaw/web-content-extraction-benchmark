@@ -34,41 +34,7 @@
       "Privacy Policy and Terms of Use",
       "Follow us on Facebook, Instagram, TikTok links",
       "© 2025 Vox Media, LLC. All Rights Reserved"
-    ],
-    "images": {
-      "total_in_content": 5,
-      "annotated_count": 4,
-      "items": [
-        {
-          "src": "https://media1.popsugar-assets.com/files/thumbor/5VCkhoE5USU98KD0wo45LQsQMSg=/fit-in/792x528/top/filters:format_auto():upscale()/2024/10/15/771/n/1922729/tmp_RBTLBC_c82dcf83c0ba2ff0_amp_Machine_Front._Courtesy_-_amp.jpg",
-          "filename": "tmp_RBTLBC_c82dcf83c0ba2ff0_amp_Machine_Front._Courtesy_-_amp.jpg",
-          "alt": null,
-          "caption": "Courtesy of Amp",
-          "is_hero": true
-        },
-        {
-          "src": "https://media1.popsugar-assets.com/files/thumbor/f4bpGaRln8YT72WyYqoPoN3W-TE=/fit-in/792x1056/filters:format_auto():upscale()/2024/10/15/658/n/1922729/tmp_R9biVO_461d7354214ca2dc_IMG_5637_3.gif",
-          "filename": "tmp_R9biVO_461d7354214ca2dc_IMG_5637_3.gif",
-          "alt": null,
-          "caption": "PS Photography | Mirel Zaman",
-          "is_hero": false
-        },
-        {
-          "src": "https://media1.popsugar-assets.com/files/thumbor/llm9AG04nmC9NKJYzaEJzBNLRCY=/fit-in/792x1056/filters:format_auto():upscale()/2024/10/15/657/n/1922729/tmp_YE916j_3a8f6fd80b934fcf_IMG_5637_2.gif",
-          "filename": "tmp_YE916j_3a8f6fd80b934fcf_IMG_5637_2.gif",
-          "alt": null,
-          "caption": "PS Photography | Mirel Zaman",
-          "is_hero": false
-        },
-        {
-          "src": "https://media1.popsugar-assets.com/files/thumbor/JIIvL6GK27xTOdjUX6Sy2NYojWs=/fit-in/792x528/top/filters:format_auto():upscale()/2024/10/15/772/n/1922729/tmp_hiyQjt_1462345ff5d75df0_amp_Accessories.jpg",
-          "filename": "tmp_hiyQjt_1462345ff5d75df0_amp_Accessories.jpg",
-          "alt": null,
-          "caption": "Courtesy of Amp",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:00:42.015810"

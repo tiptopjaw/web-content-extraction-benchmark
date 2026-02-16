@@ -20,10 +20,9 @@
     "title": "Code Kata: Formatting Compound Strings In ColdFusion",
     "author": "Ben Nadel",
     "publish_date": "2025-12-20",
-    "main_content": "Earlier this week, in my Big Sexy Poems ColdFusion application, I added location information to my session list. The location information includes the city, region, and country code; which I compose using conditional commas and parenthesis based on the data that I have available. This kind of conditional composition and formatting never feels elegant. As such, I wanted to explore the topic of conditional formatting as a code kata in ColdFusion. Historically, when implementing conditional composition and formatting of a compound string value such as name, location, address, etc, in ColdFusion, I just brute force it. Meaning, I have a series of if-blocks that conditionally build-up the value one check at a time. As I was looking at my string concatenation, it occurred to me that what I'm really doing is building up a list of values using a variety of delimiters. I wanted to see if I could use ColdFusion's native list-functions to simplify this code. ColdFusion's listAppend() method didn't work; but I liked the concept. So my next thought was to build a ColdFusion User Defined Function (UDF) that borrowed the list concept but was tailored for a multi-character delimiter. A user's name is relatively simple. But I want an approach that can be used for more complex data-sets. When I started to think about composing address values, I hit a snag. With an address, two issues arose. My first approach (brute force) and my last approach (fluent API) are wildly different. But neither is the right approach. Each of these approaches comes with its own trade-offs. There's something to be said about the sheer readability of the brute force approach - top down, imperative awesomeness. The fluent API creates tighter, less noisy code; but, it's also harder to understand. I'm definitely curious to know what kind of formatting techniques everyone else is using.",
+    "main_content": "Earlier this week, in my Big Sexy Poems ColdFusion application, I added location information to my session list. The location information includes the city, region, and country code; which I compose using conditional commas and parenthesis based on the data that I have available. This kind of conditional composition and formatting never feels elegant. As such, I wanted to explore the topic of conditional formatting as a code kata in ColdFusion. Historically, when implementing conditional composition and formatting of a compound string value such as name, location, address, etc, in ColdFusion, I just brute force it. As I was looking at my string concatenation, it occurred to me that what I'm really doing is building up a list of values using a variety of delimiters. I wanted to see if I could use ColdFusion's native list-functions to simplify this code. ColdFusion's listAppend() method didn't work; but I liked the concept. So my next thought was to build a ColdFusion User Defined Function (UDF) that borrowed the list concept but was tailored for a multi-character delimiter. A user's name is relatively simple. But I want an approach that can be used for more complex data-sets. When I started to think about composing address values, I hit a snag. With an address, two issues arose. My first approach (brute force) and my last approach (fluent API) are wildly different. Each of these approaches comes with its own trade-offs. There's something to be said about the sheer readability of the brute force approach - top down, imperative awesomeness. The fluent API creates tighter, less noisy code; but, it's also harder to understand. I'm definitely curious to know what kind of formatting techniques everyone else is using.",
     "with": [
       "The location information includes the city, region, and country code; which I compose using conditional commas and parenthesis based on the data that I have available.",
-      "Meaning, I have a series of if-blocks that conditionally build-up the value one check at a time.",
       "As I was looking at my string concatenation, it occurred to me that what I'm really doing is building up a list of values using a variety of delimiters.",
       "ColdFusion's listAppend() method didn't work; but I liked the concept.",
       "Each of these approaches comes with its own trade-offs. There's something to be said about the sheer readability of the brute force approach - top down, imperative awesomeness."
@@ -34,12 +33,7 @@
       "Navigation item links",
       "Social media buttons and links",
       "Related posts section"
-    ],
-    "images": {
-      "total_in_content": 2,
-      "annotated_count": 0,
-      "items": []
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:34:05.775603"

@@ -34,20 +34,7 @@
       "Leave a comment",
       "2025 Journal Reflection Prompts",
       "Recent Posts"
-    ],
-    "images": {
-      "total_in_content": 50,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://theyogahabituk.blog/wp-content/uploads/2025/01/untitled-design.png?w=940",
-          "filename": "untitled-design.png",
-          "alt": "Practicing yoga in a kitchen that has been completely ripped out. Someone trying to find sanity through yoga in a trying enviroment.",
-          "caption": "Practicing yoga in a kitchen that has been completely ripped out. Someone trying to find sanity through yoga in a trying environment.",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:34:46.790148"

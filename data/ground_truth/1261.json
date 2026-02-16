@@ -35,27 +35,7 @@
       "Privacy Policy",
       "Newsletter Subscriptions",
       "Share This"
-    ],
-    "images": {
-      "total_in_content": 24,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "https://www.iotinsider.com/wp-content/uploads/2025/03/Cybersecurity-in-connected-home-appliances.png",
-          "filename": "Cybersecurity-in-connected-home-appliances.png",
-          "alt": "Rahul Tyagi, CEO of SECQAI delves into the cybersecurity challenges facing connected home appliances",
-          "caption": "Rahul Tyagi, CEO of SECQAI delves into the cybersecurity challenges facing connected home appliances",
-          "is_hero": true
-        },
-        {
-          "src": "https://www.iotinsider.com/wp-content/uploads/2025/03/Rahul-Tygai-Headshot.jpg",
-          "filename": "Rahul-Tygai-Headshot.jpg",
-          "alt": null,
-          "caption": null,
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:19:42.126147"

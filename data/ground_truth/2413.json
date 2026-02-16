@@ -35,20 +35,7 @@
       "Privacy Policy",
       "Navigation menu items",
       "Social media share buttons"
-    ],
-    "images": {
-      "total_in_content": 7,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://www.searchlight.vc/searchlight/news/wp-content/themes/TA_2.2_20240409/icons/spinners/spinner2.gif",
-          "filename": "spinner2.gif",
-          "alt": "1,500 get Salvation Army Christmas hampers",
-          "caption": "SPANISH LEARNING STUDENTS in an information-sharing session",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:11:17.850045"

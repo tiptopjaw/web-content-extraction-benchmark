@@ -33,34 +33,7 @@
       "Get our latest articles in your inbox. Sign up for email alerts.",
       "ISSN 1534-0295 · Copyright © 1998–2025 A List Apart & Our Authors",
       "Become a patron"
-    ],
-    "images": {
-      "total_in_content": 28,
-      "annotated_count": 3,
-      "items": [
-        {
-          "src": "https://alistapart.com/wp-content/uploads/2012/07/understanding-web-design.jpg",
-          "filename": "understanding-web-design.jpg",
-          "alt": "Understanding Web Design",
-          "caption": "Understanding Web Design",
-          "is_hero": true
-        },
-        {
-          "src": "https://i0.wp.com/alistapart.com/wp-content/uploads/2003/09/photo_116023.jpg?resize=150%2C150&ssl=1",
-          "filename": "photo_116023.jpg",
-          "alt": null,
-          "caption": null,
-          "is_hero": false
-        },
-        {
-          "src": "https://i0.wp.com/alistapart.com/wp-content/uploads/2003/09/Google_Chromesnaps002.png?fit=232%2C300&ssl=1",
-          "filename": "Google_Chromesnaps002.png",
-          "alt": null,
-          "caption": "Designing With Web Standards, 3rd Edition by Jeffrey Zeldman",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:20:41.535208"

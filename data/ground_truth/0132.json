@@ -34,12 +34,7 @@
       "Finish a degree",
       "Privacy Policy",
       "Copyright 2025"
-    ],
-    "images": {
-      "total_in_content": 3,
-      "annotated_count": 0,
-      "items": []
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T12:48:34.636933"

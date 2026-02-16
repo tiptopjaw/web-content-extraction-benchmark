@@ -35,20 +35,7 @@
       "© 2025 The Hechinger Report",
       "Share this:",
       "Subscribe"
-    ],
-    "images": {
-      "total_in_content": 10,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://i0.wp.com/hechingerreport.org/wp-content/uploads/2025/08/barshay-tutoring-082525-scaled.jpg?fit=2000%2C1333&ssl=1",
-          "filename": "barshay-tutoring-082525-scaled.jpg",
-          "alt": null,
-          "caption": "Credit: Eric Thayer/Associated Press",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:17:05.831870"

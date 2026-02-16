@@ -20,7 +20,7 @@
     "title": "6 Types of HR Outsourcing You Need to Know About",
     "author": "Escalon",
     "publish_date": "2024-02-27",
-    "main_content": "When defined in the simplest way possible, HR is about people. The Human Resources department of any company is concerned with its employees. They mainly deal with recruitment, administration, and training. They also worry about employment engagement, conflict management, and complaint handling. With so many tasks, the work can become overwhelming. This is where HR Outsourcing comes in. HR Outsourcing is when companies team up with an external agency to carry out HR duties within the organization. Look at it as seeking external help. HR Outsourcing offers many benefits like: Saving time, Expert guidance, Compliance with government laws and regulations, Cost efficiency. To understand HR outsourcing better, we must look at its main types: 1. Professional Employer Organization Outsourcing (PEO): In this type of outsourcing, the company enters into a co-employment contract with the outsourcing agency. While the outsourced company handles employee wages and tax payments, the leading company controls employee contracts, termination, and day-to-day administration. 2. Administrative Services Organization Outsourcing (ASO): As compared to PEO, this is an approach that keeps you closer to your employees. Under this type of outsourcing, the third-party firm remains strictly third-party. That means they are more of a helper than a co-employer. 3. Human Resources Organization (HRO): This type of outsourcing is ideal for organizations that generally have the capacity for a full-time, in-house HR team but need targeted help for specific areas. 4. Software-As-A-Service HR Outsourcing (SAAS): This outsourcing type is software provided to the business by a third-party vendor. This is great for companies that want to cut costs while having an in-house team. 5. Business Process HR Outsourcing (BPO): In this type of outsourcing, a company employs a third-party firm for a specific HR function. This is usually done for complex processes. 6. Single Source HR Outsourcing: In this type of outsourcing, a third-party firm fulfills all HR needs of a business, right from hiring, training, and employee management to upskilling, conflict management, and termination. Remember, there's no one-size-fits-all solution for a company. So, consider your company's needs and find the best fit for yourself.",
+    "main_content": "When defined in the simplest way possible, HR is about people. The Human Resources department of any company is concerned with its employees. They mainly deal with recruitment, administration, and training. They also worry about employment engagement, conflict management, and complaint handling. With so many tasks, the work can become overwhelming. This is where HR Outsourcing comes in. HR Outsourcing is when companies team up with an external agency to carry out HR duties within the organization. Look at it as seeking external help. To understand HR outsourcing better, we must look at its main types: 1. Professional Employer Organization Outsourcing (PEO): In this type of outsourcing, the company enters into a co-employment contract with the outsourcing agency. While the outsourced company handles employee wages and tax payments, the leading company controls employee contracts, termination, and day-to-day administration. 2. Administrative Services Organization Outsourcing (ASO): As compared to PEO, this is an approach that keeps you closer to your employees. Under this type of outsourcing, the third-party firm remains strictly third-party. That means they are more of a helper than a co-employer. 3. Human Resources Organization (HRO): This type of outsourcing is ideal for organizations that generally have the capacity for a full-time, in-house HR team but need targeted help for specific areas. 4. Software-As-A-Service HR Outsourcing (SAAS): This outsourcing type is software provided to the business by a third-party vendor. This is great for companies that want to cut costs while having an in-house team. 5. Business Process HR Outsourcing (BPO): In this type of outsourcing, a company employs a third-party firm for a specific HR function. Single Source HR Outsourcing: In this type of outsourcing, a third-party firm fulfills all HR needs of a business, right from hiring, training, and employee management to upskilling, conflict management, and termination. Remember, there's no one-size-fits-all solution for a company. So, consider your company's needs and find the best fit for yourself.",
     "with": [
       "The Human Resources department of any company is concerned with its employees.",
       "HR Outsourcing is when companies team up with an external agency to carry out HR duties within the organization.",
@@ -34,20 +34,7 @@
       "Footer copyright © 2025 Escalon. All rights reserved.",
       "Privacy Policy footer link",
       "Subscribe to newsletter call-to-action"
-    ],
-    "images": {
-      "total_in_content": 39,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://secure.gravatar.com/avatar/e9f9639c56476268f29751aa591a386a7be9f10f86a3cbfc5a8eb98dbfcdfa2b?s=250&d=mm&r=g",
-          "filename": "e9f9639c56476268f29751aa591a386a7be9f10f86a3cbfc5a8eb98dbfcdfa2b",
-          "alt": null,
-          "caption": "Escalon author avatar",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:57:08.113089"

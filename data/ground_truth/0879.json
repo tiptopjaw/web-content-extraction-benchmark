@@ -19,11 +19,11 @@
     "title": "Dental Care | ONE Health Ohio",
     "author": null,
     "publish_date": null,
-    "main_content": "You’ll find state-of-the-art treatment facilities at ONE Health Ohio, along with caring, compassionate Dentists, Dental Assistants and Dental Hygienists. Dental services are available for adults and children at ONE Health Ohio centers in Trumbull and Mahoning Counties. Procedures and Services: Screening Exams, Cleanings, Extractions, X-rays, Tooth-Colored Fillings, Preventive Care, Orthodontic Evaluations, Root Canals on Select Teeth, Digital Radiographic Analysis, Dental Emergency. ONE Health Ohio Centers that Offer Dental: Youngstown Community Health Center, Lloyd McCoy Community Health Center, Warren West Community Health Center, Falls Family Care. Walk In Center at Lloyd McCoy: Do you have a dental emergency? We have a walk in center available most saturdays from 1 – 4 pm. You can also reach us by phone for any questions or concerns at 330-747-9551.",
+    "main_content": "You'll find state-of-the-art treatment facilities at ONE Health Ohio, along with caring, compassionate Dentists, Dental Assistants and Dental Hygienists. Dental services are available for adults and children at ONE Health Ohio centers in Trumbull and Mahoning Counties. We have a walk in center available most saturdays from 1 - 4 pm. You can also reach us by phone for any questions or concerns at 330-747-9551.",
     "with": [
       "You'll find state-of-the-art treatment facilities at ONE Health Ohio, along with caring, compassionate Dentists, Dental Assistants and Dental Hygienists.",
       "Dental services are available for adults and children at ONE Health Ohio centers in Trumbull and Mahoning Counties.",
-      "Do you have a dental emergency? We have a walk in center available most saturdays from 1 – 4 pm.",
+      "Do you have a dental emergency? We have a walk in center available most saturdays from 1 - 4 pm.",
       "ONE Health Ohio is a Federally Qualified Health Center (FQHC) that has provided primary medical and dental care to the communities we serve since 1986.",
       "To improve the health and well-being of people in our communities by providing quality health care, particularly to the uninsured and underinsured."
     ],
@@ -33,27 +33,7 @@
       "Facebook | X | Instagram",
       "Patient Portal | Careers | Contact Us",
       "ONE Health Ohio » Feed"
-    ],
-    "images": {
-      "total_in_content": 3,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "https://onehealthohio.org/wp-content/uploads/2020/09/2019-banner-sliders-2-small-scaled.jpg",
-          "filename": "2019-banner-sliders-2-small-scaled.jpg",
-          "alt": null,
-          "caption": null,
-          "is_hero": true
-        },
-        {
-          "src": "https://onehealthohio.org/wp-content/uploads/2022/11/FTCA-Badge_web-version-300x250.jpg",
-          "filename": "FTCA-Badge_web-version-300x250.jpg",
-          "alt": null,
-          "caption": "FTCA Deemed Facility - ONE Health Ohio is an FTCA deemed facility. For malpractice purposes, ONE Health Ohio is covered under the FTCA and our staff members are considered Public Health Employees.",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:53:31.129904"

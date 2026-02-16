@@ -35,12 +35,7 @@
       "GitHub social icon",
       "Ctrl+K to Preview",
       "Three-dot decorative element"
-    ],
-    "images": {
-      "total_in_content": 0,
-      "annotated_count": 0,
-      "items": []
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:03:38.780791"

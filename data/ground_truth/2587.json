@@ -35,48 +35,7 @@
       "Subscribe to our newsletter",
       "Privacy Policy",
       "Cookie notice"
-    ],
-    "images": {
-      "total_in_content": 6,
-      "annotated_count": 5,
-      "items": [
-        {
-          "src": "/images/aoah-html5-ss-tests.webp",
-          "filename": "aoah-html5-ss-tests.webp",
-          "alt": "The HTML5 test suite is quite scary, but this is what browser developers have to deal with.",
-          "caption": "The HTML5 test suite is quite scary, but this is what browser developers have to deal with.",
-          "is_hero": true
-        },
-        {
-          "src": "/images/aoah-html5-ss-1.webp",
-          "filename": "aoah-html5-ss-1.webp",
-          "alt": "The planning using subagents churned through the tests fairly quickly",
-          "caption": "The planning using subagents churned through the tests fairly quickly",
-          "is_hero": false
-        },
-        {
-          "src": "/images/aoah-html5-ss-3.webp",
-          "filename": "aoah-html5-ss-3.webp",
-          "alt": "The planning process uses parallel agents to explore each library, to minimise context usage.",
-          "caption": "The planning process uses parallel agents to explore each library, to minimise context usage.",
-          "is_hero": false
-        },
-        {
-          "src": "/images/aoah-html5-ss-4.webp",
-          "filename": "aoah-html5-ss-4.webp",
-          "alt": "The agent then returns with results of the search including recommendations.",
-          "caption": "The agent then returns with results of the search including recommendations.",
-          "is_hero": false
-        },
-        {
-          "src": "/images/aoah-html5-ss-odoc.webp",
-          "filename": "aoah-html5-ss-odoc.webp",
-          "alt": "Learn all sorts of random HTML5 facts like context sensitive fragment parsing by browsing the OCaml docs!",
-          "caption": "Learn all sorts of random HTML5 facts like context sensitive fragment parsing by browsing the OCaml docs!",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:09:55.805528"

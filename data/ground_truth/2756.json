@@ -35,34 +35,7 @@
       "Affiliated Brands",
       "Privacy Policy",
       "© 2025 All rights reserved"
-    ],
-    "images": {
-      "total_in_content": 9,
-      "annotated_count": 3,
-      "items": [
-        {
-          "src": "https://img.bdcnetwork.com/files/base/ebm/bdcnetwork/image/2025/12/6945885aa2d8ab783ac2db68-abstract4226274_1920.png?auto=format,compress&fit=fill&fill=blur&q=45?w=250&width=250",
-          "filename": "6945885aa2d8ab783ac2db68-abstract4226274_1920.png",
-          "alt": "Abstract, Backgrounds, Building royalty-free vector graphic.",
-          "caption": "Image by AlexZel from Pixabay",
-          "is_hero": true
-        },
-        {
-          "src": "https://img.bdcnetwork.com/files/base/ebm/bdcnetwork/image/2025/12/6945862d068d9163eff9f3e3-method_dc_04.png?auto=format,compress&fit=max&q=45?w=250&width=250",
-          "filename": "6945862d068d9163eff9f3e3-method_dc_04.png",
-          "alt": "Photo courtesy Method Architecture",
-          "caption": "Photo courtesy Method Architecture",
-          "is_hero": false
-        },
-        {
-          "src": "https://img.bdcnetwork.com/files/base/ebm/bdcnetwork/image/2025/12/6945865e8ec10d6a5b2e5ff7-method_dc_02.png?auto=format,compress&fit=max&q=45?w=250&width=250",
-          "filename": "6945865e8ec10d6a5b2e5ff7-method_dc_02.png",
-          "alt": "Photo courtesy Method Architecture",
-          "caption": "Photo courtesy Method Architecture",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:32:11.193485"

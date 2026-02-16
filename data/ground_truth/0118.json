@@ -34,55 +34,7 @@
       "Partner Brands",
       "Our Services",
       "See all Partner Brands"
-    ],
-    "images": {
-      "total_in_content": 32,
-      "annotated_count": 6,
-      "items": [
-        {
-          "src": "https://advantagefitness.com/wp-content/uploads/2025/02/Precor-Facility_TRMs-with-People-Working-Out-1494x1275-3b1948e.jpg",
-          "filename": "Precor-Facility_TRMs-with-People-Working-Out-1494x1275-3b1948e.jpg",
-          "alt": null,
-          "caption": null,
-          "is_hero": true
-        },
-        {
-          "src": "https://images.squarespace-cdn.com/content/v1/5ada11772714e5eb213ab1df/2b37d7d8-6643-465c-abff-30cebfdd0a43/Peloton+Row.jpg",
-          "filename": "Peloton+Row.jpg",
-          "alt": null,
-          "caption": null,
-          "is_hero": false
-        },
-        {
-          "src": "https://images.squarespace-cdn.com/content/v1/5ada11772714e5eb213ab1df/1598392203083-6UFX7J1PAHKT2V0QXTAQ/Court-Jester-Web-11.jpg",
-          "filename": "Court-Jester-Web-11.jpg",
-          "alt": null,
-          "caption": null,
-          "is_hero": false
-        },
-        {
-          "src": "https://images.squarespace-cdn.com/content/v1/5ada11772714e5eb213ab1df/1655830944440-NSZGFKWMGEQK9E778JKQ/Court-Jester-Web-09.jpg",
-          "filename": "Court-Jester-Web-09.jpg",
-          "alt": null,
-          "caption": null,
-          "is_hero": false
-        },
-        {
-          "src": "https://images.squarespace-cdn.com/content/v1/5ada11772714e5eb213ab1df/d13b6831-c22a-42a3-abb5-811c495bceee/Hypervolt_2_Pro_3.jpeg",
-          "filename": "Hypervolt_2_Pro_3.jpeg",
-          "alt": null,
-          "caption": null,
-          "is_hero": false
-        },
-        {
-          "src": "https://images.squarespace-cdn.com/content/v1/5ada11772714e5eb213ab1df/726bb9f2-4b17-4b48-9198-36f03c707fc2/Escape+Recovery+MARS+.jpg",
-          "filename": "Escape+Recovery+MARS+.jpg",
-          "alt": null,
-          "caption": "The MARS Recovery Pack by Escape Fitness",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T12:38:00.994729"

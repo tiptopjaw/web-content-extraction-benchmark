@@ -35,34 +35,7 @@
       "Privacy Policy",
       "Footer navigation links",
       "Social media sharing buttons"
-    ],
-    "images": {
-      "total_in_content": 3,
-      "annotated_count": 3,
-      "items": [
-        {
-          "src": "/assets/images/authors/kimberly.png",
-          "filename": "kimberly.png",
-          "alt": "Kimberly Rhodes",
-          "caption": null,
-          "is_hero": false
-        },
-        {
-          "src": "/assets/images/authors/fernando-olivares.png",
-          "filename": "fernando-olivares.png",
-          "alt": "Fernando Olivares",
-          "caption": null,
-          "is_hero": false
-        },
-        {
-          "src": "/assets/images/authors/jeffrey.png",
-          "filename": "jeffrey.png",
-          "alt": "Jeffrey Hardy",
-          "caption": null,
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:25:11.251706"

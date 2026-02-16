@@ -20,7 +20,7 @@
     "title": "Vibe Coding",
     "author": "David",
     "publish_date": "2025-12-16",
-    "main_content": "I have been teaching myself to vibe coding. Back in 2009 I posted a simple Mandelbrot fractal viewer on the web: a single HTML file with inline Javascript. Just 329 lines of code, each pixel a tiny table cell. Click to zoom. Watch it iterate. That was about it! I have wondered if improving the page could raise it in the Google rankings, so I have been using code LMs to make a number of improvements.\n\nThere are two categories of vibe coding. One is when you delegate little tasks to a coding LM while keeping yourself as the human 'real programmer' fully informed and in control. The second type of vibe coding is when you use a coding agent to build towers of complexity that go beyond what you have time to understand in any detail. I am interested in what it means to cede cognitive control to an AI.\n\nThe last human-written version of the webpage without LLM assistance was 780 lines; you can see its 37 functions diagrammed below. It is a nice elegant piece of code, but pretty simplistic as a fractal implementation. A key litmus test for a fractal viewer is how deep and fast it goes. By these measures, my human-written program was amateurish.\n\nCompare to how the LLM-assisted version renders images. The LLM version is much faster because it uses the GPU. But it plays many more tricks than just moving the calculation from CPU to GPU, because although the GPU is hundreds of times faster than a CPU, its 7-digit fp32 is also millions of times coarser than the CPU's 15-digit fp64. So the LLM-generated program deals with this by implementing perturbation algorithms to split the work between CPU and GPU.\n\nThere are multiple ways to implement perturbation algorithms, and so the LLM code implements and benchmarks nine alternative approaches, selecting different algorithms at different zoom levels and compute availability to follow the Pareto frontier of time/resolution tradeoff.\n\nThat brings me to the rules for getting an LLM agent to work effectively: David's two rules for vibe coding. They are simple rules.\n\nRule 1: Automate tests. If you just ask the agent to solve a problem, it will run around for a few minutes and come back with a rough solution. Then you test it, find it doesn't work, tell it so, and it runs around again for another five minutes. But if you get the agent to write a good automated test first, something changes. After it runs around for five minutes, it remembers to check its own work.\n\nRule 2: Test the tests. The agent is good at finding holes in your tests. It produces stupid solutions that don't do what you want but still pass, because the tests were not actually good enough. Testing tests is the kind of thankless metaprogramming that a development manager spends all their time doing, to make their team productive.\n\nBut once you can get the metaprogramming right, and do it well, you can reach a kind of vibe coding nirvana. Because then, as a human, you can look at code again! Instead of facing thousands of jumbled lines vomited up by the agent, now you've got maps of the code, informed by code coverage, benchmarks, test harnesses, and other instrumentation.\n\nMy experience vibe coding reminds me of the difference between walking and driving a truck. Highway driving is a new skill, but with a truck you can haul a lot more stuff faster than you could dream of on foot. Vibe working with AI gets you out of the business of actual intellectual hauling. Instead it gets you into the business of taking care of the machine.\n\nAs AI edges humans out of the business of thinking, I think we need to be wary of losing something essential about being human. By making our world more complex—twenty times more lines of code!—we risk losing touch with our ability to understand the world in ways that dull our ability to make good decisions. I hope we can build metacognitive infrastructure that keeps our human minds informed. But as we build increasingly powerful abstractions, it will be both crucial and difficult to keep asking: Do we want this?",
+    "main_content": "I have been teaching myself to vibe coding. Back in 2009 I posted a simple Mandelbrot fractal viewer on the web: a single HTML file with inline Javascript. Just 329 lines of code, each pixel a tiny table cell. Click to zoom. Watch it iterate. That was about it! I have wondered if improving the page could raise it in the Google rankings, so I have been using code LMs to make a number of improvements.\n\nThere are two categories of vibe coding. One is when you delegate little tasks to a coding LM while keeping yourself as the human 'real programmer' fully informed and in control. The second type of vibe coding is when you use a coding agent to build towers of complexity that go beyond what you have time to understand in any detail. I am interested in what it means to cede cognitive control to an AI.\n\nThe last human-written version of the webpage without LLM assistance was 780 lines; you can see its 37 functions diagrammed below. It is a nice elegant piece of code, but pretty simplistic as a fractal implementation. A key litmus test for a fractal viewer is how deep and fast it goes. By these measures, my human-written program was amateurish.\n\nCompare to how the LLM-assisted version renders images. The LLM version is much faster because it uses the GPU. But it plays many more tricks than just moving the calculation from CPU to GPU, because although the GPU is hundreds of times faster than a CPU, its 7-digit fp32 is also millions of times coarser than the CPU's 15-digit fp64. So the LLM-generated program deals with this by implementing perturbation algorithms to split the work between CPU and GPU.\n\nThere are multiple ways to implement perturbation algorithms, and so the LLM code implements and benchmarks nine alternative approaches, selecting different algorithms at different zoom levels and compute availability to follow the Pareto frontier of time/resolution tradeoff.\n\nThat brings me to the rules for getting an LLM agent to work effectively: David's two rules for vibe coding. They are simple rules.\n\n If you just ask the agent to solve a problem, it will run around for a few minutes and come back with a rough solution. Then you test it, find it doesn't work, tell it so, and it runs around again for another five minutes. But if you get the agent to write a good automated test first, something changes. After it runs around for five minutes, it remembers to check its own work.\n\n The agent is good at finding holes in your tests. It produces stupid solutions that don't do what you want but still pass, because the tests were not actually good enough. Testing tests is the kind of thankless metaprogramming that a development manager spends all their time doing, to make their team productive.\n\nBut once you can get the metaprogramming right, and do it well, you can reach a kind of vibe coding nirvana. Because then, as a human, you can look at code again! Instead of facing thousands of jumbled lines vomited up by the agent, now you've got maps of the code, informed by code coverage, benchmarks, test harnesses, and other instrumentation.\n\nMy experience vibe coding reminds me of the difference between walking and driving a truck. Highway driving is a new skill, but with a truck you can haul a lot more stuff faster than you could dream of on foot. Vibe working with AI gets you out of the business of actual intellectual hauling. Instead it gets you into the business of taking care of the machine.\n\nAs AI edges humans out of the business of thinking, I think we need to be wary of losing something essential about being human. By making our world more complex—twenty times more lines of code!—we risk losing touch with our ability to understand the world in ways that dull our ability to make good decisions. I hope we can build metacognitive infrastructure that keeps our human minds informed. But as we build increasingly powerful abstractions, it will be both crucial and difficult to keep asking: Do we want this?",
     "with": [
       "I have been teaching myself to vibe coding.",
       "The last human-written version of the webpage without LLM assistance was 780 lines; you can see its 37 functions diagrammed below.",
@@ -34,55 +34,7 @@
       "A Dabbler's Weblog",
       "Post a comment",
       "Main | Archives"
-    ],
-    "images": {
-      "total_in_content": 6,
-      "annotated_count": 6,
-      "items": [
-        {
-          "src": "/images/art/last-human-version.png",
-          "filename": "last-human-version.png",
-          "alt": null,
-          "caption": "Call graph diagram showing 37 functions in the last human-written version (780 lines)",
-          "is_hero": false
-        },
-        {
-          "src": "/images/art/mandelbrot-2022-example.png",
-          "filename": "mandelbrot-2022-example.png",
-          "alt": null,
-          "caption": "Pixelated fractal output from the 2022 human-written version at deep zoom level",
-          "is_hero": false
-        },
-        {
-          "src": "/images/art/mandelbrot-2025-example.png",
-          "filename": "mandelbrot-2025-example.png",
-          "alt": null,
-          "caption": "Sharp fractal output from the LLM-assisted 2025 version at the same location",
-          "is_hero": true
-        },
-        {
-          "src": "/images/art/vibe-coded-version.png",
-          "filename": "vibe-coded-version.png",
-          "alt": null,
-          "caption": "Call graph visualization of the vibe-coded version with 30 classes and 342 methods",
-          "is_hero": false
-        },
-        {
-          "src": "/images/art/mandelbrot-coverage.png",
-          "filename": "mandelbrot-coverage.png",
-          "alt": null,
-          "caption": "Code coverage visualization showing test infrastructure",
-          "is_hero": false
-        },
-        {
-          "src": "/images/photo/south-bay-interchange.jpg",
-          "filename": "south-bay-interchange.jpg",
-          "alt": null,
-          "caption": "South Bay Interchange photograph used as metaphor for complex systems",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:33:16.020155"

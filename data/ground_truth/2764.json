@@ -35,27 +35,7 @@
       "Recommended For You",
       "More in Tech",
       "Trending on Mashable"
-    ],
-    "images": {
-      "total_in_content": 34,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "https://helios-i.mashable.com/imagery/articles/01CbPzhBhQbaCGaDfeIWOpX/hero-image.fill.size_1248x702.v1765453968.jpg",
-          "filename": "hero-image.fill.size_1248x702.v1765453968.jpg",
-          "alt": "Apple Macbook Pro (2020) i5 2GHz Touchbar 16GB RAM 512GB SSD Silver (Refurbished)",
-          "caption": "This MacBook Pro is over $1,300 off just in time for the holidays. Credit: Apple",
-          "is_hero": true
-        },
-        {
-          "src": "https://helios-i.mashable.com/imagery/articles/01CbPzhBhQbaCGaDfeIWOpX/images-1.fill.size_256x192.v1765453968.jpg",
-          "filename": "images-1.fill.size_256x192.v1765453968.jpg",
-          "alt": "Apple Macbook Pro (2020) i5 2GHz Touchbar 16GB RAM 512GB SSD Silver (Refurbished)",
-          "caption": "Credit: Apple",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:34:31.380885"

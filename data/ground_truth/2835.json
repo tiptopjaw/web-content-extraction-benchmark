@@ -20,10 +20,8 @@
     "title": "The Best Smart Home Lamps",
     "author": "Irene Okpanachi",
     "publish_date": "2025-12-13",
-    "main_content": "Android phones have snuck into ecosystems far beyond simple messaging and apps. They now sit at the center of how we live. You can unlock your doors, start cars, run security cameras, and manage routines. Controlling your lights from your phone or voice is also not uncommon. With a quick \"Hey Google\" or \"Alexa\", your bedside or living room lamp can set the mood for any occasion. If you're looking to buy one, here are some great options. The Govee RGBIC floor lamp ($99.99) is the best overall, letting you tell Alexa what mood you want for your room with every section of the strip shining in different colors simultaneously. The Meross smart table lamp ($39.99) is the best premium option, projecting hotel-style ambience with support for Apple HomeKit, Siri, Alexa, Google, and SmartThings. The Amazon Echo Glow lamp ($29.99) is the best budget choice, working well with Echo devices for bedtime dimming and ambience. Additional options include the YHW floor lamp ($42.99) with music sync, the Varicart smart floor lamp ($59.99) with included RGBCW bulb, and the HiFree smart table lamp ($29.99) with anti-blue light LEDs. You've focused on what happens inside your home. Have you considered that the outside lighting is just as important? Set the tone before anyone even walks through your door and add safety to pathways and entrances. Outdoor lights will give your home a sense of presence even when you're not there.",
+    "main_content": "Android phones have snuck into ecosystems far beyond simple messaging and apps. They now sit at the center of how we live. You can unlock your doors, start cars, run security cameras, and manage routines. Controlling your lights from your phone or voice is also not uncommon. With a quick \"Hey Google\" or \"Alexa\", your bedside or living room lamp can set the mood for any occasion. If you're looking to buy one, here are some great options. You've focused on what happens inside your home. Have you considered that the outside lighting is just as important? Set the tone before anyone even walks through your door and add safety to pathways and entrances. Outdoor lights will give your home a sense of presence even when you're not there.",
     "with": [
-      "The Govee RGBIC floor lamp is the best overall, letting you tell Alexa what mood you want for your room.",
-      "The Meross smart table lamp projects hotel-style ambience rather than a harsh spot of light.",
       "Amazon's own Echo Glow is the reason you'll be looking twice at the simplest option on the shelf.",
       "The YHW lamp gives you full smart control using Alexa, Google, Siri, the app, or the included remote.",
       "A smooth glowing half sphere that looks almost like a soft sunrise."
@@ -34,62 +32,7 @@
       "Recent Android News",
       "Leave a Reply",
       "Follow us on social media"
-    ],
-    "images": {
-      "total_in_content": 23,
-      "annotated_count": 7,
-      "items": [
-        {
-          "src": "https://www.talkandroid.com/wp-content/uploads/2025/06/Govee-table-lamp-2-pro-lifestyle-800x442.jpg",
-          "filename": "Govee-table-lamp-2-pro-lifestyle-800x442.jpg",
-          "alt": "Gradient and ambient light lamp on a center table in living room",
-          "caption": "Gradient and ambient light lamp on a center table in living room",
-          "is_hero": true
-        },
-        {
-          "src": "https://www.talkandroid.com/wp-content/uploads/2025/12/Govee-RGBIC-Floor-Lamp.jpg",
-          "filename": "Govee-RGBIC-Floor-Lamp.jpg",
-          "alt": "The Best Smart Home Lamps 4",
-          "caption": "Govee RGBIC floor lamp - Best overall",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.talkandroid.com/wp-content/uploads/2025/12/Meross-smart-table-lamp.jpg",
-          "filename": "Meross-smart-table-lamp.jpg",
-          "alt": "The Best Smart Home Lamps 5",
-          "caption": "Meross smart table lamp - Best premium",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.talkandroid.com/wp-content/uploads/2025/12/Amazon-Echo-Glow-lamp.jpg",
-          "filename": "Amazon-Echo-Glow-lamp.jpg",
-          "alt": "The Best Smart Home Lamps 6",
-          "caption": "Amazon Echo Glow lamp - Best budget",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.talkandroid.com/wp-content/uploads/2025/12/YHW-floor-lamp.jpg",
-          "filename": "YHW-floor-lamp.jpg",
-          "alt": "The Best Smart Home Lamps 7",
-          "caption": "YHW floor lamp",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.talkandroid.com/wp-content/uploads/2025/12/Varicart-smart-floor-lamp.jpg",
-          "filename": "Varicart-smart-floor-lamp.jpg",
-          "alt": "The Best Smart Home Lamps 8",
-          "caption": "Varicart smart floor lamp",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.talkandroid.com/wp-content/uploads/2025/12/Hifree-smart-table-lamp.jpg",
-          "filename": "Hifree-smart-table-lamp.jpg",
-          "alt": "The Best Smart Home Lamps 9",
-          "caption": "HiFree smart table lamp",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:10:45.364409"

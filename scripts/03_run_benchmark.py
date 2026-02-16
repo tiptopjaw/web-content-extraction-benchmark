@@ -18,14 +18,20 @@ from extractors import (
     ReadabilityExtractor,
     Boilerpy3Extractor,
     BeautifulSoupExtractor,
-    RsTrafilaturaExtractor
+    RsTrafilaturaExtractor,
+    DomContentExtractionExtractor,
+    DomSmoothieExtractor,
+    Nanohtml2textExtractor,
+    FastHtml2mdExtractor,
 )
 
 # Paths
 DATA_DIR = BASE_DIR / "data"
-HTML_DIR = DATA_DIR / "html_files"
-GROUND_TRUTH_DIR = DATA_DIR / "ground_truth"  # 1,193 annotation files
+BENCHMARK_DIR = BASE_DIR / "benchmark"
+HTML_DIR = BENCHMARK_DIR / "html"
+GROUND_TRUTH_DIR = BENCHMARK_DIR / "ground-truth"
 RESULTS_DIR = BASE_DIR / "results"
+VERIFIED_BENCHMARK_FILES = DATA_DIR / "verified_benchmark_files.json"
 CATEGORY_REMOVAL_REPORT = DATA_DIR / "category_removal_report.json"
 DIRECTORY_EXCLUSION_REPORT = DATA_DIR / "directory_exclusion_report.json"
 INCOMPLETE_ANNOTATION_FLAGS = DATA_DIR / "incomplete_annotation_flags.json"
@@ -185,6 +191,11 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
         'boilerpy3-default': Boilerpy3Extractor('DefaultExtractor'),
         'beautifulsoup': BeautifulSoupExtractor(),
         'rs-trafilatura': RsTrafilaturaExtractor(),
+        # New Rust extractors
+        'dom-content-extraction': DomContentExtractionExtractor(),
+        'dom-smoothie': DomSmoothieExtractor(),
+        'nanohtml2text': Nanohtml2textExtractor(),
+        'fast-html2md': FastHtml2mdExtractor(),
     }
 
     # Filter if specific extractor requested
@@ -195,14 +206,24 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
             return
         extractors = {extractor_name: extractors[extractor_name]}
 
-    # Get all ground truth files, filtering excluded ones
-    excluded_ids = load_excluded_file_ids()
+    # Get ground truth files - prefer verified benchmark list if available
     incomplete_annotation_ids = load_incomplete_annotation_ids()
-    all_ground_truth_files = sorted(GROUND_TRUTH_DIR.glob("*.json"))
-    ground_truth_files = [
-        f for f in all_ground_truth_files
-        if f.stem not in excluded_ids
-    ]
+    if VERIFIED_BENCHMARK_FILES.exists():
+        with open(VERIFIED_BENCHMARK_FILES, 'r') as f:
+            verified_ids = json.load(f)
+        ground_truth_files = [
+            GROUND_TRUTH_DIR / f"{fid}.json" for fid in verified_ids
+            if (GROUND_TRUTH_DIR / f"{fid}.json").exists()
+        ]
+        filter_msg = f"Using {len(ground_truth_files)} verified benchmark files"
+    else:
+        excluded_ids = load_excluded_file_ids()
+        all_ground_truth_files = sorted(GROUND_TRUTH_DIR.glob("*.json"))
+        ground_truth_files = [
+            f for f in all_ground_truth_files
+            if f.stem not in excluded_ids
+        ]
+        filter_msg = f"Excluded {len(excluded_ids)} files based on category filters"
 
     if limit:
         ground_truth_files = ground_truth_files[:limit]
@@ -210,7 +231,7 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
     print(f"\n{'='*80}")
     print(f"Content Extraction Benchmark")
     print(f"{'='*80}\n")
-    print(f"Excluded {len(excluded_ids)} files based on category filters")
+    print(filter_msg)
     print(f"Flagged {len(incomplete_annotation_ids)} files with potentially incomplete annotations")
     print(f"Testing {len(extractors)} extractor(s) on {len(ground_truth_files)} files\n")
 
@@ -343,7 +364,8 @@ def main():
     parser.add_argument(
         '--extractor',
         choices=['trafilatura', 'readability', 'boilerpy3-article',
-                'boilerpy3-default', 'beautifulsoup', 'rs-trafilatura'],
+                'boilerpy3-default', 'beautifulsoup', 'rs-trafilatura',
+                'dom-content-extraction', 'dom-smoothie', 'nanohtml2text', 'fast-html2md'],
         help="Test only specific extractor (default: all)"
     )
     parser.add_argument(

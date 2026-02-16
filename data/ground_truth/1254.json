@@ -34,20 +34,7 @@
       "© 2025 WFA. All Rights Reserved",
       "Follow us on",
       "Contact Us"
-    ],
-    "images": {
-      "total_in_content": 11,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://worldfutureawards.com/wp-content/uploads/2025/07/WPF2@4x-8-2560x1444.png",
-          "filename": "WPF2@4x-8-2560x1444.png",
-          "alt": null,
-          "caption": null,
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:18:22.932374"

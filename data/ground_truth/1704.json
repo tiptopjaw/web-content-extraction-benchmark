@@ -25,7 +25,6 @@
       "Artificial intelligence (AI) is reshaping how students learn and interact with course materials.",
       "Among the most notable advancements in this realm are intelligent tutoring systems (ITS), which use AI to deliver personalized instruction.",
       "By adapting to individual student needs, providing real-time feedback, and tailoring content, ITS can transform learning.",
-      "The architecture of an ITS typically comprises four key components: The domain model, the student model, the tutoring model, and the user interface model.",
       "Intelligent tutoring systems deliver immediate feedback and targeted instruction, boosting engagement, retention, and overall learning outcomes."
     ],
     "without": [
@@ -34,20 +33,7 @@
       "Donate",
       "© 2025 Park University",
       "Parkville, MO"
-    ],
-    "images": {
-      "total_in_content": 1,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://www.park.edu/wp-content/uploads/2025/02/ai-tutor-1024x576.png",
-          "filename": "ai-tutor-1024x576.png",
-          "alt": "ai tutor",
-          "caption": null,
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:54:43.688081"

@@ -20,13 +20,13 @@
     "title": "SEO Checker | Test your website for free with Seobility",
     "author": null,
     "publish_date": null,
-    "main_content": "Free SEO Checker - Test your website with Seobility's SEO Checker! Complying with search engine guidelines and making your content accessible to both traditional and AI crawlers are important factors for the success of your website. The SEO Checker analyzes your website and gives you tips on optimizing your site for long-term success in search engine optimization and AI search results. Get a quick overview of your website optimization by analyzing any web page with the free SEO checker. Find technical errors and on-page SEO issues that might be holding your site back from top search engine rankings and visibility in AI answer engines. Get your free SEO score as well as individual sub-scores for meta-information, page quality, page structure, link structure, server configuration, and external factors. With your prioritized task list of SEO improvements, you will immediately know where to start to achieve quick and noticeable results. The SEO checker analyzes if your website meets criteria search engines use to determine your website's ranking in search results. More than 200 parameters in the categories of meta-information, page quality, page structure, link structure, server configuration, and external factors are checked and results are considered when calculating the SEO score. The SEO score indicates how well the web page complies with search engines' quality guidelines. A score higher than 80% means the web page is already well-optimized whereas a score below 80% shows room for improvement. A score below 30% indicates severe errors and SEO issues.",
+    "main_content": "Free SEO Checker\nTest your website with Seobility's SEO Checker! Complying with search engine guidelines and making your content accessible to both traditional and AI crawlers are important factors for the success of your website. The SEO Checker analyzes your website and gives you tips on optimizing your site for long-term success in search engine optimization and AI search results!\nGet a quick overview of your website optimization\nAnalyze any web page with the free SEO checker by Seobility to find technical errors and on-page SEO issues that might be holding your site back from top search engine rankings and visibility in AI answer engines. Get your free SEO score as well as individual sub-scores for each of the categories checked, including meta-information, page quality, page structure, link structure, server configuration, and external factors.\nWith your prioritized task list of SEO improvements, you will immediately know where to start to achieve quick and noticeable results. The Seobility SEO checker analyzes if your website meets criteria search engines use to determine your website's ranking in search results. In order to do that more than 200 parameters in the categories of meta-information, page quality, page structure, link structure, server configuration, and external factors are checked and results are considered when calculating the SEO score.\nWhat is an SEO score?\nThe individual SEO score of your website indicates how well the web page complies with search engines' quality guidelines. One can roughly say, that if the score is higher than 80% it means that the web page is already well-optimized whereas a score below 80% shows that there's still room for improvement. If the score is below 30% there are severe errors and SEO issues on your website you should definitely deal with.",
     "with": [
       "Complying with search engine guidelines and making your content accessible to both traditional and AI crawlers are important factors for the success of your website.",
       "The SEO Checker analyzes your website and gives you tips on optimizing your site for long-term success in search engine optimization and AI search results.",
       "Get your free SEO score as well as individual sub-scores for each of the categories checked, including meta-information, page quality, page structure, link structure, server configuration, and external factors.",
-      "The SEO checker analyzes if your website meets criteria search engines use to determine your website's ranking in search results.",
-      "The individual SEO score of your website indicates how well the web page complies with search engines' quality guidelines."
+      "The individual SEO score of your website indicates how well the web page complies with search engines' quality guidelines.",
+      "One can roughly say, that if the score is higher than 80% it means that the web page is already well-optimized whereas a score below 80% shows that there's still room for improvement."
     ],
     "without": [
       "Try for free",
@@ -34,69 +34,7 @@
       "Copyright 2025 - Seobility.net",
       "Privacy Policy",
       "Features and Use Cases menu"
-    ],
-    "images": {
-      "total_in_content": 9,
-      "annotated_count": 8,
-      "items": [
-        {
-          "src": "https://www.seobility.net/wp-content/uploads/2024/10/seo-checker-banner.png",
-          "filename": "seo-checker-banner.png",
-          "alt": "Seobility Website Audit",
-          "caption": "Seobility Website Audit",
-          "is_hero": true
-        },
-        {
-          "src": "https://www.seobility.net/wp-content/uploads/2024/10/Free-website-checker.png",
-          "filename": "Free-website-checker.png",
-          "alt": "free website checker",
-          "caption": "Free website checker interface",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.seobility.net/wp-content/uploads/2024/10/Meta-information.png",
-          "filename": "Meta-information.png",
-          "alt": "meta information",
-          "caption": "Meta information analysis features",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.seobility.net/wp-content/uploads/2024/10/Page-quality.png",
-          "filename": "Page-quality.png",
-          "alt": "page quality",
-          "caption": "Page quality analysis",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.seobility.net/wp-content/uploads/2024/10/Page-and-link-structure.png",
-          "filename": "Page-and-link-structure.png",
-          "alt": "page and link structure",
-          "caption": "Page and link structure analysis",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.seobility.net/wp-content/uploads/2024/10/Server-configuration.png",
-          "filename": "Server-configuration.png",
-          "alt": "server configuration",
-          "caption": "Server configuration analysis",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.seobility.net/wp-content/uploads/2024/10/External-factors.png",
-          "filename": "External-factors.png",
-          "alt": "external factors",
-          "caption": "External factors including backlinks",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.seobility.net/wp-content/uploads/2025/06/free-tools-banner-1.png",
-          "filename": "free-tools-banner-1.png",
-          "alt": "Screenshot",
-          "caption": "Free SEO tools overview screenshot",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:33:48.261939"

@@ -34,48 +34,7 @@
       "© 2025 Restroworks",
       "Explore Topics",
       "Recent Blogs"
-    ],
-    "images": {
-      "total_in_content": 15,
-      "annotated_count": 5,
-      "items": [
-        {
-          "src": "https://www.restroworks.com/blog/wp-content/uploads/2025/08/Types-of-Restaurant-Service.webp",
-          "filename": "Types-of-Restaurant-Service.webp",
-          "alt": "Types of restaurant service",
-          "caption": "Types of restaurant service",
-          "is_hero": true
-        },
-        {
-          "src": "https://www.restroworks.com/blog/wp-content/uploads/2025/08/Quick-service-restaurant.webp",
-          "filename": "Quick-service-restaurant.webp",
-          "alt": "Fast food restaurants",
-          "caption": "Fast food restaurants",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.restroworks.com/blog/wp-content/uploads/2025/08/French-service.webp",
-          "filename": "French-service.webp",
-          "alt": "Restaurant table service",
-          "caption": "Restaurant table service",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.restroworks.com/blog/wp-content/uploads/2025/08/Tableside-service.webp",
-          "filename": "Tableside-service.webp",
-          "alt": "Interactive dining experience",
-          "caption": "Interactive dining experience",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.restroworks.com/blog/wp-content/uploads/2025/08/Buffet-service.webp",
-          "filename": "Buffet-service.webp",
-          "alt": "Buffet service",
-          "caption": "Buffet service",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:35:42.380529"

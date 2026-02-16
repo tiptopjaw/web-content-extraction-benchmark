@@ -20,7 +20,7 @@
     "title": "Here's how to maintain healthy smartphone habits",
     "author": "Shelia R. Cotten",
     "publish_date": "2024-09-23",
-    "main_content": "What is the first thing you do in the morning after you awaken? Many people immediately check their phones for notifications of messages, alerts and social media updates by their social ties. Ninety-seven percent of U.S. adults report owning a cellphone, with 90% reporting that they own a smartphone. While some researchers and media outlets portray phone use as detrimental, the reality is that the effects of technology use, including phones, vary depending on multiple factors. These include the amount, type, timing and purpose of that use. What is best for one group may not be best for another when thinking about technology use. As a researcher who studies technology use and quality of life, I can offer some advice to hopefully help you thrive in a phone-saturated world. Some people may struggle with how to effectively use smartphones in their daily lives. And many people use their phones more than they think they do or more than they would like at times. The author provides 10 tips: 1) Monitor your use on a weekly basis. 2) Consider how you can use these devices to make your life easier. 3) Silence nonessential notifications and alerts. 4) Select particular times during the day for social media. 5) Avoid phone use at bedtime. 6) Choose when not to use your phone. 7) Find your own phone-use balance. 8) Moderate phone-as-distraction. 9) Set boundaries. 10) Be a savvy consumer of online information. These suggestions can help you to be more cognizant of how much you are using your phone as well as the reasons you are using it. It's important for your well-being to be a critical consumer of technology and the information you glean from using your devices, particularly your ever-present mobile phone.",
+    "main_content": "What is the first thing you do in the morning after you awaken? Many people immediately check their phones for notifications of messages, alerts and social media updates by their social ties. Ninety-seven percent of U.S. adults report owning a cellphone, with 90% reporting that they own a smartphone. While some researchers and media outlets portray phone use as detrimental, the reality is that the effects of technology use, including phones, vary depending on multiple factors. These include the amount, type, timing and purpose of that use. What is best for one group may not be best for another when thinking about technology use. As a researcher who studies technology use and quality of life, I can offer some advice to hopefully help you thrive in a phone-saturated world. Some people may struggle with how to effectively use smartphones in their daily lives. And many people use their phones more than they think they do or more than they would like at times. These suggestions can help you to be more cognizant of how much you are using your phone as well as the reasons you are using it. It's important for your well-being to be a critical consumer of technology and the information you glean from using your devices, particularly your ever-present mobile phone.",
     "with": [
       "What is the first thing you do in the morning after you awaken? Many people immediately check their phones for notifications of messages, alerts and social media updates by their social ties.",
       "Ninety-seven percent of U.S. adults report owning a cellphone, with 90% reporting that they own a smartphone.",
@@ -34,41 +34,7 @@
       "Read more",
       "Search...",
       "Emergency Alerts"
-    ],
-    "images": {
-      "total_in_content": 10,
-      "annotated_count": 4,
-      "items": [
-        {
-          "src": "https://news.clemson.edu/wp-content/uploads/2024/09/AdobeStock_558675865-scaled.jpeg",
-          "filename": "AdobeStock_558675865-scaled.jpeg",
-          "alt": "A man wearing a denim, collared shirt is walking along a sidewalk and looking at his smartphone and smiling. A business building is in the background.",
-          "caption": null,
-          "is_hero": true
-        },
-        {
-          "src": "https://images.theconversation.com/files/620563/original/file-20240919-16-ydr8ri.jpg?ixlib=rb-4.1.0&rect=0%2C0%2C8105%2C5423&q=45&auto=format&w=754&fit=clip",
-          "filename": "file-20240919-16-ydr8ri.jpg",
-          "alt": null,
-          "caption": "Do you have a healthy relationship with your phone? Morsa Images/DigitalVision via Getty Images",
-          "is_hero": false
-        },
-        {
-          "src": "https://images.theconversation.com/files/620565/original/file-20240919-22-a35yf5.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=754&fit=clip",
-          "filename": "file-20240919-22-a35yf5.jpg",
-          "alt": "A person laying in bed looking at a phone",
-          "caption": "This is a good way to disrupt your sleep. Sergey Mironov/Moment via Getty Images",
-          "is_hero": false
-        },
-        {
-          "src": "https://images.theconversation.com/files/620566/original/file-20240919-18-8swnc1.jpg?ixlib=rb-4.1.0&q=45&auto=format&w=754&fit=clip",
-          "filename": "file-20240919-18-8swnc1.jpg",
-          "alt": "a man slouching in an office chair in front of a computer monitor looks at his phone",
-          "caption": "Using your phone as a distraction isn't necessarily bad – if you don't overdo it. Aja Koska/E+ via Getty Images",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:53:25.349246"

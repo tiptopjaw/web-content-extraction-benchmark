@@ -23,11 +23,8 @@
     "publish_date": "2023-11-21",
     "main_content": "It's easy to imagine that since the dawn of technology, society has realized the awesome potential of these advanced products while also approaching them with a heightened sense of caution. Sure, the first sundials helped to keep track of time, but what if some rogue actor wanted to throw your schedule off and rotated it out of alignment without you noticing? Today, with computer chips in just about every possible product from appliances to furniture and all the other smart home gadgets in between, there's plenty to be concerned about from the consumer's standpoint. In fact, a recent Park Associates report found that 54 percent of U.S. internet households had experienced a data privacy or security issue over the previous 12 months – a 50 percent increase compared to a similar report conducted in 2018. Further, the research firm found that 62 percent of smart home device owners are fearful that their devices could open their homes up to unauthorized access – i.e. hacking. As more and more connected devices are added to the smart home, those concerns are absolutely warranted. Everything from the doorbell camera, garage door openers, smart locks, TVs, those smart appliances and more require a network connection, which opens up the possibility for some nefarious antics. It also doesn't help that over the past several years, all of the big names in technology have been hit with reports that they are listening to the voice recordings through apps or their assistant-driven devices. Apple had to apologize for letting contractors listen to Siri recordings. Amazon and Google have openly acknowledged the fact that their workers listen to Alexa/Echo and Google Assistant recordings in order to improve speech detection and improve how they respond to commands. All of this to say, consumers today have every right to be worried about the safety and security of their products and homes. It also means Independent retailers have a prime opportunity – and important role to play – in helping alleviate those concerns. As the local expert, you can help your customers navigate this industry on a few different levels. There's the general understanding of how connected products work individually and as a collective system within the home. And then you can be the guide as they determine which brand or brands best suit their needs and provide the proper level of protection. Spicher's has committed to only stocking and installing smart technology that is UL certified, even if that means passing over some highly recognizable brands like Ring and SimpliSafe. The UL certification mark will soon be joined by a U.S. government-backed program – the U.S. Cyber Trust Mark program, which will follow the ENERGY STAR certification model. Proposed by FCC Chairwoman Jessica Rosenworcel, that program is intended to raise the bar for cybersecurity across common devices and help Americans more easily choose smart devices that are safer and less vulnerable to cyberattacks. Even if you feel like your business can't overlook some of those more popular brands, understanding the certifications in the smart home arena can help you guide your customers down a more-secure path. Further, if your business is more deeply involved with custom integration and whole-home automation, there's the opportunity to have a conversation with your customer or client about leaning on your company for regular firmware and system updates – basic table stakes if they want to ensure their systems stay secure over time. As long as technology keeps extending its tentacles throughout the home and other areas of our lives, questions about privacy and security are going to persist. Stay ahead of the curve and position your business as a leader your customers can count on.",
     "with": [
-      "54 percent of U.S. internet households had experienced a data privacy or security issue over the previous 12 months.",
       "62 percent of smart home device owners are fearful that their devices could open their homes up to unauthorized access.",
-      "Apple had to apologize for letting contractors listen to Siri recordings.",
-      "Independent retailers have a prime opportunity to help alleviate those concerns.",
-      "The U.S. Cyber Trust Mark program is intended to raise the bar for cybersecurity across common devices."
+      "Apple had to apologize for letting contractors listen to Siri recordings."
     ],
     "without": [
       "Subscribe to our newsletter",
@@ -35,27 +32,7 @@
       "Contact Us",
       "Return to Nationwide Website",
       "View All Podcasts"
-    ],
-    "images": {
-      "total_in_content": 6,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "https://secure.gravatar.com/avatar/172f628f884e669cb107a78a47e8cd08ad6a53ab8c769929c7cb71ed85256f20?s=96&d=mm&r=g",
-          "filename": "172f628f884e669cb107a78a47e8cd08ad6a53ab8c769929c7cb71ed85256f20",
-          "alt": null,
-          "caption": "Written by Rob Stott",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.nationwidegroup.org/wp-content/uploads/2023/11/smart-home-security_iStock-1312912134.jpg",
-          "filename": "smart-home-security_iStock-1312912134.jpg",
-          "alt": "smart home security",
-          "caption": "smart home security",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:19:47.067599"

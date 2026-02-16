@@ -19,13 +19,13 @@
     "title": "Gardening in a Warming World",
     "author": null,
     "publish_date": null,
-    "main_content": "Gardeners are keen observers of what is required to grow healthy plants of all types and sizes. New strategies and solutions to the problems presented by cultivating living things are often contemplative acts. These actions will hold gardeners in good stead as we face climate change – an unprecedented phenomenon that amplifies all those conditions that can make or break our gardening success. Deep reflection on our strategies in tending our lawns, trees, shrubs, flowers, and vegetables will be required to manage and adapt to this latest – and biggest – challenge. The Cornell Cooperative Extension Master Gardener Volunteer network is working to strengthen understanding and inspire us to take actions in our gardens and communities that will help address the global crisis of climate change. Supporting this effort, we produced this curriculum for gardeners, homeowners, educators, volunteers, teachers, students and anyone interested in exploring how we might examine our gardening practice through the lens of climate change mitigation and adaptation. Gardening in a Warming World provides resources including a Climate Smart Gardening Course Book, Facilitators Notebook, Facilitators Handouts from Notebook, Companion Presentation, and Presenter Notes for Companion Presentation. Additional Cornell resources include Gardening Sustainably with a Changing Climate from The New American Landscape, Gardening in Our Warming World: Youth Grow! for youth community action, and the Cornell Botanic Gardens Climate Change Demonstration Garden. External resources cover plant hardiness zones, climate-conscious gardening guides, Project BudBurst citizen science, climate-friendly gardening strategies, and greenscaping practices.",
+    "main_content": "Gardeners are keen observers of what is required to grow healthy plants of all types and sizes. New strategies and solutions to the problems presented by cultivating living things are often contemplative acts. These actions will hold gardeners in good stead as we face climate change - an unprecedented phenomenon that amplifies all those conditions that can make or break our gardening success. Deep reflection on our strategies in tending our lawns, trees, shrubs, flowers, and vegetables will be required to manage and adapt to this latest - and biggest - challenge. The Cornell Cooperative Extension Master Gardener Volunteer network is working to strengthen understanding and inspire us to take actions in our gardens and communities that will help address the global crisis of climate change. Supporting this effort, we produced this curriculum for gardeners, homeowners, educators, volunteers, teachers, students and anyone interested in exploring how we might examine our gardening practice through the lens of climate change mitigation and adaptation.",
     "with": [
       "Gardeners are keen observers of what is required to grow healthy plants of all types and sizes.",
       "The Cornell Cooperative Extension Master Gardener Volunteer network is working to strengthen understanding and inspire us to take actions in our gardens and communities that will help address the global crisis of climate change.",
       "Supporting this effort, we produced this curriculum for gardeners, homeowners, educators, volunteers, teachers, students and anyone interested in exploring how we might examine our gardening practice through the lens of climate change mitigation and adaptation.",
       "Gardening in Our Warming World: Youth Grow! is a model of youth community action in the garden.",
-      "Deep reflection on our strategies in tending our lawns, trees, shrubs, flowers, and vegetables will be required to manage and adapt to this latest – and biggest – challenge."
+      "Deep reflection on our strategies in tending our lawns, trees, shrubs, flowers, and vegetables will be required to manage and adapt to this latest - and biggest - challenge."
     ],
     "without": [
       "Cornell Cooperative Extension",
@@ -33,20 +33,7 @@
       "Cornell University ©2025",
       "University Privacy",
       "Facebook"
-    ],
-    "images": {
-      "total_in_content": 6,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://gardening.cals.cornell.edu/files/climate-change-logo-final-no-type-1qjlhkj-300x242.jpg",
-          "filename": "climate-change-logo-final-no-type-1qjlhkj-300x242.jpg",
-          "alt": null,
-          "caption": "Also check out tools on Climate Smart Farming.",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:45:59.280888"

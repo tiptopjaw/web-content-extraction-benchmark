@@ -34,20 +34,7 @@
       "Subscribe to Frenck's newsletter and stay updated. Don't miss anything. Get all the latest posts delivered straight to your inbox. It's free!",
       "Home, About, My gear, Contact, Sign in, Become member navigation links",
       " Franck Nijhof (Frenck) is cultivating the future of the connected smart home & open source development."
-    ],
-    "images": {
-      "total_in_content": 4,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "/content/images/size/w600/format/webp/2025/12/New-house-tour.png",
-          "filename": "New-house-tour.png",
-          "alt": "Franck & Daphne in front of new house; big letters on the image say: New House Tour. This is referencing the YouTube video embedded in this post.",
-          "caption": "Franck & Daphne in front of new house; big letters on the image say: New House Tour. This is referencing the YouTube video embedded in this post.",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:58:02.985317"

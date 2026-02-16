@@ -34,20 +34,7 @@
       "RENEW",
       "JOIN",
       "Medical leadership for mind, brain and body"
-    ],
-    "images": {
-      "total_in_content": 2,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "/getmedia/421bc594-a3c3-4038-862d-c83dff828c20/APA-AM25.jpg",
-          "filename": "APA-AM25.jpg",
-          "alt": "APA Annual Meeting logo",
-          "caption": null,
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:01:07.622294"

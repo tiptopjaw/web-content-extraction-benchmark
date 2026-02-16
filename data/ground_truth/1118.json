@@ -33,20 +33,7 @@
       "Privacy Policy",
       "Skip to content",
       "Emergency Information"
-    ],
-    "images": {
-      "total_in_content": 4,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "/sites/default/files/0037_0.jpg",
-          "filename": "0037_0.jpg",
-          "alt": "leadership members of the agency",
-          "caption": "leadership members of the agency",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:42:45.570194"

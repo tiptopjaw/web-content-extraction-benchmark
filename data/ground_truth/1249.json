@@ -20,12 +20,10 @@
     "title": "Vehicle rental News and Reporting Coverage | WRAL",
     "author": "WRAL",
     "publish_date": "2019-03-05",
-    "main_content": "This page aggregates news coverage and reporting about vehicle rentals. Featured stories include: NBC New York's exclusive report on body cam video of police drawing their guns on an innocent customer misclassified as stolen; CNN reporting on Turo, the car rental app linked to both the New Orleans attack and Las Vegas Cybertruck explosion; CNN coverage of Hertz's CEO departure following an electric car 'horror show'; WRAL's 5 On Your Side investigation into a Durham woman's rental car stolen using the KIA challenge with erroneous charges tacked on; coverage of the nationwide car rental shortage during the pandemic travel season; reporting on how the 2021 economy was explained through car rental market dynamics; investigation into scammers exploiting rental car shortages; coverage of COVID-19's impact on rental car availability; the pandemic's chain reaction causing rental car shortages; RDU's $500 million plan for a consolidated rental car facility; and Consumer Reports guidance on declining rental car insurance coverage as terms change.",
+    "main_content": "",
     "with": [
       "Renting a car could lead to your arrest - NBC New York has exclusive body cam video of police drawing their guns on an innocent customer who rented a car in Manhattan.",
       "What is Turo, the car rental company linked to both the New Orleans attack and the Las Vegas Cybertruck explosion?",
-      "Trouble and turmoil continue at rental car company Hertz with the CEO departure following an electric car 'horror show'.",
-      "A Durham woman's rental car was stolen using the KIA challenge, and the company charged her hundreds for an extra day and late fees.",
       "The current car rental shortage has caused countless summer travel headaches - if you haven't rented a car in a while, you may be shocked by the cost."
     ],
     "without": [
@@ -34,83 +32,7 @@
       "wral-footer",
       "Privacy Policy",
       "Terms of Service"
-    ],
-    "images": {
-      "total_in_content": 13,
-      "annotated_count": 10,
-      "items": [
-        {
-          "src": "https://images.wral.com/asset/news/national_world/national/2025/10/08/22190670/rental-car_NBC-DMID1-68kz7hl0r-1248x700.jpg?w=640&height=360",
-          "filename": "rental-car_NBC-DMID1-68kz7hl0r-1248x700.jpg",
-          "alt": "Renting a car could lead to your arrest",
-          "caption": "Renting a car could lead to your arrest - NBC New York body cam video shows police drawing guns on innocent customer",
-          "is_hero": true
-        },
-        {
-          "src": "https://webapi.wral.com/api/redirect/image/21791403/640x360",
-          "filename": "640x360",
-          "alt": "What to know about Turo, the app both trucks used in New Orleans and Las Vegas incidents came from",
-          "caption": "What to know about Turo, the app both trucks used in New Orleans and Las Vegas incidents came from",
-          "is_hero": false
-        },
-        {
-          "src": "https://wwwcache.wral.com/asset/business/2024/03/18/21335635/65f88cb151746-media-cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHR4ODNsbGcwMDAxM2I2aHpuM3dwbTBn-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NsdHgzNmkyajAwMWZhYm5wZ3Q2aWh0OGg_-300-DMID1-62b90kqbf-640x360.jpg",
-          "filename": "65f88cb151746-media-cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbHR4ODNsbGcwMDAxM2I2aHpuM3dwbTBn-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NsdHgzNmkyajAwMWZhYm5wZ3Q2aWh0OGg_-300-DMID1-62b90kqbf-640x360.jpg",
-          "alt": "Hertz CEO out following electric car 'horror show'",
-          "caption": "Hertz CEO out following electric car 'horror show'",
-          "is_hero": false
-        },
-        {
-          "src": "https://wwwcache.wral.com/asset/5oys/2024/01/04/21221591/3203323-5oys_car_rental-DMID1-61hybfyh9-640x360.jpg",
-          "filename": "3203323-5oys_car_rental-DMID1-61hybfyh9-640x360.jpg",
-          "alt": "Durham woman's rental car stolen using KIA challenge, Hertz tacks on erroneous charges",
-          "caption": "Durham woman's rental car stolen using KIA challenge, Hertz tacks on erroneous charges",
-          "is_hero": false
-        },
-        {
-          "src": "https://wwwcache.wral.com/asset/business/2020/06/19/19151512/5eec63a592a3a-media-hypatia-h_5befa464f77bad6ef054c6e1baada266-h_a55ac752a479fdeab37e8fafe31f10d9-300-DMID1-5n82osm9j-640x360.jpg",
-          "filename": "5eec63a592a3a-media-hypatia-h_5befa464f77bad6ef054c6e1baada266-h_a55ac752a479fdeab37e8fafe31f10d9-300-DMID1-5n82osm9j-640x360.jpg",
-          "alt": "How Car Rentals Explain the 2021 Economy",
-          "caption": "How Car Rentals Explain the 2021 Economy - Quoctrung Bui and Neil Irwin, New York Times",
-          "is_hero": false
-        },
-        {
-          "src": "https://wwwcache.wral.com/asset/news/local/2021/06/16/19728506/124292-mo-DMID1-5r7tn9j2w-640x360.jpg",
-          "filename": "124292-mo-DMID1-5r7tn9j2w-640x360.jpg",
-          "alt": "'Carpocalypse:' Car rental shortage spikes costs during travel season",
-          "caption": "'Carpocalypse:' Car rental shortage spikes costs during travel season",
-          "is_hero": false
-        },
-        {
-          "src": "https://wwwcache.wral.com/asset/5oys/2021/05/19/19686605/screenshot-DMID1-5qww8iu38-640x359.jpg",
-          "filename": "screenshot-DMID1-5qww8iu38-640x359.jpg",
-          "alt": "Scammers are cashing in on rental car shortage",
-          "caption": "Scammers are cashing in on rental car shortage",
-          "is_hero": false
-        },
-        {
-          "src": "https://images.wral.com/asset/news/local/2021/04/30/19653720/Morningoriginal1-DMID1-5qp5xvtd3-1280x720.jpg?w=640&height=360",
-          "filename": "Morningoriginal1-DMID1-5qp5xvtd3-1280x720.jpg",
-          "alt": "COVID-19 making it harder for travelers to get a rental car",
-          "caption": "COVID-19 making it harder for travelers to get a rental car",
-          "is_hero": false
-        },
-        {
-          "src": "https://wwwcache.wral.com/asset/news/local/2021/04/30/19653720/Morningoriginal1-DMID1-5qp5yclsd-640x360.jpg",
-          "filename": "Morningoriginal1-DMID1-5qp5yclsd-640x360.jpg",
-          "alt": "Pandemic chain reaction leaves rental cars in short supply",
-          "caption": "Pandemic chain reaction leaves rental cars in short supply",
-          "is_hero": false
-        },
-        {
-          "src": "https://wwwcache.wral.com/asset/news/technology/2019/01/22/18140323/5c47202a86f17-rdu_welcome-uid14870772182834-DMID1-5hk67njtc-640x360.jpg",
-          "filename": "5c47202a86f17-rdu_welcome-uid14870772182834-DMID1-5hk67njtc-640x360.jpg",
-          "alt": "RDU announces plan for $500 million update to ease congestion at the curb",
-          "caption": "RDU announces plan for $500 million update to ease congestion at the curb",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:17:21.246077"

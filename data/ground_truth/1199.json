@@ -20,9 +20,8 @@
     "title": "Gym Equipment Rental | Movie Studios, Private Clients & Events | Gym Provisions",
     "author": "Gym Provisions",
     "publish_date": null,
-    "main_content": "Professional Gym Equipment Rental Services. Flexible equipment rental solutions for private clients, movie studios, productions, and events. Quality equipment with delivery, setup, and pickup included throughout Southern California. Whether you need equipment for a day, a month, or longer, we provide quality fitness equipment with professional delivery and setup throughout Southern California. Private Client Rentals: Perfect for home trials, temporary fitness solutions, or trying before you buy. Flexible terms for individuals and families. Movie Studio & Production Rentals: Production-ready gym equipment for film, TV, and commercial shoots. Quick turnaround and authentic equipment for realistic sets. Event & Corporate Rentals: Equipment rental for corporate wellness events, fitness expos, health fairs, and promotional activities. Equipment Available for Rent includes Cardio Equipment (Treadmills, Ellipticals, Exercise Bikes, Rowing Machines, Stair Climbers), Strength Equipment (Multi-Stations, Cable Machines, Smith Machines, Power Racks, Functional Trainers), Free Weights (Dumbbell Sets, Barbell Sets, Weight Benches, Olympic Plates, Storage Racks), and Specialized Equipment (Pilates Reformers, Suspension Systems, Battle Ropes, Plyometric Boxes, Yoga Props). Simple Rental Process: Consultation, Equipment Selection, Delivery & Setup, Flexible Terms, and Easy Return. Why Rent From Gym Provisions: Flexible Rental Terms, Full-Service Delivery, and Quality Equipment. Service Areas throughout Southern California including Los Angeles County, Orange County, Ventura County, and Santa Barbara County.",
+    "main_content": "Flexible equipment rental solutions for private clients, movie studios, productions, and events. Quality equipment with delivery, setup, and pickup included throughout Southern California. Whether you need equipment for a day, a month, or longer, we provide quality fitness equipment with professional delivery and setup throughout Southern California. Private Client Rentals: Perfect for home trials, temporary fitness solutions, or trying before you buy. Flexible terms for individuals and families. Quick turnaround and authentic equipment for realistic sets. Event & Corporate Rentals: Equipment rental for corporate wellness events, fitness expos, health fairs, and promotional activities.",
     "with": [
-      "Professional gym equipment rental in Southern California. Serving private clients, movie studios, productions, and events.",
       "Flexible equipment rental solutions for private clients, movie studios, productions, and events.",
       "Production-ready gym equipment for film, TV, and commercial shoots.",
       "Well-maintained, commercial-grade equipment from leading brands.",
@@ -34,48 +33,7 @@
       "Privacy Policy | Terms of Service",
       "REQUEST A QUOTE",
       "(888) 981-6893"
-    ],
-    "images": {
-      "total_in_content": 6,
-      "annotated_count": 5,
-      "items": [
-        {
-          "src": "/commercial-gym-installation.png",
-          "filename": "commercial-gym-installation.png",
-          "alt": "Professional gym equipment rental service",
-          "caption": "Professional gym equipment rental service",
-          "is_hero": true
-        },
-        {
-          "src": "/equipment-sales-warehouse.jpg",
-          "filename": "equipment-sales-warehouse.jpg",
-          "alt": "Equipment Sales",
-          "caption": "Equipment Sales - Quality new and refurbished equipment",
-          "is_hero": false
-        },
-        {
-          "src": "/clean-modern-gym-cleaning.png",
-          "filename": "clean-modern-gym-cleaning.png",
-          "alt": "Gym Detailing",
-          "caption": "Gym Detailing - Deep cleaning and sanitization services",
-          "is_hero": false
-        },
-        {
-          "src": "/repair-equipment-hero.jpeg",
-          "filename": "repair-equipment-hero.jpeg",
-          "alt": "Equipment Repair",
-          "caption": "Equipment Repair - Expert repair for all major fitness equipment brands",
-          "is_hero": false
-        },
-        {
-          "src": "/gym-equipment-technician.png",
-          "filename": "gym-equipment-technician.png",
-          "alt": "Preventive Maintenance",
-          "caption": "Preventive Maintenance - Keep your equipment running smoothly with scheduled maintenance",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:04:50.299790"

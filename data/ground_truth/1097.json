@@ -35,20 +35,7 @@
       "Information Security Office | University of California, Berkeley",
       "Skip to main content navigation",
       "Privacy Statement | Accessibility | Nondiscrimination Policy"
-    ],
-    "images": {
-      "total_in_content": 3,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://security.berkeley.edu/sites/default/files/styles/width_400/public/top_ten_monitor5.png?itok=MLR-wmCt&timestamp=1445965417",
-          "filename": "top_ten_monitor5.png",
-          "alt": "Top Ten Secure Computing Tips",
-          "caption": "Top Ten Secure Computing Tips",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:38:09.195938"

@@ -34,27 +34,7 @@
       "Privacy Policy",
       "Login / Register is disabled",
       "Add as a trusted source for Google"
-    ],
-    "images": {
-      "total_in_content": 16,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "https://static.digit.in/yann-lecun-ai-godfather.png",
-          "filename": "yann-lecun-ai-godfather.png",
-          "alt": "LLMs worse than babies in field of AI: Yann LeCun ‘Godfather of AI’ explains why",
-          "caption": null,
-          "is_hero": true
-        },
-        {
-          "src": "https://static.digit.in/yan-lecun.png",
-          "filename": "yan-lecun.png",
-          "alt": null,
-          "caption": null,
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:53:54.909760"

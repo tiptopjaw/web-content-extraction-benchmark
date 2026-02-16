@@ -34,20 +34,7 @@
       "Copyright 2025 ©Paperium",
       "Privacy Policy",
       "Home - Articles - About"
-    ],
-    "images": {
-      "total_in_content": 11,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "/Media/Articles/img/2804_7c57c16b-c535-4e9b-88b0-f07bb560935e.jpg",
-          "filename": "2804_7c57c16b-c535-4e9b-88b0-f07bb560935e.jpg",
-          "alt": "The information bottleneck method",
-          "caption": "AI-generated image, based on the article abstract",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:47:01.272390"

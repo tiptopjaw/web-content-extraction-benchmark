@@ -35,27 +35,7 @@
       "Privacy Policy",
       "Copyright 2025 STAT",
       "My Account"
-    ],
-    "images": {
-      "total_in_content": 13,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "https://www.statnews.com/wp-content/uploads/2025/12/AdobeStock_1666420772-645x645.jpeg",
-          "filename": "AdobeStock_1666420772-645x645.jpeg",
-          "alt": null,
-          "caption": "Adobe",
-          "is_hero": true
-        },
-        {
-          "src": "https://www.statnews.com/wp-content/uploads/2025/11/GettyImages-2245377000-768x432.jpg",
-          "filename": "GettyImages-2245377000-768x432.jpg",
-          "alt": null,
-          "caption": null,
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:51:14.360065"

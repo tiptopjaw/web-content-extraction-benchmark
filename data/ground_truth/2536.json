@@ -20,13 +20,11 @@
     "title": "Reimplementing Unix correct: The Lost Bayesian Spelling Corrector",
     "author": "Shrijith Venkatramana",
     "publish_date": "2025-12-18",
-    "main_content": "Last week, I worked through a classic paper in the Applied Bayesian tradition: The Unix Correct Program paper, built on noisy channel Bayesian foundations. My goal was to work through the paper and reconstruct a spelling corrector similar to correct. Along the way, I had to contact the original author, Prof. Kenneth, to find some data and code - turns out the full implementation of the correct program has been lost in the tides of time. So, it fell upon my shoulders to imagine how it might have worked, and try to reconstruct something that functions similarly in principle. Thankfully, I had some recovery work already done by Jaideep Bhoosreddy, in his GitHub repository aptly named spellcorrect. The bulk of my implementation, the data, and so on is - thanks to Jaideep. My contribution here is to use easier to understand functional constructs, to refine the presentation a bit more to help with understanding. At the end of this - you can compare the implementation to Norvig's implementation (which I also take a look at, as part of the series). You will find that the present implementation includes a nice, usable error model as part of the assessments. Norvig himself mentions that his implementation ignores the error model (instead - he relies on a simple edit distance mechanism). The full solution covers several key concepts: N-gram language modeling, Noisy Channel Modeling and Bayesian Application, Error Confusion Matrices, and Damerau-Levenshtein Edit Distance. The implementation is pure Python with minimal dependencies, using the ast module for loading confusion matrix data and Counter for word counts. The corpus is based on Emma by Jane Austen with preprocessing. An N-gram is a technical way of saying phrases with N words - unigram (1 word), bigram (2 words), trigram (3 words). Probability calculation turns raw word counts into usable probabilities, estimating word likelihood from corpus frequency and using Laplace smoothing for handling unseen phrases. The original paper published 4 confusion matrices for deletion, addition, subtraction, reverse for character pairs. Damerau-Levenshtein Edit Distance finds how similar or different two strings are by comparing characters and tracking the cheapest transformation. The full re-implementation is available in a Jupyter Notebook on GitHub.",
+    "main_content": "Last week, I worked through a classic paper in the Applied Bayesian tradition: The Unix Correct Program paper, built on noisy channel Bayesian foundations. My goal was to work through the paper and reconstruct a spelling corrector similar to correct. Along the way, I had to contact the original author, Prof. Kenneth, to find some data and code - turns out the full implementation of the correct program has been lost in the tides of time. So, it fell upon my shoulders to imagine how it might have worked, and try to reconstruct something that functions similarly in principle. Thankfully, I had some recovery work already done by Jaideep Bhoosreddy, in his GitHub repository aptly named spellcorrect. The bulk of my implementation, the data, and so on is - thanks to Jaideep. My contribution here is to use easier to understand functional constructs, to refine the presentation a bit more to help with understanding. At the end of this - you can compare the implementation to Norvig's implementation (which I also take a look at, as part of the series). You will find that the present implementation includes a nice, usable error model as part of the assessments. Norvig himself mentions that his implementation ignores the error model (instead - he relies on a simple edit distance mechanism). The original paper published 4 confusion matrices for deletion, addition, subtraction, reverse for character pairs.",
     "with": [
       "Last week, I worked through a classic paper in the Applied Bayesian tradition: The Unix Correct Program paper, built on noisy channel Bayesian foundations.",
       "My goal was to work through the paper and reconstruct a spelling corrector similar to correct.",
-      "The original paper published 4 confusion matrices for deletion, addition, subtraction, reverse for a pair of characters.",
-      "An N-gram is a technical way of saying phrases with N words - unigram (1 word), bigram (2 words), trigram (3 words).",
-      "We use Damerau-Levenshtein Edit Distance to find how similar/different two strings are."
+      "The original paper published 4 confusion matrices for deletion, addition, subtraction, reverse for a pair of characters."
     ],
     "without": [
       "Subscribe",
@@ -34,76 +32,7 @@
       "Share publication",
       "Search",
       "Like (1)"
-    ],
-    "images": {
-      "total_in_content": 22,
-      "annotated_count": 9,
-      "items": [
-        {
-          "src": "https://substackcdn.com/image/fetch/$s_!cHDa!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24db49ca-c8ed-4198-9185-b7fe0cfef728_1024x1536.png",
-          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24db49ca-c8ed-4198-9185-b7fe0cfef728_1024x1536.png",
-          "alt": null,
-          "caption": "The Unix Correct Program paper - ACL Anthology publication",
-          "is_hero": true
-        },
-        {
-          "src": "https://substackcdn.com/image/fetch/$s_!reh1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F897be61f-267b-48a8-b4a3-364705eb7f38_711x952.png",
-          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F897be61f-267b-48a8-b4a3-364705eb7f38_711x952.png",
-          "alt": null,
-          "caption": "Paper reference link to the original ACL publication",
-          "is_hero": false
-        },
-        {
-          "src": "https://substackcdn.com/image/fetch/$s_!MaUs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20288976-1263-4e0b-a692-d6097f824d1a_1549x633.png",
-          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20288976-1263-4e0b-a692-d6097f824d1a_1549x633.png",
-          "alt": null,
-          "caption": "Implementation overview showing the structure of the spelling corrector",
-          "is_hero": false
-        },
-        {
-          "src": "https://substackcdn.com/image/fetch/$s_!hdX4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15a149f0-cc0b-4c54-b037-8c3ac0c80560_1320x661.png",
-          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15a149f0-cc0b-4c54-b037-8c3ac0c80560_1320x661.png",
-          "alt": null,
-          "caption": "N-gram creation and explanation with unigram, bigram, and trigram examples",
-          "is_hero": false
-        },
-        {
-          "src": "https://substackcdn.com/image/fetch/$s_!huxK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff927b81a-e594-4cd1-a2ff-1959783da6f0_1368x681.png",
-          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff927b81a-e594-4cd1-a2ff-1959783da6f0_1368x681.png",
-          "alt": null,
-          "caption": "Python code for calculating word probabilities with Laplace smoothing",
-          "is_hero": false
-        },
-        {
-          "src": "https://substackcdn.com/image/fetch/$s_!57dj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4e8928c-969e-438d-a322-ddc54b121f37_926x581.png",
-          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4e8928c-969e-438d-a322-ddc54b121f37_926x581.png",
-          "alt": null,
-          "caption": "Confusion matrices from the original Unix paper for error modeling",
-          "is_hero": false
-        },
-        {
-          "src": "https://substackcdn.com/image/fetch/$s_!sjLs!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fece7e29c-ca6c-4f85-8ce2-d5ae6af22b61_1362x574.png",
-          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fece7e29c-ca6c-4f85-8ce2-d5ae6af22b61_1362x574.png",
-          "alt": null,
-          "caption": "Python loader code to import confusion matrix tables",
-          "is_hero": false
-        },
-        {
-          "src": "https://substackcdn.com/image/fetch/$s_!8a1d!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9db42f5d-c339-49ea-948f-be599e6881be_1135x766.png",
-          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9db42f5d-c339-49ea-948f-be599e6881be_1135x766.png",
-          "alt": null,
-          "caption": "Damerau-Levenshtein Edit Distance implementation in Python",
-          "is_hero": false
-        },
-        {
-          "src": "https://substackcdn.com/image/fetch/$s_!Yv1B!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd49d585-8ea5-40ac-adb2-8d246e8dfc45_824x750.png",
-          "filename": "https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd49d585-8ea5-40ac-adb2-8d246e8dfc45_824x750.png",
-          "alt": null,
-          "caption": "Generate candidate corrections function implementation",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:43:46.906441"

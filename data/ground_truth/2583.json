@@ -20,7 +20,7 @@
     "title": "A brief intro to git",
     "author": "Cory Dransfeldt",
     "publish_date": "2021-06-06",
-    "main_content": "As a developer, a version control system is a critical part of your toolkit, no matter the size of the project or team you may find yourself working on. I first started learning to use git by applying it to my own projects and maintaining local repositories to track those projects. From there I moved on to hosting and storing my git repositories at Bitbucket while still working independently. My first experience with working alongside other developers in git came at my first full time development job on a small team (think tiny — two developers, myself included). I picked up the basics of branching, handling merges, developing different features in parallel and, ultimately, dealing with QA and production deployments that were sourced from various branches in our project repository. I've expanded on my knowledge git in the jobs I've held since that first position and have used svn pretty heavily as well (I don't mind it, but I don't love it — I'd argue git is the better choice for a number of reasons, its decentralized nature and flexibility being chief among them). One of the many appeals of git is its flexibility and there are a wide range of commands that come with it. To get started, I'd suggest digging in with the following: Each of these commands has numerous options associated with it and allows for broad control over the flow and history of your project. There are a number of other options I'd suggest for learning more about git: Github's git tutorial, Pro Git book, Oh shit, git!, Github guides, Git documentation.",
+    "main_content": "As a developer, a version control system is a critical part of your toolkit, no matter the size of the project or team you may find yourself working on. I first started learning to use git by applying it to my own projects and maintaining local repositories to track those projects. From there I moved on to hosting and storing my git repositories at Bitbucket while still working independently. My first experience with working alongside other developers in git came at my first full time development job on a small team (think tiny — two developers, myself included). I picked up the basics of branching, handling merges, developing different features in parallel and, ultimately, dealing with QA and production deployments that were sourced from various branches in our project repository. I've expanded on my knowledge git in the jobs I've held since that first position and have used svn pretty heavily as well (I don't mind it, but I don't love it — I'd argue git is the better choice for a number of reasons, its decentralized nature and flexibility being chief among them). One of the many appeals of git is its flexibility and there are a wide range of commands that come with it. To get started, I'd suggest digging in with the following: Each of these commands has numerous options associated with it and allows for broad control over the flow and history of your project.",
     "with": [
       "As a developer, a version control system is a critical part of your toolkit, no matter the size of the project or team you may find yourself working on.",
       "I first started learning to use git by applying it to my own projects and maintaining local repositories to track those projects.",
@@ -34,12 +34,7 @@
       "Privacy Policy",
       "Navigation item",
       "Social media icons"
-    ],
-    "images": {
-      "total_in_content": 2,
-      "annotated_count": 0,
-      "items": []
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:06:48.478620"

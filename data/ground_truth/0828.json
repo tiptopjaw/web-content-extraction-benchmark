@@ -19,13 +19,13 @@
     "title": "What's the Difference Between a Certificate and a Certification? | UVA SCPS",
     "author": null,
     "publish_date": null,
-    "main_content": "Earning a certificate is a way for you to earn credits in a structured, discipline-specific way. A certificate can prepare you to advance in your career, or to gain the extra knowledge needed to stay competitive and up-to-date in your field. Completion of the certificate demonstrates evidence of specialized education achievement. It is recognized on a University of Virginia transcript. There are many fields, however, that have professional certifications that may be recommended or required (teaching, project management, accounting). A certificate program does not lead to a professional certification. Yes, the courses you take in a certificate program could help you prepare to earn a professional field-specific certification, but earning a certificate is not the same as becoming certified. The comparison between certificates and certifications reveals key differences: A certificate is the result of an educational process, while a certification is the result of an assessment process. Certificates are for both newcomers and experienced professionals, while certifications typically require experience. A certificate indicates completion of a course or series of courses with a particular focus, while a certification indicates mastery/competency measured against a standard, usually by exam. Course content for certificates is set through an academic process, while standards for certifications are set through an industry-wide process. Certificates are usually listed on a resume detailing education, while certifications typically result in a designation to use after one's name (CPA, SPHR, PMP). A certificate demonstrates knowledge of course content, while certifications often have ongoing training requirements (CEUs). A certificate can serve as a gateway to a degree, while certifications have no relationship to attaining higher education or degrees.",
+    "main_content": "Earning a certificate is a way for you to earn credits in a structured, discipline-specific way. A certificate can prepare you to advance in your career, or to gain the extra knowledge needed to stay competitive and up-to-date in your field. Completion of the certificate demonstrates evidence of specialized education achievement. It is recognized on a University of Virginia transcript. There are many fields, however, that have professional certifications that may be recommended or required (teaching, project management, accounting). A certificate program does not lead to a professional certification. Yes, the courses you take in a certificate program could help you prepare to earn a professional field-specific certification, but earning a certificate is not the same as becoming certified.",
     "with": [
       "Earning a certificate is a way for you to earn credits in a structured, discipline-specific way.",
       "A certificate can prepare you to advance in your career, or to gain the extra knowledge needed to stay competitive and up-to-date in your field.",
       "There are many fields, however, that have professional certifications that may be recommended or required.",
       "A certificate program does not lead to a professional certification.",
-      "Indicates mastery/competency measured against a standard – usually by exam."
+      "Indicates mastery/competency measured against a standard - usually by exam."
     ],
     "without": [
       "Finish Your Degree",
@@ -33,20 +33,7 @@
       "Take the next step",
       "By submitting this form, you authorize the University of Virginia",
       "© 2025 By The Rector And Visitors Of The University Of Virginia"
-    ],
-    "images": {
-      "total_in_content": 5,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "/sites/default/files/images/2024-04/Certificate%20vs%20Certification%20Mast_final.png",
-          "filename": "Certificate%20vs%20Certification%20Mast_final.png",
-          "alt": "Man with headphones intently learning on computer",
-          "caption": "Man with headphones intently learning on computer",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:38:14.905706"

@@ -21,12 +21,10 @@
     "title": "SEO Tips for Mental Health Professionals to Boost Practice",
     "author": "Lauren Vetter",
     "publish_date": "2025-08-28",
-    "main_content": "Whether you're a solo therapist or part of a group mental health practice, your online presence matters now more than ever. When someone is struggling with anxiety, depression, trauma, or burnout, their first step is often a Google search. That's why a solid SEO (Search Engine Optimization) strategy is one of the most effective ways to connect with people who need your support.\n\nSEO is the process of improving your website and online presence so that search engines like Google rank your practice higher in search results. SEO connects your expertise with people actively seeking mental health care—bringing in high-intent traffic without the need for paid ads.\n\nMost people searching for mental health support need a provider that is nearby or licensed to practice in their state. That's why local SEO tailored to your specialty is essential. Examples include 'Therapists near me', 'Licensed Clinical Psychologist for Couples Therapy', and 'Virtual Therapy in [State]'.\n\nYour website should communicate what you do, who you help, and how to book an appointment—all while being easy to navigate and optimized for search. Make sure your site includes SEO-friendly titles and headers with relevant keywords, mobile responsiveness and fast page speed, contact and location information on every page, internal links between blog posts and service pages, meta descriptions that encourage clicks, and city and neighborhood-specific keywords.\n\nCreate individual, keyword-rich landing pages for each specialty or population you serve such as anxiety, couples counseling, trauma therapy, or teen mental health. This helps search engines understand your services—and helps clients find the right fit.\n\nEven if you work virtually, having a Google Business Profile helps you show up in local results and on Google Maps. Post weekly updates directly to your listing to improve engagement.\n\nPeople often search for answers before they search for providers. Blogging allows you to show up during that research phase—and build a sense of connection before a first session. Write posts that address common mental health concerns.\n\nGoogle rewards practices that are trusted and referenced across the web. You can increase your online authority by asking satisfied clients to leave reviews, submitting your practice to online directories, earning backlinks from other reputable websites, and keeping your NAP (Name, Address, Phone) consistent across platforms.\n\nSchema is code that helps Google understand your site. For mental health professionals, add local business schema, service schema, review schema, and FAQ schema.\n\nUse tools like Google Analytics, Search Console, and a rank tracker to monitor performance. Look for keywords bringing in traffic, pages with high bounce rates, and top-converting blog posts.",
+    "main_content": "Whether you're a solo therapist or part of a group mental health practice, your online presence matters now more than ever. When someone is struggling with anxiety, depression, trauma, or burnout, their first step is often a Google search. That's why a solid SEO (Search Engine Optimization) strategy is one of the most effective ways to connect with people who need your support.\n\nSEO is the process of improving your website and online presence so that search engines like Google rank your practice higher in search results. SEO connects your expertise with people actively seeking mental health care-bringing in high-intent traffic without the need for paid ads.\n\nMost people searching for mental health support need a provider that is nearby or licensed to practice in their state.\n\nYour website should communicate what you do, who you help, and how to book an appointment-all while being easy to navigate and optimized for search.\n\nThis helps search engines understand your services-and helps clients find the right fit.\n\nPeople often search for answers before they search for providers. Blogging allows you to show up during that research phase-and build a sense of connection before a first session. Write posts that address common mental health concerns.\n\nGoogle rewards practices that are trusted and referenced across the web.\n\nSchema is code that helps Google understand your site.\n\nUse tools like Google Analytics, Search Console, and a rank tracker to monitor performance.",
     "with": [
-      "SEO connects your expertise with people actively seeking mental health care—bringing in high-intent traffic without the need for paid ads.",
+      "SEO connects your expertise with people actively seeking mental health care-bringing in high-intent traffic without the need for paid ads.",
       "Most people searching for mental health support need a provider that is nearby or licensed to practice in their state.",
-      "Create individual, keyword-rich landing pages for each specialty or population you serve such as anxiety, couples counseling, trauma therapy, or teen mental health.",
-      "Even if you work virtually, having a Google Business Profile helps you show up in local results and on Google Maps.",
       "Google rewards practices that are trusted and referenced across the web. You can increase your online authority by asking satisfied clients to leave reviews."
     ],
     "without": [
@@ -35,27 +33,7 @@
       "Practice Login",
       "Patient Login",
       "Copyright ©2025 OptiMantra, Inc."
-    ],
-    "images": {
-      "total_in_content": 7,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "https://cdn.prod.website-files.com/67b396d90085451c197b53aa/685d977a852ee71f2b75d45a_SEO%20mental%20health%20professionals.png",
-          "filename": "685d977a852ee71f2b75d45a_SEO%20mental%20health%20professionals.png",
-          "alt": "SEO for Mental Health Professionals",
-          "caption": "SEO for Mental Health Professionals",
-          "is_hero": true
-        },
-        {
-          "src": "https://cdn.prod.website-files.com/67b396d90085451c197b53aa/67bf31d481002d39cbbf30cb_Lauren%20Vetter%20OptiMantra.webp",
-          "filename": "67bf31d481002d39cbbf30cb_Lauren%20Vetter%20OptiMantra.webp",
-          "alt": "Lauren Vetter",
-          "caption": "Lauren Vetter",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:44:34.372180"

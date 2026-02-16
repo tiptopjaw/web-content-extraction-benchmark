@@ -20,13 +20,10 @@
     "title": "Best Long-Distance & Cross-Country Moving Companies 2026",
     "author": "Rebecca Edwards",
     "publish_date": "2025-12-18",
-    "main_content": "We've spent nearly a decade researching and testing long-distance movers to find companies that deliver fair pricing, reliable service, and fewer moving-day surprises. Allied Van Lines is our top overall pick, with strong alternatives like Colonial Van Lines, United Van Lines, American Van Lines, and Mayzlin for different budgets and priorities. Want a faster answer? Use our Find-a-Mover tool to compare personalized estimates from the movers that best fit your move. Allied Van Lines stands out for its convenience, offering virtual in-home estimates and being one of the few moving companies that doesn't require a deposit. Colonial Van Lines provides highly trained movers with a dedicated account manager. American Van Lines offers the best overall value with flat rates and 24/7 customer service. United Van Lines requires no deposit and provides binding quotes with shipment tracking. Mayzlin offers the best discounts with price matching and low deposits. The page includes a comparison table showing average quotes ($5,750-$9,000 for a 3-bedroom cross-country move), deposit requirements (none to 50%), and service availability across 40-50 states.",
+    "main_content": "We've spent nearly a decade researching and testing long-distance movers to find companies that deliver fair pricing, reliable service, and fewer moving-day surprises. Allied Van Lines is our top overall pick, with strong alternatives like Colonial Van Lines, United Van Lines, American Van Lines, and Mayzlin for different budgets and priorities. Want a faster answer? Use our Find-a-Mover tool to compare personalized estimates from the movers that best fit your move. Allied Van Lines stands out for its convenience, offering virtual in-home estimates and being one of the few moving companies that doesn't require a deposit.",
     "with": [
       "Allied Van Lines is our top overall pick, with strong alternatives like Colonial Van Lines, United Van Lines, American Van Lines, and Mayzlin for different budgets and priorities.",
-      "Allied Van Lines stands out for its convenience, offering virtual in-home estimates and being one of the few moving companies that doesn't require a deposit.",
-      "Colonial Van Lines provides highly trained movers with a dedicated account manager and up to $500 discount.",
-      "American Van Lines offers the best overall value with flat rates, 24/7 customer service, and vetted movers.",
-      "The page compares average quotes ranging from $5,750 to $9,000 for a 3-bedroom cross-country move, with deposit requirements from none to 50%."
+      "Allied Van Lines stands out for its convenience, offering virtual in-home estimates and being one of the few moving companies that doesn't require a deposit."
     ],
     "without": [
       "Find a Mover button and navigation menu",
@@ -34,55 +31,7 @@
       "Star rating images and icons",
       "Cookie notice and footer links",
       "Sponsored links and affiliate disclosures"
-    ],
-    "images": {
-      "total_in_content": 42,
-      "annotated_count": 6,
-      "items": [
-        {
-          "src": "https://www.move.org/app/uploads/2024/12/move.org-recommends-badge-desktop-300x300.webp",
-          "filename": "move.org-recommends-badge-desktop-300x300.webp",
-          "alt": null,
-          "caption": "Move.org recommends badge",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.move.org/app/uploads/2021/07/AVL-Moving-Crew.jpg",
-          "filename": "AVL-Moving-Crew.jpg",
-          "alt": "Moving Grant recipient Wilder caught the Allied Van Lines crew delivering his goods early.",
-          "caption": "Moving Grant recipient Wilder caught the Allied Van Lines crew delivering his goods",
-          "is_hero": true
-        },
-        {
-          "src": "https://www.move.org/app/uploads/2021/04/Doorway-protection.jpg",
-          "filename": "Doorway-protection.jpg",
-          "alt": "American Van Lines mover rolls out protective padding while preparing a home for an interstate move.",
-          "caption": "American Van Lines mover rolls out protective padding while preparing a home for moving",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.move.org/app/uploads/2021/04/Carrying-wrapped-furniture.jpg",
-          "filename": "Carrying-wrapped-furniture.jpg",
-          "alt": "American Van Lines Delivery crew member Mover carries a rolled mat across a driveway during long-distance moving prep.",
-          "caption": "American Van Lines Delivery crew member Mover carries a rolled mat across a driveway",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.move.org/app/uploads/2024/12/United-movers-RE-1-1024x538.webp",
-          "filename": "United-movers-RE-1-1024x538.webp",
-          "alt": "Two professional United long-distance movers in blue hoodies sorting items in a packed storage unit.",
-          "caption": "Two professional United long-distance movers in blue hoodies sorting items in a home",
-          "is_hero": false
-        },
-        {
-          "src": "https://www.move.org/app/uploads/2022/07/North-American-Van-lines-shipment-tracking-1024x294.png",
-          "filename": "North-American-Van-lines-shipment-tracking-1024x294.png",
-          "alt": "A screenshot of North American Van Lines shipment tracking page.",
-          "caption": "A screenshot of North American Van Lines shipment tracking page",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:28:49.719961"

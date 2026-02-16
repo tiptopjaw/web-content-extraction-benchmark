@@ -35,20 +35,7 @@
       "Privacy Policy",
       "Your Privacy Choices",
       "© Copyright Gannett 2025"
-    ],
-    "images": {
-      "total_in_content": 3,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://www.gannett-cdn.com/presto/2022/11/16/USAT/457eada1-e976-4359-ad7b-e84be84787c1-20221116_SELF_Meditation_16x9_Still.jpg",
-          "filename": "457eada1-e976-4359-ad7b-e84be84787c1-20221116_SELF_Meditation_16x9_Still.jpg",
-          "alt": null,
-          "caption": "How to start meditating for beginners",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:24:32.673031"

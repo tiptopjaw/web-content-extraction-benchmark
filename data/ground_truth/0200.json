@@ -20,7 +20,7 @@
     "title": "Wedding Planning Tools - Caterer Comparison Spreadsheet - Happily Connected",
     "author": "Susan",
     "publish_date": "2024-12-09",
-    "main_content": "If you are serving food at your reception, choosing a caterer is an important part of the wedding planning process. Besides the food tasting great, there are so many things to consider when choosing the right caterer. How much does each item cost, how many staff members do they provide, what is their service fee, do they provide dinnerware and linens, and so on and so on? To help you compare the caterers you love, we have compiled a Caterer Comparison Spreadsheet to help make choosing the right one easier. Click here to download the free Catering Comparison Spreadsheet. You must be signed into your own Google account to download. Next, click on the file and then make a copy to save the spreadsheet to your own account. The spreadsheet is designed to be comprehensive, so you can customize it to fit your wedding. So, if there's something you don't need, delete it or hide it. We suggest limiting your comparison to 5 or fewer to keep it from becoming too overwhelming. Here is an overview of how the spreadsheet works: 1. Enter your total Guest Count in Cell B6. 2. Add the Caterer's Name for each Caterer in Row 8 above the appropriate section. 3. Enter the quantity of each item in the column marked quantity. 4. Add the actual individual cost for each line in the cost of each column for each caterer. We left 10 rows blank for you to add items. 5. The total cost for each item will be calculated automatically. Double-check that they match what is on your proposal from the caterer. 6. The totals for each Caterer will be displayed in Row 85. The Catering Comparison Spreadsheet is part of our Planning Tools Series. You can find lots of wedding planning resources to help you with your wedding planning over at the Wedding Planning Tools category. Feel free to email us at if you have any questions. Please put Planning Tools in the subject line to help prevent your email from going into our spam folder.",
+    "main_content": "If you are serving food at your reception, choosing a caterer is an important part of the wedding planning process. Besides the food tasting great, there are so many things to consider when choosing the right caterer. How much does each item cost, how many staff members do they provide, what is their service fee, do they provide dinnerware and linens, and so on and so on? To help you compare the caterers you love, we have compiled a Caterer Comparison Spreadsheet to help make choosing the right one easier. Click here to download the free Catering Comparison Spreadsheet. You must be signed into your own Google account to download. Next, click on the file and then make a copy to save the spreadsheet to your own account. The spreadsheet is designed to be comprehensive, so you can customize it to fit your wedding. So, if there's something you don't need, delete it or hide it. We suggest limiting your comparison to 5 or fewer to keep it from becoming too overwhelming. Here is an overview of how the spreadsheet works.\n1. Enter your total Guest Count in Cell B6. 2. Add the Caterer's Name for each Caterer in Row 8 above the appropriate section. 3. Enter the quantity of each item in the column marked quantity. 4. Add the actual individual cost for each line in the cost of each column for each caterer. We left 10 rows blank for you to add items. 5. The total cost for each item will be calculated automatically. Double-check that they match what is on your proposal from the caterer. 6. The totals for each Caterer will be displayed in Row 85. The Catering Comparison Spreadsheet is part of our Planning Tools Series. You can find lots of wedding planning resources to help you with your wedding planning over at https://happilyconnected.com/category/wedding-planning-tools/.\nFeel free to email us at [email protected] if you have any questions. Please put Planning Tools in the subject line to help prevent your email from going into our spam folder.",
     "with": [
       "To help you compare the caterers you love, we have compiled a Caterer Comparison Spreadsheet to help make choosing the right one easier.",
       "Click here to download the free Catering Comparison Spreadsheet.",
@@ -34,27 +34,7 @@
       "Venues",
       "© 2025 Happily Connected and Pratt Web Solutions",
       "Search"
-    ],
-    "images": {
-      "total_in_content": 4,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "https://happilyconnected.com/wp-content/uploads/2023/05/Feminine-Photo-Collage-Your-Story.png",
-          "filename": "Feminine-Photo-Collage-Your-Story.png",
-          "alt": null,
-          "caption": null,
-          "is_hero": true
-        },
-        {
-          "src": "https://happilyconnected.com/wp-content/uploads/2023/05/Image-5-26-23-at-9.06-AM.jpg",
-          "filename": "Image-5-26-23-at-9.06-AM.jpg",
-          "alt": "Catering Comparison",
-          "caption": "Catering Comparison",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:22:27.104156"

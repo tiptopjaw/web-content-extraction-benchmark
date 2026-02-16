@@ -21,12 +21,11 @@
     "title": "How AI Can Cut Your Planning Cycle From Two Weeks to Two Days",
     "author": "Austin Tedesco",
     "publish_date": null,
-    "main_content": "Quarterly and annual planning is a painful process that many of you have likely experienced. Every's head of growth Austin Tedesco describes how the intentional use of AI can cut the process from weeks to hours, leaving you and your team with more energy and focus. The quarter is closing. You've spent hours compiling data about your team's performance. Your calendar is filling up with planning meetings, but your team is messaging you for help on the final push to meet this year's targets. You feel pulled in a million directions. I've seen organizations struggle with this tension throughout my career in media and startups. Focus too much on the day-to-day of the business at yearly and quarterly junctures, and you lose the chance to extract lessons from previous work. Focus too much on strategy, and growth stalls. Innovative companies are now solving this conundrum with AI, and it's something we are also rolling out at Every. Bringing AI into the process saves time, leads to more refined goals, and preserves energy for the work that matters. The W Framework, outlined by Lenny Rachitsky and Nels Gilbreth, previously at Airbnb and Eventbrite respectively, involves four steps: Context (Leadership shares a high-level strategy with teams), Plans (Teams respond with proposed plans), Integration (Leadership integrates into a single plan and shares it with teams), and Buy-in (Teams make final tweaks, confirm buy-in, and get rolling). I've worked at companies where each of these steps takes multiple days—sometimes entire weeks. Here are three tools I've used to shrink that down to just a couple of hours. Subscribe to learn about: The knowledge hub setup that means never starting a planning doc from scratch, Why your next quarterly plan should start with a voice memo, and What happens when you let AI probe the gaps in your strategy.",
+    "main_content": "Quarterly and annual planning is a painful process that many of you have likely experienced. Every's head of growth Austin Tedesco describes how the intentional use of AI can cut the process from weeks to hours, leaving you and your team with more energy and focus. The quarter is closing. You've spent hours compiling data about your team's performance. Your calendar is filling up with planning meetings, but your team is messaging you for help on the final push to meet this year's targets. You feel pulled in a million directions. I've seen organizations struggle with this tension throughout my career in media and startups. Focus too much on the day-to-day of the business at yearly and quarterly junctures, and you lose the chance to extract lessons from previous work. Focus too much on strategy, and growth stalls. Innovative companies are now solving this conundrum with AI, and it's something we are also rolling out at Every. Bringing AI into the process saves time, leads to more refined goals, and preserves energy for the work that matters. I've worked at companies where each of these steps takes multiple days—sometimes entire weeks. Here are three tools I've used to shrink that down to just a couple of hours.",
     "with": [
       "Quarterly and annual planning is a painful process that many of you have likely experienced.",
       "Innovative companies are now solving this conundrum with AI, and it's something we are also rolling out at Every.",
       "Bringing AI into the process saves time, leads to more refined goals, and preserves energy for the work that matters.",
-      "The W Framework, outlined by Lenny Rachitsky and Nels Gilbreth, previously at Airbnb and Eventbrite respectively, involves four steps.",
       "I've worked at companies where each of these steps takes multiple days—sometimes entire weeks."
     ],
     "without": [
@@ -35,20 +34,7 @@
       "You received this email because you signed up for emails from Every",
       "221 Canal St 5th floor, New York, NY 10013",
       "No longer interested in receiving emails from us? Click here to unsubscribe"
-    ],
-    "images": {
-      "total_in_content": 11,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://d24ovhgu8s7341.cloudfront.net/uploads/post/cover/3875/full_page_cover_Calendar_scene_18.png",
-          "filename": "full_page_cover_Calendar_scene_18.png",
-          "alt": null,
-          "caption": "Midjourney/Every illustration.",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:24:42.569267"

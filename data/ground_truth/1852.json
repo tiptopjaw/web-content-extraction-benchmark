@@ -35,20 +35,7 @@
       "Site design by thescubageek",
       "Meet Autumn Adams, the founder of Ambuja Yoga",
       "Available for sale on Amazon!"
-    ],
-    "images": {
-      "total_in_content": 9,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://i0.wp.com/ambujayoga.com/wp-content/uploads/2016/03/yoga-view-nicaragua-matagalpa-yoga-retreat-1024x683.jpg?resize=768%2C512",
-          "filename": "yoga-view-nicaragua-matagalpa-yoga-retreat-1024x683.jpg",
-          "alt": "yoga-best-view-nicaragua-yoga-retreat",
-          "caption": "The view from the yoga shala.",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:39:27.561495"

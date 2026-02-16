@@ -21,13 +21,10 @@
     "title": "Insurance for Rideshare and Delivery Drivers | Uber",
     "author": null,
     "publish_date": null,
-    "main_content": "Whether you are logged on or have accepted a rideshare or delivery trip, Uber's insurance meets—or exceeds—the required coverage. If you've been in an accident, here's what to do. The page explains different coverage periods: while logged on and waiting for a trip request, from the moment you accept a request until the trip ends, and after the trip ends during the delivery process. Uber provides comprehensive liability coverage, contingent collision and comprehensive coverage, and uninsured/underinsured motorist coverage to help protect drivers.",
+    "main_content": "Whether you are logged on or have accepted a rideshare or delivery trip, Uber's insurance meets—or exceeds—the required coverage. If you've been in an accident, here's what to do.",
     "with": [
       "Whether you are logged on or have accepted a rideshare or delivery trip, Uber's insurance meets—or exceeds—the required coverage.",
-      "Uber's liability insurance is designed to help protect you in the event of an accident.",
-      "The coverage applies from the moment you accept a request until the trip ends.",
-      "If you've been in an accident, here's what to do.",
-      "Uber provides insurance coverage for both rideshare and delivery drivers."
+      "If you've been in an accident, here's what to do."
     ],
     "without": [
       "Skip to main content",
@@ -35,20 +32,7 @@
       "Change language",
       "Log in to your Uber account",
       "Sign up to ride, drive, and get delivery"
-    ],
-    "images": {
-      "total_in_content": 7,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://cn-geo1.uber.com/image-proc/crop/resizecrop/udam/format=auto/width=552/height=311/srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC91ZGFtLWFzc2V0cy9lOTkyZmFmMS1kYjdjLTRhZmEtOTU1MC1jNWQ0MjU5NmU5MmEucG5n",
-          "filename": "srcb64=aHR0cHM6Ly90Yi1zdGF0aWMudWJlci5jb20vcHJvZC91ZGFtLWFzc2V0cy9lOTkyZmFmMS1kYjdjLTRhZmEtOTU1MC1jNWQ0MjU5NmU5MmEucG5n",
-          "alt": null,
-          "caption": "Uber insurance for rideshare and delivery drivers",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:38:56.529934"

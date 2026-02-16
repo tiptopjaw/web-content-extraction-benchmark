@@ -34,27 +34,7 @@
       "Privacy policy",
       "Terms and conditions",
       "Business Weekly Latest News"
-    ],
-    "images": {
-      "total_in_content": 5,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "https://ik.imagekit.io/businessweekly/thumbnails/Photo_by_Solen_Feyissa_on_Unsplash_66y_YrwYp.jpg",
-          "filename": "Photo_by_Solen_Feyissa_on_Unsplash_66y_YrwYp.jpg",
-          "alt": "Thumbnail",
-          "caption": "Photo by Solen Feyissa on Unsplash",
-          "is_hero": true
-        },
-        {
-          "src": "https://ik.imagekit.io/businessweekly/editor/Yeun-Joon-Kim_Cambridge-Judge-Business-School_ld6m0VsWT.jpg?tr=w-600",
-          "filename": "Yeun-Joon-Kim_Cambridge-Judge-Business-School_ld6m0VsWT.jpg",
-          "alt": null,
-          "caption": "Yeun Joon Kim of Cambridge Judge Business School.",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:03:41.516311"

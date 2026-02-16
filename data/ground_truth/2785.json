@@ -34,34 +34,7 @@
       "Follow us | Inria",
       "Sitemap | Inria",
       "Privacy Policy"
-    ],
-    "images": {
-      "total_in_content": 6,
-      "annotated_count": 3,
-      "items": [
-        {
-          "src": "/sites/default/files/2021-09/Inria-IoT.jpg",
-          "filename": "Inria-IoT.jpg",
-          "alt": "puces rfid",
-          "caption": "© Inria / Photo C. Morel",
-          "is_hero": false
-        },
-        {
-          "src": "/sites/default/files/2025-02/A_iot_objet_internet_1827x1026IoT.png",
-          "filename": "A_iot_objet_internet_1827x1026IoT.png",
-          "alt": "Illustration des objets connectés (IoT) comme par exemple son smartphone, maison connectée avec l'électroménager, etc.",
-          "caption": "© Adobe Stock / Irina Strelnikova",
-          "is_hero": true
-        },
-        {
-          "src": "/sites/default/files/2021-09/A_Inria-0206-021_livre-blanc-vehicules-autonomes-connectes-robotique-transport_1826x1027.jpg",
-          "filename": "A_Inria-0206-021_livre-blanc-vehicules-autonomes-connectes-robotique-transport_1826x1027.jpg",
-          "alt": "Véhicules, plateformes robotisées de l'équipe RITS ",
-          "caption": "© Inria / Photo H. Raguet",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:55:25.001897"

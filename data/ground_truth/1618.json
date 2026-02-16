@@ -20,7 +20,7 @@
     "title": "GNW - Gaming News Weekly | RedCircle",
     "author": null,
     "publish_date": null,
-    "main_content": "GNW - Gaming News Weekly is a new weekly video game news show from Fruitlab's Personality of the Year ErocktheRed and the great FullClip. We cover all the news that you need to know about in and around the video game industry and bring it to your ear holes Every.Single.Week.\n\nRecent episodes include:\n\nGNW: The 10 Best Things from The Game Awards (46m - Dec 15, 2025) - The Game Awards just took place and we've got a lot to talk about! First we take a look at new games Death Howl, Skate Story and Terminator 2D: No Fate. Then we take a deep dive into The Game Awards, who were the big winners, the best performances and most importantly, what new games were announced? We go through our ten favorite announcements from the show.\n\nGNW: Epic vs. Valve- AI Debate, Splitgate is Back (40m - Dec 9, 2025) - GNW is back...a little late...but we've got a lot of exciting things to talk about. Such as, Where Winds Meet, Marvel Cosmic Invasion, Storage Hunter Simulator, Hunter's Moon: A Sovereign Syndicate Adventure, Red Dead Redemption, Metroid Prime 4: Beyond and Routine. In addition to that go deep into the latest AI War between Epic Games and Valve and what the world is saying. Splitgate 2 is back as Splitgate: Arena Reloaded and Carmageddon: Rogue Shift is coming soon.\n\nGNW: The Game Awards Predictions, Xbox Partner Preview (1h 6m - Nov 24, 2025) - It's our favorite time of the year! It's awards season and today we're talking about The Game Awards (and a bunch of other stuff). First we kick things off talking about some new games, Redsec, Absolum, Speed Demons 2, Forestrike, Demon School & Kirby Air Riders. Then it's time for The Game Awards, the nominees were announced and we're picking who we think is going to leave with all the glory.\n\nGNW: The New Steam Machine Reactions, Horizon MMO, Mario Galaxy Movie (53m - Nov 18, 2025) - We're fired up to talk about the new hardware coming from Valve but before that we're chatting about new games Shooty, Shooty, Robot Invasion, Netflix Game Night, Battlefield RedSec, Black Ops 7, Where Winds Meet & Escape From Tarkov.\n\nGNW: GTA6 & Marvel 1943 Delayed, New Game Pass & Humble Choice (40m - Nov 10, 2025) - This week on Gaming News Weekly we kick things off talking about some new games, Dog Witch, There are no Ghosts at the Grand, Football Manage 26, Sonic Rumble, Hyrule Warriors; Age of Imprisonment and Fallout 4 Anniversary Edition.",
+    "main_content": "GNW - Gaming News Weekly is a new weekly video game news show from Fruitlab's Personality of the Year ErocktheRed and the great FullClip. We cover all the news that you need to know about in and around the video game industry and bring it to your ear holes Every.Single.Week.\n\nGNW: The 10 Best Things from The Game Awards (46m - Dec 15, 2025) - The Game Awards just took place and we've got a lot to talk about! First we take a look at new games Death Howl, Skate Story and Terminator 2D: No Fate. Then we take a deep dive into The Game Awards, who were the big winners, the best performances and most importantly, what new games were announced? We go through our ten favorite announcements from the show.\n\nGNW: Epic vs. Such as, Where Winds Meet, Marvel Cosmic Invasion, Storage Hunter Simulator, Hunter's Moon: A Sovereign Syndicate Adventure, Red Dead Redemption, Metroid Prime 4: Beyond and Routine. In addition to that go deep into the latest AI War between Epic Games and Valve and what the world is saying. Splitgate 2 is back as Splitgate: Arena Reloaded and Carmageddon: Rogue Shift is coming soon.\n\nIt's awards season and today we're talking about The Game Awards (and a bunch of other stuff). First we kick things off talking about some new games, Redsec, Absolum, Speed Demons 2, Forestrike, Demon School & Kirby Air Riders. Then it's time for The Game Awards, the nominees were announced and we're picking who we think is going to leave with all the glory.\n\nGNW: The New Steam Machine Reactions, Horizon MMO, Mario Galaxy Movie (53m - Nov 18, 2025) - We're fired up to talk about the new hardware coming from Valve but before that we're chatting about new games Shooty, Shooty, Robot Invasion, Netflix Game Night, Battlefield RedSec, Black Ops 7, Where Winds Meet & Escape From Tarkov.\n\nGNW: GTA6 & Marvel 1943 Delayed, New Game Pass & Humble Choice (40m - Nov 10, 2025) - This week on Gaming News Weekly we kick things off talking about some new games, Dog Witch, There are no Ghosts at the Grand, Football Manage 26, Sonic Rumble, Hyrule Warriors; Age of Imprisonment and Fallout 4 Anniversary Edition.",
     "with": [
       "A new weekly video game news show from Fruitlab's Personality of the Year ErocktheRed and the great FullClip.",
       "We cover all the news that you need to know about in and around the video game industry and bring it to your ear holes Every.Single.Week.",
@@ -34,20 +34,7 @@
       "Share dropdown menu",
       "Copyright 2025 RedCircle",
       "Subscribe to newsletter form"
-    ],
-    "images": {
-      "total_in_content": 2,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "/_next/image?url=https%3A%2F%2Fmedia.redcircle.com%2Fimages%2F2021%2F10%2F4%2F15%2F9177eed1-8c9c-45b4-b81a-757e5300e0ea_70bc4225-410e-4d7e-9b08-fb339ec6e2f7_blob.jpg&w=3840&q=75",
-          "filename": "image",
-          "alt": "GNW - Gaming News Weekly",
-          "caption": null,
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:32:27.080209"

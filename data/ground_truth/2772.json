@@ -20,13 +20,12 @@
     "title": "Enterprises pivot to smaller, measurable AI projects by 2026",
     "author": "Shannon Williams",
     "publish_date": "2025-12-19",
-    "main_content": "Enterprise buyers are set to pull back from large-scale artificial intelligence deployments in favour of smaller, measurable projects in 2026, as anxiety over AI hype, security and data readiness reshapes spending plans across both private and public sectors. Senior executives working with large organisations say the past year exposed a gap between experimentation with generative tools and the hard work of embedding AI agents into core workflows, prompting a shift towards incremental gains and more resilient architectures. Jaimie Tilbrook, Chief Product Officer of data management firm EncompaaS, said many enterprises and government agencies still treat AI as an add-on rather than a change in how work gets done. She noted that organizations were either turning a blind eye to AI or assuming they've adopted it simply because staff can ask ChatGPT or Copilot questions, missing the real opportunity of deploying AI agents to meaningfully improve workflows and outcomes. Tilbrook expects boards and technology leaders to favour limited-scope AI initiatives with clear metrics over broad transformation programmes in the year ahead, with companies moving away from the hype of instant AI transformation toward guaranteed incremental gains. This approach aligns with a wider trend in corporate IT governance, as risk committees and regulators have raised questions about how organisations validate model performance, handle data lineage and address bias. Ramy Houssaini, Chief Cyber Solutions Officer at Cloudflare, said the traditional SaaS model defined by static features and centralized data silos is nearing its end, with enterprises demanding AI-native, real-time, context-aware services. He predicts a shift from application consumption to AI-as-a-Service, with organisations deploying domain-tuned models at the edge, keeping sensitive data local, and paying for intelligence over software seats. Houssaini also noted that industrial environments will see AI models constantly running operations, tuning machines and optimizing systems in real-time, requiring a massive security upgrade through Agentless Zero Trust security models.",
+    "main_content": "Enterprise buyers are set to pull back from large-scale artificial intelligence deployments in favour of smaller, measurable projects in 2026, as anxiety over AI hype, security and data readiness reshapes spending plans across both private and public sectors. Senior executives working with large organisations say the past year exposed a gap between experimentation with generative tools and the hard work of embedding AI agents into core workflows, prompting a shift towards incremental gains and more resilient architectures. Jaimie Tilbrook, Chief Product Officer of data management firm EncompaaS, said many enterprises and government agencies still treat AI as an add-on rather than a change in how work gets done. This approach aligns with a wider trend in corporate IT governance, as risk committees and regulators have raised questions about how organisations validate model performance, handle data lineage and address bias. Ramy Houssaini, Chief Cyber Solutions Officer at Cloudflare, said the traditional SaaS model defined by static features and centralized data silos is nearing its end, with enterprises demanding AI-native, real-time, context-aware services.",
     "with": [
       "Enterprise buyers are set to pull back from large-scale artificial intelligence deployments in favour of smaller, measurable projects in 2026.",
       "A major disruption we'll see in 2026 is that companies will decide to move away from the hype of instant AI transformation and toward guaranteed incremental gains.",
       "The traditional SaaS model-defined by static features and centralized data silos-is nearing its end.",
-      "Enterprises are now demanding AI-native, real-time, context-aware services.",
-      "Industrial AI changes that, with AI models constantly running the show, tuning machines and optimizing systems in real-time."
+      "Enterprises are now demanding AI-native, real-time, context-aware services."
     ],
     "without": [
       "Follow us on LinkedIn",
@@ -34,27 +33,7 @@
       "TechDay logo",
       "© 2025 TechDay, All rights reserved",
       "Subscribe"
-    ],
-    "images": {
-      "total_in_content": 14,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "https://itbrief.news/uploads/story/2025/12/19/enterprise_boardroom_ai_workflow_diagrams_incremental_integration.webp",
-          "filename": "enterprise_boardroom_ai_workflow_diagrams_incremental_integration.webp",
-          "alt": "Enterprise boardroom ai workflow diagrams incremental integration",
-          "caption": "Enterprise boardroom ai workflow diagrams incremental integration",
-          "is_hero": true
-        },
-        {
-          "src": "https://itbrief.news/uploads/pages/team/shannon.webp",
-          "filename": "shannon.webp",
-          "alt": "Author image",
-          "caption": "By Shannon Williams, Journalist",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:36:23.469457"

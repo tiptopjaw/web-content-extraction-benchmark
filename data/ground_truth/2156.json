@@ -20,7 +20,7 @@
     "title": "Smartphone Basics for Older Adults: Unlocking the Digital World",
     "author": "BCBSOK Connect Team",
     "publish_date": "2024-12-12",
-    "main_content": "If you're new to smartphones, they can seem scary and confusing. But they don't have to be. Read on for a simple guide to the basics of using a smartphone.\n\nWhat are smartphone apps? A smartphone is a mobile phone with many of the same functions of a computer, but in the palm of your hand. It uses software applications, or \"apps,\" to do different tasks. You use apps to make phone calls, send text messages, take photos, browse the internet, play games and much more. Some apps are already loaded on your phone when you buy it. You can download other apps to your phone from an online store.\n\nDo you have an Apple iPhone? Only Apple makes iPhones. Apple uses an operating system called iOS. You download apps from the Apple App Store while using your phone.\n\nDo you have an Android smartphone? Lots of companies make smartphones that run on an Android operating system. Some examples include Samsung, Motorola, Google, Sony, Nokia and more. You can download apps from the Google Play Store.\n\nCommon smartphone features include: Touchscreen - Smartphones use a touchscreen instead of a keypad with buttons. You interact with your phone by touching or tapping the screen with your fingers or a stylus. Internet Connectivity - Smartphones can connect to the internet by Wi-Fi or mobile data, letting you browse the web, send emails, watch videos and more. Camera - Most smartphones have a built-in camera app to take photos, selfies and videos.\n\nUsing Your Smartphone: Setting up your smartphone includes picking a language, setting a password or passcode, connecting to Wi-Fi, and signing into a Google account or Apple ID. Charging your smartphone - Use a charging block and cable to charge your phone daily. Navigating your smartphone - You'll see a grid of icons. Each icon stands for a different app. Tapping an icon will open the app. Making a call - Tap the phone app, enter the number and tap the call button. Sending a text message - Tap the Messages app, choose a recipient, type your message and tap the arrow to send.",
+    "main_content": "If you're new to smartphones, they can seem scary and confusing. But they don't have to be. Read on for a simple guide to the basics of using a smartphone.\n\nWhat are smartphone apps? A smartphone is a mobile phone with many of the same functions of a computer, but in the palm of your hand. It uses software applications, or \"apps,\" to do different tasks. You use apps to make phone calls, send text messages, take photos, browse the internet, play games and much more. Some apps are already loaded on your phone when you buy it. You can download other apps to your phone from an online store.\n\nDo you have an Apple iPhone? Only Apple makes iPhones. Apple uses an operating system called iOS. You download apps from the Apple App Store while using your phone.\n\nDo you have an Android smartphone? Lots of companies make smartphones that run on an Android operating system. You can download apps from the Google Play Store.\n\nYou interact with your phone by touching or tapping the screen with your fingers or a stylus. Camera - Most smartphones have a built-in camera app to take photos, selfies and videos.\n\nEach icon stands for a different app. Tapping an icon will open the app.",
     "with": [
       "If you're new to smartphones, they can seem scary and confusing. But they don't have to be.",
       "A smartphone is a mobile phone with many of the same functions of a computer, but in the palm of your hand.",
@@ -34,20 +34,7 @@
       "Find Care",
       "Stay Connected",
       "Copyright 2025 Health Care Service Corporation"
-    ],
-    "images": {
-      "total_in_content": 10,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://connect.bcbsok.com/cfs-filesystemfile/__key/communityserver-components-secureimagefileviewer/communityserver-blogs-components-weblogfiles-00-00-00-00-15/medicare-smartphone-basics.jpg_2D00_680x320x2.jpg?_=638696509050517183",
-          "filename": "medicare-smartphone-basics.jpg_2D00_680x320x2.jpg",
-          "alt": "Smartphone Basics for Older Adults: Unlocking the Digital World",
-          "caption": "Smartphone Basics for Older Adults: Unlocking the Digital World",
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T13:52:43.126051"

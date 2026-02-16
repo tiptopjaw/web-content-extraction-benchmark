@@ -35,27 +35,7 @@
       "Best Holiday Deals | ESP32 | Windows 11 | NotebookLM | Gaming | Forums",
       "Today's best deals",
       "Follow Us | YouTube | Facebook | Instagram | Twitter"
-    ],
-    "images": {
-      "total_in_content": 15,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/10/4-small-python-scripts-that-make-my-computer-easier-to-use-featured.jpeg?&fit=crop&w=1600&h=900",
-          "filename": "4-small-python-scripts-that-make-my-computer-easier-to-use-featured.jpeg",
-          "alt": "Python scripts on a display",
-          "caption": "Python scripts on a display",
-          "is_hero": true
-        },
-        {
-          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2025/12/morning-routine-script.png?q=49&fit=crop&w=825&dpr=2",
-          "filename": "morning-routine-script.png",
-          "alt": "Morning routine automation script in VS Code",
-          "caption": "Morning routine automation script in VS Code",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T14:47:43.828322"

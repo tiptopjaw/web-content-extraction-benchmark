@@ -25,7 +25,6 @@
       "Bay laurel is a great evergreen shrub with scented foliage which can be used in the kitchen as well as providing excellent foliage to add to arrangements.",
       "Native to the Mediterranean region, this plant has associations with Greek mythology and wreaths made from bay laurel were used to crown Olympic winners.",
       "Eucalyptus perriniana has attractive young foliage arranged around the stem and is a good one to consider for coppicing.",
-      "Hebe 'Red Edge' is a small evergreen shrub getting to 60cm height and spread with blue/grey foliage edged with red.",
       "Most popular of all are holly and ivy, the red and black berries adding texture and pops of colour."
     ],
     "without": [
@@ -34,27 +33,7 @@
       "Echo Live Logo",
       "Read More - WoW Food: Simple ways to elevate Christmas leftovers",
       "Sign up for ePaper"
-    ],
-    "images": {
-      "total_in_content": 17,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "/cms_media/module_img/9811/4905689_2_articlemedium_Copy_20of_20our_20native_20ivy_20provides_20some_20of_20the_20best_20evergreen_20foliage_20for_20Christmas_20decoration.jpg",
-          "filename": "4905689_2_articlemedium_Copy_20of_20our_20native_20ivy_20provides_20some_20of_20the_20best_20evergreen_20foliage_20for_20Christmas_20decoration.jpg",
-          "alt": "In the garden: Three great evergreens for your plot",
-          "caption": "Our native ivy provides some of the best evergreen foliage for Christmas",
-          "is_hero": true
-        },
-        {
-          "src": "/cms_media/module_img/9811/4905686_2_articleinline_Copy_20of_20A_20bay_20tree_20provides_20excellent_20foliage_20for_20decoration_20and___king_20and_20in_20a_20pot_20can_20make_20a_20great_20tree_20for_20decorating_20this_20Christmas.jpg",
-          "filename": "4905686_2_articleinline_Copy_20of_20A_20bay_20tree_20provides_20excellent_20foliage_20for_20decoration_20and___king_20and_20in_20a_20pot_20can_20make_20a_20great_20tree_20for_20decorating_20this_20Christmas.jpg",
-          "alt": "A bay tree provides excellent foliage for decoration and cooking and in a pot can make a great tree for decorating this Christmas",
-          "caption": "A bay tree provides excellent foliage for decoration and cooking and in a pot can make a great tree for decorating this Christmas",
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:25:35.465417"

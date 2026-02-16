@@ -20,7 +20,7 @@
     "title": "The 2025 Best States for Mental Health Report | Soliant",
     "author": "Soliant",
     "publish_date": "2024-12-20",
-    "main_content": "Soliant Health has released its annual Best States for Mental Health Report, which ranks all 50 states on various factors that impact mental health and mental healthcare access. The report was commissioned to better understand the disparities in mental health support in communities and schools nationwide, as the Centers for Disease Control and Prevention (CDC) reports that 1 in 5 Americans will experience a mental illness each year. Soliant worked with healthcare professionals to consider a wider range of factors that impact mental health at all ages. Utilizing agency data and data from several reputable sources, like the CDC and the U.S. Bureau of Labor Statistics, the report weighed numerous factors including: frequency of poor mental health days, unemployment rate, participation in physical activity, disconnected youth rate, and access to healthy foods. The best state for mental health is North Dakota, collecting 82 of the total 100 points possible with the third-lowest unemployment rate at 2.4%, 78.5% physical activity participation, and 4.2 average poor mental health days. Coming in last, West Virginia (50) had the highest average number of mentally unhealthy days at 6.6 days. One key finding is the strong correlation between a state’s disconnected youth rate and its overall ranking. Disconnected youth face heightened risks of poor mental health, including increased vulnerability to violence, substance abuse, and emotional challenges. This connection underscores the importance of having healthcare professionals in schools to foster students' emotional well-being and educational development.",
+    "main_content": "Soliant Health has released its annual Best States for Mental Health Report, which ranks all 50 states on various factors that impact mental health and mental healthcare access. The report was commissioned to better understand the disparities in mental health support in communities and schools nationwide, as the Centers for Disease Control and Prevention (CDC) reports that 1 in 5 Americans will experience a mental illness each year. Soliant worked with healthcare professionals to consider a wider range of factors that impact mental health at all ages. Coming in last, West Virginia (50) had the highest average number of mentally unhealthy days at 6.6 days. One key finding is the strong correlation between a state's disconnected youth rate and its overall ranking. Disconnected youth face heightened risks of poor mental health, including increased vulnerability to violence, substance abuse, and emotional challenges.",
     "with": [
       "Soliant Health has released its annual Best States for Mental Health Report, which ranks all 50 states on various factors that impact mental health and mental healthcare access.",
       "The report was commissioned to better understand the disparities in mental health support in communities and schools nationwide, as the Centers for Disease Control and Prevention (CDC) reports that 1 in 5 Americans will experience a mental illness each year.",
@@ -34,27 +34,7 @@
       "Privacy Policy",
       "Navigation menu item",
       "Social media share button"
-    ],
-    "images": {
-      "total_in_content": 7,
-      "annotated_count": 2,
-      "items": [
-        {
-          "src": "https://cloud.soliant.com/uploads/2024/12/Mental-Health-25-02-1-1024x811.jpg",
-          "filename": "Mental-Health-25-02-1-1024x811.jpg",
-          "alt": "Map graphic showing The Best States For Your Mental Health in 2025. States are color-coded in shades of red from light (best) to dark (worst).",
-          "caption": "Map graphic showing The Best States For Your Mental Health in 2025. States are color-coded in shades of red from light (best) to dark (worst).",
-          "is_hero": true
-        },
-        {
-          "src": "https://cloud.soliant.com/uploads/2024/12/Mental-Health-25-01-1-1009x1024.jpg",
-          "filename": "Mental-Health-25-01-1-1009x1024.jpg",
-          "alt": null,
-          "caption": null,
-          "is_hero": false
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:31:29.984793"

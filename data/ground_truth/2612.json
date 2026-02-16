@@ -33,20 +33,7 @@
       "I accept the privacy policy",
       "Product successfully added to the cart!",
       "Previous: IDA Pro String Heuristics"
-    ],
-    "images": {
-      "total_in_content": 2,
-      "annotated_count": 1,
-      "items": [
-        {
-          "src": "https://i0.wp.com/www.gabrielcybersecurity.com/wp-content/uploads/2025/12/Screenshot-2025-12-19-at-10.56.56.png?fit=1024%2C484&ssl=1",
-          "filename": "Screenshot-2025-12-19-at-10.56.56.png",
-          "alt": null,
-          "caption": null,
-          "is_hero": true
-        }
-      ]
-    }
+    ]
   },
   "model": "MiniMax-M2.1",
   "annotated_at": "2026-01-02T15:23:27.747581"
