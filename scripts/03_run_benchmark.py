@@ -23,6 +23,9 @@ from extractors import (
     DomSmoothieExtractor,
     Nanohtml2textExtractor,
     FastHtml2mdExtractor,
+    MagicHtmlExtractor,
+    MineruHtmlExtractor,
+    ReaderLmExtractor,
 )
 
 # Paths
@@ -196,6 +199,9 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
         'dom-smoothie': DomSmoothieExtractor(),
         'nanohtml2text': Nanohtml2textExtractor(),
         'fast-html2md': FastHtml2mdExtractor(),
+        'magic-html': MagicHtmlExtractor(),
+        'mineru-html': MineruHtmlExtractor(),
+        'readerlm-v2': ReaderLmExtractor(),
     }
 
     # Filter if specific extractor requested
@@ -246,6 +252,7 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
 
         results = []
         errors = 0
+        extractor_start_time = datetime.now()
 
         for gt_file in tqdm(ground_truth_files, desc=extractor.name):
             # Load ground truth
@@ -280,6 +287,8 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
                 'evaluation': evaluation
             }
             results.append(result)
+
+        extractor_elapsed = (datetime.now() - extractor_start_time).total_seconds()
 
         # Calculate aggregate metrics for ALL files
         total_files = len(results)
@@ -323,6 +332,10 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
                 'content_f1': good_gt_f1,
                 'content_accuracy': good_gt_accuracy,
             },
+            'timing': {
+                'total_seconds': extractor_elapsed,
+                'per_file_seconds': extractor_elapsed / total_files if total_files else 0,
+            },
             'timestamp': datetime.now().isoformat(),
             'results': results
         }
@@ -337,7 +350,8 @@ def run_benchmark(extractor_name: str = None, limit: int = None):
         print(f"{extractor.name} - Summary")
         print(f"{'='*80}\n")
         print(f"Files processed: {total_files}")
-        print(f"Errors: {errors}\n")
+        print(f"Errors: {errors}")
+        print(f"Time: {extractor_elapsed:.1f}s ({extractor_elapsed/total_files:.1f}s/file)\n")
         print(f"Content Metrics (all {total_files} files):")
         print(f"  Precision: {avg_precision:.3f}")
         print(f"  Recall:    {avg_recall:.3f}")
@@ -365,7 +379,8 @@ def main():
         '--extractor',
         choices=['trafilatura', 'readability', 'boilerpy3-article',
                 'boilerpy3-default', 'beautifulsoup', 'rs-trafilatura',
-                'dom-content-extraction', 'dom-smoothie', 'nanohtml2text', 'fast-html2md'],
+                'dom-content-extraction', 'dom-smoothie', 'nanohtml2text', 'fast-html2md',
+                'magic-html', 'mineru-html', 'readerlm-v2'],
         help="Test only specific extractor (default: all)"
     )
     parser.add_argument(
