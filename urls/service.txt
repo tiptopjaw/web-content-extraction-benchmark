@@ -1,0 +1,41 @@
+# Service pages - 24 needed
+# SaaS landing pages, tool homepages, feature pages
+# Should have marketing copy, feature descriptions, pricing info
+
+# Developer tools
+https://www.jetbrains.com/idea/
+https://www.jetbrains.com/rust/
+https://code.visualstudio.com/
+https://www.postman.com/
+https://www.figma.com/
+https://linear.app/
+
+# Cloud / Infrastructure
+https://www.digitalocean.com/
+https://www.netlify.com/
+https://vercel.com/
+https://render.com/
+https://fly.io/
+
+# Productivity
+https://www.notion.so/product
+https://www.airtable.com/
+https://todoist.com/
+https://clickup.com/
+
+# Communication
+https://discord.com/
+https://www.loom.com/
+https://miro.com/
+
+# Security
+https://www.cloudflare.com/waf/
+https://www.crowdstrike.com/platform/
+
+# Analytics
+https://plausible.io/
+https://posthog.com/
+
+# AI / ML
+https://huggingface.co/
+https://www.together.ai/

@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://kval.com/topic/Car%20Rental",
+  "file_id": "1795",
+  "ground_truth": {
+    "title": "Eugene Topic Car Rental | News, Weather, Sports, Breaking News",
+    "author": "",
+    "publish_date": null,
+    "main_content": "CAR RENTAL\n\nThanksgiving travel hits new record with 82 million travelers, AAA reports\n\nThanksgiving is the busiest travel holiday of the year, and this year is no different.\n\nCalifornia car rental company fuels nationwide crime-tourism spree\n\nFederal and local authorities uncovered a crime-tourism ring that operated under the guise of a car rental company.\n\nNerdWallet travel expert: Flying is likely cheapest option for spring, summer trips\n\nAs gas prices remain high, air travel may be the best way to get around the country. According to NerdWallet travel writer Sally French, despite the feeling that everything is more expensive these days, traveling by plane may still be cheaper than driving.\n\n$29,000 for an average used car? Would-be buyers are shocked\n\nDETROIT (AP) — A couple of months ago, a woman paid a visit to Jeff Schrier's used car lot in Omaha, Nebraska. She was on a tight budget, she said, and was desperate for a vehicle to commute to work.\n\nMultiple rental cars catch fire at the Pensacola International Airport\n\nPENSACOLA, Fla. (WEAR) — Multiple rental cars caught fire at the Pensacola International Airport Saturday. Police told Channel 3 news the fire happened around 1 p. m. in a rental car cleaning facility on the north end of the property.\n\nProfitt Report: Beware buying a used rental car\n\nIf you're thinking of buying a used car directly from a rental-car company, you could be getting a steal. But before you dive in, make sure you look into the life of the car. Consumer Reports explains. Rental cars can be a good deal, but there are some things to watch out for.\n\nEugene Airport reports rental car shortage\n\nEUGENE, Ore. -- A heads up for travelers - Eugene Airport officials say rental cars at the airport are in high demand, and that means cars are running low. They say spring break and their growing airport are both to blame for the shortage.",
+    "with": [
+      "Thanksgiving is the busiest travel holiday of the year, and this year is no different.",
+      "Federal and local authorities uncovered a crime-tourism ring that operated under the guise of a car rental company.",
+      "As gas prices remain high, air travel may be the best way to get around the country.",
+      "Multiple rental cars caught fire at the Pensacola International Airport Saturday.",
+      "If you're thinking of buying a used car directly from a rental-car company, you could be getting a steal."
+    ],
+    "without": [
+      "Download the App",
+      "News Weather Sports Contact Watch",
+      "40 Thursday 57 Friday 45",
+      "Subscribe",
+      "Loading..."
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://dev.to/",
+  "file_id": "3014",
+  "ground_truth": {
+    "title": "DEV Community",
+    "author": "",
+    "publish_date": null,
+    "main_content": "🎓 DEV Education Tracks\n- What's a billboard?\n- Manage preferences\n- Report billboard\n\nLearn how to break your \"one giant prompt\" into specialized roles.\n\nIntroducing Our Next DEV Education Track: \"Build Multi-Agent Systems with ADK\"\n\nJess Lee for The DEV Team ・ Feb 17\n\n#agents #gemini #ai #buildmultiagents\n\nHappy Building!!\n\n3 words worth a billion dollars: Drift to Determinism (DriDe)\n\n# webdev # ai # automation # architecture\n\nJoin the 2026 WeCoded Challenge and Celebrate Underrepresented Voices in Tech Through Writing & Frontend Art 🎨!\n\n# devchallenge # wecoded # frontend # career\n\nThe Women Who Helped Me Grow as a Developer\n\n# discuss # womenintech # learning # career\n\nI overpowered AI by inventing \"Brilliant\" code by AI opinion itself\n\n# webdev # ai # opensource # typescript\n\nThe Micro-Coercion of Speed: Why Friction Is an Engineering Prerequisite\n\n# ai # softwareengineering # architecture # devops\n\nWhy I replaced \"think freely\" with structured blackboarding in my agent loops\n\n# ai # agents # architecture # autonomy\n\nWhen Your AI Agent Starts Fixing Itself: A Week of Rebuilding Wiz\n\n# ai # claudecode # automation # programming\n\nI Built a Tinder-Style GitHub Discovery App (And Ran Into Some Interesting API Problems)\n\n# showdev # opensource # swift # ios\n\nI Built a Desktop Tamagotchi Cat with AI Brain in Swift - and It Lives on My macOS Doc\n\n# showdev # swift # ai # opensource\n\nAI Agent Landscape: February 2026 Data from Running One for 6 Months\n\n# ai # automation # agentdev # machinelearning\n\nThe Junior Developer Isn't Extinct—They're Stuck Below the API\n\n# discuss # ai # webdev # career\n\nProcedural Gradients, Hotfixes, and the Power of QA\n\n# gamedev # unity3d # terraingeneration # algorithms\n\nScreen Reader Experience Analysis on Grok\n\n# pagelive # a11y # grok # screenreader\n\nLuminary Week 1 - IWD Project\n\nDecisions, Decisions -- Thoughts on making architectural decisions\n\n# architecture # libraries # fullstack\n\nNotion MCP Challenge Submission 🧠\n\nNotion Career Sync: 1-Click AI Job Tracker via Notion MCP\n\n# devchallenge # notionchallenge # mcp # ai\n\nI Got Frustrated with ngrok and Built My Own Self-Hosted Tunneling Tool\n\n# opensource # devtools # selfhosted # webdev\n\ntiny tool to package your code for LLM prompts: pmc(pack-my-code)\n\n# lua # llm # promptengineering # tiny",
+    "with": [
+      "🎓 DEV Education Tracks\n- What's a billboard?",
+      "# devchallenge # wecoded # frontend # career",
+      "# ai # agents # architecture # autonomy",
+      "# ai # automation # agentdev # machinelearning",
+      "Decisions, Decisions -- Thoughts on making architectural decisions"
+    ],
+    "without": [
+      "Skip to content",
+      "Navigation menu",
+      "Powered by AlgoliaSearch",
+      "Create account",
+      "DEV Challenges"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://stripe.com/en-bg/payments",
+  "file_id": "0698",
+  "ground_truth": {
+    "title": "Stripe Payments",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Unified, global payments to grow your revenue\n\nAccept payments online, in person, and around the world with a payments solution built for any business \u2013 from scaling startups to global enterprises.\n\nConvert more customers\n\nIncrease conversion with built-in optimisations, access to 100+ payment methods, and one-click checkout. Unify online and in-person payments to provide a seamless customer experience.\n\nGlobal reach, local experience\n\nExpand to new markets faster by launching payment methods and presenting in local currencies. Sell cross-border to 195+ countries and lower the costs of multi-currency management.\n\nLess fraud, more revenue\n\nAutomatically decrease fraud and improve authorisation rates using Stripe Radar and Authorization Boost, powered by AI trained on billions of data points.\n\nMove faster and lower costs\n\nSave time and engineering resources through increased developer productivity. Avoid downtime with leading reliability and reduce costs through alternative payment methods and rails.\n\nOnline payments\n\nOptimise your checkout experience\n\nStripe's Optimized Checkout Suite delivers a frictionless customer experience. Increase revenue and save thousands of engineering hours with pre-built payment UIs, easy access to more than 100 payment methods, and Link, Stripe's one-click checkout.\n\n11.9%\naverage revenue uplift for businesses using Stripe's latest checkout optimisations\n\nMultiple ways to accept payments online\n\nFlexible UI components\n\nBuild your own pixel-perfect payment experience \u2013 even if you process card payments outside of Stripe.\n\nShareable payment links\n\nAccept your first payment in minutes \u2013 no code required\n\nPre-built payment form\n\nLaunch faster with a conversion-optimised checkout\n\nSurface the most relevant payment methods\n\nAccess 100+ payment methods, including buy now, pay later options that can boost eligible revenue by up to 14%, and bank debits and real-time payments that can lower transaction costs.",
+    "with": [
+      "Accept payments online, in person, and around the world with a payments solution built for any business",
+      "Increase conversion with built-in optimisations, access to 100+ payment methods, and one-click checkout.",
+      "Expand to new markets faster by launching payment methods and presenting in local currencies."
+    ],
+    "without": [
+      "Products",
+      "Solutions",
+      "Developers",
+      "Sign in",
+      "Contact sales",
+      "Sessions 2026",
+      "Register now"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

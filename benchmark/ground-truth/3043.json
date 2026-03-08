@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://store.steampowered.com/app/730/Counter-Strike_2/",
+  "file_id": "3043",
+  "ground_truth": {
+    "title": "Counter-Strike 2 on Steam",
+    "author": "",
+    "publish_date": null,
+    "main_content": "All Games > Free To Play Games > Counter-Strike 2\n\nFor over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.\n\nVery Positive (94,804) - 84% of the 94,804 user reviews in the last 30 days are positive.\n\n- 84% of the 94,804 user reviews in the last 30 days are positive.\n\nVery Positive (2,495,779) - 86% of the 2,495,779 user reviews for this game are positive.\n\n- 86% of the 2,495,779 user reviews for this game are positive.\n\nPopular user-defined tags for this product:\n\nEnglish Reviews Very Positive (86% of 2,495,779)\n\nRecent: Very Positive (84% of 94,804)\n\nCounter-Strike 2 - Trailers & Screenshots\n\nCross-Platform Multiplayer\n\nRemote Play on Phone\n\nRemote Play on Tablet\n\nAccessibility Features (7) ?\n\nAccessibility Features (7)\n- Visual Adjustable Text Size Color Alternatives Camera Comfort\n- Adjustable Text Size\n- Color Alternatives\n- Camera Comfort\n- Audio Custom Volume Controls Stereo Sound Surround Sound\n- Custom Volume Controls\n- Stereo Sound\n- Surround Sound\n- Input Playable without Quick Time Events\n- Playable without Quick Time Events\n\nUses Anti-Cheat Software\n\nVAC (Valve Anti-Cheat)\n\nSteam Deck Compatibility\n\nIncludes Interactive Elements\n\nIn-game purchases, Online interactivity, In-game chat\n\nView Steam Achievements (1)\n\nIncludes 1 Steam Achievements\n\nView Points Shop Items (29)\n\nPoints Shop Items Available\n\nAction , Free To Play\n\nVisit the website View update history Read related news View discussions Visit the Workshop Find Community Groups\n\nPlay Counter-Strike 2\n\nBuy Prime Status Upgrade\n\nCounter-Strike 2 players with Prime Status are matched with other Prime Status players and are eligible to receive Prime-exclusive souvenir items, item drops, and weapon cases. This package grants Prime Account Status in Counter-Strike 2.\n\nThis product is not eligible for refund. Learn more\n\nBuy Valve Complete Pack BUNDLE (?)\n\nBuy this bundle to save 10% off all 20 items!\n\nContent For This Game Browse all (1)\n\nCounter-Strike 2 Soundtrack\n\nRecent Events & Announcements\n\nPremier Season Four is here, and it brings a host of community content, in-game items, gameplay tweaks, and bug fixes along with it!\n\nThu, January 22, 2026\n\nStarting January 1, 2026, the newest Service Medal will be available in-game. Reach Global General (Rank 40) to reset your Profile Rank and earn (or upgrade) your 2026 Service...\n\nFri, December 26, 2025\n\nSee all updates (Latest: Mar 5)\n\nAbout This Game\n\n- All-new CS Ratings with the updated Premier mode\n- Global and Regional leaderboards\n- Upgraded and overhauled maps\n- Game-changing dynamic smoke grenades\n- Tick-rate-independent gameplay\n- Redesigned visual effects and audio\n- All items from CS:GO moving forward to CS2\n\nMature Content Description\n\nThe developers describe the content like this:\n\nIncludes intense violence and blood.\n\nSystem Requirements\n\n- OS: Windows® 10\n- Processor: 4 hardware CPU threads - Intel® Core™ i5 750 or higher\n- Memory: 8 GB RAM\n- Graphics: Video card must be 1 GB or more and should be a DirectX 11-compatible with support for Shader Model 5.0\n- DirectX: Version 11\n- Storage: 85 GB available space\n- OS: Ubuntu 20.04\n- Graphics: AMD GCN+ or NVIDIA Kepler+ with up-to-date Vulkan drivers.  Support for VK_EXT_graphics_pipeline_library highly recommended.\n- Sound Card: Highly recommended\n\nWhat Curators Say\n\n14,002 Curators have reviewed this product. Click here to see them.\n\nCustomer reviews for Counter-Strike 2 See language breakdown About user reviews Your preferences\n\nSee language breakdown About user reviews Your preferences\n\nReviews written before 28 Sep, 2023 @ 1:30am were for CS:GO, the legacy version of Counter-Strike 2.\n\nTotal reviews in all languages: 9,445,070 Very Positive\n\nRecent Reviews in all languages: 94,804 Very Positive\n\nAll (9,445,070) Positive (8,151,691) Negative (1,293,379)\n\nAll (9,445,070)\n\nPositive (8,151,691)\n\nNegative (1,293,379)\n\nAll (9,445,070) Steam Purchasers (4,966,863) Other (4,478,207)\n\nSteam Purchasers (4,966,863)\n\nOther (4,478,207)\n\nLanguages with enough reviews to generate a language-specific review score have been split out below for ease of filtering.\n\nAll Languages (9,445,070)\n\nYour Languages (2,494,970)\n\nPortuguese - Portugal Very Positive (106,946) Portuguese - Portugal Very Positive (106,946)\n\nLifetime\n\nOnly Specific Range (Select on graph above)\n\nExclude Specific Range (Select on graph above)\n\nNo minimum to No maximum\n\n Played mostly on Steam Deck\n\nPlayed mostly on Steam Deck\n\nSummary\n\nMost Helpful\n\nRecent\n\nFunny\n\n. Only applies to Summary and Most Helpful views. Learn More\n\n. Only applies to Summary and Most Helpful views.\n\nWhen enabled, off-topic review activity will be filtered out.  This defaults to your Review Score Setting. Read more about it in the blog post .\n\nEnabled\n\nEnter up to 375 characters to add a description to your widget:\n\nPopular user-defined tags for this product: (?)",
+    "with": [
+      "View Steam Achievements (1)",
+      "Mature Content Description",
+      "All Games > Free To Play Games > Counter-Strike 2",
+      "Recent: Very Positive (84% of 94,804)",
+      "Buy this bundle to save 10% off all 20 items!"
+    ],
+    "without": [
+      "Install Steam",
+      "Privacy Policy",
+      "Valve Corporation. All rights reserved.",
+      "Steam Subscriber Agreement",
+      "About Valve"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

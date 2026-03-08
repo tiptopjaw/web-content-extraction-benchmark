@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://visualstudio.microsoft.com/vs/community/",
+  "file_id": "1142",
+  "ground_truth": {
+    "title": "Visual Studio Community | Download Latest Free Version",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Visual Studio Community is a fully-featured, extensible, free IDE for creating modern applications for Android, iOS, Windows, as well as web applications and cloud services. The page highlights key features including flexibility to build apps for any platform, productivity through integrated designers, editors, debuggers and profilers, access to thousands of extensions in the ecosystem, and support for multiple programming languages including C#, Visual Basic, F#, C++, HTML, JavaScript, TypeScript, Python, and more. The lightweight and modular installation allows users to craft their ideal development environment through a brand-new workload-based installer. Cloud-connected features keep developers up to date and enable efficient coding with built-in and downloaded features. Key capabilities include powerful coding tools with code completion and refactoring, advanced debugging and profiling, Git version control integration, multi-platform development using .NET MAUI, web development with ASP.NET, Node.js and frameworks like AngularJS and Django, game development with Unity, and Windows app development with WinUI 3, Windows Forms, WPF and .NET MAUI. Visual Studio Community is free for individual developers, students, and open source contributors. Organizations can use it for classroom learning, academic research, and open source projects. Enterprise organizations with more than 250 PCs or over $1 million in annual revenue have specific usage restrictions beyond these scenarios.",
+    "with": [
+      "Visual Studio Community is a fully-featured, extensible, free IDE for creating modern applications for Android, iOS, Windows, as well as web applications and cloud services."
+    ],
+    "without": [
+      "Cookie notice and consent banner",
+      "Footer navigation links and legal information",
+      "Microsoft header navigation and search",
+      "Social media icon links and follow buttons",
+      "Modal dialogs for mobile download options"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

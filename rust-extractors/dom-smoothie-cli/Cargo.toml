@@ -1,0 +1,13 @@
+[package]
+name = "dom-smoothie-cli"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "smoothie-extract"
+path = "src/main.rs"
+
+[dependencies]
+dom_smoothie = "0.14"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"

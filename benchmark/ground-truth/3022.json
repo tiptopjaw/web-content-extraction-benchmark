@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ifixit.com/products/magnetic-project-mat",
+  "file_id": "3022",
+  "ground_truth": {
+    "title": "Magnetic Project Mat",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Description\n\n- Organize all your small parts while you work on a device.\n- Dry erase surface lets you keep notes and location sketches.\n- Reduces reassembly time by up to 40% while preventing errors.\nDesigned by fixers, for fixers, the 8”x10” Magnetic Project Mat catches and securely holds screws as you pull them out of a device.\nNow you can stop worrying about keeping track of all the loose screws and focus on your repair. Screws and small parts will remain right where you left them. For laptops with hundreds of screws, use the whole mat as a screw guide and keep careful location notes.\nThe included pen is uniquely suited for the Project Mat. It’s made by Staedtler, producer of top-of-the-line pens and pencils for artists and architects. Their Lumocolor Correctable pen resists smears and won't wipe away with a casual brush of your hand. When your repair is complete, the eraser tip or a dry cloth wipes the ink away clean.\nPen wearing out? We have replacement pens .\nreplacement pens\n\nSpecifications\n\nDimensions\n10\" x 8\" x 0.105\" / 25 x 20 x .27 cm\niFixit Part Number\nIF145-167-4\nLifetime Guarantee\nCalifornia Residents: Prop 65 WARNING\n\nTime-Saving Organization\n\nOptimize your repair efficiency with the mat's strategic gridded layout, which reduces reassembly time and minimizes the risk of misplaced components.\n\nMagnetic Hold\n\nEnsure nothing goes missing during a project with the mat's magnetic surface, which reliably secures screws and small parts.\n\nCustomize with Dry-Erase\n\nThe dry-erase surface allows for easy note-taking and diagram drawing, helping you track every step of your repair process with precision.\n\nService value proposition\n\nCan the Magnetic Project Mat hold screws from all types of electronic devices?\n\nWhat are the best cleaning methods?\n\nIs the Magnetic Project Mat heat resistant for soldering?\n\nCan I use regular dry erase markers?\n\nCustomer Reviews\n\n5 star reviews\nstar reviews\nNumber of 5 star reviews 1202\nNumber of 5 star reviews\n4 star reviews\nNumber of 4 star reviews 94\nNumber of 4 star reviews\n3 star reviews\nNumber of 3 star reviews 13\nNumber of 3 star reviews\n2 star reviews\nNumber of 2 star reviews 4\nNumber of 2 star reviews\n1 star reviews\nNumber of 1 star reviews 3\nNumber of 1 star reviews\n1,316 ratings\nWrite a review\nDragos A\nVerified buyer\n5 hours ago\nMagnetic Project Mat | New\nVery useful! Will use it for my future projects as well.\nBruce P\n18 hours ago\nThis is the best Project pad out their very well made to repair iphones very pleased will purchase another one Thank you very fast shipping\nCourtney\n3 days ago\nIt's cute.\nsee more reviews\n\nSoldering Workstation\n\n$49.99\n- Lifetime Guarantee FixMat 509 $36.95 Loading... Add to cart\n- Lifetime Guarantee Phillips #000 Screwdriver 69 $5.49 Loading... Add to cart\n\nPhillips #000 Screwdriver\n\n$5.49\n- Lifetime Guarantee Pro Tech Toolkit 2699 $74.95 Loading... Add to cart\n\nPro Tech Toolkit",
+    "with": [
+      "Organize all your small parts while you work on a device.",
+      "Reduces reassembly time by up to 40% while preventing errors.",
+      "Optimize your repair efficiency with the mat",
+      "Is the Magnetic Project Mat heat resistant for soldering?",
+      "Very useful! Will use it for my future projects as well."
+    ],
+    "without": [
+      "Fix Your Stuff",
+      "Repair Guides",
+      "Learn how to fix just about anything with our step-by-step guides.",
+      "Answers Forum",
+      "Share solutions and get help from a friend."
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

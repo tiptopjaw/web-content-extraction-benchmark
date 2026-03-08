@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.notion.so/product",
+  "file_id": "2840",
+  "ground_truth": {
+    "title": "The AI workspace that works for you. | Notion",
+    "author": null,
+    "publish_date": null,
+    "main_content": "One workspace. Zero busywork.\n\nNotion is where your teams and AI agents capture knowledge, find answers, and automate projects. Now a team of 7 feels like 70.\n\nTrusted by top teams\n\nIntroducing Notion 3.0\n\nNotion Agent\n\nYou assign the tasks. Your Notion Agent does the work.\n\nHand off your busywork\nWhat used to take days in minutes. Tell it your goal and watch it work.\n\nCollaborates with your team\nIt's like having a built-in power user that works alongside your team.\n\nKnows everything you know\nSearches all your pages, messages, files, and the web to surface exactly what you need.\n\nPersonalized to you\nYour Agent learns how you work. You control everything from how it behaves to how it looks.\n\nCustom Agents\n\nAutomate repetitive tasks.\n\nEnterprise Search\n\nOne search for everything.\n\nAI Meeting Notes\n\nPerfect notes, every time.\n\nFlexible workflows\n\nManage any project, big or small.\n\nYour AI everything app.\n\nMore productivity. Fewer tools.\n\nBring all your tools and teams under one roof. Calculate savings below.\n\nTrusted by teams that ship.\n\nThere's power in a single platform where you can do all your work. Notion is that single place.\n\nOver 100M users worldwide\n#1 knowledge base 3 years running (G2)\n#1 AI enterprise search (G2)\n#1 rated AI writing (G2)\n62% of Fortune 100\nOver 50% of YC companies\n1.4M+ community members\n\nLet Notion AI handle the busywork.\n\nPick a use case to see how Notion does the work for you.\n\nTry for free.\n\nGet started on Notion\n\nYour AI workspace with built-in agents.\n\nNotion Mail\n\nThe AI inbox that thinks like you.\n\nNotion Calendar\n\nTime, scheduling, tasks—all together.\n\nNotion is always at home right in your browser.",
+    "with": [
+      "Notion is where your teams and AI agents capture knowledge, find answers, and automate projects.",
+      "Your Agent learns how you work. You control everything from how it behaves to how it looks.",
+      "There's power in a single platform where you can do all your work. Notion is that single place.",
+      "Over 100M users worldwide"
+    ],
+    "without": [
+      "AI tools for work",
+      "Centralize your knowledge",
+      "Simple and powerful",
+      "ProjectsManage any project"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "url": "https://fastapi.tiangolo.com/tutorial/",
+  "file_id": "0678",
+  "ground_truth": {
+    "title": "Tutorial - User Guide¶",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Tutorial - User Guide\n¶\nThis tutorial shows you how to use\nFastAPI\nwith most of its features, step by step.\nEach section gradually builds on the previous ones, but it's structured to separate topics, so that you can go directly to any specific one to solve your specific API needs.\nIt is also built to work as a future reference so you can come back and see exactly what you need.\nRun the code\n¶\nAll the code blocks can be copied and used directly (they are actually tested Python files).\nTo run any of the examples, copy the code to a file\nmain.py\n, and start\nfastapi dev\nwith:\n$\n<font\ncolor\n=\n\"#4E9A06\"\n>fastapi</font>\ndev\n<u\nstyle\n=\n\"text-decoration-style:solid\"\n>main.py</u>\n<span style=\"background-color:#009485\"><font color=\"#D3D7CF\"> FastAPI </font></span>  Starting development server 🚀\nSearching for package file structure from directories\nwith <font color=\"#3465A4\">__init__.py</font> files\nImporting from <font color=\"#75507B\">/home/user/code/</font><font color=\"#AD7FA8\">awesomeapp</font>\n<span style=\"background-color:#007166\"><font color=\"#D3D7CF\"> module </font></span>  🐍 main.py\n<span style=\"background-color:#007166\"><font color=\"#D3D7CF\"> code </font></span>  Importing the FastAPI app object from the module with\nthe following code:\n<u style=\"text-decoration-style:solid\">from </u><u style=\"text-decoration-style:solid\"><b>main</b></u><u style=\"text-decoration-style:solid\"> import </u><u style=\"text-decoration-style:solid\"><b>app</b></u>\n<span style=\"background-color:#007166\"><font color=\"#D3D7CF\"> app </font></span>  Using import string: <font color=\"#3465A4\">main:app</font>\n<span style=\"background-color:#007166\"><font color=\"#D3D7CF\"> server </font></span>  Server started at <font color=\"#729FCF\"><u style=\"text-decoration-style:solid\">http://127.0.0.1:8000</u></font>\n<span style=\"background-color:#007166\"><font color=\"#D3D7CF\"> server </font></span>  Documentation at <font color=\"#729FCF\"><u style=\"text-decoration-style:solid\">http://127.0.0.1:8000/docs</u></font>\n<span style=\"background-color:#007166\"><font color=\"#D3D7CF\"> tip </font></span>  Running in development mode, for production use:\n<b>fastapi run</b>\nLogs:\n<span style=\"background-color:#007166\"><font color=\"#D3D7CF\"> INFO </font></span>  Will watch for changes in these directories:\n<b>[</b><font color=\"#4E9A06\">&apos;/home/user/code/awesomeapp&apos;</font><b>]</b>\n<span style=\"background-color:#007166\"><font color=\"#D3D7CF\"> INFO </font></span>  Uvicorn running on <font color=\"#729FCF\"><u style=\"text-decoration-style:solid\">http://127.0.0.1:8000</u></font> <b>(</b>Press CTRL+C\nto quit<b>)</b>\n<span style=\"background-color:#007166\"><font color=\"#D3D7CF\"> INFO </font></span>  Started reloader process <b>[</b><font color=\"#34E2E2\"><b>383138</b></font><b>]</b> using WatchFiles\n<span style=\"background-color:#007166\"><font color=\"#D3D7CF\"> INFO </font></span>  Started server process <b>[</b><font color=\"#34E2E2\"><b>383153</b></font><b>]</b>\n<span style=\"background-color:#007166\"><font color=\"#D3D7CF\"> INFO </font></span>  Waiting for application startup.\n<span style=\"background-color:#007166\"><font color=\"#D3D7CF\"> INFO </font></span>  Application startup complete.\nIt is\nHIGHLY encouraged\nthat you write or copy the code, edit it and run it locally.\nUsing it in your editor is what really shows you the benefits of FastAPI, seeing how little code you have to write, all the type checks, autocompletion, etc.\nInstall FastAPI\n¶\nThe first step is to install FastAPI.\nMake sure you create a\nvirtual environment\n, activate it, and then\ninstall FastAPI\n:\n$\npip\ninstall\n\"fastapi[standard]\"\n---> 100%\nNote\nWhen you install with\npip install \"fastapi[standard]\"\nit comes with some default optional standard dependencies, including\nfastapi-cloud-cli\n, which allows you to deploy to\nFastAPI Cloud\n.\nIf you don't want to have those optional dependencies, you can instead install\npip install fastapi\n.\nIf you want to install the standard dependencies but without the\nfastapi-cloud-cli\n, you can install with\npip install \"fastapi[standard-no-fastapi-cloud-cli]\"\n.\nTip\nFastAPI has an\nofficial extension for VS Code\n(and Cursor), which provides a lot of features, including a path operation explorer, path operation search, CodeLens navigation in tests (jump to definition from tests), and FastAPI Cloud deployment and logs, all from your editor.\nAdvanced User Guide\n¶\nThere is also an\nAdvanced User Guide\nthat you can read later after this\nTutorial - User guide\n.\nThe\nAdvanced User Guide\nbuilds on this one, uses the same concepts, and teaches you some extra features.\nBut you should first read the\nTutorial - User Guide\n(what you are reading right now).\nIt's designed so that you can build a complete application with just the\nTutorial - User Guide\n, and then extend it in different ways, depending on your needs, using some of the additional ideas from the\nAdvanced User Guide\n.\nBack to top",
+    "with": [
+      "Tutorial - User Guide\n¶\nThis tutorial shows you how to use\nFastAPI\nwith most of its features, step by step.",
+      "Each section gradually builds on the previous ones, but it's structured to separate topics, so that you can go directly to any specific one to solve your specific API needs.",
+      "It is also built to work as a future reference so you can come back and see exactly what you need.",
+      "Run the code\n¶\nAll the code blocks can be copied and used directly (they are actually tested Python files).",
+      "<span style=\"background-color:#007166\"><font color=\"#D3D7CF\"> INFO </font></span>  Application startup complete.",
+      "It is\nHIGHLY encouraged\nthat you write or copy the code, edit it and run it locally.",
+      "Using it in your editor is what really shows you the benefits of FastAPI, seeing how little code you have to write, all the type checks, autocompletion, etc.",
+      "Install FastAPI\n¶\nThe first step is to install FastAPI."
+    ],
+    "without": [
+      "Edit this page",
+      "Report an issue",
+      "Table of contents",
+      "On this page",
+      "Next",
+      "Search docs",
+      "In this article",
+      "Skip to main content",
+      "Version"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

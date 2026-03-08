@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.upliftdesk.com/standing-desks/",
+  "file_id": "0643",
+  "ground_truth": {
+    "title": "Standing desks",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Your browser does not support the video tag.\n\nStanding desks\n\nImprove your health, comfort, and productivity with Wirecutter's Standing Desk Pick for 9 years. Receive multiple free accessories when you purchase a height-adjustable standing desk.\n\nSale ends 03/31/2026. While supplies last. Use coupon code SPRING at checkout. Coupon offer calculated on subtotal before tax and shipping. One coupon per purchase.\n\nHome Standing Desks\n\nStanding Desks\n\n+5 Free Accessories\n\n+ More\n\nUPLIFT V3 Standing Desk\n\n$ 599 +\n\nUPLIFT L-Shaped Standing Desk, 3-Leg\n\n$ 1149 +\n\nUPLIFT Parsons Standing Desk\n\n$ 829 +\n\nUPLIFT Walking Desk\n\n$ 948 +\n\nUPLIFT Standing Desk, 4-Leg\n\n$ 959 +\n\nUPLIFT V3 Curved Corner Standing Desk\n\n$ 989 +\n\nUPLIFT V3 Narrative Standing Desk\n\n$ 2889 +\n\nUPLIFT V3 Custom Laminate Standing Desk\n\n$ 899 +\n\nUPLIFT L-Shaped Custom Laminate Standing Desk, 3-Leg\n\n$ 1799 +\n\nUPLIFT Custom Laminate Standing Desk, 4-Leg\n\n$ 1429 +\n\nUPLIFT V3 Custom Laminate Standing Desk, 24\" Deep Desktop\n\n$ 799 +\n\nUPLIFT V3 120-Degree Standing Desk\n\n$ 979 +\n\nUPLIFT V3 Custom Solid Wood Standing Desk\n\n$ 1989 +\n\nUPLIFT L-Shaped Custom Solid Wood Standing Desk, 3-Leg\n\n$ 3599 +\n\nUPLIFT Custom Solid Wood Standing Desk, 4-Leg\n\n$ 2449 +\n\nUPLIFT Height Adjustable Craft Table\n\n$ 1539 +\n\nUPLIFT Pneumatic Standing Desk\n\nSave $100\n\nClearance\n\nUPLIFT Clearance Standing Desk\n\n$ 599\n\n$ 499 +\n\nUPLIFT Height Adjustable Bistro Table - Rectangular\n\n$ 449 +\n\nUPLIFT Wall Mounted Standing Desk\n\n$ 419 +\n\nUPLIFT Height Adjustable Bistro Table - Round\n\nUPLIFT V3 Height Adjustable Conference Table, 30\" Wide\n\n$ 659 +\n\nUPLIFT Conference Table, Ping-Pong Size\n\n$ 1489 +\n\nUPLIFT Conference Table, 42\" Wide\n\n$ 1199 +\n\nE7 Electric Standing Desk Converter\n\n$ 619 +\n\nATX Standing Desk Converter\n\n$ 319 +\n\nLady Bird Standing Desk Converter\n\n$ 199 +\n\nSave $20\n\nRiser or Clamp Standing Desk Converter\n\n$ 269\n\n$ 249 +\n\nE3 Compact Standing Desk Converter\n\n$ 149 +\n\nUPLIFT Wall Mounted Standing Desk Frame\n\nUPLIFT V3 2-Leg Standing Desk Frame\n\n$ 469 +\n\nUPLIFT 3-Leg Standing Desk Frame\n\n$ 719 +\n\nUPLIFT 4-Leg Standing Desk Frame\n\n$ 919 +",
+    "with": [
+      "Your browser does not support the video tag.",
+      "UPLIFT V3 Curved Corner Standing Desk",
+      "UPLIFT V3 Custom Solid Wood Standing Desk",
+      "UPLIFT Wall Mounted Standing Desk",
+      "Lady Bird Standing Desk Converter"
+    ],
+    "without": [
+      "Business Space Plans - Free",
+      "Desks & tables",
+      "Space division",
+      "Receive product updates, special offers, ergo tips, and inspiration from our team.",
+      "Bestsellers"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

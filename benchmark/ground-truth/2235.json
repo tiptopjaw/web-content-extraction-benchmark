@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.topics.plusrelocation.com/post/102iphi/skiplagging-in-the-relocation-process",
+  "file_id": "2235",
+  "ground_truth": {
+    "title": "Skiplagging in the relocation process",
+    "author": "Chris Pardo",
+    "publish_date": "2023-10-12",
+    "main_content": "Airfare can cost a pretty decent chunk of money, especially for a relocating employee with a family. Airfares have also soared over recent years. While many global mobility programs leverage the company's existing travel partner relationship to arrange travel and have it direct billed for things like home finding and final travel trips, there are a significant number of programs that simply reimburse employees for travel costs or that provide a lump sum to the employee to arrange all of their relocation needs for themselves. When left to employees, there will be a desire to make the funds go as far as possible. Often, relocating employees will make decisions that cost less, even if they are not as comfortable, are harder to manage, or create a little risk. Lump sum employees can find themselves contracting with rogue movers, or staying in cheaper temporary housing... or 'skiplagging'! 'Skiplagging' (aka 'hidden-city ticketing') is when a traveler buys a plane ticket and leaves at one of the connecting cities instead of the final location. For many locations, this can lead to significant savings. For employees with relocation packages that contribute to, rather than cover, the entire cost of moving, the savings can be worth the risk. It is completely understandable to want to save 50% on a flight for your family of 5. However, when they are booking the airline ticket and click the box agreeing to terms and conditions, they may not realize that they have agreed to comply with their airlines set of rules that covers everything from how the carrier will handle oversold flights to passenger attire and behaviors, to laying out the consequences for 'skiplagging'. At the same time, there are resources to help someone figure out how to best skiplag. Skiplagged and Kiwi are two online travel providers that help people find these flights with their ultimate destination in the middle of the itinerary. The big carriers like United, American, and Delta view these as rogue online travel agents engaged in abusive ticketing practices. They have lodged numerous lawsuits again Skiplagged and Kiwi, however so far the litigation has been unsuccessful in stopping it. So what is the risk? Well, technically, it is not illegal to skiplag. The risk depends on the fine print in what the passenger has agreed to with the airlines by checking that terms and conditions box. These terms and conditions also often explicitly forbid hidden-city ticketing and lay out a raft of consequences should travelers circumvent the rules. United Airlines reserves the right to permanently ban travelers who don't complete their trip. They also say they can revoke status and wipe out accrued mileage. Alaska Airlines mentions that it can take legal action against passengers who violate their policies. American says in its fine print that it has the right to a number of actions, such as canceling any unused portion of the ticket, refusing to let the passenger fly and billing the customer for what the intended route would have cost. This past July, we heard of the story about a North Carolina teenager that was flying unaccompanied on a skiplag from Gainesville, FL through Charlotte onto NYC but got stopped while boarding the first flight when they figured out the Charlotte was the kids hometown. The consequence in this case was to have to pay for the direct flight, which doubled the cost. American Airlines also banned the 17 year old from flying with American Airlines for the next three years. In other situations, skiplagging passengers have lost their frequent flyer mileage, elite status and membership. As it relates to the consequences that the airlines can impose, there is little someone can do. Then again, while the airlines have gone after people in courts that have done this, the courts seem to be legally on the travelers' side, with Lufthansa and United having lost lawsuits against skiplaggers. Should an employee get banned from an airlines, if they travel a lot for the company for business and the company is trying to book them through that airlines, they will be unable so this could impact their ability or the cost for their future business travel.",
+    "with": [
+      "For employees with relocation packages that contribute to, rather than cover, the entire cost of moving, the savings can be worth the risk.",
+      "The big carriers like United, American, and Delta view these as rogue online travel agents engaged in abusive ticketing practices.",
+      "United Airlines reserves the right to permanently ban travelers who don't complete their trip."
+    ],
+    "without": [
+      "Solutions menu navigation",
+      "Stay in-the-know social links",
+      "Privacy Policy footer link",
+      "2024 © Plus Relocation copyright",
+      "Latest Insights suggested posts"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

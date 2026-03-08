@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ifixit.com/products/jimmy",
+  "file_id": "2982",
+  "ground_truth": {
+    "title": "Jimmy",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Repair is universal See iFixit in your region\nRepair is universal\nSee iFixit in your region\nEurope (English)\n(English)\nFree Shipping on Domestic Orders $75+\n\nThe Ultimate Device Opener\n\nFlexible blade for opening tough devices\n\nJimmy\n\n$7.95\n358 reviews\nCondition : New\n: New\n- Purchase with purpose! Repair makes a global impact, reduces e-waste, and saves you money.\n- All our products meet rigorous quality standards and are backed by industry-leading guarantees.\n- Same day shipping if ordered by 4PM Eastern.\n- 30-day returns\n\nDescription\n\nThe ultimate device opener.\nWords are powerful—and Jimmy’s got an extensive vocabulary: slide, cut, twist, poke, slice, part, uproot, divide, lift, dissect, separate, and pry. Whatever your word is for opening up an electronic device, he can do it.\n- Jimmy's high-quality steel blade easily slips between the tightest gaps in the toughest devices.\n- The ergonomic handle and flexible steel blade make it easy to open devices — with the nimble precision of a repair surgeon’s scalpel.\n\nSpecifications\n\nHandle Material\nPolymer Core with Rubberized Grip\nMaterial\n301 Stainless Steel\nDimensions\n8.25\" x 2.4\" x 2.4\" / 21 x 6.1 x .6 cm\niFixit Part Number\nIF145-259-1\nLifetime Guarantee\n\nDesigned for Precision\n\nThe ergonomic handle and nimble steel blade of the Jimmy give you precise control for delicate electronic repairs.\n\nStrength and Flexibility\n\nCrafted from high-quality 301 Stainless Steel, Jimmy's blade combines strength and flexibility to effortlessly slip into tight spaces.\n\nESD-Safe for Delicate Tasks\n\nFrom prying devices open to aiding in soldering, Jimmy's versatile design and anti-static properties make it the go-to tool for a variety of precision repair jobs.\n\nService value proposition\n\nPurchase with purpose\nRepair makes a global impact, reduces e-waste, and saves you money.\nRepair with confidence\nFast shipping\n\nWhat makes the iFixit Jimmy unique compared to other prying tools?\n\nCan Jimmy be used for all types of electronics?\n\nWhat materials are used in the Jimmy?\n\nCustomer Reviews\n\n5 star reviews\nstar reviews\nNumber of 5 star reviews 326\nNumber of 5 star reviews\n4 star reviews\nNumber of 4 star reviews 26\nNumber of 4 star reviews\n3 star reviews\nNumber of 3 star reviews 2\nNumber of 3 star reviews\n2 star reviews\nNumber of 2 star reviews 2\nNumber of 2 star reviews\n1 star reviews\nNumber of 1 star reviews 2\nNumber of 1 star reviews\n358 ratings\nWrite a review\nIn-Bum Woo\nVerified buyer\nlast week\nJimmy | New\nTop quality\nDávid Horváth\nVery useful to have, good quality, cheap.\nStu W\n3 weeks ago\nI had tried using the left over plastic tools from a previous iPhone 5 & nano battery replacement, only to quickly realize they were useless for this repair (Opening Ipod Classic case to replace battery). Upon reading testimonials about this tool in the comment section for the Ifixit IPod Classic Battery Replacement & watching two YouTube videos on this repair; this tool was the best designed for the job.  I could not have opened my IPod Case without this tool.  The handle and blade are well designed to effectively enter & open the case; while minimizing the risk of entering & opening the skin on your hand or fingers. :)\nsee more reviews\n\nFeatured Products\n\n- Spudger 981 $3.99 Loading... Add to cart\n\nSpudger\n\n$3.99\nLoading...\nAdd to cart\n- Lifetime Guarantee Marlin Screwdriver Set - 15 Precision Screwdrivers 45 $54.99 Loading... Add to cart\n\nMarlin Screwdriver Set - 15 Precision Screwdrivers\n\n$54.99\n- Lifetime Guarantee Essential Electronics Toolkit 1113 $29.95 Loading... Add to cart\n\nEssential Electronics Toolkit\n\n$29.95\n- Lifetime Guarantee Anti-Static Project Tray 594 $4.99 Loading... Add to cart\n\nAnti-Static Project Tray\n\n$4.99\n- Electronics Cleaning Bundle 57 $23.99 Loading... Add to cart\n\nElectronics Cleaning Bundle\n\n$23.99\n- Lifetime Guarantee Moray Driver Kit - 32 Precision Bits 338 $19.95 Loading... Add to cart\n\nMoray Driver Kit - 32 Precision Bits\n\n$19.95\nWe stand behind our tools. If something breaks, we'll replace it—for as long as you own the iFixit tool.\nLearn more\niFixit uses cookies to enhance site functionality, analyze traffic, and personalize ads. By using our site, you agree to our cookie use and Privacy Policy .\nPrivacy Policy\nDetails Accept All",
+    "with": [
+      "Repair is universal See iFixit in your region\nRepair is universal\nSee iFixit in your region\nEurope (English)\n(English)\nFree Shipping on Domestic Orders $75+",
+      "Designed for Precision",
+      "Service value proposition",
+      "- Spudger 981 $3.99 Loading...",
+      "Anti-Static Project Tray"
+    ],
+    "without": [
+      "Fix Your Stuff",
+      "Repair GuidesLearn how to fix just about anything with our step-by-step guides.",
+      "Repair Guides",
+      "Answers ForumShare solutions and get help from a friend.",
+      "Answers Forum"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

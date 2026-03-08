@@ -68,9 +68,12 @@ class RsTrafilaturaExtractor(BaseExtractor):
         binary = self._get_binary_path()
 
         try:
-            # Run the CLI with HTML on stdin
+            # Run the CLI with HTML on stdin, passing URL for page type detection
+            cmd = [binary]
+            if url:
+                cmd.extend(['--url', url])
             result = subprocess.run(
-                [binary],
+                cmd,
                 input=html,
                 capture_output=True,
                 text=True,

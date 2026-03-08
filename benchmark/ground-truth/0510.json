@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "url": "https://answers.netlify.com/t/deploy-failed-for-unknown-reason/117253",
+  "file_id": "0510",
+  "ground_truth": {
+    "title": "Deploy failed for unknown reason",
+    "author": "tinterweb",
+    "publish_date": "2024-04-26",
+    "main_content": "tinterweb\nApril 26, 2024, 6:28am\n\nSubject: Deploy failed for unknown reason\n\nAll of a suddent the deployment for the following site https://karinagrantmarketing.netlify.app/ has stopped deploying, the build passes but when it gets to the deployment stage it shows\n\n6:58:36 AM: Deploy site\n6:58:36 AM: ────────────────────────────────────────────────────────────────\n6:58:36 AM:\n6:58:36 AM: Starting to deploy site from 'gatsby/public'\n6:58:37 AM: Calculating files to upload\n6:58:37 AM: Execution cancelled\n6:58:37 AM: Failing build: Failed to build site\n\nA bit of past history as we saw this error here back in February\n\nWhen this happened in February I changed the node version in this (AWS_LAMBDA_JS_RUNTIME) envionrment variable.\n\nI thought this had fixed the issue as it then started to build.\n\nThe issue came back and now I am a loss of what could be causing it, maybe a timeout or size of the build is too big.\n\nHere is the build log which passes.\n\n6:51:42 AM: Netlify Build\n6:51:42 AM: ────────────────────────────────────────────────────────────────\n6:51:42 AM: Version\n6:51:42 AM: @netlify/build 29.41.1\n6:51:42 AM: Flags\n6:51:42 AM: baseRelDir: true\n6:51:42 AM: buildId: 662b40a08b83d4726825275b\n6:51:42 AM: deployId: 662b40a08b83d4726825275d\n6:51:42 AM: Current directory\n6:51:42 AM: /opt/build/repo/gatsby\n6:51:42 AM: Config file\n6:51:42 AM: /opt/build/repo/gatsby/netlify.toml\n6:51:42 AM: Context\n6:51:42 AM: production\n\nPlease can anyone shed any light on what may be causing it?\n\nThanks in advance for any help you can offer here. We are at a loss and are unable to make any changes to the site.\n\nnathanmartin\nApril 26, 2024, 7:23am\n\nI'm confused.\n\nIf I'm reading your post correctly, you've mostly supplied a portion of a previous build log where the build succeeded? But only the \"end result message\" of the one that failed?\n\ntinterweb\nApril 26, 2024, 12:09pm\n\nHi @nathanmartin\n\nApologies i thought I added this. Here is the deploy message\n\n6:58:36 AM: Deploy site\n6:58:36 AM: ────────────────────────────────────────────────────────────────\n6:58:36 AM:\n6:58:36 AM: Starting to deploy site from 'gatsby/public'\n6:58:37 AM: Calculating files to upload\n6:58:37 AM: Execution cancelled\n6:58:37 AM: Failing build: Failed to build site\n\nThanks for your help.\nSimon\n\nnathanmartin\nApril 26, 2024, 12:42pm\n\n@tinterweb That's effectively only the end result, it doesn't reveal any useful indication of \"why it happened\".\n\nThat information may be elsewhere in the log.\n\nIt's why the instructions for the forum indicate you should provide full build logs.\n\ntinterweb\nApril 26, 2024, 1:52pm\n\nThanks @nathanmartin below is the full log.\n\nThere is nothing useful at all that tells me what's causing the failed deploy.\n\nWhen this started all that was changed was a template change. No npm updates or node version changes. I have tried deploying and clearing the cache but nothing.\n\nCould it be the build is too large?\n\nsid.m\nApril 26, 2024, 6:19pm\n\nThe build is failing because you're using an unsupported version of node for functions - please refer to this guide for how to upgrade that version:\n\nEnd of support for Node.js 16 in Netlify Functions: Everything you need to know\n\nNode.js version 16 reached End of Life (EOL) on September 11, 2023. Netlify Functions will stop supporting serverless function deploys using Node.js 16 on April 25, 2024.\n\nWho is impacted?\nYou will be impacted if you have explicitly set the AWS_LAMBDA_JS_RUNTIME environment variable to nodejs16.x.\nIf you keep the environment variable set to nodejs16.x and deploy any changes to your existing functions on or after April 25, 2024, your build will fail.\n\ntinterweb\nApril 30, 2024, 5:09am\n\nThanks @sid.m this fixed it.",
+    "with": [
+      "All of a suddent the deployment for the following site https://karinagrantmarketing.netlify.app/ has stopped deploying",
+      "6:58:37 AM: Execution cancelled",
+      "When this happened in February I changed the node version in this (AWS_LAMBDA_JS_RUNTIME) envionrment variable.",
+      "If I'm reading your post correctly, you've mostly supplied a portion of a previous build log where the build succeeded?",
+      "That's effectively only the end result, it doesn't reveal any useful indication of \"why it happened\".",
+      "The build is failing because you're using an unsupported version of node for functions",
+      "Node.js version 16 reached End of Life (EOL) on September 11, 2023.",
+      "Thanks @sid.m this fixed it."
+    ],
+    "without": [
+      "Netlify Support Forums Search",
+      "Powered by Discourse",
+      "Log In",
+      "Related topics",
+      "Support Forums Search",
+      "Suggested Topics",
+      "Categories",
+      "Guidelines",
+      "Terms of Service"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

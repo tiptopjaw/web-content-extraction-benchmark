@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://gdevelop.io/page/how-to-make-a-good-game-the-tips-and-mistakes-to-avoid",
+  "file_id": "1806",
+  "ground_truth": {
+    "title": "How to Make a Good Game: 5 Mistakes and Tips to Avoid",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Learn how to make a good game and share it with the world. Create a playable game for everyone in an intuitive and comprehensive way with these five tips and common mistakes to avoid to enhance your game. How to keep the players playing longer your game, why a good intro for your game is important, and how to make gameplay moments more immersive by getting players emotionally engaged. Skip the Tutorial? When it comes to starting a new game it's well-known that some players dislike cumbersome tutorials. Either because they think they already know the game controls, or because they want to play quickly. To address this, creating a starting area aka a step-by-step introduction level will help to seamlessly integrate game controls into the game world and narrative. Avoid overwhelming players with a long list of keys and game controllers; instead, introduce gameplay elements gradually. Use the game environment to teach control interactions, like opening doors, throwing objects, and gradually progress to more complex actions. Indicate Game Controls. Keep controls intuitive - let the user know the game's control scheme. Think about players launching a game for the first time; if they don't know the controls, they will close the game within seconds, resulting in a very low game retention rate. A simple solution is to display the keys that can be used in the game screens. Good examples are console games that indicate possible actions. Choosing a Diegetic or Extra-Diegetic Interface. When the HUD (Head-Up Display) is part of the main character's perspective, the interface is called diegetic. A diegetic interface is an integration of the interface into the game environment. All interfaces in Star Citizen are diegetic; from the point of view of the main character the menus are on real tablets, in the visor of a helmet, or even holographic. This enhances immersion in the game's universe. On the other hand, an extra-diegetic interface is the way to display game informations directly to the player without integrating them into the game environment. The data like an ammunition counter or a health and shield bar in Fortnite are present in the HUD to inform the players but these elements don't exist in the game's diegesis. 50% Visual, 50% Audio. The audio is an essential element that enhances player immersion. Realistic or whimsical sound effects, music adapted to the atmosphere, and well-designed dialogues can significantly contribute to the atmosphere and emotion of a game. Moreover, audio plays a crucial role in player interaction and feedback loops. Clear and distinct sounds signify successful actions, errors, or changes in the game state, providing players with essential information and enhancing their understanding of in-game events. This makes a difference compared to games without sound. Capture Early Feedback & Iterate Quickly. Creating a game is an accomplishment to be proud of. Share your work with friends, family, or online communities to gather valuable feedbacks. You should do early and continuous testing and quick iterations during the game development. Pay attention to player's feedback, as it provides valuable insights for balancing the game's progression curve and overall enjoyment. If the game is too easy, it will bore players, and if it's too difficult from the beginning, players will abandon the game quickly. Make sure to listen to beginner, medium and advanced players to make an average.",
+    "with": [
+      "Skip the Tutorial? When it comes to starting a new game it's well-known that some players dislike cumbersome tutorials.",
+      "Keep controls intuitive - let the user know the game's control scheme.",
+      "The audio is an essential element that enhances player immersion.",
+      "Capture Early Feedback & Iterate Quickly. Creating a game is an accomplishment to be proud of."
+    ],
+    "without": [
+      "Subscribe to newsletter",
+      "Privacy Policy",
+      "Join the community",
+      "Download GDevelop",
+      "Stay tuned"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

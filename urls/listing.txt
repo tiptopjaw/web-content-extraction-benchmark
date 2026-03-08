@@ -1,0 +1,74 @@
+# Listing pages - 41 needed
+# Content index pages, search results, blog indexes, archives
+# Pages that list links to other content (not products)
+
+# News site homepages / section pages
+https://www.bbc.com/news
+https://www.bbc.com/news/technology
+https://www.reuters.com/technology/
+https://www.reuters.com/world/
+https://apnews.com/hub/science
+https://www.npr.org/sections/technology/
+https://www.theguardian.com/technology
+https://www.aljazeera.com/economy/
+
+# Tech news indexes
+https://arstechnica.com/
+https://www.theverge.com/
+https://techcrunch.com/
+https://www.wired.com/category/science/
+https://slashdot.org/
+
+# Blog indexes
+https://blog.golang.org/
+https://engineering.atspotify.com/
+https://netflixtechblog.com/
+https://github.blog/
+https://stackoverflow.blog/
+
+# Wikipedia lists
+https://en.wikipedia.org/wiki/List_of_programming_languages
+https://en.wikipedia.org/wiki/List_of_Nobel_laureates
+
+# IMDB
+https://www.imdb.com/chart/top/
+https://www.imdb.com/chart/moviemeter/
+
+# Goodreads
+https://www.goodreads.com/list/show/1.Best_Books_Ever
+
+# GitHub trending
+https://github.com/trending
+https://github.com/topics/machine-learning
+
+# Recipe indexes
+https://www.allrecipes.com/recipes/17562/dinner/
+https://www.seriouseats.com/best-chicken-recipes-5117879
+
+# Job boards
+https://www.indeed.com/jobs?q=software+engineer&l=remote
+https://news.ycombinator.com/jobs
+
+# Podcast directories
+https://www.pocketcasts.com/discover/
+
+# Event listings
+https://www.eventbrite.com/d/online/tech-conferences/
+
+# Directory / index pages
+https://www.producthunt.com/
+https://alternativeto.net/software/notion/
+
+# Archive pages
+https://web.archive.org/web/2024/https://example.com
+
+# Academic
+https://arxiv.org/list/cs.AI/recent
+https://scholar.google.com/citations?user=JicYPdAAAAAJ
+
+# Sports standings/results
+https://www.espn.com/nba/standings
+https://www.espn.com/nfl/schedule
+
+# Travel
+https://www.tripadvisor.com/Attractions-g60763-Activities-New_York_City_New_York.html

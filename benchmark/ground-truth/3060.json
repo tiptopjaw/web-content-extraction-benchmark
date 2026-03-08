@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.samsung.com/us/smartphones/galaxy-s25-ultra/",
+  "file_id": "3060",
+  "ground_truth": {
+    "title": "Galaxy S25 Ultra",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Your phone just got a whole lot smarter! With Google Gemini Live on Galaxy S25 Series, you can brainstorm freely, get instant answers and take your ideas to the next level. You can even upload images and have a full-on conversation about them. Get ready to think bigger!",
+    "with": [
+      "Your phone just got a whole lot smarter!"
+    ],
+    "without": [
+      "Skip to content",
+      "Samsung and Cookies",
+      "Preference Settings.",
+      "Privacy Policy.",
+      "CartNumber of Products :"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

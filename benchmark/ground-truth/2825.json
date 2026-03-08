@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://cassidoo.co/post/dot-github",
+  "file_id": "2825",
+  "ground_truth": {
+    "title": "Configure your repositories with .github",
+    "author": "Cassidy Williams",
+    "publish_date": "2025-12-19",
+    "main_content": "It's Blogvent, day 19, where I blog daily in December!\n\nIf you've bounced around GitHub before, it's likely you've seen a .github/ folder at the top-level of a repository. You might have even seen a .github repository in some organizations!\n\nThis is incredibly hard to look up online, as you can imagine. It's even admittedly a bit challenging to find out all that it can do in the documentation itself because of how it's named. So, look no further, here's all you can do (currently!) with .github!\n\n.github everywhere\nLong story short: if you see .github, it's a magical thing that configures GitHub for you.\n\nIn a repository, the .github folder is a special directory used to store community health files, repository settings, automation workflows, and GitHub Copilot configuration files. GitHub automatically recognizes and uses specific files within this folder to customize the repository experience for contributors and maintainers!\n\nIn an organization, the .github repository is for \"default community health files\" for the repositories in your org. That means if you have an organization with like… 10 repositories, they will all default to the configurations in the .github folder unless they're overridden in the individual repos.\n\n.github in your repository\nThere's some convenient things you can put in this folder to get things configured to your liking. As of now, December 2025, here's what you can do!\n\nIssue and pull request templates:\n- ISSUE_TEMPLATE/: Place YAML or Markdown issue templates here. You can have multiple templates for different issue types.\n- PULL_REQUEST_TEMPLATE.md or PULL_REQUEST_TEMPLATE/: Template(s) that pre-fill descriptions when someone opens a new PR.\n\nGitHub Actions/workflows:\n- workflows/: For YAML files that define GitHub Actions workflows.\n\nYou can use these to automate CI/CD, linting, deployments, tests, and a bunch of other nice things.\n\nCommunity Health Files:\n- CODE_OF_CONDUCT.md: Set expectations for community behavior\n- CONTRIBUTING.md: Guide for people who want to contribute to the project\n- FUNDING.yml: Show ways to financially support the project\n- SECURITY.md: How to report security vulnerabilities\n- SUPPORT.md: Let users know where to ask questions\n\nConfiguration files:\n- dependabot.yml: Configures Dependabot to keep your dependencies up-to-date\n- CODEOWNERS: Define who owns certain files or paths. When someone opens a PR that touches those files, GitHub will automatically request a review from the listed people.\n\nGitHub Copilot custom instructions and agents:\n- copilot-instructions.md: Instructions here are automatically included in all Copilot requests for your repo across supported IDEs and platforms.\n- instructions/: For storing multiple, file-specific, or directory-specific instruction files.\n- agents/: For configuring the GitHub Copilot coding agent to do specific things.\n- prompts/: For adding reusable commands to GitHub Copilot.\n\nOkay I think that's it. There's so many things you can do. I hope this was handy for you!",
+    "with": [
+      "It's Blogvent, day 19, where I blog daily in December!",
+      "This is incredibly hard to look up online, as you can imagine.",
+      "In a repository, the .github folder is a special directory used to store community health files, repository settings, automation workflows, and GitHub Copilot configuration files.",
+      ".github in your repository\nThere's some convenient things you can put in this folder to get things configured to your liking.",
+      "GitHub Actions/workflows:\n- workflows/: For YAML files that define GitHub Actions workflows."
+    ],
+    "without": [
+      "Cassidy Williams Software Engineer in Chicago",
+      "View posts by tag",
+      "Random post",
+      "Older post",
+      "© 2025 Cassidy Williams. This site is open source! <3"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "blog",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

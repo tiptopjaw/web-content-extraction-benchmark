@@ -1,0 +1,70 @@
+# Collection/Category pages - 36 needed
+# E-commerce category pages showing multiple products
+# Should have category descriptions, product grids, filters
+
+# Amazon categories
+https://www.amazon.com/Best-Sellers-Electronics/zgbs/electronics
+https://www.amazon.com/b?node=565108
+https://www.amazon.com/Best-Sellers-Books/zgbs/books
+
+# Best Buy categories
+https://www.bestbuy.com/site/laptops/all-laptops/pcmcat138500050001.c
+https://www.bestbuy.com/site/headphones/all-headphones/pcmcat144700050004.c
+https://www.bestbuy.com/site/tvs/all-tvs/pcmcat1702906702498.c
+
+# REI categories
+https://www.rei.com/c/hiking-boots
+https://www.rei.com/c/backpacking-packs
+https://www.rei.com/c/sleeping-bags
+https://www.rei.com/c/camping-tents
+
+# Home Depot categories
+https://www.homedepot.com/b/Tools/N-5yc1v
+https://www.homedepot.com/b/Appliances/N-5yc1v
+
+# Wayfair categories
+https://www.wayfair.com/furniture/sb0/sofas-c413892.html
+https://www.wayfair.com/lighting/sb0/table-lamps-c215054.html
+
+# IKEA categories
+https://www.ikea.com/us/en/cat/desks-20649/
+https://www.ikea.com/us/en/cat/bookcases-shelving-units-10382/
+https://www.ikea.com/us/en/cat/sofas-fu003/
+
+# Nordstrom categories
+https://www.nordstrom.com/browse/men/clothing/shirts
+https://www.nordstrom.com/browse/women/shoes/sneakers
+
+# B&H Photo categories
+https://www.bhphotovideo.com/c/buy/Mirrorless-Cameras/ci/24049
+https://www.bhphotovideo.com/c/buy/Studio-Monitors/ci/12166
+
+# Newegg categories
+https://www.newegg.com/Laptops-Notebooks/Category/ID-223
+https://www.newegg.com/Desktop-Graphics-Cards/SubCategory/ID-48
+
+# Sweetwater categories
+https://www.sweetwater.com/c375--Acoustic_Guitars
+https://www.sweetwater.com/c540--Studio_Monitors
+
+# Target categories
+https://www.target.com/c/board-games-puzzles-toys/-/N-afeyk
+https://www.target.com/c/coffee-makers-kitchen-appliances/-/N-5xtn4
+
+# Sephora
+https://www.sephora.com/shop/moisturizing-cream-oils-mists
+https://www.sephora.com/shop/foundation-makeup
+
+# Chewy
+https://www.chewy.com/b/dry-food-294
+https://www.chewy.com/b/dog-treats-1511
+
+# Wirecutter category
+https://www.nytimes.com/wirecutter/electronics/
+
+# Adorama
+https://www.adorama.com/l/Photography/Lenses/Mirrorless-Lenses
+
+# Thomann
+https://www.thomann.de/gb/electric_guitars.html
+https://www.thomann.de/gb/studio_headphones.html

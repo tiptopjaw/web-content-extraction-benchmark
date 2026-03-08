@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://warrenaverett.com/services/hr-solutions/hr-consulting/",
+  "file_id": "3033",
+  "ground_truth": {
+    "title": "HR Consulting Services | Warren Averett CPAs & Advisors",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Warren Averett HR Consulting solutions range from just in time human capital interventions to on-going support for your internal HR and Operations Team.  Whether you are seeking a specific employee solution or developing your next generation of leaders, we can help.  Individual clients benefit from working with our diverse, experienced and customer focused team. Human Resources Departments handle many business nuances – from employee relations, selection and retention of top talent, training and development, compensation analysis, to the selection of competitive compensation, and benefit packages and retirement plans.\n\nHR Consulting Services\n\nCareer Transition/Outplacement\nProviding you with the best combination of outstanding consulting and our proprietary career portal with the latest online technology to assist you in your career transition.\n\nEmployee Relations & Performance Management\nProviding training to managers/supervisors to improve employee relations issues and morale, reducing turnover in the process.\n\nHuman Resources Compliance\nConducting full human resources check-ups that allow us to identify applicable regulations and present best practices to help maintain compliance while minimizing risks.\n\nHR Technology\nProviding cloud-based HR solutions for people tracking, employee services and payroll.\n\nCompensation & Benefit Consulting\nWork to develop an overall compensation strategy that assist you in attracting the right talent by paying salaries that are competitive.\n\nOther HR Consulting Needs\nFrom reviewing your employee handbook and providing you an actionable report to assisting employers with the transition following the announcement of a merger or acquisition deal.\n\nFAQs\n\nWhy would I provide career transition support for employees I’m letting go?\nThe question is why wouldn’t you do it? It is in everybody’s best interest for laid-off employees to move forward in a new job or a satisfying retirement quickly. Warren Averett Workplace … Past employees can become referral sources and clients. This also sends a positive message to the employees you have retained. Help employees get new jobs and move forward, and you will benefit. Our clients find jobs 40% faster than the national average. Our corporate clients say that this is a small price to pay for doing the right thing in a challenging time.\n\nWhat is a big HR problem you can help me solve?\nEvery company is different. Problems and opportunities range from optimizing people processes to vetting vendors. Sometimes all you need is someone to talk through a people related problem. We are all ears for big and small problems. We’ve helped with assessments and selection of key employees to paving the way for leaders to succeed. Our approach to the HR side of your business starts with understanding your business so we can help you turn HR problems into opportunities for success.\n\nMeet Our HR Consulting Team\nLearn more about our team members’ expertise, insights and how we can help you thrive\n\nInsights\n3 Things To Consider for Your Company’s Employee Benefit Plan Compliance in 2025\nWritten by Kyle Bonds on August 7, 2025\n\nExempt Salary Threshold Changes Have Been Struck Down\nWritten by Dianne Wilson on November 25, 2024\n\nWhat Happens During an Employee Benefit Plan Audit?\nWritten by Missy Herbert on May 20, 2024\n\nCompany FAQs About the Gag Clause Prohibition Compliance Attestation\nWritten by Dianne Wilson on October 17, 2023\n\nAffiliations AND Memberships\n\nHow Can We Help You?\nPHONE: 205.970.6313\nQuestions about how we can help you or your business thrive, or want to learn more about Warren Averett? Get in touch with us today!\n\nClient Successes\nThe help and knowledge I received are something I don’t think you can get any other way. It is a whole new way to think about a job transition.\nGraphic Artist\n\nI found everyone to be professional, caring and willing to go the extra mile to help in any way. My coach was incredible.\nTechnology professional\n\nAfter being with the same company for 20 years, I was very out of touch with the whole job search process, with resume writing, and networking. My coach was a tremendous help to me and went above and beyond to get me on the right track to finding a new job, and to prepare me for interviewing, getting my LinkedIn profile updated, as well as helping me to create a very strong resume. She also helped me to calm my nerves over interviewing and was so encouraging. She helped me to become confident about interviewing and gave me great tips. I am currently scheduled for a 2nd interview for a great job!\nTechnology Leader\n\nMy coach was excellent, and having one counselor during the process was much better than prior experiences I have had. She was flexible with scheduling and focused and to the point. I believe I gained a lot of good knowledge during the short time we spent, so the time spent was very efficient.\nTechnical Support Specialist\n\nAnnual business unit one day planning session helped leaders from different departments agree on a common set of goals, initiatives and deliverables for the upcoming year.\n\nA privately owned business pulled together managers for a collaborative session to pave the way for new company directions and products.",
+    "with": [
+      "Warren Averett HR Consulting solutions range from just in time human capital interventions to on-going support for your internal HR and Operations Team.",
+      "Human Resources Compliance\nConducting full human resources check-ups that allow us to identify applicable regulations and present best practices to help maintain compliance while minimizing risks.",
+      "Why would I provide career transition support for employees I’m letting go?",
+      "Exempt Salary Threshold Changes Have Been Struck Down\nWritten by Dianne Wilson on November 25, 2024",
+      "PHONE: 205.970.6313\nQuestions about how we can help you or your business thrive, or want to learn more about Warren Averett?"
+    ],
+    "without": [
+      "Traditional Accounting",
+      "Corporate Advisory",
+      "Technology Solutions"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "pool import, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

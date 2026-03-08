@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.partnershipstudentsuccess.org/academic-tutoring/",
+  "file_id": "0138",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "tutoring",
+        "academic-support",
+        "student-success"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Learn More: Academic Tutoring | The Partnership for Student Success",
+    "author": null,
+    "publish_date": null,
+    "main_content": "What is Academic Tutoring?\n\nAcademic tutoring is a form of teaching, one-on-one or in a small group, towards a specific goal. High-impact tutoring leads to substantial learning gains for students by supplementing (but not replacing) students\u2019 classroom experiences. High-impact tutoring responds to individual needs and complements students\u2019 existing curriculum. Research from the Annenberg Institute at Brown University recommends that academic tutoring programs 1) have tutors that are well-trained and supported, or are teachers, retired teachers, or teaching candidates; 2) have tutors that have time for planning and collaboration with classroom teachers; 3) offer tutoring at least three times per week, for 30 minutes per session (\u201chigh-dosage\u201d); 4) align with an evidence-based curriculum; and 5) occur at school during the school day whenever possible.\n\nTechnical assistance for academic tutoring at PSS is led by Accelerate and the National Student Support Accelerator.\n\nWhy Implement Academic Tutoring?\n\nFor years, families with financial means have hired tutors to support their children and help them through tough academic periods or catch up when they fall behind. In fact, approximately $47 billion was spent on tutoring in the US in 2020 (Global Industry Analysts, 2020). Recent research shows us why. Tutoring, when provided in high-dosage with a consistent tutor in small groups with instruction driven by data, has shown to provide substantial benefits for students (Nickow, Oreopoulos and Quan, 2020). When compared to other school-based interventions in high school math, such as technology support and professional development, high-impact tutoring results in over three times the learning gains with more than a year of additional learning for some programs (Cook et al, 2015; Lynch et al, 2019; Salvin et al, 2009).\n\nRarely do we have so much evidence pointing to the promise of a specific approach. Researchers have performed over 150 random control trials showing positive effects of tutoring across grade levels and subject areas with effects ranging from half a year to more than a year of learning over one academic year of tutoring in most cases. For students from lower income families, tutoring is one of the most impactful educational approaches. A 2017 study examined interventions that aimed to improve the educational achievement for students from low socioeconomic backgrounds in elementary and middle school. Of all the interventions examined, tutoring was both the most common and the most effective (Dietrichson, B\u00f8g, Filges, Klint J\u00f8rgensen, 2017).\n\nSee Academic Tutoring In Action\n\nLearn More!\n\nCheck out these essential resources from the National Student Support Accelerator!\n\nWhat is High-Impact Tutoring?\n\nHigh-Impact Tutoring: Higher Education Institution Playbook\n\nToolkit for Tutoring Programs\n\nHigh-Impact Tutoring District Playbook\n\nPK - 8 Math Tutoring Resource Library\n\nInformational Briefs on Funding\n\nTutoring Quality Improvement System\n\nEducator Guide: High Impact Tutoring Advocacy\n\nTutor Recruitment Strategy\n\nAdditional Resources\n\nThe resources below provide additional information on academic tutoring.\n\nWhy it Works: High-Impact Tutoring\nThe Partnership for Student Success\n\nNavigating Tutoring Options: Internal, External, or Hybrid\nThe Center for Education Market Dynamics\n\nDecisions, Decisions: Navigating Tutoring Options\nThe Center for Education Market Dynamics\n\nThe Impressive Effects of Tutoring on PreK-12 Learning: A Systematic Review and Meta-Analysis of the Experimental Evidence\nAndre Joshua Nickow, Philip Oreopoulous, Vincent Quan, Annenberg Institute at Brown University\n\nKey Considerations for Designing High-Impact Tutoring Programs: Learning from NCLB Supplemental Education Services\nNational Student Support Accelerator in Partnership\n\nTutoring Cost Calculator 2.0\nNational Student Support Accelerator\n\nLeading for Actions: An Insight Report on K-12 Tutoring Programs\nThe Center for Education Market Dynamics\n\nStrategies for Using American Rescue Plan Funding to Address the Impact of Lost Instructional Time\nU.S. Department of Education\n\nEarly Lessons from Implementing High-Impact Tutoring at Scale\nSara White, Megan Carey, Annie O\u2019Donnell, Susanna Loeb, National Student Support Accelerator\n\nSaga Education in Chicago Public Schools: High-dosage tutoring to improve student outcomes in math\nResults for America\n\nAccelerating Student Learning with High-Dosage Tutoring\nEdResearch for Recovery, Carly Robinson, Mathew Kraft, and Susan Loeb, Annenberg Institute at Brown University\n\nPromising Practices: High-Impact Tutoring: Saga Education\nNational Center for Learning Disabilities\n\nHigh-Impact Tutoring: Equitable and Effective Student Learning Acceleration\nNational Student Support Accelerator\n\nThe Transformative Potential of Tutoring for PreK-12 Learning Outcomes: Lessons from Randomized Evaluations Summary of Findings\nAndre Joshua Nickow, Philip Oreopoulos, and Vincent Quan, J-PAL North America\n\nFunding Tutoring Programs\nNational Student Support Accelerator\n\nPolicy Considerations for Tutoring\nNational Student Support Accelerator\n\nShort Presentation of Evidence of Effectiveness and Characteristics of High-Impact Tutoring\nNational Student Support Accelerator",
+    "with": [
+      "Academic tutoring is a form of teaching, one-on-one or in a small group, towards a specific goal.",
+      "For years, families with financial means have hired tutors to support their children and help them through tough academic periods or catch up when they fall behind.",
+      "For students from lower income families, tutoring is one of the most impactful educational approaches.",
+      "Check out these essential resources from the National Student Support Accelerator!",
+      "Saga Education in Chicago Public Schools: High-dosage tutoring to improve student outcomes in math"
+    ],
+    "without": [
+      "Home",
+      "About Us",
+      "Get Involved",
+      "Our Coalition",
+      "Subscribe to Our Newsletter"
+    ]
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:58:04.600420"
+}

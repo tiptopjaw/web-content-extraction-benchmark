@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "url": "https://happilyconnected.com/wedding-planning/wedding-planning-tools/planning-tools-caterer-comparison-spreadsheet/",
+  "file_id": "0023",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "wedding-planning",
+        "tools",
+        "catering",
+        "vendor-resources"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Wedding Planning Tools - Caterer Comparison Spreadsheet - Happily Connected",
+    "author": "Susan",
+    "publish_date": "2024-12-09",
+    "main_content": "If you are serving food at your reception, choosing a caterer is an important part of the wedding planning process. Besides the food tasting great, there are so many things to consider when choosing the right caterer. How much does each item cost, how many staff members do they provide, what is their service fee, do they provide dinnerware and linens, and so on and so on? To help you compare the caterers you love, we have compiled a Caterer Comparison Spreadsheet to help make choosing the right one easier.\n\nClick here to download the free Catering Comparison Spreadsheet. You must be signed into your own Google account to download. Next, click on the file and then make a copy to save the spreadsheet to your own account.\n\nThe spreadsheet is designed to be comprehensive, so you can customize it to fit your wedding. So, if there\u2019s something you don\u2019t need, delete it or hide it. We suggest limiting your comparison to 5 or fewer to keep it from becoming too overwhelming.\n\nHere is an overview of how the spreadsheet works.\n\n1. Enter your total Guest Count in Cell B6.\n2. Add the Caterer\u2019s Name for each Caterer in Row 8 above the appropriate section.\n3. Enter the quantity of each item in the column marked quantity.\n4. Add the actual individual cost for each line in the cost of each column for each caterer. We left 10 rows blank for you to add items.\n5. The total cost for each item will be calculated automatically. Double-check that they match what is on your proposal from the caterer.\n6. The totals for each Caterer will be displayed in Row 85.\n\nThe Catering Comparison Spreadsheet is part of our Planning Tools Series. You can find lots of wedding planning resources to help you with your wedding planning over at https://happilyconnected.com/category/wedding-planning-tools/.\n\nFeel free to email us at [email protected] if you have any questions. Please put Planning Tools in the subject line to help prevent your email from going into our spam folder.",
+    "with": [
+      "To help you compare the caterers you love, we have compiled a Caterer Comparison Spreadsheet to help make choosing the right one easier.",
+      "Click here to download the free Catering Comparison Spreadsheet.",
+      "You must be signed into your own Google account to download.",
+      "The totals for each Caterer will be displayed in Row 85.",
+      "The Catering Comparison Spreadsheet is part of our Planning Tools Series."
+    ],
+    "without": [
+      "Home",
+      "Vendors",
+      "Venues",
+      "© 2025 Happily Connected",
+      "Search"
+    ]
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:22:27.104156"
+}

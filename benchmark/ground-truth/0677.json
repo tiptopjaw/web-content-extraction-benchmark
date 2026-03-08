@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://v2.tauri.app/start/",
+  "file_id": "0677",
+  "ground_truth": {
+    "title": "What is Tauri?",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Tauri is a framework for building tiny, fast binaries for all major desktop and mobile platforms. Developers can integrate any frontend framework that compiles to HTML, JavaScript, and CSS for building their user experience while leveraging languages such as Rust, Swift, and Kotlin for backend logic when needed.\nGet started building with\ncreate-tauri-app\nby using one of the below commands. Be sure to follow the\nprerequisites guide\nto install all of the dependencies required by Tauri. For a more detailed walk through, see\nCreate a Project\nBash\nPowerShell\nFish\nnpm\nYarn\npnpm\ndeno\nbun\nCargo\nsh\n<(\ncurl\nhttps://create.tauri.app/sh\n)\nirm\nhttps://create.tauri.app/ps\n|\niex\nsh\n(curl\n-sSL\nhttps://create.tauri.app/sh\n|\npsub\n)\nnpm\ncreate\ntauri-app@latest\nyarn\ncreate\ntauri-app\npnpm\ncreate\ntauri-app\ndeno\nrun\n-A\nnpm:create-tauri-app\nbun\ncreate\ntauri-app\ncargo\ninstall\ncreate-tauri-app\n--locked\ncargo\ncreate-tauri-app\nAfter you’ve created your first app, take a look at\nProject Structure\nto understand what each file does.\nOr explore the project setups and features from the examples (\ntauri\n|\nplugins-workspace\n)\nWhy Tauri?\nSection titled “Why Tauri?”\nTauri has 3 main advantages for developers to build upon:\nSecure foundation for building apps\nSmaller bundle size by using the system’s native webview\nFlexibility for developers to use any frontend and bindings for multiple languages\nLearn more about the Tauri philosophy in the\nTauri 1.0 blog post\n.\nSecure Foundation\nSection titled “Secure Foundation”\nBy being built on Rust, Tauri is able to take advantage of the memory, thread, and type-safety offered by Rust. Apps built on Tauri can automatically get those benefits even without needing to be developed by Rust experts.\nTauri also undergoes a security audit for major and minor releases. This not only covers code in the Tauri organization, but also for upstream dependencies that Tauri relies on. Of course this doesn’t mitigate all risks, but it provides a solid foundation for developers to build on top of.\nRead the\nTauri security policy\nand the\nTauri 2.0 audit report\n.\nSmaller App Size\nSection titled “Smaller App Size”\nTauri apps take advantage of the web view already available on every user’s system. A Tauri app only contains the code and assets specific for that app and doesn’t need to bundle a browser engine with every app. This means that a minimal Tauri app can be less than 600KB in size.\nLearn more about creating optimized apps in the\nApp Size concept\n.\nFlexible Architecture\nSection titled “Flexible Architecture”\nSince Tauri uses web technologies that means that virtually any frontend framework is compatible with Tauri. The\nFrontend Configuration guide\ncontains common configurations for popular frontend frameworks.\nBindings between JavaScript and Rust are available to developers using the\ninvoke\nfunction in JavaScript and Swift and Kotlin bindings are available for\nTauri Plugins\n.\nTAO\nis responsible for Tauri window creation and\nWRY\nis responsible for web view rendering. These are libraries maintained by Tauri and can be consumed directly if deeper system integration is required outside of what Tauri exposes.\nIn addition, Tauri maintains a number of plugins to extend what core Tauri exposes. You can find those plugins alongside those provided by the community in the\nPlugins section\n.",
+    "with": [
+      "Tauri is a framework for building tiny, fast binaries for all major desktop and mobile platforms.",
+      "Developers can integrate any frontend framework that compiles to HTML, JavaScript, and CSS for building their user experience while leveraging languages such as Rust, Swift, and Kotlin for backend logic when needed.",
+      "Get started building with\ncreate-tauri-app\nby using one of the below commands.",
+      "Be sure to follow the\nprerequisites guide\nto install all of the dependencies required by Tauri.",
+      "Or explore the project setups and features from the examples (\ntauri\n|\nplugins-workspace\n)\nWhy Tauri?"
+    ],
+    "without": [
+      "Edit this page",
+      "Report an issue",
+      "Table of contents",
+      "On this page",
+      "Previous"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

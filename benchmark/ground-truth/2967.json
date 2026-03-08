@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.aljazeera.com/economy/",
+  "file_id": "2967",
+  "ground_truth": {
+    "title": "Economy",
+    "author": "",
+    "publish_date": null,
+    "main_content": "BREAKING\n\nIsrael hits Iran's oil storage depots and refining facilities for the first time\n\nBahrain says Iranian drone hit water desalination plant\n\nTwo killed in Kuwait as Saudi Arabia intercepts more Iranian missiles and drones\n\nClick to pause breaking news ticker\n\nClose Breaking News Ticker\n\nEconomy\n\nFeatured Content\n\nUS issues limited licence for Venezuelan gold following high-level visit\n\nThe licence follows a push from US President Donald Trump to open Venezuela’s resource sector to outside investment.\n\nUS customs agency says it is not yet able to reimburse tariff costs\n\nIn a bid to counter China, Trump hosts a summit for Latin America leaders\n\nUS job market stalls, unemployment rate rises before Fed decision\n\nMoscow sees significant rise in demand for Russian oil, gas amid Iran warContent Feed\n\nTens of thousands in scramble for flights out of Middle East amid Iran war\n\nWealthy travellers are paying up to $200,000 to charter flights out of the region.\n\nCuba’s economy on edge: Fuel shortages and rising hardship\n\nHavana’s streets have changed as a US fuel blockade restricts the movements of vehicles and people and hits businesses.\n\nUS states sue to stop Trump’s latest global tariffs\n\nLawsuit is to stop the 10%  tariffs that Trump immediately imposed after US Supreme Court struck down previous tariffs.\n\nSenators propose ban on US gov’t officials doing prediction market trading\n\nThe bill comes as a user on Polymarket made more than $500,000 by taking a position that the US would strike Iran.\n\nVenezuela’s president vows mining reform amid visit from US cabinet member\n\nUS Interior Secretary Doug Burgum has met with Venezuela’s interim President Delcy Rodriguez in Caracas.\n\nGamblers make big profits on Iran strikes, raising insider trading concerns\n\nAnonymous bets hours before attacks on Iran that killed Supreme Leader Khamenei have raised concerns of insider trading.\n\nIRGC says Iran in ‘complete control’ of Strait of Hormuz amid Trump threats\n\nOne-fifth of the global oil is shipped through the strait, which remains effectively closed amid US-Israeli war on Iran.\n\nSouth Korea’s stock market suffers biggest drop in history amid US-Iran war\n\nBenchmark index plummets as much as 12.2 percent, eclipsing single-day plunge after 9/11 attacks in 2001.\n\nUS Commerce Secretary Lutnick to testify before Congress about Epstein ties\n\nLutnick’s relationship with financier has come under scrutiny after files revealed closer ties than previously known.\n\nShutdown of Hormuz Strait raises fears of soaring oil prices\n\nConsumers are set to pay higher prices, but US producers could benefit, analysts say.\n\nClick here to show more content\n\nShow more\n\nSign up for Al Jazeera\n\nBreaking News Alert\n\nGet real-time breaking news alerts and stay up-to-date with the most important headlines from around the globe.\n\nSubscribe\n\nYour subscription failed. Please try again.\n\nPlease check your email to confirm your subscription\n\nBy signing up, you agree to our\n\nPrivacy Policy\n\nprotected by\n\nreCAPTCHAYour browser does not support the audio element.\n\nYou rely on Al Jazeera for truth and transparency\n\nWe and our\n\npartners store and access personal data, like browsing data or unique identifiers, on your device. Selecting Allow all enables tracking technologies to support the purposes shown under we and our partners process data to provide. Selecting Reject all or withdrawing your consent will disable them. If trackers are disabled, some content and ads you see may not be as relevant to you. You can resurface this menu to change your choices or withdraw consent at any time by clicking the Manage preferences link on the bottom of the webpage. Your choices will have effect within our Website. For more details, refer to our Privacy Policy.\n\nTo learn more, please view our Cookie Policy.\n\nWe and our partners process data to provide:\n\nUse precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.\n\nList of Partners (vendors)\n\nAllow all\n\nReject all\n\nManage preferences",
+    "with": [
+      "Israel hits Iran's oil storage depots and refining facilities for the first time",
+      "In a bid to counter China, Trump hosts a summit for Latin America leaders",
+      "Lawsuit is to stop the 10%  tariffs that Trump immediately imposed after US Supreme Court struck down previous tariffs.",
+      "One-fifth of the global oil is shipped through the strait, which remains effectively closed amid US-Israeli war on Iran.",
+      "Sign up for Al Jazeera"
+    ],
+    "without": [
+      "Skip to Featured Content",
+      "Skip to Content Feed",
+      "Navigation menu",
+      "NewsShow more news sectionsAfricaAsiaUS & CanadaLatin AmericaEuropeAsia Pacific",
+      "Show more news sections"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

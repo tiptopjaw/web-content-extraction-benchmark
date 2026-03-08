@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.headphones.com/products/audeze-lcd-2-classic",
+  "file_id": "3026",
+  "ground_truth": {
+    "title": "Audeze LCD-2 Classic Headphones",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Audeze\n\nAudeze LCD-2 Classic Headphones\n\nSale price $799 Regular price $799.00\n\nMore payment options This item is a recurring or deferred purchase. By continuing, I agree to the cancellation policy and authorize you to charge my payment method at the prices, frequency and dates listed on this page until my order is fulfilled or I cancel, if permitted.\n- Description\n- Specifications\n- Reviews\n\nOpen media  in modal\n- Open media 1 in modal\n- Open media 2 in modal\n- Open media 3 in modal\n- Open media 4 in modal\n\n4.3 stars on 7 reviews\n\nBack-orders will ship as soon as we receive them.\n\nStarting at $67 /mo or 0% APR with Affirm . See if you qualify\n\nCup style More information Open-back headphone designs are often higher-performance but have poor noise isolation and leak sound. Closed-back designs provide better noise isolation and leak less sound.\n\nOpen-back headphone designs are often higher-performance but have poor noise isolation and leak sound. Closed-back designs provide better noise isolation and leak less sound.\n\nOpen-Back\n\nWearing style More information Over-ear headphones sit over your ear and surround your ear with a ring of padding. On-ear headphones are padded but rest on top of your ear. In-ear monitors are worn inside your ear canal.\n\nOver-ear headphones sit over your ear and surround your ear with a ring of padding. On-ear headphones are padded but rest on top of your ear. In-ear monitors are worn inside your ear canal.\n\nOver-ear\n\nDriver type More information Speakers and headphones use a device called a 'driver' to create sound. Different types of drivers have different strengths and weaknesses, but can all produce great sound. Common varieties include dynamic, planar magnetic, and electrostatic.\n\nSpeakers and headphones use a device called a 'driver' to create sound. Different types of drivers have different strengths and weaknesses, but can all produce great sound. Common varieties include dynamic, planar magnetic, and electrostatic.\n\nPlanar Magnetic\n\nAmp required More information Some headphones require the power of an amplifier to reach comfortable listening volumes.\n\nSome headphones require the power of an amplifier to reach comfortable listening volumes.\n\nYes\n\nConnectivity More information Connectivity refers to the method in which the headphones connect to the audio source. Headphones can be either wired or wireless.\n\nConnectivity refers to the method in which the headphones connect to the audio source. Headphones can be either wired or wireless.\n\nWired\n\nPre-pay to reserve Back-order items usually ship within several weeks\n\nBack-order items usually ship within several weeks\n\nNo Fee 365-Day Returns*\n\nDon’t love it to start? Don't worry, you have 365-days to return with no fees*.\n\nMembers earn 799 points on this purchase.\n\nAdd to Wishlist\n\nNeed some help? Chat with one of our experts\n\nChat with one of our experts\n\nFound a better price? Learn about our price matching policy\n\nFound a better price?\n\nLearn about our price matching policy\n\nAudeze has taken their current generation LCD-2 drivers and removed the Fazor elements, aligning the sound of the LCD-2 Classic with that of the original LCD-2 launched in 2008. The result is a warm and energetic musical experience that heralds back to the early days of Audeze without sacrificing the sound or performance improvements we’ve made over the past decade. Whether you’re an old fan of the original LCD-2 or a brand new Audeze customer looking for an affordable introduction to our LCD line, the LCD-2 Classic is a great option for you!\n\nA Tradition of Excellence\n\nThe lineage of the LCD Origins series can be traced back to the original LCD-2. Much has changed over the years, but these headphones still retain the iconic warmth and vibrant presentation that have captivated listeners for more than a decade.\n\nConnect to the Music\n\nThe most forgiving of our LCD headphones, the LCD Origins series offers an engaging musical experience that features powerful bass and a rich midrange. Connect to the music as though you're in the room with the musicians.\n\nEngineered and Handcrafted in the USA\n\nAudeze headphones are engineered and handcrafted in the USA to our exacting quality standards. Our beautiful wood rings are precisely matched by grain and color for a sophisticated look to match our premium audio quality.\n\nWhat's included?\n\n- LCD-2 Classic planar magnetic headphones\n- 1.9m 1/4'' to dual 4-pin mini-XLR cable\n- LCD Economy travel case\n\nDownload User Manual",
+    "with": [
+      "Audeze LCD-2 Classic Headphones",
+      "Starting at $67 /mo or 0% APR with Affirm .",
+      "Speakers and headphones use a device called a 'driver' to create sound.",
+      "Back-order items usually ship within several weeks",
+      "Found a better price?"
+    ],
+    "without": [
+      "Track Order",
+      "HeadphonesHeadphonesAll HeadphonesOver-Ear & On-Ear HeadphonesEarbuds & In-Ear HeadphonesWireless HeadphonesNoise Canceling HeadphonesCurated Headphones BundlesFlagship Headphones",
+      "All Headphones",
+      "Over-Ear & On-Ear Headphones",
+      "Earbuds & In-Ear Headphones"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

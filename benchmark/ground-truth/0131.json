@@ -1,0 +1,40 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.topadvisor.com/categories/machine-learning-ml/rankings",
+  "file_id": "0131",
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "software",
+        "rankings",
+        "machine-learning",
+        "directory"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Top 10 Machine Learning (ML) Software Ranking 2025 | Reviews, Features, Pricing",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Top Ranked Machine Learning (ML) Software\n\nCompare Top Ranked Machine Learning (ML) Software\n\nSee how top Machine Learning (ML) products rank based on their WH score.\n\nProduct Ranking | TopAdvisor Score\n1. Automation Anywhere | 9.1\n2. ChatGPT | 9.0\n3. Seamless.AI | 8.8\n4. Claude | 8.3\n5. DeepSeek | 8.2\n6. Neurala | 7.9\n7. Unisys | 7.9\n8. Chorus | 7.9\n9. MonkeyLearn | 7.9\n10. DataRobot | 7.9\n11. Clarifai | 7.9\n12. NVIDIA | 7.9\n13. Neuton | 7.9\n14. Neural Designer | 7.9\n15. Fujitsu Private GPT | 7.9\n16. Monica | 7.9\n17. Workik | 7.9\n18. Tabnine | 7.9\n19. AWS Bedrock | 7.9\n20. Katonic | 7.8\n21. Gemini | 7.7\n22. NeuralDB Enterprise | 7.6\n23. Xyonix | 7.6\n24. Meta AI | 7.5\n25. ADVIT | 7.3\n26. CrossEngage | 7.3\n27. CodeConvert AI | 7.3\n28. Dataminr | 7.3\n29. PathAI | 7.1\n30. CGaaS.ai | 6.9\n31. Adobe Sensei | 6.9\n32. Tune AI | 6.9\n33. QuantumBlack | 6.7\n34. Pareto | 6.7\n35. AlphaCode | 6.7\n36. GitHub Copilot | 6.5\n37. Fireworks AI | 6.2\n38. Afforai | 6.2\n39. BentoCloud | 6.1\n40. Groq | 5.9",
+    "with": [
+      "See how top Machine Learning (ML) products rank based on their WH score.",
+      "1. Automation Anywhere | 9.1",
+      "20. Katonic | 7.8",
+      "40. Groq | 5.9"
+    ],
+    "without": [
+      "Home",
+      "Browse All Categories",
+      "For Vendors",
+      "Privacy Policy",
+      "The right software for your business"
+    ]
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:44:56.772896"
+}

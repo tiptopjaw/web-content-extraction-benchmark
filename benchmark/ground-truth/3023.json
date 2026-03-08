@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ifixit.com/products/moray-driver-kit",
+  "file_id": "3023",
+  "ground_truth": {
+    "title": "Moray Driver Kit - 32 Precision Bits",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Compact Bit Set\n\nCompact precision bit set for everyday repair\n\nMoray Driver Kit - 32 Precision Bits\n\nDescription\n\nMeet the Moray, Minnow ’s slightly bigger brother. Measuring a portable .9\" x 3.1\" x 4.9\", the Moray is the perfect every-day-carry toolkit or junk drawer standby to prevent your stuff from becoming junk.\nMinnow\nWe built the Moray using data from thousands of repair manuals and teardowns, ensuring you have a compact assortment of bits for electronics and home repair. Our 4 mm, polymer handle, precision bit driver has an integrated SIM Eject pin, magnetic bit socket, knurled grip, and swivel top with in-handle bit storage—and the 32 precision driver bits have a 4 mm hex shank and extended-reach long necks.\nStandard and security bits like Phillips and Pentalobes will get you into most electronic devices and small household appliances, and an assortment of Hex and specialty bits come in handy for furniture and older devices. Whether you're a professional fixer or a weekend warrior, the Moray has what you need to disassemble and repair smartphones, laptops, new and vintage game consoles, kitchen appliances, and more.\n\nSpecifications\n\nDriver Material\nPolymer\nBit Metal\nS2 Steel\nCase Material\nDimensions\n4.9\" x 3.1\" x .9\" / 12.4 x 7.8 x 2.2 cm\niFixit Part Number\nIF145-475-1\n\nKit Contents\n\nLifetime Guarantee\nCalifornia Residents: Prop 65 WARNING\n\nBits for Every Thing\n\nFlathead\n1.0 mm\n2.5 mm\n4.0 mm\nGamebit\n3.8 mm\n4.5 mm\n1.5 mm\n3.0 mm\niPhone Standoff\nNut Driver\n5.0 mm\nOval Drive\nPentalobe\nPhillips\nSIM Eject\nTORX®\nTORX® Security\nTri-point\nTriangle\n\nCarry the Essentials\n\nThe Moray Driver Kit fits seamlessly into your life with its compact size, making it an ideal everyday carry toolkit or a reliable standby for unexpected repair needs.\n\nThoughtfully Designed Driver\n\nOur lightweight plastic 4 mm driver offers an ergonomic grip and a magnetic bit holder for effortless screw management. The smooth swivel cap cleverly integrates storage for up to three bits and a SIM Eject Tool.\n\nVersatile Bit Assortment\n\nThe Moray boasts 32 precision driver bits with extended necks made from durable S2 steel making it a great choice for both beginners and pros.\n\nService value proposition\n\nWhich bits does the Moray include?\n\nCustomer Reviews\n\n5 star reviews\nstar reviews\nNumber of 5 star reviews 318\nNumber of 5 star reviews\n4 star reviews\nNumber of 4 star reviews 17\nNumber of 4 star reviews\n3 star reviews\nNumber of 3 star reviews 2\nNumber of 3 star reviews\n2 star reviews\nNumber of 2 star reviews 1\nNumber of 2 star reviews\n1 star reviews\nNumber of 1 star reviews 0\nNumber of 1 star reviews\n338 ratings\nWrite a review\ntim o\nVerified buyer\nlast week\nMoray Driver Kit - 32 Precision Bits | New\nas expected, all complete and first uses are nice.\nslightly stiff turnwheel, but its understandable as its plastic on plastic.\nChristian Lopez\n2 weeks ago\nExcellent as always!\nBenjamin P\nGreat!\nsee more reviews\n\n- Lifetime Guarantee Mako Driver Kit - 64 Precision Bits 847 $39.95 Loading... Add to cart\n- Lifetime Guarantee Mahi Driver Kit - 48 Precision Bits 85 $39.95 Loading... Add to cart\n- Spudger 981 $3.99 Loading... Add to cart\n\nSpudger",
+    "with": [
+      "Meet the Moray, Minnow",
+      "The Moray Driver Kit fits seamlessly into your life with its compact size",
+      "The Moray boasts 32 precision driver bits with extended necks made from durable S2 steel",
+      "Which bits does the Moray include?",
+      "as expected, all complete and first uses are nice."
+    ],
+    "without": [
+      "Fix Your Stuff",
+      "Repair Guides",
+      "Learn how to fix just about anything with our step-by-step guides.",
+      "Answers Forum",
+      "Share solutions and get help from a friend."
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

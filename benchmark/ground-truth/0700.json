@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "url": "https://aws.amazon.com/lambda/",
+  "file_id": "0700",
+  "ground_truth": {
+    "title": "Serverless Function, FaaS Serverless  - AWS Lambda - AWS",
+    "author": "",
+    "publish_date": null,
+    "main_content": "AWS Lambda\nOverview\nFeatures\nPricing\nGetting Started\nResources\nMore\nProducts\n›\nCompute\n›\nAWS Lambda\n1 million requests free per month with the AWS Free Tier\nAWS Lambda\nRun code without thinking about servers or clusters\nHands-on Workshop\nSee the documentation\nWhy AWS Lambda?\nAWS Lambda empowers you to focus solely on your code, while it handles all infrastructure management, enabling faster development, improved performance, enhanced security, and cost efficiency.\nPlay\nBenefits of AWS Lambda\nIncrease developer agility\nWrite less code, perform less maintenance, and build applications faster.\nBoost application performance\nLeverage AWS’ operational excellence by offloading tasks associated with high availability and resilience, ensuring critical performance for your business.\nHelp strengthen overall security posture\nReduce security operations burden, provide security isolation, and drive business continuity while accelerating innovation.\nDrive cost efficiency\nUtilize pay-per-use billing by the millisecond while reducing operational costs associated with infrastructure management and application development.\nUse cases\nInteractive web and mobile backends\nWeb and mobile applications often contain sophisticated features like authentication, geo-hashing, and real-time messaging, mostly built as distributed microservices-based systems. These applications must respond almost in real time to customer activity and scale seamlessly to meet unpredictable demands all while maintaining robust security. With AWS Lambda, you can build and operate powerful web and mobile back-ends that deliver consistent, uninterrupted service to end users by automatically scaling up and down based on real-time needs. You can enhance application functionalities by easily connecting them to other systems or modifying components without re-architecting the entire system.\nBatch data processing\nBatch data processing tasks often require substantial compute and storage resources to handle large volumes of information for short periods. AWS Lambda is ideal for these workloads, offering cost-effective, millisecond-billed compute that automatically scales out to meet processing demands and down upon completion, ensuring efficient resource use and preventing exhaustion. You can focus on building and analyzing data without needing to be experts in AWS infrastructure management.\nReal-time data processing\nReal-time data processing involves processing continuous data instantly and efficiently to gather analytical insights and drive better customer experiences. The volume of streamed or queued data can vary unpredictably based on end-user actions and demands. AWS Lambda natively integrates with both AWS and third-party real-time data sources, such as\nAmazon SQS\n,\nAmazon Kinesis\n,\nAmazon Managed Streaming for Apache Kafka (MSK)\n, and Apache Kafka, enabling you to process real-time data without the overhead of managing streaming client libraries or learning specialized data processing frameworks.\nGenerative AI\nThe generative AI landscape is evolving rapidly, and organizations need to innovate and adapt quickly to maintain competitive advantage. This evolution is catalyzed by a significant surge in large language models (LLMs) that meet diverse needs. Organizations are building distributed architectures that leverage specific LLMs based on unique requirements. AWS serverless architecture, powered by AWS Lambda, is ideal for generative AI applications, enabling you to start small and scale seamlessly while handling distributed, event-driven workflows securely at scale.\nGet started with AWS Lambda\nFeature\nFind out how AWS Lambda works\nExplore AWS Lambda Features\nDocumentation\nExplore hands-on training\nCheck out getting started tutorials\nGetting started\nConnect with an expert\nExplore support options\nDid you find what you were looking for today?\nLet us know so we can improve the quality of the content on our pages\nYes\nNo",
+    "with": [
+      "AWS Lambda empowers you to focus solely on your code, while it handles all infrastructure management, enabling faster development, improved performance, enhanced security, and cost efficiency.",
+      "Play\nBenefits of AWS Lambda\nIncrease developer agility\nWrite less code, perform less maintenance, and build applications faster.",
+      "Boost application performance\nLeverage AWS’ operational excellence by offloading tasks associated with high availability and resilience, ensuring critical performance for your business.",
+      "Help strengthen overall security posture\nReduce security operations burden, provide security isolation, and drive business continuity while accelerating innovation.",
+      "Drive cost efficiency\nUtilize pay-per-use billing by the millisecond while reducing operational costs associated with infrastructure management and application development.",
+      "Use cases\nInteractive web and mobile backends\nWeb and mobile applications often contain sophisticated features like authentication, geo-hashing, and real-time messaging, mostly built as distributed microservices-based systems.",
+      "These applications must respond almost in real time to customer activity and scale seamlessly to meet unpredictable demands all while maintaining robust security.",
+      "With AWS Lambda, you can build and operate powerful web and mobile back-ends that deliver consistent, uninterrupted service to end users by automatically scaling up and down based on real-time needs."
+    ],
+    "without": [
+      "Request a demo",
+      "Contact us",
+      "Sign up",
+      "Free trial",
+      "See pricing",
+      "Talk to sales",
+      "Log in",
+      "Cookie",
+      "Privacy Policy"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

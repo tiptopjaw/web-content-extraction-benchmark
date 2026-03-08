@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://canadianhobbymetalworkers.com/threads/proxmox-or-ubuntu-or-debian-for-windows-virtualization.18571",
+  "file_id": "2797",
+  "ground_truth": {
+    "title": "ProxMox or Ubuntu or Debian for Windows virtualization?",
+    "author": "slow-poke",
+    "publish_date": "2025-12-16",
+    "main_content": "I want to install some yet to be determined flavor of Linux to be the main OS on a PC and then run Win7 and Win10 as virtual machines under Linux. Older laptop; SSD is 1TB, and 32GB RAM, 2nd bay for another SSD but I don't think I need to use it. Anyone here doing this and what would you suggest?\n\nResponses from forum members:\n\nAarknoid: Running proxmox with ubuntu headless and Truenas as main VMs. Ubuntu runs docker which holds Windows 10 docker, plex, media organizers, and torrent client. Windows 10 as a docker container works well for CAD software but getting GPU shared into Ubuntu was involved - only Nvidia is supported.\n\nmickeyf: Using Debian for 15 years with VirtualBox for Windows 7 with no significant issues. Debian focuses on stability with less frequent major updates. Ubuntu is a downstream derivative of Debian.\n\njcdammeyer: Tried Linux Mint on an older Windows 7 workstation. Works reasonably well with Windows-like desktop. Installed WinBoat to run Windows 10 as tabs on the Linux desktop. GeoMagic ran reasonably well but was slow - tasks taking seconds on Windows took over a minute. USB pass-through was experimental and didn't work for dongles.\n\ndjberta: Has several laptops and desktop on Mint, works well. Debian was used at work for backbone systems.\n\nPeterT: Installed Linux Mint on an old ex-Windows 7 laptop. Linux has trouble with Nvidia graphics drivers causing glitches compared to Windows. Older laptops have better odds of Linux compatibility.",
+    "with": [
+      "I want to install some yet to be determined flavor of Linux to be the main OS on a PC and then run Win7 and Win10 as virtual machines under Linux.",
+      "Aarknoid: Running proxmox with ubuntu headless and Truenas as main VMs.",
+      "mickeyf: Using Debian for 15 years with VirtualBox for Windows 7 with no significant issues.",
+      "jcdammeyer: Tried Linux Mint on an older Windows 7 workstation.",
+      "djberta: Has several laptops and desktop on Mint, works well."
+    ],
+    "without": [
+      "Scam Alert. Members are reminded to NOT send money to buy anything.",
+      "Log in",
+      "Share:",
+      "Community platform by XenForo",
+      "Tips/Techniques"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

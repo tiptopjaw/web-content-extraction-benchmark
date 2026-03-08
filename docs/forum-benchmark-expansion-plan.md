@@ -96,13 +96,13 @@ Pick from known large vB forums:
 
 | # | Forum | URL Base | Topic Area |
 |---|-------|----------|------------|
-| 1 | Ubuntu Forums | ubuntuforums.org | Linux |
+| 1 | Doom9 Forum | forum.doom9.org | Video Encoding |
 | 2 | Warrior Forum | warriorforum.com | Marketing |
 | 3 | FlyerTalk | flyertalk.com | Travel |
 | 4 | AVS Forum | avsforum.com | Home Theater |
 | 5 | WatchUSeek | watchuseek.com | Watches/Luxury |
 | 6 | MTBR | forums.mtbr.com | Mountain Biking |
-| 7 | HysterSisters | hystersisters.com | Women's Health |
+| 7 | Netmums | netmums.com | Parenting/Career |
 | 8 | Reef Central | reefcentral.com | Aquariums/Pets |
 | 9 | Web Hosting Talk | webhostingtalk.com | Web Hosting |
 | 10 | Toyota Nation | toyotanation.com | Automotive |
@@ -139,9 +139,9 @@ Pick from showcase + known forums:
 | 1 | NodeBB Community | community.nodebb.org | Meta/Tech |
 | 2 | LTT Forums | linustechtips.com | PC/Tech |
 | 3 | Meatgistics | meatgistics.waltonsinc.com | Food/Hobby |
-| 4 | Subrion | subrion.org/forum | CMS |
-| 5 | Manga Café | mangacafe.org | Anime/Entertainment |
-| 6 | Pair Network | community.pair.com | Web Hosting |
+| 4 | Qt Forum | forum.qt.io | C++/Qt Development |
+| 5 | Windy Community | community.windy.com | Weather/Outdoor |
+| 6 | Netdata Community | community.netdata.cloud | Server Monitoring |
 
 ### Other Platform Software (6 threads)
 Less common platforms for breadth:
@@ -171,11 +171,11 @@ Major sites with custom forum software — critical for extraction robustness:
 | 9 | Quora | quora.com | Custom | Science |
 | 10 | Quora | quora.com | Custom | History |
 | 11 | Slashdot | slashdot.org | Slash | Tech News |
-| 12 | 4chan | boards.4chan.org | Custom | Technology (/g/) |
+| 12 | Discourse Meta | meta.discourse.org | Discourse | Meta/Tech |
 | 13 | Lemmy (lemmy.world) | lemmy.world | Lemmy/Rust | Tech |
 | 14 | Lemmy (lemmy.ml) | lemmy.ml | Lemmy/Rust | FOSS |
 | 15 | GameFAQs | gamefaqs.gamespot.com | Custom | Gaming |
-| 16 | Something Awful | forums.somethingawful.com | Custom | General |
+| 16 | Lobsters | lobste.rs | Custom (Rails) | Tech |
 | 17 | Nairaland | nairaland.com | Custom (PHP) | General (Nigeria) |
 | 18 | The Student Room | thestudentroom.co.uk | Custom | Education (UK) |
 | 19 | Mumsnet | mumsnet.com/talk | Custom | Parenting (UK) |

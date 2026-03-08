@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://render.com/",
+  "file_id": "2838",
+  "ground_truth": {
+    "title": "Your fastest path to production for",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Intuitive infrastructure to scale any app or agent from your first user to your billionth.\n\nStart for free\n\nGet in touch\n\nTrusted by over 4.5 million builders\n\nClick, click, done.\n\nSelect a service\n\nChoose what you need to run your apps, APIs, agent logic, databases, cron jobs, and more.\n\nDeploy your code\n\nJust connect your repo. Render deploys on the right runtime for your framework.\n\nRender does the rest\n\nGet instant networking, scaling, previews, deploys, rollbacks, and monitoring.\n\nWhatever your stack, it runs on Render.\n\nView Templates\n\nDeploy apps and agents\n\nwith\n\nzero ops\n\nIntuitive hosting and private networking for\n\nweb services\n\nPostgres databases\n\ncron jobs\n\nworkflows\n\nstatic sites\n\nbackground jobs\n\nkey value stores\n\nprivate services\n\nWebSockets\n\nedge caches\n\nisolated environments\n\nFull-stack previews for every pull request\n\nIterate quickly with ephemeral previews of your entire application architecture for every change.\n\nPreview environment docs →\n\nLoad-based autoscaling that handles 100x traffic bursts and beyond\n\nKeep your workloads running smoothly through viral moments, seasonal spikes, and launch days.\n\nAutoscaling docs →\n\nInstance Type:\n\n64 CPU\n\n512GB RAM\n\nDurable, highly parallel workflows as code\n\nDeploy stateful application logic and async workloads for AI agents, data pipelines, and more. No managing workers.\n\nWorkflow docs →\n\nEnterprise-grade Postgres databases\n\nDeploy fully-managed databases with point-in-time recovery, read replicas, and high availability.\n\nPostgres docs →\n\nIntegrated logs and monitoring for builds, deploys and live services\n\nSee critical metrics for all of your Render infrastructure from day zero, and stream telemetry to external tools.\n\nObservability docs →\n\nRender has enabled us to deliver AI features much faster with a very lean engineering team. Its flexibility and reliability have scaled to meet our rapidly evolving needs. After using their platform over the last year, I’m convinced Render is the future of the cloud.\n\nMaor Shlomo\n\nFounder of Base44\n\nIntuitive infrastructure,\n\ndesigned for builders\n\nShip software faster with integrated primitives that just work.\n\nNative language runtimes\n\nHigh-performance environments for nearly every popular framework.\n\nInfrastructure as code\n\nDefine, deploy, and version your entire architecture with a single YAML file.\n\nIsolated environments\n\nPrevent non-production environments from accessing production services.\n\nObject storage\n\nComing Soon\n\nStore and retrieve files from your services with lightweight SDKs.\n\nRedis-compatible Key Value\n\nLow-latency in-memory storage ideal for shared caches and job queues.\n\nWebSockets\n\nBuild real-time features with long-lived, bi-direction streaming.\n\nEdge caching\n\nServe static assets faster with caching powered by Render’s global CDN.\n\nFully-managed TLS\n\nFree TLS certificates for every domain, including wildcards.\n\nStay secure and\n\nresilient by default\n\nBuild products, not compliance.\n\nPrivate networking\n\nKeep internal traffic off the public internet without VPC complexity.\n\nBuilt-in DDoS protection\n\nProtect every service from attacks without extra configuration or add-ons.\n\nManaged compliance\n\nMeet SOC 2 Type 2, HIPAA, ISO 27001, and GDPR requirements without overhead.\n\nAudit controls\n\nBuilt-in audit logging and monitoring for platform events.\n\nEncryption at rest\n\nMinimum AES-128 encryption for databases, backups, and secrets.\n\nUnique user identification\n\nControl services and resources with role-based access control.\n\nTrust center\n\nHIPAA on Render",
+    "with": [
+      "Intuitive infrastructure to scale any app or agent from your first user to your billionth.",
+      "isolated environments",
+      "Integrated logs and monitoring for builds, deploys and live services",
+      "Isolated environments",
+      "Built-in DDoS protection"
+    ],
+    "without": [
+      "Platform Overview",
+      "Persistent Disks"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

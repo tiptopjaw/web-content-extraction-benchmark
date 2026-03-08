@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.austintexas.gov/department/workforce-development",
+  "file_id": "1244",
+  "ground_truth": {
+    "title": "Workforce Development | AustinTexas.gov",
+    "author": "",
+    "publish_date": null,
+    "main_content": "The Economic Development Department's Workforce Development program manages multiple, multiyear service delivery contracts between the City and local nonprofit organizations that provide free or low-cost workforce training to individuals pursuing self-sustaining employment. These contracts grant various organizations funds to empower Austin-area job seekers with career and occupational training in high-demand sectors such as healthcare, information technology, the skilled trades, advanced manufacturing, and more. Currently, the City funds the training providers listed below. We encourage job seekers and employers to visit an organization's website for more information about its services. Note: This Workforce Development program does not award funds to creatives and businesses. For those funding opportunities, visit the Economic Development Department's Funding page. The training providers include: Workforce Solutions Capital Area - Referrals and services to employers and job seekers; Capital IDEA - Opportunities to earn an Associate Degree or certification in the fields of healthcare or information technology; Skillpoint Alliance - Opportunities to earn certifications in pre-apprentice plumbing, electrical, HVAC, and advanced manufacturing; Austin Urban Technology Movement - Opportunities to earn certifications in cybersecurity, data analytics, software development, and more; Goodwill Industries of Central Texas - Support for individuals with barriers to career advancement including those with criminal backgrounds, lack of education, housing insecurity, disabilities, and other barriers; Youth and Family Alliance (LifeWorks) - Integrated employment, education, and mental health support for youth to secure employment and pursue career goals; Literacy Coalition of Central Texas - Critical adult education and workforce preparation services for students across Austin and the Travis County community; Jail to Jobs - Mentor-based employment with wraparound care for justice-involved individuals including vocational training and job placement for formerly incarcerated individuals; and The Arc of the Capital Area - A comprehensive program that facilitates the transition of individuals with intellectual and developmental disabilities from reliance on government support to self-sufficiency and independence.",
+    "with": [
+      "The Economic Development Department's Workforce Development program manages multiple, multiyear service delivery contracts between the City and local nonprofit organizations that provide free or low-cost workforce training to individuals pursuing self-sustaining employment.",
+      "These contracts grant various organizations funds to empower Austin-area job seekers with career and occupational training in high-demand sectors such as healthcare, information technology, the skilled trades, advanced manufacturing, and more.",
+      "Currently, the City funds the training providers listed below. We encourage job seekers and employers to visit an organization's website for more information about its services."
+    ],
+    "without": [
+      "Skip to main content",
+      "3-1-1",
+      "Search by keyword",
+      "City of Austin - Website",
+      "Facebook | X | LinkedIn | Instagram | YouTube"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

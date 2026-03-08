@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.ebay.com/itm/326432571280",
+  "file_id": "3017",
+  "ground_truth": {
+    "title": "24-Teiliges - und Schwammset für   Pro B402HW B402CN Staubsaugerzubehö8198",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Shop exclusive items from trusted sellers\n\n24-Teiliges - und Schwammset für   Pro B402HW B402CN Staubsaugerzubehö8198 24-Teiliges - und Schwammset für   Pro B402HW B402CN Staubsaugerzubehö8198\n\n24-Teiliges - und Schwammset für   Pro B402HW B402CN Staubsaugerzubehö8198\n\nTue, Mar 04, 12:54 AM Tue, Mar 04, 12:54 AM\n\nTue, Mar 04, 12:54 AM\n\nSeller's other items\n\nPicture 1 of 1\n\nGallery\n\n24-Teiliges - und Schwammset für   Pro B402HW B402CN Staubsaugerzub ehö8198\n\nSeller's other items Seller's other items\n\nOops! Looks like we're having trouble connecting to our server.\n\nRefresh your browser window to try again.\n\nInternational shipment of items may be subject to customs processing and additional charges.\n\nRead item description or contact seller for details. See all details See all details on coverage\n\nRead item description or contact seller for details.\n\nSee all details See all details on coverage\n\nSee all details on coverage\n\n(Not eligible for eBay purchase protection programs)\n\nSeller assumes all responsibility for this listing.\n\neBay item number: 326432571280\n\nItem description\n\nSee full item description\n\nAbout this seller\n\nSeller's other items Contact - opens in a new dialog\n\nContact - opens in a new dialog\n\n- opens in a new dialog\n\nSeller Feedback\n\nBack to home page Return to top",
+    "with": [
+      "Shop exclusive items from trusted sellers",
+      "Tue, Mar 04, 12:54 AM",
+      "Refresh your browser window to try again.",
+      "See all details See all details on coverage",
+      "eBay item number: 326432571280"
+    ],
+    "without": [
+      "Skip to main content",
+      "Hi!Sign inorregister",
+      "Brand Outlet",
+      "Help & Contact",
+      "Recently Viewed"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

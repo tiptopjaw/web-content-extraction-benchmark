@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.beardbrand.com/collections/beard-oil",
+  "file_id": "0636",
+  "ground_truth": {
+    "title": "Beard Oil",
+    "author": "",
+    "publish_date": null,
+    "main_content": "is our award-winning, lightweight, and non-greasy moisturizing oil. Daily use helps prevent beard itch, soothe dry skin, and stop beard dandruff, leaving your beard healthy, soft, and smelling awesome. Formulated with natural abyssinian, jojoba, castor, and babassu oils, Beard Oil is non-comedogenic (won't clog your pores) and safe for sensitive skin.\n\nSafe for All Skin Types\n\nThe active ingredients in Beardbrand Beard Oil all score between 0 and 2 on the comedogenic scale, meaning they are considered suitable for all skin types and have a low likelihood of clogging your pores.\n\nBenefits of Beard Oil\n\nA healthier, stronger beard\n\nHydrates dry hair to reduce breakage, split ends, and damage.\n\nA softer beard\n\nMoisturizes coarse strands so your beard feels smoother and more comfortable.\n\nReduced itch and dandruff\n\nNourishes the skin beneath your beard to calm irritation and help prevent flakes.\n\nA better-looking beard\n\nAdds lightweight shine for a healthy, well-groomed appearance.\n\nA better-smelling beard\n\nAvailable in signature fragrances that keep your beard smelling as good as it looks.\n\nHow Do I Use Beard Oil?\n\nApplying beard oil is easy. Use the following three steps:\n\n1. Dispense the oil into your hand and then warm it between your palms.\n2. Apply the oil to the skin beneath your beard and then onto the hair.\n3. Use a boar's hair beard brush or beard comb to help evenly distribute the oil and shape your beard.\n\nFor a full breakdown, read our ultimate guide to beard oil.\n\n4+ Beard Oil Uses\n\nBeard / Face\n\nLightweight, non-greasy hydration for beard and face.\n\nHair\n\nSmoothes hair and reduces frizz.\n\nSkin / Tattoo\n\nHeals dry skin. Adds pop to tattoos.\n\nShave\n\nReduces irritation from razor burn.",
+    "with": [
+      "Daily use helps prevent beard itch, soothe dry skin, and stop beard dandruff, leaving your beard healthy, soft, and smelling awesome.",
+      "Formulated with natural abyssinian, jojoba, castor, and babassu oils, Beard Oil is non-comedogenic (won't clog your pores) and safe for sensitive skin.",
+      "The active ingredients in Beardbrand Beard Oil all score between 0 and 2 on the comedogenic scale, meaning they are considered suitable for all skin types and have a low likelihood of clogging your pores.",
+      "Hydrates dry hair to reduce breakage, split ends, and damage.",
+      "Nourishes the skin beneath your beard to calm irritation and help prevent flakes."
+    ],
+    "without": [
+      "Norse Winter Beard Oil",
+      "Bold Fortune Beard Oil",
+      "Old Money Beard Oil",
+      "From $32",
+      "From $29"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

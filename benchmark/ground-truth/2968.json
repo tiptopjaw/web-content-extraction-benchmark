@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://arstechnica.com/",
+  "file_id": "2968",
+  "ground_truth": {
+    "title": "Ars Technica homepage",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Featured\n\nPinball\n\nWhich of these two arcades is the “world largest”—and does it matter?\n\nWhile semantics count for some, gamers win either way.\n\nTim Stevens – 3/6/2026 | 72\n\nTim Stevens\n\n3/6/2026 | 72",
+    "with": [
+      "Which of these two arcades is the “world largest”—and does it matter?",
+      "While semantics count for some, gamers win either way.",
+      "Tim Stevens – 3/6/2026 | 72"
+    ],
+    "without": [
+      "Ars Technica home",
+      "Day & Night",
+      "Neutron Star",
+      "More\n          from Ars",
+      "Staff Directory"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

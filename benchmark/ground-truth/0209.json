@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.nationwidegroup.org/addressing-consumers-cybersecurity-concerns-around-the-smart-home/",
+  "file_id": "0209",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "technology",
+        "smart-home",
+        "cybersecurity",
+        "retail",
+        "guide"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Addressing Consumers\u2019 Cybersecurity Concerns Around the Smart Home",
+    "author": "Rob Stott",
+    "publish_date": "2023-11-21",
+    "main_content": "It\u2019s easy to imagine that since the dawn of technology, society has realized the awesome potential of these advanced products while also approaching them with a heightened sense of caution. Sure, the first sundials helped to keep track of time, but what if some rogue actor wanted to throw your schedule off and rotated it out of alignment without you noticing?\n\nToday, with computer chips in just about every possible product from appliances to furniture and all the other smart home gadgets in between, there\u2019s plenty to be concerned about from the consumer\u2019s standpoint. In fact, a recent Park Associates report found that 54 percent of U.S. internet households had experienced a \u201cdata privacy or security issue\u201d over the previous 12 months \u2013 a 50 percent increase compared to a similar report conducted in 2018. Further, the research firm found that 62 percent of smart home device owners are fearful that their devices could open their homes up to unauthorized access \u2013 i.e. hacking.\n\nAs more and more connected devices are added to the smart home, those concerns are absolutely warranted. Everything from the doorbell camera, garage door openers, smart locks, TVs, those smart appliances and more require a network connection, which opens up the possibility for some nefarious antics.\n\nGranted, it\u2019s unlikely anyone reading this will experience something like Ghostface showing up at their home, hacking their smart locks and looking to do you harm. But the Hollywood dramatization of that exact scenario is what makes those concerns legitimate for the average consumer. If the Scream franchise can make it seem possible, it must be, right?\n\nIt also doesn\u2019t help that over the past several years, all of the big names in technology have been hit with reports that they are listening to the voice recordings through apps or their assistant-driven devices. Apple had to apologize for letting contractors listen to Siri recordings. Amazon and Google have openly acknowledged the fact that their workers listen to Alexa/Echo and Google Assistant recordings in order to improve speech detection and improve how they respond to commands. Amazon also took heat for giving Ring doorbell recordings to police without informing their customers. And we all know that Meta claims it doesn\u2019t listen to users through their Facebook and Instagram apps, among others, but are we really sure?\n\nAll of this to say, consumers today have every right to be worried about the safety and security of their products and homes. It also means Independent retailers have a prime opportunity \u2013 and important role to play \u2013 in helping alleviate those concerns.\n\nAs the local expert, you can help your customers navigate this industry on a few different levels. There\u2019s the general understanding of how connected products work individually and as a collective system within the home. And then you can be the guide as they determine which brand or brands best suit their needs and provide the proper level of protection.\n\n\u201cIt\u2019s a complicated category,\u201d Callan Spicher, vice president of Spicher\u2019s Appliance & Security told us during a recent Independent Thinking Podcast interview. \u201cI think a lot of people find it overwhelming to say the least. And then it just becomes a question of, well, isn\u2019t everything hackable? And while, yes that is technically true, there are different levels of product.\u201d\n\nSpicher\u2019s, which get into the security arena a little over 10 years ago, has committed to only stocking and installing smart technology that is UL certified, even if that means passing over some highly recognizable brands like Ring and SimpliSafe.\n\n\u201cRight now, with the UL certification, it\u2019s at least something,\u201d Spicher said. \u201cIt is quite expensive and rigorous for a product to go through that process. And while it might mean we carry more expensive product than some of those consumer-friendly names, our thought process, and what we\u2019re telling our customers is, \u2018You get what you pay for in this category.\u2019\u201d\n\nThe UL certification mark will soon be joined by a U.S. government-backed program that we covered earlier this year \u2013 the U.S. Cyber Trust Mark program, which will follow the ENERGY STAR certification model. Proposed by FCC Chairwoman Jessica Rosenworcel, that program is intended to \u201craise the bar for cybersecurity across common devices\u201d and \u201chelp Americans more easily choose smart devices that are safer and less vulnerable to cyberattacks.\u201d\n\nThe marks and certifications themselves are talking points. But understanding what makes a product more secure versus another will allow you to build yourself as that go-to resource in your community. Even if you feel like your business can\u2019t overlook some of those more popular brands, understanding the certifications in the smart home arena can help you guide your customers down a more-secure path.\n\nFurther, if your business is more deeply involved with custom integration and whole-home automation, there\u2019s the opportunity to have a conversation with your customer or client about leaning on your company for regular firmware and system updates \u2013 basic table stakes if they want to ensure their systems stay secure over time.\n\nSmart home conversations might also require a bit of psychology as well on the sales associate\u2019s behalf. Sure, there might always be a back door that can be exploited by a bad actor. But, unless you are concerned about people out there specifically targeting you or wanting to do you harm, it\u2019s more than likely you have nothing to worry about from a smart home security standpoint. These systems aren\u2019t easily hacked.\n\nAs long as technology keeps extending its tentacles throughout the home and other areas of our lives, questions about privacy and security are going to persist. Stay ahead of the curve and position your business as a leader your customers can count on.",
+    "with": [
+      "Apple had to apologize for letting contractors listen to Siri recordings.",
+      "54 percent of U.S. internet households had experienced a \u201cdata privacy or security issue\u201d over the previous 12 months",
+      "Spicher\u2019s, which get into the security arena a little over 10 years ago, has committed to only stocking and installing smart technology that is UL certified",
+      "Stay ahead of the curve and position your business as a leader your customers can count on."
+    ],
+    "without": [
+      "GET THE NEWSLETTER",
+      "View All Podcasts",
+      "Contact Us",
+      "Return to Nationwide Website",
+      "Connect With Us!"
+    ]
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:19:47.067599"
+}

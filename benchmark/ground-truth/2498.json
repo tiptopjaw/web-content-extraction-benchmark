@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.artmann.co/articles/30-years-of-br-tags",
+  "file_id": "2498",
+  "ground_truth": {
+    "title": "30 Years of <br> Tags",
+    "author": "Christoffer Artmann",
+    "publish_date": "2025-12-13",
+    "main_content": "I'm incredibly optimistic about the state of web development in 2025. It feels like you can build anything, and it's never been this easy or this cheap. AI is the thing everyone talks about, and it's been a great unlock — letting you build things you didn't know how to do before and simply build more than ever.\n\nBut I don't think that's the complete picture. We also have so many more tools and platforms that make everything easier. Great frameworks, build systems, platforms that run your code, infrastructure that just works. The things we build have changed too. Mobile phones, new types of applications, billions of people online.\n\nThis is a retrospective of being a web developer from when I was growing up in the 1990s until today. Roughly 30 years of change, seen through the lens of someone who lived it — from tinkering with HTML in a garage in a small Swedish town to working as an engineer at a YC startup in Barcelona.\n\nLet's go back to when the web felt like a frontier. The late 90s were a magical time — the internet existed, but nobody really knew what it was going to become.\n\nThe first big unlock for me was PHP. After struggling with C for CGI scripts, PHP felt like a revelation. I installed XAMPP, which bundled Apache, MySQL, and PHP together, and suddenly I could build dynamic websites.\n\nPHP also solved the layout problem that had plagued the static era. The language had its warts, but it didn't matter. PHP was accessible. You could learn it in a weekend and build something real.\n\nWordPress launched in 2003 and it's hard to overstate how much it changed the web. Before WordPress, if you wanted a website, you either learned to code or you paid someone who did.\n\nGmail launched with 1 gigabyte of free storage. It felt almost absurd. Gmail was a web application that felt like a desktop application. The technology behind it was AJAX.\n\nReact arrived. Facebook open-sourced React in 2013, and the initial reaction was... mixed. But React had a different mental model, and once it clicked, everything else felt clunky.\n\nTypeScript adoption started accelerating around 2017-2018. Once you tried it on a real project, it was hard to go back. The autocomplete alone was worth it.\n\nThen COVID happened. In March 2020, the world went remote almost overnight.\n\nEvery era in this retrospective had its defining moment. That's when OpenAI released ChatGPT. Within a week, everyone was talking about it. Within a month, it had a hundred million users.\n\nLooking at web development in late 2025, I feel remarkably optimistic. The tools have never been this good. You can go from idea to deployed application faster than ever.\n\nThirty years ago, my dad set up a Unix server so I could upload HTML files about whatever interested me that week. The tools were primitive, the sites were ugly, and everything was held together with <br> tags and good intentions. But the core promise was there: anyone could build and share on the web.\n\nThat promise has only grown stronger. The barriers keep falling. What once required a team now takes a person. What once took weeks now takes hours.\n\nI don't know exactly where this goes next. But the trajectory of my entire career has been toward more people being able to build more things more easily.\n\nIt's a fantastic time to be building for the web.",
+    "with": [
+      "I'm incredibly optimistic about the state of web development in 2025.",
+      "This is a retrospective of being a web developer from when I was growing up in the 1990s until today.",
+      "PHP felt like a revelation. I installed XAMPP, which bundled Apache, MySQL, and PHP together, and suddenly I could build dynamic websites.",
+      "React arrived. Facebook open-sourced React in 2013, and the initial reaction was... mixed.",
+      "That's when OpenAI released ChatGPT. Within a week, everyone was talking about it."
+    ],
+    "without": [
+      "Posts",
+      "Projects",
+      "Privacy Policy",
+      "Subscribe to newsletter",
+      "Cookies"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

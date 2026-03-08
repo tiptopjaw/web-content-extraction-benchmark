@@ -1,0 +1,33 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.jetbrains.com/idea/",
+  "file_id": "2829",
+  "ground_truth": {
+    "title": "IntelliJ IDEA",
+    "author": "",
+    "publish_date": null,
+    "main_content": "The Leading IDE for Professional Java and Kotlin Development\n\nIntelliJ IDEA is the JetBrains IDE for pro development in Java and Kotlin. Built for your comfort, it unlocks productivity, ensures quality code, supports cutting-edge tech, and protects your privacy.",
+    "with": [
+      "The Leading IDE for Professional Java and Kotlin Development",
+      "IntelliJ IDEA is the JetBrains IDE for pro development in Java and Kotlin."
+    ],
+    "without": [
+      "JetBrains AI",
+      "All Products Pack",
+      "Contact Sales",
+      "Manage your account",
+      "JetBrains Marketplace"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "JS-rendered page, only meta description available in HTML source",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

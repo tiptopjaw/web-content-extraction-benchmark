@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.upliftdesk.com/24-deep-standing-desk/",
+  "file_id": "0602",
+  "ground_truth": {
+    "title": "24\" Deep Standing Desk",
+    "author": "",
+    "publish_date": null,
+    "main_content": "UPLIFT V3 24\" Deep Standing Desk\n\n24\" deep Standing Desk\n\nA desk for narrow spaces\n\nWith a slim 24\" deep design, this desk helps maximize space while delivering the same functionality as full-sized models.\n\nBy allowing for fluid transitions between sitting and standing, this desk helps optimize the workspace while promoting the physical movement necessary to improve health, comfort, and productivity.\n\nThe UPLIFT V3 24\" Deep Standing Desk redefines standing desks with a BIFMA-certified height range (22.6\"-48.7\") offering exceptional stability without requiring a lower crossbar. Designed to fit 95% of users per ergonomic standards, it's built for lasting strength, quick assembly, and features the world's most advanced cable management system.\n\nIncluded with every desk is a FlexMount Cable Manager (a flexible pouch to conceal and organize cables) and 10 mounted cable wraps.\n\nBasic Keypads require constant-touch to raise and lower your desk.\n\nAdvanced keypads offer 1-touch automatic adjustment to saved heights, keypad lock, min/max height settings, and more.\n\nPower Grommets have outlets and USB ports for charging. Grommet Covers rotate open for wire pass through. Storage Grommets hold small objects.\n\nHands-free up/down control of your desk. Can be used in conjunction with any keypad. Press-and-hold foot button down until the desk reaches the desired height.\n\nGet the most out of your standing desk with movement reminders, daily goals, memorized heights, 1-touch raise/lower functionality, and more. The Bluetooth Adapter is needed to use the free UPLIFT Desk App. Compatible with iOS and Android.\n\nFortune 500 and beyond\n\nWe've uplifted most Fortune 500 companies, plus thousands of universities and government institutions. We design office furniture solutions for teams of any size-from 4 to 4,000 people.",
+    "with": [
+      "With a slim 24\" deep design, this desk helps maximize space while delivering the same functionality as full-sized models.",
+      "By allowing for fluid transitions between sitting and standing, this desk helps optimize the workspace while promoting the physical movement necessary to improve health, comfort, and productivity.",
+      "Designed to fit 95% of users per ergonomic standards, it's built for lasting strength, quick assembly, and features the world's most advanced cable management system.",
+      "Included with every desk is a FlexMount Cable Manager (a flexible pouch to conceal and organize cables) and 10 mounted cable wraps.",
+      "Advanced keypads offer 1-touch automatic adjustment to saved heights, keypad lock, min/max height settings, and more.",
+      "Power Grommets have outlets and USB ports for charging. Grommet Covers rotate open for wire pass through. Storage Grommets hold small objects.",
+      "Get the most out of your standing desk with movement reminders, daily goals, memorized heights, 1-touch raise/lower functionality, and more."
+    ],
+    "without": [
+      "Add to Cart",
+      "Sign up for our newsletter",
+      "Ships the same day",
+      "Sale ends",
+      "coupon code",
+      "Choose your free accessories",
+      "Collegiate Collection",
+      "Accessibility Statement"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

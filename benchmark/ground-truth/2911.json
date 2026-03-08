@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://news.ycombinator.com/jobs",
+  "file_id": "2911",
+  "ground_truth": {
+    "title": "jobs | Hacker News",
+    "author": "",
+    "publish_date": null,
+    "main_content": "These are jobs at YC startups. See more at ycombinator.com/jobs.\n\n1. SigNoz (YC W21) is hiring for engineering, growth and product roles (signoz.io) 17 hours ago\n2. Multifactor (YC F25) Is Hiring an Engineering Lead (ycombinator.com) 1 day ago\n3. Stardex (YC S21) is hiring customer success engineers (ycombinator.com) 2 days ago\n4. Structured AI (YC F25) Is Hiring (ycombinator.com) 2 days ago\n5. Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra (roboflow.com) 3 days ago\n6. Jiga (YC W21) Is Hiring (jiga.io) 3 days ago\n7. Reflex (YC W23) Is Hiring Software Engineers – Python (ycombinator.com) 5 days ago\n8. Kyber (YC W23) Is Hiring an Enterprise Account Executive (ycombinator.com) 8 days ago\n9. Ubicloud (YC W24): Software Engineer – $95-$250K in Turkey, Netherlands, CA (ycombinator.com) 9 days ago\n10. LiteLLM (YC W23): Founding Reliability Engineer – $200K-$270K and 0.5-1.0% equity (ycombinator.com) 9 days ago\n11. Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable (workatastartup.com) 9 days ago\n12. Hightouch (YC S19) Is Hiring (hightouch.com) 9 days ago\n13. Trellis AI (YC W24) is hiring deployment lead to accelerate medication access (ycombinator.com) 10 days ago\n14. Event Horizon Labs (YC W24) Is Hiring (ycombinator.com) 10 days ago\n15. Corgi Labs (YC W23) Is Hiring (ycombinator.com) 11 days ago\n16. Verge (YC S15) Is Hiring a Director of Computational Biology and AI Scientists/Eng (ashbyhq.com) 11 days ago\n17. SIM (YC X25) Is Hiring the Best Engineers in San Francisco (ycombinator.com) 12 days ago\n18. Hadrius (YC W23) Is Hiring Designers Who Code (ycombinator.com) 12 days ago\n19. Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria (bitmovin.com) 13 days ago\n20. Padlet (YC W13) Is Hiring in San Francisco and Singapore (padlet.jobs) 14 days ago\n21. Legion Health (YC) Is Hiring Cracked SWEs for Autonomous Mental Health (ashbyhq.com) 15 days ago\n22. 9 Mothers (YC X26) Is Hiring (ashbyhq.com) 15 days ago\n23. Hyperbound (YC S23, Series A) needs a Engineer with something to prove (ycombinator.com) 15 days ago\n24. Metriport (YC S22) is hiring a security engineer to harden healthcare infra (ycombinator.com) 17 days ago\n25. Activeloop (YC S18) Is Hiring Back End Engineer (Go) (dover.com) 17 days ago\n26. Weave (YC W25) Is Hiring ML, Design, and Product Engineers (ashbyhq.com) 17 days ago\n27. Flexport Is Hiring Engineers in Amsterdam (flexport.com) 17 days ago\n28. Zep AI (Building the Context Graph, YC W24) Is Hiring Engineers (ycombinator.com) 17 days ago\n29. Stardex (YC S21) Is Hiring (ycombinator.com) 18 days ago\n30. Structured AI (YC F25) Is Hiring (ycombinator.com) 18 days ago",
+    "with": [
+      "These are jobs at YC startups.",
+      "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra (roboflow.com)",
+      "Bild AI (YC W25) Is Hiring Interns to Make Housing Affordable",
+      "SIM (YC X25) Is Hiring the Best Engineers in San Francisco",
+      "Hyperbound (YC S23, Series A) needs a Engineer with something to prove"
+    ],
+    "without": [
+      "Guidelines",
+      "Apply to YC",
+      "login"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

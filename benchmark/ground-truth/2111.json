@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://pestrus.com/pest-control-coupons/",
+  "file_id": "2111",
+  "ground_truth": {
+    "title": "Pest Control Coupons | Pest-R-Us Pest Services",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Save Money On Pest Control! Enjoy a pest-free home for a fair and reasonable price. First-time customers can take advantage of exclusive discounts and special offers. Explore our deals and call us now to get started! Special offers available: Initial Treatment - Expires 01/01/26, Referral Program - Expires 01/01/26, Bed Bug Treatment - Expires 01/01/26, Rodent Control - Expires 01/01/26, Mosquito Program - Expires 01/01/26. What People Are Saying About Us: Real reviews from real Californians — see why your neighbors trust Pest-R-Us for fast, effective pest control. We had a serious ant problem in our kitchen that just wouldn't go away no matter what we tried. Pest-R-Us came out the next day, did a full inspection, and within a week, the ants were completely gone. They explained everything clearly and even gave us tips to prevent it from happening again. Great customer service from start to finish! ~ Rachel M. I run a small café, and keeping pests out is critical. Pest-R-Us set us up with a commercial pest control plan, and we haven't had a single issue since. They're professional, punctual, and genuinely care about the businesses they work with. ~ Marcus L. I've been using Pest-R-Us for over a year now for general pest control, and they've been nothing but consistent and professional. From the first inspection to every routine visit, they're always on time, respectful of our home, and super informative. We haven't had any pest issues since starting service—and if anything pops up between visits, they handle it right away. True peace of mind! ~ Nina S. Proudly Serving LA/San Fernando Valley, San Diego & SF Bay Area For Over 20 Years. Pest-R-Us proudly provides expert pest control services throughout California's most vibrant regions. From the neighborhoods of Los Angeles and the San Fernando Valley, to the coastal communities of San Diego, and the bustling cities of the San Francisco Bay Area — we're your local, trusted pest control partner.",
+    "with": [
+      "Save Money On Pest Control! Enjoy a pest-free home for a fair and reasonable price.",
+      "First-time customers can take advantage of exclusive discounts and special offers.",
+      "We had a serious ant problem in our kitchen that just wouldn't go away no matter what we tried.",
+      "Pest-R-Us proudly provides expert pest control services throughout California's most vibrant regions.",
+      "Proudly Serving LA/San Fernando Valley, San Diego & SF Bay Area For Over 20 Years."
+    ],
+    "without": [
+      "Get A Free Quote Today: 855-382-7378",
+      "© 2025 Pest~R~Us. All Rights Reserved. Privacy Policy.",
+      "Follow us on Facebook and Google",
+      "Home / About Us / Special Offers navigation menu items",
+      "Cookie consent and tracking notices"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

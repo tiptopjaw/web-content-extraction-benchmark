@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.l-camera-forum.com/topic/423897-recommendations-on-best-camera-for-photography/",
+  "file_id": "1658",
+  "ground_truth": {
+    "title": "Recommendations on Best Camera for Photography",
+    "author": "Joe Root",
+    "publish_date": "2025-08-26",
+    "main_content": "I am in the market for the best camera for photography. I want to use some advice before pulling the trigger. My main priorities are image quality, reliability, and timeless design. Ideally, I want a camera that delivers gorgeous, character-rich images and should perfect for street, portrait, and daily shooting. After reading expert reviews from trusted sources like TechRadar, Trusted Reviews, and Fstoppers, two Leica models consistently stand out as exceptional: Leica SL3 (Mirrorless Full-Frame) and Leica M10-P (Rangefinder Full-Frame). The SL3 boasts a 60 MP triple-resolution sensor (60/36/18 MP), fast autofocus, in-body image stabilization, and 8K video capability. The M10-P provides the same 24 MP full-frame sensor as the M10, but adds an almost inaudible shutter, a touchscreen, and a built-in virtual horizon. I am having trouble deciding which one would best suit my needs. I'll mostly be shooting portraits, cityscapes, and everyday life, so image character and shooting experience matter the most, though I still value ease of use and adaptability.",
+    "with": [
+      "I am in the market for the best camera for photography."
+    ],
+    "without": [
+      "Sign In",
+      "Sign Up",
+      "Share",
+      "Followers",
+      "Members"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

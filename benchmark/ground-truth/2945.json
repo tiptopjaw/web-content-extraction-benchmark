@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.adorama.com/isom7iv.html",
+  "file_id": "2945",
+  "ground_truth": {
+    "title": "404Page Not Found",
+    "author": "",
+    "publish_date": null,
+    "main_content": "404 Page Not Found\n\nThe page you requested is either temporarily unavailable or no longer exists.\n\nTry One of These\n\n- Check your spelling and try again\n- Shop by Brand\n- Go to the Home Page\n\nSearch\n\nCan We Help?\n\n- Call us at 800.223.2500\n- Email us\n- Chat now\n\nTop Posts on Adorama Learning Center\n\n10 Content Trends to Expect in 2024—According to Creators\n\nBest Tech Products for Your Next Beach Trip\n\nBest Photo Editing Apps for Mobile Devices in 2022\n\n- Join VIP PRO 2 Day Delivery on thousands of items!\n- Sell or Trade your Gear Get started in 3 easy steps",
+    "with": [
+      "The page you requested is either temporarily unavailable or no longer exists.",
+      "- Check your spelling and try again\n- Shop by Brand\n- Go to the Home Page",
+      "- Call us at 800.223.2500\n- Email us\n- Chat now",
+      "Top Posts on Adorama Learning Center",
+      "10 Content Trends to Expect in 2024—According to Creators"
+    ],
+    "without": [
+      "Business, Edu & Gov",
+      "Adorama Rentals",
+      "Sign inMy Account",
+      "Today's Top Deals",
+      "Adorama Credit Card"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

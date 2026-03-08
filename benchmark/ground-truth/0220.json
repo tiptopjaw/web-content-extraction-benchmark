@@ -1,0 +1,40 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.freedoniagroup.com/industry-study/plumbing-fixtures-fittings-us",
+  "file_id": "0220",
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "market-research",
+        "industry-report",
+        "plumbing",
+        "construction"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "US Plumbing Fixtures & Fittings Report",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Report Overview\n\nPlumbing Fixtures in Demand: The Impact of Renovations, Water Efficiency, and Smart Technology on the Market's Future\n\nKey Themes Covered in this Report:\n\n- Rising demand for water-efficient, eco-friendly, and smart plumbing fixtures, driven by concerns over water scarcity, sustainability trends, and the growing adoption of smart home technologies.\n\n- Increasing interest in touchless and hygienic plumbing products due to heightened sanitation awareness, particularly in both residential and commercial spaces.\n\n- Opportunities from aging infrastructure replacement, renovation projects, and luxury upgrades, alongside a growing e-commerce shift and consumer preference for customized plumbing solutions.\n\n- Regulatory pressures and advancements in material innovation are driving product development, with a focus on durability, sustainability, and compliance with water and energy-efficiency standards.\n\nThe US market for plumbing fixtures and fittings totaled $18.4 billion in 2024. Demand for these plumbing products is expected to grow 2.3% annually to $20.6 billion in 2029. In addition to traditional demand drivers (e.g., new construction and remodeling activity), market advances will be supported by several key trends, including:\n\n- continued growth in the size and complexity of kitchen and bathroom spaces\n\n- new product developments that are aimed at improving sustainability, water efficiency, and smart home integration while reducing installation labor requirements to control costs and offset labor shortages\n\n- new product designs that meet the needs of specific market sectors, such as aging in place or multifamily housing\n\nLarger Upgraded Kitchens & Baths Drive Demand for Higher Value Plumbing\n\nExpanding and more personalized home designs – including butler’s pantries, dirty kitchens, and spa-like bathrooms – are increasing both the number and value of fixtures and fittings installed in residential buildings. Homeowners are prioritizing premium and highly functional products with advanced features, durable materials, and aesthetic appeal, thereby boosting demand for higher value sinks, faucets, tubs, and shower systems.\n\nInnovation is Key to Meeting Sustainability, Installation, & Performance Challenges\n\nThe plumbing industry is responding to market pressures by developing water-efficient fixtures to meet new regulations, easy-installation products for labor-constrained markets, and advanced designs that offer both durability and performance. New product development (e.g., smart plumbing, tool-free fittings, modular plumbing systems, and customized designs) are reshaping offerings to address cost, efficiency, performance, design, ease-of-use, and regulatory requirements.\n\nSmart Plumbing to Gain Momentum as Connectivity Becomes a Market Differentiator\n\nThe development of smart plumbing technology – including automated shut-off valves, touchless or voice-activated operation, leak detection, customizable settings, remote controls, and water usage monitoring – is becoming a critical competitive advantage in the plumbing industry. Smart solutions improve efficiency, reduce water waste, and decrease the risk of damage from leaks while offering convenience and flexibility to end users. As smart plumbing adoption grows, it will provide all these advantages and potentially lower operating costs, in addition to helping building owners meet new water regulation standards.\n\nUS Plumbing Fixtures & Fittings Report Details\n\nCurrent Total Market Size: $18.4 billion\n\nForecast Total Market Growth Rate: 2.3% CAGR from 2024-2029\n\nHistorical Period: 2014-2024\n\nForecast Period: 2024-2034\n\nUnits Covered: Dollars for fixtures and fittings; units for fixtures\n\nRegions: US\n\nProducts: Fixtures and fittings\n\nProduct Types: bathtub and shower fixtures, sink fixtures, toilet fixtures, hot tubs and spas, bottle filling stations, bathroom sink fittings, bathtub and shower fittings, kitchen sink fittings, and all other fixtures and fittings\n\nMarkets: Residential and commercial\n\nFixture Materials: Plastic, metal, porcelain, cast polymer, fiberglass, all other fixture materials\n\nKey Companies in the Plumbing Fixtures & Fittings Industry\n\nAmerican Bath Group, LIXIL, ASSA ABLOY, Mansfield Plumbing Products, Fluidmaster, Masco, Fortune Brands Innovations, Sloan Valve, Global Union, Watts Water Technologies, Jacuzzi Brands, Zurn Elkay Water Solutions, Kohler\n\nUS Plumbing Fixtures & Fittings Report Scope\n\nThis study analyzes US demand for plumbing fixtures and fittings by product type, material (for fixtures), market, and region and subregion.",
+    "with": [
+      "The US market for plumbing fixtures and fittings totaled $18.4 billion in 2024",
+      "Rising demand for water-efficient, eco-friendly, and smart plumbing fixtures",
+      "2.3% CAGR from 2024-2029",
+      "This study analyzes US demand for plumbing fixtures and fittings"
+    ],
+    "without": [
+      "Skip navigation",
+      "Sign In / Create Account",
+      "Add full report to cart",
+      "Download Sample Report",
+      "Table | Macroeconomic Indicators"
+    ]
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T14:48:53.585903"
+}

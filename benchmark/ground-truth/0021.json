@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.liberty.edu/online/tuition-and-fees/",
+  "file_id": "0021",
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "education",
+        "tuition",
+        "financial",
+        "university"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Online Tuition and Financing | Liberty University",
+    "author": null,
+    "publish_date": null,
+    "main_content": "Liberty University Online Tuition and Fees\n\nConsistent Tuition Rates for a Decade – Affordable Online Education\n\nClear Costs, Strong Values – See the Difference at Liberty\n\nAs a nonprofit institution, Liberty University strives to keep costs affordable for you. Most of our online tuition rates rank in the top 35% for affordability for 2025 when compared to our leading online competitors, and online undergraduate tuition rates have been frozen for the last 10 years!\n\nUndergraduate Full-time $390 per hour\nPart-time $455/hour\nMilitary $250/hour\n\nGraduate Full-time $580 per hour\nPart-time $645/hour\nMilitary $290/hour\n\nSeminary Block Rate $2,850 per semester\nGraduate Military $2,850/semester\nDoctoral Military $2,850/semester\n\nDoctorate Full-time $610 per hour\nPart-time $675/hour\nMilitary as low as $375/hour\n\nThe above figures are general rates. For more specific program rates, please see the detailed Tuition Rates and Fees for 2025-2026 below.\n\nFull-Time Per Hour Rate\n\n- Undergraduate – $390\n- R.N.-B.S.N. and R.N.-B.S.N.-M.S.N. – $330\n- B.S.N.-M.S.N. (Dual Degree)¹ – $330\n- Master's Programs (unless price otherwise noted) – $580\n- M.S. in Biomedical Sciences² – $605\n- M.Ed. and M.A. in Teaching Programs³ – $430\n- School of Divinity Master's Programs – $2,850 block rate\n- School of Divinity D.Min., Th.M., and Ph.D. Programs⁴ – $2,850 block rate\n- Ed.S. and Doctorate Programs – $610\n- D.N.P. – Psych. Mental Health Nurse Practitioner (Post-MSN and Post-BSN)⁵ – $850\n- Post-Grad Certificate in Psych Mental Health⁵ – $850\n- Military Undergraduate – $250\n- Military Master School of Divinity – $2,575 block rate\n- Military Graduate – $290\n- Military Ed.D.and Ed.S.Programs⁶ – $375\n- Military D.Min.: Pastoral Counseling⁶ – $2,800 block rate\n- Military School of Divinity Th.M Program – $2,575 block rate\n- Military School of Divinity D.Min. Programs – $2.800 block rate\n- Military Grad. to Doctoral tuition⁷ – $375\n- Technology Fee⁸ – $349 per semester\n- Book and Online Content Fees – $636*⁹\n- Supplies – $636*\n- Course Fees – Per Course\n\nPart-Time Per Hour Rate\n\n- Undergraduate – $455\n- R.N.-B.S.N. and R.N.-B.S.N.-M.S.N. – $330\n- B.S.N.-M.S.N. (Dual Degree)¹ – $330\n- Master's Programs (unless price otherwise noted) – $645\n- M.S. in Biomedical Sciences² – $605\n- M.Ed. and M.A. in Teaching Programs³ – $645\n- School of Divinity Master's Programs – $410\n- School of Divinity D.Min, Th.M, and Ph.D. Programs – $410\n- Ed.S. and Doctorate Programs – $675\n- D.N.P. – Psych. Mental Health Nurse Practitioner (Post-MSN and Post-BSN)⁵ – $850\n- Post-Grad Certificate in Psych Mental Health⁵ – $850\n- Military Undergraduate – $250\n- Military Master School of Divinity – $290\n- Military Graduate – $290\n- Military Ed.D.and Ed.S.Programs⁶ – $375\n- Military D.Min.: Pastoral Counseling⁶ – $375\n- Military School of Divinity Th.M Program – $290\n- Military School of Divinity D.Min. Programs – $375\n- Military Grad. to Doctoral tuition⁷ – $375\n- Technology Fee⁸ – $349 per semester\n- Book and Online Content Fees – $636*⁹\n- Supplies – $636*\n- Course Fees – Per Course\n\nSpecial Program Rates\n\nK-12 Online Academy $549/Full-year course\n\nLUOA Discount: Parents who attend Liberty University Online may be eligible to receive a 10% tuition discount for their child to enroll with Liberty University Online Academy.\n\nWillmington School of the Bible $120/Hour",
+    "with": [
+      "As a nonprofit institution, Liberty University strives to keep costs affordable for you. Most of our online tuition rates rank in the top 35% for affordability for 2025 when compared to our leading online competitors",
+      "online undergraduate tuition rates have been frozen for the last 10 years",
+      "School of Divinity D.Min., Th.M., and Ph.D. Programs⁴ – $2,850 block rate",
+      "K-12 Online Academy $549/Full-year course",
+      "Willmington School of the Bible $120/Hour"
+    ],
+    "without": [
+      "Apply Now",
+      "Chat Live",
+      "Liberty University Online Programs",
+      "Request Information",
+      "Privacy Policy"
+    ]
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T12:30:38.083891"
+}

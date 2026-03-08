@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.zappos.com/women-sneakers-athletic-shoes",
+  "file_id": "3051",
+  "ground_truth": {
+    "title": "Women Sneakers Athletic Shoes",
+    "author": "",
+    "publish_date": null,
+    "main_content": "women sneakers athletic shoes\n\n3953 items found\n\nSort By\n\nRelevance\n\nSearch Results\n\nTopo Athletic - ST-5. Color Grey/Grey. Low Stock. On sale for $108.00. MSRP $120.00. 10% off. 4.4 out of 5 stars\n\nBrand Name Topo Athletic\nProduct Name ST-5\nGender Women's\nColor Grey/Grey\nPrice $108 MSRP: $120 10% OFF\nRating 4 Rated 4 stars out of 5 (91)\n\nSaucony - Women's Triumph 21. Color Lotus/Bough. Low Stock. On sale for $80.00. MSRP $160.00. 50% off. 3.8 out of 5 stars\n\nBrand Name Saucony\nProduct Name Women's Triumph 21\nGender Women's\nColor Lotus/Bough\nPrice $80 MSRP: $160 50% OFF\nRating 4 Rated 4 stars out of 5 (173)\n\nNew Balance - Fresh Foam Arishi v4. Color Black Cement/Flat Taupe/Angora. $74.99. 3.8 out of 5 stars\n\nBrand Name New Balance\nProduct Name Fresh Foam Arishi v4\nGender Women's\nColor Black Cement/Flat Taupe/Angora\nPrice $74.99\nRating 4 Rated 4 stars out of 5 (368)\n\nMizuno - Wave Horizon 8 Womens D. Color Black/White. $169.99. 3.2 out of 5 stars\n\nBrand Name Mizuno\nProduct Name Wave Horizon 8 Womens D\nGender Women's\nColor Black/White\nPrice $169.99\nRating 3 Rated 3 stars out of 5 (4)\n\nCustomers Also Bought\n\nHoka - Clifton 10. Color Sea Glass/Jadeite. On sale for $124.00. MSRP $155.00. 20% off. 4.2 out of 5 stars. Best Seller.\n\nBrand Name Hoka\nProduct Name Clifton 10\nGender Women's\nColor Sea Glass/Jadeite\nPrice $124 MSRP: $155 20% OFF\nRating 4 Rated 4 stars out of 5 (508)\n\nHoka - Bondi 9. Color Blue Spark/Mint Fluorite. On sale for $140.00. MSRP $175.00. 20% off. 4.0 out of 5 stars. Best Seller.\n\nBrand Name Hoka\nProduct Name Bondi 9\nGender Women's\nColor Blue Spark/Mint Fluorite\nPrice $140 MSRP: $175 20% OFF\nRating 4 Rated 4 stars out of 5 (1007)",
+    "with": [
+      "3953 items found",
+      "Topo Athletic - ST-5. Color Grey/Grey. Low Stock.",
+      "Saucony - Women's Triumph 21. Color Lotus/Bough.",
+      "New Balance - Fresh Foam Arishi v4",
+      "Hoka - Clifton 10. Color Sea Glass/Jadeite."
+    ],
+    "without": [
+      "Skip to main content",
+      "Shop Running",
+      "Help & Support",
+      "Return Options",
+      "Give Us Feedback"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

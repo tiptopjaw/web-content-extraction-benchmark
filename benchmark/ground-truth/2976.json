@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://alternativeto.net/software/notion/",
+  "file_id": "2976",
+  "ground_truth": {
+    "title": "The Best Notion AlternativesTop Note-taking Tools & Todo List Managers like Notion",
+    "author": "",
+    "publish_date": null,
+    "main_content": "ClickUp\n\nAll-in-one system integrates project, task, and time management with customizable modular dashboards, collaborative image annotation, multiple task views, and granular workflow customization for teams of any size or industry, streamlining complex to simple projects.\n\nCost / License\n\n- Freemium\n- Proprietary\n\nApplication types\n\n- Team Collaboration\n- Project Management\n\nOrigin\n\n- United States\n\nPlatforms\n\n- Mac\n- Windows\n- Linux\n- Online\n- Android\n- iPhone\n- Android Tablet\n- iPad\n- Apple Watch\n- Software as a Service (SaaS)",
+    "with": [
+      "All-in-one system integrates project, task, and time management with customizable modular dashboards, collaborative image annotation, multiple task views, and granular workflow customization for teams of any size or industry, streamlining complex to simple projects.",
+      "- Freemium\n- Proprietary",
+      "- Team Collaboration\n- Project Management",
+      "- Mac\n- Windows\n- Linux\n- Online\n- Android\n- iPhone\n- Android Tablet\n- iPad\n- Apple Watch\n- Software as a Service (SaaS)"
+    ],
+    "without": [
+      "NEW APPSNEW APP RELEASES|ALL APPSBROWSE ALL APPS|NEWSTECH NEWS|LISTS",
+      "NEW APPSNEW APP RELEASES",
+      "NEW APP RELEASES",
+      "ALL APPSBROWSE ALL APPS",
+      "BROWSE ALL APPS"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

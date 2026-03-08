@@ -1,0 +1,22 @@
+# Collection pages - 11 more needed
+
+# REI (worked with Playwright)
+https://www.rei.com/c/running-shoes
+https://www.rei.com/c/water-bottles
+https://www.rei.com/c/climbing-shoes
+https://www.rei.com/c/kayaks
+
+# Newegg categories
+https://www.newegg.com/Keyboards-Mice/Category/ID-236
+https://www.newegg.com/SSD-Solid-State-Disks/SubCategory/ID-636
+
+# Adorama categories
+https://www.adorama.com/l/Photography/Cameras/DSLR-Cameras
+https://www.adorama.com/l/Photography/Tripods-Supports
+
+# Thomann categories
+https://www.thomann.de/gb/microphones.html
+https://www.thomann.de/gb/keyboard_instruments.html
+
+# Wikipedia category-like
+https://en.wikipedia.org/wiki/Category:Programming_languages

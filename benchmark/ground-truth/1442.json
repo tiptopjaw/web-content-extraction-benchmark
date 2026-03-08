@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://developer.android.com/get-started/overview",
+  "file_id": "1442",
+  "ground_truth": {
+    "title": "Build your first app | Get started | Android Developers",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Get started building your Android apps. This guide provides a comprehensive introduction to Android development for beginners. It covers everything you need to know to create your first Android application, from setting up your development environment to writing and running your first app. The guide includes prerequisites such as system requirements, Java Development Kit (JDK) installation, and Android Studio setup. You will learn how to create a new Android project using Android Studio, select your project type, and configure the basic project structure. The tutorial walks you through understanding the project layout, including the manifest file, source directories, and resource folders. You will write Kotlin or Java code to implement the core functionality of your app and use Android Studio's tools to build and test your application. The guide also covers best practices for Android development, including the recommended architecture patterns and modern development approaches like Jetpack Compose for building user interfaces.",
+    "with": [
+      "Get started building your Android apps."
+    ],
+    "without": [
+      "Subscribe to newsletter",
+      "Copyright 2025",
+      "Privacy Policy",
+      "Cookie notice",
+      "Sign in"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

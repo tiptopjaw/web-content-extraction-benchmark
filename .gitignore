@@ -52,3 +52,24 @@ _bmad-output/
 # Backup directories
 data/ground_truth_backup/
 benchmark-results/rust-old/
+
+# Raw HTML files (too large for git - use release/ gzipped versions)
+benchmark/html/
+benchmark/html-sanitized/
+
+# Temp scripts
+_extract_temp.py
+cleanup_*.py
+extract_*.py
+fix_*.py
+final_check.py
+refined_final_check.py
+evaluate.py
+pool_candidates.json
+quality_scan_results.json
+
+# Annotation tool data
+annotation_tool/verified/
+
+# Benchmark package (large)
+benchmark-package/

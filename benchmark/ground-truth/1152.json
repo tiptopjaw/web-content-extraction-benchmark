@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://training.linuxfoundation.org/training/beginners-guide-open-source-software-development/",
+  "file_id": "1152",
+  "ground_truth": {
+    "title": "A Beginner's Guide to Open Source Software Development (LFD102) - Linux Foundation - Education",
+    "author": "",
+    "publish_date": null,
+    "main_content": "A Beginner's Guide to Open Source Software Development (LFD102) - This free course introduces developers to the key concepts in developing open source software. It covers the who (successful projects and communities), what (definition), why (benefits), where (Git) and how (licensing, compliance, collaboration tips, managing diversity and continuous development & integration). Who Is It For: This course is addressed to software developers seeking to understand the 'rules of the road' of creating open source software, either as a newbie or as someone with experience primarily in creating proprietary code. What You'll Learn: This course will teach you the key concepts involved in developing open source software (OSS), the benefits of using OSS as compared with using proprietary products, which open source projects form the foundations of today's worldwide technology infrastructure, how to behave properly while engaging in OSS projects, OSS licensing issues, how to make use of projects such as FOSSology and SPDX to foster compliance, best practices for long term sustainability of projects, including how to respect and encourage diversity, and the importance of GitHub and other hosting providers and advanced interfaces, such as Gerrit. What It Prepares You For: The course will prepare you to leverage open source software in development activities in a sustainable, compliant manner. Course Outline: Chapter 1. Course Introduction, Chapter 2. Open Source Software (OSS), Chapter 3. Why Use Open Source Software?, Chapter 4. Examples of Successful OSS Projects, Chapter 5. Developing an OSS Strategy, Chapter 6. The ToDo Group, Chapter 7. The OpenChain Project, Chapter 8. How to Work in OSS Projects, Chapter 9. Continuous Integration, Chapter 10. OSS Licensing and Legal Issues, Chapter 11. Compliance Projects: Fossology, SPDX, CHAOSS, Chapter 12. Leadership vs Control and Why Projects Fail, Chapter 13. Respecting and Encouraging Diversity in OSS, Chapter 14. GitHub and Other Hosting Providers, Chapter 15. Advanced Git Interfaces: Gerrit. Lab Info: Lab exercises in this course are designed to work either on native hardware, or using a virtual machine (VM), under a hypervisor, such as those in the KVM, VMWare, or Virtual Box families. Detailed instructions to set up your lab environment are provided in the course. Course Rating: 4.4/5 Stars. Experience Level: Beginner. Includes: Online Self Paced, 7-10 Hours of Course Material, 12 Months of Access to Online Course, Digital Badge, Discussion Forums.",
+    "with": [
+      "A Beginner's Guide to Open Source Software Development (LFD102) - This free course introduces developers to the key concepts in developing open source software."
+    ],
+    "without": [
+      "Catalog, Resources, Corporate Solutions, Explore",
+      "Login Using My Portal Before Enrolling",
+      "© 2025 Linux Foundation - Education",
+      "Stay Up to Date newsletter signup form",
+      "Get early access to the latest Linux Foundation Training news"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

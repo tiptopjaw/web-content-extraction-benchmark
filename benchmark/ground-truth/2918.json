@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.espn.com/nba/standings",
+  "file_id": "2918",
+  "ground_truth": {
+    "title": "NBA Standings 2025-26",
+    "author": "",
+    "publish_date": null,
+    "main_content": "League Conference Division\n\n2025-26 2024-25 2023-24 2022-23 2021-22 2020-21 2019-20 2018-19 2017-18 2016-17 2015-16 2014-15 2013-14 2012-13 2011-12 2010-11 2009-10 2008-09 2007-08 2006-07 2005-06 2004-05 2003-04 2002-03 hidden\n\nRegular Season Preseason hidden\n\nOklahoma City Thunder\n\nMinnesota Timberwolves\n\nGolden State Warriors\n\nPortland Trail Blazers\n\nNew Orleans Pelicans\n\nStandings are updated with the completion of each game.\n\nTeams seeded 7-10 in each conference will compete in a play-in tournament at the end of the regular season.\n\nGlossary\n\n- W : Wins\n- L : Losses\n- PCT : Winning Percentage\n- GB : Games Back\n- HOME : Home Record\n- AWAY : Away Record\n- DIV : Division Record\n- CONF : Conference Record\n- PPG : Points Per Game\n- OPP PPG : Opponent Points Per Game\n- DIFF : Average Point Differential\n- STRK : Current Streak\n- L10 : Record last 10 games\n- Terms of Use\n- Privacy Policy\n- Interest-Based Ads\n- EU Privacy Rights\n- Cookie Policy\n- Manage Privacy Preferences\n\n© ESPN Enterprises, Inc. All rights reserved.",
+    "with": [
+      "League Conference Division",
+      "Regular Season Preseason hidden",
+      "Minnesota Timberwolves",
+      "Portland Trail Blazers",
+      "Teams seeded 7-10 in each conference will compete in a play-in tournament at the end of the regular season."
+    ],
+    "without": [
+      "SoccerSoccer",
+      "More SportsMore Sports",
+      "More Sports",
+      "FantasyFantasy",
+      "Where to Watch"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

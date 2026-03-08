@@ -1,0 +1,41 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.skills.google/paths/17",
+  "file_id": "0077",
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "learning",
+        "course-path",
+        "google-cloud",
+        "machine-learning"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Machine Learning Engineer | Google Skills",
+    "author": null,
+    "publish_date": null,
+    "main_content": "A Machine Learning Engineer designs, builds, productionizes, optimizes, operates, and maintains ML systems. This learning path guides you through a curated collection of on-demand courses, labs, and skill badges that provide you with real-world, hands-on experience using Google Cloud technologies essential to the ML Engineer role. Once you complete the path, check out the Google Cloud Machine Learning Engineer certification to take the next steps in your professional journey.\n\n- Professional Machine Learning Engineer Study Guide\n- A Tour of Google Cloud Hands-on Labs\n- Introduction to AI and Machine Learning on Google Cloud\n- Prepare Data for ML APIs on Google Cloud\n- Working with Notebooks in Vertex AI\n- Create ML Models with BigQuery ML\n- Engineer Data for Predictive Modeling with BigQuery ML\n- Feature Engineering\n- Build, Train and Deploy ML Models with Keras on Google Cloud\n- Production Machine Learning Systems\n- Machine Learning Operations (MLOps): Getting Started\n- Machine Learning Operations (MLOps) with Vertex AI: Manage Features\n- Introduction to Generative AI\n- Introduction to Large Language Models\n- Machine Learning Operations (MLOps)  for Generative AI\n- Machine Learning Operations (MLOps) with Vertex AI: Model Evaluation\n- Create Generative AI Apps on Google Cloud\n- Responsible AI for Developers: Fairness & Bias\n- Responsible AI for Developers: Interpretability & Transparency\n- Responsible AI for Developers: Privacy & Safety",
+    "with": [
+      "A Machine Learning Engineer designs, builds, productionizes, optimizes, operates, and maintains ML systems.",
+      "This learning path guides you through a curated collection of on-demand courses, labs, and skill badges that provide you with real-world, hands-on experience using Google Cloud technologies essential to the ML Engineer role.",
+      "Once you complete the path, check out the Google Cloud Machine Learning Engineer certification to take the next steps in your professional journey.",
+      "Professional Machine Learning Engineer Study Guide",
+      "Responsible AI for Developers: Privacy & Safety"
+    ],
+    "without": [
+      "Sign in or Join",
+      "Catalog",
+      "Manage cookies",
+      "Achievements",
+      "Terms"
+    ]
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T13:20:40.801228"
+}

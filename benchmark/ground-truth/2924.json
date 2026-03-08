@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.wayfair.com/lighting/sb0/table-lamps-c215054.html",
+  "file_id": "2924",
+  "ground_truth": {
+    "title": "Wayfair.com - Online Home Store for Furniture, Decor, Outdoors & More",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Fast & Free Shipping Over $35*\n\nOpen Account Dropdown\n\nUP TO 60% OFF | 72-HR CLEAROUT\n\nup to 60% OFF: 72-Hour Clearout\n\nVerified items for you\n\nthe best storage furniture\n\nthe best beds\n\nSale Furniture Outdoor Bedding & Bath Decor & Pillows Rugs Lighting Home Improvement Appliances Kitchen Baby & Kids Organization Custom Cabinetry Pet\n- Sale\n- Furniture\n- Outdoor\n- Bedding & Bath\n- Decor & Pillows\n- Rugs\n- Lighting\n- Home Improvement\n- Appliances\n- Kitchen\n- Baby & Kids\n- Organization\n- Custom Cabinetry\n- Pet",
+    "with": [
+      "Fast & Free Shipping Over $35*",
+      "Open Account Dropdown",
+      "UP TO 60% OFF | 72-HR CLEAROUT",
+      "up to 60% OFF: 72-Hour Clearout",
+      "Verified items for you"
+    ],
+    "without": [
+      "Joss & Main",
+      "Professional",
+      "VerifiedOpen Verified Menu Dropdown",
+      "Open Verified Menu Dropdown",
+      "New Arrivals"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

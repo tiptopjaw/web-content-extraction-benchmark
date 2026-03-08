@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.apple.com/apple-watch-ultra-2/",
+  "file_id": "3064",
+  "ground_truth": {
+    "title": "Apple Watch",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Get 3 months of Apple Fitness+ when you buy any Apple Watch. 1 Shop Apple Watch\n\nGet 3 months of Apple Fitness+ when you buy any Apple Watch. 1\n\nApple Watch\n\nExplore the lineup.\n\n- Apple Watch Series 11 Space Gray Silver Rose Gold Jet Black Natural Gold Slate The ultimate way to watch your health. From $399  or $33.25/mo. for 12 mo. * Learn more Buy\n\nApple Watch Series 11\n\n- Space Gray\n- Silver\n- Rose Gold\n- Jet Black\n- Natural\n- Gold\n- Slate\n\nThe ultimate way to watch your health.\n\nFrom $399  or $33.25/mo. for 12 mo. *\n- Apple Watch SE 3 Midnight Starlight Essential health features at a great value. From $249  or $20.75/mo. for 12 mo. * Learn more Buy\n\nApple Watch SE 3\n\n- Midnight\n- Starlight\n\nEssential health features at a great value.\n\nFrom $249  or $20.75/mo. for 12 mo. *\n- Apple Watch Ultra 3 Natural Black The ultimate sports and adventure watch. From $799  or $66.58/mo. for 12 mo. * Learn more Buy\n\nApple Watch Ultra 3\n\n- Black\n\nThe ultimate sports and adventure watch.\n\nFrom $799  or $66.58/mo. for 12 mo. *\n\nWhy Apple is the best place to buy Apple Watch.\n\n- Shop Apple Watch\n- Financing Pay over time, interest‑free. When you choose to check out at Apple with Apple Card Monthly Installments. ◊ Learn more about Apple Card Monthly Installments\n\nFinancing\n\nPay over time, interest‑free.\n\nWhen you choose to check out at Apple with Apple Card Monthly Installments. ◊\n\nLearn more about Apple Card Monthly Installments\n- Apple Trade In Save on a new Apple Watch with a trade‑in. Get up to $150 in credit toward your next  Apple Watch when you trade in an eligible device. 2 Learn more, about Apple Trade In\n\nApple Trade In\n\nSave on a new Apple Watch with a trade‑in.\n\nGet up to $150 in credit toward your next  Apple Watch when you trade in an eligible device. 2\n\nLearn more, about Apple Trade In\n- Delivery and Pickup Get your order quickly and easily. Choose two‑hour delivery from an Apple Store, free delivery, or easy pickup options. Learn more about delivery and pickup options.\n\nDelivery and Pickup\n\nGet your order quickly and easily.\n\nChoose two‑hour delivery from an Apple Store, free delivery, or easy pickup options.\n\nLearn more about delivery and pickup options.\n- Personal Setup Make the most of your Apple Watch with an online session. Talk one on one with a Specialist to set up your device and discover new features. Learn more about your Personal Setup\n\nPersonal Setup\n\nMake the most of your Apple Watch with an online session.\n\nTalk one on one with a Specialist to set up your device and discover new features.\n\nLearn more about your Personal Setup\n- Guided Video Shopping Shop live with a Specialist. Let us help you find what you need and answer all of your questions, one on one over video. Learn more, shopping with a live assistant\n\nGuided Video Shopping\n\nShop live with a Specialist.\n\nLet us help you find what you need and answer all of your questions, one on one over video.\n\nLearn more, shopping with a live assistant\n- Apple Store App Explore a shopping experience designed around you. Use the app to get a more personal way to shop. Learn more, Apple Store App\n\nApple Store App\n\nExplore a shopping experience designed around you.\n\nUse the app to get a more personal way to shop.\n\nLearn more, Apple Store App\n\nGet to know Apple Watch.\n\n- Health Knows you. Insights and out.\n\nHealth\n\nKnows you. Insights and out.\n- Fitness Miles of motivation.\n\nFitness\n\nMiles of motivation.\n- Safety Keep help close at hand.\n\nSafety\n\nKeep help close at hand.\n- Apple Watch Ultra 3 The ultimate sports and adventure watch.\n\nApple Watch Ultra 3\n\n- Connectivity The right call for staying in touch.\n\nConnectivity\n\nThe right call for staying in touch.\n- Personalization Make it you-nique.\n\nPersonalization\n\nMake it you-nique.\n- Apple Watch For Your Kids Independence for them. Peace of mind for you.\n\nApple Watch For Your Kids\n\nIndependence for them. Peace of mind for you.\n- Apple Watch + iPhone Dynamic duo.\n\nApple Watch + iPhone\n\nDynamic duo.\n\nApple Watch essentials.\n\n- All Apple Watch accessories\n\nColor the moment.\n\nExplore the latest bands in fresh shades, styles, and materials.\n\nShop Apple Watch bands\n\nMade for each other.\n\n- Apple Watch and iPhone Combining Apple Watch and iPhone opens up a world of features that make each device better. You can do things like create a custom route with Maps on your iPhone, then download it to your watch to use anytime. Or start a cycling workout on your watch and see your metrics automatically appear as a Live Activity on your iPhone.\n\nApple Watch and iPhone\n\nCombining Apple Watch and iPhone opens up a world of features that make each device better. You can do things like create a custom route with Maps on your iPhone, then download it to your watch to use anytime. Or start a cycling workout on your watch and see your metrics automatically appear as a Live Activity on your iPhone.\n- Apple Watch and AirPods You can do so much with just Apple Watch and AirPods — all without your iPhone. Take calls, stream music and podcasts, hear incoming notifications. Even respond to messages with Siri.\n\nApple Watch and AirPods\n\nYou can do so much with just Apple Watch and AirPods — all without your iPhone. Take calls, stream music and podcasts, hear incoming notifications. Even respond to messages with Siri.\n- Apple Watch and Apple Fitness+ Apple Watch supercharges your Fitness+ experience with real‑time, personalized metrics onscreen, like your heart rate, calories burned, and Activity rings. 23 And you get the freedom of audio‑guided walks, runs, and meditations with just your watch and AirPods.\n\nApple Watch and Apple Fitness+\n\nApple Watch supercharges your Fitness+ experience with real‑time, personalized metrics onscreen, like your heart rate, calories burned, and Activity rings. 23 And you get the freedom of audio‑guided walks, runs, and meditations with just your watch and AirPods.",
+    "with": [
+      "Get 3 months of Apple Fitness+ when you buy any Apple Watch.",
+      "The ultimate sports and adventure watch.",
+      "Learn more, about Apple Trade In\n- Delivery and Pickup Get your order quickly and easily.",
+      "Learn more, shopping with a live assistant\n- Apple Store App Explore a shopping experience designed around you.",
+      "The right call for staying in touch."
+    ],
+    "without": [
+      "Shop the Latest",
+      "Apple Watch",
+      "Apple Vision Pro",
+      "Find a Store"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

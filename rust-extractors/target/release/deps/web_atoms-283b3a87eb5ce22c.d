@@ -1,0 +1,11 @@
+/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/rust-extractors/target/release/deps/libweb_atoms-283b3a87eb5ce22c.rmeta: /home/slimbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/web_atoms-0.1.3/lib.rs /home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/rust-extractors/target/release/build/web_atoms-aac65577df7e5700/out/named_entities.rs /home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/rust-extractors/target/release/build/web_atoms-aac65577df7e5700/out/generated.rs
+
+/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/rust-extractors/target/release/deps/libweb_atoms-283b3a87eb5ce22c.rlib: /home/slimbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/web_atoms-0.1.3/lib.rs /home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/rust-extractors/target/release/build/web_atoms-aac65577df7e5700/out/named_entities.rs /home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/rust-extractors/target/release/build/web_atoms-aac65577df7e5700/out/generated.rs
+
+/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/rust-extractors/target/release/deps/web_atoms-283b3a87eb5ce22c.d: /home/slimbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/web_atoms-0.1.3/lib.rs /home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/rust-extractors/target/release/build/web_atoms-aac65577df7e5700/out/named_entities.rs /home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/rust-extractors/target/release/build/web_atoms-aac65577df7e5700/out/generated.rs
+
+/home/slimbook/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/web_atoms-0.1.3/lib.rs:
+/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/rust-extractors/target/release/build/web_atoms-aac65577df7e5700/out/named_entities.rs:
+/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/rust-extractors/target/release/build/web_atoms-aac65577df7e5700/out/generated.rs:
+
+# env-dep:OUT_DIR=/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/rust-extractors/target/release/build/web_atoms-aac65577df7e5700/out

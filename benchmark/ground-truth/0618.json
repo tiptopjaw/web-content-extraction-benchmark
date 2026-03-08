@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.bestbuy.com/site/microsoft-surface-laptop-copilot-pc-13-8-touchscreen-snapdragon-x-plus-2024-16gb-memory-512gb-storage-7th-ed-dune/6582841.p",
+  "file_id": "0618",
+  "ground_truth": {
+    "title": "Microsoft - Surface Laptop - Copilot+ PC - 13.8\" Touchscreen - Snapdragon X Plus 2024 - 16GB Memory - 512GB Storage (7th Ed) - Dune",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Skip to content\n\nGo to Product Search\n\nGo to Footer\n\n$(csi.user.businessName)\n\nMain Content\n\nReviews\n\nSimilar products from outside of Best Buy\n\nsponsored\n\nHighlights\n\nWindows AI\n\nCopilot+ PC\n\nProcessor Model\n\nSnapdragon X Plus\n\nGraphics\n\nQualcomm Adreno\n\nSystem Memory (RAM)\n\n16 gigabytes\n\nScreen Size\n\n13.8 inches\n\nTotal Storage Capacity\n\n512 gigabytes\n\nScreen Resolution\n\n2304 x 1536\n\nRating 4.8 out of 5 stars with 333 reviews\n\n(333 reviews)\n\nFrom the Manufacturer\n\nMicrosoft\n\nMicrosoft - Surface Laptop - Copilot+ PC - 13.8\" Touchscreen - Snapdragon X Plus 2024 - 16GB Memory - 512GB Storage (7th Ed) - Dune\n\nModel: ZGM-00026\n\nSKU: 10124570",
+    "with": [
+      "Similar products from outside of Best Buy",
+      "Rating 4.8 out of 5 stars with 333 reviews",
+      "Microsoft - Surface Laptop - Copilot+ PC - 13.8\" Touchscreen - Snapdragon X Plus 2024 - 16GB Memory - 512GB Storage (7th Ed) - Dune"
+    ],
+    "without": [
+      "Best Buy Outlet",
+      "Best Buy Business",
+      "Deal of the Day",
+      "My Best Buy Memberships",
+      "Credit Cards"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://forum.lingq.com/t/best-daily-news-website-for-beginner/37628",
+  "file_id": "1126",
+  "ground_truth": {
+    "title": "Best daily news website for beginner?",
+    "author": "LingoLover94",
+    "publish_date": "2023-04-05",
+    "main_content": "- Discussion about finding easy English news sources for language learners. Suggestions include: BBC News (British English, no sensational language), BBC Learning English (dedicated to English learners), News in Levels (three different levels of English), Breaking News English (easy English news with printable handouts), TODAI English (Easy English News from Vietnam), USA Today (written at a lower level), MSN News, AP News, Reuters, Fox News, NY Post, and EuroNews. Users also suggest using ChatGPT to simplify news articles from regular news sites for beginners. The original poster specifically wanted to read all important news in English but found most sites only offer 4 articles per day and prefers reading over watching videos.",
+    "with": [
+      "- Discussion about finding easy English news sources for language learners."
+    ],
+    "without": [
+      "Discourse 3.5.1 - https://github.com/discourse/discourse",
+      "LingQ Language Forums",
+      "Open Forum",
+      "Privacy Policy",
+      "Reading time: 1 mins"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

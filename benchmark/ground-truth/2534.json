@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.theobjectivedad.com/pub/20230410-homelab-4/index.html",
+  "file_id": "2534",
+  "ground_truth": {
+    "title": "How I Built Robust Local DNS Services for My Homelab Cluster",
+    "author": "",
+    "publish_date": "2023-04-10",
+    "main_content": "In this fourth article of the #Kubernetes #homelab series, we delve into the process of setting up a local DNS for both my home network and homelab cluster using a combination of Pi-Hole, Unbound, DuckDNS, CoreDNS, and Cloudflare. I will share how I implemented several important DNS-related capabilities including: Enablement of an internal domain used for cluster ingress and load balancing, Accessibility of home network services via the Cloudflare VPN WARP client, Enable of Dynamic DNS via DuckDNS, Enable of DNS-based ad-blocking improving home network privacy and security, Enable of DNS-caching improving home network performance, Enable of an easy-to-use web-based UI for DNS management.\n\nArchitecturally, my local DNS setup is centered around Pi-Hole. Pi-Hole will receive DNS queries from Kubernetes-managed containers, internal clients, and VPN clients via Cloudflare. Then, if the DNS query is in a domain that is locally managed by Pi-Hole it will respond with the corresponding IP address. For domains not managed by Pi-Hole it will forward the request to Unbound, which will perform recursive name resolution and cache the response. As mentioned in the introduction, I also have a use case where external clients need to resolve a DNS name to the current external IP address of my home Internet, which I accomplish via DuckDNS, a free dynamic DNS provider. The entire local DNS system is deployed on a humble RaspberryPi 2, which is more than adequate.\n\nDNS clients include Internal Clients (personal computers, phones, Nest thermostats, doorbell), External Clients (resolving names attached to my public IP via DuckDNS), and Pod Clients (containers running inside Kubernetes using CoreDNS). DNS services include Pi-Hole as the central component, CoreDNS for cluster resources, DuckDNS for dynamic IP, and Public Authoritative Nameservers. Supporting components include the Router for DHCP DNS assignment, Unbound as the recursive DNS resolver, DuckDNS Cron for IP updates, and Cloudflare for VPN access.\n\nWhen browsing the Pi-Hole website you will see that it is primarily advertised as an ad-blocking tool. Pi-Hole is actually a DNS server that blocks ads by maintaining a list of domains that it will refuse to resolve. On an average day, the device responds to around 1 million queries per day with plenty of room to grow.\n\nUnbound is an optional recursive DNS server that receives forwarded requests from Pi-Hole. The main advantage of using Unbound to resolve DNS names using root nameservers and authoritative nameservers is that I am no longer reliant on my Internet provider's DNS. Not only does this allow me to better control caching and reduce traffic over my home Internet, it also offers better privacy.\n\nSetting up Pi-Hole to block advertisements usually involves configuring the router to send the Pi-Hole DNS server address back to DHCP clients when they join the network. Every client on my home network will leverage the local Pi-Hole DNS device for name resolution.\n\nFor the Kubernetes cluster, CoreDNS is used for in-cluster name resolution. By configuring CoreDNS to leverage the Pi-Hole device, I am able to refer to all homelab cluster nodes by name as well as take advantage of name-based routing of HTTP traffic through the cluster ingress controller.\n\nI decided on 'kube' as my local homelab domain name. The homelab cluster ingress controller has a load balancer service configured to use the 10.0.1.40 IP address. Since the vast majority of services use name-based routing, this is an efficient way to expose cluster services to the rest of my internal home network. From a DNS standpoint, all services are configured as CNAME records pointing to the 'kube' A record.\n\nDuckDNS is a free dynamic DNS service that maintains a DNS name with the current public IP address assigned by my ISP. This is accomplished periodically by running a cron job that sends my current public IP over to DuckDNS.\n\nFor Cloudflare WARP clients, you can add private local domains and a list of DNS servers that the WARP client can use to resolve. At this point, WARP clients should be able to resolve private/local names from the Pi-Hole DNS service.\n\nThis article was a fairly comprehensive view of local DNS from a configuration standpoint however I haven't yet touched on the ever-important operational components including: Automated backups, Restore procedure, Disk space management and purging, Log management, Automated Pi-Hole device updates including OS, FTL, and Pi-Hole software, Plans for another Pi-Hole device to increase reliability.",
+    "with": [
+      "Architecturally, my local DNS setup is centered around Pi-Hole.",
+      "Pi-Hole will receive DNS queries from Kubernetes-managed containers, internal clients, and VPN clients via Cloudflare.",
+      "The main advantage of using Unbound to resolve DNS names using root nameservers and authoritative nameservers is that I am no longer reliant on my Internet provider's DNS.",
+      "DuckDNS is a free dynamic DNS service that maintains a DNS name with the current public IP address assigned by my ISP."
+    ],
+    "without": [
+      "The Objective Dad",
+      "Copyright © 2025, The Objective Dad",
+      "Join Discord",
+      "Privacy Policy",
+      "Terms of Use"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

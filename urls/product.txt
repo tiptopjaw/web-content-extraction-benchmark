@@ -1,0 +1,83 @@
+# Product pages - 41 needed
+# Mix of e-commerce sites with substantial product descriptions
+# Avoid JS-rendered SPAs (Shopify storefronts, etc.)
+
+# Amazon
+https://www.amazon.com/dp/B0D1XD1ZV3
+https://www.amazon.com/dp/B0BSHF7WHW
+https://www.amazon.com/dp/B09V3KXJPB
+https://www.amazon.com/dp/B0CHX3PNKZ
+https://www.amazon.com/dp/B0CX23V2ZK
+https://www.amazon.com/dp/B0D77BQR23
+https://www.amazon.com/dp/B0DJHZ8V8R
+https://www.amazon.com/dp/B0C8Z5Z7M3
+
+# eBay
+https://www.ebay.com/itm/296277645621
+https://www.ebay.com/itm/335330783890
+https://www.ebay.com/itm/276542173492
+
+# Best Buy
+https://www.bestbuy.com/site/sony-wh-1000xm5-wireless-noise-canceling-over-the-ear-headphones-black/6505727.p
+https://www.bestbuy.com/site/apple-macbook-air-15-inch-laptop-m3-chip-8gb-memory-256gb-ssd/6565837.p
+https://www.bestbuy.com/site/samsung-65-class-s90d-series-oled-4k-smart-thinq-ai-tv-2024/6576592.p
+
+# Walmart
+https://www.walmart.com/ip/SAMSUNG-65-Class-4K-Crystal-UHD-2160P-LED-Smart-TV-with-HDR-UN65DU7200/5029860513
+https://www.walmart.com/ip/Dyson-V15-Detect-Cordless-Vacuum-Cleaner/1592449591
+
+# REI
+https://www.rei.com/product/171689/patagonia-nano-puff-jacket-mens
+https://www.rei.com/product/177845/osprey-atmos-ag-65-pack-mens
+https://www.rei.com/product/197539/hydroflask-wide-mouth-bottle-32-fl-oz
+
+# B&H Photo
+https://www.bhphotovideo.com/c/product/1773414-REG/sony_ilce7rm5_b_a7r_v_mirrorless_camera.html
+https://www.bhphotovideo.com/c/product/1752725-REG/apple_mrxl3ll_a_14_macbook_pro_m3.html
+
+# Newegg
+https://www.newegg.com/corsair-32gb-288-pin-ddr5-sdram/p/N82E16820236956
+https://www.newegg.com/asus-geforce-rtx-4070-super/p/N82E16814126712
+
+# Target
+https://www.target.com/p/kitchenaid-artisan-series-5-quart-tilt-head-stand-mixer-ksm150ps/-/A-50539730
+https://www.target.com/p/apple-ipad-10-9-inch-10th-generation-wi-fi-64gb/-/A-88250593
+
+# Home Depot
+https://www.homedepot.com/p/Milwaukee-M18-FUEL-18V-Lithium-Ion-Brushless-Cordless-Hammer-Drill-and-Impact-Driver-Combo-Kit-2-Tool-with-2-Batteries/324688507
+https://www.homedepot.com/p/DEWALT-20V-MAX-Cordless-Drill-Impact-Driver-Power-Tool-Combo-Kit-with-2-Batteries-Charger-DCK240C2/203504919
+
+# Wirecutter / product reviews (article-style but product focused)
+https://www.nytimes.com/wirecutter/reviews/best-wireless-earbuds/
+
+# Adorama
+https://www.adorama.com/isom7iv.html
+
+# iFixit
+https://www.ifixit.com/products/mako-driver-kit-64-precision-bits
+https://www.ifixit.com/products/pro-tech-toolkit
+
+# Crutchfield
+https://www.crutchfield.com/p_158HW900A/Sony-Bravia-9-XR90-65-4K-HDR-TV.html
+
+# Sweetwater
+https://www.sweetwater.com/store/detail/Scarlett4i4G4--focusrite-scarlett-4i4-4th-gen-usb-audio-interface
+https://www.sweetwater.com/store/detail/SM7dB--shure-sm7db-dynamic-microphone-with-built-in-preamp
+
+# Thomann
+https://www.thomann.de/gb/fender_player_strat_mn_3ts.htm
+
+# Mouser Electronics
+https://www.mouser.com/ProductDetail/Raspberry-Pi/SC1111?qs=HoCaDK9Nz5flOIGhzunWNA%3D%3D
+
+# Mechanical Keyboards
+https://www.keychron.com/products/keychron-q1-he-qmk-wireless-custom-mechanical-keyboard
+
+# Camping/outdoor
+https://www.backcountry.com/black-diamond-spot-400-headlamp
+
+# Audio
+https://www.headphones.com/products/sennheiser-hd-600
+
+# PC parts
+https://pcpartpicker.com/product/FLRzK8/amd-ryzen-7-7800x3d-42-ghz-8-core-processor-100-100000910wof

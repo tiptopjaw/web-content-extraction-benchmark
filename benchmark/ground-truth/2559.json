@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://bytesauna.com/post/proofs-as-types",
+  "file_id": "2559",
+  "ground_truth": {
+    "title": "Understanding mathematics through Lean | ByteSauna",
+    "author": "Matias Heikkilä",
+    "publish_date": "2025-12-15",
+    "main_content": "When I started at the university, I was supposed to study physics. However, what I soon realized was that I felt a special affinity for pure math. It's not that easy to explain. All I know is that there is something special about definitions and proofs. The way they build on each other and cut through seemingly impossible terrain is a miracle that is not really easy to explain. Rather, it has to be seen firsthand.\n\nAfter a lot of hard work, I became somewhat fluent in them. You could say I got used to them. I could even perform tasks that go beyond mere mechanical repetition of previously read material. I could understand why an argument works, and I could understand why it fails. Still, — echoing von Neumann — even though I had gotten used to mathematical proofs, I felt I didn't quite get them somehow.\n\nThen I learned Lean.\n\nIf the first turning point of my mathematical education was to become fluent in proofs, the second one was actually understanding them through Lean. In this post I'll do what can be done in a very limited space to share this insight.\n\nViewed from afar, proofs are simple: You introduce assumptions, then you explain why these assumptions produce a conclusion.\n\nHere’s a well-known syllogism: All men are mortal. Socrates is a man. Therefore, Socrates is mortal.\n\nIt's evident that the combination of 1 and 2 implies 3. A proof boils down to noticing that, given that Socrates is a man, assumption 1 means, in particular, that he is also mortal, and this is exactly what is claimed in 3.\n\nThis simple example encompasses essentially what deductive reasoning is. The thing is that, while \"real\" mathematics is exactly like this on some level — it's always a game of assumptions yielding conclusions — it gets more difficult. As things become more abstract and subtle, a need for heavier machinery emerges.\n\nNow that we have expressed our syllogism in a symbolic form, we may ask what this statement really is. How Lean tackles this is a Curry-Howard-flavoured approach. Specifically, logical statements are treated as types.\n\nIn Lean, a proof amounts to building a type. If we want to show that the corresponding proposition is a true proposition, we need to show that the corresponding type is non-empty, i.e. it can be built from the assumptions and existing results. This kind of construction is something that a computer can verify, so it's correct with absolute certainty.\n\nWhat I really wanted to highlight in this post is the shift in thinking that occurs under Lean. Theorems and their proofs become something so tractable that even a computer can understand them. They are types and terms. There is no magic. No interpretation. A proof is a mere application of existing terms against each other.\n\nI don't think this is a very natural way for most people to think about mathematics. Still, for me, it made something click. It acts as a kind of a grounding mechanism: When things get highly abstract it helps to keep in mind that, at the end of the day, they are something that even a computer incapable of any creativity or imagination can understand.",
+    "with": [
+      "This simple example encompasses essentially what deductive reasoning is.",
+      "In Lean, a proof amounts to building a type.",
+      "Theorems and their proofs become something so tractable that even a computer can understand them."
+    ],
+    "without": [
+      "Privacy policy",
+      "Cookie settings",
+      "All rights reserved",
+      "Back to all posts",
+      "Let's talk"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.samsclub.com/browse/fitness-equipment/1915",
+  "file_id": "0767",
+  "ground_truth": {
+    "title": "Exercise Equipment & Gym Machines",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Fitness Equipment category page displaying multiple products including Echelon Row-S Indoor Rowing Machine with Rotating HD Touchscreen (Now $449.00, Was $799.00, $350 off), NordicTrack Commercial Series 1750 Treadmill (Members-only price, $500 off), Marcy 150 lb. Stack Home Gym (Now $374.00, Was $449.00, $75 off), Echelon Adjustable Dumbbells 752 Set with Stand ($399.98), Centr 150 lb. Dumbbell Weight Set with Rack ($379.99), Sunny Health & Fitness SMART Easy Assembly Folding Treadmill ($379.99), ProForm Carbon TLX Treadmill ($999.00 with $150 Sam's Cash Offer), Sunny Health & Fitness Premium Smart Treadmill with Auto Incline ($579.99), Marcy Folding Treadmill ($596.98 with $150 Sam's Cash Offer), and Marcy Neoprene Dumbbell Set ($34.98). Products feature star ratings from 3.9 to 4.9 out of 5 stars, with review counts ranging from 6 to 404. Filter options include Product Type, Brand, and Savings. Sort by Relevance available.",
+    "with": [
+      "Fitness Equipment category page displaying multiple products including Echelon Row-S Indoor Rowing Machine with Rotating HD Touchscreen (Now $449.00, Was $799.00, $350 off), NordicTrack Commercial Series 1750 Treadmill (Members-only price, $500 off), Marcy 150 lb."
+    ],
+    "without": [
+      "Skip to Main Content",
+      "Sign In or Join Now",
+      "How do you want your items?",
+      "Prices may vary in club and online",
+      "Related pages"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

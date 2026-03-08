@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.thomann.de/gb/fender_player_strat_mn_3ts.htm",
+  "file_id": "2947",
+  "ground_truth": {
+    "title": "Unknown Item – Thomann UK",
+    "author": "",
+    "publish_date": null,
+    "main_content": "We have looked everywhere but we unfortunately do not know this product.\n\nYou can find alternatives via our product overview or our search engine\n\nProduct Highlights\n\n- Top Sellers\n- Hot Deals\n- New Products\n- Trends\n- Bargains\n\nBehringer X Air XR18\n\nbeyerdynamic DT-770 Pro 80 Ohm\n\nBehringer WING Compact\n\nBoss Katana 50 Gen 3\n\nMillenium MPS-850 E-Drum Set\n\nFocusrite Scarlett 2i2 3rd Gen\n\nNeural DSP Quad Cortex\n\nJackson JS22-7 KV Satin Black\n\nMarcus Miller Z3-4 Antique White\n\nHarley Benton BZ-6000 II NT w/Bag\n\nHollyland Solidcom C1 Pro Remote Headset\n\nStairville FS-x350 LED Follow Spot\n\nVarytec Hero Beam 100\n\nSennheiser EW-DX SKM Q1-9\n\nElectro Harmonix Effects Interface Hardw.PlugIn\n\nApe Labs ApeCoin V2 USB-C\n\nMusic Man JP15 Baritone BFR Cherry CS\n\nMusic Man John Petrucci Majesty 7 DS\n\nSnare Care Pimp your Snare Set\n\nProtection Racket E-Drum Kit Bag 28\"x16\"\n\nAV Stumpfl Monoblox32 447x260 RP 16:9\n\nSE Electronics V7 MC1 Black\n\nLarsen Il Cannone Gold Violin Strings\n\nMarshall Electronics VS-PTC-300\n\nMarshall Electronics\n\nSwisson XMT-500 DMX Tester\n\nVermona Modular MEX3\n\nFender Guitar Display Case TWD\n\nCort Sunset Nylectric DLX\n\nBastl Instruments Neo Trinity\n\nThomann SQB Celtic Harp Beech 29 Str\n\nGravity GS LS 01 NH B Glow Stand\n\nKeys Experts Verlag Genos 2 Praxisbuch 1\n\nJody Jazz DV HR Tenor 7*\n\nUDG Ultimate Backpack Trolley B/O\n\nMG Mallets TC03 Timpani Mallets\n\nHarley Benton Agufish STD Signature  B-Stock\n\nAerodrums Air Percussion Set B-Stock\n\nErica Synths Black DJ VCF\n\nUniversal Audio Apollo Twin X USB Heri B-Stock\n\nAvid Sibelius Artist Perpetual\n\n30-days best price:\n                                £149\n\nStairville BSW-350 LED  B-Stock\n\nAmaran 100x S (EU version)\n\n30-days best price:\n                                £195\n\nSirus Quad R 823 MKII B-Stock\n\nBehringer DCX2496 Ultradrive Pro B-Stock\n\n30-days best price:\n                                £214\n\nOdisei Music Travel Sax 2 Black B-Stock\n\nPirastro KorfkerSpring Chinrest B-Stock\n\n30-days best price:\n                                £444\n\nAirturn Tap Adjustable B-Stock\n\nNeutrik NKO2M-L-0-10 B-Stock\n\nTop Brands\n\nExpert advice\n\nOur customer service staff are here to help you with any queries or problems\n\nBusiness Hours (CET)\n\nThank you for understanding that we can only respond to inquiries within our working hours.\n\nMore ways of contacting us\n\nThomann GmbH Treppendorf Hans-Thomann-Straße 1 D-96138 Burgebrach, Germany\n\nDiscover more\n\nChoosing a Beginner's Instrument\n\nRecording Electric Guitars",
+    "with": [
+      "We have looked everywhere but we unfortunately do not know this product.",
+      "Hollyland Solidcom C1 Pro Remote Headset",
+      "SE Electronics V7 MC1 Black",
+      "UDG Ultimate Backpack Trolley B/O",
+      "Sirus Quad R 823 MKII B-Stock"
+    ],
+    "without": [
+      "3-Year Thomann Warranty",
+      "Free Shipping Over £149",
+      "basketbasketbasket",
+      "Microphones",
+      "Signal Proc."
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+# Listing pages - 7 more needed
+
+# News/blog indexes (worked)
+https://www.npr.org/sections/science/
+https://www.reuters.com/science/
+https://news.ycombinator.com/newest
+https://lobste.rs/
+https://dev.to/
+https://hackernoon.com/
+https://www.infoq.com/

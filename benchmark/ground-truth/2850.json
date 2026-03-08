@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://posthog.com/",
+  "file_id": "2850",
+  "ground_truth": {
+    "title": "PostHog",
+    "author": "",
+    "publish_date": null,
+    "main_content": "data stack, built for data teams and loved by product teams\n\nBuilt-in, Product OS ships with:\n\n- A data warehouse\n- 120+ sources/destinations\n- SQL editor + BI + data viz\n- User activity feed (CDP-lite)\n- API, webhooks\n\nWhen you're analyzing how customers use your product, you should be operating from the full set of data.\n\nThis includes customer information that happens outside your product:\n\n- payments from Stripe\n- exceptions in an error tracking tool\n- tickets in your support platform\n\nHaving all the data in one place means you can make more informed decisions about what to build next.\n\nPostHog's Product OS isn't just analytics – it's the entire suite of tools built to give you a single source of truth about your customers.\n\nUsage-based pricing\n\nOur whole philosophy is that you shouldn't have to worry about pricing.\n\nAll our paid products are pay-per-use with generous monthly free tiers. In fact, 98% of our customers use PostHog for free.\n\nWe aim to be the cheapest option at scale – PostHog should be a no-brainer. You never have to \"jump on a quick call\" with sales.\n\nHere are some examples of how we charge for most popular products:\n\n1. Product Analytics\nFree tier: 1 million events/mo\nPricing: $0.00005/event\n\n2. Session Replay\nFree tier: 5,000 recordings/mo\nPricing: $0.005/recording\n\n3. Feature Flags\nFree tier: 1 million requests/mo\nPricing: $0.0001/request\n\n4. Managed warehouse\nFree tier: 1 million rows/mo\nPricing: $0.000015/row",
+    "with": [
+      "PostHog's Product OS isn't just analytics",
+      "Having all the data in one place means you can make more informed decisions about what to build next",
+      "98% of our customers use PostHog for free",
+      "Usage-based pricing",
+      "120+ sources/destinations"
+    ],
+    "without": [
+      "Get started - free",
+      "README: PostHog data stack.md",
+      "Open customers.mdx"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

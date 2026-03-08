@@ -1,0 +1,7 @@
+# Forum pages - 3 needed
+# Discussion threads with multiple posts
+
+# Stack Exchange
+https://superuser.com/questions/1817790/how-to-prevent-windows-11-from-going-to-sleep
+https://unix.stackexchange.com/questions/780374/why-is-dns-still-using-udp
+https://serverfault.com/questions/1146074/nginx-reverse-proxy-for-multiple-domains

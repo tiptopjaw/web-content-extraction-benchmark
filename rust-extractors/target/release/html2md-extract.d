@@ -1,0 +1,1 @@
+/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/rust-extractors/target/release/html2md-extract: /home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/rust-extractors/fast-html2md-cli/src/main.rs

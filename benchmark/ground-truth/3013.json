@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://news.ycombinator.com/newest",
+  "file_id": "3013",
+  "ground_truth": {
+    "title": "New Links",
+    "author": "",
+    "publish_date": null,
+    "main_content": "( github.com/rfunix )\n\n( cowleyforniastudios.com )\n\ncowleyforniastudios.com\n\n( developerwithacat.com )\n\ndeveloperwithacat.com\n\n( github.com/jay123anta )\n\ngithub.com/jay123anta\n\n( repackai.netlify.app )\n\nrepackai.netlify.app\n\n( thedreamcastjunkyard.co.uk )\n\nthedreamcastjunkyard.co.uk\n\n( indiantinker.bearblog.dev )\n\nindiantinker.bearblog.dev\n\n( floridatoday.com )\n\n( thehardesthardwarelessons.com )\n\nthehardesthardwarelessons.com",
+    "with": [
+      "( github.com/rfunix )",
+      "( developerwithacat.com )",
+      "github.com/jay123anta",
+      "thedreamcastjunkyard.co.uk",
+      "( thehardesthardwarelessons.com )"
+    ],
+    "without": [
+      "Hacker News",
+      "login",
+      "submit",
+      "past",
+      "Search:"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

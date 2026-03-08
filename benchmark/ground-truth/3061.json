@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.apple.com/macbook-air/",
+  "file_id": "3061",
+  "ground_truth": {
+    "title": "MacBook Air",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Design\n\nBuilt to go places.\n\nMacBook Air is remarkably light at just 2.7 pounds, and less than half an inch thin. It’s designed to fit easily into your bag, so you can always take it with you. It’s also made with over 50 percent recycled materials and has a durable recycled aluminum enclosure built to withstand daily use.\n\n13” display\n\n15” display\n\nTwo perfectly portable sizes.\n\nThe 13‑inch MacBook Air is the ultimate on-the-go laptop, and the 15‑inch model gives you even more space onscreen for multitasking. 3\n\nView MacBook Air 13” in AR\n\nView MacBook Air 15” in AR\n\nFour beautiful colors will have you on cloud nine.\n\nAnd every MacBook Air comes with a color‑matched MagSafe charging cable.\n- Sky Blue\n- Silver\n- Starlight\n- Midnight\n- MacBook Air 15” Incredibly thin and light, MacBook Air fits easily in your backpack.\n\nIncredibly thin and light, MacBook Air fits easily in your backpack.\n- MacBook Air 13” With up to 18 hours of battery life, 1 MacBook Air is built for the long haul.\n\nWith up to 18 hours of battery life, 1 MacBook Air is built for the long haul.\n- MacBook Air 13” The impressive display makes TV, movies, and games look truly striking wherever you go.\n\nThe impressive display makes TV, movies, and games look truly striking wherever you go.",
+    "with": [
+      "MacBook Air is remarkably light at just 2.7 pounds, and less than half an inch thin.",
+      "The 13‑inch MacBook Air is the ultimate on-the-go laptop, and the 15‑inch model gives you even more space onscreen for multitasking.",
+      "View MacBook Air 15” in AR",
+      "And every MacBook Air comes with a color‑matched MagSafe charging cable.",
+      "With up to 18 hours of battery life, 1 MacBook Air is built for the long haul."
+    ],
+    "without": [
+      "Shop the Latest",
+      "Apple Watch",
+      "Apple Vision Pro",
+      "Accessories",
+      "Find a Store"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

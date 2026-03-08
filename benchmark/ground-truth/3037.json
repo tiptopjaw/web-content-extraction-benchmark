@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://docs.cloud.google.com/docs/get-started/aws-azure-gcp-service-comparison",
+  "file_id": "3037",
+  "ground_truth": {
+    "title": "Compare AWS and Azure services to Google Cloud",
+    "author": null,
+    "publish_date": null,
+    "main_content": "This table lists generally available Google Cloud services and maps them to similar or comparable offerings in Amazon Web Services (AWS) and Microsoft Azure. You can filter the table with keywords, such as a service type, capability, or product name.\n\nThe comparison covers multiple service categories:\n\nServerless and Container Services: Cloud Build provides build, test, and deploy capabilities comparable to AWS CodeBuild and Azure DevOps. Google Kubernetes Engine (GKE) offers secured and managed Kubernetes service comparable to Amazon EKS and Azure AKS. Cloud Deploy enables continuous delivery to GKE and Cloud Run, similar to AWS CodePipeline.\n\nAI and Machine Learning: Vertex AI provides a comprehensive ML platform for training predictive and generative AI models at scale, comparable to Amazon SageMaker and Azure AI Platform. Vision AI enables image analysis and emotion detection, similar to Amazon Rekognition and Azure Computer Vision. Dialogflow offers conversational AI with virtual agents comparable to Amazon Lex and Azure Conversational AI.\n\nData Analytics: BigQuery is a serverless, highly scalable data warehouse comparable to Amazon Redshift and Azure Synapse Analytics. Pub/Sub provides scalable messaging for publishing and subscribing, similar to Amazon Kinesis and Azure Service Bus. Dataflow unifies stream and batch data processing serverlessly, comparable to AWS Kinesis with Managed Service for Apache Flink and Azure Stream Analytics.\n\nCompute: Compute Engine provides high-performance VMs comparable to Amazon EC2 and Azure Virtual Machines. Cloud GPUs enable accelerated ML model training, similar to AWS EC2 P-series VMs and Azure ND VMs. Cloud TPU offers specialized hardware for ML training and inference.\n\nDatabases: Cloud SQL manages relational data for MySQL, PostgreSQL, and SQL Server, comparable to Amazon RDS and Azure SQL Database. Firestore offers serverless document database capabilities similar to Amazon DocumentDB and Azure Cosmos DB. Spanner provides a globally distributed relational database with horizontal scalability.",
+    "with": [
+      "This table lists generally available Google Cloud services and maps them to similar or comparable offerings in Amazon Web Services (AWS) and Microsoft Azure.",
+      "The comparison covers multiple service categories:",
+      "Serverless and Container Services: Cloud Build provides build, test, and deploy capabilities comparable to AWS CodeBuild and Azure DevOps.",
+      "AI and Machine Learning: Vertex AI provides a comprehensive ML platform for training predictive and generative AI models at scale, comparable to Amazon SageMaker and Azure AI Platform.",
+      "Data Analytics: BigQuery is a serverless, highly scalable data warehouse comparable to Amazon Redshift and Azure Synapse Analytics."
+    ],
+    "without": [
+      "Technology areas",
+      "Application development",
+      "Application hosting"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "documentation",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "pool import, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

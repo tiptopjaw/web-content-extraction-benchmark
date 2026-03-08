@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://netflixtechblog.com/",
+  "file_id": "2972",
+  "ground_truth": {
+    "title": "Netflix TechBlog",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Sitemap\n\nOpen in app\n\nSign up\n\nSign in\n\nGet app\n\nWrite\n\nSearch\n\nSign up\n\nSign in\n\nNetflix TechBlog\n\n181K followers\n\neditor\n\nFollow\n\nScaling Global Storytelling: Modernizing Localization Analytics at Netflix\n\nValentin Geffrier, Tanguy Cornuau\n\nNetflix Technology Blog\n\n1d ago\n\n3 min read\n\nNetflix Technology Blog\n\n1d ago\n\n3 min read\n\nScaling Global Storytelling: Modernizing Localization Analytics at Netflix\n\nValentin Geffrier, Tanguy Cornuau\n\nNetflix Technology Blog\n\n1d ago\n\n3 min read\n\nLatest\n\nOptimizing Recommendation Systems with JDK’s Vector API\n\nBy Harshad Sane\n\nNetflix Technology Blog\n\n5d ago\n\n9 min read\n\nNetflix Technology Blog\n\n5d ago\n\n9 min read\n\nMount Mayhem at Netflix: Scaling Containers on Modern CPUs\n\nAuthors: Harshad Sane, Andrew Halaney\n\nNetflix Technology Blog\n\nNov 7, 2025\n\n11 min read\n\nNetflix Technology Blog\n\nNov 7, 2025\n\n11 min read\n\nOptimizing Recommendation Systems with JDK’s Vector API\n\nBy Harshad Sane\n\nNetflix Technology Blog\n\n5d ago\n\n9 min read\n\nMount Mayhem at Netflix: Scaling Containers on Modern CPUs\n\nAuthors: Harshad Sane, Andrew Halaney\n\nNetflix Technology Blog\n\nNov 7, 2025\n\n11 min read\n\nLatest\n\nLatest\n\nLatest\n\nLatest\n\nLatest\n\nLatest\n\nLatest\n\nLatest\n\nHelp\n\nStatus\n\nAbout\n\nCareers\n\nPress\n\nBlog\n\nPrivacy\n\nRules\n\nTerms\n\nText to speech\n\nTo make Medium work, we log user data. By using Medium, you agree to our\n\nPrivacy Policy\n\n, including cookie policy.",
+    "with": [
+      "Scaling Global Storytelling: Modernizing Localization Analytics at Netflix",
+      "Scaling Global Storytelling: Modernizing Localization Analytics at Netflix",
+      "Netflix Technology Blog",
+      "Netflix Technology Blog",
+      "Mount Mayhem at Netflix: Scaling Containers on Modern CPUs"
+    ],
+    "without": [
+      "Medium Logo",
+      "Scaling Global Storytelling: Modernizing Localization Analytics at NetflixValentin Geffrier, Tanguy Cornuau",
+      "Optimizing Recommendation Systems with JDK’s Vector APIBy Harshad Sane",
+      "Mount Mayhem at Netflix: Scaling Containers on Modern CPUsAuthors: Harshad Sane, Andrew Halaney"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

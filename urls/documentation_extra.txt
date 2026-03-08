@@ -1,0 +1,21 @@
+# Documentation pages - 8 more needed
+
+# MDN (worked well)
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+https://developer.mozilla.org/en-US/docs/Web/API/WebSocket
+
+# Python
+https://docs.python.org/3/library/json.html
+https://docs.python.org/3/library/pathlib.html
+
+# Rust
+https://doc.rust-lang.org/book/ch09-02-recoverable-errors-with-result.html
+
+# Go
+https://go.dev/doc/tutorial/getting-started
+
+# ArchWiki (worked)
+https://wiki.archlinux.org/title/Pacman
+
+# Django
+https://docs.djangoproject.com/en/5.1/topics/forms/

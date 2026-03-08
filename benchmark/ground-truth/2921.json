@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.amazon.com/b?node=565108",
+  "file_id": "2921",
+  "ground_truth": {
+    "title": "",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Select the department you want to search in\n\nSearch Amazon\n- Amazon Haul\n- Medical Care\n- Amazon Basics\n- Best Sellers\n- Books\n- Prime\n- Gift Cards\n- Registry\n- Smart Home\n- Today's Deals\n- New Releases\n- Sell\n- Customer Service\n- Music\n- Fashion\n- Amazon Home\n- Automotive\n- Toys & Games\n- Baby\n- Sports & Outdoors\n- Home Improvement\n- Shop By Interest\n- Pharmacy\n- Kindle Books\n\nYour recently viewed items and featured recommendations\n\nView or edit your browsing history\n\nAfter viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in.\n- Careers\n- Amazon Newsletter\n- About Amazon\n- Accessibility\n- Sustainability\n- Press Center\n- Investor Relations\n- Amazon Devices\n- Amazon Science\n- Sell on Amazon\n- Sell apps on Amazon\n- Supply to Amazon\n- Protect & Build Your Brand\n- Become an Affiliate\n- Become a Delivery Driver\n- Start a Package Delivery Business\n- Advertise Your Products\n- Self-Publish with Us\n- Become an Amazon Hub Partner\n- › See More Ways to Make Money",
+    "with": [
+      "Select the department you want to search in",
+      "Search Amazon\n- Amazon Haul\n- Medical Care\n- Amazon Basics\n- Best Sellers\n- Books\n- Prime\n- Gift Cards\n- Registry\n- Smart Home\n- Today's Deals\n- New Releases\n- Sell\n- Customer Service\n- Music\n- Fashio",
+      "Your recently viewed items and featured recommendations",
+      "View or edit your browsing history",
+      "After viewing product detail pages, look here to find an easy way to navigate back to pages you are interested in."
+    ],
+    "without": [
+      "Main content",
+      "Searchalt+/",
+      "Cartshift+alt+C",
+      "Homeshift+alt+H",
+      "Ordersshift+alt+O"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

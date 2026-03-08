@@ -1,0 +1,34 @@
+# Product pages - 16 more needed
+# Focus on sites that don't block scrapers
+
+# Newegg (worked before)
+https://www.newegg.com/samsung-990-evo-plus-2tb/p/N82E16820147922
+https://www.newegg.com/intel-core-ultra-9-285k/p/N82E16819118564
+https://www.newegg.com/amd-ryzen-9-9950x/p/N82E16819113903
+https://www.newegg.com/corsair-64gb-288-pin-ddr5-sdram/p/N82E16820236927
+
+# iFixit (worked before)
+https://www.ifixit.com/products/essential-electronics-toolkit
+https://www.ifixit.com/products/jimmy
+
+# Sweetwater (worked before)
+https://www.sweetwater.com/store/detail/AT2020--audio-technica-at2020-cardioid-condenser-microphone
+https://www.sweetwater.com/store/detail/SubPhatty--moog-sub-phatty-25-key-analog-synthesizer
+
+# Thomann (worked - title was odd but page loads)
+https://www.thomann.de/gb/rode_nt1_5th_generation_black.htm
+https://www.thomann.de/gb/yamaha_hs5.htm
+
+# Adorama (worked before)
+https://www.adorama.com/ca0581c002.html
+https://www.adorama.com/nkz9ii.html
+
+# PCPartPicker (worked before)
+https://pcpartpicker.com/product/nqQcCJ/nvidia-geforce-rtx-4070-super-12-gb-founders-edition-video-card-900-1g141-2524-000
+https://pcpartpicker.com/product/TQK2FT/amd-ryzen-5-7600-36-ghz-6-core-processor-100-100001015box
+
+# Headphones.com (worked)
+https://www.headphones.com/products/hifiman-sundara
+
+# eBay (worked with Playwright)
+https://www.ebay.com/itm/404928375058

@@ -1,0 +1,62 @@
+{
+  "0323": {
+    "status": "skipped",
+    "verified_at": "2026-02-12T07:54:10.907187"
+  },
+  "0326": {
+    "status": "skipped",
+    "verified_at": "2026-02-12T07:54:10.917724"
+  },
+  "0432": {
+    "status": "skipped",
+    "verified_at": "2026-02-12T07:54:11.101729"
+  },
+  "0455": {
+    "status": "skipped",
+    "verified_at": "2026-02-12T07:54:11.139299"
+  },
+  "0478": {
+    "status": "skipped",
+    "verified_at": "2026-02-12T07:54:11.157217"
+  },
+  "0021": {
+    "status": "approved",
+    "verified_at": "2026-02-19T13:36:21.230418"
+  },
+  "0022": {
+    "status": "approved",
+    "verified_at": "2026-02-19T13:42:19.498982"
+  },
+  "0023": {
+    "status": "flagged",
+    "verified_at": "2026-02-19T13:42:54.897889"
+  },
+  "0024": {
+    "status": "approved",
+    "verified_at": "2026-02-19T13:43:16.395955"
+  },
+  "0025": {
+    "status": "approved",
+    "verified_at": "2026-02-19T13:44:30.727490"
+  },
+  "0026": {
+    "status": "approved",
+    "verified_at": "2026-02-19T13:45:36.312804"
+  },
+  "0027": {
+    "status": "flagged",
+    "verified_at": "2026-02-19T13:47:06.394450"
+  },
+  "0011": {
+    "status": "approved",
+    "verified_at": "2026-02-19T15:16:17.583878"
+  },
+  "0012": {
+    "status": "approved",
+    "verified_at": "2026-02-19T15:16:23.813977"
+  },
+  "0013": {
+    "status": "approved",
+    "verified_at": "2026-02-19T15:16:28.973327"
+  }
+}

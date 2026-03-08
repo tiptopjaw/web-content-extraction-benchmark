@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.bhphotovideo.com/c/product/1825729-REG/sony_ilce_9m3_alpha_9_iii_mirrorless.html",
+  "file_id": "3039",
+  "ground_truth": {
+    "title": "Portman Lights P1 Retro Or EVO - 4 Units Roadcase",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Video Chat with a Lighting Expert - Live\n\nHome Lighting & Studio Lighting Cases, Carts & Hand Trucks Cases & Covers Portman Lights P1 RETRO or EVO Roadcase\n\nPortman Lights P1 Retro Or EVO - 4 Units Roadcase\n\nBH # POP1REEVLRC4 • MFR # P1 RETRO OR EVO - LRC 4 UNITS\n\nExpected availability: 2-4  Weeks\n\n1 2 3 4 5 6 7 8 9 10 +\n\nFree Standard Shipping\n\nAdd a protection plan from $79.99\n\nRecommended Accessories\n\n- PRO TEC ID Luggage Tag $5.00 Add to Cart\n\nPRO TEC ID Luggage Tag\n- Ruggard TPL-A3CB 3-Dial Combination TSA Lock (Black) $11.01 Save $1.94 Add to Cart\n\nRuggard TPL-A3CB 3-Dial Combination TSA Lock (Black)\n- ProTapes Pro Gaffer Tape (2\" x 55 yd, Black) $19.95 Add to Cart\n\nProTapes Pro Gaffer Tape (2\" x 55 yd, Black)\n- Overview\n- Specs\n- Q&A\n- Accessories\n- Compatibility\n\nPortman Lights P1 RETRO or EVO Roadcase Q&A\n\nBe the first to ask a question about this item",
+    "with": [
+      "Video Chat with a Lighting Expert - Live",
+      "Portman Lights P1 Retro Or EVO - 4 Units Roadcase",
+      "Expected availability: 2-4  Weeks",
+      "- PRO TEC ID Luggage Tag $5.00 Add to Cart",
+      "Ruggard TPL-A3CB 3-Dial Combination TSA Lock (Black)\n- ProTapes Pro Gaffer Tape (2\" x 55 yd, Black) $19.95 Add to Cart"
+    ],
+    "without": [
+      "for Accessibility for blind people",
+      "who use screen readers",
+      "for Keyboard Navigation",
+      "for Accessibility menu",
+      "B2B, Gov, Students & More"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

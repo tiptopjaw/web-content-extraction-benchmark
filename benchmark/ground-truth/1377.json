@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://merylarnett.com/live-virtual-meditation/p/monday-night-meditation-subscription",
+  "file_id": "1377",
+  "ground_truth": {
+    "title": "Monday Night Meditation Subscription — Meryl Arnett -  Atlanta Meditation teacher",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Monday Night Meditation Subscription - $39.00 every month. Join me each week for a live, virtual Monday night meditation class. Membership fee auto-renews each month. Cancel any time. Membership includes: Access to all live, virtual classes; Q&A time included in each class; Exclusive monthly Community Discussion sessions; Connection to an engaged and supportive community of meditators. Members receive free access to select bonus experiences not offered on the podcast. Save 10% on all workshops, retreats and special programming.",
+    "with": [
+      "Join me each week for a live, virtual Monday night meditation class.",
+      "Membership fee auto-renews each month. Cancel any time.",
+      "Access to all live, virtual classes",
+      "Q&A time included in each class",
+      "Members receive free access to select bonus experiences not offered on the podcast"
+    ],
+    "without": [
+      "Skip to Content",
+      "Meryl Arnett ©2018 All Rights Reserved",
+      "Subscribe to receive FREE bonus meditations, nature soundscapes, book recommendations and more!",
+      "Login",
+      "Instagram"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

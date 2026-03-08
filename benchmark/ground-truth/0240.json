@@ -1,0 +1,40 @@
+{
+  "schema_version": "2.0",
+  "url": "https://theyogahabituk.blog/2025/01/21/yoga-wont-fix-the-plumbing-but-it-might-save-your-sanity/",
+  "file_id": "0240",
+  "_internal": {
+    "page_type": {
+      "primary": "article",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": [
+        "yoga",
+        "mindfulness",
+        "personal-development",
+        "resilience"
+      ]
+    }
+  },
+  "ground_truth": {
+    "title": "Yoga Won't Fix the Plumbing, But It Might Save Your Sanity",
+    "author": "Jordanna Campbell",
+    "publish_date": "2025-01-21",
+    "main_content": "If life is a test of yoga principles, January has been my ultimate exam\u2014and let\u2019s just say, I\u2019m scoring extra credit in \u2018barely surviving.\u2019\n\nI have found the combination of being unusually busy workwise, the absence of a kitchen and heating for two weeks, and no running water for eight days more challenging than I care to admit.\n\nHere\u2019s what I\u2019d like to say about how yoga principles have kept me serene in the face of chaos (and the reality of how it\u2019s actually going):\n\nEmbrace the Present Moment (or at Least Tolerate It)\n\nWhen you\u2019re washing dishes in the boys\u2019 bathroom because the kitchen doesn\u2019t exist, \u201cbeing present\u201d is less about mindfulness and more about survival. That bathroom feels like enemy territory most days\u2014it takes a special kind of focus just to step over the threshold, let alone scrub pots and pans in there. But yes, I\u2019m present\u2026 in the sense that I\u2019m definitely there.\n\nBreathe Through It (or Mutter Profanities Quietly)\n\nI\u2019d love to tell you that every time the plumber doesn\u2019t show up, I serenely take a deep breath and let it go. In reality, it\u2019s more like a muttered string of obscenities, followed by a half-hearted attempt at alternate nostril breathing where I\u2019m so wound up that I\u2019m almost certain I\u2019m not doing it properly.\n\nLaugh at the Absurdity (Because What Else Can You Do?)\n\nWhen you\u2019re doing yoga poses next to a tower of flatpack furniture and wondering how long it\u2019ll take before the whole thing collapses, laughter is the only option. Tree Pose might be wobbly, but at least it\u2019s not as precarious as our current living situation.\n\nLean on Your Practice (and Hope It Doesn\u2019t Topple Over)\n\nYoga is my lifeline\u2014when I actually manage to fit it in. Some days, it\u2019s a full practice. Other days, it\u2019s two minutes of cat-cow before I\u2019m interrupted by life demanding my attention. It\u2019s not as if I have lofty ideas about nailing it perfectly; it\u2019s all about clinging to it like a life raft.\n\nRemember It\u2019s Temporary (But Also, Where\u2019s the Fast-Forward Button?)\n\nI know this chaos will pass. Eventually, there will be hot water, a kitchen, and maybe even heating upstairs. But in the meantime, it feels like I\u2019m trapped in some cosmic joke about patience and perspective. Let\u2019s just say I\u2019m not exactly laughing yet.\n\nHere\u2019s the thing: yoga doesn\u2019t make you perfect. It doesn\u2019t make me naturally calm, patient, or compassionate. In fact, if anything, it highlights just how much work I still need to do in those areas. But that\u2019s the beauty of it\u2014it\u2019s a practice, not a destination. Every time I step on the mat, I\u2019m reminded that progress, no matter how small, still counts.\n\nNow, imagine what I was like before I found yoga. (Actually, don\u2019t. It\u2019s terrifying.)\n\nJanuary has been a bit of a shit show, but how can I possibly complain? I\u2019m healthy, I\u2019m getting a shiny new kitchen (eventually), and I\u2019m heading to India for 10 days to practice yoga. Yes, I\u2019m juggling a lot\u2014my son Izee\u2019s university finals, a root canal that\u2019s going to cost a small fortune, extra work commitments, and a demanding meditation course\u2014but I\u2019m still standing. Or at least wobbling in Warrior III.\n\nSo, if you\u2019re also wading through a bit of life chaos right now, remember you\u2019re not alone. And maybe try a little yoga. It won\u2019t fix the plumbing, but it might just help you laugh through the mess.",
+    "with": [
+      "I have found the combination of being unusually busy workwise, the absence of a kitchen and heating for two weeks, and no running water for eight days more challenging than I care to admit.",
+      "When you\u2019re doing yoga poses next to a tower of flatpack furniture and wondering how long it\u2019ll take before the whole thing collapses, laughter is the only option.",
+      "Yoga is my lifeline\u2014when I actually manage to fit it in. Some days, it\u2019s a full practice. Other days, it\u2019s two minutes of cat-cow before I\u2019m interrupted by life demanding my attention.",
+      "Tree Pose might be wobbly, but at least it\u2019s not as precarious as our current living situation.",
+      "So, if you\u2019re also wading through a bit of life chaos right now, remember you\u2019re not alone. And maybe try a little yoga. It won\u2019t fix the plumbing, but it might just help you laugh through the mess."
+    ],
+    "without": [
+      "Log in",
+      "Recent Posts",
+      "Share this:",
+      "Contact me"
+    ]
+  },
+  "model": "MiniMax-M2.1",
+  "annotated_at": "2026-01-02T15:34:46.790148"
+}

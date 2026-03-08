@@ -1,0 +1,40 @@
+{
+  "schema_version": "2.0",
+  "url": "https://lemmy.ml/post/21018364",
+  "file_id": "0573",
+  "ground_truth": {
+    "title": "Lemmy Development Update 2024-10-04",
+    "author": "Dessalines",
+    "publish_date": "2024-10-04",
+    "main_content": "Dessalines to Announcements\n\nHere is our regular update that explains what we have been working on for the past two weeks. This should allow average users to keep up with development, without reading Github comments or knowing how to program.\n\nsunaurus\n\n- Always save remote image data\n\nnetbrum\n\n- Replace clippy::unwrap_used in tests\n\ndullbananas\n\n- Apply scheduled post limit to future posts instead of past posts, and verify this in test\n\nN4taaa\n\n- UX - Swap \"Select Language\" and \"Cancel/Preview/Reply\" button locations around in commentsReverse order of buttons in Reply TextArea\n\nmatc-pub\n\n- SortType, Tagline, Emojis\n- Fix date-fns dynamic import\n\nSleeplessOne1917\n\n- Add skip_serialize_none to OAuth structs with option fields\n- Fix jump to content\n\nNutomic\n\n- Resolve links to remote posts into local URL\n- Attempt to fix test for fetching deeply nested comment\n- Avoid stack overflow when fetching nested comments, reduce max comment depth to 50\n- Handle partial settings backup\n- Avoid breaking changes, keep response fields as deprecated\n- Replace clippy allow annotation with expect\n- Cleanup remaining use of Result<bool, Error>\n- Post scheduling\n- Conditionally hide comments on nsfw posts\n- Simplify handling of NotFound SQL errors\n- Post scheduling\n\ndessalines\n\n- Adding a get_random_community endpoint.\n- Adding local site settings to reject federated upvotes or downvotes.\n- Add modlog entries for bulk removals.\n- Adding skip_serializing_none to another OAuth API request.\n- Removing a few more Result<Bool>.\n- Add ability to search for Community by its description (or title only).\n- Remove redundant local_user.auto_expand setting.\n- Adding saved_only, liked_only, and disliked_only filters to search.\n- Get rid of a lot of pointless mut form initializations.\n- Fixing titleOnly, PostSort, and CommentSort.\n- Updating git cliff.\n\nSupport development\n\n@dessalines and @nutomic are working full-time on Lemmy to integrate community contributions, fix bugs, optimize performance and much more. This work is funded exclusively through donations. If you like using Lemmy, and want to make sure that we will always be available to work full time building it, consider donating to support its development. Recurring donations are ideal because they allow for long-term planning. But also one-time donations of any amount help us.\n\n- Liberapay (preferred option)\n- Open Collective\n- Patreon\n\nAvieshek\n\n!spoiler!<\n\nDessalines\n\nWe use a different syntax for spoilers.\n\nAvieshek\n\nWhy?\n\nterusgormand8465\n\nTo be different\n\nBlaze (he/him)\n\nspoiler\n\nTest\n\nCorgana\n\nPost scheduling is huge! Lots of good stuff in here.",
+    "with": [
+      "Here is our regular update that explains what we have been working on for the past two weeks.",
+      "This should allow average users to keep up with development, without reading Github comments or knowing how to program.",
+      "Adding local site settings to reject federated upvotes or downvotes.",
+      "Post scheduling is huge! Lots of good stuff in here.",
+      "We use a different syntax for spoilers.",
+      "@dessalines and @nutomic are working full-time on Lemmy to integrate community contributions, fix bugs, optimize performance and much more.",
+      "Adding saved_only, liked_only, and disliked_only filters to search.",
+      "Recurring donations are ideal because they allow for long-term planning."
+    ],
+    "without": [
+      "Create Post",
+      "Create Community",
+      "Subscribe",
+      "Communities",
+      "join-lemmy.org",
+      "BE: 0.19.16",
+      "19.2K local subscribers",
+      "505 users / 6 months"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

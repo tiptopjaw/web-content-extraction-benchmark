@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.topadvisor.com/categories/machine-learning-ml/rankings",
+  "file_id": "0847",
+  "ground_truth": {
+    "title": "Top 10 Machine Learning (ML) Software Ranking 2025 | Reviews, Features, Pricing",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Top Ranked Machine Learning (ML) Software. Compare Top Ranked Machine Learning (ML) Software. See how top Machine Learning (ML) products rank based on their WH score. Product Ranking: 1. Automation Anywhere - 9.1, 2. ChatGPT - 9.0, 3. Seamless.AI - 8.8, 4. Claude - 8.3, 5. DeepSeek - 8.2, 6. Neurala - 7.9, 7. Unisys - 7.9, 8. Chorus - 7.9, 9. MonkeyLearn - 7.9, 10. DataRobot - 7.9, 11. Clarifai - 7.9, 12. NVIDIA - 7.9, 13. Neuton - 7.9, 14. Neural Designer - 7.9, 15. Fujitsu Private GPT - 7.9, 16. Monica - 7.9, 17. Workik - 7.9, 18. Tabnine - 7.9. Filter by company size: All Sizes (40), Small Business (35), Mid Market (40), Enterprise (37). Filter by rating: 4 stars & up (7), 3 stars & up (7), 2 stars & up (7), 1 star & up (7). Filter by platforms: MacOS (40), Android (5), Windows (40), iOS (5), Linux (40). Sort by: TopAdvisor Score, Highest Rated, Most Reviews, Alphabetical.",
+    "with": [
+      "Top Ranked Machine Learning (ML) Software."
+    ],
+    "without": [
+      "Logo TopAdvisor white",
+      "Categories dropdown navigation",
+      "Resources link",
+      "For Vendors link",
+      "Mobile menu hamburger icon"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

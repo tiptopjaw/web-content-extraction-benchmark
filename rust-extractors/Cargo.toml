@@ -1,0 +1,9 @@
+[workspace]
+resolver = "2"
+members = [
+    "dom-content-extraction-cli",
+    "dom-smoothie-cli",
+    "nanohtml2text-cli",
+    "fast-html2md-cli",
+    "batch-benchmark",
+]

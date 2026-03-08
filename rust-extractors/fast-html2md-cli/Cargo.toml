@@ -1,0 +1,13 @@
+[package]
+name = "fast-html2md-cli"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "html2md-extract"
+path = "src/main.rs"
+
+[dependencies]
+fast_html2md = { version = "0.0", default-features = false, features = ["scraper"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"

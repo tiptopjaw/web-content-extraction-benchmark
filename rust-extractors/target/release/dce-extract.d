@@ -1,0 +1,1 @@
+/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/rust-extractors/target/release/dce-extract: /home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/rust-extractors/dom-content-extraction-cli/src/main.rs

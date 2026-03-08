@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://vercel.com/",
+  "file_id": "2837",
+  "ground_truth": {
+    "title": "Build and deploy on the AI Cloud.",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Vercel provides the developer tools and cloud infrastructure to build, scale, and secure a faster, more personalized web.\n\nbuild times went from 7m to 40s.\n\nsaw a 95% reduction in page load times.\n\nsaw 24x faster builds.\n\nGet started using our pre-built templates. Easily stream long-running LLM responses for a better user experience with zero-config infrastructure that's always globally performant.\n\nFast load times, zero overhead with Vercel's highly optimized infrastructure and CDN, reducing bounce rates and improving SEO. Streamline content creation & publishing with built-in previews.\n\nDeploy AI Apps in seconds\n\nYour product, delivered.\n\nSecurity, speed, and AI included, so you can focus on your user.\n\nAgents\n\nDeliver more value to users by executing complex workflows.\n\nAI Apps\n\nEnrich any product or feature with the latest models and tools.\n- Fluid\n- AI SDK\n- AI Gateway\n- Workflow\n- Sandbox\n- BotID\n\nWeb Apps\n\nShip beautiful interfaces that don’t compromise speed or functionality.\n\nComposable Commerce\n\nIncrease conversion with fast, branded storefronts.\n\nMulti-tenant Platform\n\nServe millions securely across isolated environments.\n\nFramework-Defined Infrastructure\n\nFrom code to infrastructure in one git push. Vercel deeply understands your app to provision the right resources and optimize for high-performance apps.\n\nFrom code to infrastructure in one git push.\n\nScale your\n\nwithout compromising\n\nDeploy once, deliver everywhere.\n\nWhen you push code to Vercel, we make it instantly available across the globe.\n\nMore about Infrastructure\n\nLearn about Enterprise\n\nFluid Compute\n\nA compute model for all workloads. With Active CPU pricing.\n\nThe AI Gateway For Developers. Effortlessly access and deploy hundreds of AI models from one interface.\n\nThe AI Gateway For Developers.\n\nAI SDK Python OpenAI HTTP\n\nimport { streamText } from 'ai' const result = streamText ({\n  model: 'openai/gpt-5.2' , prompt: 'Why is the sky blue?' })\n\n'Why is the sky blue?'\n\nUse it with\n\nand\n\nTop models on Mar 8, 2026\n\nClaude Opus 4.6\n\n27.6 %\n\nKAT-Coder-Pro V1\n\n14.3 %\n\nGemini 3 Flash\n\n13.1 %\n\nClaude Sonnet 4.6\n\n9.6 %\n\nMiniMax M2.5\n\n7.1 %\n\nClaude Haiku 4.5\n\n3.3 %\n\nGemini 2.5 Flash Lite\n\n2.9 %\n\nGLM 5\n\n2.8 %\n\nKimi K2.5\n\n2.7 %\n\nGPT 5.4\n\n2.1 %\n\nDeploy your first app in seconds.\n\n- Deploy automatically from git or with our CLI\n- Wide range support for the most popular frameworks\n- Previews for every push\n- Automatic HTTPS for all your domains",
+    "with": [
+      "Vercel provides the developer tools and cloud infrastructure to build, scale, and secure a faster, more personalized web.",
+      "Fast load times, zero overhead with Vercel's highly optimized infrastructure and CDN, reducing bounce rates and improving SEO.",
+      "Multi-tenant Platform",
+      "More about Infrastructure",
+      "Top models on Mar 8, 2026"
+    ],
+    "without": [
+      "ProductsAI Cloud",
+      "v0Build applications with AI",
+      "Build applications with AI",
+      "AI SDKThe AI Toolkit for TypeScript",
+      "The AI Toolkit for TypeScript"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

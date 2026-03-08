@@ -1,0 +1,28 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.target.com/c/video-games/-/N-5xtg5",
+  "file_id": "0654",
+  "ground_truth": {
+    "title": "Video Games",
+    "author": "",
+    "publish_date": null,
+    "main_content": "- Video Game Deals\n- Nintendo Switch 2\n- Nintendo Switch\n- PlayStation 5\n- Xbox Series X|S\n- Virtual Reality\n\nShow all 14\n\nUp to 50 Up to  50% off\n\nUp to 50\n\nUp to\n\nUp to  50% off\n\nselect video games*\n- Loading...\n\nPokémon Pokopia— your cozy new world\n\nPokémon Pokopia—\n\nyour cozy new world\n\nfor Nintendo Switch 2.\n\nSponsored\n\nShop favorite franchises\n\n- Super Mario\n- Pokémon\n- Minecraft\n- Call of Duty\n- Final Fantasy\n\nBrowse by video game genre\n\n- Adventure\n- RPG/Role playing\n- Action\n- Shooter\n- Racing\n- Sports\n\nBrowse age-appropriate video games\n\n- E for Everyone\n- 10 & Up\n- T for Teen\n- M for Mature\n\nExplore more of what’s going on right now\n\n- Easter\n- Easter Basket Ideas\n- Health & Wellness\n- St. Patrick’s Day\n- Game Day Hosting\n- Gift Ideas\n- Target New Arrivals\n- Deals\n\nTrending Searches\n\n- xbox series x controller\n- wii console\n- xbox live gold\n- madden 26 ps4\n- ps5 black friday deals\n- mario switch games\n- retro game console\n- ps5 sale\n- nintendo controller\n- game console",
+    "with": [
+      "- Video Game Deals\n- Nintendo Switch 2\n- Nintendo Switch\n- PlayStation 5\n- Xbox Series X|S\n- Virtual Reality",
+      "select video games*\n- Loading...",
+      "for Nintendo Switch 2.",
+      "- Super Mario\n- Pokémon\n- Minecraft\n- Call of Duty\n- Final Fantasy",
+      "- Adventure\n- RPG/Role playing\n- Action\n- Shooter\n- Racing\n- Sports"
+    ],
+    "without": []
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

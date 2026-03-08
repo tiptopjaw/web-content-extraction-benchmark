@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.simply-thrilled.com/post/how-the-latest-trends-in-video-production-are-shaping-the-future",
+  "file_id": "2035",
+  "ground_truth": {
+    "title": "Latest Trends in Video Production 2025 for Brands",
+    "author": "Team SimplyThrilled",
+    "publish_date": "2025-09-04",
+    "main_content": "Video Production Trends to Watch in 2025. The internet runs on video - simply as that. TikTok's got us scrolling for dayssss. YouTube's kept us up 'til stupid o'clock. Insta's chucking reels like confetti. And even LinkedIn's trying to join the party. And let's be honest - we're all guilty of it, aren't we? And 2025? Things are only getting spicier. Videos are snappier, punchier, and cheekier than your mate after two pints. AI's editing vids before your brew's gone cold - and TikTok trends flip faster than you can say viral. People don't just want to watch - they want to swipe, shop, remix, and dive straight in.\n\n1. AI & Automation. Don't worry - the robots aren't here to steal your job. They're just tackling the boring bits so you can stay creative. Every industry's being shaken up by automation, and video's no different. AI tools are helping us cut, edit, script, and spin out personalised videos - quicker than you can say TikTok and by the bucketload. Automated Editing and Smart Tools: Editing used to be boringgg, didn't it? Endless mugs of coffee, square eyes, and hours dragging clips about. Grim. Now though, tools like Descript and Runway cut, line up, and even sort your colours while you're still finishing a cuppa. Personalised Video Content: AI can now knock out thousands of slightly different videos, each aimed at a different audience. Scriptwriting and Voiceovers: AI's not just cutting clips - it's speaking your line too. Need captions in Spanish, Italian, or Thai? Fancy a voiceover without hunting down half a dozen actors? Sorted.\n\n2. Short-Form Vertical Videos for Social Media. TikTok, Instagram Reels, and YouTube Shorts - short-form vertical video is running the show. These bite-sized, 15- to 60-second clips are built for the scroll and made to be watched on your phone while you're half-doing something else. Quick, addictive, and everywhere. This isn't a fad - it's how people watch now. Mobile-First Consumption: More than 75% of videos are now watched on a phone. Vertical video just fits the screen, the scroll, and the way we live. Authenticity Over Perfection: Short-form doesn't need polish. In fact, rough-around-the-edges feels more real - and real is what people trust. Viral Marketing Potential: Short-form was built to go viral. It's quick, it's hooky, and it tells a story before you've even blinked.\n\n3. Rise of Live Streaming and Real-Time Content. Live streaming isn't just for gamers anymore. It's become one of the biggest shifts in how we connect, popping up everywhere from live shopping sprees to webinars, gigs, and Q&As. The magic? It's live - no edits, just you and your audience. Engagement Through Interactivity: People don't just want to sit and watch anymore - they want in on the action. With live streams, viewers can chuck in questions, tap through polls, and get involved while it's all happening. Live Shopping: What kicked off in Asia has properly landed here. Live shopping streams let people watch, chat, and buy - all at the same time. Behind-the-Scenes and Transparency: Live is perfect for showing what really goes on. The messy bits, the laughs between takes, the stuff you'd usually leave on the cutting room floor.\n\n4. Interactive and Immersive Videos. People don't just want to watch anymore - they want to poke, swipe, and join in. That's why interactive and immersive video's blowing up. 360° & Virtual Reality (VR) Video: VR and 360° clips plonk you right in the middle of things - a house tour, a holiday, even a gig. Augmented Reality (AR) Integrations: You've seen it - Snapchat filters, TikTok effects, Insta lenses. For brands, AR's a neat way of letting people 'try before they buy.' Shoppable Videos: Then there's click-to-shop. Watch a video, tap the screen, boom - it's in your basket.\n\n5. Sustainability and Green Filmmaking. Going green isn't just a nice add-on anymore - it's becoming the norm. More and more production companies are ditching waste, using renewable energy, and cutting carbon where they can. For agencies, it's not just about saving money. It's about showing you care.\n\n6. Data-Driven Video. And of course, it's not all gut instinct - data's calling the shots too. Brands want to know what's landing, what's flopping, and how to keep people watching. Click-through rates, heatmaps, even where your eyes hover on the screen - all of it feeds back into making smarter, sharper films.\n\nConclusion: Video is only getting bolder, brighter, harder to ignore. From AI doing the boring bits, to bite-sized vertical stories, to live streams and AR filters - the way we watch is changing by the day. For brands, keeping up isn't optional anymore. Fall behind and you're background noise. Stay ahead and you've got a shot at cutting through the chaos, grabbing attention, and actually connecting.",
+    "with": [
+      "AI tools are helping us cut, edit, script, and spin out personalised videos - quicker than you can say TikTok and by the bucketload.",
+      "Live streaming isn't just for gamers anymore. It's become one of the biggest shifts in how we connect, popping up everywhere from live shopping sprees to webinars, gigs, and Q&As.",
+      "People don't just want to watch anymore - they want to poke, swipe, and join in. That's why interactive and immersive video's blowing up.",
+      "For brands, keeping up isn't optional anymore. Fall behind and you're background noise. Stay ahead and you've got a shot at cutting through the chaos, grabbing attention, and actually connecting."
+    ],
+    "without": [
+      "Contact form and submission fields",
+      "Footer navigation links and sitemap",
+      "Social media icon links and buttons",
+      "Copyright and privacy policy notices",
+      "Calendly booking widget elements"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

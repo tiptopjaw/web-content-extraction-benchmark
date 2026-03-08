@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://news.mit.edu/topic/software",
+  "file_id": "0729",
+  "ground_truth": {
+    "title": "Software | MIT News | Massachusetts Institute of Technology",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Displaying 1 - 15 of 190 news articles related to this topic. MIT Sea Grant students explore the intersection of technology and offshore aquaculture in Norway through the AquaCulture Shock program. New AI agent learns to use CAD to create 3D objects from sketches - the virtual VideoCAD tool could boost designers' productivity. MIT researchers propose a new model for legible, modular software using modular concepts and simple synchronization rules. New machine-learning application to help researchers predict chemical properties - ChemXploreML makes advanced chemical predictions easier and faster. Can AI really code? Study maps the roadblocks to autonomous software engineering - researchers mapped challenges in software development. Memory safety is at a tipping point - Lincoln Laboratory cybersecurity expert calls for unified approach to securing computer memory. Combining technology, education, and human connection to improve online learning - Caitlin Morris designs digital learning platforms. Inroads to personalized AI trip planning - new framework from MIT-IBM Watson AI Lab supercharges language models. Learning how to predict rare kinds of failures - researchers developing algorithms to predict failures when automation meets the real world. Artificial intelligence enhances air mobility planning - Lincoln Laboratory transitioning tools to streamline global transport logistics. Training LLMs to self-detoxify their language - new method helps large language models steer their own responses toward safer outputs. A new way to make graphs more accessible to blind and low-vision readers - Tactile Vega-Lite system developed at MIT CSAIL. A software platform streamlines emergency response - First responders worldwide adopt Lincoln Laboratory's Next-Generation Incident Command System. Expanding robot perception - Associate Professor Luca Carlone working to give robots more human-like awareness. How hard is it to prevent recurring blackouts in Puerto Rico - researchers demonstrate DyMonDS framework can improve resiliency to extreme weather.",
+    "with": [
+      "Displaying 1 - 15 of 190 news articles related to this topic."
+    ],
+    "without": [
+      "Massachusetts Institute of Technology",
+      "Subscribe to MIT Daily/Weekly",
+      "Privacy Policy",
+      "Twitter Facebook Instagram YouTube links",
+      "Terms of Use"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

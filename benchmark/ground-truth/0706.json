@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.fiverr.com/categories/writing-translation",
+  "file_id": "0706",
+  "ground_truth": {
+    "title": "Writing & Translation",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Get your words across\u2014in any language.\n\nContent Writing\n\n- Articles & Blog Posts\n- Content Strategy\n- Website Content\n- Scriptwriting\n- Creative Writing\n- Podcast Writing\n- Speechwriting\n- Research & Summaries\n\nEditing & Critique\n\n- Proofreading & Editing\n- Academic Support\n- AI Content Editing\n- Writing Advice\n\nBook & eBook Publishing\n\n- Book & eBook Writing\n- Book Editing\n- Beta Reading\n\nTranslation & Transcription\n\n- Translation\n- Localization\n- Transcription\n- Interpretation\n\nBusiness & Marketing Copy\n\n- Brand Voice & Tone\n- Business Names & Slogans\n- Case Studies\n- Product Descriptions\n- Ad Copy\n- Sales Copy\n- Email Copy\n- Social Media Copywriting\n- Press Releases\n- UX Writing\n\nCareer Writing\n\n- Resume Writing\n- Cover Letters\n- LinkedIn Profiles\n- Job Descriptions\n\nMiscellaneous\n\n- eLearning Content Development\n- Technical Writing\n- Handwriting\n\nMost Popular in Writing & Translation\n\n- Articles & Blog Posts\n- Translation\n- Ghostwriting\n- Proofreading & Editing\n- Resume Writing\n- Website Content\n- Product Descriptions\n- Scriptwriting\n- Book Editing",
+    "with": [
+      "Get your words across\u2014in any language.",
+      "Brand Voice & Tone",
+      "eLearning Content Development",
+      "Most Popular in Writing & Translation",
+      "Social Media Copywriting"
+    ],
+    "without": [
+      "Find a freelance writer or translator for hire",
+      "How Fiverr Works",
+      "Your payment is always secure",
+      "Join Fiverr",
+      "Browse agencies"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

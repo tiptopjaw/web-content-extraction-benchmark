@@ -1,0 +1,39 @@
+{
+  "schema_version": "2.0",
+  "url": "https://goshopia.com/shop/womenswear/dress/iris-rust-hemp-dress/",
+  "file_id": "0600",
+  "ground_truth": {
+    "title": "Iris Rust Hemp Dress",
+    "author": "",
+    "publish_date": null,
+    "main_content": "We are in love with the Iris Rust Hemp Dress. Why? See the Iris is a flower that symbolizes creativity and inspiration... just like this gorgeous dress which blooms with every layer, giving one the ease and comfort of nature.\n\nWHAT WE LOVE ABOUT THE IRIS RUST HEMP DRESS\n\n- Cute strappy dress\n- Three layers of flowy dress with side zip\n- Pocket on the right side.\n- Materials: 100% Hemp- 160-170 gsm, Azo-Free dyed.\n- Care: Dry Clean Only. Do not bleach. No spot Washing.\n- Products are made to order and they take about 8 to 14 days to be shipped.\n\nAdditional information\n\nSize: XS, S, M, L, XL, XXL\nColor: Orange, Red\nCountry of origin: India\nMaterials: Hemp",
+    "with": [
+      "We are in love with the Iris Rust Hemp Dress.",
+      "See the Iris is a flower that symbolizes creativity and inspiration... just like this gorgeous dress which blooms with every layer, giving one the ease and comfort of nature.",
+      "Cute strappy dress",
+      "Three layers of flowy dress with side zip",
+      "Materials: 100% Hemp- 160-170 gsm, Azo-Free dyed.",
+      "Care: Dry Clean Only. Do not bleach. No spot Washing.",
+      "Products are made to order and they take about 8 to 14 days to be shipped."
+    ],
+    "without": [
+      "Add to Cart",
+      "Add to basket",
+      "Related products",
+      "You may also like",
+      "Quick view",
+      "Sold By:",
+      "Free Shipping",
+      "Google Reviews"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

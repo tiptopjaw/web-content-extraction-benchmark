@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.loom.com/",
+  "file_id": "2845",
+  "ground_truth": {
+    "title": "Loom",
+    "author": "",
+    "publish_date": null,
+    "main_content": "One video is worth a thousand words\n\nEasily record and share AI-powered video messages with your teammates and customers to supercharge productivity\n\nMillions of people across 400,000 companies choose Loom\n\nLoom Rewind 2025\n\nLoom customers recorded 93M videos this year, reducing the need for 245M meetings. Learn about the milestones and achievements that made 2025 unforgettable.\n\nThe easiest screen recorder you'll ever use\n\nRecord in a few clicks. Share anywhere. Collaborate better.\n\nLightning fast screen recording\n\nEasily record your screen and camera. Record on any device using Loom's Chrome extension, desktop app or mobile app.\n\nSo much more than a screen recorder",
+    "with": [
+      "Easily record and share AI-powered video messages with your teammates and customers to supercharge productivity",
+      "Millions of people across 400,000 companies choose Loom",
+      "Loom customers recorded 93M videos this year, reducing the need for 245M meetings",
+      "Lightning fast screen recording",
+      "Record in a few clicks. Share anywhere. Collaborate better."
+    ],
+    "without": [
+      "Skip to content",
+      "Toggle navigation menu",
+      "Get Loom for free",
+      "Download now"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

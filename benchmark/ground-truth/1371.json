@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.louiestuxshop.com/tuxedo-shoes",
+  "file_id": "1371",
+  "ground_truth": {
+    "title": "Louie's Tux Shop offers the best selection of… | Louie's Tux Shop",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Formal Shoe Gallery. Louie's Tux Shop offers the best selection of shoes for your rental. Complimentary socks are included with every shoe rental. Classic Black Tie - Individual Rental Price - $30.00, With Rental Package - $20.00. Black Miami Slip On - Individual Rental Price - $30.00, With Rental Package - $25.00. Saddle Brown Monaco - Individual Rental Price - $30.00, With Rental Package - $25.00. Matte Black Monaco - Individual Rental Price - $30.00, With Rental Package - $25.00. Saddle Brown Burnt Toe - Individual Rental Price - $30.00, With Rental Package - $25.00. Black Rockefeller - Individual Rental Price - $30.00, With Rental Package - $25.00. Classic White Tie - Individual Rental Price - $30.00, With Rental Package - $20.00. Classic Ivory Tie - Individual Rental Price - $30.00, With Rental Package - $20.00. Individual Rental Price is applicable when you do not order a jacket and pant together. The a la carte price does not include the mandatory $12 damage and handling fee or applicable sales tax.",
+    "with": [
+      "Louie's Tux Shop offers the best selection of shoes for your rental.",
+      "Complimentary socks are included with every shoe rental.",
+      "Classic Black Tie - Individual Rental Price - $30.00, With Rental Package - $20.00.",
+      "Individual Rental Price is applicable when you do not order a jacket and pant together.",
+      "The a la carte price does not include the mandatory $12 damage and handling fee or applicable sales tax."
+    ],
+    "without": [
+      "Register Your Wedding",
+      "Find a Store",
+      "Contact Us",
+      "Wedding Invitations",
+      "©2025 Louie's Tux Shop. All rights reserved."
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "product",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

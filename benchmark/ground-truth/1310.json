@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://appleinsider.com/topic/headphones",
+  "file_id": "1310",
+  "ground_truth": {
+    "title": "headphones News, Rumors, Reviews, Guides and more on AppleInsider",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Latest headphones news, reviews, rumors, specs, and information from AppleInsider. Featured articles include: Walmart has the Beats Solo 4 and Beats Solo Buds available in new retailer-exclusive colorways. Following Apple's 'Awe Dropping' event, there was a chance to test out the AirPods Pro 3, including its heart rate monitoring and live transcription feature. Multiple Beats products are slated to receive new color options like Dark Slate and Pink. Apple has released a new firmware update for the USB-C variant of the AirPods Max. Users who haven't got around to buying Apple's short Lightning to 3.5mm headphone jack adapter after eight years are now out of luck, as the iPhone 7 accessory appears to be discontinued. The accessibility setting for AirPods, called headphone accommodations, is now available in macOS Sequoia. The Sonos Ace is the company's new push into premium personal audio. Apple's Beats has become the official consumer audio products partner of MLS.",
+    "with": [
+      "Latest headphones news, reviews, rumors, specs, and information from AppleInsider."
+    ],
+    "without": [
+      "AAPL: 273.67 (1.48)",
+      "Copyright © 2025 Quiller Media, Inc. All rights reserved.",
+      "Get our Mobile App",
+      "Designed by Crafted",
+      "Privacy Policy"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

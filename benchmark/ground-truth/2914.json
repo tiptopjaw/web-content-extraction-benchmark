@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.producthunt.com/",
+  "file_id": "2914",
+  "ground_truth": {
+    "title": "Top Products Launching Today",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Welcome to Product Hunt!\n\nThe place to launch and discover new tech products. Take a tour.\n\nTop Products Launching Today\n\nFor the first 4 hours of the day, we're hiding upvotes to help every product get a chance to catch your interest. Read more\n\nClean up your music library\n\nVibe Marketplace by Greta\n\nSell what you ship, instantly\n\nFreelance • No-Code • Vibe coding\n\nA Mac application to keep your code reviews organized!\n\nProductivity • Developer Tools • GitHub\n\nGenerate viral social & chat mockups in seconds with AI.\n\nDesign Tools • Marketing • Artificial Intelligence\n\nHelping companies easily get the AI tools they need\n\nProductivity • Developer Tools • Artificial Intelligence\n\nGet the best of Product Hunt, directly in your inbox.\n\nSee all of today's products",
+    "with": [
+      "Welcome to Product Hunt!",
+      "For the first 4 hours of the day, we're hiding upvotes to help every product get a chance to catch your interest.",
+      "Sell what you ship, instantly",
+      "Productivity • Developer Tools • GitHub",
+      "Helping companies easily get the AI tools they need"
+    ],
+    "without": [
+      "Best Products",
+      "LaunchesLaunch archiveMost-loved launches by the communityLaunch GuideChecklists and pro tips for launching",
+      "Launch archiveMost-loved launches by the community",
+      "Launch archive",
+      "Most-loved launches by the community"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "listing",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": "2.0",
+  "url": "https://fly.io/",
+  "file_id": "2839",
+  "ground_truth": {
+    "title": "Build fast.Run any codefearlessly.",
+    "author": "",
+    "publish_date": null,
+    "main_content": "Build fast. Run any code fearlessly.\n\nThe platform for devs who just want to ship. Powered by sandboxes that let you deploy any code with confidence.\n\nModern Compute Without the Complexity\n\nFor builders who need compute that keeps up with their ideas, Fly Machines are hardware-virtualized containers that launch instantly and run only when you need them. Deploy an app in minutes or run untrusted code in isolated sandboxes.\n\nSandboxes That Feel Like a Superpower\n\nSpin up hardware-isolated sandboxes for running AI-generated code in complete safety. Every Sprite is a self-contained environment, ready for action in under a second. Checkpoint your entire environment, run anything, and restore if you break something. Pay only for actual CPU and memory consumption, down to the second.\n\nStorage That Keeps Up\n\nFast local NVMe for low-latency work, plus global, durable object storage for data that needs to stick around. Snapshot environments, persist state, and scale storage right alongside your sandboxes.\n\nBuilt-In Private Networking\n\nPrivate networks per sandbox, granular routing, and end-to-end encryption — all automatic.\n- VMs That Do Everything You Need Everything runs on Machines: your apps, agents that scale to millions of users, and AI-generated code.\n\nVMs That Do Everything You Need\n\nEverything runs on Machines: your apps, agents that scale to millions of users, and AI-generated code.\n- Fork Off VMs Like They're Processes Fly Machines start fast enough to handle HTTP requests, run only when you need them, and scale into tens of thousands of instances.\n\nFork Off VMs Like They're Processes\n\nFly Machines start fast enough to handle HTTP requests, run only when you need them, and scale into tens of thousands of instances.\n- Built for Distributed Systems Run clustered databases like Cockroach, globally-distributed Postgres, and modern RPC systems like Elixir FLAME. No Terraform required.\n\nBuilt for Distributed Systems\n\nRun clustered databases like Cockroach, globally-distributed Postgres, and modern RPC systems like Elixir FLAME. No Terraform required.\n- Get Right in Your Users' Faces Deploy in 18 regions, from Sydney to São Paulo. Sub-100ms response times give users that native-app feel, no matter where they are.\n\nGet Right in Your Users' Faces\n\nDeploy in 18 regions, from Sydney to São Paulo. Sub-100ms response times give users that native-app feel, no matter where they are.\n\nUse the Tech You Love\n\nBuild with your favorite framework. No Dockerfile? No problem: our CLI generates containers for most popular frameworks, including Rails, Phoenix, Django, Node, Laravel, and .NET.\n- Phoenix Framework\n- SvelteKit\n- Ruby on Rails\n- Docker\n- Django\n- Laravel\n- NextJS\n\nAgents Run Better on Sprites\n\nYou don't have to be a cloud guru to build scalable agents. Run every instance on its own VM with dedicated CPU, memory, networking, and a private filesystem. Forget wrestling with shared runtimes or noisy neighbors. Get persistent brains when you need them, ephemeral workers when you don't.\n\nTrusted by teams at\n\n- Builder.io\n- Mercor\n- Cogram\n- Mocha\n- Context\n- Reflex\n- Beam\n- Imbue\n- Supabase\n- Webhound\n- Hercules\n\nEnterprise-Ready\n\nApps running on Fly Machines are KVM hardware-isolated, built on a memory-safe stack and running directly on our own metal.\n- Single Sign-On\n- Guaranteed Support Response Times\n- SOC2 Type 2 Attested\n- Memory-safe Rust and Go stack\n- CI/CD Integration\n\nBuild Whatever You Can Think Up (and Give Your Users The Same Power)\n\nFly.io is the platform that gets out of your way, running on the infrastructure that lets you run any code without fear. See how fast you can get started.",
+    "with": [
+      "Run any code fearlessly.",
+      "Spin up hardware-isolated sandboxes for running AI-generated code in complete safety.",
+      "VMs That Do Everything You Need",
+      "Run clustered databases like Cockroach, globally-distributed Postgres, and modern RPC systems like Elixir FLAME.",
+      "Agents Run Better on Sprites"
+    ],
+    "without": [
+      "Open main menu",
+      "Managed Postgres",
+      "Phoenix.new",
+      "Autoscaling",
+      "Zero Downtime Deploys"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

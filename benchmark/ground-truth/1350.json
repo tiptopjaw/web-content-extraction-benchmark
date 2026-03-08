@@ -1,0 +1,32 @@
+{
+  "schema_version": "2.0",
+  "url": "https://forums.mikeholt.com/threads/most-profitable-electrical-skill.37290/",
+  "file_id": "1350",
+  "ground_truth": {
+    "title": "Most profitable electrical skill??",
+    "author": "khixxx",
+    "publish_date": "2007-07-09",
+    "main_content": "This forum discussion explores the most profitable electrical skills in the industry. The original poster asks about skills like Solar, Lightning protection, I&C, Communications, Automation, and Residential construction. Multiple electrical professionals share their perspectives. The consensus among most responders is that troubleshooting skills are the most valuable and profitable, with Jeff Weissman Electric sharing a detailed example of finding a tripped breaker in a hidden Zinsco panel for a millionaire client. bphgravity argues that Design and Consultation is #1, followed by Project Bidding and Private Third-Party Inspection. mdshunk notes that electricians are 'a dime a dozen' but good troubleshooters are rare and worth 'a King's ransom.' solaeros mentions that while troubleshooting skills are valuable, wages for such work often cap at $18-20/hour. Additional topics include the challenges of directing workers, the value of factory maintenance experience, and the importance of identifying root causes in any profession.",
+    "with": [
+      "This forum discussion explores the most profitable electrical skills in the industry."
+    ],
+    "without": [
+      "Log in",
+      "Register",
+      "Home",
+      "Forums",
+      "Search forums"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "forum",
+      "confidence": "medium",
+      "needs_review": true,
+      "review_reason": "imported from pool, needs verification",
+      "tags": [
+        "pool-import"
+      ]
+    }
+  }
+}

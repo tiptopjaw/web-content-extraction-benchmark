@@ -1,0 +1,34 @@
+{
+  "schema_version": "2.0",
+  "url": "https://www.deathwishcoffee.com/collections/coffee",
+  "file_id": "0638",
+  "ground_truth": {
+    "title": "Fair Trade & Organic Coffee",
+    "author": "",
+    "publish_date": null,
+    "main_content": "51 products\n\nChocolate Hazelnut Coffee\n$19.99\n\nChocolate Hazelnut Single-Serve Pods\n$15.99\n\nDark Roast Coffee\n$19.99\n\nDark Roast Single-Serve Pods\n$15.99\n\nCoconut Caramel Single-Serve Pods\n$15.99\n\nVanilla Latte 12-Pack\n$47.88\n\nBlueberry Coffee\n$19.99\n\nBlueberry Single-Serve Pods\n$15.99\n\nEspresso Roast Coffee\n$19.99\n\nEspresso Roast Single-Serve Pods\n$15.99\n\nMocha Latte 12-Pack\n$47.88\n\nVanilla Coffee\n$19.99\n\nVanilla Single-Serve Pods\n$15.99\n\nMedium Roast Coffee\n$19.99\n\nMedium Roast Single-Serve Pods\n$15.99\n\nOriginal Latte 12-Pack\n$47.88\n\nValhalla Java Odinforce Blend\n$19.99\n\nValhalla Java Single-Serve Pods\n$15.99\n\nDouble Indulgence Ground Bundle\n$34.99\n\nDouble Indulgence Single-Serve Pod Bundle\n$29.99",
+    "with": [
+      "51 products",
+      "Chocolate Hazelnut Coffee",
+      "Dark Roast Single-Serve Pods",
+      "Valhalla Java Odinforce Blend",
+      "Double Indulgence Ground Bundle"
+    ],
+    "without": [
+      "SUBSCRIBE + SAVE 40% OFF CANNED LATTES",
+      "GET WIRED WITH US",
+      "End of the road, jack.",
+      "Filter and sort",
+      "Quick Shop"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "collection",
+      "confidence": "high",
+      "needs_review": false,
+      "review_reason": null,
+      "tags": []
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "2.0",
+  "url": "https://miro.com/",
+  "file_id": "2846",
+  "ground_truth": {
+    "title": "Get from brainstorm to breakthrough with Miro",
+    "author": "",
+    "publish_date": null,
+    "main_content": "May 19\n\nCanvas 26 registration is open. Get set to transform how your team builds with AI.\n\nSAVE YOUR SPOT\n\nSan Francisco\n\nFlow from idea to outcome in seconds\n\nINSIGHTS\n\nDATA TABLE\n\nAR City Explorer\n\nTravel App\n\nGroup Planner\n\nAdventure Tracker\n\nWeather Alerts\n\nVisual Reference\n\nCreate a PRD Doc\n\nUntitled doc\n\nPress ‘/’ for options or start writing\n\nChoose a starting template\n\nRetrospective Summary\n\nProduct Brief\n\nResearch Synthesis\n\nMeeting Notes\n\nPROTOTYPE\n\nMiro AI\n\nProduct Marketer\n\nDesign Assistant\n\nMaria\n\nThe only thing more important than moving fast is moving the needle\n\nSee how over 250,000 companies are getting great done in Miro\n\nfaster time to market\n\nshorter planning process\n\nCheck this out\n\n100M+\n\npeople collaborating on Miro\n\napps and integrations\n\n6,000+\n\ntemplates\n\n“Being able to bring everyone together to plan in Miro ultimately means that the most impactful initiatives will happen at the right time – and customers will get the functionality they want.”\n\nLucy Starling\n\nProduct Operations Lead at ASOS\n\nRead Customer Study\n\nLet’s go with this fit for our summer collection\n\nF l o w f r o m i d e a t o o u t c o m e i n s e c o n d s\n\nF l o w\n\nf r o m\n\ni d e a\n\no u t c o m e\n\ns e c o n d s\n\nExperience the Innovation Workspace\n\nSlides\n\nAccelerate your team with collaborative AI workflows\n\nLearn more\n\nIntelligent Canvas\n\nEmpower teamwork on one, infinite, multiplayer canvas\n\nFormats\n\nMove quickly from ideas to structured plans and work with Docs, Tables, Slides, Diagrams and more\n\nBlueprints\n\nAutomate key processes and ensure your workflows are scalable, repeatable, and efficient\n\nEnterprise Security & Scale\n\nSecure and scalable collaboration on an enterprise-grade platform you can trust\n\nIntegrations\n\nConnects with 250+ apps so teams stay aligned and productive in one scalable, secure workspace.\n\nIntroducing Miro for Product Acceleration\n\nBreak free from tool boundaries. Align faster. And ship what customers actually need—in one AI workspace.\n\nExplore the solution\n\nNeed help getting started?\n\nPricing\n\nSelect a plan\n\nTemplates\n\nGet started fast\n\nSolution Partners\n\nExplore the network\n\nCommunity\n\nConnect with Miro users\n\nDive in to ways of working\n\nAcademy\n\nGet started with Miro\n\nProduct\n\nOnline whiteboard\n\nApps & Integrations\n\nMiroverse\n\nMiro Developer Platform\n\nMiro for Devices\n\nEnterprise Guard\n\nAccessibility\n\nChangelog\n\nSolutions\n\nMeetings and Workshops\n\nBrainstorming & Ideation\n\nAgile practices\n\nDiagramming\n\nResearch & Design\n\nStrategy & Planning\n\nMind Map\n\nConcept Map\n\nOnline Sticky Notes\n\nFlowchart Maker\n\nWireframe\n\nResources\n\nMiro Academy\n\nHelp Center\n\nStatus\n\nMiro Community\n\nMiro Events\n\nMiro Security\n\nCompany\n\nAbout us\n\nCareers 🚀\n\nMiro in the News\n\nCustomer Stories\n\nPlans and Pricing\n\nBusiness\n\nEnterprise\n\nConsultants\n\nEducation\n\nStartups\n\nContact sales →\n\nEnglish",
+    "with": [
+      "Canvas 26 registration is open.",
+      "See how over 250,000 companies are getting great done in Miro",
+      "Product Operations Lead at ASOS",
+      "Move quickly from ideas to structured plans and work with Docs, Tables, Slides, Diagrams and more",
+      "Break free from tool boundaries."
+    ],
+    "without": [
+      "AI Innovation Workspace",
+      "AIAI OverviewAI WorkflowsYour AI & KnowledgeMCPAI Playbooks",
+      "AI OverviewAI WorkflowsYour AI & KnowledgeMCPAI Playbooks",
+      "AI Overview"
+    ]
+  },
+  "_internal": {
+    "page_type": {
+      "primary": "service",
+      "confidence": "high",
+      "needs_review": true,
+      "review_reason": "newly fetched, needs GT annotation",
+      "tags": [
+        "web-sourced"
+      ]
+    }
+  }
+}

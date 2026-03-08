@@ -1,0 +1,639 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Benchmark Annotation Tool</title>
+<style>
+:root {
+  --bg: #1e1e2e; --surface: #272738; --elevated: #313145;
+  --border: #444; --text: #e0e0e0; --muted: #999;
+  --primary: #7c6aef; --approved: #4ade80; --flagged: #fbbf24;
+  --skipped: #94a3b8; --pending: #555; --removed: #ef4444;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'SF Mono', 'Consolas', 'Monaco', monospace; font-size: 13px;
+  background: var(--bg); color: var(--text); height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
+a { color: var(--primary); }
+
+/* Header */
+header { background: var(--surface); border-bottom: 1px solid var(--border); padding: 8px 16px;
+  display: flex; align-items: center; gap: 12px; flex-shrink: 0; }
+header .nav-group { display: flex; align-items: center; gap: 6px; }
+header button { background: var(--elevated); color: var(--text); border: 1px solid var(--border);
+  padding: 4px 12px; border-radius: 4px; cursor: pointer; font-family: inherit; font-size: 12px; }
+header button:hover { background: var(--primary); border-color: var(--primary); }
+header .file-info { font-weight: bold; min-width: 180px; text-align: center; }
+header .url { color: var(--muted); font-size: 11px; overflow: hidden; text-overflow: ellipsis;
+  white-space: nowrap; flex: 1; }
+header .jump { display: flex; align-items: center; gap: 4px; }
+header .jump input { width: 60px; background: var(--elevated); border: 1px solid var(--border);
+  color: var(--text); padding: 4px 6px; border-radius: 4px; font-family: inherit; font-size: 12px; }
+.filter-group { display: flex; align-items: center; gap: 4px; }
+.filter-group select { background: var(--elevated); border: 1px solid var(--border); color: var(--text);
+  padding: 4px 6px; border-radius: 4px; font-family: inherit; font-size: 12px; }
+
+/* Progress bar */
+.progress-bar { height: 4px; display: flex; flex-shrink: 0; background: var(--bg); }
+.progress-bar .seg { height: 100%; transition: width 0.3s; }
+.progress-bar .seg-approved { background: var(--approved); }
+.progress-bar .seg-flagged { background: var(--flagged); }
+.progress-bar .seg-skipped { background: var(--skipped); }
+.progress-bar .seg-pending { background: var(--pending); }
+
+/* Stats line */
+.stats { background: var(--surface); padding: 4px 16px; font-size: 11px; display: flex;
+  gap: 16px; flex-shrink: 0; border-bottom: 1px solid var(--border); }
+.stats .stat { display: flex; align-items: center; gap: 4px; }
+.stats .dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; }
+
+/* Main split */
+main { flex: 1; display: flex; overflow: hidden; }
+
+/* Page panel */
+#page-panel { flex: 3; display: flex; flex-direction: column; border-right: 2px solid var(--border); }
+#page-panel .panel-header { padding: 6px 12px; background: var(--surface); border-bottom: 1px solid var(--border);
+  font-size: 11px; color: var(--muted); display: flex; justify-content: space-between; align-items: center; }
+#page-frame { flex: 1; border: none; background: white; }
+
+/* Annotation panel */
+#anno-panel { flex: 2; display: flex; flex-direction: column; overflow: hidden; }
+#anno-panel .panel-header { padding: 6px 12px; background: var(--surface); border-bottom: 1px solid var(--border);
+  font-size: 11px; color: var(--muted); display: flex; justify-content: space-between; align-items: center; }
+.anno-body { flex: 1; overflow-y: auto; padding: 12px; }
+.field-group { margin-bottom: 12px; }
+.field-label { font-size: 11px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.5px;
+  margin-bottom: 4px; display: flex; justify-content: space-between; align-items: center; }
+.field-row { display: flex; gap: 8px; }
+.field-row .field-group { flex: 1; }
+input.field, textarea.field { width: 100%; background: var(--elevated); border: 1px solid var(--border);
+  color: var(--text); padding: 6px 8px; border-radius: 4px; font-family: inherit; font-size: 12px;
+  resize: vertical; }
+input.field:focus, textarea.field:focus { border-color: var(--primary); outline: none; }
+textarea.field { min-height: 120px; line-height: 1.5; }
+.char-count { font-size: 10px; color: var(--muted); }
+
+/* Snippet lists */
+.snippet-list { list-style: none; }
+.snippet-item { display: flex; align-items: flex-start; gap: 6px; padding: 4px 0;
+  border-bottom: 1px solid var(--border); }
+.snippet-item .snippet-text { flex: 1; font-size: 12px; line-height: 1.4; word-break: break-word; }
+.snippet-item .snippet-remove { background: none; border: none; color: #e55; cursor: pointer;
+  font-size: 14px; line-height: 1; padding: 2px; flex-shrink: 0; }
+.snippet-item .snippet-remove:hover { color: #f88; }
+.snippet-actions { display: flex; gap: 6px; margin-top: 6px; }
+.snippet-actions button { background: var(--elevated); border: 1px solid var(--border); color: var(--text);
+  padding: 3px 8px; border-radius: 3px; cursor: pointer; font-size: 11px; font-family: inherit; }
+.snippet-actions button:hover { border-color: var(--primary); }
+
+/* Add snippet inline */
+.snippet-add-row { display: flex; gap: 4px; margin-top: 6px; }
+.snippet-add-row input { flex: 1; background: var(--elevated); border: 1px solid var(--border);
+  color: var(--text); padding: 4px 6px; border-radius: 3px; font-size: 12px; font-family: inherit; }
+.snippet-add-row button { background: var(--primary); border: none; color: white; padding: 4px 10px;
+  border-radius: 3px; cursor: pointer; font-size: 12px; }
+
+/* Page type badge */
+.badge { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 10px;
+  text-transform: uppercase; letter-spacing: 0.5px; }
+.badge-type { background: #2d4a7a; color: #8bb8f0; }
+.badge-status { font-weight: bold; }
+.badge-approved { background: #1a3a1a; color: var(--approved); }
+.badge-flagged { background: #3a3a1a; color: var(--flagged); }
+.badge-skipped { background: #2a2a2a; color: var(--skipped); }
+.badge-pending { background: #2a2a2a; color: var(--muted); }
+
+/* Action bar */
+.action-bar { background: var(--surface); border-top: 1px solid var(--border); padding: 10px 16px;
+  display: flex; align-items: center; justify-content: center; gap: 10px; flex-shrink: 0; }
+.action-btn { padding: 8px 24px; border: 2px solid; border-radius: 6px; cursor: pointer;
+  font-family: inherit; font-size: 13px; font-weight: bold; transition: all 0.15s; }
+.action-btn:hover { transform: translateY(-1px); }
+.btn-approve { background: #1a3a1a; border-color: var(--approved); color: var(--approved); }
+.btn-approve:hover { background: #2a4a2a; }
+.btn-flag { background: #3a3a1a; border-color: var(--flagged); color: var(--flagged); }
+.btn-flag:hover { background: #4a4a2a; }
+.btn-skip { background: var(--elevated); border-color: var(--skipped); color: var(--skipped); }
+.btn-skip:hover { background: #3a3a4a; }
+.btn-remove { background: #2a1a1a; border-color: var(--removed); color: var(--removed); }
+.btn-remove:hover { background: #3a2020; }
+.shortcut-hints { font-size: 11px; color: var(--muted); text-align: center; margin-top: 4px; }
+
+/* Flag note */
+.flag-note-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.6);
+  z-index: 100; align-items: center; justify-content: center; }
+.flag-note-overlay.visible { display: flex; }
+.flag-note-box { background: var(--surface); border: 1px solid var(--border); border-radius: 8px;
+  padding: 20px; width: 400px; }
+.flag-note-box h3 { margin-bottom: 10px; }
+.flag-note-box textarea { width: 100%; height: 80px; background: var(--elevated); border: 1px solid var(--border);
+  color: var(--text); padding: 8px; border-radius: 4px; font-family: inherit; margin-bottom: 10px; }
+.flag-note-box .btns { display: flex; gap: 8px; justify-content: flex-end; }
+.flag-note-box button { padding: 6px 16px; border-radius: 4px; border: 1px solid var(--border);
+  cursor: pointer; font-family: inherit; background: var(--elevated); color: var(--text); }
+.flag-note-box button.primary { background: var(--flagged); color: #000; border-color: var(--flagged); }
+
+/* Loading */
+.loading { display: flex; align-items: center; justify-content: center; height: 100%;
+  color: var(--muted); font-size: 14px; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="nav-group">
+    <button onclick="nav(-1)" title="Previous (Left arrow)">&#9664; Prev</button>
+    <div class="file-info" id="file-info">Loading...</div>
+    <button onclick="nav(1)" title="Next (Right arrow)">Next &#9654;</button>
+  </div>
+  <span class="url" id="file-url"></span>
+  <div class="filter-group">
+    <label style="font-size:11px;color:var(--muted)">Show:</label>
+    <select id="filter-select" onchange="applyFilter()">
+      <option value="all">All</option>
+      <option value="pending">Pending</option>
+      <option value="approved">Approved</option>
+      <option value="flagged">Flagged</option>
+      <option value="skipped">Skipped</option>
+    </select>
+  </div>
+  <div class="jump">
+    <input id="jump-input" placeholder="ID..." onkeydown="if(event.key==='Enter')jumpTo()">
+    <button onclick="jumpTo()">Go</button>
+  </div>
+</header>
+
+<div class="progress-bar" id="progress-bar">
+  <div class="seg seg-approved" id="seg-approved"></div>
+  <div class="seg seg-flagged" id="seg-flagged"></div>
+  <div class="seg seg-skipped" id="seg-skipped"></div>
+  <div class="seg seg-pending" id="seg-pending"></div>
+</div>
+
+<div class="stats" id="stats-bar"></div>
+
+<main>
+  <div id="page-panel">
+    <div class="panel-header">
+      <span>Rendered Page</span>
+      <span id="page-type-badge"></span>
+    </div>
+    <iframe id="page-frame" sandbox="allow-same-origin"></iframe>
+  </div>
+
+  <div id="anno-panel">
+    <div class="panel-header">
+      <span>Ground Truth Annotation</span>
+      <span id="status-badge"></span>
+    </div>
+    <div class="anno-body" id="anno-body">
+      <div class="field-group">
+        <div class="field-label">Title</div>
+        <input class="field" id="f-title">
+      </div>
+      <div class="field-row">
+        <div class="field-group">
+          <div class="field-label">Author</div>
+          <input class="field" id="f-author">
+        </div>
+        <div class="field-group">
+          <div class="field-label">Date</div>
+          <input class="field" id="f-date" placeholder="YYYY-MM-DD">
+        </div>
+      </div>
+      <div class="field-group">
+        <div class="field-label">
+          <span>Main Content</span>
+          <span class="char-count" id="content-stats"></span>
+        </div>
+        <textarea class="field" id="f-content" rows="10" oninput="updateContentStats()"></textarea>
+      </div>
+      <div class="field-group">
+        <div class="field-label">
+          <span>Must Include (with) &mdash; <span id="with-count">0</span> snippets</span>
+        </div>
+        <ul class="snippet-list" id="with-list"></ul>
+        <div class="snippet-actions">
+          <button onclick="addSnippetFromPage('with')">+ From Page Selection</button>
+          <button onclick="showAddSnippet('with')">+ Type New</button>
+        </div>
+        <div class="snippet-add-row" id="with-add-row" style="display:none">
+          <input id="with-add-input" placeholder="Type snippet text...">
+          <button onclick="confirmAddSnippet('with')">Add</button>
+        </div>
+      </div>
+      <div class="field-group">
+        <div class="field-label">
+          <span>Must Exclude (without) &mdash; <span id="without-count">0</span> snippets</span>
+        </div>
+        <ul class="snippet-list" id="without-list"></ul>
+        <div class="snippet-actions">
+          <button onclick="addSnippetFromPage('without')">+ From Page Selection</button>
+          <button onclick="showAddSnippet('without')">+ Type New</button>
+        </div>
+        <div class="snippet-add-row" id="without-add-row" style="display:none">
+          <input id="without-add-input" placeholder="Type snippet text...">
+          <button onclick="confirmAddSnippet('without')">Add</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="action-bar">
+      <button class="action-btn btn-approve" onclick="doAction('approved')">&#10003; Approve (A)</button>
+      <button class="action-btn btn-flag" onclick="showFlagDialog()">&#9873; Flag (F)</button>
+      <button class="action-btn btn-skip" onclick="doAction('skipped')">&#9654; Skip (S)</button>
+      <button class="action-btn btn-remove" onclick="confirmRemove()">&#10005; Remove (X)</button>
+    </div>
+    <div class="shortcut-hints">A = Approve &nbsp; F = Flag &nbsp; S = Skip &nbsp; X = Remove &nbsp; &#8592;/&#8594; = Navigate</div>
+  </div>
+</main>
+
+<!-- Flag note dialog -->
+<div class="flag-note-overlay" id="flag-dialog">
+  <div class="flag-note-box">
+    <h3>Flag this file</h3>
+    <textarea id="flag-note" placeholder="Optional: describe the issue..."></textarea>
+    <div class="btns">
+      <button onclick="closeFlagDialog()">Cancel</button>
+      <button class="primary" onclick="confirmFlag()">Flag It</button>
+    </div>
+  </div>
+</div>
+
+<script>
+/* ─── State ─── */
+let allFiles = [];       // full list from server
+let filteredFiles = [];  // after filter applied
+let currentIdx = 0;      // index into filteredFiles
+let currentGT = null;    // current ground truth data
+let withSnippets = [];
+let withoutSnippets = [];
+let progress = {};
+
+/* ─── Init ─── */
+async function init() {
+  const [filesResp, progResp] = await Promise.all([
+    fetch('/api/files').then(r => r.json()),
+    fetch('/api/progress').then(r => r.json()),
+  ]);
+  allFiles = filesResp;
+  progress = progResp;
+  applyFilter();
+  updateProgress();
+  if (filteredFiles.length > 0) loadFile(0);
+}
+
+/* ─── Filter & Navigation ─── */
+function applyFilter() {
+  const f = document.getElementById('filter-select').value;
+  if (f === 'all') {
+    filteredFiles = [...allFiles];
+  } else {
+    filteredFiles = allFiles.filter(x => x.status === f);
+  }
+  currentIdx = 0;
+  if (filteredFiles.length > 0) {
+    loadFile(0);
+  } else {
+    document.getElementById('file-info').textContent = `No ${f} files`;
+    document.getElementById('page-frame').src = 'about:blank';
+    document.getElementById('anno-body').innerHTML = '<div class="loading">No files match this filter</div>';
+  }
+}
+
+function nav(dir) {
+  const newIdx = currentIdx + dir;
+  if (newIdx >= 0 && newIdx < filteredFiles.length) {
+    loadFile(newIdx);
+  }
+}
+
+function jumpTo() {
+  const id = document.getElementById('jump-input').value.trim().padStart(4, '0');
+  const idx = filteredFiles.findIndex(f => f.id === id);
+  if (idx >= 0) {
+    loadFile(idx);
+  } else {
+    // try in allFiles
+    const allIdx = allFiles.findIndex(f => f.id === id);
+    if (allIdx >= 0) {
+      document.getElementById('filter-select').value = 'all';
+      filteredFiles = [...allFiles];
+      loadFile(allIdx);
+    }
+  }
+  document.getElementById('jump-input').value = '';
+}
+
+/* ─── Load File ─── */
+async function loadFile(idx) {
+  currentIdx = idx;
+  const file = filteredFiles[idx];
+  if (!file) return;
+
+  document.getElementById('file-info').textContent =
+    `${file.id} (${idx + 1}/${filteredFiles.length})`;
+  document.getElementById('file-url').textContent = file.url;
+  document.getElementById('file-url').title = file.url;
+  document.getElementById('page-type-badge').innerHTML =
+    file.page_type ? `<span class="badge badge-type">${file.page_type}</span>` : '';
+
+  // Status badge
+  const sb = document.getElementById('status-badge');
+  sb.innerHTML = `<span class="badge badge-${file.status}">${file.status}</span>`;
+
+  // Load HTML in iframe
+  document.getElementById('page-frame').src = `/api/file/${file.id}/html`;
+
+  // Load ground truth (prefer verified version if it has GT data)
+  let loaded = false;
+  try {
+    const vResp = await fetch(`/api/file/${file.id}/verified`);
+    if (vResp.ok) {
+      const verified = await vResp.json();
+      if (verified.ground_truth) {
+        currentGT = verified.ground_truth;
+        populateFields(currentGT);
+        loaded = true;
+      }
+    }
+  } catch(e) {}
+
+  if (!loaded) {
+    const gtResp = await fetch(`/api/file/${file.id}/gt`);
+    if (gtResp.ok) {
+      const gt = await gtResp.json();
+      currentGT = gt.ground_truth || gt;
+      populateFields(currentGT);
+    }
+  }
+}
+
+/* ─── Populate Fields ─── */
+function populateFields(gt) {
+  document.getElementById('f-title').value = gt.title || '';
+  document.getElementById('f-author').value = gt.author || '';
+  document.getElementById('f-date').value = gt.publish_date || '';
+  document.getElementById('f-content').value = gt.main_content || '';
+  updateContentStats();
+
+  withSnippets = [...(gt.with || [])];
+  withoutSnippets = [...(gt.without || [])];
+  renderSnippets('with');
+  renderSnippets('without');
+
+  // Hide add rows
+  document.getElementById('with-add-row').style.display = 'none';
+  document.getElementById('without-add-row').style.display = 'none';
+
+  // Scroll annotation panel to top
+  document.getElementById('anno-body').scrollTop = 0;
+}
+
+function updateContentStats() {
+  const text = document.getElementById('f-content').value;
+  const chars = text.length;
+  const words = text.trim() ? text.trim().split(/\s+/).length : 0;
+  document.getElementById('content-stats').textContent = `${words} words / ${chars} chars`;
+}
+
+/* ─── Snippets ─── */
+function renderSnippets(type) {
+  const list = type === 'with' ? withSnippets : withoutSnippets;
+  const el = document.getElementById(`${type}-list`);
+  document.getElementById(`${type}-count`).textContent = list.length;
+
+  el.innerHTML = '';
+  list.forEach((text, i) => {
+    const li = document.createElement('li');
+    li.className = 'snippet-item';
+    li.innerHTML = `
+      <span class="snippet-text">${escHtml(text)}</span>
+      <button class="snippet-remove" onclick="removeSnippet('${type}', ${i})" title="Remove">&times;</button>
+    `;
+    el.appendChild(li);
+  });
+}
+
+function removeSnippet(type, idx) {
+  if (type === 'with') { withSnippets.splice(idx, 1); }
+  else { withoutSnippets.splice(idx, 1); }
+  renderSnippets(type);
+}
+
+function showAddSnippet(type) {
+  const row = document.getElementById(`${type}-add-row`);
+  row.style.display = row.style.display === 'none' ? 'flex' : 'none';
+  if (row.style.display === 'flex') {
+    document.getElementById(`${type}-add-input`).focus();
+  }
+}
+
+function confirmAddSnippet(type) {
+  const input = document.getElementById(`${type}-add-input`);
+  const text = input.value.trim();
+  if (!text) return;
+  if (type === 'with') { withSnippets.push(text); }
+  else { withoutSnippets.push(text); }
+  input.value = '';
+  document.getElementById(`${type}-add-row`).style.display = 'none';
+  renderSnippets(type);
+}
+
+function addSnippetFromPage(type) {
+  try {
+    const iframe = document.getElementById('page-frame');
+    const iDoc = iframe.contentDocument || iframe.contentWindow.document;
+    const sel = iDoc.getSelection();
+    const text = sel ? sel.toString().trim() : '';
+    if (!text) { alert('Select some text in the page first'); return; }
+    if (type === 'with') { withSnippets.push(text); }
+    else { withoutSnippets.push(text); }
+    renderSnippets(type);
+  } catch(e) {
+    alert('Cannot read page selection. The page may have cross-origin restrictions.');
+  }
+}
+
+/* ─── Actions ─── */
+async function doAction(status) {
+  const file = filteredFiles[currentIdx];
+  if (!file) return;
+
+  const payload = {
+    status: status,
+    ground_truth: {
+      title: document.getElementById('f-title').value,
+      author: document.getElementById('f-author').value || null,
+      publish_date: document.getElementById('f-date').value || null,
+      main_content: document.getElementById('f-content').value,
+      with: withSnippets,
+      without: withoutSnippets,
+    },
+    original_url: file.url,
+    file_id: file.id,
+  };
+
+  // For skip, don't save ground truth data
+  if (status === 'skipped') {
+    payload.ground_truth = null;
+  }
+
+  await fetch(`/api/file/${file.id}/verify`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(payload),
+  });
+
+  // Update local state
+  file.status = status;
+  const allFile = allFiles.find(f => f.id === file.id);
+  if (allFile) allFile.status = status;
+
+  updateProgress();
+
+  // Auto-advance to next pending
+  const filter = document.getElementById('filter-select').value;
+  if (filter === 'pending') {
+    // Remove from filtered list and stay at same index
+    filteredFiles.splice(currentIdx, 1);
+    if (currentIdx >= filteredFiles.length) currentIdx = filteredFiles.length - 1;
+    if (filteredFiles.length > 0) {
+      loadFile(currentIdx);
+    } else {
+      document.getElementById('file-info').textContent = 'All done!';
+      document.getElementById('page-frame').src = 'about:blank';
+    }
+  } else {
+    // Advance to next
+    if (currentIdx < filteredFiles.length - 1) {
+      loadFile(currentIdx + 1);
+    }
+  }
+}
+
+/* ─── Remove ─── */
+async function confirmRemove() {
+  const file = filteredFiles[currentIdx];
+  if (!file) return;
+  if (!confirm(`Remove file ${file.id} from the benchmark set? This removes it from the sample entirely.`)) return;
+
+  await fetch(`/api/file/${file.id}/remove`, { method: 'POST' });
+
+  // Remove from both lists
+  allFiles = allFiles.filter(f => f.id !== file.id);
+  filteredFiles.splice(currentIdx, 1);
+  if (currentIdx >= filteredFiles.length) currentIdx = filteredFiles.length - 1;
+
+  updateProgress();
+  if (filteredFiles.length > 0) {
+    loadFile(currentIdx);
+  } else {
+    document.getElementById('file-info').textContent = 'No files left';
+    document.getElementById('page-frame').src = 'about:blank';
+  }
+}
+
+/* ─── Flag Dialog ─── */
+function showFlagDialog() {
+  document.getElementById('flag-dialog').classList.add('visible');
+  document.getElementById('flag-note').value = '';
+  document.getElementById('flag-note').focus();
+}
+
+function closeFlagDialog() {
+  document.getElementById('flag-dialog').classList.remove('visible');
+}
+
+async function confirmFlag() {
+  closeFlagDialog();
+  const file = filteredFiles[currentIdx];
+  if (!file) return;
+
+  const note = document.getElementById('flag-note').value.trim();
+
+  const payload = {
+    status: 'flagged',
+    flag_note: note || null,
+    ground_truth: {
+      title: document.getElementById('f-title').value,
+      author: document.getElementById('f-author').value || null,
+      publish_date: document.getElementById('f-date').value || null,
+      main_content: document.getElementById('f-content').value,
+      with: withSnippets,
+      without: withoutSnippets,
+    },
+    original_url: file.url,
+    file_id: file.id,
+  };
+
+  await fetch(`/api/file/${file.id}/verify`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(payload),
+  });
+
+  file.status = 'flagged';
+  const allFile = allFiles.find(f => f.id === file.id);
+  if (allFile) allFile.status = 'flagged';
+
+  updateProgress();
+
+  if (currentIdx < filteredFiles.length - 1) {
+    loadFile(currentIdx + 1);
+  }
+}
+
+/* ─── Progress ─── */
+function updateProgress() {
+  const counts = { approved: 0, flagged: 0, skipped: 0, pending: 0 };
+  allFiles.forEach(f => {
+    counts[f.status] = (counts[f.status] || 0) + 1;
+  });
+  const total = allFiles.length || 1;
+
+  document.getElementById('seg-approved').style.width = (counts.approved / total * 100) + '%';
+  document.getElementById('seg-flagged').style.width = (counts.flagged / total * 100) + '%';
+  document.getElementById('seg-skipped').style.width = (counts.skipped / total * 100) + '%';
+  document.getElementById('seg-pending').style.width = (counts.pending / total * 100) + '%';
+
+  document.getElementById('stats-bar').innerHTML = `
+    <span class="stat"><span class="dot" style="background:var(--approved)"></span> ${counts.approved} approved</span>
+    <span class="stat"><span class="dot" style="background:var(--flagged)"></span> ${counts.flagged} flagged</span>
+    <span class="stat"><span class="dot" style="background:var(--skipped)"></span> ${counts.skipped} skipped</span>
+    <span class="stat"><span class="dot" style="background:var(--pending)"></span> ${counts.pending} pending</span>
+    <span class="stat" style="margin-left:auto">${total} total</span>
+  `;
+}
+
+/* ─── Keyboard Shortcuts ─── */
+document.addEventListener('keydown', (e) => {
+  // Skip if user is typing in an input/textarea
+  if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA' || e.target.tagName === 'SELECT') return;
+  // Skip if flag dialog is open
+  if (document.getElementById('flag-dialog').classList.contains('visible')) {
+    if (e.key === 'Escape') closeFlagDialog();
+    return;
+  }
+
+  switch(e.key.toLowerCase()) {
+    case 'a': doAction('approved'); break;
+    case 'f': showFlagDialog(); break;
+    case 's': doAction('skipped'); break;
+    case 'x': confirmRemove(); break;
+    case 'arrowleft': nav(-1); break;
+    case 'arrowright': nav(1); break;
+  }
+});
+
+/* ─── Helpers ─── */
+function escHtml(s) {
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+/* ─── Start ─── */
+init();
+</script>
+</body>
+</html>

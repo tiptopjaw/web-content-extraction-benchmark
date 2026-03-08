@@ -1,0 +1,1 @@
+/home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/rust-extractors/target/release/nano-extract: /home/slimbook/web-content-extraction-benchmark/web-content-extraction-benchmark/rust-extractors/nanohtml2text-cli/src/main.rs
